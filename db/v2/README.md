@@ -5,7 +5,7 @@
                  │             │
                  v             v
               ┌───────────────────┐
-              │ users/myUser.json │<───────────┐
+              │ users/myuser.json │<───────────┐
               └────────────────┬──┘ │─┐        │
                 └──────────────│────┘ │        │                    ╔════════╗
                   └────┬───────│──────┘        │                    ║ GitHub ║
@@ -32,7 +32,7 @@
                                  │
                                  v
                       ┌──────────────────────┐
-                      │ contribs/myUser.json │─┐
+                      │ contribs/myuser.json │─┐
                       └──────────────────────┘ │─┐
                         └──────────────────────┘ │
                           └──────────────────────┘
@@ -52,6 +52,7 @@
   * `fetchRepoSettings()`
   * `markRepoAsFullyFetched()`
 * `calculateContribs.js`
+  * strip deleted users
   * `calculateUserContribsScores()`
   * `fetchUserContribsOrgs()`
 * `fetchOrgs.js`

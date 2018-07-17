@@ -1,0 +1,349 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See README.md",
+  "fetched_at": "2018-07-17T06:00:02.753Z",
+  "repos": {
+    "avidLearnerInProgress/design-patterns": {
+      "full_name": "avidLearnerInProgress/design-patterns"
+    },
+    "avidLearnerInProgress/python-automation-scripts": {
+      "full_name": "avidLearnerInProgress/python-automation-scripts",
+      "popularity": 2.3636508993380505,
+      "percentage": 100,
+      "maturity": 2.1509431413585514,
+      "total_commits_count": 54,
+      "activity": 5,
+      "total_score": 47.12030067212591,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/pyCAIR": {
+      "full_name": "avidLearnerInProgress/pyCAIR",
+      "popularity": 3.0457531124124166,
+      "percentage": 100,
+      "maturity": 2.8153146453382947,
+      "total_commits_count": 105,
+      "activity": 5,
+      "total_score": 59.362679089275254,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/neural-style-transfer": {
+      "full_name": "avidLearnerInProgress/neural-style-transfer"
+    },
+    "avidLearnerInProgress/drowsiness-detection": {
+      "full_name": "avidLearnerInProgress/drowsiness-detection"
+    },
+    "avidLearnerInProgress/cnn_using_numpy": {
+      "full_name": "avidLearnerInProgress/cnn_using_numpy"
+    },
+    "avidLearnerInProgress/image_caption_generator": {
+      "full_name": "avidLearnerInProgress/image_caption_generator"
+    },
+    "avidLearnerInProgress/minimal_implementations": {
+      "full_name": "avidLearnerInProgress/minimal_implementations"
+    },
+    "avidLearnerInProgress/rnn_using_numpy": {
+      "full_name": "avidLearnerInProgress/rnn_using_numpy"
+    },
+    "avidLearnerInProgress/neural-network-practice": {
+      "full_name": "avidLearnerInProgress/neural-network-practice",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 5,
+      "activity": 1.6979685724615394,
+      "total_score": 1.6979685724615394,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/certificates_all": {
+      "full_name": "avidLearnerInProgress/certificates_all"
+    },
+    "avidLearnerInProgress/internship_tasks": {
+      "full_name": "avidLearnerInProgress/internship_tasks"
+    },
+    "avidLearnerInProgress/plotly-flask": {
+      "full_name": "avidLearnerInProgress/plotly-flask",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 4,
+      "activity": 1.630486713136671,
+      "total_score": 1.630486713136671,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/keras_basic": {
+      "full_name": "avidLearnerInProgress/keras_basic"
+    },
+    "avidLearnerInProgress/sudoku-solver-openCV-python": {
+      "full_name": "avidLearnerInProgress/sudoku-solver-openCV-python",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 18,
+      "activity": 1.6046161727293167,
+      "total_score": 1.6046161727293167,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/hand-gesture-recognition": {
+      "full_name": "avidLearnerInProgress/hand-gesture-recognition",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 16,
+      "activity": 1.5693664479369929,
+      "total_score": 1.5693664479369929,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/OpenCV-practice": {
+      "full_name": "avidLearnerInProgress/OpenCV-practice",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 7,
+      "activity": 1.560603011426314,
+      "total_score": 1.560603011426314,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/amazon-apparel-recommendation": {
+      "full_name": "avidLearnerInProgress/amazon-apparel-recommendation",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 1,
+      "activity": 1.5065622833743726,
+      "total_score": 1.5065622833743726,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/todo-notes-api": {
+      "full_name": "avidLearnerInProgress/todo-notes-api",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 19,
+      "activity": 1.4797960415523215,
+      "total_score": 1.4797960415523215,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/markdown-editor": {
+      "full_name": "avidLearnerInProgress/markdown-editor",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 1,
+      "activity": 1.4878093975409152,
+      "total_score": 1.4878093975409152,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/pomodoro-clock": {
+      "full_name": "avidLearnerInProgress/pomodoro-clock",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 5,
+      "activity": 1.4294988857285649,
+      "total_score": 1.4294988857285649,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/freeCodeCampProjects": {
+      "full_name": "avidLearnerInProgress/freeCodeCampProjects",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 6,
+      "activity": 1.4364330617654542,
+      "total_score": 1.4364330617654542,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/node-contacts-app": {
+      "full_name": "avidLearnerInProgress/node-contacts-app",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 3,
+      "activity": 1.4397063050777654,
+      "total_score": 1.4397063050777654,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/notes-app": {
+      "full_name": "avidLearnerInProgress/notes-app",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 3,
+      "activity": 1.407635231602753,
+      "total_score": 1.407635231602753,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/node-weather-app": {
+      "full_name": "avidLearnerInProgress/node-weather-app",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 1.4076545069563697,
+      "total_score": 1.4076545069563697,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/node-web-server": {
+      "full_name": "avidLearnerInProgress/node-web-server",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 5,
+      "activity": 1.4004452219849002,
+      "total_score": 1.4004452219849002,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/MaterialDesignCaclulator": {
+      "full_name": "avidLearnerInProgress/MaterialDesignCaclulator",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 6,
+      "activity": 1.4012578781045608,
+      "total_score": 1.4012578781045608,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/url-shortener-api": {
+      "full_name": "avidLearnerInProgress/url-shortener-api",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 4,
+      "activity": 1.3978277822672691,
+      "total_score": 1.3978277822672691,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/twitch-status-viewer": {
+      "full_name": "avidLearnerInProgress/twitch-status-viewer",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 5,
+      "activity": 1.3888376178934347,
+      "total_score": 1.3888376178934347,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/wikipedia-viewer": {
+      "full_name": "avidLearnerInProgress/wikipedia-viewer",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 4,
+      "activity": 1.358674879442567,
+      "total_score": 1.358674879442567,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/angularjs-practice-codes": {
+      "full_name": "avidLearnerInProgress/angularjs-practice-codes",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 1.3586591185414965,
+      "total_score": 1.3586591185414965,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/Weather-app": {
+      "full_name": "avidLearnerInProgress/Weather-app",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 1,
+      "activity": 1.33707776067815,
+      "total_score": 1.33707776067815,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/randomQuoteGenerator": {
+      "full_name": "avidLearnerInProgress/randomQuoteGenerator",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 4,
+      "activity": 1.337098732236655,
+      "total_score": 1.337098732236655,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/motivational-images-fromQuora": {
+      "full_name": "avidLearnerInProgress/motivational-images-fromQuora"
+    },
+    "avidLearnerInProgress/TicTacToeAI": {
+      "full_name": "avidLearnerInProgress/TicTacToeAI",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 1.3189167567776567,
+      "total_score": 1.3189167567776567,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/avidLearnerInProgress.github.io": {
+      "full_name": "avidLearnerInProgress/avidLearnerInProgress.github.io",
+      "popularity": 1.8512968868523627,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 2.2676778908656847,
+      "total_score": 31.888428080503488,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/minimal-TodoList": {
+      "full_name": "avidLearnerInProgress/minimal-TodoList",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 1,
+      "activity": 1.3220027173810656,
+      "total_score": 1.3220027173810656,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/akashSketches": {
+      "full_name": "avidLearnerInProgress/akashSketches"
+    },
+    "avidLearnerInProgress/mySmartContracts": {
+      "full_name": "avidLearnerInProgress/mySmartContracts"
+    },
+    "avidLearnerInProgress/Machine-Learning": {
+      "full_name": "avidLearnerInProgress/Machine-Learning"
+    },
+    "avidLearnerInProgress/cryptocurrency-and-blockchain-resources": {
+      "full_name": "avidLearnerInProgress/cryptocurrency-and-blockchain-resources"
+    },
+    "avidLearnerInProgress/placementPreparation": {
+      "full_name": "avidLearnerInProgress/placementPreparation",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 3,
+      "activity": 1.0238918042445184,
+      "total_score": 1.0238918042445184,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": []
+}

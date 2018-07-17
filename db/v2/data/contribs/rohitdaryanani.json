@@ -1,0 +1,234 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See README.md",
+  "fetched_at": "2018-07-17T06:00:02.753Z",
+  "repos": {
+    "rohitdaryanani/horangi": {
+      "full_name": "rohitdaryanani/horangi"
+    },
+    "rohitdaryanani/incube8-react-template": {
+      "full_name": "rohitdaryanani/incube8-react-template"
+    },
+    "rohitdaryanani/jaga": {
+      "full_name": "rohitdaryanani/jaga"
+    },
+    "rohitdaryanani/email-tools": {
+      "full_name": "rohitdaryanani/email-tools"
+    },
+    "rohitdaryanani/buangathisguy": {
+      "full_name": "rohitdaryanani/buangathisguy"
+    },
+    "rohitdaryanani/cards": {
+      "full_name": "rohitdaryanani/cards"
+    },
+    "rohitdaryanani/coding-exercise": {
+      "full_name": "rohitdaryanani/coding-exercise"
+    },
+    "sendgrid/docs": {
+      "full_name": "sendgrid/docs",
+      "popularity": 3.0457531124124166,
+      "percentage": 0.009949258780220873,
+      "maturity": 5,
+      "total_commits_count": 10051,
+      "activity": 5,
+      "total_score": 24.141198725403736,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sendgrid/java-http-client": {
+      "full_name": "sendgrid/java-http-client",
+      "popularity": 1.8512968868523627,
+      "percentage": 0.8771929824561403,
+      "maturity": 2.871552188050665,
+      "total_commits_count": 114,
+      "activity": 1.3077505946347858,
+      "total_score": 12.815858434179878,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sendgrid/smtpapi-nodejs": {
+      "full_name": "sendgrid/smtpapi-nodejs",
+      "popularity": 2.478605454390306,
+      "percentage": 1.0526315789473684,
+      "maturity": 2.74288477252764,
+      "total_commits_count": 95,
+      "activity": 1.309782689851287,
+      "total_score": 14.570546186573003,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sendgrid/csharp-http-client": {
+      "full_name": "sendgrid/csharp-http-client",
+      "popularity": 2.0828241359374196,
+      "percentage": 1.0101010101010102,
+      "maturity": 2.773320867412916,
+      "total_commits_count": 99,
+      "activity": 1.2332042706423025,
+      "total_score": 13.301820572544903,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sendgrid/smtpapi-ruby": {
+      "full_name": "sendgrid/smtpapi-ruby",
+      "popularity": 2.0828241359374196,
+      "percentage": 1.1627906976744187,
+      "maturity": 2.6654334850844252,
+      "total_commits_count": 86,
+      "activity": 1.286125719692877,
+      "total_score": 13.180310606594759,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "MozLNMIIT/Python": {
+      "full_name": "MozLNMIIT/Python",
+      "popularity": 0,
+      "percentage": 11.11111111111111,
+      "maturity": 0,
+      "total_commits_count": 9,
+      "activity": 1.1867162505764162,
+      "total_score": 1.1867162505764162,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "mazipan/phpid-uxd-landingpage-prototype": {
+      "full_name": "mazipan/phpid-uxd-landingpage-prototype",
+      "popularity": 1.49139952161816,
+      "percentage": 25,
+      "maturity": 0,
+      "total_commits_count": 4,
+      "activity": 1.3746403717617843,
+      "total_score": 10.695887381875284,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "kerk12/HacktoberfestChecker-cli": {
+      "full_name": "kerk12/HacktoberfestChecker-cli",
+      "popularity": 0,
+      "percentage": 7.6923076923076925,
+      "maturity": 0,
+      "total_commits_count": 13,
+      "activity": 1.1959247104352952,
+      "total_score": 1.1959247104352952,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "robertoduessmann/weather-api": {
+      "full_name": "robertoduessmann/weather-api",
+      "popularity": 1.7076084983408428,
+      "percentage": 3.3333333333333335,
+      "maturity": 0,
+      "total_commits_count": 30,
+      "activity": 1.4178711995234239,
+      "total_score": 7.280660377160318,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "rohitdaryanani/jawa": {
+      "full_name": "rohitdaryanani/jawa"
+    },
+    "rohitdaryanani/buildproducts": {
+      "full_name": "rohitdaryanani/buildproducts"
+    },
+    "rohitdaryanani/github": {
+      "full_name": "rohitdaryanani/github",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 13,
+      "activity": 0.9674762072542364,
+      "total_score": 0.9674762072542364,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "rohitdaryanani/exercise": {
+      "full_name": "rohitdaryanani/exercise"
+    },
+    "rohitdaryanani/respotify": {
+      "full_name": "rohitdaryanani/respotify"
+    },
+    "rohitdaryanani/angular-starter": {
+      "full_name": "rohitdaryanani/angular-starter"
+    },
+    "sinet/angular-redactor": {
+      "full_name": "sinet/angular-redactor"
+    },
+    "rasterbits/rasterbits.github.io": {
+      "full_name": "rasterbits/rasterbits.github.io"
+    },
+    "rohitdaryanani/inventory": {
+      "full_name": "rohitdaryanani/inventory"
+    },
+    "rohitdaryanani/dragular": {
+      "full_name": "rohitdaryanani/dragular"
+    },
+    "rohitdaryanani/hello_app": {
+      "full_name": "rohitdaryanani/hello_app"
+    },
+    "rohitdaryanani/rohitdaryanani.github.io": {
+      "full_name": "rohitdaryanani/rohitdaryanani.github.io"
+    },
+    "rohitdaryanani/bloodlines-api": {
+      "full_name": "rohitdaryanani/bloodlines-api",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 36,
+      "activity": 0.5048248709547645,
+      "total_score": 0.5048248709547645,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "rohitdaryanani/bloodlines": {
+      "full_name": "rohitdaryanani/bloodlines"
+    },
+    "rohitdaryanani/cebustinks": {
+      "full_name": "rohitdaryanani/cebustinks"
+    },
+    "tribuwayuk/gzais": {
+      "full_name": "tribuwayuk/gzais",
+      "popularity": 1.0414282204429401,
+      "percentage": 0,
+      "maturity": 3.014993303140942,
+      "total_commits_count": 143,
+      "activity": 0.349202436955129,
+      "total_score": 9.503473704565835,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "tribuwayuk/gzais-api": {
+      "full_name": "tribuwayuk/gzais-api"
+    },
+    "rohitdaryanani/gzais": {
+      "full_name": "rohitdaryanani/gzais"
+    },
+    "wayuk/waffle": {
+      "full_name": "wayuk/waffle"
+    },
+    "rohitdaryanani/T3": {
+      "full_name": "rohitdaryanani/T3"
+    },
+    "rohitdaryanani/backbone-with-cors": {
+      "full_name": "rohitdaryanani/backbone-with-cors"
+    },
+    "rohitdaryanani/NodeProject": {
+      "full_name": "rohitdaryanani/NodeProject"
+    },
+    "jowi/pintors-locker": {
+      "full_name": "jowi/pintors-locker",
+      "popularity": 0,
+      "percentage": 23.214285714285715,
+      "maturity": 2.208551431450411,
+      "total_commits_count": 56,
+      "activity": 0.24803262501381962,
+      "total_score": 4.665135487914641,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "sendgrid",
+    "MozLNMIIT",
+    "sinet",
+    "rasterbits",
+    "tribuwayuk"
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See README.md",
+  "fetched_at": "2018-07-17T06:00:02.753Z",
+  "repos": {
+    "ncs-jss/Proj_kc01": {
+      "full_name": "ncs-jss/Proj_kc01"
+    },
+    "geekayush/geekayush.github.io": {
+      "full_name": "geekayush/geekayush.github.io"
+    },
+    "material-components/material-components-web-react": {
+      "full_name": "material-components/material-components-web-react",
+      "popularity": 3.673152184594565,
+      "percentage": 0.9174311926605505,
+      "maturity": 2.841211858230978,
+      "total_commits_count": 109,
+      "activity": 5,
+      "total_score": 22.139962640885372,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "geekayush/react-p2": {
+      "full_name": "geekayush/react-p2"
+    },
+    "geekayush/esummit": {
+      "full_name": "geekayush/esummit"
+    },
+    "sedg-jss/esummit-18": {
+      "full_name": "sedg-jss/esummit-18",
+      "popularity": 0,
+      "percentage": 30.76923076923077,
+      "maturity": 0,
+      "total_commits_count": 13,
+      "activity": 1.7160975738678768,
+      "total_score": 1.7160975738678768,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Ayukha/sherlocked2018": {
+      "full_name": "Ayukha/sherlocked2018"
+    },
+    "geekayush/sherlocked-18-frontend": {
+      "full_name": "geekayush/sherlocked-18-frontend"
+    },
+    "geekayush/Motion-Invite": {
+      "full_name": "geekayush/Motion-Invite"
+    },
+    "Cloud-CV/EvalAI": {
+      "full_name": "Cloud-CV/EvalAI",
+      "popularity": 3.6647750487134427,
+      "percentage": 0.1092896174863388,
+      "maturity": 3.9437938044334837,
+      "total_commits_count": 915,
+      "activity": 5,
+      "total_score": 23.933980597229453,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Ayukha/Hack_Devfest": {
+      "full_name": "Ayukha/Hack_Devfest"
+    },
+    "geekayush/Hack_Devfest": {
+      "full_name": "geekayush/Hack_Devfest"
+    },
+    "MMIL/MMIL-Website-V2": {
+      "full_name": "MMIL/MMIL-Website-V2",
+      "popularity": 0,
+      "percentage": 37.142857142857146,
+      "maturity": 2.8153146453382947,
+      "total_commits_count": 105,
+      "activity": 1.6211504195105007,
+      "total_score": 7.2517797101870904,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sedg-jss/edc-web": {
+      "full_name": "sedg-jss/edc-web"
+    },
+    "geekayush/edc-web-v2": {
+      "full_name": "geekayush/edc-web-v2"
+    },
+    "geekayush/responsive-navbar": {
+      "full_name": "geekayush/responsive-navbar"
+    },
+    "geekayush/CSS-Loaders": {
+      "full_name": "geekayush/CSS-Loaders"
+    },
+    "geekayush/Rotating-polyhedron-three.js": {
+      "full_name": "geekayush/Rotating-polyhedron-three.js"
+    },
+    "geekayush/TwitchTV-JSON-API": {
+      "full_name": "geekayush/TwitchTV-JSON-API"
+    },
+    "deepti1996/Team-Vega": {
+      "full_name": "deepti1996/Team-Vega"
+    },
+    "geekayush/Digital-Clock": {
+      "full_name": "geekayush/Digital-Clock"
+    },
+    "geekayush/Background-with-changing-colors": {
+      "full_name": "geekayush/Background-with-changing-colors"
+    },
+    "geekayush/Facebook_post_placeholder": {
+      "full_name": "geekayush/Facebook_post_placeholder"
+    },
+    "geekayush/Music-Boxes": {
+      "full_name": "geekayush/Music-Boxes",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 5,
+      "activity": 1.014784766898329,
+      "total_score": 1.014784766898329,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "geekayush/Cartoon-two.js": {
+      "full_name": "geekayush/Cartoon-two.js"
+    },
+    "geekayush/Date-Picker-Tool-jQuery.UI.js": {
+      "full_name": "geekayush/Date-Picker-Tool-jQuery.UI.js"
+    },
+    "geekayush/Pop-Up-Penguin": {
+      "full_name": "geekayush/Pop-Up-Penguin"
+    },
+    "geekayush/Position-Latitude-Longitude-jQuery.js": {
+      "full_name": "geekayush/Position-Latitude-Longitude-jQuery.js"
+    },
+    "geekayush/Night-Day": {
+      "full_name": "geekayush/Night-Day"
+    },
+    "geekayush/Wikipedia_viewer-MediaWikiAPI-Opensearch": {
+      "full_name": "geekayush/Wikipedia_viewer-MediaWikiAPI-Opensearch"
+    },
+    "geekayush/Local-Weather-App-JSON-AJAX": {
+      "full_name": "geekayush/Local-Weather-App-JSON-AJAX"
+    },
+    "geekayush/Quote-Generator-jQuery.js": {
+      "full_name": "geekayush/Quote-Generator-jQuery.js"
+    },
+    "geekayush/Portfolio_1": {
+      "full_name": "geekayush/Portfolio_1"
+    }
+  },
+  "organizations": [
+    "ncs-jss",
+    "material-components",
+    "sedg-jss",
+    "Cloud-CV",
+    "MMIL"
+  ]
+}

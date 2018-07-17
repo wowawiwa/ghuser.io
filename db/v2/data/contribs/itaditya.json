@@ -1,0 +1,1292 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See README.md",
+  "fetched_at": "2018-07-17T06:00:02.753Z",
+  "repos": {
+    "mgjohansen/hucore": {
+      "full_name": "mgjohansen/hucore",
+      "popularity": 2.800068385953039,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 20,
+      "activity": 5,
+      "total_score": 13.400205157859116,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/react-with-express-session-tutorial": {
+      "full_name": "itaditya/react-with-express-session-tutorial"
+    },
+    "itaditya/react-modern-carousel": {
+      "full_name": "itaditya/react-modern-carousel"
+    },
+    "itaditya/timber-blogs-drafts": {
+      "full_name": "itaditya/timber-blogs-drafts"
+    },
+    "summer-skills/react-simple-reusable-components": {
+      "full_name": "summer-skills/react-simple-reusable-components"
+    },
+    "itaditya/font-mate": {
+      "full_name": "itaditya/font-mate"
+    },
+    "probot/background-check": {
+      "full_name": "probot/background-check",
+      "popularity": 1.6128219920330789,
+      "percentage": 100,
+      "maturity": 1.8529702602724436,
+      "total_commits_count": 47,
+      "activity": 5,
+      "total_score": 34.51109239307415,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "probot-background-check/itaditya-0.26781381911646474-discussions": {
+      "full_name": "probot-background-check/itaditya-0.26781381911646474-discussions"
+    },
+    "probot-background-check/itaditya-0.3060459707839509-discussions": {
+      "full_name": "probot-background-check/itaditya-0.3060459707839509-discussions"
+    },
+    "probot-background-check/itaditya-0.10056126728577519-discussions": {
+      "full_name": "probot-background-check/itaditya-0.10056126728577519-discussions"
+    },
+    "probot-background-check/itaditya-discussions": {
+      "full_name": "probot-background-check/itaditya-discussions"
+    },
+    "probot-background-check/pollardld-discussions": {
+      "full_name": "probot-background-check/pollardld-discussions"
+    },
+    "probot-background-check/test-org-discussions": {
+      "full_name": "probot-background-check/test-org-discussions"
+    },
+    "probot-background-check/probot-test-org-discussions": {
+      "full_name": "probot-background-check/probot-test-org-discussions"
+    },
+    "probot-test-org/playground": {
+      "full_name": "probot-test-org/playground"
+    },
+    "probot-background-check/background-check-test-org-discussions": {
+      "full_name": "probot-background-check/background-check-test-org-discussions"
+    },
+    "probot-background-check/itaditya-0.8940589864747515-discussions": {
+      "full_name": "probot-background-check/itaditya-0.8940589864747515-discussions"
+    },
+    "probot-background-check/itaditya-0.15121790105582544-discussions": {
+      "full_name": "probot-background-check/itaditya-0.15121790105582544-discussions"
+    },
+    "probot-background-check/itaditya-0.9903089644409617-discussions": {
+      "full_name": "probot-background-check/itaditya-0.9903089644409617-discussions"
+    },
+    "probot-background-check/itaditya-0.5739495182269712-discussions": {
+      "full_name": "probot-background-check/itaditya-0.5739495182269712-discussions"
+    },
+    "probot-background-check/itaditya-0.9135949756539838-discussions": {
+      "full_name": "probot-background-check/itaditya-0.9135949756539838-discussions"
+    },
+    "probot-background-check/itaditya-0.5530266237936485-discussions": {
+      "full_name": "probot-background-check/itaditya-0.5530266237936485-discussions"
+    },
+    "probot-background-check/itaditya-0.7994072138502948-discussions": {
+      "full_name": "probot-background-check/itaditya-0.7994072138502948-discussions"
+    },
+    "probot-background-check/itaditya-0.2492660096530257-discussions": {
+      "full_name": "probot-background-check/itaditya-0.2492660096530257-discussions"
+    },
+    "itaditya/netlify-probot-app-deploy": {
+      "full_name": "itaditya/netlify-probot-app-deploy"
+    },
+    "itaditya/storybook-trial": {
+      "full_name": "itaditya/storybook-trial"
+    },
+    "itaditya/react-simple-auth": {
+      "full_name": "itaditya/react-simple-auth"
+    },
+    "itaditya/react-docz-trial": {
+      "full_name": "itaditya/react-docz-trial",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 1,
+      "activity": 2.884060680909619,
+      "total_score": 2.884060680909619,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "aps120797/playground": {
+      "full_name": "aps120797/playground",
+      "popularity": 1.0414282204429401,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 24,
+      "activity": 5,
+      "total_score": 8.12428466132882,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/grpc-hello-npg": {
+      "full_name": "itaditya/grpc-hello-npg"
+    },
+    "itaditya/birla": {
+      "full_name": "itaditya/birla",
+      "popularity": 1.9590800514478444,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 4,
+      "activity": 2.335751665587901,
+      "total_score": 33.68103248875341,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "strongloop/loopback": {
+      "full_name": "strongloop/loopback",
+      "popularity": 5,
+      "percentage": 0.047619047619047616,
+      "maturity": 4.315624536608666,
+      "total_commits_count": 2100,
+      "activity": 5,
+      "total_score": 28.66220145416971,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/simple-unfurl": {
+      "full_name": "itaditya/simple-unfurl",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 8,
+      "activity": 2.237717641590007,
+      "total_score": 2.237717641590007,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/nock-with-jest": {
+      "full_name": "itaditya/nock-with-jest",
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 2.244811908109133,
+      "total_score": 18.907663435196177,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "wiredjs/wired-textarea": {
+      "full_name": "wiredjs/wired-textarea",
+      "popularity": 1.9085236249774054,
+      "percentage": 20,
+      "maturity": 0,
+      "total_commits_count": 10,
+      "activity": 2.4314920455962934,
+      "total_score": 13.119224345469762,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/button-for-react": {
+      "full_name": "itaditya/button-for-react"
+    },
+    "itaditya/react-lib-boilerplate": {
+      "full_name": "itaditya/react-lib-boilerplate"
+    },
+    "itaditya/abc-test-product": {
+      "full_name": "itaditya/abc-test-product"
+    },
+    "itaditya/probot-testrepo": {
+      "full_name": "itaditya/probot-testrepo"
+    },
+    "itaditya/shared-test-lib": {
+      "full_name": "itaditya/shared-test-lib"
+    },
+    "itaditya/my-lerna-musings-trial2": {
+      "full_name": "itaditya/my-lerna-musings-trial2"
+    },
+    "itaditya/react-router-dom-demo-app": {
+      "full_name": "itaditya/react-router-dom-demo-app"
+    },
+    "itaditya/reach-router-demo-app": {
+      "full_name": "itaditya/reach-router-demo-app"
+    },
+    "itaditya/clash-of-routers": {
+      "full_name": "itaditya/clash-of-routers"
+    },
+    "itaditya/react-opinions-battlesink": {
+      "full_name": "itaditya/react-opinions-battlesink"
+    },
+    "itaditya/rocket-chrome-extension": {
+      "full_name": "itaditya/rocket-chrome-extension"
+    },
+    "itaditya/probot-bootstrap": {
+      "full_name": "itaditya/probot-bootstrap",
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 5,
+      "activity": 1.7876727905609675,
+      "total_score": 18.45052431764801,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "probot/probot": {
+      "full_name": "probot/probot",
+      "popularity": 4.460500914026027,
+      "percentage": 0.3588516746411483,
+      "maturity": 3.9027037248611682,
+      "total_commits_count": 836,
+      "activity": 5,
+      "total_score": 26.394995760756178,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "probot/probot-config": {
+      "full_name": "probot/probot-config",
+      "popularity": 2.149257924096549,
+      "percentage": 3.5714285714285716,
+      "maturity": 0,
+      "total_commits_count": 28,
+      "activity": 5,
+      "total_score": 12.445643522763046,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/gh-app-test-repo": {
+      "full_name": "itaditya/gh-app-test-repo"
+    },
+    "itaditya/.github": {
+      "full_name": "itaditya/.github"
+    },
+    "itaditya/react-preview": {
+      "full_name": "itaditya/react-preview",
+      "popularity": 1.7853682828948099,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 8,
+      "activity": 1.7688671261465707,
+      "total_score": 30.33475965246353,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/probot-on-mention": {
+      "full_name": "itaditya/probot-on-mention"
+    },
+    "itaditya/Code-Runner": {
+      "full_name": "itaditya/Code-Runner",
+      "popularity": 1.9085236249774054,
+      "percentage": 86.20689655172414,
+      "maturity": 2.2594053196037502,
+      "total_commits_count": 58,
+      "activity": 1.7604533436145622,
+      "total_score": 33.39346168939762,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ncs-jss/gh-app-test-repo": {
+      "full_name": "ncs-jss/gh-app-test-repo"
+    },
+    "aayush1408/Youtube-search": {
+      "full_name": "aayush1408/Youtube-search"
+    },
+    "postcss/postcss-custom-properties": {
+      "full_name": "postcss/postcss-custom-properties",
+      "popularity": 3.4442400634624546,
+      "percentage": 0.847457627118644,
+      "maturity": 2.894385133720438,
+      "total_commits_count": 118,
+      "activity": 5,
+      "total_score": 21.50094063431139,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "probot/template": {
+      "full_name": "probot/template",
+      "popularity": 2.0828241359374196,
+      "percentage": 2.4096385542168677,
+      "maturity": 2.636209568212883,
+      "total_commits_count": 83,
+      "activity": 5,
+      "total_score": 17.173342478387095,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "aayush1408/Time-saver": {
+      "full_name": "aayush1408/Time-saver",
+      "popularity": 0,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 3,
+      "activity": 1.7549254460663497,
+      "total_score": 1.7549254460663497,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ncs-jss/geass": {
+      "full_name": "ncs-jss/geass"
+    },
+    "itaditya/vue-todo-app": {
+      "full_name": "itaditya/vue-todo-app"
+    },
+    "itaditya/scalable-node-app": {
+      "full_name": "itaditya/scalable-node-app"
+    },
+    "itaditya/articles": {
+      "full_name": "itaditya/articles",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 1.7129739964402146,
+      "total_score": 1.7129739964402146,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/bot-bot-brain": {
+      "full_name": "itaditya/bot-bot-brain"
+    },
+    "itaditya/state-mgmt-patterns-react": {
+      "full_name": "itaditya/state-mgmt-patterns-react"
+    },
+    "diegohaz/schm": {
+      "full_name": "diegohaz/schm",
+      "popularity": 3.5265075894932076,
+      "percentage": 1.492537313432836,
+      "maturity": 2.4346992151481284,
+      "total_commits_count": 67,
+      "activity": 5,
+      "total_score": 21.13316894002083,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/bot-bot-config": {
+      "full_name": "itaditya/bot-bot-config"
+    },
+    "probot/slack-adapter": {
+      "full_name": "probot/slack-adapter",
+      "popularity": 1.49139952161816,
+      "percentage": 50,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 1.626729781461136,
+      "total_score": 15.795025236833656,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Bartozzz/potential-duplicates-bot": {
+      "full_name": "Bartozzz/potential-duplicates-bot",
+      "popularity": 2.3444311854745736,
+      "percentage": 4,
+      "maturity": 0,
+      "total_commits_count": 25,
+      "activity": 3.3985513495148014,
+      "total_score": 11.650949122385299,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "rsarky/helpr": {
+      "full_name": "rsarky/helpr",
+      "popularity": 1.49139952161816,
+      "percentage": 7.142857142857143,
+      "maturity": 0,
+      "total_commits_count": 28,
+      "activity": 1.796010349342005,
+      "total_score": 7.655079898556205,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "godaddy/terminus": {
+      "full_name": "godaddy/terminus",
+      "popularity": 3.6813707864810326,
+      "percentage": 4.878048780487805,
+      "maturity": 1.0429714431619128,
+      "total_commits_count": 41,
+      "activity": 5,
+      "total_score": 20.464583061584165,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/octokit-plugin-sentiment": {
+      "full_name": "itaditya/octokit-plugin-sentiment"
+    },
+    "ncs-jss/zem": {
+      "full_name": "ncs-jss/zem"
+    },
+    "itaditya/project-idea-list": {
+      "full_name": "itaditya/project-idea-list"
+    },
+    "itaditya/probot-discussion-bot": {
+      "full_name": "itaditya/probot-discussion-bot"
+    },
+    "itaditya/octokit-plugin-mentions": {
+      "full_name": "itaditya/octokit-plugin-mentions",
+      "popularity": 1.3222565221025262,
+      "percentage": 80,
+      "maturity": 0,
+      "total_commits_count": 5,
+      "activity": 1.5507469220242642,
+      "total_score": 19.268984318198115,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/portfolio": {
+      "full_name": "itaditya/portfolio"
+    },
+    "kodedninja/microne": {
+      "full_name": "kodedninja/microne",
+      "popularity": 1.9590800514478444,
+      "percentage": 3.8461538461538463,
+      "maturity": 0,
+      "total_commits_count": 26,
+      "activity": 1.5350991940684482,
+      "total_score": 8.391879374135904,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "fega/Ecmascript-Array-slicing-proposal": {
+      "full_name": "fega/Ecmascript-Array-slicing-proposal"
+    },
+    "probot/reminders": {
+      "full_name": "probot/reminders",
+      "popularity": 2.506543999292103,
+      "percentage": 1.3793103448275863,
+      "maturity": 3.0233373858695978,
+      "total_commits_count": 145,
+      "activity": 5,
+      "total_score": 19.01575603845409,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "probot/stale": {
+      "full_name": "probot/stale",
+      "popularity": 3.6514140238435107,
+      "percentage": 0.6666666666666666,
+      "maturity": 3.043522063689193,
+      "total_commits_count": 150,
+      "activity": 5,
+      "total_score": 22.357742080975356,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "strongloop/loopback.io": {
+      "full_name": "strongloop/loopback.io",
+      "popularity": 3.1495660747060654,
+      "percentage": 0.08071025020177562,
+      "maturity": 4.080591577076767,
+      "total_commits_count": 1239,
+      "activity": 5,
+      "total_score": 22.642927672840884,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "probot/ideas": {
+      "full_name": "probot/ideas",
+      "popularity": 2.506543999292103,
+      "percentage": 8.333333333333334,
+      "maturity": 0,
+      "total_commits_count": 12,
+      "activity": 1.7110305647378143,
+      "total_score": 11.946085228513903,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "akshshu2/pingpongmania": {
+      "full_name": "akshshu2/pingpongmania"
+    },
+    "itaditya/hackdata-2018-minions-frontend": {
+      "full_name": "itaditya/hackdata-2018-minions-frontend"
+    },
+    "itaditya/hackdata-2018-minions": {
+      "full_name": "itaditya/hackdata-2018-minions"
+    },
+    "ncs-jss/plexus-17": {
+      "full_name": "ncs-jss/plexus-17",
+      "popularity": 1.7076084983408428,
+      "percentage": 81.30841121495327,
+      "maturity": 2.828456256278814,
+      "total_commits_count": 107,
+      "activity": 1.4498328865337458,
+      "total_score": 30.279152311155894,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ncs-jss/techtrek-17": {
+      "full_name": "ncs-jss/techtrek-17"
+    },
+    "theskumar/python-dotenv": {
+      "full_name": "theskumar/python-dotenv",
+      "popularity": 4.086434512573942,
+      "percentage": 0.6451612903225806,
+      "maturity": 3.062810136718,
+      "total_commits_count": 155,
+      "activity": 5,
+      "total_score": 23.727657028341447,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/bot-42-brain": {
+      "full_name": "itaditya/bot-42-brain",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 3,
+      "activity": 1.4002170822954736,
+      "total_score": 1.4002170822954736,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/test-for-my-gitbot": {
+      "full_name": "itaditya/test-for-my-gitbot"
+    },
+    "pazams/go-for-javascript-developers": {
+      "full_name": "pazams/go-for-javascript-developers",
+      "popularity": 3.785440107239024,
+      "percentage": 10.638297872340425,
+      "maturity": 1.8529702602724436,
+      "total_commits_count": 47,
+      "activity": 1.6507096273553743,
+      "total_score": 21.948153596650023,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/carbon-cli": {
+      "full_name": "itaditya/carbon-cli",
+      "popularity": 2.117310085935697,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 7,
+      "activity": 1.3859113819671944,
+      "total_score": 35.26287275693835,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/golang-crud-api": {
+      "full_name": "itaditya/golang-crud-api"
+    },
+    "itaditya/stack-game-pwa": {
+      "full_name": "itaditya/stack-game-pwa",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 1.3738789074672568,
+      "total_score": 1.3738789074672568,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/tools-of-trade": {
+      "full_name": "itaditya/tools-of-trade"
+    },
+    "pwarocks/pwa.rocks": {
+      "full_name": "pwarocks/pwa.rocks",
+      "popularity": 3.803564478085034,
+      "percentage": 0,
+      "maturity": 3.3029825412519562,
+      "total_commits_count": 240,
+      "activity": 5,
+      "total_score": 23.016658516759016,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Chalarangelo/30-seconds-of-code": {
+      "full_name": "Chalarangelo/30-seconds-of-code",
+      "popularity": 5,
+      "percentage": 0.031545741324921134,
+      "maturity": 4.497294475796707,
+      "total_commits_count": 3170,
+      "activity": 5,
+      "total_score": 29.015093683454616,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/30-seconds-of-code": {
+      "full_name": "itaditya/30-seconds-of-code"
+    },
+    "agarrharr/awesome-cli-apps": {
+      "full_name": "agarrharr/awesome-cli-apps",
+      "popularity": 4.394858361651921,
+      "percentage": 0,
+      "maturity": 2.9889537639082238,
+      "total_commits_count": 137,
+      "activity": 5,
+      "total_score": 24.162482612772212,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/kafka-experiment": {
+      "full_name": "itaditya/kafka-experiment"
+    },
+    "itaditya/taDAA": {
+      "full_name": "itaditya/taDAA"
+    },
+    "airbnb/javascript": {
+      "full_name": "airbnb/javascript",
+      "popularity": 5,
+      "percentage": 0.06207324643078833,
+      "maturity": 4.19794003693542,
+      "total_commits_count": 1611,
+      "activity": 5,
+      "total_score": 28.436227684050852,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/javascript": {
+      "full_name": "itaditya/javascript"
+    },
+    "itaditya/Sublime-Snippets": {
+      "full_name": "itaditya/Sublime-Snippets"
+    },
+    "itaditya/grpc-py-node": {
+      "full_name": "itaditya/grpc-py-node"
+    },
+    "itaditya/hotspot": {
+      "full_name": "itaditya/hotspot"
+    },
+    "itaditya/Windows-for-Devs": {
+      "full_name": "itaditya/Windows-for-Devs"
+    },
+    "itaditya/snail": {
+      "full_name": "itaditya/snail"
+    },
+    "itaditya/kitaab-yt": {
+      "full_name": "itaditya/kitaab-yt"
+    },
+    "itaditya/Modern_Web_Starter": {
+      "full_name": "itaditya/Modern_Web_Starter"
+    },
+    "mpj/fff-graphql-goodreads": {
+      "full_name": "mpj/fff-graphql-goodreads",
+      "popularity": 2.9450149526988105,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 5,
+      "activity": 1.247271928147783,
+      "total_score": 10.082316786244213,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ncs-jss/Web-Workshop-Resume-Submissions": {
+      "full_name": "ncs-jss/Web-Workshop-Resume-Submissions"
+    },
+    "ebidel/demos": {
+      "full_name": "ebidel/demos",
+      "popularity": 2.8457570508611636,
+      "percentage": 3.5714285714285716,
+      "maturity": 0,
+      "total_commits_count": 28,
+      "activity": 1.7581523496428795,
+      "total_score": 11.616667847269053,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/2048-pwa": {
+      "full_name": "itaditya/2048-pwa"
+    },
+    "itaditya/acl-tutorial": {
+      "full_name": "itaditya/acl-tutorial",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 1.216878361660303,
+      "total_score": 1.216878361660303,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ankitjain28may/J.A.M.": {
+      "full_name": "ankitjain28may/J.A.M."
+    },
+    "itaditya/game-o-python": {
+      "full_name": "itaditya/game-o-python"
+    },
+    "sdmg15/Best-websites-a-programmer-should-visit": {
+      "full_name": "sdmg15/Best-websites-a-programmer-should-visit",
+      "popularity": 5,
+      "percentage": 0.1440922190201729,
+      "maturity": 3.8173802028200328,
+      "total_commits_count": 694,
+      "activity": 5,
+      "total_score": 27.72842034800318,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/Best-websites-a-programmer-should-visit": {
+      "full_name": "itaditya/Best-websites-a-programmer-should-visit"
+    },
+    "sendgrid/docs": {
+      "full_name": "sendgrid/docs",
+      "popularity": 3.0457531124124166,
+      "percentage": 0.009949258780220873,
+      "maturity": 5,
+      "total_commits_count": 10051,
+      "activity": 5,
+      "total_score": 24.141198725403736,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/docs": {
+      "full_name": "itaditya/docs"
+    },
+    "sendgrid/sendgrid-nodejs": {
+      "full_name": "sendgrid/sendgrid-nodejs",
+      "popularity": 4.059261597772537,
+      "percentage": 0.12804097311139565,
+      "maturity": 3.8716128980548126,
+      "total_commits_count": 781,
+      "activity": 5,
+      "total_score": 24.98857832408926,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "thank-you-github/thank-you-github": {
+      "full_name": "thank-you-github/thank-you-github",
+      "popularity": 4.2587003098242615,
+      "percentage": 0,
+      "maturity": 4.37924283836316,
+      "total_commits_count": 2425,
+      "activity": 5,
+      "total_score": 26.534586606199106,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/circlebars": {
+      "full_name": "itaditya/circlebars",
+      "popularity": 2.3444311854745736,
+      "percentage": 85.18518518518519,
+      "maturity": 2.1509431413585514,
+      "total_commits_count": 54,
+      "activity": 1.6975554529667258,
+      "total_score": 38.99513990162227,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/Trace-Lazy-Load": {
+      "full_name": "itaditya/Trace-Lazy-Load",
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 1,
+      "activity": 1.177220483270737,
+      "total_score": 17.84007201035778,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/Twittr": {
+      "full_name": "itaditya/Twittr",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 4,
+      "activity": 1.179338299961079,
+      "total_score": 1.179338299961079,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/MERN-demo": {
+      "full_name": "itaditya/MERN-demo",
+      "popularity": 1.3222565221025262,
+      "percentage": 92.85714285714286,
+      "maturity": 0,
+      "total_commits_count": 14,
+      "activity": 1.1785531244842735,
+      "total_score": 21.106847850458063,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/react-webpack-gql-starter": {
+      "full_name": "itaditya/react-webpack-gql-starter"
+    },
+    "itaditya/cosmos-web-interface": {
+      "full_name": "itaditya/cosmos-web-interface",
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 1.1632968109365596,
+      "total_score": 17.8261483380236,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/AM-admin-panel": {
+      "full_name": "itaditya/AM-admin-panel"
+    },
+    "itaditya/vuejs-pwa": {
+      "full_name": "itaditya/vuejs-pwa",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 5,
+      "activity": 1.1606692200632374,
+      "total_score": 1.1606692200632374,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/JsImgEditor": {
+      "full_name": "itaditya/JsImgEditor",
+      "popularity": 1.8512968868523627,
+      "percentage": 83.33333333333333,
+      "maturity": 0,
+      "total_commits_count": 6,
+      "activity": 1.754432849973679,
+      "total_score": 27.364039784764692,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/Documentation-Patcher": {
+      "full_name": "itaditya/Documentation-Patcher"
+    },
+    "prakharchoudhary/fun_with_python": {
+      "full_name": "prakharchoudhary/fun_with_python",
+      "popularity": 1.6128219920330789,
+      "percentage": 1.8691588785046729,
+      "maturity": 2.828456256278814,
+      "total_commits_count": 107,
+      "activity": 5,
+      "total_score": 15.887279159618172,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/Python": {
+      "full_name": "itaditya/Python",
+      "popularity": 1.49139952161816,
+      "percentage": 97.61904761904762,
+      "maturity": 1.323873088726792,
+      "total_commits_count": 42,
+      "activity": 1.1764885496356516,
+      "total_score": 27.22500341152655,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/graphql-demo": {
+      "full_name": "itaditya/graphql-demo",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 4,
+      "activity": 1.1530173556963668,
+      "total_score": 1.1530173556963668,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/elasticsearch-demo": {
+      "full_name": "itaditya/elasticsearch-demo",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 1,
+      "activity": 1.1435002810635782,
+      "total_score": 1.1435002810635782,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/postcss-demo": {
+      "full_name": "itaditya/postcss-demo"
+    },
+    "ncs-jss/nodejs-workshop": {
+      "full_name": "ncs-jss/nodejs-workshop"
+    },
+    "ncs-jss/hackncs-17": {
+      "full_name": "ncs-jss/hackncs-17",
+      "popularity": 1.3222565221025262,
+      "percentage": 56.75675675675676,
+      "maturity": 2.853603482128319,
+      "total_commits_count": 111,
+      "activity": 1.1978122422956639,
+      "total_score": 20.627897706210955,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Roshanjossey/first-contributions": {
+      "full_name": "Roshanjossey/first-contributions",
+      "popularity": 4.400766984836924,
+      "percentage": 0,
+      "maturity": 4.938305329637137,
+      "total_commits_count": 8681,
+      "activity": 5,
+      "total_score": 28.078911613785046,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ncs-jss/ncs-jss.github.io": {
+      "full_name": "ncs-jss/ncs-jss.github.io",
+      "popularity": 1.3222565221025262,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 16,
+      "activity": 1.468844605194402,
+      "total_score": 5.435614171501981,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "tanmayb123/Twilio-Watson-Conversation-": {
+      "full_name": "tanmayb123/Twilio-Watson-Conversation-",
+      "popularity": 2.3636508993380505,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 3,
+      "activity": 1.1314057862354323,
+      "total_score": 8.222358484249582,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/Notch-of-IphoneX": {
+      "full_name": "itaditya/Notch-of-IphoneX",
+      "popularity": 1.7076084983408428,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 1,
+      "activity": 1.1306977517811378,
+      "total_score": 28.452433725234624,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/noAdsFB": {
+      "full_name": "itaditya/noAdsFB",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 1,
+      "activity": 1.127469887919549,
+      "total_score": 1.127469887919549,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ncs-jss/web-workshop": {
+      "full_name": "ncs-jss/web-workshop",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 1.12640550909774,
+      "total_score": 1.12640550909774,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "hemanth/is-pwa": {
+      "full_name": "hemanth/is-pwa",
+      "popularity": 2.634516268125146,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 6,
+      "activity": 1.2775089804156452,
+      "total_score": 9.181057784791083,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/find": {
+      "full_name": "itaditya/find"
+    },
+    "itaditya/learning-postgresql": {
+      "full_name": "itaditya/learning-postgresql"
+    },
+    "ncs-jss/fastest-finger-first-server": {
+      "full_name": "ncs-jss/fastest-finger-first-server"
+    },
+    "ncs-jss/InteractiveRegistrationForm": {
+      "full_name": "ncs-jss/InteractiveRegistrationForm",
+      "popularity": 0,
+      "percentage": 20,
+      "maturity": 0,
+      "total_commits_count": 5,
+      "activity": 1.0904650405480258,
+      "total_score": 1.0904650405480258,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/macrodroid-server": {
+      "full_name": "itaditya/macrodroid-server"
+    },
+    "dsindia/dsi-portal-server": {
+      "full_name": "dsindia/dsi-portal-server"
+    },
+    "ankitjain28may/gauamrit": {
+      "full_name": "ankitjain28may/gauamrit",
+      "popularity": 1.0414282204429401,
+      "percentage": 25,
+      "maturity": 0,
+      "total_commits_count": 24,
+      "activity": 1.0054372404629297,
+      "total_score": 7.514363618231306,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "AmitPhulera/FireBase-Hackathon": {
+      "full_name": "AmitPhulera/FireBase-Hackathon",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 1,
+      "activity": 1.0014707732489518,
+      "total_score": 1.0014707732489518,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/contactSync": {
+      "full_name": "itaditya/contactSync"
+    },
+    "itaditya/subtitle-converter": {
+      "full_name": "itaditya/subtitle-converter"
+    },
+    "itaditya/elth-test": {
+      "full_name": "itaditya/elth-test"
+    },
+    "itaditya/technovision-17": {
+      "full_name": "itaditya/technovision-17"
+    },
+    "itaditya/easyWithChef": {
+      "full_name": "itaditya/easyWithChef"
+    },
+    "ncs-jss/plexus": {
+      "full_name": "ncs-jss/plexus",
+      "popularity": 0,
+      "percentage": 31.386861313868614,
+      "maturity": 2.9889537639082238,
+      "total_commits_count": 137,
+      "activity": 1.5723111532739131,
+      "total_score": 7.55021868109036,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/Trace": {
+      "full_name": "itaditya/Trace"
+    },
+    "itaditya/JStack": {
+      "full_name": "itaditya/JStack",
+      "popularity": 1.49139952161816,
+      "percentage": 100,
+      "maturity": 2.7583693920773915,
+      "total_commits_count": 97,
+      "activity": 1.7544278802920235,
+      "total_score": 31.133559010337365,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/AR-shopping": {
+      "full_name": "itaditya/AR-shopping"
+    },
+    "itaditya/GrassHacks-SNU-frontend": {
+      "full_name": "itaditya/GrassHacks-SNU-frontend"
+    },
+    "fossiiita/opencode2017": {
+      "full_name": "fossiiita/opencode2017",
+      "popularity": 2.4487452694590637,
+      "percentage": 0.35842293906810035,
+      "maturity": 3.3803151699853675,
+      "total_commits_count": 279,
+      "activity": 0.8735568632947848,
+      "total_score": 15.094522253588831,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/red-jedi": {
+      "full_name": "itaditya/red-jedi",
+      "popularity": 0,
+      "percentage": 88.88888888888889,
+      "maturity": 0,
+      "total_commits_count": 9,
+      "activity": 0.8637168704520883,
+      "total_score": 0.8637168704520883,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Cloud-CV/EvalAI": {
+      "full_name": "Cloud-CV/EvalAI",
+      "popularity": 3.6647750487134427,
+      "percentage": 0.32786885245901637,
+      "maturity": 3.9437938044334837,
+      "total_commits_count": 915,
+      "activity": 5,
+      "total_score": 24.03811628167377,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ncs-jss/ClubPortal": {
+      "full_name": "ncs-jss/ClubPortal",
+      "popularity": 0,
+      "percentage": 51.282051282051285,
+      "maturity": 0,
+      "total_commits_count": 39,
+      "activity": 0.8564557633896968,
+      "total_score": 0.8564557633896968,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "dalelotts/angular-bootstrap-datetimepicker": {
+      "full_name": "dalelotts/angular-bootstrap-datetimepicker",
+      "popularity": 4.082860346362548,
+      "percentage": 0,
+      "maturity": 3.313701134095639,
+      "total_commits_count": 245,
+      "activity": 5,
+      "total_score": 23.875983307278922,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/NoShitCSS": {
+      "full_name": "itaditya/NoShitCSS"
+    },
+    "itaditya/nodeknockout2016-caffeinecoders": {
+      "full_name": "itaditya/nodeknockout2016-caffeinecoders"
+    },
+    "DEVAbhinav/vision": {
+      "full_name": "DEVAbhinav/vision"
+    },
+    "ncs-jss/GameShow": {
+      "full_name": "ncs-jss/GameShow",
+      "popularity": 1.8512968868523627,
+      "percentage": 44.38775510204081,
+      "maturity": 3.1951381115795994,
+      "total_commits_count": 196,
+      "activity": 1.6135590030919365,
+      "total_score": 24.240464555328742,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Small-Start/MEANboilerplate": {
+      "full_name": "Small-Start/MEANboilerplate",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 0.7737000528942106,
+      "total_score": 0.7737000528942106,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/startMean": {
+      "full_name": "itaditya/startMean"
+    },
+    "itaditya/tabext": {
+      "full_name": "itaditya/tabext"
+    },
+    "itaditya/umbrella": {
+      "full_name": "itaditya/umbrella"
+    },
+    "itaditya/gitAutomater": {
+      "full_name": "itaditya/gitAutomater"
+    },
+    "ankitjain28may/autoscroll.js": {
+      "full_name": "ankitjain28may/autoscroll.js",
+      "popularity": 1.6128219920330789,
+      "percentage": 11.11111111111111,
+      "maturity": 0,
+      "total_commits_count": 27,
+      "activity": 1.1455188273962653,
+      "total_score": 8.313616569765504,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/Resources": {
+      "full_name": "itaditya/Resources"
+    },
+    "itaditya/ncsblog": {
+      "full_name": "itaditya/ncsblog"
+    },
+    "itaditya/GoogleImagesAreMine": {
+      "full_name": "itaditya/GoogleImagesAreMine",
+      "popularity": 1.3222565221025262,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 7,
+      "activity": 0.7420766255364422,
+      "total_score": 21.89818097917686,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ncs-jss/hack-ncs16": {
+      "full_name": "ncs-jss/hack-ncs16",
+      "popularity": 0,
+      "percentage": 22.22222222222222,
+      "maturity": 0,
+      "total_commits_count": 27,
+      "activity": 0.8347027600513011,
+      "total_score": 0.8347027600513011,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ankitjain28may/mappr_incubatedIND_2k16": {
+      "full_name": "ankitjain28may/mappr_incubatedIND_2k16"
+    },
+    "itaditya/VR_Experiments": {
+      "full_name": "itaditya/VR_Experiments"
+    },
+    "itaditya/APIcd": {
+      "full_name": "itaditya/APIcd"
+    },
+    "ncs-jss/elastic-heart": {
+      "full_name": "ncs-jss/elastic-heart"
+    },
+    "deshraj/reference": {
+      "full_name": "deshraj/reference"
+    },
+    "sampotts/plyr": {
+      "full_name": "sampotts/plyr",
+      "popularity": 5,
+      "percentage": 0.1763668430335097,
+      "maturity": 4.040793178261653,
+      "total_commits_count": 1134,
+      "activity": 5,
+      "total_score": 28.19622480449509,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/itaditya.github.io": {
+      "full_name": "itaditya/itaditya.github.io"
+    },
+    "ncs-jss/HTTP_200": {
+      "full_name": "ncs-jss/HTTP_200",
+      "popularity": 2.3032349516115587,
+      "percentage": 0.29850746268656714,
+      "maturity": 3.4717049409008203,
+      "total_commits_count": 335,
+      "activity": 5,
+      "total_score": 18.942494003415273,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Technovision16/shoplite": {
+      "full_name": "Technovision16/shoplite"
+    },
+    "ankitjain28may/Zealicon-Profile-pic": {
+      "full_name": "ankitjain28may/Zealicon-Profile-pic"
+    },
+    "itaditya/Hack-SaveFood": {
+      "full_name": "itaditya/Hack-SaveFood"
+    },
+    "itaditya/C-programs": {
+      "full_name": "itaditya/C-programs"
+    },
+    "ankitjain28may/Zealicon-16": {
+      "full_name": "ankitjain28may/Zealicon-16"
+    },
+    "ankitjain28may/fb_Bulletins": {
+      "full_name": "ankitjain28may/fb_Bulletins"
+    },
+    "dhruvhacks/CROSS": {
+      "full_name": "dhruvhacks/CROSS",
+      "popularity": 1.3222565221025262,
+      "percentage": 1.6129032258064515,
+      "maturity": 2.34612075126341,
+      "total_commits_count": 62,
+      "activity": 0.586432162637232,
+      "total_score": 9.522690566751193,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itaditya/blog": {
+      "full_name": "itaditya/blog"
+    }
+  },
+  "organizations": [
+    "summer-skills",
+    "probot",
+    "probot-background-check",
+    "probot-test-org",
+    "strongloop",
+    "wiredjs",
+    "ncs-jss",
+    "postcss",
+    "godaddy",
+    "pwarocks",
+    "airbnb",
+    "sendgrid",
+    "dsindia",
+    "fossiiita",
+    "Cloud-CV",
+    "Small-Start",
+    "Technovision16"
+  ]
+}

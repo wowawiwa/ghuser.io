@@ -1,0 +1,271 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See README.md",
+  "fetched_at": "2018-07-17T06:00:02.753Z",
+  "repos": {
+    "aryaminus/nazar-server": {
+      "full_name": "aryaminus/nazar-server",
+      "popularity": 0,
+      "percentage": 81.81818181818181,
+      "maturity": 0,
+      "total_commits_count": 33,
+      "activity": 5,
+      "total_score": 5,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "aryaminus/nazar": {
+      "full_name": "aryaminus/nazar",
+      "popularity": 1.7076084983408428,
+      "percentage": 100,
+      "maturity": 2.905366671327429,
+      "total_commits_count": 120,
+      "activity": 5,
+      "total_score": 38.13246931610834,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "aryaminus/RN-voice-video-call": {
+      "full_name": "aryaminus/RN-voice-video-call",
+      "popularity": 2.5575461822849728,
+      "percentage": 97.67441860465117,
+      "maturity": 1.4930421103847036,
+      "total_commits_count": 43,
+      "activity": 3.084526229055557,
+      "total_score": 46.21813772987977,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "samyoga/email-on-voice": {
+      "full_name": "samyoga/email-on-voice",
+      "popularity": null,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 0,
+      "activity": null,
+      "total_score": null,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "aryaminus/memento": {
+      "full_name": "aryaminus/memento",
+      "popularity": 2.654215543864054,
+      "percentage": 100,
+      "maturity": 2.6155739242796985,
+      "total_commits_count": 81,
+      "activity": 1.9359958707808054,
+      "total_score": 49.63459242116507,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "aryaminus/saram": {
+      "full_name": "aryaminus/saram",
+      "popularity": 2.532793353021433,
+      "percentage": 100,
+      "maturity": 2.1807017899081935,
+      "total_commits_count": 55,
+      "activity": 1.5717544872343128,
+      "total_score": 46.45785171539363,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "aryaminus/flowmaker": {
+      "full_name": "aryaminus/flowmaker",
+      "popularity": 2.8331861431697343,
+      "percentage": 69.64285714285714,
+      "maturity": 2.208551431450411,
+      "total_commits_count": 56,
+      "activity": 1.5502705419732248,
+      "total_score": 40.11738495200923,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "samyoga/volleyball": {
+      "full_name": "samyoga/volleyball",
+      "popularity": null,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 0,
+      "activity": null,
+      "total_score": null,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "aryaminus/srijana": {
+      "full_name": "aryaminus/srijana",
+      "popularity": 1.49139952161816,
+      "percentage": 100,
+      "maturity": 2.9706841383064435,
+      "total_commits_count": 133,
+      "activity": 1.4599444242728143,
+      "total_score": 31.26370504677626,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "aryaminus/spacegadi": {
+      "full_name": "aryaminus/spacegadi",
+      "popularity": 0,
+      "percentage": 97.5,
+      "maturity": 0,
+      "total_commits_count": 40,
+      "activity": 1.4460406457033144,
+      "total_score": 1.4460406457033144,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "psuzn/nepalReport": {
+      "full_name": "psuzn/nepalReport",
+      "popularity": null,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 0,
+      "activity": null,
+      "total_score": null,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ycc-ku18/flowmaker": {
+      "full_name": "ycc-ku18/flowmaker",
+      "popularity": null,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 0,
+      "activity": null,
+      "total_score": null,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "aryaminus/RN-firechat": {
+      "full_name": "aryaminus/RN-firechat",
+      "popularity": 2.6031833637998933,
+      "percentage": 100,
+      "maturity": 2.1509431413585514,
+      "total_commits_count": 54,
+      "activity": 1.3680581291118425,
+      "total_score": 47.32087823262724,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "aryaminus/RN-firechat-functions": {
+      "full_name": "aryaminus/RN-firechat-functions",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 7,
+      "activity": 1.2207002871937163,
+      "total_score": 1.2207002871937163,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "aryaminus/RN-intro-screen": {
+      "full_name": "aryaminus/RN-intro-screen",
+      "popularity": 1.7853682828948099,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 22,
+      "activity": 1.1767203898606553,
+      "total_score": 29.742612916177613,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "aryaminus/RN-login-register-screen": {
+      "full_name": "aryaminus/RN-login-register-screen",
+      "popularity": 1.6128219920330789,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 22,
+      "activity": 1.1754508529479977,
+      "total_score": 26.980602725477258,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "aryaminus/RN-splash-screen": {
+      "full_name": "aryaminus/RN-splash-screen",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 14,
+      "activity": 1.173937281731658,
+      "total_score": 1.173937281731658,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "aryaminus/github-battle": {
+      "full_name": "aryaminus/github-battle",
+      "popularity": null,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 0,
+      "activity": null,
+      "total_score": null,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "aryaminus/hate-calc": {
+      "full_name": "aryaminus/hate-calc",
+      "popularity": null,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 0,
+      "activity": null,
+      "total_score": null,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "aryaminus/twitly": {
+      "full_name": "aryaminus/twitly",
+      "popularity": null,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 0,
+      "activity": null,
+      "total_score": null,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "aryaminus/reactN-testing": {
+      "full_name": "aryaminus/reactN-testing",
+      "popularity": null,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 0,
+      "activity": null,
+      "total_score": null,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "aryaminus/url-shortner": {
+      "full_name": "aryaminus/url-shortner",
+      "popularity": null,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 0,
+      "activity": null,
+      "total_score": null,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "aryaminus/book-review-testing": {
+      "full_name": "aryaminus/book-review-testing",
+      "popularity": null,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 0,
+      "activity": null,
+      "total_score": null,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "aryaminus/rails-testing": {
+      "full_name": "aryaminus/rails-testing",
+      "popularity": null,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 0,
+      "activity": null,
+      "total_score": null,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": []
+}

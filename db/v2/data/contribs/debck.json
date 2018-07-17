@@ -1,0 +1,368 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See README.md",
+  "fetched_at": "2018-07-17T06:00:02.753Z",
+  "repos": {
+    "debck/car-CLI": {
+      "full_name": "debck/car-CLI",
+      "popularity": 1.0414282204429401,
+      "percentage": 91.66666666666667,
+      "maturity": 0,
+      "total_commits_count": 24,
+      "activity": 5,
+      "total_score": 20.534637621607192,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "p-society/p-society.github.io": {
+      "full_name": "p-society/p-society.github.io",
+      "popularity": 2.179015777092762,
+      "percentage": 3.9473684210526314,
+      "maturity": 2.559238720343991,
+      "total_commits_count": 76,
+      "activity": 5,
+      "total_score": 17.773703920737553,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "debck/Drum-Kit": {
+      "full_name": "debck/Drum-Kit"
+    },
+    "androidArea/Youtube-Player": {
+      "full_name": "androidArea/Youtube-Player"
+    },
+    "androidArea/LearnLang": {
+      "full_name": "androidArea/LearnLang",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 6,
+      "activity": 5,
+      "total_score": 5,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "androidArea/Score-Counter": {
+      "full_name": "androidArea/Score-Counter"
+    },
+    "debck/wikiView": {
+      "full_name": "debck/wikiView",
+      "popularity": 1.3222565221025262,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 20,
+      "activity": 5,
+      "total_score": 26.15610435364042,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "debck/FlappyBird": {
+      "full_name": "debck/FlappyBird"
+    },
+    "sugarlabs/musicblocks": {
+      "full_name": "sugarlabs/musicblocks",
+      "popularity": 2.725133536124766,
+      "percentage": 0.02828054298642534,
+      "maturity": 4.545320115440207,
+      "total_commits_count": 3536,
+      "activity": 5,
+      "total_score": 22.27605971254929,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "debck/MoVSrcH": {
+      "full_name": "debck/MoVSrcH"
+    },
+    "androidArea/Card-App": {
+      "full_name": "androidArea/Card-App"
+    },
+    "androidArea/CoffeeOrder-App": {
+      "full_name": "androidArea/CoffeeOrder-App"
+    },
+    "fossasia/loklak_search": {
+      "full_name": "fossasia/loklak_search",
+      "popularity": 3.828763409993683,
+      "percentage": 0.22675736961451248,
+      "maturity": 3.6049885485661903,
+      "total_commits_count": 441,
+      "activity": 5,
+      "total_score": 23.80913336867787,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "suicide11/Chrome-Extension": {
+      "full_name": "suicide11/Chrome-Extension",
+      "popularity": 1.49139952161816,
+      "percentage": 25,
+      "maturity": 0,
+      "total_commits_count": 4,
+      "activity": 2.725992298154142,
+      "total_score": 12.047239308267642,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Rupeshiya/npmGuider": {
+      "full_name": "Rupeshiya/npmGuider",
+      "popularity": 1.0414282204429401,
+      "percentage": 11.11111111111111,
+      "maturity": 0,
+      "total_commits_count": 9,
+      "activity": 5,
+      "total_score": 9.628569868635289,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Coding-Den/Coding-Den.github.io": {
+      "full_name": "Coding-Den/Coding-Den.github.io"
+    },
+    "dwyl/learn-chrome-extensions": {
+      "full_name": "dwyl/learn-chrome-extensions",
+      "popularity": 2.8457570508611636,
+      "percentage": 6.25,
+      "maturity": 0,
+      "total_commits_count": 16,
+      "activity": 2.528294773776816,
+      "total_score": 13.377743530185002,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "dwyl/learn-devops": {
+      "full_name": "dwyl/learn-devops",
+      "popularity": 2.3997126544096057,
+      "percentage": 2.127659574468085,
+      "maturity": 1.8529702602724436,
+      "total_commits_count": 47,
+      "activity": 5,
+      "total_score": 16.56882879244019,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "openebs/openebs": {
+      "full_name": "openebs/openebs",
+      "popularity": 4.721445712062176,
+      "percentage": 0,
+      "maturity": 4.1298445386939955,
+      "total_commits_count": 1383,
+      "activity": 5,
+      "total_score": 27.424026213574518,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "debck/HLW-World": {
+      "full_name": "debck/HLW-World"
+    },
+    "debck/Calculator": {
+      "full_name": "debck/Calculator",
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 12,
+      "activity": 2.1818900913672845,
+      "total_score": 18.84474161845433,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "debck/ReWbSp": {
+      "full_name": "debck/ReWbSp",
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 25,
+      "activity": 2.1495682344526554,
+      "total_score": 18.812419761539697,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "fossasia/susi_kikbot": {
+      "full_name": "fossasia/susi_kikbot",
+      "popularity": 3.512056046126363,
+      "percentage": 2.857142857142857,
+      "maturity": 0,
+      "total_commits_count": 35,
+      "activity": 5,
+      "total_score": 16.84064609836888,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "coding-blocks/lab.codingblocks.com": {
+      "full_name": "coding-blocks/lab.codingblocks.com",
+      "popularity": 1.49139952161816,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 27,
+      "activity": 5,
+      "total_score": 9.474198564854479,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "openebs/csi-openebs": {
+      "full_name": "openebs/csi-openebs",
+      "popularity": 1.7076084983408428,
+      "percentage": 25,
+      "maturity": 0,
+      "total_commits_count": 4,
+      "activity": 2.332221767274786,
+      "total_score": 13.004774881905055,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "coding-blocks/shortlr": {
+      "full_name": "coding-blocks/shortlr",
+      "popularity": 2.3997126544096057,
+      "percentage": 0,
+      "maturity": 2.8153146453382947,
+      "total_commits_count": 105,
+      "activity": 5,
+      "total_score": 17.829767253905406,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "OpenGenus/cosmos": {
+      "full_name": "OpenGenus/cosmos",
+      "popularity": 4.970623041270979,
+      "percentage": 0.02811753128075355,
+      "maturity": 4.851346092323262,
+      "total_commits_count": 7113,
+      "activity": 5,
+      "total_score": 29.63273032280967,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "debck/cosmos": {
+      "full_name": "debck/cosmos"
+    },
+    "dwyl/learn-elm": {
+      "full_name": "dwyl/learn-elm",
+      "popularity": 3.285821342190879,
+      "percentage": 1.5873015873015872,
+      "maturity": 2.3653407969119673,
+      "total_commits_count": 63,
+      "activity": 2.180215236503488,
+      "total_score": 17.44638748306643,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "dwyl/learn-elixir": {
+      "full_name": "dwyl/learn-elixir",
+      "popularity": 3.378618648421539,
+      "percentage": 0,
+      "maturity": 2.6654334850844252,
+      "total_commits_count": 86,
+      "activity": 2.105482110857081,
+      "total_score": 17.572205026290547,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Syknapse/Contribute-To-This-Project": {
+      "full_name": "Syknapse/Contribute-To-This-Project",
+      "popularity": 2.924835037974496,
+      "percentage": 0.7692307692307693,
+      "maturity": 2.9564591863300644,
+      "total_commits_count": 130,
+      "activity": 5,
+      "total_score": 19.979906990381068,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Anupam-dagar/awesome-first-timers": {
+      "full_name": "Anupam-dagar/awesome-first-timers",
+      "popularity": 3.458072267535396,
+      "percentage": 0,
+      "maturity": 3.132390384985706,
+      "total_commits_count": 175,
+      "activity": 2.8709997899468434,
+      "total_score": 19.509997362524444,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "debck/JsAlgo": {
+      "full_name": "debck/JsAlgo"
+    },
+    "debck/tic-tac-toe": {
+      "full_name": "debck/tic-tac-toe"
+    },
+    "TheAlgorithms/C": {
+      "full_name": "TheAlgorithms/C",
+      "popularity": 3.5080298013379463,
+      "percentage": 0.5988023952095808,
+      "maturity": 3.105880505784522,
+      "total_commits_count": 167,
+      "activity": 5,
+      "total_score": 22.00893057975889,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "TheAlgorithms/Java": {
+      "full_name": "TheAlgorithms/Java",
+      "popularity": 4.7275071430816755,
+      "percentage": 0,
+      "maturity": 3.441226279099935,
+      "total_commits_count": 315,
+      "activity": 5,
+      "total_score": 26.064973987444898,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "debck/PhoneBook": {
+      "full_name": "debck/PhoneBook"
+    },
+    "debck/T-S-C": {
+      "full_name": "debck/T-S-C",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 3,
+      "activity": 1.3724341401874014,
+      "total_score": 1.3724341401874014,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sr6033/cryptography": {
+      "full_name": "sr6033/cryptography",
+      "popularity": 1.0414282204429401,
+      "percentage": 59.09090909090909,
+      "maturity": 0,
+      "total_commits_count": 22,
+      "activity": 1.3341578369841196,
+      "total_score": 12.458504737170074,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sr6033/dataStructure-Algorithms": {
+      "full_name": "sr6033/dataStructure-Algorithms",
+      "popularity": 1.49139952161816,
+      "percentage": 54.716981132075475,
+      "maturity": 2.118994386183839,
+      "total_commits_count": 53,
+      "activity": 1.3858015914887085,
+      "total_score": 20.706623261730606,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "palash25/pyphers": {
+      "full_name": "palash25/pyphers",
+      "popularity": 1.3222565221025262,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 20,
+      "activity": 2.1150451890195114,
+      "total_score": 6.08181475532709,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "debck/p-society.github.io": {
+      "full_name": "debck/p-society.github.io"
+    }
+  },
+  "organizations": [
+    "p-society",
+    "androidArea",
+    "sugarlabs",
+    "fossasia",
+    "Coding-Den",
+    "dwyl",
+    "openebs",
+    "coding-blocks",
+    "OpenGenus",
+    "TheAlgorithms"
+  ]
+}
