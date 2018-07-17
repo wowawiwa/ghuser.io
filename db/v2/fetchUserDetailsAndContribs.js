@@ -3,16 +3,14 @@
 
 (async () => {
 
-  const fetch = require('fetch-retry');
-  const fs = require('fs');
-  const githubColors = require('github-colors');
   const githubContribs = require('@ghuser/github-contribs');
   const meow = require('meow');
   const ora = require('ora');
-  const assert = require('assert');
-  const url = require('url');
 
   const DbFile = require('./impl/dbFile');
+  const fetchJson = require('./impl/fetchJson');
+  const github = require('./impl/github');
+  const scriptUtils = require('./impl/scriptUtils');
 
   const cli = meow(`
 usage:
@@ -36,37 +34,12 @@ positional arguments:
 
   const user = cli.input[0];
 
-  process.on('unhandledRejection', (e, p) => { // https://stackoverflow.com/a/44752070/1855917
-    console.error(p);
-    throw e;
-  });
+  scriptUtils.printUnhandledRejections();
 
   await fetchUserDetailsAndContribs(user);
   return;
 
   async function fetchUserDetailsAndContribs(user) {
-    const authify = (() => {
-      let query = '';
-      let auth = '';
-      if (process.env.GITHUB_CLIENT_ID && process.env.GITHUB_CLIENT_SECRET) {
-        console.log('GitHub API key found.');
-        query = `client_id=${process.env.GITHUB_CLIENT_ID}&client_secret=${process.env.GITHUB_CLIENT_SECRET}`;
-      }
-      if (process.env.GITHUB_USERNAME && process.env.GITHUB_PASSWORD) {
-        console.log('GitHub credentials found.');
-        auth = `${process.env.GITHUB_USERNAME}:${process.env.GITHUB_PASSWORD}`;
-      }
-
-      return addr => {
-        const result = url.parse(addr);
-        result.auth = auth;
-        if (query) {
-          result.search = result.search && `${result.search}&${query}` || `?${query}`;
-        }
-        return url.format(result);
-      };
-    })();
-
     let spinner;
 
     const userId = user.toLowerCase();
@@ -81,6 +54,7 @@ positional arguments:
     }
 
     await fetchDetails();
+    await fetchOrgs();
     await fetchContribs();
     await fetchPopularForks();
     return;
@@ -89,7 +63,7 @@ positional arguments:
       const userLogin = userFile.login;
       const ghUserUrl = `https://api.github.com/users/${userLogin}`;
       spinner = ora(`Fetching ${ghUserUrl}...`).start();
-      const ghDataJson = await fetchJson(authify(ghUserUrl));
+      const ghDataJson = await fetchJson(github.authify(ghUserUrl), spinner);
       spinner.succeed(`Fetched ${ghUserUrl}`);
 
       Object.assign(userFile, ghDataJson);
@@ -102,6 +76,20 @@ positional arguments:
                            "total_private_repos","owned_private_repos", "disk_usage",
                            "collaborators", "two_factor_authentication", "plan", "url"]) {
         delete userFile[field];
+      }
+
+      userFile.write();
+    }
+
+    async function fetchOrgs() {
+      const orgsUrl = userFile.organizations_url;
+      spinner = ora(`Fetching ${orgsUrl}...`).start();
+      const orgsDataJson = await fetchJson(github.authify(orgsUrl));
+      spinner.succeed(`Fetched ${orgsUrl}`);
+
+      userFile.organizations = [];
+      for (const org of orgsDataJson) {
+        userFile.organizations.push(org.login);
       }
 
       userFile.write();
@@ -143,7 +131,7 @@ positional arguments:
       const perPage = 100;
       for (let page = 1; page <= 5; ++page) {
         const ghUrl = `${userFile.repos_url}?page=${page}&per_page=${perPage}`;
-        const ghDataJson = await fetchJson(authify(ghUrl));
+        const ghDataJson = await fetchJson(github.authify(ghUrl), spinner);
 
         for (const repo of ghDataJson) {
           if (repo.fork && repo.stargazers_count >= 1 &&
@@ -159,39 +147,6 @@ positional arguments:
 
       spinner.succeed(`Fetched ${user}'s popular forks`);
       userFile.write();
-    }
-
-    async function fetchJson(url, acceptedErrorCodes=[]) {
-      // If the HTTP status code is 2xx, returns the object represented by the fetched json.
-      // Else if the HTTP status code is in acceptedErrorCodes, returns it.
-      // Else throws the HTTP status code.
-
-      const data = await fetch(url);
-      const statusIsOk = Math.floor(data.status / 100) === 2;
-      if (!statusIsOk && acceptedErrorCodes.indexOf(data.status) > -1) {
-        return data.status;
-      }
-
-      try {
-        var dataJson = await data.json();
-      } catch (e) {}
-
-      if (!statusIsOk) {
-        spinner.fail();
-        if (dataJson) {
-          console.error(dataJson);
-        }
-        for (const envvar of ['GITHUB_CLIENT_ID', 'GITHUB_CLIENT_SECRET', 'GITHUB_USERNAME',
-                              'GITHUB_PASSWORD']) {
-          if (!process.env[envvar]) {
-            console.log(`Consider setting the environment variable ${envvar}.`);
-            break;
-          }
-        }
-        throw data.status;
-      }
-
-      return dataJson;
     }
   }
 

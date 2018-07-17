@@ -38,11 +38,6 @@
                           └──────────────────────┘
 ```
 
-
-* `fetchUserDetailsAndContribs.js`
-  * `fetchUser()`
-  * `fetchUserContribs()`
-  * `fetchUserPopularForks()`
 * `fetchRepos.js`
   * `fetchRepo()`
   * `stripUnreferencedRepos()`

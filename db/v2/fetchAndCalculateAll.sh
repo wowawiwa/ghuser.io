@@ -18,6 +18,8 @@ function run {
     userId="${user::-5}"
     ./fetchUserDetailsAndContribs.js "$userId"
   done
+
+  ./fetchOrgs.js
 }
 
 time run
