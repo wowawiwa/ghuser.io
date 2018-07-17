@@ -10,33 +10,34 @@
                 └──────────────│────┘ │        │                    ╔════════╗
                   └────┬───────│──────┘        │                    ║ GitHub ║
                        │       │               │                    ╚════╤═══╝
-      ┌──────┬─────────┤       v               │                         │
-      │      │         │   [ ./fetchUserDetailsAndContribs.js myUser ]<──┤
-      │      │         v                                                 │
-      │      │     [ ./fetchRepos.js ]<──────────────────────────────────┤
-      │      │         │                                                 │
-      │      │         v                                                 │
-      │      │   ┌────────────┐                                          │
-      │      │   │ repos.json │<─────────────────────────────────────────┤
-      │      │   └─────┬──────┘                                          │
-      │      │         │                                                 │
-      │      v         v                                                 │
-      │  [ ./calculateScores.js ]                                        │
-      │             │                                                    │
-      │             v                                                    │
-      │   ┌────────────────────┐                                         │
-      │   │ scores/myUser.json │─┐                                       │
-      │   └────────────────────┘ │─┐                                     │
-      │     └────────────────────┘ │                                     │
-      │       └────────────────────┘                                     │
-      │                                                                  │
-      └─────────────────────>[ ./fetchOrgs.js ]<─────────────────────────┘
-                                     │
-                                     v
-                               ┌───────────┐
-                               │ orgs.json │
-                               └───────────┘
+                       │       v               │                         │
+                       │   [ ./fetchUserDetailsAndContribs.js myUser ]<──┤
+                       │                                                 │
+                       ├──────────────────>[ ./fetchOrgs.js ]<───────────┤
+                       │                            │                    │
+                       │                            v                    │
+                       │                      ┌───────────┐              │
+                       │                      │ orgs.json │              │
+                       │                      └─────┬─────┘              │
+                       │                            │                    │
+                       ├──>[ ./fetchRepos.js ]<──────────────────────────┘
+                       │         │                  │
+                       │         v        ┌─────────┘
+                       │  ┌────────────┐  │
+                       │  │ repos.json │  │
+                       │  └──────┬─────┘  │
+                       │         │        │
+                       v         v        v
+                   [ ./calculateContribs.js ]
+                                 │
+                                 v
+                      ┌──────────────────────┐
+                      │ contribs/myUser.json │─┐
+                      └──────────────────────┘ │─┐
+                        └──────────────────────┘ │
+                          └──────────────────────┘
 ```
+
 
 * `fetchUserDetailsAndContribs.js`
   * `fetchUser()`
@@ -50,8 +51,9 @@
   * `fetchRepoLanguages()`
   * `fetchRepoSettings()`
   * `markRepoAsFullyFetched()`
-* `calculateScores.js`
+* `calculateContribs.js`
   * `calculateUserContribsScores()`
+  * `fetchUserContribsOrgs()`
 * `fetchOrgs.js`
   * `fetchUserOrgs()`
   * `stripUnreferencedOrgs()`
