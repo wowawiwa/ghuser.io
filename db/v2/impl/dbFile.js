@@ -25,6 +25,15 @@
     write() {
       fs.writeFileSync(this._path(), JSON.stringify(this, null, 2) + '\n', 'utf-8');
     }
+
+    deleteAllPropsBut(exceptions) {
+      Object.keys(this).forEach(prop => {
+        if (prop.startsWith('_') || prop in exceptions) {
+          return;
+        }
+        delete this[prop];
+      });
+    }
   }
   module.exports = DbFile;
   return;
