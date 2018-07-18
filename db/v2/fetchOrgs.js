@@ -29,7 +29,7 @@
           users.push(user);
         }
       }
-    };
+    }
 
     let userOrgs = new Set([]);
     for (const user of users) {

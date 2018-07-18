@@ -30,7 +30,7 @@
           users.push(user);
         }
       }
-    };
+    }
 
     let referencedRepos = new Set([]);
     for (const user of users) {

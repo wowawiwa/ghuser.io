@@ -40,3 +40,6 @@
 
 * `calculateContribs.js`
   * `calculateUserContribsScores()`
+  * contributedTo
+
+TODO: fetchOrgs should still fetch the contrib orgs
