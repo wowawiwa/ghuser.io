@@ -21,56 +21,79 @@
 
     const orgs = new DbFile('data/orgs.json');
 
+    const users = [];
     for (const file of fs.readdirSync('data/users/')) {
       if (file.endsWith('.json')) {
         const user = new DbFile(`data/users/${file}`);
         if (!user.ghuser_deleted_because) {
-          await fetchUserOrgs(user);
+          users.push(user);
         }
       }
     };
 
+    let userOrgs = new Set([]);
+    for (const user of users) {
+      userOrgs = new Set([...userOrgs, ...user.organizations]);
+    }
+    await fetchOrgs(userOrgs);
+
+    stripUnreferencedOrgs();
+
     return;
 
-    async function fetchUserOrgs(user) {
-      for (const org of user.organizations) {
-        const orgUrl = `https://api.github.com/orgs/${org}`;
+    async function fetchOrgs(orgSet) {
+      for (const org of orgSet) {
         spinner = ora(`Fetching organization ${org}...`).start();
         if (orgs.orgs[org] && orgs.orgs[org].avatar_url) {
           spinner.succeed(`Organization ${org} is already known`);
           continue;
         }
 
+        const orgUrl = `https://api.github.com/orgs/${org}`;
         const orgJson = await fetchJson(github.authify(orgUrl), spinner);
         spinner.succeed(`Fetched organization ${org}`);
 
-        orgs.orgs[orgJson.login] = {...orgs.orgs[orgJson.login], ...filterOrgInPlace(orgJson)};
+        orgs.orgs[orgJson.login] = {...orgs.orgs[orgJson.login], ...orgJson};
+
+        // Keep the DB small:
+        delete orgs.orgs[orgJson.login].id;
+        delete orgs.orgs[orgJson.login].node_id;
+        delete orgs.orgs[orgJson.login].events_url;
+        delete orgs.orgs[orgJson.login].hooks_url;
+        delete orgs.orgs[orgJson.login].issues_url;
+        delete orgs.orgs[orgJson.login].repos_url;
+        delete orgs.orgs[orgJson.login].members_url;
+        delete orgs.orgs[orgJson.login].public_members_url;
+        delete orgs.orgs[orgJson.login].description;
+        delete orgs.orgs[orgJson.login].company;
+        delete orgs.orgs[orgJson.login].blog;
+        delete orgs.orgs[orgJson.login].location;
+        delete orgs.orgs[orgJson.login].email;
+        delete orgs.orgs[orgJson.login].has_organization_projects;
+        delete orgs.orgs[orgJson.login].has_repository_projects;
+        delete orgs.orgs[orgJson.login].public_repos;
+        delete orgs.orgs[orgJson.login].public_gists;
+        delete orgs.orgs[orgJson.login].followers;
+        delete orgs.orgs[orgJson.login].following;
       }
 
       orgs.write();
     }
 
-    function filterOrgInPlace(org) { // to keep the DB small
-      delete org.id;
-      delete org.node_id;
-      delete org.events_url;
-      delete org.hooks_url;
-      delete org.issues_url;
-      delete org.repos_url;
-      delete org.members_url;
-      delete org.public_members_url;
-      delete org.description;
-      delete org.company;
-      delete org.blog;
-      delete org.location;
-      delete org.email;
-      delete org.has_organization_projects;
-      delete org.has_repository_projects;
-      delete org.public_repos;
-      delete org.public_gists;
-      delete org.followers;
-      delete org.following;
-      return org;
+    function stripUnreferencedOrgs() {
+      // Deletes orgs that are not referenced by any user.
+
+      const toBeDeleted = [];
+      for (const org in orgs.orgs) {
+        if (!userOrgs.has(org)) {
+          toBeDeleted.push(org);
+        }
+      }
+      for (const org of toBeDeleted) {
+        delete orgs.orgs[org];
+      }
+
+      orgs.write();
     }
   }
 

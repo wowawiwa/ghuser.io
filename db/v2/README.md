@@ -50,9 +50,5 @@
   * strip deleted users
   * `calculateUserContribsScores()`
   * `fetchUserContribsOrgs()`
-* `fetchOrgs.js`
-  * `fetchUserOrgs()`
-  * `stripUnreferencedOrgs()`
-  * `fetchUserContribsOrgs()`
 * get rid of:
   * `stripInsignificantUserContribs()`
