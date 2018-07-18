@@ -84,7 +84,7 @@ positional arguments:
     async function fetchOrgs() {
       const orgsUrl = userFile.organizations_url;
       spinner = ora(`Fetching ${orgsUrl}...`).start();
-      const orgsDataJson = await fetchJson(github.authify(orgsUrl));
+      const orgsDataJson = await fetchJson(github.authify(orgsUrl), spinner);
       spinner.succeed(`Fetched ${orgsUrl}`);
 
       userFile.organizations = [];

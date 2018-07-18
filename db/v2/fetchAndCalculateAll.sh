@@ -20,6 +20,7 @@ function run {
   done
 
   ./fetchOrgs.js
+  ./fetchRepos.js
 }
 
 time run

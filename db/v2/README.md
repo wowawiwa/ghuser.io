@@ -38,17 +38,5 @@
                           └──────────────────────┘
 ```
 
-* `fetchRepos.js`
-  * [x] `fetchRepo()`
-  * [ ] `stripUnreferencedRepos()`
-  * [ ] `stripUnsuccessfulOrEmptyRepos()`
-  * [ ] `fetchRepoContributors()`
-  * [ ] `fetchRepoLanguages()`
-  * [ ] `fetchRepoSettings()`
-  * [x] `markRepoAsFullyFetched()`
 * `calculateContribs.js`
-  * strip deleted users
   * `calculateUserContribsScores()`
-  * `fetchUserContribsOrgs()`
-* get rid of:
-  * `stripInsignificantUserContribs()`
