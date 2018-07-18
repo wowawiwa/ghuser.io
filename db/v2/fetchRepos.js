@@ -21,6 +21,8 @@
     let spinner;
 
     const repos = new DbFile('data/repos.json');
+    repos._comment = 'DO NOT EDIT MANUALLY - See ../README.md';
+    repos.repos = repos.repos || {};
 
     const users = [];
     for (const file of fs.readdirSync('data/users/')) {

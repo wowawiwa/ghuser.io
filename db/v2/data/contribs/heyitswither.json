@@ -1,15 +1,14 @@
 {
-  "_comment": "DO NOT EDIT MANUALLY - See README.md",
-  "fetched_at": "2018-07-17T06:00:02.753Z",
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
   "repos": {
     "selfagency/microsoft-drop-ice": {
       "full_name": "selfagency/microsoft-drop-ice",
-      "popularity": 3.7119306309456377,
+      "popularity": 3.71529011000238,
       "percentage": 0.15060240963855423,
       "maturity": 3.7969902235343667,
       "total_commits_count": 664,
       "activity": 5,
-      "total_score": 23.80244568057175,
+      "total_score": 23.81258989067532,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -92,12 +91,12 @@
     },
     "Jguer/yay": {
       "full_name": "Jguer/yay",
-      "popularity": 3.9690354111036594,
-      "percentage": 0.30721966205837176,
-      "maturity": 3.7878483187666947,
-      "total_commits_count": 651,
+      "popularity": 3.9745968293623415,
+      "percentage": 0.3053435114503817,
+      "maturity": 3.790681763914628,
+      "total_commits_count": 655,
       "activity": 5,
-      "total_score": 24.641320414144975,
+      "total_score": 24.662924271738298,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -118,8 +117,8 @@
       "percentage": 2.18978102189781,
       "maturity": 3.371136992086918,
       "total_commits_count": 274,
-      "activity": 2.4944393582014737,
-      "total_score": 9.23671334237531,
+      "activity": 2.444821532989683,
+      "total_score": 9.187095517163518,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -129,8 +128,8 @@
       "percentage": 100,
       "maturity": 0,
       "total_commits_count": 1,
-      "activity": 1.2199536071096277,
-      "total_score": 1.2199536071096277,
+      "activity": 1.2171687437899004,
+      "total_score": 1.2171687437899004,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -162,8 +161,8 @@
       "percentage": 87.87878787878788,
       "maturity": 0,
       "total_commits_count": 33,
-      "activity": 2.1049842420685967,
-      "total_score": 2.1049842420685967,
+      "activity": 2.084056526719135,
+      "total_score": 2.084056526719135,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -184,8 +183,8 @@
       "percentage": 98.55072463768116,
       "maturity": 2.993403559571943,
       "total_commits_count": 138,
-      "activity": 1.139896294200684,
-      "total_score": 28.033686972965675,
+      "activity": 1.137579003135683,
+      "total_score": 28.031369681900674,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -228,8 +227,8 @@
       "percentage": 1.4285714285714286,
       "maturity": 2.4802970571810303,
       "total_commits_count": 70,
-      "activity": 1.0739381765704885,
-      "total_score": 12.275601597687825,
+      "activity": 1.0719466528305137,
+      "total_score": 12.27361007394785,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -294,8 +293,8 @@
       "percentage": 4,
       "maturity": 0,
       "total_commits_count": 25,
-      "activity": 0.9981661796055485,
-      "total_score": 4.663993515564698,
+      "activity": 0.9964928838220333,
+      "total_score": 4.662320219781183,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -305,8 +304,8 @@
       "percentage": 5.555555555555555,
       "maturity": 2.1509431413585514,
       "total_commits_count": 54,
-      "activity": 0.9748726125471467,
-      "total_score": 9.153186160246305,
+      "activity": 0.9732865409463134,
+      "total_score": 9.151600088645472,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

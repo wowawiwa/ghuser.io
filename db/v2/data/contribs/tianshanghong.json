@@ -1,6 +1,5 @@
 {
-  "_comment": "DO NOT EDIT MANUALLY - See README.md",
-  "fetched_at": "2018-07-17T06:00:02.753Z",
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
   "repos": {
     "xingshaocheng/architect-awesome": {
       "full_name": "xingshaocheng/architect-awesome",
@@ -30,8 +29,8 @@
       "percentage": 3.0303030303030303,
       "maturity": 0,
       "total_commits_count": 33,
-      "activity": 1.9080310379556908,
-      "total_score": 11.523693099622669,
+      "activity": 1.894617283506875,
+      "total_score": 11.510279345173853,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -41,8 +40,8 @@
       "percentage": 100,
       "maturity": 0,
       "total_commits_count": 4,
-      "activity": 1.6910102939095486,
-      "total_score": 1.6910102939095486,
+      "activity": 1.6828227518307566,
+      "total_score": 1.6828227518307566,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

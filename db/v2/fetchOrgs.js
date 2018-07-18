@@ -20,6 +20,8 @@
     let spinner;
 
     const orgs = new DbFile('data/orgs.json');
+    orgs._comment = 'DO NOT EDIT MANUALLY - See ../README.md';
+    orgs.orgs = orgs.orgs || {};
 
     const users = [];
     for (const file of fs.readdirSync('data/users/')) {

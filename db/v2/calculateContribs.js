@@ -34,6 +34,8 @@
     for (const file of fs.readdirSync('data/contribs/')) {
       if (file.endsWith('.json')) {
         const contribList = new DbFile(`data/contribs/${file}`);
+        contribList._comment = 'DO NOT EDIT MANUALLY - See ../../README.md';
+        contribList.repos = contribList.repos || {};
         contribs[file] = contribList;
       }
     }

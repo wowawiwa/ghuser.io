@@ -1,6 +1,5 @@
 {
-  "_comment": "DO NOT EDIT MANUALLY - See README.md",
-  "fetched_at": "2018-07-17T06:00:02.753Z",
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
   "repos": {
     "mikekutzma/mnist-torch": {
       "full_name": "mikekutzma/mnist-torch"
@@ -16,7 +15,7 @@
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,
-      "total_commits_count": 15823,
+      "total_commits_count": 15831,
       "activity": 5,
       "total_score": 30,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
@@ -43,8 +42,8 @@
       "percentage": 100,
       "maturity": 0,
       "total_commits_count": 2,
-      "activity": 0.9750091859944581,
-      "total_score": 0.9750091859944581,
+      "activity": 0.9734226164502084,
+      "total_score": 0.9734226164502084,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -56,6 +55,9 @@
     },
     "mikekutzma/mikekutzma.github.io": {
       "full_name": "mikekutzma/mikekutzma.github.io"
+    },
+    "mikekutzma/totempole": {
+      "full_name": "mikekutzma/totempole"
     }
   },
   "organizations": [
