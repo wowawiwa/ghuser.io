@@ -37,21 +37,39 @@
     }
     await fetchOrgs(userOrgs);
 
+    let contribOwners = new Set([]);
+    for (const user of users) {
+      contribOwners = new Set([...contribOwners,
+                               ...user.contribs.repos.map(repo => repo.split('/')[0])]);
+    }
+    await fetchOrgs(contribOwners);
+
     stripUnreferencedOrgs();
 
     return;
 
-    async function fetchOrgs(orgSet) {
-      for (const org of orgSet) {
-        spinner = ora(`Fetching organization ${org}...`).start();
-        if (orgs.orgs[org] && orgs.orgs[org].avatar_url) {
-          spinner.succeed(`Organization ${org} is already known`);
+    async function fetchOrgs(owners) {
+      owners:
+      for (const owner of owners) {
+        spinner = ora(`Fetching owner ${owner}...`).start();
+        if (orgs.orgs[owner] && orgs.orgs[owner].avatar_url) {
+          spinner.succeed(`Organization ${owner} is already known`);
           continue;
         }
+        for (const user of users) {
+          if (user.login === owner) {
+            spinner.succeed(`${owner} is a user`);
+            continue owners;
+          }
+        }
 
-        const orgUrl = `https://api.github.com/orgs/${org}`;
-        const orgJson = await fetchJson(github.authify(orgUrl), spinner);
-        spinner.succeed(`Fetched organization ${org}`);
+        const orgUrl = `https://api.github.com/orgs/${owner}`;
+        const orgJson = await fetchJson(github.authify(orgUrl), spinner, [404]);
+        if (orgJson === 404) {
+          spinner.succeed(`${owner} must be a user`);
+          continue;
+        }
+        spinner.succeed(`Fetched organization ${owner}`);
 
         orgs.orgs[orgJson.login] = {...orgs.orgs[orgJson.login], ...orgJson};
 
@@ -75,9 +93,9 @@
         delete orgs.orgs[orgJson.login].public_gists;
         delete orgs.orgs[orgJson.login].followers;
         delete orgs.orgs[orgJson.login].following;
-      }
 
-      orgs.write();
+        orgs.write();
+      }
     }
 
     function stripUnreferencedOrgs() {
@@ -85,7 +103,7 @@
 
       const toBeDeleted = [];
       for (const org in orgs.orgs) {
-        if (!userOrgs.has(org)) {
+        if (!userOrgs.has(org) && !contribOwners.has(org)) {
           toBeDeleted.push(org);
         }
       }
