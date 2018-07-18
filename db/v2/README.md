@@ -39,13 +39,13 @@
 ```
 
 * `fetchRepos.js`
-  * `fetchRepo()`
-  * `stripUnreferencedRepos()`
-  * `stripUnsuccessfulOrEmptyRepos()`
-  * `fetchRepoContributors()`
-  * `fetchRepoLanguages()`
-  * `fetchRepoSettings()`
-  * `markRepoAsFullyFetched()`
+  * [x] `fetchRepo()`
+  * [ ] `stripUnreferencedRepos()`
+  * [ ] `stripUnsuccessfulOrEmptyRepos()`
+  * [ ] `fetchRepoContributors()`
+  * [ ] `fetchRepoLanguages()`
+  * [ ] `fetchRepoSettings()`
+  * [x] `markRepoAsFullyFetched()`
 * `calculateContribs.js`
   * strip deleted users
   * `calculateUserContribsScores()`
