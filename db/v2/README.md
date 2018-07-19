@@ -37,7 +37,3 @@
                         └──────────────────────┘ │
                           └──────────────────────┘
 ```
-
-* `calculateContribs.js`
-  * `calculateUserContribsScores()`
-  * contributedTo
