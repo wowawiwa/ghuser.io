@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "terraform-google-examples",
+  "full_name": "jordansissel/terraform-google-examples",
+  "owner": "jordansissel",
+  "private": false,
+  "html_url": "https://github.com/jordansissel/terraform-google-examples",
+  "description": "Collection of examples for using Terraform with Google Cloud Platform.",
+  "fork": true,
+  "url": "https://api.github.com/repos/jordansissel/terraform-google-examples",
+  "languages_url": "https://api.github.com/repos/jordansissel/terraform-google-examples/languages",
+  "created_at": "2018-05-02T19:02:03Z",
+  "updated_at": "2018-05-04T14:34:33Z",
+  "pushed_at": "2018-04-27T21:44:48Z",
+  "homepage": "",
+  "size": 910,
+  "stargazers_count": 1,
+  "language": "HCL",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "madmod": 1,
+    "danisla": 22
+  },
+  "languages": {
+    "HCL": {
+      "bytes": 15742,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 2986,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

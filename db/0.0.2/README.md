@@ -69,11 +69,14 @@ data/
   contribs/
     largest: richardlitt.json (268 KB)
     total: 715 KB
+  repos/
+    1733 repos
+    largest: OpenGenus/cosmos.json (14 KB)
+    total: 3832 KB
   orgs.json: 107 KB
-  repos.json: 4326 KB
-  total: 5271 KB
+  total: 4777 KB
 
-=> 203 KB/user
+=> 184 KB/user
 
 real    10m35.411s
 user    2m34.128s

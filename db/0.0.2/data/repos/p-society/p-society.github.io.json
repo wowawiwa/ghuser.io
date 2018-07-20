@@ -1,0 +1,88 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "p-society.github.io",
+  "full_name": "p-society/p-society.github.io",
+  "owner": "p-society",
+  "private": false,
+  "html_url": "https://github.com/p-society/p-society.github.io",
+  "description": "[WIP] Official site of p-society",
+  "fork": false,
+  "url": "https://api.github.com/repos/p-society/p-society.github.io",
+  "languages_url": "https://api.github.com/repos/p-society/p-society.github.io/languages",
+  "created_at": "2017-07-04T16:18:46Z",
+  "updated_at": "2018-07-19T07:44:56Z",
+  "pushed_at": "2018-07-15T16:10:50Z",
+  "homepage": "https://p-society.herokuapp.com/",
+  "size": 913,
+  "stargazers_count": 17,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "p-society",
+    "id": 29895434,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI5ODk1NDM0",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/29895434?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/p-society",
+    "html_url": "https://github.com/p-society",
+    "followers_url": "https://api.github.com/users/p-society/followers",
+    "following_url": "https://api.github.com/users/p-society/following{/other_user}",
+    "gists_url": "https://api.github.com/users/p-society/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/p-society/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/p-society/subscriptions",
+    "organizations_url": "https://api.github.com/users/p-society/orgs",
+    "repos_url": "https://api.github.com/users/p-society/repos",
+    "events_url": "https://api.github.com/users/p-society/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/p-society/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "debck": 3,
+    "sonakshisaxena1": 1,
+    "swap1108": 1,
+    "geekysrm": 1,
+    "hdidwania": 1,
+    "arijeetsat": 1,
+    "gupta2140": 1,
+    "palash25": 1,
+    "shivank01": 2,
+    "shibasisp": 3,
+    "bkhanale": 3,
+    "sr6033": 9,
+    "knrt10": 48,
+    "nayonika1999": 1
+  },
+  "languages": {
+    "HTML": {
+      "bytes": 23503,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 9905,
+      "color": "#563d7c"
+    },
+    "Ruby": {
+      "bytes": 4292,
+      "color": "#701516"
+    },
+    "JavaScript": {
+      "bytes": 2073,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 119,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

@@ -1,0 +1,60 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "dnslink-deploy",
+  "full_name": "ipfs/dnslink-deploy",
+  "owner": "ipfs",
+  "private": false,
+  "html_url": "https://github.com/ipfs/dnslink-deploy",
+  "description": "Set the DNS records on Digital Ocean programmatically",
+  "fork": false,
+  "url": "https://api.github.com/repos/ipfs/dnslink-deploy",
+  "languages_url": "https://api.github.com/repos/ipfs/dnslink-deploy/languages",
+  "created_at": "2015-09-14T16:47:52Z",
+  "updated_at": "2018-07-13T06:04:10Z",
+  "pushed_at": "2016-06-24T11:42:31Z",
+  "homepage": "",
+  "size": 14,
+  "stargazers_count": 37,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "ipfs",
+    "id": 10536621,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwNTM2NjIx",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/10536621?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ipfs",
+    "html_url": "https://github.com/ipfs",
+    "followers_url": "https://api.github.com/users/ipfs/followers",
+    "following_url": "https://api.github.com/users/ipfs/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ipfs/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ipfs/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ipfs/subscriptions",
+    "organizations_url": "https://api.github.com/users/ipfs/orgs",
+    "repos_url": "https://api.github.com/users/ipfs/repos",
+    "events_url": "https://api.github.com/users/ipfs/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ipfs/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 3295,
+      "color": "#f1e05a"
+    }
+  },
+  "contributors": {
+    "lgierth": 7,
+    "RichardLitt": 23
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

@@ -1,0 +1,89 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "falcon-sql-client",
+  "full_name": "plotly/falcon-sql-client",
+  "owner": "plotly",
+  "private": false,
+  "html_url": "https://github.com/plotly/falcon-sql-client",
+  "description": "Free, open-source SQL client for Windows and Mac 🦅",
+  "fork": false,
+  "url": "https://api.github.com/repos/plotly/falcon-sql-client",
+  "languages_url": "https://api.github.com/repos/plotly/falcon-sql-client/languages",
+  "created_at": "2016-05-12T01:03:48Z",
+  "updated_at": "2018-07-19T13:14:06Z",
+  "pushed_at": "2018-07-19T20:23:52Z",
+  "homepage": "https://plot.ly/free-sql-client-download/",
+  "size": 12053,
+  "stargazers_count": 552,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "plotly",
+    "id": 5997976,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjU5OTc5NzY=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/5997976?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/plotly",
+    "html_url": "https://github.com/plotly",
+    "followers_url": "https://api.github.com/users/plotly/followers",
+    "following_url": "https://api.github.com/users/plotly/following{/other_user}",
+    "gists_url": "https://api.github.com/users/plotly/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/plotly/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/plotly/subscriptions",
+    "organizations_url": "https://api.github.com/users/plotly/orgs",
+    "repos_url": "https://api.github.com/users/plotly/repos",
+    "events_url": "https://api.github.com/users/plotly/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/plotly/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 672218,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 22741,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 12780,
+      "color": "#89e051"
+    },
+    "HTML": {
+      "bytes": 9946,
+      "color": "#e34c26"
+    },
+    "Python": {
+      "bytes": 1855,
+      "color": "#3572A5"
+    }
+  },
+  "contributors": {
+    "briandennis": 1,
+    "alvaroabascar": 1,
+    "mperreux": 1,
+    "bpostlethwaite": 1,
+    "cldougl": 2,
+    "RichardLitt": 4,
+    "shannonlal": 17,
+    "kndungu": 36,
+    "jackparmer": 46,
+    "rmoestl": 57,
+    "tarzzz": 180,
+    "chriddyp": 265,
+    "n-riesco": 315,
+    "alexandresobolevski": 497,
+    "mfix22": 1
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

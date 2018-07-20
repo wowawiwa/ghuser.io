@@ -1,0 +1,70 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "js-libp2p-ping",
+  "full_name": "libp2p/js-libp2p-ping",
+  "owner": "libp2p",
+  "private": false,
+  "html_url": "https://github.com/libp2p/js-libp2p-ping",
+  "description": "libp2p ping implementation",
+  "fork": false,
+  "url": "https://api.github.com/repos/libp2p/js-libp2p-ping",
+  "languages_url": "https://api.github.com/repos/libp2p/js-libp2p-ping/languages",
+  "created_at": "2015-07-22T01:28:16Z",
+  "updated_at": "2018-06-26T08:48:31Z",
+  "pushed_at": "2018-06-26T08:48:35Z",
+  "homepage": "https://libp2p.io",
+  "size": 49,
+  "stargazers_count": 10,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "libp2p",
+    "id": 14838238,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0ODM4MjM4",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/14838238?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/libp2p",
+    "html_url": "https://github.com/libp2p",
+    "followers_url": "https://api.github.com/users/libp2p/followers",
+    "following_url": "https://api.github.com/users/libp2p/following{/other_user}",
+    "gists_url": "https://api.github.com/users/libp2p/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/libp2p/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/libp2p/subscriptions",
+    "organizations_url": "https://api.github.com/users/libp2p/orgs",
+    "repos_url": "https://api.github.com/users/libp2p/repos",
+    "events_url": "https://api.github.com/users/libp2p/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/libp2p/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 5693,
+      "color": "#f1e05a"
+    },
+    "Groovy": {
+      "bytes": 190,
+      "color": "#e69f56"
+    }
+  },
+  "contributors": {
+    "vasco-santos": 1,
+    "JGAntunes": 1,
+    "VictorBjelkholm": 1,
+    "RichardLitt": 1,
+    "dignifiedquire": 2,
+    "fbaiodias": 2,
+    "greenkeeperio-bot": 7,
+    "diasdavid": 53
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

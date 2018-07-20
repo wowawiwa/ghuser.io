@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gx",
+  "full_name": "whyrusleeping/gx",
+  "owner": "whyrusleeping",
+  "private": false,
+  "html_url": "https://github.com/whyrusleeping/gx",
+  "description": "A package management tool",
+  "fork": false,
+  "url": "https://api.github.com/repos/whyrusleeping/gx",
+  "languages_url": "https://api.github.com/repos/whyrusleeping/gx/languages",
+  "created_at": "2015-06-09T22:26:48Z",
+  "updated_at": "2018-07-20T02:45:35Z",
+  "pushed_at": "2018-07-18T01:00:02Z",
+  "homepage": null,
+  "size": 4429,
+  "stargazers_count": 1541,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "languages": {
+    "Go": {
+      "bytes": 79064,
+      "color": "#375eab"
+    },
+    "Shell": {
+      "bytes": 25888,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 1763,
+      "color": "#427819"
+    }
+  },
+  "contributors": {
+    "lexrus": 1,
+    "frrist": 1,
+    "arcalinea": 1,
+    "jesseclay": 1,
+    "ryanbreen": 1,
+    "adamnovak": 1,
+    "rht": 1,
+    "RichardLitt": 2,
+    "gingerhot": 2,
+    "hsanjuan": 2,
+    "Stebalien": 3,
+    "slang800": 3,
+    "Kubuxu": 4,
+    "lgierth": 4,
+    "kalmi": 4,
+    "djdv": 6,
+    "noffle": 7,
+    "chriscool": 8,
+    "whyrusleeping": 232
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

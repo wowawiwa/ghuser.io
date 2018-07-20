@@ -1,0 +1,130 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "plotly.py",
+  "full_name": "plotly/plotly.py",
+  "owner": "plotly",
+  "private": false,
+  "html_url": "https://github.com/plotly/plotly.py",
+  "description": "An interactive, browser-based graphing library for Python :sparkles:",
+  "fork": false,
+  "url": "https://api.github.com/repos/plotly/plotly.py",
+  "languages_url": "https://api.github.com/repos/plotly/plotly.py/languages",
+  "created_at": "2013-11-21T05:53:08Z",
+  "updated_at": "2018-07-20T11:29:29Z",
+  "pushed_at": "2018-07-20T15:32:25Z",
+  "homepage": "https://plot.ly/python/",
+  "size": 46464,
+  "stargazers_count": 3778,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "plotly",
+    "id": 5997976,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjU5OTc5NzY=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/5997976?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/plotly",
+    "html_url": "https://github.com/plotly",
+    "followers_url": "https://api.github.com/users/plotly/followers",
+    "following_url": "https://api.github.com/users/plotly/following{/other_user}",
+    "gists_url": "https://api.github.com/users/plotly/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/plotly/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/plotly/subscriptions",
+    "organizations_url": "https://api.github.com/users/plotly/orgs",
+    "repos_url": "https://api.github.com/users/plotly/repos",
+    "events_url": "https://api.github.com/users/plotly/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/plotly/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "Python": {
+      "bytes": 16370877,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 2735714,
+      "color": "#e34c26"
+    },
+    "Jupyter Notebook": {
+      "bytes": 361647,
+      "color": "#DA5B0B"
+    },
+    "JavaScript": {
+      "bytes": 76722,
+      "color": "#f1e05a"
+    },
+    "Makefile": {
+      "bytes": 1686,
+      "color": "#427819"
+    },
+    "Batchfile": {
+      "bytes": 237,
+      "color": "#C1F12E"
+    },
+    "Shell": {
+      "bytes": 220,
+      "color": "#89e051"
+    }
+  },
+  "contributors": {
+    "simon04": 1,
+    "dpryan79": 1,
+    "nburrus": 1,
+    "jwhendy": 1,
+    "ketigid": 1,
+    "Calebs97": 1,
+    "n17r4m": 1,
+    "scls19fr": 1,
+    "lgeiger": 1,
+    "SalchiPapa": 1,
+    "srinivasreddy": 1,
+    "grst": 1,
+    "Yoginski": 1,
+    "chohner": 1,
+    "vipul-sharma20": 1,
+    "oli887": 1,
+    "yuan3y": 1,
+    "dalogsdon": 1,
+    "icaromedeiros": 1,
+    "joshburkart": 1,
+    "arsenovic": 1,
+    "pziemkowski": 1,
+    "parulsethi": 2,
+    "jdfreder": 2,
+    "kiwiroy": 2,
+    "haraldschilly": 2,
+    "kernc": 3,
+    "choldgraf": 4,
+    "RichardLitt": 5,
+    "alexandresobolevski": 5,
+    "mdtusz": 6,
+    "alishobeiri": 7,
+    "msund": 7,
+    "tarzzz": 8,
+    "jackparmer": 13,
+    "jbampton": 14,
+    "oxananu": 17,
+    "BRONSOLO": 41,
+    "aneda": 71,
+    "jonmmease": 82,
+    "yankev": 86,
+    "etpinard": 173,
+    "cldougl": 202,
+    "chriddyp": 371,
+    "Kully": 634,
+    "theengineear": 831,
+    "xhlulu": 1,
+    "jeffreypriebe": 1
+  },
+  "fetched_at": "2018-07-20T16:41:54.654Z"
+}

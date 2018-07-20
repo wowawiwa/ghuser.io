@@ -1,0 +1,75 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gostats",
+  "full_name": "lyft/gostats",
+  "owner": "lyft",
+  "private": false,
+  "html_url": "https://github.com/lyft/gostats",
+  "description": "Go client for Stats",
+  "fork": false,
+  "url": "https://api.github.com/repos/lyft/gostats",
+  "languages_url": "https://api.github.com/repos/lyft/gostats/languages",
+  "created_at": "2016-12-27T22:01:18Z",
+  "updated_at": "2018-07-19T20:56:33Z",
+  "pushed_at": "2018-07-19T20:57:30Z",
+  "homepage": null,
+  "size": 53,
+  "stargazers_count": 19,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "lyft",
+    "id": 4269340,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQyNjkzNDA=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/4269340?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/lyft",
+    "html_url": "https://github.com/lyft",
+    "followers_url": "https://api.github.com/users/lyft/followers",
+    "following_url": "https://api.github.com/users/lyft/following{/other_user}",
+    "gists_url": "https://api.github.com/users/lyft/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/lyft/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/lyft/subscriptions",
+    "organizations_url": "https://api.github.com/users/lyft/orgs",
+    "repos_url": "https://api.github.com/users/lyft/repos",
+    "events_url": "https://api.github.com/users/lyft/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/lyft/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "diegs": 1,
+    "btc": 1,
+    "nathanliu1": 1,
+    "thechopkins": 1,
+    "DiSiqueira": 1,
+    "jpinner-lyft": 1,
+    "richunger": 1,
+    "yashlyft": 1,
+    "parkwherever": 2,
+    "twoism": 4,
+    "rodaine": 6,
+    "junr03": 6,
+    "jsedgwick": 2
+  },
+  "languages": {
+    "Go": {
+      "bytes": 44284,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 1092,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

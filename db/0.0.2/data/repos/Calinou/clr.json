@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "clr",
+  "full_name": "Calinou/clr",
+  "owner": "Calinou",
+  "private": false,
+  "html_url": "https://github.com/Calinou/clr",
+  "description": "[WIP] Get information about colors and convert them in the command line",
+  "fork": false,
+  "url": "https://api.github.com/repos/Calinou/clr",
+  "languages_url": "https://api.github.com/repos/Calinou/clr/languages",
+  "created_at": "2018-07-17T16:44:31Z",
+  "updated_at": "2018-07-17T20:39:16Z",
+  "pushed_at": "2018-07-17T20:39:15Z",
+  "homepage": "",
+  "size": 4,
+  "stargazers_count": 1,
+  "language": "Nim",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Calinou": 3
+  },
+  "languages": {
+    "Nim": {
+      "bytes": 3872,
+      "color": "#37775b"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

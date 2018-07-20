@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "split-sinatra-example",
+  "full_name": "splitrb/split-sinatra-example",
+  "owner": "splitrb",
+  "private": false,
+  "html_url": "https://github.com/splitrb/split-sinatra-example",
+  "description": ":book: Example of using split in a sinatra app ",
+  "fork": false,
+  "url": "https://api.github.com/repos/splitrb/split-sinatra-example",
+  "languages_url": "https://api.github.com/repos/splitrb/split-sinatra-example/languages",
+  "created_at": "2011-05-27T21:17:39Z",
+  "updated_at": "2018-07-08T20:01:58Z",
+  "pushed_at": "2018-07-08T20:01:45Z",
+  "homepage": "",
+  "size": 28,
+  "stargazers_count": 10,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "splitrb",
+    "id": 11708074,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjExNzA4MDc0",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/11708074?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/splitrb",
+    "html_url": "https://github.com/splitrb",
+    "followers_url": "https://api.github.com/users/splitrb/followers",
+    "following_url": "https://api.github.com/users/splitrb/following{/other_user}",
+    "gists_url": "https://api.github.com/users/splitrb/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/splitrb/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/splitrb/subscriptions",
+    "organizations_url": "https://api.github.com/users/splitrb/orgs",
+    "repos_url": "https://api.github.com/users/splitrb/repos",
+    "events_url": "https://api.github.com/users/splitrb/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/splitrb/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "contributors": {
+    "strand": 1,
+    "phoet": 3,
+    "andrew": 42
+  },
+  "languages": {
+    "Ruby": {
+      "bytes": 1058,
+      "color": "#701516"
+    },
+    "HTML": {
+      "bytes": 408,
+      "color": "#e34c26"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "trace-memory-access",
+  "full_name": "brandon-rhodes/trace-memory-access",
+  "owner": "brandon-rhodes",
+  "private": false,
+  "html_url": "https://github.com/brandon-rhodes/trace-memory-access",
+  "description": "Scripts to trace memory accesses from a program",
+  "fork": false,
+  "url": "https://api.github.com/repos/brandon-rhodes/trace-memory-access",
+  "languages_url": "https://api.github.com/repos/brandon-rhodes/trace-memory-access/languages",
+  "created_at": "2014-12-27T17:46:23Z",
+  "updated_at": "2018-02-05T16:11:16Z",
+  "pushed_at": "2015-04-01T13:21:05Z",
+  "homepage": null,
+  "size": 324,
+  "stargazers_count": 3,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "languages": {
+    "Python": {
+      "bytes": 6685,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 825,
+      "color": "#89e051"
+    }
+  },
+  "contributors": {
+    "brandon-rhodes": 32
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

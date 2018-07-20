@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "container-demos",
+  "full_name": "ipfs-shipyard/container-demos",
+  "owner": "ipfs-shipyard",
+  "private": false,
+  "html_url": "https://github.com/ipfs-shipyard/container-demos",
+  "description": "ipfs container demos",
+  "fork": false,
+  "url": "https://api.github.com/repos/ipfs-shipyard/container-demos",
+  "languages_url": "https://api.github.com/repos/ipfs-shipyard/container-demos/languages",
+  "created_at": "2015-03-13T19:39:12Z",
+  "updated_at": "2018-07-20T14:29:02Z",
+  "pushed_at": "2016-11-10T13:21:00Z",
+  "homepage": null,
+  "size": 69,
+  "stargazers_count": 38,
+  "language": "Makefile",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "ipfs-shipyard",
+    "id": 28269663,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI4MjY5NjYz",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/28269663?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ipfs-shipyard",
+    "html_url": "https://github.com/ipfs-shipyard",
+    "followers_url": "https://api.github.com/users/ipfs-shipyard/followers",
+    "following_url": "https://api.github.com/users/ipfs-shipyard/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ipfs-shipyard/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ipfs-shipyard/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ipfs-shipyard/subscriptions",
+    "organizations_url": "https://api.github.com/users/ipfs-shipyard/orgs",
+    "repos_url": "https://api.github.com/users/ipfs-shipyard/repos",
+    "events_url": "https://api.github.com/users/ipfs-shipyard/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ipfs-shipyard/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "Makefile": {
+      "bytes": 3689,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 171,
+      "color": "#89e051"
+    }
+  },
+  "contributors": {
+    "jbenet": 1,
+    "RichardLitt": 4,
+    "hosh": 17
+  },
+  "fetched_at": "2018-07-20T16:41:54.654Z"
+}

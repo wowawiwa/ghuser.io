@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "async-render-toolbox",
+  "full_name": "sw-yx/async-render-toolbox",
+  "owner": "sw-yx",
+  "private": false,
+  "html_url": "https://github.com/sw-yx/async-render-toolbox",
+  "description": "BECAUSE PERFORMANCE SHOULD BE SEXY",
+  "fork": false,
+  "url": "https://api.github.com/repos/sw-yx/async-render-toolbox",
+  "languages_url": "https://api.github.com/repos/sw-yx/async-render-toolbox/languages",
+  "created_at": "2018-03-30T21:49:38Z",
+  "updated_at": "2018-06-14T11:22:19Z",
+  "pushed_at": "2018-04-24T15:18:16Z",
+  "homepage": "https://chrome.google.com/webstore/detail/fbchcodfbfjeededacomngobhnndcgol",
+  "size": 967,
+  "stargazers_count": 163,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "evanc": 1,
+    "jorgegonzalez": 1,
+    "Happy-Ferret": 2,
+    "sw-yx": 3,
+    "tsiq-swyx": 15
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 7232,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 727,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 664,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

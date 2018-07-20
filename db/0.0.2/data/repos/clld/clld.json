@@ -1,0 +1,87 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "clld",
+  "full_name": "clld/clld",
+  "owner": "clld",
+  "private": false,
+  "html_url": "https://github.com/clld/clld",
+  "description": "Cross Linguistic Linked Data python library",
+  "fork": false,
+  "url": "https://api.github.com/repos/clld/clld",
+  "languages_url": "https://api.github.com/repos/clld/clld/languages",
+  "created_at": "2013-01-12T10:14:17Z",
+  "updated_at": "2018-05-17T09:00:38Z",
+  "pushed_at": "2018-05-17T09:00:37Z",
+  "homepage": "http://clld.org",
+  "size": 19793,
+  "stargazers_count": 17,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "clld",
+    "id": 3251118,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMyNTExMTg=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/3251118?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/clld",
+    "html_url": "https://github.com/clld",
+    "followers_url": "https://api.github.com/users/clld/followers",
+    "following_url": "https://api.github.com/users/clld/following{/other_user}",
+    "gists_url": "https://api.github.com/users/clld/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/clld/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/clld/subscriptions",
+    "organizations_url": "https://api.github.com/users/clld/orgs",
+    "repos_url": "https://api.github.com/users/clld/repos",
+    "events_url": "https://api.github.com/users/clld/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/clld/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 566118,
+      "color": "#f1e05a"
+    },
+    "Python": {
+      "bytes": 452417,
+      "color": "#3572A5"
+    },
+    "Mako": {
+      "bytes": 76996,
+      "color": "#ccc"
+    },
+    "CSS": {
+      "bytes": 71625,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 861,
+      "color": "#89e051"
+    },
+    "TeX": {
+      "bytes": 72,
+      "color": "#3D6117"
+    },
+    "HTML": {
+      "bytes": 12,
+      "color": "#e34c26"
+    }
+  },
+  "contributors": {
+    "RichardLitt": 1,
+    "mitcho": 1,
+    "chrzyki": 12,
+    "xflr6": 82,
+    "xrotwang": 981
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

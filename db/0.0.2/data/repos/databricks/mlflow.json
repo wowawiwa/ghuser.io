@@ -1,0 +1,108 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mlflow",
+  "full_name": "databricks/mlflow",
+  "owner": "databricks",
+  "private": false,
+  "html_url": "https://github.com/databricks/mlflow",
+  "description": "Open source platform for the complete machine learning lifecycle",
+  "fork": false,
+  "url": "https://api.github.com/repos/databricks/mlflow",
+  "languages_url": "https://api.github.com/repos/databricks/mlflow/languages",
+  "created_at": "2018-06-05T16:05:58Z",
+  "updated_at": "2018-07-20T16:30:23Z",
+  "pushed_at": "2018-07-20T10:22:31Z",
+  "homepage": "https://mlflow.org",
+  "size": 3197,
+  "stargazers_count": 1764,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "databricks",
+    "id": 4998052,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ5OTgwNTI=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/4998052?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/databricks",
+    "html_url": "https://github.com/databricks",
+    "followers_url": "https://api.github.com/users/databricks/followers",
+    "following_url": "https://api.github.com/users/databricks/following{/other_user}",
+    "gists_url": "https://api.github.com/users/databricks/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/databricks/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/databricks/subscriptions",
+    "organizations_url": "https://api.github.com/users/databricks/orgs",
+    "repos_url": "https://api.github.com/users/databricks/repos",
+    "events_url": "https://api.github.com/users/databricks/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/databricks/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "mikehuston": 1,
+    "anabranch": 1,
+    "gsganden": 1,
+    "cryptexis": 1,
+    "emres": 3,
+    "0wu": 1,
+    "jakeret": 1,
+    "d18s": 1,
+    "jdodb": 1,
+    "manugarri": 1,
+    "xueyumusic": 1,
+    "ndjido": 1,
+    "yupbank": 1,
+    "Jeffwan": 1,
+    "alig": 1,
+    "sueann": 3,
+    "andyk": 2,
+    "tomasatdatabricks": 5,
+    "dmatrix": 4,
+    "mdagost": 3,
+    "mparkhe": 3,
+    "dennyglee": 4,
+    "andrewmchen": 6,
+    "juntai-zheng": 9,
+    "stbof": 10,
+    "mateiz": 10,
+    "smurching": 16,
+    "aarondav": 17,
+    "dbczumar": 1,
+    "bnekolny": 1
+  },
+  "languages": {
+    "Python": {
+      "bytes": 341204,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 134128,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 14393,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 10137,
+      "color": "#563d7c"
+    },
+    "Jupyter Notebook": {
+      "bytes": 5781,
+      "color": "#DA5B0B"
+    },
+    "Shell": {
+      "bytes": 2806,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-07-20T16:41:54.654Z"
+}

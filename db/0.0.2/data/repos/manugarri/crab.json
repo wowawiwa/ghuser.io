@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "crab",
+  "full_name": "manugarri/crab",
+  "owner": "manugarri",
+  "private": false,
+  "html_url": "https://github.com/manugarri/crab",
+  "description": "Cron alert board",
+  "fork": true,
+  "url": "https://api.github.com/repos/manugarri/crab",
+  "languages_url": "https://api.github.com/repos/manugarri/crab/languages",
+  "created_at": "2015-03-17T15:09:12Z",
+  "updated_at": "2017-03-03T02:16:52Z",
+  "pushed_at": "2015-06-08T14:59:07Z",
+  "homepage": null,
+  "size": 1100,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "aa-jac": 3,
+    "manugarri": 10,
+    "grahambell": 256
+  },
+  "languages": {
+    "Python": {
+      "bytes": 195404,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 24912,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 15192,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 4719,
+      "color": "#563d7c"
+    },
+    "PLpgSQL": {
+      "bytes": 1951,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 1140,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

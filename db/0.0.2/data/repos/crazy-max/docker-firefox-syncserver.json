@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "docker-firefox-syncserver",
+  "full_name": "crazy-max/docker-firefox-syncserver",
+  "owner": "crazy-max",
+  "private": false,
+  "html_url": "https://github.com/crazy-max/docker-firefox-syncserver",
+  "description": "🐳 Firefox Sync Server image based on Python Slim",
+  "fork": false,
+  "url": "https://api.github.com/repos/crazy-max/docker-firefox-syncserver",
+  "languages_url": "https://api.github.com/repos/crazy-max/docker-firefox-syncserver/languages",
+  "created_at": "2017-12-24T16:55:50Z",
+  "updated_at": "2018-07-17T22:25:27Z",
+  "pushed_at": "2018-06-29T15:00:16Z",
+  "homepage": "",
+  "size": 150,
+  "stargazers_count": 13,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "crazy-max": 27
+  },
+  "languages": {
+    "Shell": {
+      "bytes": 2314,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

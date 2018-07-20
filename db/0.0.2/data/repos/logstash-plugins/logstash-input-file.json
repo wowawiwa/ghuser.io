@@ -1,0 +1,84 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "logstash-input-file",
+  "full_name": "logstash-plugins/logstash-input-file",
+  "owner": "logstash-plugins",
+  "private": false,
+  "html_url": "https://github.com/logstash-plugins/logstash-input-file",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/logstash-plugins/logstash-input-file",
+  "languages_url": "https://api.github.com/repos/logstash-plugins/logstash-input-file/languages",
+  "created_at": "2014-10-16T17:03:03Z",
+  "updated_at": "2018-07-19T00:49:18Z",
+  "pushed_at": "2018-07-19T01:50:42Z",
+  "homepage": null,
+  "size": 308,
+  "stargazers_count": 39,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "logstash-plugins",
+    "id": 8961934,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjg5NjE5MzQ=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/8961934?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/logstash-plugins",
+    "html_url": "https://github.com/logstash-plugins",
+    "followers_url": "https://api.github.com/users/logstash-plugins/followers",
+    "following_url": "https://api.github.com/users/logstash-plugins/following{/other_user}",
+    "gists_url": "https://api.github.com/users/logstash-plugins/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/logstash-plugins/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/logstash-plugins/subscriptions",
+    "organizations_url": "https://api.github.com/users/logstash-plugins/orgs",
+    "repos_url": "https://api.github.com/users/logstash-plugins/repos",
+    "events_url": "https://api.github.com/users/logstash-plugins/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/logstash-plugins/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "Ruby": {
+      "bytes": 207184,
+      "color": "#701516"
+    },
+    "Java": {
+      "bytes": 15933,
+      "color": "#b07219"
+    },
+    "Shell": {
+      "bytes": 1643,
+      "color": "#89e051"
+    }
+  },
+  "contributors": {
+    "jakelandis": 1,
+    "jordansissel": 1,
+    "jimmyjones2": 1,
+    "GlenRSmith": 1,
+    "talevy": 1,
+    "wiibaa": 1,
+    "gmoskovicz": 2,
+    "ycombinator": 2,
+    "electrical": 2,
+    "untergeek": 3,
+    "magnusbaeck": 3,
+    "colinsurprenant": 3,
+    "suyograo": 9,
+    "jsvd": 18,
+    "guyboertje": 23,
+    "ph": 42,
+    "thbay": 1,
+    "karenzone": 1
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

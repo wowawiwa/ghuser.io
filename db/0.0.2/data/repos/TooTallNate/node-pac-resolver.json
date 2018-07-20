@@ -1,0 +1,36 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "node-pac-resolver",
+  "full_name": "TooTallNate/node-pac-resolver",
+  "owner": "TooTallNate",
+  "private": false,
+  "html_url": "https://github.com/TooTallNate/node-pac-resolver",
+  "description": "Generates an asynchronous resolver function from a PAC file",
+  "fork": false,
+  "url": "https://api.github.com/repos/TooTallNate/node-pac-resolver",
+  "languages_url": "https://api.github.com/repos/TooTallNate/node-pac-resolver/languages",
+  "created_at": "2013-11-06T03:01:51Z",
+  "updated_at": "2018-05-17T08:06:36Z",
+  "pushed_at": "2018-02-12T17:56:23Z",
+  "homepage": null,
+  "size": 62,
+  "stargazers_count": 26,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "languages": {
+    "JavaScript": {
+      "bytes": 35345,
+      "color": "#f1e05a"
+    }
+  },
+  "contributors": {
+    "gzzhanghao": 1,
+    "utsavkesharwani": 2,
+    "RichardLitt": 3,
+    "TooTallNate": 112
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

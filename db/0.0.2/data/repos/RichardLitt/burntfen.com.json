@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "burntfen.com",
+  "full_name": "RichardLitt/burntfen.com",
+  "owner": "RichardLitt",
+  "private": false,
+  "html_url": "https://github.com/RichardLitt/burntfen.com",
+  "description": "My website",
+  "fork": false,
+  "url": "https://api.github.com/repos/RichardLitt/burntfen.com",
+  "languages_url": "https://api.github.com/repos/RichardLitt/burntfen.com/languages",
+  "created_at": "2012-04-08T19:21:44Z",
+  "updated_at": "2018-07-09T23:26:41Z",
+  "pushed_at": "2018-07-09T23:26:39Z",
+  "homepage": "https://burntfen.com",
+  "size": 323619,
+  "stargazers_count": 3,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "languages": {
+    "HTML": {
+      "bytes": 352988,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 25979,
+      "color": "#563d7c"
+    },
+    "TeX": {
+      "bytes": 24960,
+      "color": "#3D6117"
+    },
+    "Ruby": {
+      "bytes": 14917,
+      "color": "#701516"
+    },
+    "JavaScript": {
+      "bytes": 8740,
+      "color": "#f1e05a"
+    },
+    "PHP": {
+      "bytes": 7111,
+      "color": "#4F5D95"
+    }
+  },
+  "contributors": {
+    "carolinux": 1,
+    "VernL": 1,
+    "plusjade": 1,
+    "RichardLitt": 821
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

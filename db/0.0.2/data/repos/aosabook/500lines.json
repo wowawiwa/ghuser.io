@@ -1,0 +1,170 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "500lines",
+  "full_name": "aosabook/500lines",
+  "owner": "aosabook",
+  "private": false,
+  "html_url": "https://github.com/aosabook/500lines",
+  "description": "500 Lines or Less",
+  "fork": false,
+  "url": "https://api.github.com/repos/aosabook/500lines",
+  "languages_url": "https://api.github.com/repos/aosabook/500lines/languages",
+  "created_at": "2013-11-04T02:02:53Z",
+  "updated_at": "2018-07-20T10:13:03Z",
+  "pushed_at": "2017-11-14T03:23:41Z",
+  "homepage": null,
+  "size": 60078,
+  "stargazers_count": 19315,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "languages": {
+    "JavaScript": {
+      "bytes": 837088,
+      "color": "#f1e05a"
+    },
+    "Python": {
+      "bytes": 491023,
+      "color": "#3572A5"
+    },
+    "Haskell": {
+      "bytes": 69364,
+      "color": "#5e5086"
+    },
+    "Ruby": {
+      "bytes": 41538,
+      "color": "#701516"
+    },
+    "Clojure": {
+      "bytes": 31739,
+      "color": "#db5855"
+    },
+    "Erlang": {
+      "bytes": 29212,
+      "color": "#B83998"
+    },
+    "Jupyter Notebook": {
+      "bytes": 29015,
+      "color": "#DA5B0B"
+    },
+    "TeX": {
+      "bytes": 28849,
+      "color": "#3D6117"
+    },
+    "Java": {
+      "bytes": 23309,
+      "color": "#b07219"
+    },
+    "Common Lisp": {
+      "bytes": 21140,
+      "color": "#3fb68b"
+    },
+    "HTML": {
+      "bytes": 20410,
+      "color": "#e34c26"
+    },
+    "Alloy": {
+      "bytes": 19151,
+      "color": "#64C800"
+    },
+    "Julia": {
+      "bytes": 15806,
+      "color": "#a270ba"
+    },
+    "Lua": {
+      "bytes": 13141,
+      "color": "#000080"
+    },
+    "LiveScript": {
+      "bytes": 7417,
+      "color": "#499886"
+    },
+    "Makefile": {
+      "bytes": 6943,
+      "color": "#427819"
+    },
+    "CSS": {
+      "bytes": 6521,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 4428,
+      "color": "#89e051"
+    },
+    "CoffeeScript": {
+      "bytes": 2362,
+      "color": "#244776"
+    }
+  },
+  "contributors": {
+    "r-marques": 1,
+    "ketanbhatt": 1,
+    "phyng": 1,
+    "cndpzc": 1,
+    "gyson": 1,
+    "ncoghlan": 1,
+    "radiofreejohn": 1,
+    "kilobtye": 1,
+    "perrinjerome": 1,
+    "xyguo": 1,
+    "mblayman": 1,
+    "dominicwong617": 1,
+    "scottangel": 1,
+    "mambocab": 1,
+    "drincruz": 1,
+    "bernardosulzbach": 1,
+    "JuanitoFatas": 1,
+    "chrisseaton": 1,
+    "jvns": 1,
+    "aosabook": 1,
+    "mozillazg": 2,
+    "eszte12e": 2,
+    "Deborah-Digges": 3,
+    "asvetlov": 3,
+    "brettcannon": 4,
+    "03lafaye": 6,
+    "hausdorff": 7,
+    "dnjackson": 8,
+    "astrieanna": 11,
+    "krestenkrab": 11,
+    "jilljenn": 12,
+    "catehstn": 14,
+    "Ashald": 14,
+    "gvwilson": 15,
+    "gvanrossum": 24,
+    "haz": 26,
+    "drocco007": 29,
+    "inaimathi": 40,
+    "nedbat": 41,
+    "kragen": 43,
+    "emtwo": 47,
+    "ajdavis": 60,
+    "dethe": 60,
+    "malini": 60,
+    "akaptur": 64,
+    "eskang": 68,
+    "cfbolz": 69,
+    "taavi": 69,
+    "jhamrick": 69,
+    "EkkiD": 101,
+    "amyrbrown": 102,
+    "brandon-rhodes": 129,
+    "dxnn": 131,
+    "spderosso": 137,
+    "djmitche": 170,
+    "audreyt": 171,
+    "yoavrubin": 176,
+    "MichaelDiBernardo": 226,
+    "darius": 245,
+    "dessy": 367
+  },
+  "fetched_at": "2018-07-20T16:41:54.654Z"
+}

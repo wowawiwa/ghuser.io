@@ -1,0 +1,84 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "js-libp2p-webrtc-star",
+  "full_name": "libp2p/js-libp2p-webrtc-star",
+  "owner": "libp2p",
+  "private": false,
+  "html_url": "https://github.com/libp2p/js-libp2p-webrtc-star",
+  "description": "libp2p WebRTC transport that includes a discovery mechanism provided by the signalling-star",
+  "fork": false,
+  "url": "https://api.github.com/repos/libp2p/js-libp2p-webrtc-star",
+  "languages_url": "https://api.github.com/repos/libp2p/js-libp2p-webrtc-star/languages",
+  "created_at": "2016-05-20T16:04:27Z",
+  "updated_at": "2018-07-20T06:49:10Z",
+  "pushed_at": "2018-07-04T17:32:59Z",
+  "homepage": "https://libp2p.io",
+  "size": 225,
+  "stargazers_count": 66,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "libp2p",
+    "id": 14838238,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0ODM4MjM4",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/14838238?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/libp2p",
+    "html_url": "https://github.com/libp2p",
+    "followers_url": "https://api.github.com/users/libp2p/followers",
+    "following_url": "https://api.github.com/users/libp2p/following{/other_user}",
+    "gists_url": "https://api.github.com/users/libp2p/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/libp2p/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/libp2p/subscriptions",
+    "organizations_url": "https://api.github.com/users/libp2p/orgs",
+    "repos_url": "https://api.github.com/users/libp2p/repos",
+    "events_url": "https://api.github.com/users/libp2p/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/libp2p/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 37134,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 2102,
+      "color": "#e34c26"
+    },
+    "Groovy": {
+      "bytes": 190,
+      "color": "#e69f56"
+    }
+  },
+  "contributors": {
+    "seungwon-kang": 1,
+    "vasco-santos": 1,
+    "fsdiogo": 1,
+    "Steverman": 1,
+    "Flarp": 1,
+    "dryajov": 1,
+    "jbenet": 1,
+    "interfect": 1,
+    "RichardLitt": 1,
+    "greenkeeper[bot]": 2,
+    "michaelfakhri": 2,
+    "VictorBjelkholm": 3,
+    "mkg20001": 4,
+    "pgte": 6,
+    "dignifiedquire": 6,
+    "ya7ya": 10,
+    "greenkeeperio-bot": 27,
+    "diasdavid": 173
+  },
+  "fetched_at": "2018-07-20T16:41:54.654Z"
+}

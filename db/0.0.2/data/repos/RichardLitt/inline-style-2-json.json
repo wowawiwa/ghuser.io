@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "inline-style-2-json",
+  "full_name": "RichardLitt/inline-style-2-json",
+  "owner": "RichardLitt",
+  "private": false,
+  "html_url": "https://github.com/RichardLitt/inline-style-2-json",
+  "description": "Convert CSS inline stlyes to JSON",
+  "fork": false,
+  "url": "https://api.github.com/repos/RichardLitt/inline-style-2-json",
+  "languages_url": "https://api.github.com/repos/RichardLitt/inline-style-2-json/languages",
+  "created_at": "2015-10-01T17:13:01Z",
+  "updated_at": "2018-05-17T18:43:32Z",
+  "pushed_at": "2018-05-19T01:58:51Z",
+  "homepage": null,
+  "size": 14,
+  "stargazers_count": 4,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "languages": {
+    "JavaScript": {
+      "bytes": 2388,
+      "color": "#f1e05a"
+    }
+  },
+  "contributors": {
+    "TwinProduction": 2,
+    "greenkeeper[bot]": 3,
+    "RichardLitt": 17
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

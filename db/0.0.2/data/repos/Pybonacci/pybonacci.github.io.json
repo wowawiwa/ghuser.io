@@ -1,0 +1,85 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pybonacci.github.io",
+  "full_name": "Pybonacci/pybonacci.github.io",
+  "owner": "Pybonacci",
+  "private": false,
+  "html_url": "https://github.com/Pybonacci/pybonacci.github.io",
+  "description": "Blob sobre Python científico en español",
+  "fork": false,
+  "url": "https://api.github.com/repos/Pybonacci/pybonacci.github.io",
+  "languages_url": "https://api.github.com/repos/Pybonacci/pybonacci.github.io/languages",
+  "created_at": "2017-04-28T19:42:57Z",
+  "updated_at": "2018-07-01T08:02:49Z",
+  "pushed_at": "2018-07-01T08:28:45Z",
+  "homepage": "https://www.pybonacci.org",
+  "size": 60350,
+  "stargazers_count": 2,
+  "language": "Jupyter Notebook",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "sources",
+  "organization": {
+    "login": "Pybonacci",
+    "id": 3338148,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMzMzgxNDg=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/3338148?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Pybonacci",
+    "html_url": "https://github.com/Pybonacci",
+    "followers_url": "https://api.github.com/users/Pybonacci/followers",
+    "following_url": "https://api.github.com/users/Pybonacci/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Pybonacci/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Pybonacci/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Pybonacci/subscriptions",
+    "organizations_url": "https://api.github.com/users/Pybonacci/orgs",
+    "repos_url": "https://api.github.com/users/Pybonacci/repos",
+    "events_url": "https://api.github.com/users/Pybonacci/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Pybonacci/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "kikocorreoso": 3,
+    "danielfrg": 3,
+    "mmngreco": 4,
+    "AlexS12": 4,
+    "manugarri": 13,
+    "Juanlu001": 26,
+    "jakevdp": 31
+  },
+  "languages": {
+    "Jupyter Notebook": {
+      "bytes": 869402,
+      "color": "#DA5B0B"
+    },
+    "HTML": {
+      "bytes": 13529,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 11493,
+      "color": "#563d7c"
+    },
+    "Python": {
+      "bytes": 5381,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 4852,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 2225,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

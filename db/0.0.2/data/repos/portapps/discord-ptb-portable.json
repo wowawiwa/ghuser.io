@@ -1,0 +1,59 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "discord-ptb-portable",
+  "full_name": "portapps/discord-ptb-portable",
+  "owner": "portapps",
+  "private": false,
+  "html_url": "https://github.com/portapps/discord-ptb-portable",
+  "description": "🚀 Discord PTB portable for Windows",
+  "fork": false,
+  "url": "https://api.github.com/repos/portapps/discord-ptb-portable",
+  "languages_url": "https://api.github.com/repos/portapps/discord-ptb-portable/languages",
+  "created_at": "2017-07-20T18:29:32Z",
+  "updated_at": "2018-05-27T21:55:31Z",
+  "pushed_at": "2018-05-27T21:55:29Z",
+  "homepage": "https://portapps.github.io/app/discord-ptb-portable",
+  "size": 187,
+  "stargazers_count": 5,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "portapps",
+    "id": 33734063,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMzNzM0MDYz",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/33734063?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/portapps",
+    "html_url": "https://github.com/portapps",
+    "followers_url": "https://api.github.com/users/portapps/followers",
+    "following_url": "https://api.github.com/users/portapps/following{/other_user}",
+    "gists_url": "https://api.github.com/users/portapps/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/portapps/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/portapps/subscriptions",
+    "organizations_url": "https://api.github.com/users/portapps/orgs",
+    "repos_url": "https://api.github.com/users/portapps/repos",
+    "events_url": "https://api.github.com/users/portapps/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/portapps/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "crazy-max": 57
+  },
+  "languages": {
+    "Go": {
+      "bytes": 1661,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

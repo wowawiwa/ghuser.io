@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "fabric8-analytics-tags",
+  "full_name": "fabric8-analytics/fabric8-analytics-tags",
+  "owner": "fabric8-analytics",
+  "private": false,
+  "html_url": "https://github.com/fabric8-analytics/fabric8-analytics-tags",
+  "description": "Tags aggregated for fabric8-analytics",
+  "fork": false,
+  "url": "https://api.github.com/repos/fabric8-analytics/fabric8-analytics-tags",
+  "languages_url": "https://api.github.com/repos/fabric8-analytics/fabric8-analytics-tags/languages",
+  "created_at": "2017-07-25T11:41:28Z",
+  "updated_at": "2017-11-09T15:28:21Z",
+  "pushed_at": "2017-11-09T15:42:00Z",
+  "homepage": null,
+  "size": 2417,
+  "stargazers_count": 3,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "fabric8-analytics",
+    "id": 28134954,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI4MTM0OTU0",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/28134954?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/fabric8-analytics",
+    "html_url": "https://github.com/fabric8-analytics",
+    "followers_url": "https://api.github.com/users/fabric8-analytics/followers",
+    "following_url": "https://api.github.com/users/fabric8-analytics/following{/other_user}",
+    "gists_url": "https://api.github.com/users/fabric8-analytics/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/fabric8-analytics/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/fabric8-analytics/subscriptions",
+    "organizations_url": "https://api.github.com/users/fabric8-analytics/orgs",
+    "repos_url": "https://api.github.com/users/fabric8-analytics/repos",
+    "events_url": "https://api.github.com/users/fabric8-analytics/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/fabric8-analytics/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "Python": {
+      "bytes": 719,
+      "color": "#3572A5"
+    }
+  },
+  "contributors": {
+    "RichardLitt": 1,
+    "pkajaba": 3,
+    "fridex": 15
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

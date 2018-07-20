@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "curso_data_science",
+  "full_name": "manugarri/curso_data_science",
+  "owner": "manugarri",
+  "private": false,
+  "html_url": "https://github.com/manugarri/curso_data_science",
+  "description": "Código para el curso \"Aprende Data Science y Machine Learning con Python\"",
+  "fork": false,
+  "url": "https://api.github.com/repos/manugarri/curso_data_science",
+  "languages_url": "https://api.github.com/repos/manugarri/curso_data_science/languages",
+  "created_at": "2018-03-13T15:34:16Z",
+  "updated_at": "2018-07-09T16:21:37Z",
+  "pushed_at": "2018-05-18T18:12:36Z",
+  "homepage": null,
+  "size": 52674,
+  "stargazers_count": 16,
+  "language": "Jupyter Notebook",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "manugarri": 8
+  },
+  "languages": {
+    "Jupyter Notebook": {
+      "bytes": 14966011,
+      "color": "#DA5B0B"
+    },
+    "Python": {
+      "bytes": 85260,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

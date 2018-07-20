@@ -1,0 +1,60 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pycon-pandas-tutorial",
+  "full_name": "brandon-rhodes/pycon-pandas-tutorial",
+  "owner": "brandon-rhodes",
+  "private": false,
+  "html_url": "https://github.com/brandon-rhodes/pycon-pandas-tutorial",
+  "description": "PyCon 2015 Pandas tutorial materials",
+  "fork": false,
+  "url": "https://api.github.com/repos/brandon-rhodes/pycon-pandas-tutorial",
+  "languages_url": "https://api.github.com/repos/brandon-rhodes/pycon-pandas-tutorial/languages",
+  "created_at": "2015-03-10T05:24:41Z",
+  "updated_at": "2018-07-20T06:15:10Z",
+  "pushed_at": "2018-01-23T04:17:18Z",
+  "homepage": null,
+  "size": 1368,
+  "stargazers_count": 544,
+  "language": "Jupyter Notebook",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "languages": {
+    "Jupyter Notebook": {
+      "bytes": 935967,
+      "color": "#DA5B0B"
+    },
+    "Python": {
+      "bytes": 8336,
+      "color": "#3572A5"
+    },
+    "CSS": {
+      "bytes": 671,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 533,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 325,
+      "color": "#427819"
+    }
+  },
+  "contributors": {
+    "anupamtiwari05": 1,
+    "webparameter": 1,
+    "joeeoj": 1,
+    "sagarkar10": 1,
+    "Bonifacio2": 2,
+    "brandon-rhodes": 126
+  },
+  "fetched_at": "2018-07-20T16:41:54.654Z"
+}

@@ -1,0 +1,71 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "busser-rspec",
+  "full_name": "test-kitchen/busser-rspec",
+  "owner": "test-kitchen",
+  "private": false,
+  "html_url": "https://github.com/test-kitchen/busser-rspec",
+  "description": "Run RSpec tests through busser",
+  "fork": false,
+  "url": "https://api.github.com/repos/test-kitchen/busser-rspec",
+  "languages_url": "https://api.github.com/repos/test-kitchen/busser-rspec/languages",
+  "created_at": "2013-05-29T23:18:10Z",
+  "updated_at": "2015-11-05T02:16:08Z",
+  "pushed_at": "2015-09-28T14:44:44Z",
+  "homepage": null,
+  "size": 296,
+  "stargazers_count": 11,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "test-kitchen",
+    "id": 5924439,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjU5MjQ0Mzk=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/5924439?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/test-kitchen",
+    "html_url": "https://github.com/test-kitchen",
+    "followers_url": "https://api.github.com/users/test-kitchen/followers",
+    "following_url": "https://api.github.com/users/test-kitchen/following{/other_user}",
+    "gists_url": "https://api.github.com/users/test-kitchen/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/test-kitchen/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/test-kitchen/subscriptions",
+    "organizations_url": "https://api.github.com/users/test-kitchen/orgs",
+    "repos_url": "https://api.github.com/users/test-kitchen/repos",
+    "events_url": "https://api.github.com/users/test-kitchen/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/test-kitchen/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "Ruby": {
+      "bytes": 6016,
+      "color": "#701516"
+    },
+    "Gherkin": {
+      "bytes": 1872,
+      "color": "#5B2063"
+    }
+  },
+  "contributors": {
+    "dhoer": 1,
+    "databus23": 1,
+    "hyone": 1,
+    "smith": 1,
+    "schisamo": 2,
+    "jordansissel": 2,
+    "cl-lab-k": 2,
+    "seth": 5,
+    "adamhjk": 12
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

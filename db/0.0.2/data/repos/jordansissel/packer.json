@@ -1,0 +1,33 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "packer",
+  "full_name": "jordansissel/packer",
+  "owner": "jordansissel",
+  "private": false,
+  "html_url": "https://github.com/jordansissel/packer",
+  "description": "UNMAINTAINED - an example tool for packing up ruby apps into a tarball including all dependencies. This was for an interview a while ago.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jordansissel/packer",
+  "languages_url": "https://api.github.com/repos/jordansissel/packer/languages",
+  "created_at": "2012-06-30T16:53:56Z",
+  "updated_at": "2018-02-20T17:33:23Z",
+  "pushed_at": "2012-07-02T02:40:28Z",
+  "homepage": "",
+  "size": 152,
+  "stargazers_count": 2,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "languages": {
+    "Ruby": {
+      "bytes": 4319,
+      "color": "#701516"
+    }
+  },
+  "contributors": {
+    "jordansissel": 32
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

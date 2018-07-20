@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "clamp",
+  "full_name": "mdub/clamp",
+  "owner": "mdub",
+  "private": false,
+  "html_url": "https://github.com/mdub/clamp",
+  "description": "a Ruby command-line application framework",
+  "fork": false,
+  "url": "https://api.github.com/repos/mdub/clamp",
+  "languages_url": "https://api.github.com/repos/mdub/clamp/languages",
+  "created_at": "2010-10-29T11:36:06Z",
+  "updated_at": "2018-07-19T04:04:38Z",
+  "pushed_at": "2018-07-14T06:40:25Z",
+  "homepage": "",
+  "size": 461,
+  "stargazers_count": 340,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "languages": {
+    "Ruby": {
+      "bytes": 81517,
+      "color": "#701516"
+    }
+  },
+  "contributors": {
+    "ekohl": 1,
+    "evgeni": 1,
+    "ronen": 1,
+    "gitter-badger": 1,
+    "MJIO": 1,
+    "ares": 1,
+    "acook": 1,
+    "smileart": 1,
+    "mschulkind": 1,
+    "danp": 2,
+    "fearoffish": 2,
+    "tstrachota": 5,
+    "kke": 7,
+    "jordansissel": 13,
+    "mdub": 352
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

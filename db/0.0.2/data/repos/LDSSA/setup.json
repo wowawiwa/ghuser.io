@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "setup",
+  "full_name": "LDSSA/setup",
+  "owner": "LDSSA",
+  "private": false,
+  "html_url": "https://github.com/LDSSA/setup",
+  "description": "Prepare your machine before the start of the academy",
+  "fork": false,
+  "url": "https://api.github.com/repos/LDSSA/setup",
+  "languages_url": "https://api.github.com/repos/LDSSA/setup/languages",
+  "created_at": "2017-07-22T16:11:12Z",
+  "updated_at": "2018-04-24T08:11:15Z",
+  "pushed_at": "2018-04-24T08:11:14Z",
+  "homepage": null,
+  "size": 449,
+  "stargazers_count": 3,
+  "language": "Jupyter Notebook",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "LDSSA",
+    "id": 25723571,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI1NzIzNTcx",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/25723571?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/LDSSA",
+    "html_url": "https://github.com/LDSSA",
+    "followers_url": "https://api.github.com/users/LDSSA/followers",
+    "following_url": "https://api.github.com/users/LDSSA/following{/other_user}",
+    "gists_url": "https://api.github.com/users/LDSSA/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/LDSSA/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/LDSSA/subscriptions",
+    "organizations_url": "https://api.github.com/users/LDSSA/orgs",
+    "repos_url": "https://api.github.com/users/LDSSA/repos",
+    "events_url": "https://api.github.com/users/LDSSA/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/LDSSA/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jtascensao": 1,
+    "j1fig": 1,
+    "manugarri": 2,
+    "hershaw": 39
+  },
+  "languages": {
+    "Jupyter Notebook": {
+      "bytes": 3393,
+      "color": "#DA5B0B"
+    },
+    "Shell": {
+      "bytes": 170,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

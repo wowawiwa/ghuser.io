@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "docker-matomo",
+  "full_name": "crazy-max/docker-matomo",
+  "owner": "crazy-max",
+  "private": false,
+  "html_url": "https://github.com/crazy-max/docker-matomo",
+  "description": "🐳 Matomo (formerly Piwik) image based on Alpine Linux",
+  "fork": false,
+  "url": "https://api.github.com/repos/crazy-max/docker-matomo",
+  "languages_url": "https://api.github.com/repos/crazy-max/docker-matomo/languages",
+  "created_at": "2018-01-19T13:50:46Z",
+  "updated_at": "2018-06-29T23:04:47Z",
+  "pushed_at": "2018-06-29T15:00:42Z",
+  "homepage": "",
+  "size": 180,
+  "stargazers_count": 18,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "noplanman": 1,
+    "crazy-max": 42
+  },
+  "languages": {
+    "Shell": {
+      "bytes": 6695,
+      "color": "#89e051"
+    },
+    "PHP": {
+      "bytes": 43,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

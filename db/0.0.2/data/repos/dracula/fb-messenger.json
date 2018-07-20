@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "fb-messenger",
+  "full_name": "dracula/fb-messenger",
+  "owner": "dracula",
+  "private": false,
+  "html_url": "https://github.com/dracula/fb-messenger",
+  "description": "😱 A dark theme chrome extension for Facebook Messenger ",
+  "fork": false,
+  "url": "https://api.github.com/repos/dracula/fb-messenger",
+  "languages_url": "https://api.github.com/repos/dracula/fb-messenger/languages",
+  "created_at": "2018-04-14T17:13:57Z",
+  "updated_at": "2018-04-16T18:51:44Z",
+  "pushed_at": "2018-04-16T18:51:43Z",
+  "homepage": "",
+  "size": 250,
+  "stargazers_count": 1,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "dracula",
+    "id": 19436447,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE5NDM2NDQ3",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/19436447?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/dracula",
+    "html_url": "https://github.com/dracula",
+    "followers_url": "https://api.github.com/users/dracula/followers",
+    "following_url": "https://api.github.com/users/dracula/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dracula/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/dracula/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dracula/subscriptions",
+    "organizations_url": "https://api.github.com/users/dracula/orgs",
+    "repos_url": "https://api.github.com/users/dracula/repos",
+    "events_url": "https://api.github.com/users/dracula/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/dracula/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "ktzr": 1,
+    "AurelienLourot": 3,
+    "ppartarr": 12
+  },
+  "languages": {
+    "CSS": {
+      "bytes": 17865,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 1964,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

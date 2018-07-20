@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "google-input-tools-large-keyboard",
+  "full_name": "AurelienLourot/google-input-tools-large-keyboard",
+  "owner": "AurelienLourot",
+  "private": false,
+  "html_url": "https://github.com/AurelienLourot/google-input-tools-large-keyboard",
+  "description": "⌨ Large font size for Google Input Tools' keyboard.",
+  "fork": false,
+  "url": "https://api.github.com/repos/AurelienLourot/google-input-tools-large-keyboard",
+  "languages_url": "https://api.github.com/repos/AurelienLourot/google-input-tools-large-keyboard/languages",
+  "created_at": "2017-11-11T13:55:42Z",
+  "updated_at": "2018-07-05T15:31:20Z",
+  "pushed_at": "2018-07-05T15:31:18Z",
+  "homepage": "",
+  "size": 128,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "unlicense",
+    "name": "The Unlicense",
+    "spdx_id": "Unlicense",
+    "url": "https://api.github.com/licenses/unlicense",
+    "node_id": "MDc6TGljZW5zZTE1"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "AurelienLourot": 20
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 425,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 404,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 373,
+      "color": "#563d7c"
+    }
+  },
+  "settings": {
+    "_comment": "Repo metadata for ghuser.io. See https://github.com/AurelienLourot/ghuser.io/blob/master/docs/repo-settings.md",
+    "avatar_url": "https://rawgit.com/AurelienLourot/google-input-tools-large-keyboard/master/thirdparty/icon280.png",
+    "techs": [
+      "Chrome Extensions"
+    ]
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

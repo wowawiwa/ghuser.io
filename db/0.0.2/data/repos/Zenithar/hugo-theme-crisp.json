@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "phtan": 1,
+    "Calinou": 1,
+    "SamuelDebruyn": 2,
+    "Te-k": 7,
+    "Zenithar": 18
+  },
+  "name": "hugo-theme-crisp",
+  "full_name": "Zenithar/hugo-theme-crisp",
+  "owner": "Zenithar",
+  "private": false,
+  "html_url": "https://github.com/Zenithar/hugo-theme-crisp",
+  "description": "A minimalist, responsive, and open-source theme for Hugo ported from Ghost.",
+  "fork": false,
+  "url": "https://api.github.com/repos/Zenithar/hugo-theme-crisp",
+  "languages_url": "https://api.github.com/repos/Zenithar/hugo-theme-crisp/languages",
+  "created_at": "2015-04-10T07:43:03Z",
+  "updated_at": "2018-05-05T05:55:14Z",
+  "pushed_at": "2017-11-06T22:42:23Z",
+  "homepage": null,
+  "size": 478,
+  "stargazers_count": 37,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "languages": {
+    "CSS": {
+      "bytes": 87463,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 30591,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

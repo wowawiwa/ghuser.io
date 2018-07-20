@@ -1,0 +1,81 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "neard",
+  "full_name": "neard/neard",
+  "owner": "neard",
+  "private": false,
+  "html_url": "https://github.com/neard/neard",
+  "description": "🎲 Portable WAMP software stack",
+  "fork": false,
+  "url": "https://api.github.com/repos/neard/neard",
+  "languages_url": "https://api.github.com/repos/neard/neard/languages",
+  "created_at": "2014-02-23T18:16:53Z",
+  "updated_at": "2018-06-25T16:22:31Z",
+  "pushed_at": "2018-05-25T12:55:46Z",
+  "homepage": "https://neard.io",
+  "size": 18691,
+  "stargazers_count": 208,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "lgpl-3.0",
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx_id": "LGPL-3.0",
+    "url": "https://api.github.com/licenses/lgpl-3.0",
+    "node_id": "MDc6TGljZW5zZTEy"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "neard",
+    "id": 33940021,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMzOTQwMDIx",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/33940021?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/neard",
+    "html_url": "https://github.com/neard",
+    "followers_url": "https://api.github.com/users/neard/followers",
+    "following_url": "https://api.github.com/users/neard/following{/other_user}",
+    "gists_url": "https://api.github.com/users/neard/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/neard/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/neard/subscriptions",
+    "organizations_url": "https://api.github.com/users/neard/orgs",
+    "repos_url": "https://api.github.com/users/neard/repos",
+    "events_url": "https://api.github.com/users/neard/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/neard/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "MaxEvron": 1,
+    "HollyIT": 2,
+    "crazy-max": 350
+  },
+  "languages": {
+    "PHP": {
+      "bytes": 1130601,
+      "color": "#4F5D95"
+    },
+    "Perl": {
+      "bytes": 24938,
+      "color": "#0298c3"
+    },
+    "JavaScript": {
+      "bytes": 24623,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 2837,
+      "color": "#563d7c"
+    },
+    "Visual Basic": {
+      "bytes": 788,
+      "color": "#945db7"
+    },
+    "Python": {
+      "bytes": 248,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

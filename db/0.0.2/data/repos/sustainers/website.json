@@ -1,0 +1,80 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "website",
+  "full_name": "sustainers/website",
+  "owner": "sustainers",
+  "private": false,
+  "html_url": "https://github.com/sustainers/website",
+  "description": "The sustainoss.org website",
+  "fork": false,
+  "url": "https://api.github.com/repos/sustainers/website",
+  "languages_url": "https://api.github.com/repos/sustainers/website/languages",
+  "created_at": "2016-12-13T23:21:00Z",
+  "updated_at": "2018-07-13T06:52:25Z",
+  "pushed_at": "2018-07-13T06:52:24Z",
+  "homepage": "https://sustainoss.org/",
+  "size": 34756,
+  "stargazers_count": 14,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "sustainers",
+    "id": 24555914,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI0NTU1OTE0",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/24555914?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/sustainers",
+    "html_url": "https://github.com/sustainers",
+    "followers_url": "https://api.github.com/users/sustainers/followers",
+    "following_url": "https://api.github.com/users/sustainers/following{/other_user}",
+    "gists_url": "https://api.github.com/users/sustainers/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/sustainers/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/sustainers/subscriptions",
+    "organizations_url": "https://api.github.com/users/sustainers/orgs",
+    "repos_url": "https://api.github.com/users/sustainers/repos",
+    "events_url": "https://api.github.com/users/sustainers/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/sustainers/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "HTML": {
+      "bytes": 27214,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 11990,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 4296,
+      "color": "#f1e05a"
+    },
+    "Ruby": {
+      "bytes": 2737,
+      "color": "#701516"
+    }
+  },
+  "contributors": {
+    "tgamblin": 1,
+    "coni2k": 1,
+    "brainwane": 1,
+    "Mandihamza": 2,
+    "BenJam": 3,
+    "RichardLitt": 6,
+    "piamancini": 13,
+    "chadwhitacre": 33,
+    "jdorfman": 108,
+    "XhmikosR": 175
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

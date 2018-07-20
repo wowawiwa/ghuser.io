@@ -1,0 +1,69 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "node-debug-middleware",
+  "full_name": "shutterstock/node-debug-middleware",
+  "owner": "shutterstock",
+  "private": false,
+  "html_url": "https://github.com/shutterstock/node-debug-middleware",
+  "description": "Log all middleware that is slow to respond",
+  "fork": false,
+  "url": "https://api.github.com/repos/shutterstock/node-debug-middleware",
+  "languages_url": "https://api.github.com/repos/shutterstock/node-debug-middleware/languages",
+  "created_at": "2014-02-05T19:25:53Z",
+  "updated_at": "2017-11-29T20:00:59Z",
+  "pushed_at": "2017-11-29T20:16:34Z",
+  "homepage": null,
+  "size": 18,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "shutterstock",
+    "id": 589896,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjU4OTg5Ng==",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/589896?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/shutterstock",
+    "html_url": "https://github.com/shutterstock",
+    "followers_url": "https://api.github.com/users/shutterstock/followers",
+    "following_url": "https://api.github.com/users/shutterstock/following{/other_user}",
+    "gists_url": "https://api.github.com/users/shutterstock/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/shutterstock/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/shutterstock/subscriptions",
+    "organizations_url": "https://api.github.com/users/shutterstock/orgs",
+    "repos_url": "https://api.github.com/users/shutterstock/repos",
+    "events_url": "https://api.github.com/users/shutterstock/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/shutterstock/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 13400,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 135,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 110,
+      "color": "#563d7c"
+    }
+  },
+  "contributors": {
+    "RichardLitt": 4,
+    "dfenster": 6,
+    "elliotf": 19
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

@@ -1,0 +1,74 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "petrarch2",
+  "full_name": "openeventdata/petrarch2",
+  "owner": "openeventdata",
+  "private": false,
+  "html_url": "https://github.com/openeventdata/petrarch2",
+  "description": "Another next-generation event coding platform.",
+  "fork": false,
+  "url": "https://api.github.com/repos/openeventdata/petrarch2",
+  "languages_url": "https://api.github.com/repos/openeventdata/petrarch2/languages",
+  "created_at": "2015-10-21T13:03:11Z",
+  "updated_at": "2018-07-15T03:15:35Z",
+  "pushed_at": "2017-12-19T14:35:41Z",
+  "homepage": null,
+  "size": 4520,
+  "stargazers_count": 31,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "openeventdata",
+    "id": 1460393,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0NjAzOTM=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/1460393?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/openeventdata",
+    "html_url": "https://github.com/openeventdata",
+    "followers_url": "https://api.github.com/users/openeventdata/followers",
+    "following_url": "https://api.github.com/users/openeventdata/following{/other_user}",
+    "gists_url": "https://api.github.com/users/openeventdata/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/openeventdata/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/openeventdata/subscriptions",
+    "organizations_url": "https://api.github.com/users/openeventdata/orgs",
+    "repos_url": "https://api.github.com/users/openeventdata/repos",
+    "events_url": "https://api.github.com/users/openeventdata/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/openeventdata/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "Python": {
+      "bytes": 226100,
+      "color": "#3572A5"
+    },
+    "TeX": {
+      "bytes": 37231,
+      "color": "#3D6117"
+    }
+  },
+  "contributors": {
+    "ahalterman": 1,
+    "marcusdeng22": 1,
+    "janekdb": 1,
+    "RichardLitt": 1,
+    "arfon": 1,
+    "gitter-badger": 1,
+    "paktor132": 1,
+    "myi100": 2,
+    "civet-software": 8,
+    "philip-schrodt": 27,
+    "cnnorris": 70,
+    "johnb30": 150
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

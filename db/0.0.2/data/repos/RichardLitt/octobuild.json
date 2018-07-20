@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "octobuild",
+  "full_name": "RichardLitt/octobuild",
+  "owner": "RichardLitt",
+  "private": false,
+  "html_url": "https://github.com/RichardLitt/octobuild",
+  "description": "What are you building this October?",
+  "fork": false,
+  "url": "https://api.github.com/repos/RichardLitt/octobuild",
+  "languages_url": "https://api.github.com/repos/RichardLitt/octobuild/languages",
+  "created_at": "2014-09-21T00:27:52Z",
+  "updated_at": "2016-09-02T18:58:46Z",
+  "pushed_at": "2016-09-28T02:21:44Z",
+  "homepage": "octobuild.com",
+  "size": 1345,
+  "stargazers_count": 9,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "gh-pages",
+  "languages": {
+    "CSS": {
+      "bytes": 9097,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 5214,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 1243,
+      "color": "#f1e05a"
+    }
+  },
+  "contributors": {
+    "pauldessert": 1,
+    "ariera": 1,
+    "jaredbeck": 1,
+    "bcseda": 1,
+    "JaimeLynSchatz": 3,
+    "simonv3": 9,
+    "RichardLitt": 47
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

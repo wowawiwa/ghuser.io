@@ -1,0 +1,40 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ipfs-http-api",
+  "full_name": "dignifiedquire/ipfs-http-api",
+  "owner": "dignifiedquire",
+  "private": false,
+  "html_url": "https://github.com/dignifiedquire/ipfs-http-api",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/dignifiedquire/ipfs-http-api",
+  "languages_url": "https://api.github.com/repos/dignifiedquire/ipfs-http-api/languages",
+  "created_at": "2015-11-22T18:58:22Z",
+  "updated_at": "2017-02-13T17:27:57Z",
+  "pushed_at": "2015-12-08T22:52:25Z",
+  "homepage": null,
+  "size": 21,
+  "stargazers_count": 2,
+  "language": "API Blueprint",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "languages": {
+    "API Blueprint": {
+      "bytes": 19866,
+      "color": "#2ACCA8"
+    }
+  },
+  "contributors": {
+    "RichardLitt": 2,
+    "dignifiedquire": 18
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

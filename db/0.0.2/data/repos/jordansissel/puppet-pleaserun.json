@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "puppet-pleaserun",
+  "full_name": "jordansissel/puppet-pleaserun",
+  "owner": "jordansissel",
+  "private": false,
+  "html_url": "https://github.com/jordansissel/puppet-pleaserun",
+  "description": "A custom type for puppet that allows you to use pleaserun to create init, launchd, upstart, systemd, and may more 'init' script thingies.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jordansissel/puppet-pleaserun",
+  "languages_url": "https://api.github.com/repos/jordansissel/puppet-pleaserun/languages",
+  "created_at": "2014-03-06T06:26:56Z",
+  "updated_at": "2017-09-09T01:37:54Z",
+  "pushed_at": "2014-03-06T06:27:51Z",
+  "homepage": null,
+  "size": 115,
+  "stargazers_count": 6,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "languages": {
+    "Ruby": {
+      "bytes": 3238,
+      "color": "#701516"
+    },
+    "Puppet": {
+      "bytes": 827,
+      "color": "#302B6D"
+    }
+  },
+  "contributors": {
+    "jordansissel": 1
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

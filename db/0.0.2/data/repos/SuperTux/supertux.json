@@ -1,0 +1,175 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "Grumbel": 1423,
+    "tobbi": 1079,
+    "MatzeB": 672,
+    "Hume2": 520,
+    "sommer": 527,
+    "LMH0013": 302,
+    "slackstone": 277,
+    "ryanflegel": 247,
+    "uafr": 230,
+    "maxteufel": 156,
+    "Mathnerd314": 154,
+    "maths22": 107,
+    "RavuAlHemio": 92,
+    "giby": 39,
+    "tuxdev": 76,
+    "Savsish": 44,
+    "billkendrick": 33,
+    "leper": 35,
+    "Karkus476": 15,
+    "Flakebi": 15,
+    "Rusty-Box": 13,
+    "jonfx1007": 12,
+    "christ2go": 11,
+    "brmbrmcar": 11,
+    "165your4": 5,
+    "InsightGit": 7,
+    "serano01": 6,
+    "leyyin": 5,
+    "MiroslavR": 5,
+    "mattmccutchen": 4,
+    "pelya": 4,
+    "shawnanastasio": 3,
+    "siiptuo": 3,
+    "comradekingu": 2,
+    "thejh": 2,
+    "sebras": 2,
+    "tapeshmandal": 2,
+    "amigadave": 2,
+    "mahboi": 1,
+    "schnitzeltony": 1,
+    "AshishBhattarai": 1,
+    "Calinou": 1,
+    "cwebber": 1,
+    "const86": 1,
+    "devnexen": 1,
+    "deveee": 1,
+    "DevynCJohnson": 1,
+    "eric135": 1,
+    "fabiangreffrath": 1,
+    "rgcjonas": 1,
+    "joserebelo": 1,
+    "huftis": 1,
+    "mkkot": 1,
+    "Nobelix": 1,
+    "pedromlcosta": 1,
+    "reinerh": 1,
+    "akien-mga": 1,
+    "l0ftyWhizZ": 1,
+    "codacy-badger": 1,
+    "ToBeFree": 1,
+    "Vincent-C": 1,
+    "wansti": 1,
+    "scheibel": 1,
+    "volkov0aa": 1,
+    "Alzter": 1
+  },
+  "name": "supertux",
+  "full_name": "SuperTux/supertux",
+  "owner": "SuperTux",
+  "private": false,
+  "html_url": "https://github.com/SuperTux/supertux",
+  "description": "SuperTux source code",
+  "fork": false,
+  "url": "https://api.github.com/repos/SuperTux/supertux",
+  "languages_url": "https://api.github.com/repos/SuperTux/supertux/languages",
+  "created_at": "2013-11-23T21:40:12Z",
+  "updated_at": "2018-07-19T22:00:50Z",
+  "pushed_at": "2018-07-20T02:07:30Z",
+  "homepage": "https://supertux.org",
+  "size": 355067,
+  "stargazers_count": 649,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "SuperTux",
+    "id": 6020189,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjYwMjAxODk=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/6020189?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/SuperTux",
+    "html_url": "https://github.com/SuperTux",
+    "followers_url": "https://api.github.com/users/SuperTux/followers",
+    "following_url": "https://api.github.com/users/SuperTux/following{/other_user}",
+    "gists_url": "https://api.github.com/users/SuperTux/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/SuperTux/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/SuperTux/subscriptions",
+    "organizations_url": "https://api.github.com/users/SuperTux/orgs",
+    "repos_url": "https://api.github.com/users/SuperTux/repos",
+    "events_url": "https://api.github.com/users/SuperTux/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/SuperTux/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "C++": {
+      "bytes": 2678371,
+      "color": "#f34b7d"
+    },
+    "Scheme": {
+      "bytes": 111512,
+      "color": "#1e4aec"
+    },
+    "CMake": {
+      "bytes": 82592,
+      "color": "#ccc"
+    },
+    "C#": {
+      "bytes": 49481,
+      "color": "#178600"
+    },
+    "Shell": {
+      "bytes": 20577,
+      "color": "#89e051"
+    },
+    "Python": {
+      "bytes": 20486,
+      "color": "#3572A5"
+    },
+    "Squirrel": {
+      "bytes": 15403,
+      "color": "#800000"
+    },
+    "Yacc": {
+      "bytes": 10228,
+      "color": "#4B6C4B"
+    },
+    "Perl": {
+      "bytes": 7480,
+      "color": "#0298c3"
+    },
+    "LLVM": {
+      "bytes": 4530,
+      "color": "#185619"
+    },
+    "AppleScript": {
+      "bytes": 1583,
+      "color": "#101F1F"
+    },
+    "Roff": {
+      "bytes": 1089,
+      "color": "#ecdebe"
+    },
+    "Ruby": {
+      "bytes": 930,
+      "color": "#701516"
+    },
+    "Makefile": {
+      "bytes": 311,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

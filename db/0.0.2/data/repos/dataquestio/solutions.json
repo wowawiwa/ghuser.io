@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "solutions",
+  "full_name": "dataquestio/solutions",
+  "owner": "dataquestio",
+  "private": false,
+  "html_url": "https://github.com/dataquestio/solutions",
+  "description": "Solutions for projects.",
+  "fork": false,
+  "url": "https://api.github.com/repos/dataquestio/solutions",
+  "languages_url": "https://api.github.com/repos/dataquestio/solutions/languages",
+  "created_at": "2016-01-01T23:23:58Z",
+  "updated_at": "2018-07-18T17:32:10Z",
+  "pushed_at": "2018-07-18T16:42:18Z",
+  "homepage": null,
+  "size": 3916,
+  "stargazers_count": 240,
+  "language": "Jupyter Notebook",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "dataquestio",
+    "id": 11148054,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjExMTQ4MDU0",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/11148054?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/dataquestio",
+    "html_url": "https://github.com/dataquestio",
+    "followers_url": "https://api.github.com/users/dataquestio/followers",
+    "following_url": "https://api.github.com/users/dataquestio/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dataquestio/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/dataquestio/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dataquestio/subscriptions",
+    "organizations_url": "https://api.github.com/users/dataquestio/orgs",
+    "repos_url": "https://api.github.com/users/dataquestio/repos",
+    "events_url": "https://api.github.com/users/dataquestio/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/dataquestio/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "mircealex": 5,
+    "spiside": 4,
+    "VikParuchuri": 12,
+    "jaypeedevlin": 13,
+    "srinify": 15
+  },
+  "languages": {
+    "Jupyter Notebook": {
+      "bytes": 4024957,
+      "color": "#DA5B0B"
+    },
+    "Python": {
+      "bytes": 1988,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

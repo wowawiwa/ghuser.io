@@ -1,0 +1,70 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "go-libp2p-nat",
+  "full_name": "libp2p/go-libp2p-nat",
+  "owner": "libp2p",
+  "private": false,
+  "html_url": "https://github.com/libp2p/go-libp2p-nat",
+  "description": "NAT port mapping library for go-libp2p",
+  "fork": false,
+  "url": "https://api.github.com/repos/libp2p/go-libp2p-nat",
+  "languages_url": "https://api.github.com/repos/libp2p/go-libp2p-nat/languages",
+  "created_at": "2016-10-24T22:15:35Z",
+  "updated_at": "2018-06-26T23:47:28Z",
+  "pushed_at": "2018-07-09T09:46:24Z",
+  "homepage": "",
+  "size": 43,
+  "stargazers_count": 11,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "libp2p",
+    "id": 14838238,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0ODM4MjM4",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/14838238?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/libp2p",
+    "html_url": "https://github.com/libp2p",
+    "followers_url": "https://api.github.com/users/libp2p/followers",
+    "following_url": "https://api.github.com/users/libp2p/following{/other_user}",
+    "gists_url": "https://api.github.com/users/libp2p/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/libp2p/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/libp2p/subscriptions",
+    "organizations_url": "https://api.github.com/users/libp2p/orgs",
+    "repos_url": "https://api.github.com/users/libp2p/repos",
+    "events_url": "https://api.github.com/users/libp2p/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/libp2p/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "Go": {
+      "bytes": 12187,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 168,
+      "color": "#427819"
+    }
+  },
+  "contributors": {
+    "lgierth": 1,
+    "RichardLitt": 1,
+    "John-Steidley": 1,
+    "jbenet": 1,
+    "kevina": 4,
+    "Kubuxu": 5,
+    "Stebalien": 10,
+    "whyrusleeping": 20
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

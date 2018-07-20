@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "salt-logstash",
+  "full_name": "clausa/salt-logstash",
+  "owner": "clausa",
+  "private": false,
+  "html_url": "https://github.com/clausa/salt-logstash",
+  "description": "salt state definitions for installing logstash, elasticsearch and kibana",
+  "fork": false,
+  "url": "https://api.github.com/repos/clausa/salt-logstash",
+  "languages_url": "https://api.github.com/repos/clausa/salt-logstash/languages",
+  "created_at": "2012-10-22T11:54:05Z",
+  "updated_at": "2017-08-29T09:51:31Z",
+  "pushed_at": "2013-08-06T13:14:56Z",
+  "homepage": null,
+  "size": 132,
+  "stargazers_count": 37,
+  "language": "Scheme",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "languages": {
+    "Scheme": {
+      "bytes": 4240,
+      "color": "#1e4aec"
+    }
+  },
+  "contributors": {
+    "jordansissel": 1,
+    "echohead": 2,
+    "clausa": 7
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

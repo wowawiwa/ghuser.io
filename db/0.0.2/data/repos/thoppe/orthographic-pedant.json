@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "orthographic-pedant",
+  "full_name": "thoppe/orthographic-pedant",
+  "owner": "thoppe",
+  "private": false,
+  "html_url": "https://github.com/thoppe/orthographic-pedant",
+  "description": "Correcting common typos in GitHub one pull request at a time.",
+  "fork": false,
+  "url": "https://api.github.com/repos/thoppe/orthographic-pedant",
+  "languages_url": "https://api.github.com/repos/thoppe/orthographic-pedant/languages",
+  "created_at": "2015-09-16T14:35:16Z",
+  "updated_at": "2018-06-17T13:25:33Z",
+  "pushed_at": "2015-11-10T15:22:04Z",
+  "homepage": "",
+  "size": 911,
+  "stargazers_count": 130,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "languages": {
+    "Python": {
+      "bytes": 14997,
+      "color": "#3572A5"
+    }
+  },
+  "contributors": {
+    "webmaven": 1,
+    "cesine": 1,
+    "orthographic-pedant": 1,
+    "RichardLitt": 1,
+    "leoetlino": 1,
+    "bitdeli-chef": 1,
+    "thoppe": 81
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}
