@@ -63,7 +63,14 @@ positional arguments:
       const userLogin = userFile.login;
       const ghUserUrl = `https://api.github.com/users/${userLogin}`;
       spinner = ora(`Fetching ${ghUserUrl}...`).start();
-      const ghDataJson = await fetchJson(github.authify(ghUserUrl), spinner);
+      const ghDataJson = await fetchJson(
+        github.authify(ghUserUrl), spinner, [304],
+        userFile.contribs && userFile.contribs.fetched_at && new Date(userFile.contribs.fetched_at)
+      );
+      if (ghDataJson === 304) {
+        spinner.succeed(`${userLogin} didn't change`);
+        return;
+      }
       spinner.succeed(`Fetched ${ghUserUrl}`);
 
       Object.assign(userFile, ghDataJson);

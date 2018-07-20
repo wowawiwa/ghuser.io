@@ -5,12 +5,17 @@
 
   const fetch = require('fetch-retry');
 
-  const fetchJson = async function(url, oraSpinner, acceptedErrorCodes=[]) {
+  const fetchJson = async function(url, oraSpinner, acceptedErrorCodes=[],
+                                   /*Date*/ifModifiedSince) {
     // If the HTTP status code is 2xx, returns the object represented by the fetched json.
     // Else if the HTTP status code is in acceptedErrorCodes, returns it.
     // Else throws the HTTP status code.
 
-    const data = await fetch(url);
+    const data = await fetch(url, ifModifiedSince && {
+      headers: {
+        'If-Modified-Since': ifModifiedSince.toUTCString()
+      }
+    });
     const statusIsOk = Math.floor(data.status / 100) === 2;
     if (!statusIsOk && acceptedErrorCodes.indexOf(data.status) > -1) {
       return data.status;

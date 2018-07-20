@@ -73,8 +73,13 @@
         return;
       }
 
-      const ghDataJson = await fetchJson(github.authify(ghRepoUrl), spinner, [404]);
-      if (ghDataJson == 404) {
+      const ghDataJson = await fetchJson(github.authify(ghRepoUrl), spinner, [304, 404],
+                                         new Date(repos.repos[repo].fetched_at));
+      switch (ghDataJson) {
+      case 304:
+        spinner.succeed(`${repo} didn't change`);
+        return;
+      case 404:
         repos.repos[repo].removed_from_github = true;
         spinner.succeed(`${repo} was removed from GitHub`);
         repos.write();
