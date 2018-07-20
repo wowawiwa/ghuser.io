@@ -14,12 +14,12 @@
     },
     "Cloud-CV/EvalAI-ngx": {
       "full_name": "Cloud-CV/EvalAI-ngx",
-      "popularity": 2.2330349704670382,
+      "popularity": 2.206864721909315,
       "percentage": 2.272727272727273,
       "maturity": 1.614477908582291,
       "total_commits_count": 44,
       "activity": 5,
-      "total_score": 15.587821060749139,
+      "total_score": 15.501578196183916,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -36,12 +36,12 @@
     },
     "dataquestio/solutions": {
       "full_name": "dataquestio/solutions",
-      "popularity": 3.374970626146057,
+      "popularity": 3.378618648421539,
       "percentage": 0,
       "maturity": 1.9607586681802867,
       "total_commits_count": 49,
       "activity": 5,
-      "total_score": 19.046429214798742,
+      "total_score": 19.05737328162519,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -51,8 +51,8 @@
       "percentage": 100,
       "maturity": 0,
       "total_commits_count": 4,
-      "activity": 0.7871947927694993,
-      "total_score": 0.7871947927694993,
+      "activity": 0.7860431127618144,
+      "total_score": 0.7860431127618144,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -464,7 +464,7 @@
       "max_total_score": 95
     },
     "hakabuk/react-notes": {
-      "full_name": "hakabuk/Learning-React",
+      "full_name": "hakabuk/react-notes",
       "popularity": 1.0414282204429401,
       "percentage": 100,
       "maturity": 0,

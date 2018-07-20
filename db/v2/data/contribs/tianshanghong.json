@@ -14,12 +14,12 @@
     },
     "tianshanghong/awesome-anki": {
       "full_name": "tianshanghong/awesome-anki",
-      "popularity": 2.478605454390306,
+      "popularity": 2.492799351998761,
       "percentage": 54.166666666666664,
       "maturity": 0,
       "total_commits_count": 24,
       "activity": 5,
-      "total_score": 29.889329771169322,
+      "total_score": 30.031860159654222,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -29,8 +29,8 @@
       "percentage": 3.0303030303030303,
       "maturity": 0,
       "total_commits_count": 33,
-      "activity": 1.894617283506875,
-      "total_score": 11.510279345173853,
+      "activity": 1.8800945395980841,
+      "total_score": 11.495756601265061,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -40,8 +40,8 @@
       "percentage": 100,
       "maturity": 0,
       "total_commits_count": 4,
-      "activity": 1.6828227518307566,
-      "total_score": 1.6828227518307566,
+      "activity": 1.6738476276998004,
+      "total_score": 1.6738476276998004,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -385,6 +385,9 @@
       "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
+    },
+    "tianshanghong/todolist": {
+      "full_name": "tianshanghong/todolist"
     }
   },
   "organizations": []
