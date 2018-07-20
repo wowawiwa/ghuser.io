@@ -35,7 +35,7 @@
       if (file.endsWith('.json')) {
         const contribList = new DbFile(`data/contribs/${file}`);
         contribList._comment = 'DO NOT EDIT MANUALLY - See ../../README.md';
-        contribList.repos = contribList.repos || {};
+        contribList.repos = {};
         contribs[file] = contribList;
       }
     }
@@ -77,10 +77,11 @@
           continue; // repo has been stripped
         }
 
-        contribs[filename].repos[repo] = contribs[filename].repos[repo] || {};
-        const score = contribs[filename].repos[repo];
-        score.full_name = repos.repos[repo].full_name;
-        score.popularity = logarithmicScoreAscending(1, 10000, repos.repos[repo].stargazers_count);
+        const full_name = repos.repos[repo].full_name;
+        const score = contribs[filename].repos[full_name] = {
+          full_name,
+          popularity: logarithmicScoreAscending(1, 10000, repos.repos[repo].stargazers_count)
+        };
 
         let totalContribs = 0;
         for (const contributor in repos.repos[repo].contributors) {
