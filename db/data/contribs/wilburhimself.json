@@ -1,0 +1,223 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "developersdo/opensource": {
+      "full_name": "developersdo/opensource",
+      "popularity": 2.5198669643416824,
+      "percentage": 1.9292604501607717,
+      "maturity": 3.43486519699675,
+      "total_commits_count": 311,
+      "activity": 5,
+      "total_score": 20.06132364463479,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ForwardFinancing/process_lock": {
+      "full_name": "ForwardFinancing/process_lock",
+      "popularity": 1.0414282204429401,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 8,
+      "activity": 1.2637697831132373,
+      "total_score": 4.388054444442058,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "SinanMtl/webpack-simple-starter": {
+      "full_name": "SinanMtl/webpack-simple-starter",
+      "popularity": 3.818330973513915,
+      "percentage": 7.6923076923076925,
+      "maturity": 0,
+      "total_commits_count": 13,
+      "activity": 2.126623693650746,
+      "total_score": 17.399947587706407,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "edwardtufte/tufte-css": {
+      "full_name": "edwardtufte/tufte-css",
+      "popularity": 4.553691561534356,
+      "percentage": 0.45454545454545453,
+      "maturity": 3.2572490692670404,
+      "total_commits_count": 220,
+      "activity": 2.0980830009545492,
+      "total_score": 22.542737598182363,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "wilburhimself/rubykoans": {
+      "full_name": "wilburhimself/rubykoans",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 21,
+      "activity": 1.2005144282431126,
+      "total_score": 1.2005144282431126,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "knightking100/hello-worlds": {
+      "full_name": "knightking100/hello-worlds",
+      "popularity": 2.654215543864054,
+      "percentage": 0.5788712011577424,
+      "maturity": 3.8153837478143138,
+      "total_commits_count": 691,
+      "activity": 1.2596520545981225,
+      "total_score": 17.05280454401997,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "wilburhimself/graphql_sequelize_starter": {
+      "full_name": "wilburhimself/graphql_sequelize_starter",
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 3,
+      "activity": 1.185011393856077,
+      "total_score": 17.84786292094312,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "SpinaCMS/Spina": {
+      "full_name": "SpinaCMS/Spina",
+      "popularity": 4.18702365827209,
+      "percentage": 0.17513134851138354,
+      "maturity": 3.7269122937526924,
+      "total_commits_count": 571,
+      "activity": 5,
+      "total_score": 25.11022184525955,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "cdnjs/cdnjs": {
+      "full_name": "cdnjs/cdnjs",
+      "popularity": 4.812491179529284,
+      "percentage": 0,
+      "maturity": 5,
+      "total_commits_count": 53535,
+      "activity": 5,
+      "total_score": 29.437473538587852,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "EbookFoundation/free-programming-books": {
+      "full_name": "EbookFoundation/free-programming-books",
+      "popularity": 5,
+      "percentage": 0,
+      "maturity": 4.590243276595914,
+      "total_commits_count": 3917,
+      "activity": 5,
+      "total_score": 29.180486553191827,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "wilburhimself/dropboxy": {
+      "full_name": "wilburhimself/dropboxy",
+      "popularity": 1.3222565221025262,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 8,
+      "activity": 0.3447714661387744,
+      "total_score": 21.500875819779193,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "wilburhimself/sandwich-store": {
+      "full_name": "wilburhimself/sandwich-store",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 11,
+      "activity": 0.31419250672128207,
+      "total_score": 0.31419250672128207,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "wilburhimself/fastbreak": {
+      "full_name": "wilburhimself/fastbreak",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 16,
+      "activity": 0.2905874156093242,
+      "total_score": 0.2905874156093242,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "wilburhimself/flame": {
+      "full_name": "wilburhimself/flame",
+      "popularity": 1.3222565221025262,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 10,
+      "activity": 0.28986746272862707,
+      "total_score": 21.445971816369045,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "wilburhimself/shell-tutorial": {
+      "full_name": "wilburhimself/shell-tutorial",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 10,
+      "activity": 0.2890943487163389,
+      "total_score": 0.2890943487163389,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "wilburhimself/evev": {
+      "full_name": "wilburhimself/evev",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 20,
+      "activity": 0.2033243484713374,
+      "total_score": 0.2033243484713374,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "wilburhimself/tombler": {
+      "full_name": "wilburhimself/tombler",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 0.1889927020770612,
+      "total_score": 0.1889927020770612,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "bcit-ci/CodeIgniter": {
+      "full_name": "bcit-ci/CodeIgniter",
+      "popularity": 5,
+      "percentage": 0,
+      "maturity": 4.88580061489812,
+      "total_commits_count": 7697,
+      "activity": 5,
+      "total_score": 29.77160122979624,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "wilburhimself/CodeIgniter": {
+      "full_name": "wilburhimself/CodeIgniter",
+      "popularity": 0,
+      "percentage": 0.06222775357809583,
+      "maturity": 4.1968329186446,
+      "total_commits_count": 1607,
+      "activity": 0.18837043046370106,
+      "total_score": 8.582036267752901,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "developersdo",
+    "ForwardFinancing",
+    "edwardtufte",
+    "SpinaCMS",
+    "cdnjs",
+    "EbookFoundation",
+    "bcit-ci"
+  ]
+}

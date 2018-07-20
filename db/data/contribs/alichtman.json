@@ -1,0 +1,393 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "shobrook/saplings": {
+      "full_name": "shobrook/saplings",
+      "popularity": 0,
+      "percentage": 6.25,
+      "maturity": 1.9101999437230757,
+      "total_commits_count": 48,
+      "activity": 5,
+      "total_score": 8.82039988744615,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "jaywcjlove/awesome-mac": {
+      "full_name": "jaywcjlove/awesome-mac",
+      "popularity": 5,
+      "percentage": 6.660583941605839,
+      "maturity": 4.025441197151449,
+      "total_commits_count": 1096,
+      "activity": 5,
+      "total_score": 32.38026195634669,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "dear-microsoft/dear-microsoft": {
+      "full_name": "dear-microsoft/dear-microsoft",
+      "popularity": 2.117310085935697,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 8,
+      "activity": 5,
+      "total_score": 38.87696137497115,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "shobrook/BitVision": {
+      "full_name": "shobrook/BitVision",
+      "popularity": 2.206864721909315,
+      "percentage": 45.9915611814346,
+      "maturity": 3.2964220637141395,
+      "total_commits_count": 237,
+      "activity": 5,
+      "total_score": 31.40806829714567,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "alichtman/text-language-identifier": {
+      "full_name": "alichtman/text-language-identifier",
+      "popularity": 1.49139952161816,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 11,
+      "activity": 5,
+      "total_score": 28.86239234589056,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "selfagency/microsoft-drop-ice": {
+      "full_name": "selfagency/microsoft-drop-ice",
+      "popularity": 3.7211073830208767,
+      "percentage": 0.30120481927710846,
+      "maturity": 3.7969902235343667,
+      "total_commits_count": 664,
+      "activity": 5,
+      "total_score": 23.90300860811712,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "alichtman/shallow-backup": {
+      "full_name": "alichtman/shallow-backup",
+      "popularity": 3.0378638034149463,
+      "percentage": 100,
+      "maturity": 2.4802970571810303,
+      "total_commits_count": 70,
+      "activity": 4.921540612680809,
+      "total_score": 58.48795558168201,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "alebcay/awesome-shell": {
+      "full_name": "alebcay/awesome-shell",
+      "popularity": 5,
+      "percentage": 0.6289308176100629,
+      "maturity": 3.6423167286562483,
+      "total_commits_count": 477,
+      "activity": 5,
+      "total_score": 27.69343848875904,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "alichtman/awesome-programming-humor": {
+      "full_name": "alichtman/awesome-programming-humor",
+      "popularity": 1.9085236249774054,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 16,
+      "activity": 2.3277182086360613,
+      "total_score": 32.864096208274546,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "alichtman/stronghold": {
+      "full_name": "alichtman/stronghold",
+      "popularity": 3.2947256931017197,
+      "percentage": 100,
+      "maturity": 2.894385133720438,
+      "total_commits_count": 118,
+      "activity": 2.2346916269520616,
+      "total_score": 60.73907298402045,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "shobrook/TypeSense": {
+      "full_name": "shobrook/TypeSense",
+      "popularity": 1.0414282204429401,
+      "percentage": 44,
+      "maturity": 3.043522063689193,
+      "total_commits_count": 150,
+      "activity": 2.1425342821009288,
+      "total_score": 17.31083249174175,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "smashism/awesome-macadmin-tools": {
+      "full_name": "smashism/awesome-macadmin-tools",
+      "popularity": 2.9782195644898506,
+      "percentage": 2.7027027027027026,
+      "maturity": 0,
+      "total_commits_count": 37,
+      "activity": 5,
+      "total_score": 14.981060162074094,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ReidSS/GroupMeTool": {
+      "full_name": "ReidSS/GroupMeTool",
+      "popularity": 1.0414282204429401,
+      "percentage": 40,
+      "maturity": 0,
+      "total_commits_count": 5,
+      "activity": 2.335520228036638,
+      "total_score": 10.875231635668746,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "drduh/macOS-Security-and-Privacy-Guide": {
+      "full_name": "drduh/macOS-Security-and-Privacy-Guide",
+      "popularity": 5,
+      "percentage": 0.9036144578313253,
+      "maturity": 3.467267282343504,
+      "total_commits_count": 332,
+      "activity": 5,
+      "total_score": 27.52188396227737,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ryanzav/birdseye": {
+      "full_name": "ryanzav/birdseye",
+      "popularity": 2.5198669643416824,
+      "percentage": 37.5,
+      "maturity": 0,
+      "total_commits_count": 8,
+      "activity": 2.1581051734411285,
+      "total_score": 22.00205751763188,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "alichtman/i-made-this": {
+      "full_name": "alichtman/i-made-this",
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 9,
+      "activity": 1.811136220878912,
+      "total_score": 18.473987747965953,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sb2nov/mac-setup": {
+      "full_name": "sb2nov/mac-setup",
+      "popularity": 4.698583274929961,
+      "percentage": 0.3048780487804878,
+      "maturity": 3.461278975413779,
+      "total_commits_count": 328,
+      "activity": 2.523367027170175,
+      "total_score": 23.72789913990374,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Bretley/how2exploit_binary": {
+      "full_name": "Bretley/how2exploit_binary",
+      "popularity": 3.3619556903350003,
+      "percentage": 28.205128205128204,
+      "maturity": 2.582656746092775,
+      "total_commits_count": 78,
+      "activity": 3.731169987616094,
+      "total_score": 31.309521415368312,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "serhii-londar/open-source-mac-os-apps": {
+      "full_name": "serhii-londar/open-source-mac-os-apps",
+      "popularity": 5,
+      "percentage": 2.7888446215139444,
+      "maturity": 3.3262237310486653,
+      "total_commits_count": 251,
+      "activity": 5,
+      "total_score": 28.465196466081395,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ashishb/osx-and-ios-security-awesome": {
+      "full_name": "ashishb/osx-and-ios-security-awesome",
+      "popularity": 3.6295506136805527,
+      "percentage": 14.285714285714286,
+      "maturity": 0,
+      "total_commits_count": 21,
+      "activity": 1.7512485119216183,
+      "total_score": 19.38049434979859,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "agarrharr/awesome-cli-apps": {
+      "full_name": "agarrharr/awesome-cli-apps",
+      "popularity": 4.395906918316308,
+      "percentage": 1.4492753623188406,
+      "maturity": 2.993403559571943,
+      "total_commits_count": 138,
+      "activity": 5,
+      "total_score": 25.002742221021972,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "timsutton/python-macadmin-tools": {
+      "full_name": "timsutton/python-macadmin-tools",
+      "popularity": 3.374970626146057,
+      "percentage": 1.5625,
+      "maturity": 2.3837461708665604,
+      "total_commits_count": 64,
+      "activity": 1.8030344006745405,
+      "total_score": 17.38097952928175,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "herrbischoff/awesome-command-line-apps": {
+      "full_name": "herrbischoff/awesome-command-line-apps",
+      "popularity": 4.240113845973266,
+      "percentage": 0,
+      "maturity": 3.309445388812204,
+      "total_commits_count": 243,
+      "activity": 1.921548176272224,
+      "total_score": 21.26078049181643,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "alichtman/DecodeCaesar": {
+      "full_name": "alichtman/DecodeCaesar",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 10,
+      "activity": 1.6726823279589778,
+      "total_score": 1.6726823279589778,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "shobrook/rebound": {
+      "full_name": "shobrook/rebound",
+      "popularity": 4.335115684160694,
+      "percentage": 0.78125,
+      "maturity": 2.9467102601021384,
+      "total_commits_count": 128,
+      "activity": 5,
+      "total_score": 24.33905275935893,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "morgant/tools-osx": {
+      "full_name": "morgant/tools-osx",
+      "popularity": 3.668518183199913,
+      "percentage": 0.9803921568627451,
+      "maturity": 2.7948251283549816,
+      "total_commits_count": 102,
+      "activity": 1.6688228203116777,
+      "total_score": 18.731583865656663,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "zbetcheckin/Security_list": {
+      "full_name": "zbetcheckin/Security_list",
+      "popularity": 3.8797655801369486,
+      "percentage": 1.8181818181818181,
+      "maturity": 2.8474518645974776,
+      "total_commits_count": 110,
+      "activity": 2.483233110287721,
+      "total_score": 20.734469080653163,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "kai5263499/osx-security-awesome": {
+      "full_name": "kai5263499/osx-security-awesome",
+      "popularity": 3.3426591134479233,
+      "percentage": 0,
+      "maturity": 2.828456256278814,
+      "total_commits_count": 107,
+      "activity": 5,
+      "total_score": 20.6848898529014,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "k4m4/terminals-are-sexy": {
+      "full_name": "k4m4/terminals-are-sexy",
+      "popularity": 4.810211096404872,
+      "percentage": 0.49019607843137253,
+      "maturity": 3.2168438436882,
+      "total_commits_count": 204,
+      "activity": 5,
+      "total_score": 26.17085403665603,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "enaqx/awesome-pentest": {
+      "full_name": "enaqx/awesome-pentest",
+      "popularity": 4.860802195645569,
+      "percentage": 0.3367003367003367,
+      "maturity": 3.4118377212527617,
+      "total_commits_count": 297,
+      "activity": 5,
+      "total_score": 26.618844415110217,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "alichtman/uiuc-cs225-grade-calc": {
+      "full_name": "alichtman/uiuc-cs225-grade-calc",
+      "popularity": 1.0414282204429401,
+      "percentage": 96.29629629629629,
+      "maturity": 0,
+      "total_commits_count": 27,
+      "activity": 1.6439117902459048,
+      "total_score": 17.805334914897458,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "moghya/install-it": {
+      "full_name": "moghya/install-it",
+      "popularity": 2.117310085935697,
+      "percentage": 20.408163265306122,
+      "maturity": 1.9607586681802867,
+      "total_commits_count": 49,
+      "activity": 5,
+      "total_score": 20.89080088338482,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "FabioBaroni/awesome-exploit-development": {
+      "full_name": "FabioBaroni/awesome-exploit-development",
+      "popularity": 3.6956083078106254,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 8,
+      "activity": 1.6193967916449354,
+      "total_score": 12.706221715076811,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "eonist/How-to-collaborate-on-github": {
+      "full_name": "eonist/How-to-collaborate-on-github",
+      "popularity": 2.0828241359374196,
+      "percentage": 20,
+      "maturity": 0,
+      "total_commits_count": 10,
+      "activity": 5,
+      "total_score": 16.66381516124955,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "yaronn/blessed-contrib": {
+      "full_name": "yaronn/blessed-contrib",
+      "popularity": 5,
+      "percentage": 0,
+      "maturity": 3.3343759233933628,
+      "total_commits_count": 255,
+      "activity": 5,
+      "total_score": 26.668751846786726,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "dear-microsoft"
+  ]
+}

@@ -1,0 +1,303 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "avidLearnerInProgress/python-automation-scripts": {
+      "full_name": "avidLearnerInProgress/python-automation-scripts",
+      "popularity": 2.3636508993380505,
+      "percentage": 100,
+      "maturity": 2.1509431413585514,
+      "total_commits_count": 54,
+      "activity": 5,
+      "total_score": 47.12030067212591,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/pyCAIR": {
+      "full_name": "avidLearnerInProgress/pyCAIR",
+      "popularity": 3.0457531124124166,
+      "percentage": 100,
+      "maturity": 2.8153146453382947,
+      "total_commits_count": 105,
+      "activity": 5,
+      "total_score": 59.362679089275254,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/neural-network-practice": {
+      "full_name": "avidLearnerInProgress/neural-network-practice",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 5,
+      "activity": 1.6805342015793818,
+      "total_score": 1.6805342015793818,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/plotly-flask": {
+      "full_name": "avidLearnerInProgress/plotly-flask",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 4,
+      "activity": 1.6155186623464668,
+      "total_score": 1.6155186623464668,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/sudoku-solver-openCV-python": {
+      "full_name": "avidLearnerInProgress/sudoku-solver-openCV-python",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 18,
+      "activity": 1.5904998061953632,
+      "total_score": 1.5904998061953632,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/hand-gesture-recognition": {
+      "full_name": "avidLearnerInProgress/hand-gesture-recognition",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 16,
+      "activity": 1.5563342369285014,
+      "total_score": 1.5563342369285014,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/OpenCV-practice": {
+      "full_name": "avidLearnerInProgress/OpenCV-practice",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 7,
+      "activity": 1.5478273447007966,
+      "total_score": 1.5478273447007966,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/amazon-apparel-recommendation": {
+      "full_name": "avidLearnerInProgress/amazon-apparel-recommendation",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 1,
+      "activity": 1.4952621384065816,
+      "total_score": 1.4952621384065816,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/todo-notes-api": {
+      "full_name": "avidLearnerInProgress/todo-notes-api",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 19,
+      "activity": 1.469163115666726,
+      "total_score": 1.469163115666726,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/markdown-editor": {
+      "full_name": "avidLearnerInProgress/markdown-editor",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 1,
+      "activity": 1.4769809061078134,
+      "total_score": 1.4769809061078134,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/pomodoro-clock": {
+      "full_name": "avidLearnerInProgress/pomodoro-clock",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 5,
+      "activity": 1.4200161651568322,
+      "total_score": 1.4200161651568322,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/freeCodeCampProjects": {
+      "full_name": "avidLearnerInProgress/freeCodeCampProjects",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 6,
+      "activity": 1.4267994002711113,
+      "total_score": 1.4267994002711113,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/node-contacts-app": {
+      "full_name": "avidLearnerInProgress/node-contacts-app",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 3,
+      "activity": 1.4300005695137372,
+      "total_score": 1.4300005695137372,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/notes-app": {
+      "full_name": "avidLearnerInProgress/notes-app",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 3,
+      "activity": 1.3986132798213902,
+      "total_score": 1.3986132798213902,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/node-weather-app": {
+      "full_name": "avidLearnerInProgress/node-weather-app",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 1.3986321588743267,
+      "total_score": 1.3986321588743267,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/node-web-server": {
+      "full_name": "avidLearnerInProgress/node-web-server",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 5,
+      "activity": 1.391569901192371,
+      "total_score": 1.391569901192371,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/MaterialDesignCaclulator": {
+      "full_name": "avidLearnerInProgress/MaterialDesignCaclulator",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 6,
+      "activity": 1.3923661031935795,
+      "total_score": 1.3923661031935795,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/url-shortener-api": {
+      "full_name": "avidLearnerInProgress/url-shortener-api",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 4,
+      "activity": 1.389005253055462,
+      "total_score": 1.389005253055462,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/twitch-status-viewer": {
+      "full_name": "avidLearnerInProgress/twitch-status-viewer",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 5,
+      "activity": 1.3801940564332225,
+      "total_score": 1.3801940564332225,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/wikipedia-viewer": {
+      "full_name": "avidLearnerInProgress/wikipedia-viewer",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 4,
+      "activity": 1.3506059075612646,
+      "total_score": 1.3506059075612646,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/angularjs-practice-codes": {
+      "full_name": "avidLearnerInProgress/angularjs-practice-codes",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 1.3505904367810562,
+      "total_score": 1.3505904367810562,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/Weather-app": {
+      "full_name": "avidLearnerInProgress/Weather-app",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 1,
+      "activity": 1.3293967976615253,
+      "total_score": 1.3293967976615253,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/randomQuoteGenerator": {
+      "full_name": "avidLearnerInProgress/randomQuoteGenerator",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 4,
+      "activity": 1.329417401567508,
+      "total_score": 1.329417401567508,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/TicTacToeAI": {
+      "full_name": "avidLearnerInProgress/TicTacToeAI",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 1.3115477139497669,
+      "total_score": 1.3115477139497669,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/avidLearnerInProgress.github.io": {
+      "full_name": "avidLearnerInProgress/avidLearnerInProgress.github.io",
+      "popularity": 1.8512968868523627,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 2.206194523392231,
+      "total_score": 31.826944713030034,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/minimal-TodoList": {
+      "full_name": "avidLearnerInProgress/minimal-TodoList",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 1,
+      "activity": 1.314581572399232,
+      "total_score": 1.314581572399232,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avidLearnerInProgress/placementPreparation": {
+      "full_name": "avidLearnerInProgress/placementPreparation",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 3,
+      "activity": 1.0201403574987022,
+      "total_score": 1.0201403574987022,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": []
+}

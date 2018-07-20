@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "xingshaocheng/architect-awesome": {
+      "full_name": "xingshaocheng/architect-awesome",
+      "popularity": 5,
+      "percentage": 0.5376344086021505,
+      "maturity": 3.1663853484696785,
+      "total_commits_count": 186,
+      "activity": 5,
+      "total_score": 26.682233062530756,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "tianshanghong/awesome-anki": {
+      "full_name": "tianshanghong/awesome-anki",
+      "popularity": 2.492799351998761,
+      "percentage": 54.166666666666664,
+      "maturity": 0,
+      "total_commits_count": 24,
+      "activity": 5,
+      "total_score": 30.031860159654222,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "mtianyan/movie_project": {
+      "full_name": "mtianyan/movie_project",
+      "popularity": 2.8331861431697343,
+      "percentage": 3.0303030303030303,
+      "maturity": 0,
+      "total_commits_count": 33,
+      "activity": 1.8800945395980841,
+      "total_score": 11.495756601265061,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "tianshanghong/leetcode-playground": {
+      "full_name": "tianshanghong/leetcode-playground",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 4,
+      "activity": 1.6738476276998004,
+      "total_score": 1.6738476276998004,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": []
+}

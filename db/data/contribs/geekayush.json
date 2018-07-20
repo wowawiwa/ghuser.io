@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "material-components/material-components-web-react": {
+      "full_name": "material-components/material-components-web-react",
+      "popularity": 3.6822744374313534,
+      "percentage": 0.9090909090909091,
+      "maturity": 2.8474518645974776,
+      "total_commits_count": 110,
+      "activity": 5,
+      "total_score": 22.176904929549085,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sedg-jss/esummit-18": {
+      "full_name": "sedg-jss/esummit-18",
+      "popularity": 0,
+      "percentage": 30.76923076923077,
+      "maturity": 0,
+      "total_commits_count": 13,
+      "activity": 1.697935356337878,
+      "total_score": 1.697935356337878,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Cloud-CV/EvalAI": {
+      "full_name": "Cloud-CV/EvalAI",
+      "popularity": 3.666650648650219,
+      "percentage": 0.1092896174863388,
+      "maturity": 3.9437938044334837,
+      "total_commits_count": 915,
+      "activity": 5,
+      "total_score": 23.939634044907734,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "MMIL/MMIL-Website-V2": {
+      "full_name": "MMIL/MMIL-Website-V2",
+      "popularity": 0,
+      "percentage": 37.142857142857146,
+      "maturity": 2.8153146453382947,
+      "total_commits_count": 105,
+      "activity": 1.6064954013652883,
+      "total_score": 7.237124692041878,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "geekayush/Music-Boxes": {
+      "full_name": "geekayush/Music-Boxes",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 5,
+      "activity": 1.0111108395549748,
+      "total_score": 1.0111108395549748,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "material-components",
+    "sedg-jss",
+    "Cloud-CV",
+    "MMIL"
+  ]
+}
