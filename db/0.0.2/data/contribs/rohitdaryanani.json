@@ -1,0 +1,153 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "sendgrid/docs": {
+      "full_name": "sendgrid/docs",
+      "popularity": 3.049644666380365,
+      "percentage": 0.009946290033817386,
+      "maturity": 5,
+      "total_commits_count": 10054,
+      "activity": 5,
+      "total_score": 24.15287724368684,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sendgrid/java-http-client": {
+      "full_name": "sendgrid/java-http-client",
+      "popularity": 1.8512968868523627,
+      "percentage": 0.8771929824561403,
+      "maturity": 2.871552188050665,
+      "total_commits_count": 114,
+      "activity": 1.3005670642400728,
+      "total_score": 12.808674903785164,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sendgrid/smtpapi-nodejs": {
+      "full_name": "sendgrid/smtpapi-nodejs",
+      "popularity": 2.478605454390306,
+      "percentage": 1.0526315789473684,
+      "maturity": 2.74288477252764,
+      "total_commits_count": 95,
+      "activity": 1.3025657468313883,
+      "total_score": 14.563329243553103,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sendgrid/csharp-http-client": {
+      "full_name": "sendgrid/csharp-http-client",
+      "popularity": 2.0828241359374196,
+      "percentage": 1.0101010101010102,
+      "maturity": 2.773320867412916,
+      "total_commits_count": 99,
+      "activity": 1.2271459030519907,
+      "total_score": 13.295762204954592,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sendgrid/smtpapi-ruby": {
+      "full_name": "sendgrid/smtpapi-ruby",
+      "popularity": 2.0828241359374196,
+      "percentage": 1.1627906976744187,
+      "maturity": 2.6654334850844252,
+      "total_commits_count": 86,
+      "activity": 1.2792883883927044,
+      "total_score": 13.173473275294587,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "MozLNMIIT/Python": {
+      "full_name": "MozLNMIIT/Python",
+      "popularity": 0,
+      "percentage": 11.11111111111111,
+      "maturity": 0,
+      "total_commits_count": 9,
+      "activity": 1.181269043873975,
+      "total_score": 1.181269043873975,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "mazipan/phpid-uxd-landingpage-prototype": {
+      "full_name": "mazipan/phpid-uxd-landingpage-prototype",
+      "popularity": 1.49139952161816,
+      "percentage": 25,
+      "maturity": 0,
+      "total_commits_count": 4,
+      "activity": 1.3662721420452746,
+      "total_score": 10.687519152158774,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "kerk12/HacktoberfestChecker-cli": {
+      "full_name": "kerk12/HacktoberfestChecker-cli",
+      "popularity": 0,
+      "percentage": 7.6923076923076925,
+      "maturity": 0,
+      "total_commits_count": 13,
+      "activity": 1.1903615165080454,
+      "total_score": 1.1903615165080454,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "robertoduessmann/weather-api": {
+      "full_name": "robertoduessmann/weather-api",
+      "popularity": 1.7076084983408428,
+      "percentage": 3.3333333333333335,
+      "maturity": 0,
+      "total_commits_count": 30,
+      "activity": 1.408636353691744,
+      "total_score": 7.271425531328638,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "rohitdaryanani/github": {
+      "full_name": "rohitdaryanani/github",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 13,
+      "activity": 0.9641800256661206,
+      "total_score": 0.9641800256661206,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "rohitdaryanani/bloodlines-api": {
+      "full_name": "rohitdaryanani/bloodlines-api",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 36,
+      "activity": 0.5036860920534654,
+      "total_score": 0.5036860920534654,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "tribuwayuk/gzais": {
+      "full_name": "tribuwayuk/gzais",
+      "popularity": 1.0414282204429401,
+      "percentage": 0,
+      "maturity": 3.014993303140942,
+      "total_commits_count": 143,
+      "activity": 0.3484062989390946,
+      "total_score": 9.5026775665498,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "jowi/pintors-locker": {
+      "full_name": "jowi/pintors-locker",
+      "popularity": 0,
+      "percentage": 23.214285714285715,
+      "maturity": 2.208551431450411,
+      "total_commits_count": 56,
+      "activity": 0.24740181114209925,
+      "total_score": 4.664504674042921,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "sendgrid",
+    "MozLNMIIT",
+    "tribuwayuk"
+  ]
+}
