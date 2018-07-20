@@ -146,12 +146,12 @@
     },
     "portapps/vscode-portable": {
       "full_name": "portapps/vscode-portable",
-      "popularity": 1.0414282204429401,
+      "popularity": 1.3222565221025262,
       "percentage": 100,
       "maturity": 0,
       "total_commits_count": 6,
       "activity": 5,
-      "total_score": 21.662851527087042,
+      "total_score": 26.15610435364042,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -597,12 +597,12 @@
     },
     "badges/shields": {
       "full_name": "badges/shields",
-      "popularity": 4.771780859299223,
+      "popularity": 4.772074594270982,
       "percentage": 0.055865921787709494,
       "maturity": 4.244799084400088,
       "total_commits_count": 1790,
       "activity": 5,
-      "total_score": 27.839596138413427,
+      "total_score": 27.840479476599448,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -619,12 +619,12 @@
     },
     "StevenBlack/hosts": {
       "full_name": "StevenBlack/hosts",
-      "popularity": 4.991801053923275,
+      "popularity": 4.992022303129405,
       "percentage": 0.3336113427856547,
       "maturity": 4.065857074939553,
       "total_commits_count": 1199,
       "activity": 5,
-      "total_score": 28.323609100476297,
+      "total_score": 28.324282443556502,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -641,23 +641,23 @@
     },
     "pi-hole/pi-hole": {
       "full_name": "pi-hole/pi-hole",
-      "popularity": 4.965245494479216,
+      "popularity": 4.965762758097209,
       "percentage": 0.13799448022079117,
       "maturity": 4.330951003217213,
       "total_commits_count": 2174,
       "activity": 5,
-      "total_score": 28.646711431125382,
+      "total_score": 28.648272501317493,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "miniflux/picoFeed": {
       "full_name": "miniflux/picoFeed",
-      "popularity": 3.644576137570449,
+      "popularity": 3.643590448334852,
       "percentage": 0.6109979633401222,
       "maturity": 3.6560087615680237,
       "total_commits_count": 491,
-      "activity": 1.315749349823799,
-      "total_score": 19.850983003319357,
+      "activity": 1.3145761475164757,
+      "total_score": 19.846774440270234,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

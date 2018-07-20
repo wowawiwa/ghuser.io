@@ -36,12 +36,12 @@
     },
     "edwardtufte/tufte-css": {
       "full_name": "edwardtufte/tufte-css",
-      "popularity": 4.553691561534356,
+      "popularity": 4.55381292030198,
       "percentage": 0.45454545454545453,
       "maturity": 3.2572490692670404,
       "total_commits_count": 220,
-      "activity": 2.0980830009545492,
-      "total_score": 22.542737598182363,
+      "activity": 2.09102374572667,
+      "total_score": 22.536049590457264,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -91,12 +91,12 @@
     },
     "cdnjs/cdnjs": {
       "full_name": "cdnjs/cdnjs",
-      "popularity": 4.812491179529284,
+      "popularity": 4.81262493000616,
       "percentage": 0,
       "maturity": 5,
-      "total_commits_count": 53535,
+      "total_commits_count": 53549,
       "activity": 5,
-      "total_score": 29.437473538587852,
+      "total_score": 29.43787479001848,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

@@ -3,12 +3,12 @@
   "repos": {
     "databricks/mlflow": {
       "full_name": "databricks/mlflow",
-      "popularity": 4.245329615038124,
+      "popularity": 4.246316031870394,
       "percentage": 0.9009009009009009,
       "maturity": 2.853603482128319,
       "total_commits_count": 111,
       "activity": 5,
-      "total_score": 23.940396575096198,
+      "total_score": 23.943471351888675,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -138,7 +138,7 @@
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,
-      "total_commits_count": 18445,
+      "total_commits_count": 18452,
       "activity": 5,
       "total_score": 30,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
@@ -333,12 +333,12 @@
     },
     "influxdata/influxdb-python": {
       "full_name": "influxdata/influxdb-python",
-      "popularity": 3.9300196745762737,
+      "popularity": 3.930529649372418,
       "percentage": 0.18050541516245489,
       "maturity": 3.7127835854114473,
       "total_commits_count": 554,
       "activity": 5,
-      "total_score": 24.307846872835995,
+      "total_score": 24.309388764142028,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
