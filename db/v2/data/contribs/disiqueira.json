@@ -12,17 +12,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "DiSiqueira/gocsgo": {
-      "full_name": "DiSiqueira/gocsgo",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "DiSiqueira/UltraSlackBot": {
       "full_name": "DiSiqueira/UltraSlackBot",
       "popularity": 1.3222565221025262,
@@ -42,17 +31,6 @@
       "total_commits_count": 25,
       "activity": 2.5752782204806577,
       "total_score": 11.299969419934534,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/go-wolfram": {
-      "full_name": "DiSiqueira/go-wolfram",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -111,17 +89,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "DiSiqueira/redditflair": {
-      "full_name": "DiSiqueira/redditflair",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "kennethreitz/twitter-scraper": {
       "full_name": "kennethreitz/twitter-scraper",
       "popularity": 4.021683121022051,
@@ -141,61 +108,6 @@
       "total_commits_count": 106,
       "activity": 5,
       "total_score": 22.249060985466702,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/webextractor": {
-      "full_name": "DiSiqueira/webextractor",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/ginf": {
-      "full_name": "DiSiqueira/ginf",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/Go-Example": {
-      "full_name": "DiSiqueira/Go-Example",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/MySlackBotTwo": {
-      "full_name": "DiSiqueira/MySlackBotTwo",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/mypm": {
-      "full_name": "DiSiqueira/mypm",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -232,83 +144,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "DiSiqueira/TumblrDownloader2": {
-      "full_name": "DiSiqueira/TumblrDownloader2",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/sheet-swarm": {
-      "full_name": "DiSiqueira/sheet-swarm",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/tt": {
-      "full_name": "DiSiqueira/tt",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/sheet-role-service": {
-      "full_name": "DiSiqueira/sheet-role-service",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/sheet-infra": {
-      "full_name": "DiSiqueira/sheet-infra",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/InstagramStoriesDownloader": {
-      "full_name": "DiSiqueira/InstagramStoriesDownloader",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/mbb": {
-      "full_name": "DiSiqueira/mbb",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "uber-go/zap": {
       "full_name": "uber-go/zap",
       "popularity": 4.625052987278919,
@@ -317,17 +152,6 @@
       "total_commits_count": 363,
       "activity": 5,
       "total_score": 26.062939948880913,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/sheet-movie-service": {
-      "full_name": "DiSiqueira/sheet-movie-service",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -364,17 +188,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "DiSiqueira/PoloniexTraderBot": {
-      "full_name": "DiSiqueira/PoloniexTraderBot",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "hellofresh/ci-bully": {
       "full_name": "hellofresh/ci-bully",
       "popularity": 0,
@@ -405,17 +218,6 @@
       "total_commits_count": 11,
       "activity": 1.1661930650358143,
       "total_score": 5.521256532342655,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/yrtyv": {
-      "full_name": "DiSiqueira/yrtyv",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -463,17 +265,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "DiSiqueira/ginfio": {
-      "full_name": "DiSiqueira/ginfio",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "DiSiqueira/TumblrDownloader": {
       "full_name": "DiSiqueira/TumblrDownloader",
       "popularity": 2.954763836250654,
@@ -504,17 +295,6 @@
       "total_commits_count": 28,
       "activity": 5,
       "total_score": 12.821378300519754,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/StaticServer": {
-      "full_name": "DiSiqueira/StaticServer",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -551,17 +331,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "DiSiqueira/StrafeGO": {
-      "full_name": "DiSiqueira/StrafeGO",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "fabiorphp/docker-golang-glide": {
       "full_name": "fabiorphp/docker-golang-glide",
       "popularity": 0,
@@ -573,28 +342,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "DiSiqueira/blocktale": {
-      "full_name": "DiSiqueira/blocktale",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/gostats": {
-      "full_name": "DiSiqueira/gostats",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "lyft/goruntime": {
       "full_name": "lyft/goruntime",
       "popularity": 2.463931943319936,
@@ -603,61 +350,6 @@
       "total_commits_count": 13,
       "activity": 1.209671979292172,
       "total_score": 8.601467809251979,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/sib": {
-      "full_name": "DiSiqueira/sib",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/frango": {
-      "full_name": "DiSiqueira/frango",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/TinderMatches": {
-      "full_name": "DiSiqueira/TinderMatches",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/CryptoPunks": {
-      "full_name": "DiSiqueira/CryptoPunks",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/concourse-tutorial": {
-      "full_name": "DiSiqueira/concourse-tutorial",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -694,17 +386,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "DiSiqueira/Flisol": {
-      "full_name": "DiSiqueira/Flisol",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "DiSiqueira/TinderGo": {
       "full_name": "DiSiqueira/TinderGo",
       "popularity": 1.9590800514478444,
@@ -724,17 +405,6 @@
       "total_commits_count": 6,
       "activity": 0.9120029020612899,
       "total_score": 24.774395247951848,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/Overwatch": {
-      "full_name": "DiSiqueira/Overwatch",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -771,17 +441,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "DiSiqueira/RedditReplyer": {
-      "full_name": "DiSiqueira/RedditReplyer",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "DiSiqueira/GoCurrency": {
       "full_name": "DiSiqueira/GoCurrency",
       "popularity": 2.2577174475727126,
@@ -812,17 +471,6 @@
       "total_commits_count": 1,
       "activity": 0.8919385565336571,
       "total_score": 0.8919385565336571,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/Trilateration": {
-      "full_name": "DiSiqueira/Trilateration",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -859,171 +507,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "DiSiqueira/ItiSchemes": {
-      "full_name": "DiSiqueira/ItiSchemes",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/ItiOS": {
-      "full_name": "DiSiqueira/ItiOS",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/ItiMobile": {
-      "full_name": "DiSiqueira/ItiMobile",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/ItiBrowser": {
-      "full_name": "DiSiqueira/ItiBrowser",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/ItiQuery": {
-      "full_name": "DiSiqueira/ItiQuery",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/ItiHost": {
-      "full_name": "DiSiqueira/ItiHost",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/ItiHeader": {
-      "full_name": "DiSiqueira/ItiHeader",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/ItiExact": {
-      "full_name": "DiSiqueira/ItiExact",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/ItiBot": {
-      "full_name": "DiSiqueira/ItiBot",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/ItiWildcard": {
-      "full_name": "DiSiqueira/ItiWildcard",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/ItiPathPrefix": {
-      "full_name": "DiSiqueira/ItiPathPrefix",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/itineraryexamples": {
-      "full_name": "DiSiqueira/itineraryexamples",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/ItineraryBenchmark": {
-      "full_name": "DiSiqueira/ItineraryBenchmark",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/ItiMethod": {
-      "full_name": "DiSiqueira/ItiMethod",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/ItiBasicAuth": {
-      "full_name": "DiSiqueira/ItiBasicAuth",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "muesli/beehive": {
       "full_name": "muesli/beehive",
       "popularity": 4.497397286040166,
@@ -1032,28 +515,6 @@
       "total_commits_count": 661,
       "activity": 2.547250150291208,
       "total_score": 23.717688227396106,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/TinderLikes": {
-      "full_name": "DiSiqueira/TinderLikes",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/DSFacebookStalker": {
-      "full_name": "DiSiqueira/DSFacebookStalker",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -1087,17 +548,6 @@
       "total_commits_count": 1023,
       "activity": 5,
       "total_score": 27.00935130459526,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/Tindetective": {
-      "full_name": "DiSiqueira/Tindetective",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -1178,17 +628,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "DiSiqueira/oscars": {
-      "full_name": "DiSiqueira/oscars",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "DiSiqueira/RedditAds": {
       "full_name": "DiSiqueira/RedditAds",
       "popularity": 0,
@@ -1230,17 +669,6 @@
       "total_commits_count": 29646,
       "activity": 5,
       "total_score": 30.00219253862241,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/myke": {
-      "full_name": "DiSiqueira/myke",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -1288,17 +716,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "DiSiqueira/FreeWorkflow": {
-      "full_name": "DiSiqueira/FreeWorkflow",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "jmdugan/blocklists": {
       "full_name": "jmdugan/blocklists",
       "popularity": 4.506963329568563,
@@ -1318,72 +735,6 @@
       "total_commits_count": 140,
       "activity": 2.6201729086812997,
       "total_score": 18.73025234977713,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/DSSplashScreen": {
-      "full_name": "DiSiqueira/DSSplashScreen",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/DSGetIPAddress": {
-      "full_name": "DiSiqueira/DSGetIPAddress",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/DSHouseMaid": {
-      "full_name": "DiSiqueira/DSHouseMaid",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/GoByExample": {
-      "full_name": "DiSiqueira/GoByExample",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/DSFacebookSDK": {
-      "full_name": "DiSiqueira/DSFacebookSDK",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/UrbanFood": {
-      "full_name": "DiSiqueira/UrbanFood",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -1442,17 +793,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "DiSiqueira/FriendlyBot": {
-      "full_name": "DiSiqueira/FriendlyBot",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "quillford/whoisatthedoor": {
       "full_name": "quillford/whoisatthedoor",
       "popularity": 0,
@@ -1472,50 +812,6 @@
       "total_commits_count": 9,
       "activity": 0.5551877140688504,
       "total_score": 0.5551877140688504,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/repospergdp": {
-      "full_name": "DiSiqueira/repospergdp",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/flappybird": {
-      "full_name": "DiSiqueira/flappybird",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/FoodTracker": {
-      "full_name": "DiSiqueira/FoodTracker",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "DiSiqueira/sueca-angular": {
-      "full_name": "DiSiqueira/sueca-angular",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

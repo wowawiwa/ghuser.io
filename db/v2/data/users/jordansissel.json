@@ -16,7 +16,7 @@
   "created_at": "2009-09-27T08:35:11Z",
   "updated_at": "2018-06-21T05:51:25Z",
   "contribs": {
-    "fetched_at": "2018-07-20T05:20:21.309Z",
+    "fetched_at": "2018-07-20T10:42:51.311Z",
     "repos": [
       "jordansissel/fpm",
       "jordansissel/semicomplete.com",
@@ -288,7 +288,13 @@
       "jordansissel/vagrant-installers",
       "jordansissel/walk",
       "jordansissel/windows-winmgr",
-      "elastic/beats"
+      "elastic/beats",
+      "jordansissel/colorstring",
+      "jordansissel/jquery",
+      "jordansissel/minitest",
+      "jordansissel/puppet-modules",
+      "jordansissel/salt-logstash",
+      "jordansissel/terraform-google-examples"
     ]
   },
   "organizations": [

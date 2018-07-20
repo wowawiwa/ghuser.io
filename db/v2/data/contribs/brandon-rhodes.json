@@ -331,17 +331,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "brandon-rhodes/talk-about-luca": {
-      "full_name": "brandon-rhodes/talk-about-luca",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "pandas-dev/pandas": {
       "full_name": "pandas-dev/pandas",
       "popularity": 5,
@@ -438,17 +427,6 @@
       "total_commits_count": 9,
       "activity": 0.467801829937569,
       "total_score": 17.130653357024613,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "brandon-rhodes/atomvacancy": {
-      "full_name": "brandon-rhodes/atomvacancy",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -617,17 +595,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "brandon-rhodes/pyephem-time-trials": {
-      "full_name": "brandon-rhodes/pyephem-time-trials",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "brandon-rhodes/publicanus": {
       "full_name": "brandon-rhodes/publicanus",
       "popularity": 1.6128219920330789,
@@ -705,17 +672,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "brandon-rhodes/500lines": {
-      "full_name": "brandon-rhodes/500lines",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "brandon-rhodes/Chess": {
       "full_name": "brandon-rhodes/Chess",
       "popularity": 1.0414282204429401,
@@ -724,28 +680,6 @@
       "total_commits_count": 140,
       "activity": 0.3815690664864082,
       "total_score": 13.958577313636107,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "brandon-rhodes/chrome_remote_shell": {
-      "full_name": "brandon-rhodes/chrome_remote_shell",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "brandon-rhodes/coordinates-benchmark": {
-      "full_name": "brandon-rhodes/coordinates-benchmark",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -760,50 +694,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "brandon-rhodes/fdfgen": {
-      "full_name": "brandon-rhodes/fdfgen",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "brandon-rhodes/ffn": {
-      "full_name": "brandon-rhodes/ffn",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "brandon-rhodes/fnv-collider": {
-      "full_name": "brandon-rhodes/fnv-collider",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "brandon-rhodes/fzf.el": {
-      "full_name": "brandon-rhodes/fzf.el",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "brandon-rhodes/heroku-buildpack-php": {
       "full_name": "brandon-rhodes/heroku-buildpack-php",
       "popularity": 1.6128219920330789,
@@ -815,72 +705,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "brandon-rhodes/intellij-community": {
-      "full_name": "brandon-rhodes/intellij-community",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "brandon-rhodes/ipython": {
-      "full_name": "brandon-rhodes/ipython",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "brandon-rhodes/pandas": {
-      "full_name": "brandon-rhodes/pandas",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "brandon-rhodes/prism": {
-      "full_name": "brandon-rhodes/prism",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "brandon-rhodes/pycon": {
-      "full_name": "brandon-rhodes/pycon",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "brandon-rhodes/pycookiecheat": {
-      "full_name": "brandon-rhodes/pycookiecheat",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "brandon-rhodes/readme_renderer": {
       "full_name": "brandon-rhodes/readme_renderer",
       "popularity": 0,
@@ -889,28 +713,6 @@
       "total_commits_count": 51,
       "activity": 1.0140671418499663,
       "total_score": 5.108154513517467,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "brandon-rhodes/vagrant-lxc": {
-      "full_name": "brandon-rhodes/vagrant-lxc",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "brandon-rhodes/yaml_examples": {
-      "full_name": "brandon-rhodes/yaml_examples",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

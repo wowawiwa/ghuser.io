@@ -12,29 +12,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "itaditya/react-with-express-session-tutorial": {
-      "full_name": "itaditya/react-with-express-session-tutorial"
-    },
-    "itaditya/react-modern-carousel": {
-      "full_name": "itaditya/react-modern-carousel"
-    },
-    "itaditya/timber-blogs-drafts": {
-      "full_name": "itaditya/timber-blogs-drafts"
-    },
-    "summer-skills/react-simple-reusable-components": {
-      "full_name": "summer-skills/react-simple-reusable-components"
-    },
-    "itaditya/font-mate": {
-      "full_name": "itaditya/font-mate",
-      "popularity": 0,
-      "percentage": 33.333333333333336,
-      "maturity": 0,
-      "total_commits_count": 6,
-      "activity": 5,
-      "total_score": 5,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "probot/background-check": {
       "full_name": "probot/background-check",
       "popularity": 1.7853682828948099,
@@ -45,66 +22,6 @@
       "total_score": 37.38629241376311,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
-    },
-    "probot-background-check/itaditya-0.26781381911646474-discussions": {
-      "full_name": "probot-background-check/itaditya-0.26781381911646474-discussions"
-    },
-    "probot-background-check/itaditya-0.3060459707839509-discussions": {
-      "full_name": "probot-background-check/itaditya-0.3060459707839509-discussions"
-    },
-    "probot-background-check/itaditya-0.10056126728577519-discussions": {
-      "full_name": "probot-background-check/itaditya-0.10056126728577519-discussions"
-    },
-    "probot-background-check/itaditya-discussions": {
-      "full_name": "probot-background-check/itaditya-discussions"
-    },
-    "probot-background-check/pollardld-discussions": {
-      "full_name": "probot-background-check/pollardld-discussions"
-    },
-    "probot-background-check/test-org-discussions": {
-      "full_name": "probot-background-check/test-org-discussions"
-    },
-    "probot-background-check/probot-test-org-discussions": {
-      "full_name": "probot-background-check/probot-test-org-discussions"
-    },
-    "probot-test-org/playground": {
-      "full_name": "probot-test-org/playground"
-    },
-    "probot-background-check/background-check-test-org-discussions": {
-      "full_name": "probot-background-check/background-check-test-org-discussions"
-    },
-    "probot-background-check/itaditya-0.8940589864747515-discussions": {
-      "full_name": "probot-background-check/itaditya-0.8940589864747515-discussions"
-    },
-    "probot-background-check/itaditya-0.15121790105582544-discussions": {
-      "full_name": "probot-background-check/itaditya-0.15121790105582544-discussions"
-    },
-    "probot-background-check/itaditya-0.9903089644409617-discussions": {
-      "full_name": "probot-background-check/itaditya-0.9903089644409617-discussions"
-    },
-    "probot-background-check/itaditya-0.5739495182269712-discussions": {
-      "full_name": "probot-background-check/itaditya-0.5739495182269712-discussions"
-    },
-    "probot-background-check/itaditya-0.9135949756539838-discussions": {
-      "full_name": "probot-background-check/itaditya-0.9135949756539838-discussions"
-    },
-    "probot-background-check/itaditya-0.5530266237936485-discussions": {
-      "full_name": "probot-background-check/itaditya-0.5530266237936485-discussions"
-    },
-    "probot-background-check/itaditya-0.7994072138502948-discussions": {
-      "full_name": "probot-background-check/itaditya-0.7994072138502948-discussions"
-    },
-    "probot-background-check/itaditya-0.2492660096530257-discussions": {
-      "full_name": "probot-background-check/itaditya-0.2492660096530257-discussions"
-    },
-    "itaditya/netlify-probot-app-deploy": {
-      "full_name": "itaditya/netlify-probot-app-deploy"
-    },
-    "itaditya/storybook-trial": {
-      "full_name": "itaditya/storybook-trial"
-    },
-    "itaditya/react-simple-auth": {
-      "full_name": "itaditya/react-simple-auth"
     },
     "itaditya/react-docz-trial": {
       "full_name": "itaditya/react-docz-trial",
@@ -117,8 +34,8 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "aps120797/playground": {
-      "full_name": "aps120797/playground",
+    "abhijeetps/playground": {
+      "full_name": "abhijeetps/playground",
       "popularity": 1.0414282204429401,
       "percentage": 0,
       "maturity": 0,
@@ -127,9 +44,6 @@
       "total_score": 8.12428466132882,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
-    },
-    "itaditya/grpc-hello-npg": {
-      "full_name": "itaditya/grpc-hello-npg"
     },
     "itaditya/birla": {
       "full_name": "itaditya/birla",
@@ -186,39 +100,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "itaditya/button-for-react": {
-      "full_name": "itaditya/button-for-react"
-    },
-    "itaditya/react-lib-boilerplate": {
-      "full_name": "itaditya/react-lib-boilerplate"
-    },
-    "itaditya/abc-test-product": {
-      "full_name": "itaditya/abc-test-product"
-    },
-    "itaditya/probot-testrepo": {
-      "full_name": "itaditya/probot-testrepo"
-    },
-    "itaditya/shared-test-lib": {
-      "full_name": "itaditya/shared-test-lib"
-    },
-    "itaditya/my-lerna-musings-trial2": {
-      "full_name": "itaditya/my-lerna-musings-trial2"
-    },
-    "itaditya/react-router-dom-demo-app": {
-      "full_name": "itaditya/react-router-dom-demo-app"
-    },
-    "itaditya/reach-router-demo-app": {
-      "full_name": "itaditya/reach-router-demo-app"
-    },
-    "itaditya/clash-of-routers": {
-      "full_name": "itaditya/clash-of-routers"
-    },
-    "itaditya/react-opinions-battlesink": {
-      "full_name": "itaditya/react-opinions-battlesink"
-    },
-    "itaditya/rocket-chrome-extension": {
-      "full_name": "itaditya/rocket-chrome-extension"
-    },
     "itaditya/probot-bootstrap": {
       "full_name": "itaditya/probot-bootstrap",
       "popularity": 1.0414282204429401,
@@ -252,12 +133,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "itaditya/gh-app-test-repo": {
-      "full_name": "itaditya/gh-app-test-repo"
-    },
-    "itaditya/.github": {
-      "full_name": "itaditya/.github"
-    },
     "itaditya/react-preview": {
       "full_name": "itaditya/react-preview",
       "popularity": 1.7853682828948099,
@@ -269,9 +144,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "itaditya/probot-on-mention": {
-      "full_name": "itaditya/probot-on-mention"
-    },
     "itaditya/Code-Runner": {
       "full_name": "itaditya/Code-Runner",
       "popularity": 1.9085236249774054,
@@ -282,12 +154,6 @@
       "total_score": 33.37339094957971,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
-    },
-    "ncs-jss/gh-app-test-repo": {
-      "full_name": "ncs-jss/gh-app-test-repo"
-    },
-    "aayush1408/Youtube-search": {
-      "full_name": "aayush1408/Youtube-search"
     },
     "postcss/postcss-custom-properties": {
       "full_name": "postcss/postcss-custom-properties",
@@ -322,15 +188,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "ncs-jss/geass": {
-      "full_name": "ncs-jss/geass"
-    },
-    "itaditya/vue-todo-app": {
-      "full_name": "itaditya/vue-todo-app"
-    },
-    "itaditya/scalable-node-app": {
-      "full_name": "itaditya/scalable-node-app"
-    },
     "itaditya/articles": {
       "full_name": "itaditya/articles",
       "popularity": 0,
@@ -342,12 +199,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "itaditya/bot-bot-brain": {
-      "full_name": "itaditya/bot-bot-brain"
-    },
-    "itaditya/state-mgmt-patterns-react": {
-      "full_name": "itaditya/state-mgmt-patterns-react"
-    },
     "diegohaz/schm": {
       "full_name": "diegohaz/schm",
       "popularity": 3.5265075894932076,
@@ -358,9 +209,6 @@
       "total_score": 21.13316894002083,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
-    },
-    "itaditya/bot-bot-config": {
-      "full_name": "itaditya/bot-bot-config"
     },
     "probot/slack-adapter": {
       "full_name": "probot/slack-adapter",
@@ -406,18 +254,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "itaditya/octokit-plugin-sentiment": {
-      "full_name": "itaditya/octokit-plugin-sentiment"
-    },
-    "ncs-jss/zem": {
-      "full_name": "ncs-jss/zem"
-    },
-    "itaditya/project-idea-list": {
-      "full_name": "itaditya/project-idea-list"
-    },
-    "itaditya/probot-discussion-bot": {
-      "full_name": "itaditya/probot-discussion-bot"
-    },
     "itaditya/octokit-plugin-mentions": {
       "full_name": "itaditya/octokit-plugin-mentions",
       "popularity": 1.3222565221025262,
@@ -429,9 +265,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "itaditya/portfolio": {
-      "full_name": "itaditya/portfolio"
-    },
     "kodedninja/microne": {
       "full_name": "kodedninja/microne",
       "popularity": 1.9590800514478444,
@@ -442,9 +275,6 @@
       "total_score": 8.379822331935493,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
-    },
-    "fega/Ecmascript-Array-slicing-proposal": {
-      "full_name": "fega/Ecmascript-Array-slicing-proposal"
     },
     "probot/reminders": {
       "full_name": "probot/reminders",
@@ -490,15 +320,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "akshshu2/pingpongmania": {
-      "full_name": "akshshu2/pingpongmania"
-    },
-    "itaditya/hackdata-2018-minions-frontend": {
-      "full_name": "itaditya/hackdata-2018-minions-frontend"
-    },
-    "itaditya/hackdata-2018-minions": {
-      "full_name": "itaditya/hackdata-2018-minions"
-    },
     "ncs-jss/plexus-17": {
       "full_name": "ncs-jss/plexus-17",
       "popularity": 1.7076084983408428,
@@ -509,9 +330,6 @@
       "total_score": 30.26922020338126,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
-    },
-    "ncs-jss/techtrek-17": {
-      "full_name": "ncs-jss/techtrek-17"
     },
     "theskumar/python-dotenv": {
       "full_name": "theskumar/python-dotenv",
@@ -535,9 +353,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "itaditya/test-for-my-gitbot": {
-      "full_name": "itaditya/test-for-my-gitbot"
-    },
     "pazams/go-for-javascript-developers": {
       "full_name": "pazams/go-for-javascript-developers",
       "popularity": 3.786861461766757,
@@ -560,9 +375,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "itaditya/golang-crud-api": {
-      "full_name": "itaditya/golang-crud-api"
-    },
     "itaditya/stack-game-pwa": {
       "full_name": "itaditya/stack-game-pwa",
       "popularity": 0,
@@ -573,9 +385,6 @@
       "total_score": 1.3655251971287785,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
-    },
-    "itaditya/tools-of-trade": {
-      "full_name": "itaditya/tools-of-trade"
     },
     "pwarocks/pwa.rocks": {
       "full_name": "pwarocks/pwa.rocks",
@@ -599,9 +408,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "itaditya/30-seconds-of-code": {
-      "full_name": "itaditya/30-seconds-of-code"
-    },
     "agarrharr/awesome-cli-apps": {
       "full_name": "agarrharr/awesome-cli-apps",
       "popularity": 4.395906918316308,
@@ -612,12 +418,6 @@
       "total_score": 24.17452787409281,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
-    },
-    "itaditya/kafka-experiment": {
-      "full_name": "itaditya/kafka-experiment"
-    },
-    "itaditya/taDAA": {
-      "full_name": "itaditya/taDAA"
     },
     "airbnb/javascript": {
       "full_name": "airbnb/javascript",
@@ -630,30 +430,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "itaditya/javascript": {
-      "full_name": "itaditya/javascript"
-    },
-    "itaditya/Sublime-Snippets": {
-      "full_name": "itaditya/Sublime-Snippets"
-    },
-    "itaditya/grpc-py-node": {
-      "full_name": "itaditya/grpc-py-node"
-    },
-    "itaditya/hotspot": {
-      "full_name": "itaditya/hotspot"
-    },
-    "itaditya/Windows-for-Devs": {
-      "full_name": "itaditya/Windows-for-Devs"
-    },
-    "itaditya/snail": {
-      "full_name": "itaditya/snail"
-    },
-    "itaditya/kitaab-yt": {
-      "full_name": "itaditya/kitaab-yt"
-    },
-    "itaditya/Modern_Web_Starter": {
-      "full_name": "itaditya/Modern_Web_Starter"
-    },
     "mpj/fff-graphql-goodreads": {
       "full_name": "mpj/fff-graphql-goodreads",
       "popularity": 2.9450149526988105,
@@ -664,9 +440,6 @@
       "total_score": 10.076060393102228,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
-    },
-    "ncs-jss/Web-Workshop-Resume-Submissions": {
-      "full_name": "ncs-jss/Web-Workshop-Resume-Submissions"
     },
     "ebidel/demos": {
       "full_name": "ebidel/demos",
@@ -679,9 +452,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "itaditya/2048-pwa": {
-      "full_name": "itaditya/2048-pwa"
-    },
     "itaditya/acl-tutorial": {
       "full_name": "itaditya/acl-tutorial",
       "popularity": 0,
@@ -692,12 +462,6 @@
       "total_score": 1.2110420163923639,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
-    },
-    "ankitjain28may/J.A.M.": {
-      "full_name": "ankitjain28may/J.A.M."
-    },
-    "itaditya/game-o-python": {
-      "full_name": "itaditya/game-o-python"
     },
     "sdmg15/Best-websites-a-programmer-should-visit": {
       "full_name": "sdmg15/Best-websites-a-programmer-should-visit",
@@ -710,9 +474,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "itaditya/Best-websites-a-programmer-should-visit": {
-      "full_name": "itaditya/Best-websites-a-programmer-should-visit"
-    },
     "sendgrid/docs": {
       "full_name": "sendgrid/docs",
       "popularity": 3.0457531124124166,
@@ -723,9 +484,6 @@
       "total_score": 24.14119754993482,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
-    },
-    "itaditya/docs": {
-      "full_name": "itaditya/docs"
     },
     "sendgrid/sendgrid-nodejs": {
       "full_name": "sendgrid/sendgrid-nodejs",
@@ -793,9 +551,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "itaditya/react-webpack-gql-starter": {
-      "full_name": "itaditya/react-webpack-gql-starter"
-    },
     "itaditya/cosmos-web-interface": {
       "full_name": "itaditya/cosmos-web-interface",
       "popularity": 1.0414282204429401,
@@ -806,9 +561,6 @@
       "total_score": 17.8209854008527,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
-    },
-    "itaditya/AM-admin-panel": {
-      "full_name": "itaditya/AM-admin-panel"
     },
     "itaditya/vuejs-pwa": {
       "full_name": "itaditya/vuejs-pwa",
@@ -831,9 +583,6 @@
       "total_score": 27.34423915623174,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
-    },
-    "itaditya/Documentation-Patcher": {
-      "full_name": "itaditya/Documentation-Patcher"
     },
     "prakharchoudhary/fun_with_python": {
       "full_name": "prakharchoudhary/fun_with_python",
@@ -878,12 +627,6 @@
       "total_score": 1.1385661019475601,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
-    },
-    "itaditya/postcss-demo": {
-      "full_name": "itaditya/postcss-demo"
-    },
-    "ncs-jss/nodejs-workshop": {
-      "full_name": "ncs-jss/nodejs-workshop"
     },
     "ncs-jss/hackncs-17": {
       "full_name": "ncs-jss/hackncs-17",
@@ -973,15 +716,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "itaditya/find": {
-      "full_name": "itaditya/find"
-    },
-    "itaditya/learning-postgresql": {
-      "full_name": "itaditya/learning-postgresql"
-    },
-    "ncs-jss/fastest-finger-first-server": {
-      "full_name": "ncs-jss/fastest-finger-first-server"
-    },
     "ncs-jss/InteractiveRegistrationForm": {
       "full_name": "ncs-jss/InteractiveRegistrationForm",
       "popularity": 0,
@@ -992,12 +726,6 @@
       "total_score": 1.0860952325060254,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
-    },
-    "itaditya/macrodroid-server": {
-      "full_name": "itaditya/macrodroid-server"
-    },
-    "dsindia/dsi-portal-server": {
-      "full_name": "dsindia/dsi-portal-server"
     },
     "ankitjain28may/gauamrit": {
       "full_name": "ankitjain28may/gauamrit",
@@ -1021,21 +749,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "itaditya/contactSync": {
-      "full_name": "itaditya/contactSync"
-    },
-    "itaditya/subtitle-converter": {
-      "full_name": "itaditya/subtitle-converter"
-    },
-    "itaditya/elth-test": {
-      "full_name": "itaditya/elth-test"
-    },
-    "itaditya/technovision-17": {
-      "full_name": "itaditya/technovision-17"
-    },
-    "itaditya/easyWithChef": {
-      "full_name": "itaditya/easyWithChef"
-    },
     "ncs-jss/plexus": {
       "full_name": "ncs-jss/plexus",
       "popularity": 0,
@@ -1047,9 +760,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "itaditya/Trace": {
-      "full_name": "itaditya/Trace"
-    },
     "itaditya/JStack": {
       "full_name": "itaditya/JStack",
       "popularity": 1.49139952161816,
@@ -1060,12 +770,6 @@
       "total_score": 31.11375860329647,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
-    },
-    "itaditya/AR-shopping": {
-      "full_name": "itaditya/AR-shopping"
-    },
-    "itaditya/GrassHacks-SNU-frontend": {
-      "full_name": "itaditya/GrassHacks-SNU-frontend"
     },
     "fossiiita/opencode2017": {
       "full_name": "fossiiita/opencode2017",
@@ -1122,15 +826,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "itaditya/NoShitCSS": {
-      "full_name": "itaditya/NoShitCSS"
-    },
-    "itaditya/nodeknockout2016-caffeinecoders": {
-      "full_name": "itaditya/nodeknockout2016-caffeinecoders"
-    },
-    "DEVAbhinav/vision": {
-      "full_name": "DEVAbhinav/vision"
-    },
     "ncs-jss/GameShow": {
       "full_name": "ncs-jss/GameShow",
       "popularity": 1.8512968868523627,
@@ -1153,18 +848,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "itaditya/startMean": {
-      "full_name": "itaditya/startMean"
-    },
-    "itaditya/tabext": {
-      "full_name": "itaditya/tabext"
-    },
-    "itaditya/umbrella": {
-      "full_name": "itaditya/umbrella"
-    },
-    "itaditya/gitAutomater": {
-      "full_name": "itaditya/gitAutomater"
-    },
     "ankitjain28may/autoscroll.js": {
       "full_name": "ankitjain28may/autoscroll.js",
       "popularity": 1.6128219920330789,
@@ -1175,12 +858,6 @@
       "total_score": 8.308659534513877,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
-    },
-    "itaditya/Resources": {
-      "full_name": "itaditya/Resources"
-    },
-    "itaditya/ncsblog": {
-      "full_name": "itaditya/ncsblog"
     },
     "itaditya/GoogleImagesAreMine": {
       "full_name": "itaditya/GoogleImagesAreMine",
@@ -1204,21 +881,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "ankitjain28may/mappr_incubatedIND_2k16": {
-      "full_name": "ankitjain28may/mappr_incubatedIND_2k16"
-    },
-    "itaditya/VR_Experiments": {
-      "full_name": "itaditya/VR_Experiments"
-    },
-    "itaditya/APIcd": {
-      "full_name": "itaditya/APIcd"
-    },
-    "ncs-jss/elastic-heart": {
-      "full_name": "ncs-jss/elastic-heart"
-    },
-    "deshraj/reference": {
-      "full_name": "deshraj/reference"
-    },
     "sampotts/plyr": {
       "full_name": "sampotts/plyr",
       "popularity": 5,
@@ -1229,9 +891,6 @@
       "total_score": 28.205185171307914,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
-    },
-    "itaditya/itaditya.github.io": {
-      "full_name": "itaditya/itaditya.github.io"
     },
     "ncs-jss/HTTP_200": {
       "full_name": "ncs-jss/HTTP_200",
@@ -1244,24 +903,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "Technovision16/shoplite": {
-      "full_name": "Technovision16/shoplite"
-    },
-    "ankitjain28may/Zealicon-Profile-pic": {
-      "full_name": "ankitjain28may/Zealicon-Profile-pic"
-    },
-    "itaditya/Hack-SaveFood": {
-      "full_name": "itaditya/Hack-SaveFood"
-    },
-    "itaditya/C-programs": {
-      "full_name": "itaditya/C-programs"
-    },
-    "ankitjain28may/Zealicon-16": {
-      "full_name": "ankitjain28may/Zealicon-16"
-    },
-    "ankitjain28may/fb_Bulletins": {
-      "full_name": "ankitjain28may/fb_Bulletins"
-    },
     "dhruvhacks/CROSS": {
       "full_name": "dhruvhacks/CROSS",
       "popularity": 1.3222565221025262,
@@ -1273,15 +914,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "itaditya/blog": {
-      "full_name": "itaditya/blog"
-    },
-    "itaditya/api-token-distribution-demo": {
-      "full_name": "itaditya/api-token-distribution-demo"
-    },
-    "itaditya/react-myth-busters": {
-      "full_name": "itaditya/react-myth-busters"
-    },
     "summer-skills/curriculum": {
       "full_name": "summer-skills/curriculum",
       "popularity": 1.0414282204429401,
@@ -1292,31 +924,21 @@
       "total_score": 21.662851527087042,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
-    },
-    "summer-skills/first-contribution": {
-      "full_name": "summer-skills/first-contribution"
-    },
-    "itaditya/links": {
-      "full_name": "itaditya/links"
     }
   },
   "organizations": [
-    "summer-skills",
     "probot",
-    "probot-background-check",
-    "probot-test-org",
     "strongloop",
     "wiredjs",
-    "ncs-jss",
     "postcss",
     "godaddy",
+    "ncs-jss",
     "pwarocks",
     "airbnb",
     "sendgrid",
-    "dsindia",
     "fossiiita",
     "Cloud-CV",
     "Small-Start",
-    "Technovision16"
+    "summer-skills"
   ]
 }

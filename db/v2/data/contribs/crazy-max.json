@@ -1,28 +1,6 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
   "repos": {
-    "crazy-max/docker-librenms": {
-      "full_name": "crazy-max/docker-librenms",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "crazy-max/docker-rrdcached": {
-      "full_name": "crazy-max/docker-rrdcached",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "crazy-max/WindowsSpyBlocker": {
       "full_name": "crazy-max/WindowsSpyBlocker",
       "popularity": 3.812350691762691,
@@ -31,17 +9,6 @@
       "total_commits_count": 333,
       "activity": 5,
       "total_score": 72.48862263740918,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "crazy-max/docker-snmpd": {
-      "full_name": "crazy-max/docker-snmpd",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -199,17 +166,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "crazy-max/docker-svn2git-mirror": {
-      "full_name": "crazy-max/docker-svn2git-mirror",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "crazy-max/docker-ejtserver": {
       "full_name": "crazy-max/docker-ejtserver",
       "popularity": 1.49139952161816,
@@ -262,17 +218,6 @@
       "total_commits_count": 17,
       "activity": 2.626336625468382,
       "total_score": 23.782440979108802,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "neard/neard.github.io": {
-      "full_name": "neard/neard.github.io",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -353,17 +298,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "crazy-max/rtorrent-launcher": {
-      "full_name": "crazy-max/rtorrent-launcher",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "portapps/twitch-portable": {
       "full_name": "portapps/twitch-portable",
       "popularity": 1.6128219920330789,
@@ -372,17 +306,6 @@
       "total_commits_count": 39,
       "activity": 2.226979674196796,
       "total_score": 28.032131546726056,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "portapps/handbrake-portable": {
-      "full_name": "portapps/handbrake-portable",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -419,17 +342,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "portapps/hlsw-portable": {
-      "full_name": "portapps/hlsw-portable",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "portapps/hostsman-portable": {
       "full_name": "portapps/hostsman-portable",
       "popularity": 1.6128219920330789,
@@ -463,17 +375,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "ftpgrab/ftpgrab.github.io": {
-      "full_name": "ftpgrab/ftpgrab.github.io",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "neard/neard": {
       "full_name": "neard/neard",
       "popularity": 3.316219168673286,
@@ -485,17 +386,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "neard/dev": {
-      "full_name": "neard/dev",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "neard/prerequisites": {
       "full_name": "neard/prerequisites",
       "popularity": 1.7853682828948099,
@@ -504,39 +394,6 @@
       "total_commits_count": 6,
       "activity": 2.148381755855859,
       "total_score": 30.714274282172816,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "crazy-max/docker-syntaxhighlighter": {
-      "full_name": "crazy-max/docker-syntaxhighlighter",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "crazy-max/docker-7zip": {
-      "full_name": "crazy-max/docker-7zip",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "crazy-max/docker-fail2ban": {
-      "full_name": "crazy-max/docker-fail2ban",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -628,17 +485,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "portapps/untouched": {
-      "full_name": "portapps/untouched",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "crazy-max/CwsCaptcha": {
       "full_name": "crazy-max/CwsCaptcha",
       "popularity": 1.49139952161816,
@@ -661,39 +507,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "crazy-max/php7-presentation": {
-      "full_name": "crazy-max/php7-presentation",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "neard/module-git": {
-      "full_name": "neard/module-git",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "neard/modules-untouched": {
-      "full_name": "neard/modules-untouched",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "neard/module-php": {
       "full_name": "neard/module-php",
       "popularity": 0,
@@ -702,28 +515,6 @@
       "total_commits_count": 70,
       "activity": 5,
       "total_score": 9.96059411436206,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "crazy-max/mccrestart-bukkit": {
-      "full_name": "crazy-max/mccrestart-bukkit",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "neard/module-adminer": {
-      "full_name": "neard/module-adminer",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -771,72 +562,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "neard/module-console": {
-      "full_name": "neard/module-console",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "neard/module-phpunit": {
-      "full_name": "neard/module-phpunit",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "neard/module-drush": {
-      "full_name": "neard/module-drush",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "neard/module-yarn": {
-      "full_name": "neard/module-yarn",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "neard/module-ghostscript": {
-      "full_name": "neard/module-ghostscript",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "neard/module-ngrok": {
-      "full_name": "neard/module-ngrok",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "neard/module-nodejs": {
       "full_name": "neard/module-nodejs",
       "popularity": 0,
@@ -848,248 +573,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "neard/module-composer": {
-      "full_name": "neard/module-composer",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "neard/module-gitlist": {
-      "full_name": "neard/module-gitlist",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "neard/module-perl": {
-      "full_name": "neard/module-perl",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "neard/module-mongodb": {
-      "full_name": "neard/module-mongodb",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "neard/module-svn": {
-      "full_name": "neard/module-svn",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "neard/module-ruby": {
-      "full_name": "neard/module-ruby",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "neard/module-python": {
-      "full_name": "neard/module-python",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "neard/module-phppgadmin": {
-      "full_name": "neard/module-phppgadmin",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "neard/module-postgresql": {
-      "full_name": "neard/module-postgresql",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "neard/module-memcached": {
-      "full_name": "neard/module-memcached",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "neard/module-phpmemadmin": {
-      "full_name": "neard/module-phpmemadmin",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "neard/module-mailhog": {
-      "full_name": "neard/module-mailhog",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "neard/module-phpmetrics": {
-      "full_name": "neard/module-phpmetrics",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "neard/module-wpcli": {
-      "full_name": "neard/module-wpcli",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "neard/module-xdc": {
-      "full_name": "neard/module-xdc",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "neard/module-websvn": {
-      "full_name": "neard/module-websvn",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "neard/module-webgrind": {
-      "full_name": "neard/module-webgrind",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "neard/module-phpmyadmin": {
-      "full_name": "neard/module-phpmyadmin",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "neard/module-hostseditor": {
-      "full_name": "neard/module-hostseditor",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "neard/module-notepad2mod": {
-      "full_name": "neard/module-notepad2mod",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "neard/module-nginx": {
-      "full_name": "neard/module-nginx",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "neard/module-imagemagick": {
-      "full_name": "neard/module-imagemagick",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "neard/module-mysql": {
       "full_name": "neard/module-mysql",
       "popularity": 0,
@@ -1098,17 +581,6 @@
       "total_commits_count": 31,
       "activity": 5,
       "total_score": 5,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "neard/module-filezilla": {
-      "full_name": "neard/module-filezilla",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -1131,28 +603,6 @@
       "total_commits_count": 1790,
       "activity": 5,
       "total_score": 27.839596138413427,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "crazy-max/expect-nt": {
-      "full_name": "crazy-max/expect-nt",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "crazy-max/websvn": {
-      "full_name": "crazy-max/websvn",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -1186,17 +636,6 @@
       "total_commits_count": 3,
       "activity": 0.8053374467395011,
       "total_score": 0.8053374467395011,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "lgangloff/crossfit-2.0": {
-      "full_name": "lgangloff/crossfit-2.0",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -1277,9 +716,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "portapps/insomnia-portable": {
-      "full_name": "portapps/insomnia-portable"
-    },
     "librenms/librenms": {
       "full_name": "librenms/librenms",
       "popularity": 4.040680976638308,
@@ -1305,8 +741,8 @@
   },
   "organizations": [
     "portapps",
-    "neard",
     "ftpgrab",
+    "neard",
     "RocketChat",
     "badges",
     "pi-hole",

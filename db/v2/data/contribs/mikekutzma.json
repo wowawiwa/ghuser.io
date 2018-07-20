@@ -1,15 +1,6 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
   "repos": {
-    "mikekutzma/mnist-torch": {
-      "full_name": "mikekutzma/mnist-torch"
-    },
-    "mikekutzma/nosleep": {
-      "full_name": "mikekutzma/nosleep"
-    },
-    "mikekutzma/quant": {
-      "full_name": "mikekutzma/quant"
-    },
     "pandas-dev/pandas": {
       "full_name": "pandas-dev/pandas",
       "popularity": 5,
@@ -21,21 +12,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "mikekutzma/mercari": {
-      "full_name": "mikekutzma/mercari"
-    },
-    "mikekutzma/kivyapps": {
-      "full_name": "mikekutzma/kivyapps"
-    },
-    "mikekutzma/kwabsim": {
-      "full_name": "mikekutzma/kwabsim"
-    },
-    "mikekutzma/pygame_games": {
-      "full_name": "mikekutzma/pygame_games"
-    },
-    "mikekutzma/cifar-torch": {
-      "full_name": "mikekutzma/cifar-torch"
-    },
     "mikekutzma/compPhys": {
       "full_name": "mikekutzma/compPhys",
       "popularity": 0,
@@ -46,18 +22,6 @@
       "total_score": 0.9716555544478149,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
-    },
-    "mikekutzma/numerai": {
-      "full_name": "mikekutzma/numerai"
-    },
-    "mikekutzma/titanic": {
-      "full_name": "mikekutzma/titanic"
-    },
-    "mikekutzma/mikekutzma.github.io": {
-      "full_name": "mikekutzma/mikekutzma.github.io"
-    },
-    "mikekutzma/totempole": {
-      "full_name": "mikekutzma/totempole"
     }
   },
   "organizations": [

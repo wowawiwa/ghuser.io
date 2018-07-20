@@ -23,12 +23,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "debck/Drum-Kit": {
-      "full_name": "debck/Drum-Kit"
-    },
-    "androidArea/Youtube-Player": {
-      "full_name": "androidArea/Youtube-Player"
-    },
     "androidArea/LearnLang": {
       "full_name": "androidArea/LearnLang",
       "popularity": 0,
@@ -39,9 +33,6 @@
       "total_score": 5,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
-    },
-    "androidArea/Score-Counter": {
-      "full_name": "androidArea/Score-Counter"
     },
     "debck/wikiView": {
       "full_name": "debck/wikiView",
@@ -54,9 +45,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "debck/FlappyBird": {
-      "full_name": "debck/FlappyBird"
-    },
     "sugarlabs/musicblocks": {
       "full_name": "sugarlabs/musicblocks",
       "popularity": 2.725133536124766,
@@ -67,15 +55,6 @@
       "total_score": 22.27605971254929,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
-    },
-    "debck/MoVSrcH": {
-      "full_name": "debck/MoVSrcH"
-    },
-    "androidArea/Card-App": {
-      "full_name": "androidArea/Card-App"
-    },
-    "androidArea/CoffeeOrder-App": {
-      "full_name": "androidArea/CoffeeOrder-App"
     },
     "fossasia/loklak_search": {
       "full_name": "fossasia/loklak_search",
@@ -110,9 +89,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "Coding-Den/Coding-Den.github.io": {
-      "full_name": "Coding-Den/Coding-Den.github.io"
-    },
     "dwyl/learn-chrome-extensions": {
       "full_name": "dwyl/learn-chrome-extensions",
       "popularity": 2.8457570508611636,
@@ -145,9 +121,6 @@
       "total_score": 27.43145875573063,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
-    },
-    "debck/HLW-World": {
-      "full_name": "debck/HLW-World"
     },
     "debck/Calculator": {
       "full_name": "debck/Calculator",
@@ -226,9 +199,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "debck/cosmos": {
-      "full_name": "debck/cosmos"
-    },
     "dwyl/learn-elm": {
       "full_name": "dwyl/learn-elm",
       "popularity": 3.290296338013504,
@@ -273,12 +243,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "debck/JsAlgo": {
-      "full_name": "debck/JsAlgo"
-    },
-    "debck/tic-tac-toe": {
-      "full_name": "debck/tic-tac-toe"
-    },
     "TheAlgorithms/C": {
       "full_name": "TheAlgorithms/C",
       "popularity": 3.516045307126217,
@@ -300,9 +264,6 @@
       "total_score": 26.084351317687098,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
-    },
-    "debck/PhoneBook": {
-      "full_name": "debck/PhoneBook"
     },
     "debck/T-S-C": {
       "full_name": "debck/T-S-C",
@@ -347,9 +308,6 @@
       "total_score": 6.037661222963651,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
-    },
-    "debck/p-society.github.io": {
-      "full_name": "debck/p-society.github.io"
     }
   },
   "organizations": [
@@ -357,7 +315,6 @@
     "androidArea",
     "sugarlabs",
     "fossasia",
-    "Coding-Den",
     "dwyl",
     "openebs",
     "coding-blocks",

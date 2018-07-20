@@ -1,9 +1,6 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
   "repos": {
-    "avidLearnerInProgress/design-patterns": {
-      "full_name": "avidLearnerInProgress/design-patterns"
-    },
     "avidLearnerInProgress/python-automation-scripts": {
       "full_name": "avidLearnerInProgress/python-automation-scripts",
       "popularity": 2.3636508993380505,
@@ -26,24 +23,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "avidLearnerInProgress/neural-style-transfer": {
-      "full_name": "avidLearnerInProgress/neural-style-transfer"
-    },
-    "avidLearnerInProgress/drowsiness-detection": {
-      "full_name": "avidLearnerInProgress/drowsiness-detection"
-    },
-    "avidLearnerInProgress/cnn_using_numpy": {
-      "full_name": "avidLearnerInProgress/cnn_using_numpy"
-    },
-    "avidLearnerInProgress/image_caption_generator": {
-      "full_name": "avidLearnerInProgress/image_caption_generator"
-    },
-    "avidLearnerInProgress/minimal_implementations": {
-      "full_name": "avidLearnerInProgress/minimal_implementations"
-    },
-    "avidLearnerInProgress/rnn_using_numpy": {
-      "full_name": "avidLearnerInProgress/rnn_using_numpy"
-    },
     "avidLearnerInProgress/neural-network-practice": {
       "full_name": "avidLearnerInProgress/neural-network-practice",
       "popularity": 0,
@@ -55,12 +34,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "avidLearnerInProgress/certificates_all": {
-      "full_name": "avidLearnerInProgress/certificates_all"
-    },
-    "avidLearnerInProgress/internship_tasks": {
-      "full_name": "avidLearnerInProgress/internship_tasks"
-    },
     "avidLearnerInProgress/plotly-flask": {
       "full_name": "avidLearnerInProgress/plotly-flask",
       "popularity": 0,
@@ -71,9 +44,6 @@
       "total_score": 1.6155186623464668,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
-    },
-    "avidLearnerInProgress/keras_basic": {
-      "full_name": "avidLearnerInProgress/keras_basic"
     },
     "avidLearnerInProgress/sudoku-solver-openCV-python": {
       "full_name": "avidLearnerInProgress/sudoku-solver-openCV-python",
@@ -284,9 +254,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "avidLearnerInProgress/motivational-images-fromQuora": {
-      "full_name": "avidLearnerInProgress/motivational-images-fromQuora"
-    },
     "avidLearnerInProgress/TicTacToeAI": {
       "full_name": "avidLearnerInProgress/TicTacToeAI",
       "popularity": 0,
@@ -319,18 +286,6 @@
       "total_score": 1.314581572399232,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
-    },
-    "avidLearnerInProgress/akashSketches": {
-      "full_name": "avidLearnerInProgress/akashSketches"
-    },
-    "avidLearnerInProgress/mySmartContracts": {
-      "full_name": "avidLearnerInProgress/mySmartContracts"
-    },
-    "avidLearnerInProgress/Machine-Learning": {
-      "full_name": "avidLearnerInProgress/Machine-Learning"
-    },
-    "avidLearnerInProgress/cryptocurrency-and-blockchain-resources": {
-      "full_name": "avidLearnerInProgress/cryptocurrency-and-blockchain-resources"
     },
     "avidLearnerInProgress/placementPreparation": {
       "full_name": "avidLearnerInProgress/placementPreparation",

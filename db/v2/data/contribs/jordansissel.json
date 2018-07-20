@@ -56,39 +56,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "jordansissel/underlight": {
-      "full_name": "jordansissel/underlight",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/ipmi": {
-      "full_name": "jordansissel/ipmi",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/officecontrol": {
-      "full_name": "jordansissel/officecontrol",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "elastic/tealess": {
       "full_name": "elastic/tealess",
       "popularity": 2.117310085935697,
@@ -133,17 +100,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "jordansissel/rotary": {
-      "full_name": "jordansissel/rotary",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "jordansissel/ruby-ftw": {
       "full_name": "jordansissel/ruby-ftw",
       "popularity": 2.416679446233313,
@@ -152,17 +108,6 @@
       "total_commits_count": 277,
       "activity": 1.4673020797131926,
       "total_score": 45.18623496856304,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "elastic/node-sandbox": {
-      "full_name": "elastic/node-sandbox",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -320,17 +265,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "logstash-plugins/logstash-integration-elasticsearch": {
-      "full_name": "logstash-plugins/logstash-integration-elasticsearch",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "jordansissel/dotfiles": {
       "full_name": "jordansissel/dotfiles",
       "popularity": 2.3636508993380505,
@@ -342,17 +276,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "elastic/docs-tools": {
-      "full_name": "elastic/docs-tools",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "cesanta/mongoose-os": {
       "full_name": "cesanta/mongoose-os",
       "popularity": 4.193747918546427,
@@ -361,28 +284,6 @@
       "total_commits_count": 3831,
       "activity": 5,
       "total_score": 26.7422467818619,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "logstash-plugins/logstash-filter-hashid": {
-      "full_name": "logstash-plugins/logstash-filter-hashid",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "logstash-plugins/logstash-codec-rubydebug": {
-      "full_name": "logstash-plugins/logstash-codec-rubydebug",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -405,17 +306,6 @@
       "total_commits_count": 141,
       "activity": 5,
       "total_score": 19.66879509581356,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "ph/logstash-mass_effect": {
-      "full_name": "ph/logstash-mass_effect",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -760,17 +650,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "jordansissel/this-is-only-a-test": {
-      "full_name": "jordansissel/this-is-only-a-test",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "logstash-plugins/logstash-input-meetup": {
       "full_name": "logstash-plugins/logstash-input-meetup",
       "popularity": 1.6128219920330789,
@@ -848,17 +727,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "jordansissel/radiodev": {
-      "full_name": "jordansissel/radiodev",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "neveragaindottech/neveragaindottech.github.io": {
       "full_name": "neveragaindottech/neveragaindottech.github.io",
       "popularity": 3.5564621991701033,
@@ -900,17 +768,6 @@
       "total_commits_count": 74,
       "activity": 0.9985937293307217,
       "total_score": 35.93338060603582,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/button-game": {
-      "full_name": "jordansissel/button-game",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -1057,28 +914,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "jordansissel/example": {
-      "full_name": "jordansissel/example",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/react-playground": {
-      "full_name": "jordansissel/react-playground",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "litaio/lita": {
       "full_name": "litaio/lita",
       "popularity": 4.167385963580117,
@@ -1131,17 +966,6 @@
       "total_commits_count": 1778,
       "activity": 0.7009926795286718,
       "total_score": 44.144479728087276,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/logstash-plugins-demo-thing": {
-      "full_name": "jordansissel/logstash-plugins-demo-thing",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -1288,17 +1112,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "jordansissel/logstash-input-upstash": {
-      "full_name": "jordansissel/logstash-input-upstash",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "test-kitchen/busser-rspec": {
       "full_name": "test-kitchen/busser-rspec",
       "popularity": 2.0043600754367907,
@@ -1318,17 +1131,6 @@
       "total_commits_count": 55,
       "activity": 0.47337639232884676,
       "total_score": 48.81881005591838,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/labhr": {
-      "full_name": "jordansissel/labhr",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -1541,28 +1343,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "hangops/hangops.com": {
-      "full_name": "hangops/hangops.com",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "logstash/appliance": {
-      "full_name": "logstash/appliance",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "logstash/testing": {
       "full_name": "logstash/testing",
       "popularity": 1.49139952161816,
@@ -1703,17 +1483,6 @@
       "total_commits_count": 214,
       "activity": 0.25703251373914693,
       "total_score": 42.05193625309988,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/puppet-logstash-generator": {
-      "full_name": "jordansissel/puppet-logstash-generator",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -2344,39 +2113,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "jordansissel/boto": {
-      "full_name": "jordansissel/boto",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/busser": {
-      "full_name": "jordansissel/busser",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/busser-rspec": {
-      "full_name": "jordansissel/busser-rspec",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "jordansissel/check_logstash": {
       "full_name": "jordansissel/check_logstash",
       "popularity": 0,
@@ -2396,72 +2132,6 @@
       "total_commits_count": 282,
       "activity": 0.46879909345344295,
       "total_score": 7.240259878037452,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/docs.vagrantup.com": {
-      "full_name": "jordansissel/docs.vagrantup.com",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/drip": {
-      "full_name": "jordansissel/drip",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/elasticsearch": {
-      "full_name": "jordansissel/elasticsearch",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/eventd-rfc": {
-      "full_name": "jordansissel/eventd-rfc",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/ffi-rzmq": {
-      "full_name": "jordansissel/ffi-rzmq",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/file-dependencies": {
-      "full_name": "jordansissel/file-dependencies",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -2509,28 +2179,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "jordansissel/fsync_compare": {
-      "full_name": "jordansissel/fsync_compare",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/goczmq": {
-      "full_name": "jordansissel/goczmq",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "jordansissel/googlemaps-traffic-sms": {
       "full_name": "jordansissel/googlemaps-traffic-sms",
       "popularity": 0,
@@ -2564,94 +2212,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "jordansissel/jar-dependencies": {
-      "full_name": "jordansissel/jar-dependencies",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/joni": {
-      "full_name": "jordansissel/joni",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/jruby": {
-      "full_name": "jordansissel/jruby",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/k8s-stackdriver": {
-      "full_name": "jordansissel/k8s-stackdriver",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/kibana": {
-      "full_name": "jordansissel/kibana",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/lita": {
-      "full_name": "jordansissel/lita",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/lita-hipchat": {
-      "full_name": "jordansissel/lita-hipchat",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/logrus": {
-      "full_name": "jordansissel/logrus",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "jordansissel/logstash": {
       "full_name": "jordansissel/logstash",
       "popularity": 1.6128219920330789,
@@ -2660,105 +2220,6 @@
       "total_commits_count": 5574,
       "activity": 1.1115042242392956,
       "total_score": 29.075029491519494,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/logstash-filter-stanford-nlp": {
-      "full_name": "jordansissel/logstash-filter-stanford-nlp",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/logstash-input-okta_enterprise": {
-      "full_name": "jordansissel/logstash-input-okta_enterprise",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/logstash-input-s3": {
-      "full_name": "jordansissel/logstash-input-s3",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/logstash-output-elasticsearch": {
-      "full_name": "jordansissel/logstash-output-elasticsearch",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/memcached": {
-      "full_name": "jordansissel/memcached",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/metriks": {
-      "full_name": "jordansissel/metriks",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/minitar": {
-      "full_name": "jordansissel/minitar",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/mongoose-os": {
-      "full_name": "jordansissel/mongoose-os",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/monitorama.github.com": {
-      "full_name": "jordansissel/monitorama.github.com",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -2781,17 +2242,6 @@
       "total_commits_count": 4,
       "activity": 0.16251927931422117,
       "total_score": 0.16251927931422117,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/parental-leave": {
-      "full_name": "jordansissel/parental-leave",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -2828,39 +2278,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "jordansissel/rainwave": {
-      "full_name": "jordansissel/rainwave",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/react-boilerplate-fun": {
-      "full_name": "jordansissel/react-boilerplate-fun",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/reveal.js": {
-      "full_name": "jordansissel/reveal.js",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "jordansissel/ruby-matchit": {
       "full_name": "jordansissel/ruby-matchit",
       "popularity": 0,
@@ -2880,83 +2297,6 @@
       "total_commits_count": 22,
       "activity": 0.275852740251465,
       "total_score": 11.941283955690903,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/semicomplete": {
-      "full_name": "jordansissel/semicomplete",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/semicomplete-googlecode-archive": {
-      "full_name": "jordansissel/semicomplete-googlecode-archive",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/tweetstream": {
-      "full_name": "jordansissel/tweetstream",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/unite-tmux": {
-      "full_name": "jordansissel/unite-tmux",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/vagrant": {
-      "full_name": "jordansissel/vagrant",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/vagrant-installers": {
-      "full_name": "jordansissel/vagrant-installers",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "jordansissel/walk": {
-      "full_name": "jordansissel/walk",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -2994,7 +2334,6 @@
     "zeromq",
     "test-kitchen",
     "moby",
-    "hangops",
     "monitorama",
     "boto",
     "loggly",

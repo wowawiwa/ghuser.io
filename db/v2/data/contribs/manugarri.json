@@ -1,39 +1,6 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
   "repos": {
-    "manugarri/ixperience_2018_personal": {
-      "full_name": "manugarri/ixperience_2018_personal",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "manugarri/blog": {
-      "full_name": "manugarri/blog",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "manugarri/manugarri.github.io": {
-      "full_name": "manugarri/manugarri.github.io",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "databricks/mlflow": {
       "full_name": "databricks/mlflow",
       "popularity": 4.245329615038124,
@@ -53,17 +20,6 @@
       "total_commits_count": 53,
       "activity": 5,
       "total_score": 17.596229477139136,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "manugarri/ixperience_2018_instructor": {
-      "full_name": "manugarri/ixperience_2018_instructor",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -122,17 +78,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "tribeclick/tribeclick.github.io": {
-      "full_name": "tribeclick/tribeclick.github.io",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "MaxHalford/flask-boilerplate": {
       "full_name": "MaxHalford/flask-boilerplate",
       "popularity": 3.2044303961585228,
@@ -141,17 +86,6 @@
       "total_commits_count": 24,
       "activity": 1.3665829062776345,
       "total_score": 12.715607226005737,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "manugarri/dotfiles": {
-      "full_name": "manugarri/dotfiles",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -174,17 +108,6 @@
       "total_commits_count": 172,
       "activity": 1.1376551297589272,
       "total_score": 14.419587487919696,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "manugarri/kafka-scanner": {
-      "full_name": "manugarri/kafka-scanner",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -342,17 +265,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "manugarri/metroextractor-cities": {
-      "full_name": "manugarri/metroextractor-cities",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "manugarri/tweets_map": {
       "full_name": "manugarri/tweets_map",
       "popularity": 2.5694128929127964,
@@ -386,17 +298,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "manugarri/pyglet-test": {
-      "full_name": "manugarri/pyglet-test",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "yhat/db.py": {
       "full_name": "yhat/db.py",
       "popularity": 4.070483335302788,
@@ -416,17 +317,6 @@
       "total_commits_count": 4,
       "activity": 0.4417413845435618,
       "total_score": 32.511502591532214,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "manugarri/personal_page": {
-      "full_name": "manugarri/personal_page",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -452,39 +342,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "manugarri/d3_map": {
-      "full_name": "manugarri/d3_map",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "manugarri/Data_Science": {
-      "full_name": "manugarri/Data_Science",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "manugarri/omrails": {
-      "full_name": "manugarri/omrails",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "manugarri/crab": {
       "full_name": "manugarri/crab",
       "popularity": 0,
@@ -502,7 +359,6 @@
     "awesomedata",
     "Pybonacci",
     "LDSSA",
-    "tribeclick",
     "scrapinghub",
     "apache",
     "DataTau",

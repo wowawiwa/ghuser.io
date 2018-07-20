@@ -1,12 +1,6 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
   "repos": {
-    "ncs-jss/Proj_kc01": {
-      "full_name": "ncs-jss/Proj_kc01"
-    },
-    "geekayush/geekayush.github.io": {
-      "full_name": "geekayush/geekayush.github.io"
-    },
     "material-components/material-components-web-react": {
       "full_name": "material-components/material-components-web-react",
       "popularity": 3.6822744374313534,
@@ -17,12 +11,6 @@
       "total_score": 22.176904929549085,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
-    },
-    "geekayush/react-p2": {
-      "full_name": "geekayush/react-p2"
-    },
-    "geekayush/esummit": {
-      "full_name": "geekayush/esummit"
     },
     "sedg-jss/esummit-18": {
       "full_name": "sedg-jss/esummit-18",
@@ -35,15 +23,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "Ayukha/sherlocked2018": {
-      "full_name": "Ayukha/sherlocked2018"
-    },
-    "geekayush/sherlocked-18-frontend": {
-      "full_name": "geekayush/sherlocked-18-frontend"
-    },
-    "geekayush/Motion-Invite": {
-      "full_name": "geekayush/Motion-Invite"
-    },
     "Cloud-CV/EvalAI": {
       "full_name": "Cloud-CV/EvalAI",
       "popularity": 3.666650648650219,
@@ -54,12 +33,6 @@
       "total_score": 23.939634044907734,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
-    },
-    "Ayukha/Hack_Devfest": {
-      "full_name": "Ayukha/Hack_Devfest"
-    },
-    "geekayush/Hack_Devfest": {
-      "full_name": "geekayush/Hack_Devfest"
     },
     "MMIL/MMIL-Website-V2": {
       "full_name": "MMIL/MMIL-Website-V2",
@@ -72,36 +45,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "sedg-jss/edc-web": {
-      "full_name": "sedg-jss/edc-web"
-    },
-    "geekayush/edc-web-v2": {
-      "full_name": "geekayush/edc-web-v2"
-    },
-    "geekayush/responsive-navbar": {
-      "full_name": "geekayush/responsive-navbar"
-    },
-    "geekayush/CSS-Loaders": {
-      "full_name": "geekayush/CSS-Loaders"
-    },
-    "geekayush/Rotating-polyhedron-three.js": {
-      "full_name": "geekayush/Rotating-polyhedron-three.js"
-    },
-    "geekayush/TwitchTV-JSON-API": {
-      "full_name": "geekayush/TwitchTV-JSON-API"
-    },
-    "deepti1996/Team-Vega": {
-      "full_name": "deepti1996/Team-Vega"
-    },
-    "geekayush/Digital-Clock": {
-      "full_name": "geekayush/Digital-Clock"
-    },
-    "geekayush/Background-with-changing-colors": {
-      "full_name": "geekayush/Background-with-changing-colors"
-    },
-    "geekayush/Facebook_post_placeholder": {
-      "full_name": "geekayush/Facebook_post_placeholder"
-    },
     "geekayush/Music-Boxes": {
       "full_name": "geekayush/Music-Boxes",
       "popularity": 0,
@@ -112,37 +55,9 @@
       "total_score": 1.0111108395549748,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
-    },
-    "geekayush/Cartoon-two.js": {
-      "full_name": "geekayush/Cartoon-two.js"
-    },
-    "geekayush/Date-Picker-Tool-jQuery.UI.js": {
-      "full_name": "geekayush/Date-Picker-Tool-jQuery.UI.js"
-    },
-    "geekayush/Pop-Up-Penguin": {
-      "full_name": "geekayush/Pop-Up-Penguin"
-    },
-    "geekayush/Position-Latitude-Longitude-jQuery.js": {
-      "full_name": "geekayush/Position-Latitude-Longitude-jQuery.js"
-    },
-    "geekayush/Night-Day": {
-      "full_name": "geekayush/Night-Day"
-    },
-    "geekayush/Wikipedia_viewer-MediaWikiAPI-Opensearch": {
-      "full_name": "geekayush/Wikipedia_viewer-MediaWikiAPI-Opensearch"
-    },
-    "geekayush/Local-Weather-App-JSON-AJAX": {
-      "full_name": "geekayush/Local-Weather-App-JSON-AJAX"
-    },
-    "geekayush/Quote-Generator-jQuery.js": {
-      "full_name": "geekayush/Quote-Generator-jQuery.js"
-    },
-    "geekayush/Portfolio_1": {
-      "full_name": "geekayush/Portfolio_1"
     }
   },
   "organizations": [
-    "ncs-jss",
     "material-components",
     "sedg-jss",
     "Cloud-CV",

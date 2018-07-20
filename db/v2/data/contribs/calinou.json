@@ -155,17 +155,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "flathub/io.github.FreeDM": {
-      "full_name": "flathub/io.github.FreeDM",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "flathub/com.realm667.WolfenDoom_Blade_of_Agony": {
       "full_name": "flathub/com.realm667.WolfenDoom_Blade_of_Agony",
       "popularity": 0,
@@ -174,28 +163,6 @@
       "total_commits_count": 10,
       "activity": 5,
       "total_score": 5,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "flathub/io.github.Freedoom-Phase-2": {
-      "full_name": "flathub/io.github.Freedoom-Phase-2",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "flathub/io.github.Freedoom-Phase-1": {
-      "full_name": "flathub/io.github.Freedoom-Phase-1",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -749,17 +716,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "roSievers/bricks": {
-      "full_name": "roSievers/bricks",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "freeCodeCamp/freeCodeCamp": {
       "full_name": "freeCodeCamp/freeCodeCamp",
       "popularity": 5,
@@ -867,17 +823,6 @@
       "total_commits_count": 244,
       "activity": 1.6167249660039364,
       "total_score": 17.818250781927482,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "red-eclipse/docs": {
-      "full_name": "red-eclipse/docs",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -2319,17 +2264,6 @@
       "total_commits_count": 149,
       "activity": 1.8684016461994895,
       "total_score": 13.21933207934655,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "Calinou/base": {
-      "full_name": "Calinou/base",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

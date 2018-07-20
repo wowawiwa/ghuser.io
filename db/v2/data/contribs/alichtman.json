@@ -34,72 +34,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "alichtman/ourwid": {
-      "full_name": "alichtman/ourwid",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "alichtman/resume": {
-      "full_name": "alichtman/resume",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "alichtman/alichtman.github.io": {
-      "full_name": "alichtman/alichtman.github.io",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "alichtman/stronghold-macOS": {
-      "full_name": "alichtman/stronghold-macOS",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "alichtman/WayMovies": {
-      "full_name": "alichtman/WayMovies",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "alichtman/dom-change-alerter": {
-      "full_name": "alichtman/dom-change-alerter",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "shobrook/BitVision": {
       "full_name": "shobrook/BitVision",
       "popularity": 2.206864721909315,
@@ -155,17 +89,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "Project-Veritas/FPS1-alichtman": {
-      "full_name": "Project-Veritas/FPS1-alichtman",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "alichtman/awesome-programming-humor": {
       "full_name": "alichtman/awesome-programming-humor",
       "popularity": 1.9085236249774054,
@@ -188,17 +111,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "alichtman/github-templates": {
-      "full_name": "alichtman/github-templates",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "shobrook/TypeSense": {
       "full_name": "shobrook/TypeSense",
       "popularity": 1.0414282204429401,
@@ -207,17 +119,6 @@
       "total_commits_count": 150,
       "activity": 2.1425342821009288,
       "total_score": 17.31083249174175,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "alichtman/cell-cycle": {
-      "full_name": "alichtman/cell-cycle",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -254,39 +155,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "alichtman/wumpus": {
-      "full_name": "alichtman/wumpus",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "alichtman/data-structures-cpp": {
-      "full_name": "alichtman/data-structures-cpp",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "alichtman/date-time-textraction": {
-      "full_name": "alichtman/date-time-textraction",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "ryanzav/birdseye": {
       "full_name": "ryanzav/birdseye",
       "popularity": 2.5198669643416824,
@@ -295,17 +163,6 @@
       "total_commits_count": 8,
       "activity": 2.1581051734411285,
       "total_score": 22.00205751763188,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "alichtman/lab-spimbot": {
-      "full_name": "alichtman/lab-spimbot",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -364,17 +221,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "alichtman/open-source-mac-os-apps": {
-      "full_name": "alichtman/open-source-mac-os-apps",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "agarrharr/awesome-cli-apps": {
       "full_name": "agarrharr/awesome-cli-apps",
       "popularity": 4.395906918316308,
@@ -386,17 +232,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "alichtman/awesome-cli-apps": {
-      "full_name": "alichtman/awesome-cli-apps",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "timsutton/python-macadmin-tools": {
       "full_name": "timsutton/python-macadmin-tools",
       "popularity": 3.374970626146057,
@@ -405,28 +240,6 @@
       "total_commits_count": 64,
       "activity": 1.8030344006745405,
       "total_score": 17.38097952928175,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "alichtman/python-macadmin-tools": {
-      "full_name": "alichtman/python-macadmin-tools",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "alichtman/python-clibrary": {
-      "full_name": "alichtman/python-clibrary",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -551,61 +364,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "alichtman/AaronChat": {
-      "full_name": "alichtman/AaronChat",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "cs125-illinois/gradle": {
-      "full_name": "cs125-illinois/gradle",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "ZachAttackMLR/TouchBar-Fun": {
-      "full_name": "ZachAttackMLR/TouchBar-Fun",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "alichtman/CollegeProfile": {
-      "full_name": "alichtman/CollegeProfile",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
-    "alichtman/TicTacToe": {
-      "full_name": "alichtman/TicTacToe",
-      "popularity": null,
-      "percentage": 0,
-      "maturity": 0,
-      "total_commits_count": 0,
-      "activity": null,
-      "total_score": null,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "eonist/How-to-collaborate-on-github": {
       "full_name": "eonist/How-to-collaborate-on-github",
       "popularity": 2.0828241359374196,
@@ -627,14 +385,9 @@
       "total_score": 26.668751846786726,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
-    },
-    "alichtman/clibrary": {
-      "full_name": "alichtman/clibrary"
     }
   },
   "organizations": [
-    "dear-microsoft",
-    "Project-Veritas",
-    "cs125-illinois"
+    "dear-microsoft"
   ]
 }

@@ -1,27 +1,6 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
   "repos": {
-    "rohitdaryanani/horangi": {
-      "full_name": "rohitdaryanani/horangi"
-    },
-    "rohitdaryanani/incube8-react-template": {
-      "full_name": "rohitdaryanani/incube8-react-template"
-    },
-    "rohitdaryanani/jaga": {
-      "full_name": "rohitdaryanani/jaga"
-    },
-    "rohitdaryanani/email-tools": {
-      "full_name": "rohitdaryanani/email-tools"
-    },
-    "rohitdaryanani/buangathisguy": {
-      "full_name": "rohitdaryanani/buangathisguy"
-    },
-    "rohitdaryanani/cards": {
-      "full_name": "rohitdaryanani/cards"
-    },
-    "rohitdaryanani/coding-exercise": {
-      "full_name": "rohitdaryanani/coding-exercise"
-    },
     "sendgrid/docs": {
       "full_name": "sendgrid/docs",
       "popularity": 3.0457531124124166,
@@ -121,12 +100,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "rohitdaryanani/jawa": {
-      "full_name": "rohitdaryanani/jawa"
-    },
-    "rohitdaryanani/buildproducts": {
-      "full_name": "rohitdaryanani/buildproducts"
-    },
     "rohitdaryanani/github": {
       "full_name": "rohitdaryanani/github",
       "popularity": 0,
@@ -137,33 +110,6 @@
       "total_score": 0.9641800256661206,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
-    },
-    "rohitdaryanani/exercise": {
-      "full_name": "rohitdaryanani/exercise"
-    },
-    "rohitdaryanani/respotify": {
-      "full_name": "rohitdaryanani/respotify"
-    },
-    "rohitdaryanani/angular-starter": {
-      "full_name": "rohitdaryanani/angular-starter"
-    },
-    "sinet/angular-redactor": {
-      "full_name": "sinet/angular-redactor"
-    },
-    "rasterbits/rasterbits.github.io": {
-      "full_name": "rasterbits/rasterbits.github.io"
-    },
-    "rohitdaryanani/inventory": {
-      "full_name": "rohitdaryanani/inventory"
-    },
-    "rohitdaryanani/dragular": {
-      "full_name": "rohitdaryanani/dragular"
-    },
-    "rohitdaryanani/hello_app": {
-      "full_name": "rohitdaryanani/hello_app"
-    },
-    "rohitdaryanani/rohitdaryanani.github.io": {
-      "full_name": "rohitdaryanani/rohitdaryanani.github.io"
     },
     "rohitdaryanani/bloodlines-api": {
       "full_name": "rohitdaryanani/bloodlines-api",
@@ -176,12 +122,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "rohitdaryanani/bloodlines": {
-      "full_name": "rohitdaryanani/bloodlines"
-    },
-    "rohitdaryanani/cebustinks": {
-      "full_name": "rohitdaryanani/cebustinks"
-    },
     "tribuwayuk/gzais": {
       "full_name": "tribuwayuk/gzais",
       "popularity": 1.0414282204429401,
@@ -192,24 +132,6 @@
       "total_score": 9.5026775665498,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
-    },
-    "tribuwayuk/gzais-api": {
-      "full_name": "tribuwayuk/gzais-api"
-    },
-    "rohitdaryanani/gzais": {
-      "full_name": "rohitdaryanani/gzais"
-    },
-    "wayuk/waffle": {
-      "full_name": "wayuk/waffle"
-    },
-    "rohitdaryanani/T3": {
-      "full_name": "rohitdaryanani/T3"
-    },
-    "rohitdaryanani/backbone-with-cors": {
-      "full_name": "rohitdaryanani/backbone-with-cors"
-    },
-    "rohitdaryanani/NodeProject": {
-      "full_name": "rohitdaryanani/NodeProject"
     },
     "jowi/pintors-locker": {
       "full_name": "jowi/pintors-locker",
@@ -226,8 +148,6 @@
   "organizations": [
     "sendgrid",
     "MozLNMIIT",
-    "sinet",
-    "rasterbits",
     "tribuwayuk"
   ]
 }
