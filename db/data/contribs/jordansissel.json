@@ -3,12 +3,12 @@
   "repos": {
     "jordansissel/fpm": {
       "full_name": "jordansissel/fpm",
-      "popularity": 4.934492087641437,
+      "popularity": 4.934441580060802,
       "percentage": 65.8611825192802,
       "maturity": 4.281654004675052,
       "total_commits_count": 1945,
       "activity": 5,
-      "total_score": 70.61567719540699,
+      "total_score": 70.6150932290968,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -91,12 +91,12 @@
     },
     "elastic/logstash": {
       "full_name": "elastic/logstash",
-      "popularity": 4.963170257070597,
+      "popularity": 4.963217531849379,
       "percentage": 45.27917565300743,
       "maturity": 4.921133453173611,
       "total_commits_count": 8346,
       "activity": 5,
-      "total_score": 58.94645120009762,
+      "total_score": 58.946871297625584,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -124,12 +124,12 @@
     },
     "logstash-plugins/logstash-input-kafka": {
       "full_name": "logstash-plugins/logstash-input-kafka",
-      "popularity": 2.9299686028073135,
+      "popularity": 2.9350421947098364,
       "percentage": 3.35195530726257,
       "maturity": 3.1450622028399184,
       "total_commits_count": 179,
-      "activity": 2.7617057050303675,
-      "total_score": 19.118482014210194,
+      "activity": 2.701839884645067,
+      "total_score": 19.07604780846205,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -347,7 +347,7 @@
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,
-      "total_commits_count": 38701,
+      "total_commits_count": 38703,
       "activity": 5,
       "total_score": 30,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
@@ -1093,11 +1093,11 @@
     "elastic/kibana": {
       "full_name": "elastic/kibana",
       "popularity": 4.986860069613998,
-      "percentage": 0.06989896422443923,
+      "percentage": 0.06989452281103063,
       "maturity": 5,
-      "total_commits_count": 15737,
+      "total_commits_count": 15738,
       "activity": 5,
-      "total_score": 30.005895134809766,
+      "total_score": 30.005892255477832,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -1260,7 +1260,7 @@
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,
-      "total_commits_count": 32242,
+      "total_commits_count": 32244,
       "activity": 5,
       "total_score": 30,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",

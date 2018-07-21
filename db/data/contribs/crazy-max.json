@@ -3,12 +3,12 @@
   "repos": {
     "crazy-max/WindowsSpyBlocker": {
       "full_name": "crazy-max/WindowsSpyBlocker",
-      "popularity": 3.8130192486803107,
+      "popularity": 3.813686777996961,
       "percentage": 99.09909909909909,
       "maturity": 3.468751545832409,
       "total_commits_count": 333,
       "activity": 5,
-      "total_score": 72.49924124863227,
+      "total_score": 72.50984353858952,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -113,12 +113,12 @@
     },
     "crazy-max/docker-matomo": {
       "full_name": "crazy-max/docker-matomo",
-      "popularity": 2.2330349704670382,
+      "popularity": 2.2577174475727126,
       "percentage": 97.67441860465117,
       "maturity": 1.4930421103847036,
       "total_commits_count": 43,
       "activity": 5,
-      "total_score": 43.03954015251943,
+      "total_score": 43.42699764196897,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -146,12 +146,12 @@
     },
     "portapps/vscode-portable": {
       "full_name": "portapps/vscode-portable",
-      "popularity": 1.3222565221025262,
+      "popularity": 1.49139952161816,
       "percentage": 100,
       "maturity": 0,
       "total_commits_count": 6,
       "activity": 5,
-      "total_score": 26.15610435364042,
+      "total_score": 28.86239234589056,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -333,23 +333,23 @@
     },
     "portapps/docker-toolbox-portable": {
       "full_name": "portapps/docker-toolbox-portable",
-      "popularity": 1.3222565221025262,
+      "popularity": 1.49139952161816,
       "percentage": 100,
       "maturity": 0,
       "total_commits_count": 8,
-      "activity": 2.1905190308668843,
-      "total_score": 23.346623384507303,
+      "activity": 2.1652351631895503,
+      "total_score": 26.02762750908011,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "portapps/hostsman-portable": {
       "full_name": "portapps/hostsman-portable",
-      "popularity": 1.6128219920330789,
+      "popularity": 1.7076084983408428,
       "percentage": 100,
       "maturity": 1.323873088726792,
       "total_commits_count": 42,
-      "activity": 2.19053453390926,
-      "total_score": 30.643432583892107,
+      "activity": 2.1652497894272806,
+      "total_score": 32.13473194033435,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -377,12 +377,12 @@
     },
     "neard/neard": {
       "full_name": "neard/neard",
-      "popularity": 3.316219168673286,
+      "popularity": 3.3183111500821543,
       "percentage": 99.15014164305948,
       "maturity": 3.4974188327762143,
       "total_commits_count": 353,
-      "activity": 2.148442922454611,
-      "total_score": 61.836406132166985,
+      "activity": 2.125433012726282,
+      "total_score": 61.846636799555775,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -597,12 +597,12 @@
     },
     "badges/shields": {
       "full_name": "badges/shields",
-      "popularity": 4.772147996982606,
+      "popularity": 4.772294765197641,
       "percentage": 0.05583472920156337,
       "maturity": 4.245047167681649,
       "total_commits_count": 1791,
       "activity": 5,
-      "total_score": 27.841177033156885,
+      "total_score": 27.841618403121252,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -619,12 +619,12 @@
     },
     "StevenBlack/hosts": {
       "full_name": "StevenBlack/hosts",
-      "popularity": 4.992376067580486,
+      "popularity": 4.992464463685513,
       "percentage": 0.3336113427856547,
       "maturity": 4.065857074939553,
       "total_commits_count": 1199,
       "activity": 5,
-      "total_score": 28.32535907948811,
+      "total_score": 28.325628101495816,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -641,12 +641,12 @@
     },
     "pi-hole/pi-hole": {
       "full_name": "pi-hole/pi-hole",
-      "popularity": 4.965997674413858,
+      "popularity": 4.96604464243267,
       "percentage": 0.13799448022079117,
       "maturity": 4.330951003217213,
       "total_commits_count": 2174,
       "activity": 5,
-      "total_score": 28.64898146449759,
+      "total_score": 28.649123211126582,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -686,11 +686,11 @@
     "Novik/ruTorrent": {
       "full_name": "Novik/ruTorrent",
       "popularity": 4.032295110914825,
-      "percentage": 0.12399256044637322,
-      "maturity": 4.198492539512485,
-      "total_commits_count": 1613,
+      "percentage": 0.12391573729863693,
+      "maturity": 4.19876852744248,
+      "total_commits_count": 1614,
       "activity": 5,
-      "total_score": 25.55886710915555,
+      "total_score": 25.559378814447147,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -716,14 +716,25 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
+    "portapps/insomnia-portable": {
+      "full_name": "portapps/insomnia-portable",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 3,
+      "activity": 5,
+      "total_score": 5,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
     "librenms/librenms": {
       "full_name": "librenms/librenms",
-      "popularity": 4.041076292964038,
-      "percentage": 0.0178826895565093,
+      "popularity": 4.041471249780508,
+      "percentage": 0.017881090746535537,
       "maturity": 5,
-      "total_commits_count": 11184,
+      "total_commits_count": 11185,
       "activity": 5,
-      "total_score": 27.13262336955888,
+      "total_score": 27.133808318183213,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
