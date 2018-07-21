@@ -1,0 +1,231 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "wei/pull": {
+      "full_name": "wei/pull",
+      "popularity": 2.463931943319936,
+      "percentage": 79.03225806451613,
+      "maturity": 2.34612075126341,
+      "total_commits_count": 62,
+      "activity": 5,
+      "total_score": 42.398951008209195,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "probot/probot.github.io": {
+      "full_name": "probot/probot.github.io",
+      "popularity": 2.416679446233313,
+      "percentage": 0.7002801120448179,
+      "maturity": 3.830460388686873,
+      "total_commits_count": 714,
+      "activity": 5,
+      "total_score": 20.13096494801369,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "wei/new-issue": {
+      "full_name": "wei/new-issue",
+      "popularity": 1.9085236249774054,
+      "percentage": 39.53488372093023,
+      "maturity": 1.4930421103847036,
+      "total_commits_count": 43,
+      "activity": 5,
+      "total_score": 23.52057884267852,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "amio/badgen": {
+      "full_name": "amio/badgen",
+      "popularity": 3.373135059176772,
+      "percentage": 0.7936507936507936,
+      "maturity": 2.936737457454448,
+      "total_commits_count": 126,
+      "activity": 5,
+      "total_score": 21.340901963624116,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "firekylin/firekylin": {
+      "full_name": "firekylin/firekylin",
+      "popularity": 4.168860549013318,
+      "percentage": 3.3333333333333335,
+      "maturity": 3.9795054543149955,
+      "total_commits_count": 990,
+      "activity": 5,
+      "total_score": 27.272098793575715,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "probot/probot": {
+      "full_name": "probot/probot",
+      "popularity": 4.462751460501161,
+      "percentage": 0.11904761904761904,
+      "maturity": 3.9048803724397856,
+      "total_commits_count": 840,
+      "activity": 5,
+      "total_score": 26.267081518033667,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "probot/template": {
+      "full_name": "probot/template",
+      "popularity": 2.0828241359374196,
+      "percentage": 1.1904761904761905,
+      "maturity": 2.6461709786895096,
+      "total_commits_count": 84,
+      "activity": 5,
+      "total_score": 16.86315619575302,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "wei/minifier": {
+      "full_name": "wei/minifier",
+      "popularity": 1.3222565221025262,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 25,
+      "activity": 2.16511652218106,
+      "total_score": 23.321220875821478,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "gogs/gogs": {
+      "full_name": "gogs/gogs",
+      "popularity": 5,
+      "percentage": 0.020458265139116204,
+      "maturity": 4.687307852152201,
+      "total_commits_count": 4888,
+      "activity": 5,
+      "total_score": 29.387913576644827,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "remy/mit-license": {
+      "full_name": "remy/mit-license",
+      "popularity": 4.232298048706308,
+      "percentage": 0,
+      "maturity": 4.45766169914266,
+      "total_commits_count": 2897,
+      "activity": 5,
+      "total_score": 26.612217544404245,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "shanzi/diumoo": {
+      "full_name": "shanzi/diumoo",
+      "popularity": 3.544231188253812,
+      "percentage": 0.5763688760806917,
+      "maturity": 3.489015570789262,
+      "total_commits_count": 347,
+      "activity": 1.3433449547758123,
+      "total_score": 19.21963165216649,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "wei/cloudcone-cli": {
+      "full_name": "wei/cloudcone-cli",
+      "popularity": 1.49139952161816,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 1,
+      "activity": 1.1373975319933671,
+      "total_score": 24.999789877883927,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "xuexb/github-bot": {
+      "full_name": "xuexb/github-bot",
+      "popularity": 3.426712962040841,
+      "percentage": 1.694915254237288,
+      "maturity": 2.2827606132375395,
+      "total_commits_count": 59,
+      "activity": 1.419740488051251,
+      "total_score": 17.02043904991209,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "wei/ROT47": {
+      "full_name": "wei/ROT47",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 5,
+      "activity": 1.9303112895954695,
+      "total_score": 1.9303112895954695,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "saniyusuf/imagenie": {
+      "full_name": "saniyusuf/imagenie",
+      "popularity": 2.673059912795125,
+      "percentage": 7.6923076923076925,
+      "maturity": 0,
+      "total_commits_count": 26,
+      "activity": 0.7502690043431155,
+      "total_score": 11.442508655523616,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "kevbook/web-client-router": {
+      "full_name": "kevbook/web-client-router",
+      "popularity": 1.0414282204429401,
+      "percentage": 4.25531914893617,
+      "maturity": 1.8529702602724436,
+      "total_commits_count": 47,
+      "activity": 0.6839097142467807,
+      "total_score": 8.090244124450626,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "dowjones/react-picture-show": {
+      "full_name": "dowjones/react-picture-show",
+      "popularity": 2.7490018802358214,
+      "percentage": 1.6129032258064515,
+      "maturity": 2.34612075126341,
+      "total_commits_count": 62,
+      "activity": 1.15963470978742,
+      "total_score": 14.67528547307115,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "dekatotoro/GoogleMaterialDesignIcons": {
+      "full_name": "dekatotoro/GoogleMaterialDesignIcons",
+      "popularity": 3.5636388068582425,
+      "percentage": 2.1739130434782608,
+      "maturity": 1.7870377452764827,
+      "total_commits_count": 46,
+      "activity": 0.9259234879347256,
+      "total_score": 16.198030714044098,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "wei/isogram": {
+      "full_name": "wei/isogram",
+      "popularity": 0,
+      "percentage": 40,
+      "maturity": 0,
+      "total_commits_count": 30,
+      "activity": 1.9349441246486916,
+      "total_score": 1.9349441246486916,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "wei/WHRoundedImageView": {
+      "full_name": "wei/WHRoundedImageView",
+      "popularity": 1.3222565221025262,
+      "percentage": 66.66666666666667,
+      "maturity": 0,
+      "total_commits_count": 15,
+      "activity": 1.0463803901600879,
+      "total_score": 16.472706481356227,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "probot",
+    "firekylin",
+    "gogs",
+    "dowjones"
+  ]
+}
