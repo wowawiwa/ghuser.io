@@ -3,12 +3,12 @@
   "repos": {
     "databricks/mlflow": {
       "full_name": "databricks/mlflow",
-      "popularity": 4.248282169500966,
+      "popularity": 4.249261910447993,
       "percentage": 0.9009009009009009,
       "maturity": 2.853603482128319,
       "total_commits_count": 111,
       "activity": 5,
-      "total_score": 23.94960003315154,
+      "total_score": 23.952654000427863,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -47,12 +47,12 @@
     },
     "rasbt/mlxtend": {
       "full_name": "rasbt/mlxtend",
-      "popularity": 4.206352138158605,
+      "popularity": 4.206622121061949,
       "percentage": 0.1392757660167131,
       "maturity": 3.833029807441456,
       "total_commits_count": 718,
       "activity": 5,
-      "total_score": 25.36127560846188,
+      "total_score": 25.362090445441748,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

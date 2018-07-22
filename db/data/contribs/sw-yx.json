@@ -14,12 +14,12 @@
     },
     "sw-yx/react-typescript-cheatsheet": {
       "full_name": "sw-yx/react-typescript-cheatsheet",
-      "popularity": 4.058503070839136,
+      "popularity": 4.059261597772537,
       "percentage": 40.298507462686565,
       "maturity": 2.4346992151481284,
       "total_commits_count": 67,
       "activity": 5,
-      "total_score": 43.30661776019482,
+      "total_score": 43.31286711642223,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -245,23 +245,23 @@
     },
     "apollographql/apollo-client": {
       "full_name": "apollographql/apollo-client",
-      "popularity": 4.90253694544434,
+      "popularity": 4.902699997463272,
       "percentage": 0.020807324178110695,
       "maturity": 4.679899432514241,
       "total_commits_count": 4806,
       "activity": 5,
-      "total_score": 29.080670829178977,
+      "total_score": 29.08116042628368,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "reactjs/reactjs.org": {
       "full_name": "reactjs/reactjs.org",
-      "popularity": 4.312660669337383,
+      "popularity": 4.312872046000665,
       "percentage": 0,
       "maturity": 4.509200825422011,
       "total_commits_count": 3257,
       "activity": 5,
-      "total_score": 26.95638365885617,
+      "total_score": 26.957017788846017,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -311,12 +311,12 @@
     },
     "chentsulin/awesome-graphql": {
       "full_name": "chentsulin/awesome-graphql",
-      "popularity": 4.8875494893797375,
+      "popularity": 4.887662014022465,
       "percentage": 0,
-      "maturity": 3.7186570592390167,
-      "total_commits_count": 561,
+      "maturity": 3.7194896799198944,
+      "total_commits_count": 562,
       "activity": 5,
-      "total_score": 27.099962586617245,
+      "total_score": 27.101965401907183,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -344,12 +344,12 @@
     },
     "graphql/graphiql": {
       "full_name": "graphql/graphiql",
-      "popularity": 4.79138581366748,
+      "popularity": 4.791666587857431,
       "percentage": 0.2717391304347826,
       "maturity": 3.844407703433218,
       "total_commits_count": 736,
       "activity": 5,
-      "total_score": 27.23223375976474,
+      "total_score": 27.23308600098804,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -498,12 +498,12 @@
     },
     "icebob/vue-express-mongo-boilerplate": {
       "full_name": "icebob/vue-express-mongo-boilerplate",
-      "popularity": 4.1093138238443885,
+      "popularity": 4.109651375924915,
       "percentage": 0.2053388090349076,
       "maturity": 3.652140600901623,
       "total_commits_count": 487,
       "activity": 5,
-      "total_score": 24.741916882186466,
+      "total_score": 24.74293854905853,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

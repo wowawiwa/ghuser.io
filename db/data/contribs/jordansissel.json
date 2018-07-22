@@ -278,12 +278,12 @@
     },
     "cesanta/mongoose-os": {
       "full_name": "cesanta/mongoose-os",
-      "popularity": 4.193469809876314,
+      "popularity": 4.193747918546427,
       "percentage": 0,
       "maturity": 4.5807305653713595,
       "total_commits_count": 3833,
       "activity": 5,
-      "total_score": 26.74187056037166,
+      "total_score": 26.742704886382,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -1092,12 +1092,12 @@
     },
     "elastic/kibana": {
       "full_name": "elastic/kibana",
-      "popularity": 4.986949595486509,
-      "percentage": 0.0698900819620052,
+      "popularity": 4.986904834857122,
+      "percentage": 0.0698856416772554,
       "maturity": 5,
-      "total_commits_count": 15739,
+      "total_commits_count": 15740,
       "activity": 5,
-      "total_score": 30.00615876753549,
+      "total_score": 30.006021200339127,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -1789,8 +1789,8 @@
       "percentage": 0,
       "maturity": 0,
       "total_commits_count": 2,
-      "activity": 1.66073207292738,
-      "total_score": 16.66073207292738,
+      "activity": 1.6589765659796485,
+      "total_score": 16.65897656597965,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

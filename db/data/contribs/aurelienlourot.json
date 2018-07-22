@@ -48,11 +48,11 @@
     "AurelienLourot/ghuser.io": {
       "full_name": "AurelienLourot/ghuser.io",
       "popularity": 2.3444311854745736,
-      "percentage": 98.3739837398374,
-      "maturity": 3.3158134696058705,
-      "total_commits_count": 246,
+      "percentage": 98.38056680161944,
+      "maturity": 3.3179155807799074,
+      "total_commits_count": 247,
       "activity": 5,
-      "total_score": 48.64695508711111,
+      "total_score": 48.65316566905309,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -201,12 +201,12 @@
     },
     "dnschneid/crouton": {
       "full_name": "dnschneid/crouton",
-      "popularity": 4.82475703387193,
+      "popularity": 4.824887060214569,
       "percentage": 0.06246096189881324,
       "maturity": 4.195166931334593,
       "total_commits_count": 1601,
       "activity": 5,
-      "total_score": 27.903781629769256,
+      "total_score": 27.904172764601327,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

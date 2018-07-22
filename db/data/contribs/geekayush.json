@@ -3,12 +3,12 @@
   "repos": {
     "material-components/material-components-web-react": {
       "full_name": "material-components/material-components-web-react",
-      "popularity": 3.692092445744478,
+      "popularity": 3.692974083257643,
       "percentage": 0.8771929824561403,
       "maturity": 2.871552188050665,
       "total_commits_count": 114,
       "activity": 5,
-      "total_score": 22.240409799252994,
+      "total_score": 22.243155249403642,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -25,12 +25,12 @@
     },
     "Cloud-CV/EvalAI": {
       "full_name": "Cloud-CV/EvalAI",
-      "popularity": 3.6675854197608135,
+      "popularity": 3.668518183199913,
       "percentage": 0.1092896174863388,
       "maturity": 3.9437938044334837,
       "total_commits_count": 915,
       "activity": 5,
-      "total_score": 23.942451639140543,
+      "total_score": 23.945263181834576,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
