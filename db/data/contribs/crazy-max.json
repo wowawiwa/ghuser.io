@@ -3,12 +3,12 @@
   "repos": {
     "crazy-max/WindowsSpyBlocker": {
       "full_name": "crazy-max/WindowsSpyBlocker",
-      "popularity": 3.815018766429205,
+      "popularity": 3.8170091204531134,
       "percentage": 99.09909909909909,
       "maturity": 3.468751545832409,
       "total_commits_count": 333,
       "activity": 5,
-      "total_score": 72.5309993548602,
+      "total_score": 72.56261191471742,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -80,12 +80,12 @@
     },
     "crazy-max/docker-jetbrains-license-server": {
       "full_name": "crazy-max/docker-jetbrains-license-server",
-      "popularity": 2.6138808154274,
+      "popularity": 2.634516268125146,
       "percentage": 96.875,
       "maturity": 0,
       "total_commits_count": 32,
       "activity": 5,
-      "total_score": 45.760203965571016,
+      "total_score": 46.0819880560765,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -619,12 +619,12 @@
     },
     "StevenBlack/hosts": {
       "full_name": "StevenBlack/hosts",
-      "popularity": 4.993215105032977,
+      "popularity": 4.993259220028271,
       "percentage": 0.3336113427856547,
       "maturity": 4.065857074939553,
       "total_commits_count": 1199,
       "activity": 5,
-      "total_score": 28.327912580459035,
+      "total_score": 28.328046838689083,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -641,12 +641,12 @@
     },
     "pi-hole/pi-hole": {
       "full_name": "pi-hole/pi-hole",
-      "popularity": 4.966607862814848,
+      "popularity": 4.966982937689842,
       "percentage": 0.13799448022079117,
       "maturity": 4.330951003217213,
       "total_commits_count": 2174,
       "activity": 5,
-      "total_score": 28.65082297604262,
+      "total_score": 28.651954929241718,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -685,12 +685,12 @@
     },
     "Novik/ruTorrent": {
       "full_name": "Novik/ruTorrent",
-      "popularity": 4.032698131067662,
+      "popularity": 4.033100777569272,
       "percentage": 0.12391573729863693,
       "maturity": 4.19876852744248,
       "total_commits_count": 1614,
       "activity": 5,
-      "total_score": 25.560594367175778,
+      "total_score": 25.561808792931565,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -729,12 +729,12 @@
     },
     "librenms/librenms": {
       "full_name": "librenms/librenms",
-      "popularity": 4.041471249780508,
-      "percentage": 0.017877893984088674,
+      "popularity": 4.041865847741013,
+      "percentage": 0.01787629603146228,
       "maturity": 5,
-      "total_commits_count": 11187,
+      "total_commits_count": 11188,
       "activity": 5,
-      "total_score": 27.133806638632155,
+      "total_score": 27.134990509976816,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

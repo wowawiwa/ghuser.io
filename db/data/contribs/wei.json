@@ -15,11 +15,11 @@
     "probot/probot.github.io": {
       "full_name": "probot/probot.github.io",
       "popularity": 2.416679446233313,
-      "percentage": 0.6993006993006993,
-      "maturity": 3.8311041699176775,
-      "total_commits_count": 715,
+      "percentage": 0.6983240223463687,
+      "maturity": 3.8317469982446246,
+      "total_commits_count": 716,
       "activity": 5,
-      "total_score": 20.13194481001105,
+      "total_score": 20.132923625699195,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -47,12 +47,12 @@
     },
     "firekylin/firekylin": {
       "full_name": "firekylin/firekylin",
-      "popularity": 4.168860549013318,
+      "popularity": 4.169448984147783,
       "percentage": 3.3333333333333335,
       "maturity": 3.9795054543149955,
       "total_commits_count": 990,
       "activity": 5,
-      "total_score": 27.272098793575715,
+      "total_score": 27.27411908753738,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

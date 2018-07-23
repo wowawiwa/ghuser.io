@@ -347,7 +347,7 @@
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,
-      "total_commits_count": 38703,
+      "total_commits_count": 38704,
       "activity": 5,
       "total_score": 30,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
@@ -1015,12 +1015,12 @@
     },
     "logstash-plugins/logstash-input-jdbc": {
       "full_name": "logstash-plugins/logstash-input-jdbc",
-      "popularity": 3.3840338619500683,
+      "popularity": 3.385824031418084,
       "percentage": 1.5384615384615385,
       "maturity": 2.9564591863300644,
       "total_commits_count": 130,
       "activity": 5,
-      "total_score": 21.74182673090035,
+      "total_score": 21.747555273198,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -1070,12 +1070,12 @@
     },
     "logstash-plugins/logstash-patterns-core": {
       "full_name": "logstash-plugins/logstash-patterns-core",
-      "popularity": 3.9961565608467726,
+      "popularity": 3.9970320666081323,
       "percentage": 1.6129032258064515,
       "maturity": 2.92653025393631,
       "total_commits_count": 124,
       "activity": 5,
-      "total_score": 23.679433985429196,
+      "total_score": 23.682244076501945,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -1092,12 +1092,12 @@
     },
     "elastic/kibana": {
       "full_name": "elastic/kibana",
-      "popularity": 4.986904834857122,
-      "percentage": 0.0698856416772554,
+      "popularity": 4.986949595486509,
+      "percentage": 0.06988120195667366,
       "maturity": 5,
-      "total_commits_count": 15740,
+      "total_commits_count": 15741,
       "activity": 5,
-      "total_score": 30.006021200339127,
+      "total_score": 30.00615301059742,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -1444,12 +1444,12 @@
     },
     "boto/boto": {
       "full_name": "boto/boto",
-      "popularity": 4.788355970963193,
+      "popularity": 4.788285257389613,
       "percentage": 0.020863759649488837,
       "maturity": 4.678713233621913,
       "total_commits_count": 4793,
       "activity": 5,
-      "total_score": 28.735481784185673,
+      "total_score": 28.735269451669303,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -1789,8 +1789,8 @@
       "percentage": 0,
       "maturity": 0,
       "total_commits_count": 2,
-      "activity": 1.6589765659796485,
-      "total_score": 16.65897656597965,
+      "activity": 1.6560354395862698,
+      "total_score": 16.65603543958627,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -2313,12 +2313,12 @@
     },
     "elastic/beats": {
       "full_name": "elastic/beats",
-      "popularity": 4.7668310336067465,
+      "popularity": 4.766979609404905,
       "percentage": 0.02678810608090008,
       "maturity": 4.8724970884221905,
       "total_commits_count": 7466,
       "activity": 5,
-      "total_score": 29.06208754646636,
+      "total_score": 29.06253379126919,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

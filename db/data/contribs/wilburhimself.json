@@ -80,12 +80,12 @@
     },
     "SpinaCMS/Spina": {
       "full_name": "SpinaCMS/Spina",
-      "popularity": 4.187869906560975,
+      "popularity": 4.188433157381691,
       "percentage": 0.17513134851138354,
       "maturity": 3.7269122937526924,
       "total_commits_count": 571,
       "activity": 5,
-      "total_score": 25.112779856724725,
+      "total_score": 25.114482432760724,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -94,7 +94,7 @@
       "popularity": 4.812892307449156,
       "percentage": 0,
       "maturity": 5,
-      "total_commits_count": 53585,
+      "total_commits_count": 53590,
       "activity": 5,
       "total_score": 29.43867692234747,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",

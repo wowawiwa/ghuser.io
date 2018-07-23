@@ -48,11 +48,11 @@
     "AurelienLourot/ghuser.io": {
       "full_name": "AurelienLourot/ghuser.io",
       "popularity": 2.3444311854745736,
-      "percentage": 98.38056680161944,
-      "maturity": 3.3179155807799074,
-      "total_commits_count": 247,
+      "percentage": 98.41897233201581,
+      "maturity": 3.330318955159289,
+      "total_commits_count": 253,
       "activity": 5,
-      "total_score": 48.65316566905309,
+      "total_score": 48.68967750382212,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -69,12 +69,12 @@
     },
     "AurelienLourot/github-contribs": {
       "full_name": "AurelienLourot/github-contribs",
-      "popularity": 2.2810722512575277,
+      "popularity": 2.3032349516115587,
       "percentage": 100,
       "maturity": 2.0845073675966073,
       "total_commits_count": 52,
       "activity": 5,
-      "total_score": 45.66617075531366,
+      "total_score": 46.020773960978154,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -334,11 +334,11 @@
     "reframejs/reframe": {
       "full_name": "reframejs/reframe",
       "popularity": 3.029828522989428,
-      "percentage": 0.5926724137931034,
-      "maturity": 4.260875981614647,
-      "total_commits_count": 1856,
+      "percentage": 0.5920344456404736,
+      "maturity": 4.261353990112925,
+      "total_commits_count": 1858,
       "activity": 5,
-      "total_score": 22.84467798413049,
+      "total_score": 22.84538271969332,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
