@@ -113,12 +113,12 @@
     },
     "openebs/openebs": {
       "full_name": "openebs/openebs",
-      "popularity": 4.721857943927971,
+      "popularity": 4.721940343367114,
       "percentage": 0,
-      "maturity": 4.133386928728512,
-      "total_commits_count": 1394,
+      "maturity": 4.136263909281248,
+      "total_commits_count": 1403,
       "activity": 5,
-      "total_score": 27.432347689240935,
+      "total_score": 27.43834884866384,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -190,12 +190,12 @@
     },
     "OpenGenus/cosmos": {
       "full_name": "OpenGenus/cosmos",
-      "popularity": 4.972894267164799,
+      "popularity": 4.973217760558516,
       "percentage": 0.028105677346824058,
       "maturity": 4.8515302558856845,
       "total_commits_count": 7116,
       "activity": 5,
-      "total_score": 29.63991296629363,
+      "total_score": 29.640884628434904,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -256,12 +256,12 @@
     },
     "TheAlgorithms/Java": {
       "full_name": "TheAlgorithms/Java",
-      "popularity": 4.739935647841262,
+      "popularity": 4.7410409042514745,
       "percentage": 0,
       "maturity": 3.4459366843694483,
       "total_commits_count": 318,
       "activity": 5,
-      "total_score": 26.111680312262685,
+      "total_score": 26.11499608149332,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

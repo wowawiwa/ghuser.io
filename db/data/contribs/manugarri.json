@@ -3,12 +3,12 @@
   "repos": {
     "databricks/mlflow": {
       "full_name": "databricks/mlflow",
-      "popularity": 4.251214786467938,
-      "percentage": 0.9009009009009009,
-      "maturity": 2.853603482128319,
-      "total_commits_count": 111,
+      "popularity": 4.252916379033531,
+      "percentage": 0.8928571428571429,
+      "maturity": 2.859669179921282,
+      "total_commits_count": 112,
       "activity": 5,
-      "total_score": 23.958741343697238,
+      "total_score": 23.971729576652404,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -47,12 +47,12 @@
     },
     "rasbt/mlxtend": {
       "full_name": "rasbt/mlxtend",
-      "popularity": 4.206622121061949,
+      "popularity": 4.207161583878138,
       "percentage": 0.1392757660167131,
       "maturity": 3.833029807441456,
       "total_commits_count": 718,
       "activity": 5,
-      "total_score": 25.362090445441748,
+      "total_score": 25.36371860132292,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -138,7 +138,7 @@
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,
-      "total_commits_count": 18461,
+      "total_commits_count": 18470,
       "activity": 5,
       "total_score": 30,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
@@ -300,12 +300,12 @@
     },
     "yhat/db.py": {
       "full_name": "yhat/db.py",
-      "popularity": 4.071589724705229,
+      "popularity": 4.072325754853802,
       "percentage": 0.5586592178770949,
       "maturity": 3.1450622028399184,
       "total_commits_count": 179,
-      "activity": 1.2226872142760765,
-      "total_score": 20.02328284111723,
+      "activity": 1.2217939354010543,
+      "total_score": 20.024651107391456,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
