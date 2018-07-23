@@ -49,7 +49,7 @@
     "Rubonnek": 25,
     "SuperUserNameMan": 25,
     "a12n": 45,
-    "PJB3005": 26,
+    "PJB3005": 27,
     "JoshuaGrams": 26,
     "ISylvox": 27,
     "ianb96": 28,
@@ -69,7 +69,7 @@
     "touilleMan": 50,
     "hurikhan": 66,
     "leezh": 56,
-    "mhilbrunner": 267,
+    "mhilbrunner": 268,
     "guilhermefelipecgs": 59,
     "MarianoGnu": 78,
     "sanikoyes": 68,
@@ -78,7 +78,7 @@
     "tagcup": 68,
     "AndreaCatania": 71,
     "endragor": 74,
-    "YeldhamDev": 76,
+    "YeldhamDev": 77,
     "punto-": 121,
     "BastiaanOlij": 90,
     "groud": 141,
@@ -93,14 +93,14 @@
     "Faless": 169,
     "Paulb23": 166,
     "djrm": 169,
-    "vnen": 243,
+    "vnen": 255,
     "Noshyaar": 360,
     "RandomShaper": 193,
     "Hinsbart": 303,
-    "neikeq": 334,
+    "neikeq": 335,
     "volzhs": 293,
-    "akien-mga": 4603,
-    "reduz": 2749,
+    "akien-mga": 4613,
+    "reduz": 2753,
     "cbscribe": 38,
     "Spooner": 16,
     "NathanLovato": 12,
@@ -108,7 +108,7 @@
     "KidRigger": 9,
     "cart": 9,
     "capnm": 9,
-    "dragmz": 9,
+    "dragmz": 11,
     "QuLogic": 8,
     "MattUV": 8,
     "ricpelo": 8,
@@ -193,7 +193,7 @@
     "swarnimarun": 4,
     "bdero": 4,
     "henriquelalves": 4,
-    "aaronfranke": 3,
+    "aaronfranke": 5,
     "Xrayez": 4,
     "Listwon": 3,
     "bd339": 3,
@@ -403,7 +403,8 @@
     "wseng": 2,
     "jvdnbus": 3,
     "matthew1006": 2,
-    "EIREXE": 1
+    "EIREXE": 1,
+    "ordigdug": 2
   },
   "name": "godot",
   "full_name": "godotengine/godot",
@@ -415,11 +416,11 @@
   "url": "https://api.github.com/repos/godotengine/godot",
   "languages_url": "https://api.github.com/repos/godotengine/godot/languages",
   "created_at": "2014-01-04T16:05:36Z",
-  "updated_at": "2018-07-20T16:04:45Z",
-  "pushed_at": "2018-07-20T15:57:35Z",
+  "updated_at": "2018-07-22T16:19:09Z",
+  "pushed_at": "2018-07-22T16:18:42Z",
   "homepage": "https://godotengine.org",
-  "size": 249361,
-  "stargazers_count": 15856,
+  "size": 248854,
+  "stargazers_count": 15875,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -453,7 +454,7 @@
   },
   "languages": {
     "C++": {
-      "bytes": 20691516,
+      "bytes": 20834535,
       "color": "#f34b7d"
     },
     "Java": {
@@ -461,11 +462,11 @@
       "color": "#b07219"
     },
     "Python": {
-      "bytes": 313934,
+      "bytes": 316175,
       "color": "#3572A5"
     },
     "C#": {
-      "bytes": 187701,
+      "bytes": 187801,
       "color": "#178600"
     },
     "Objective-C++": {
@@ -497,5 +498,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-07-20T16:41:54.654Z"
+  "fetched_at": "2018-07-22T16:49:45.098Z"
 }

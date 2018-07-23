@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/multiformats/go-multistream",
   "languages_url": "https://api.github.com/repos/multiformats/go-multistream/languages",
   "created_at": "2015-06-05T00:06:27Z",
-  "updated_at": "2018-06-11T23:37:51Z",
-  "pushed_at": "2018-07-13T14:45:39Z",
+  "updated_at": "2018-07-20T21:23:40Z",
+  "pushed_at": "2018-07-20T21:23:38Z",
   "homepage": null,
-  "size": 59,
+  "size": 64,
   "stargazers_count": 14,
   "language": "Go",
   "mirror_url": null,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "Go": {
-      "bytes": 27723,
+      "bytes": 28104,
       "color": "#375eab"
     },
     "Makefile": {
@@ -61,8 +61,9 @@
     "keks": 1,
     "hsanjuan": 2,
     "RichardLitt": 4,
-    "Stebalien": 5,
-    "whyrusleeping": 43
+    "Stebalien": 6,
+    "whyrusleeping": 43,
+    "marten-seemann": 1
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-21T08:12:16.618Z"
 }

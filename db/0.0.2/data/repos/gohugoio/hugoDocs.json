@@ -100,7 +100,7 @@
     "anthonyfok": 427,
     "spf13": 625,
     "rdwatters": 686,
-    "bep": 2414,
+    "bep": 2435,
     "asifm": 4,
     "bmon": 4,
     "betaveros": 4,
@@ -447,7 +447,8 @@
     "kongakong": 1,
     "takaya1992": 1,
     "vorot93": 1,
-    "Hanzei": 2
+    "Hanzei": 2,
+    "idealhack": 2
   },
   "name": "hugoDocs",
   "full_name": "gohugoio/hugoDocs",
@@ -459,11 +460,11 @@
   "url": "https://api.github.com/repos/gohugoio/hugoDocs",
   "languages_url": "https://api.github.com/repos/gohugoio/hugoDocs/languages",
   "created_at": "2017-06-14T07:52:37Z",
-  "updated_at": "2018-07-20T15:05:12Z",
-  "pushed_at": "2018-07-20T15:05:05Z",
+  "updated_at": "2018-07-22T14:42:47Z",
+  "pushed_at": "2018-07-22T14:42:42Z",
   "homepage": "",
-  "size": 115264,
-  "stargazers_count": 156,
+  "size": 115421,
+  "stargazers_count": 154,
   "language": "HTML",
   "mirror_url": null,
   "archived": false,
@@ -513,5 +514,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-07-20T16:41:54.654Z"
+  "fetched_at": "2018-07-22T16:49:45.098Z"
 }

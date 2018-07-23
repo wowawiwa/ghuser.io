@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/apache/spark",
   "languages_url": "https://api.github.com/repos/apache/spark/languages",
   "created_at": "2014-02-25T08:00:08Z",
-  "updated_at": "2018-07-20T16:22:57Z",
-  "pushed_at": "2018-07-20T16:19:49Z",
+  "updated_at": "2018-07-22T16:05:45Z",
+  "pushed_at": "2018-07-22T16:46:43Z",
   "homepage": null,
-  "size": 277364,
-  "stargazers_count": 18138,
+  "size": 277545,
+  "stargazers_count": 18152,
   "language": "Scala",
   "mirror_url": null,
   "archived": false,
@@ -56,7 +56,7 @@
     "yjshen": 34,
     "koeninger": 35,
     "xiajunluan": 37,
-    "gengliangwang": 42,
+    "gengliangwang": 44,
     "tejasapatil": 36,
     "jose-torres": 36,
     "andyk": 42,
@@ -99,14 +99,14 @@
     "jiangxb1987": 70,
     "woggle": 72,
     "dennybritz": 85,
-    "wangyum": 76,
+    "wangyum": 77,
     "witgo": 75,
     "karenfeng": 85,
     "davies": 80,
     "ericl": 81,
     "WeichenXu123": 86,
     "hhbyyh": 85,
-    "mgaido91": 93,
+    "mgaido91": 94,
     "BryanCutler": 87,
     "scwf": 92,
     "sryza": 92,
@@ -139,10 +139,10 @@
     "vanzin": 343,
     "viirya": 347,
     "HyukjinKwon": 361,
-    "gatorsmile": 370,
+    "gatorsmile": 371,
     "liancheng": 375,
     "tdas": 559,
-    "zsxwing": 473,
+    "zsxwing": 474,
     "JoshRosen": 511,
     "cloud-fan": 575,
     "pwendell": 857,
@@ -169,7 +169,7 @@
     "tnachen": 23,
     "carsonwang": 22,
     "tsudukim": 22,
-    "MaxGekk": 27,
+    "MaxGekk": 28,
     "tarekbecker": 22,
     "liyezhang556520": 22,
     "kanzhang": 20,
@@ -205,7 +205,7 @@
     "vectorijk": 15,
     "haoyuan": 15,
     "skonto": 16,
-    "MrBago": 15,
+    "MrBago": 16,
     "kevinyu98": 15,
     "icexelloss": 14,
     "shane-huang": 14,
@@ -387,7 +387,7 @@
   },
   "languages": {
     "Scala": {
-      "bytes": 26604400,
+      "bytes": 26611414,
       "color": "#c22d40"
     },
     "Java": {
@@ -395,7 +395,7 @@
       "color": "#b07219"
     },
     "Python": {
-      "bytes": 2699547,
+      "bytes": 2699548,
       "color": "#3572A5"
     },
     "HiveQL": {
@@ -467,5 +467,5 @@
       "color": "#555555"
     }
   },
-  "fetched_at": "2018-07-20T16:41:54.654Z"
+  "fetched_at": "2018-07-22T16:49:45.098Z"
 }

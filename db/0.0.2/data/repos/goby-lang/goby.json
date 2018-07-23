@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/goby-lang/goby",
   "languages_url": "https://api.github.com/repos/goby-lang/goby/languages",
   "created_at": "2017-02-08T09:23:33Z",
-  "updated_at": "2018-07-20T14:29:55Z",
-  "pushed_at": "2018-07-18T13:45:50Z",
+  "updated_at": "2018-07-22T07:38:37Z",
+  "pushed_at": "2018-07-22T09:03:03Z",
   "homepage": "http://goby-lang.org",
-  "size": 5739,
-  "stargazers_count": 2723,
+  "size": 5832,
+  "stargazers_count": 2725,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -47,7 +47,7 @@
     "site_admin": false
   },
   "contributors": {
-    "whilei": 1,
+    "whilei": 2,
     "jaynagpaul": 1,
     "codetriage-readme-bot": 1,
     "koduki": 1,
@@ -66,7 +66,7 @@
     "hanachin": 5,
     "appleboy": 6,
     "kachick": 10,
-    "eliothedeman": 17,
+    "eliothedeman": 36,
     "janczer": 24,
     "adlerhsieh": 31,
     "shes50103": 35,
@@ -74,16 +74,16 @@
     "ear7h": 58,
     "Maxwell-Alexius": 78,
     "saveriomiroddi": 106,
-    "hachi8833": 198,
-    "st0012": 1274
+    "hachi8833": 203,
+    "st0012": 1287
   },
   "languages": {
     "Go": {
-      "bytes": 1012712,
+      "bytes": 1025112,
       "color": "#375eab"
     },
     "Ruby": {
-      "bytes": 16367,
+      "bytes": 15973,
       "color": "#701516"
     },
     "Shell": {
@@ -93,7 +93,11 @@
     "Makefile": {
       "bytes": 475,
       "color": "#427819"
+    },
+    "Dockerfile": {
+      "bytes": 333,
+      "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-07-20T16:41:54.654Z"
+  "fetched_at": "2018-07-22T09:08:36.263Z"
 }

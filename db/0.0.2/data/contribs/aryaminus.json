@@ -3,13 +3,13 @@
   "repos": {
     "aryaminus/nazar-server": {
       "full_name": "aryaminus/nazar-server",
-      "stargazers_count": 1,
-      "popularity": 0,
-      "percentage": 81.81818181818181,
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 84.21052631578948,
       "maturity": 0,
-      "total_commits_count": 33,
+      "total_commits_count": 38,
       "activity": 5,
-      "total_score": 5,
+      "total_score": 19.525183074598907,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

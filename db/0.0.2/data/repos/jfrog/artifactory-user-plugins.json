@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/jfrog/artifactory-user-plugins",
   "languages_url": "https://api.github.com/repos/jfrog/artifactory-user-plugins/languages",
   "created_at": "2011-10-14T07:20:20Z",
-  "updated_at": "2018-07-10T15:47:49Z",
-  "pushed_at": "2018-07-20T00:31:28Z",
+  "updated_at": "2018-07-20T16:47:30Z",
+  "pushed_at": "2018-07-20T16:47:26Z",
   "homepage": "http://wiki.jfrog.org/confluence/display/RTF/User+Plugins",
-  "size": 23402,
+  "size": 23403,
   "stargazers_count": 149,
   "language": "Groovy",
   "mirror_url": null,
@@ -90,12 +90,12 @@
     "aaronsrhodes": 33,
     "jbaruch": 39,
     "jainishshah17": 45,
-    "elioengcomp": 120,
+    "elioengcomp": 122,
     "DarthFennec": 262
   },
   "languages": {
     "Groovy": {
-      "bytes": 1106538,
+      "bytes": 1107312,
       "color": "#e69f56"
     },
     "Java": {
@@ -103,5 +103,5 @@
       "color": "#b07219"
     }
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-21T08:12:16.618Z"
 }

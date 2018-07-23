@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/moby/moby",
   "languages_url": "https://api.github.com/repos/moby/moby/languages",
   "created_at": "2013-01-18T18:10:57Z",
-  "updated_at": "2018-07-20T14:28:08Z",
-  "pushed_at": "2018-07-20T08:42:53Z",
+  "updated_at": "2018-07-22T14:42:39Z",
+  "pushed_at": "2018-07-21T08:51:49Z",
   "homepage": "https://mobyproject.org/",
-  "size": 136605,
-  "stargazers_count": 49616,
+  "size": 136604,
+  "stargazers_count": 49626,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "Go": {
-      "bytes": 7196422,
+      "bytes": 7196468,
       "color": "#375eab"
     },
     "Shell": {
@@ -58,6 +58,10 @@
     "PowerShell": {
       "bytes": 24493,
       "color": "#012456"
+    },
+    "Dockerfile": {
+      "bytes": 12513,
+      "color": "#0db7ed"
     },
     "Makefile": {
       "bytes": 9914,
@@ -138,7 +142,7 @@
     "rhvgoyal": 95,
     "ahmetb": 98,
     "AkihiroSuda": 204,
-    "kolyshkin": 108,
+    "kolyshkin": 109,
     "anusha-ragunathan": 168,
     "darstahl": 101,
     "WeiZhang555": 104,
@@ -172,7 +176,7 @@
     "tianon": 801,
     "LK4D4": 1369,
     "cpuguy83": 1478,
-    "thaJeztah": 2593,
+    "thaJeztah": 2594,
     "jhowardmsft": 706,
     "creack": 1257,
     "vieux": 1833,
@@ -536,5 +540,5 @@
     "stevvooe": 65,
     "RenaudWasTaken": 5
   },
-  "fetched_at": "2018-07-20T16:41:54.654Z"
+  "fetched_at": "2018-07-22T16:49:45.098Z"
 }

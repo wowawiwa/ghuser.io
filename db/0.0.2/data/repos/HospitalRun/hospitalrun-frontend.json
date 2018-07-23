@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/HospitalRun/hospitalrun-frontend",
   "languages_url": "https://api.github.com/repos/HospitalRun/hospitalrun-frontend/languages",
   "created_at": "2014-03-28T20:04:58Z",
-  "updated_at": "2018-07-20T06:16:11Z",
-  "pushed_at": "2018-07-20T12:06:11Z",
+  "updated_at": "2018-07-22T15:15:18Z",
+  "pushed_at": "2018-07-22T07:41:41Z",
   "homepage": "http://hospitalrun.io/",
-  "size": 337725,
-  "stargazers_count": 4256,
+  "size": 337726,
+  "stargazers_count": 4259,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -62,6 +62,10 @@
     "Shell": {
       "bytes": 8198,
       "color": "#89e051"
+    },
+    "Dockerfile": {
+      "bytes": 1036,
+      "color": "#0db7ed"
     },
     "Makefile": {
       "bytes": 957,
@@ -166,7 +170,7 @@
     "stukalin": 56,
     "greenkeeperio-bot": 83,
     "tangollama": 309,
-    "greenkeeper[bot]": 99,
+    "greenkeeper[bot]": 100,
     "jglovier": 255,
     "jkleinsc": 1465,
     "Kasahs": 2,
@@ -198,5 +202,5 @@
     "SiddharthaSarma": 1,
     "Lily418": 14
   },
-  "fetched_at": "2018-07-20T16:41:54.654Z"
+  "fetched_at": "2018-07-22T16:49:45.098Z"
 }

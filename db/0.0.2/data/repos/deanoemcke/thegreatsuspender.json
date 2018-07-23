@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/deanoemcke/thegreatsuspender",
   "languages_url": "https://api.github.com/repos/deanoemcke/thegreatsuspender/languages",
   "created_at": "2012-09-12T00:41:30Z",
-  "updated_at": "2018-07-20T16:40:20Z",
-  "pushed_at": "2018-07-09T19:48:12Z",
+  "updated_at": "2018-07-22T16:26:14Z",
+  "pushed_at": "2018-07-22T08:20:17Z",
   "homepage": "https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg/",
-  "size": 5422,
-  "stargazers_count": 1752,
+  "size": 5560,
+  "stargazers_count": 1754,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -28,7 +28,7 @@
   "default_branch": "master",
   "languages": {
     "JavaScript": {
-      "bytes": 599848,
+      "bytes": 672635,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -36,7 +36,7 @@
       "color": "#e34c26"
     },
     "CSS": {
-      "bytes": 17672,
+      "bytes": 18008,
       "color": "#563d7c"
     }
   },
@@ -63,8 +63,8 @@
     "ivenhov": 5,
     "mariospr": 16,
     "greduan": 23,
-    "liamjohnston": 57,
-    "deanoemcke": 546
+    "liamjohnston": 60,
+    "deanoemcke": 547
   },
-  "fetched_at": "2018-07-20T16:41:54.654Z"
+  "fetched_at": "2018-07-22T16:49:45.098Z"
 }

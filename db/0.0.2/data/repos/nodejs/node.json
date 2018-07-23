@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/nodejs/node",
   "languages_url": "https://api.github.com/repos/nodejs/node/languages",
   "created_at": "2014-11-26T19:57:11Z",
-  "updated_at": "2018-07-20T16:34:27Z",
-  "pushed_at": "2018-07-20T16:42:27Z",
+  "updated_at": "2018-07-22T16:40:44Z",
+  "pushed_at": "2018-07-22T16:34:48Z",
   "homepage": "https://nodejs.org",
-  "size": 392553,
-  "stargazers_count": 51457,
+  "size": 392771,
+  "stargazers_count": 51508,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 6738270,
+      "bytes": 6719013,
       "color": "#f1e05a"
     },
     "C++": {
-      "bytes": 2454832,
+      "bytes": 2456569,
       "color": "#f34b7d"
     },
     "Python": {
@@ -68,7 +68,7 @@
       "color": "#e34c26"
     },
     "Makefile": {
-      "bytes": 43049,
+      "bytes": 43196,
       "color": "#427819"
     },
     "DTrace": {
@@ -76,11 +76,11 @@
       "color": "#ccc"
     },
     "Batchfile": {
-      "bytes": 34623,
+      "bytes": 34910,
       "color": "#C1F12E"
     },
     "Shell": {
-      "bytes": 20386,
+      "bytes": 20590,
       "color": "#89e051"
     },
     "Roff": {
@@ -154,7 +154,7 @@
     "devsnek": 52,
     "seishun": 48,
     "watilde": 48,
-    "maclover7": 54,
+    "maclover7": 56,
     "fhinkel": 51,
     "gabrielschulhof": 57,
     "yorkie": 57,
@@ -170,7 +170,7 @@
     "silverwind": 89,
     "refack": 91,
     "AndreasMadsen": 103,
-    "tniessen": 112,
+    "tniessen": 114,
     "ofrobots": 117,
     "mhdawson": 121,
     "felixge": 124,
@@ -185,7 +185,7 @@
     "TooTallNate": 197,
     "joyeecheung": 221,
     "targos": 266,
-    "vsemozhetbyt": 271,
+    "vsemozhetbyt": 272,
     "tjfontaine": 332,
     "BridgeAR": 323,
     "mscdex": 317,
@@ -193,7 +193,7 @@
     "danbev": 337,
     "trevnorris": 363,
     "cjihrig": 378,
-    "jasnell": 491,
+    "jasnell": 493,
     "piscisaureus": 598,
     "addaleax": 640,
     "indutny": 754,
@@ -564,10 +564,10 @@
     "charlieduong94": 2,
     "chasestarr": 2,
     "dinophile": 2,
-    "rubys": 6,
+    "rubys": 9,
     "aduh95": 3,
     "lundibundi": 4,
     "kenny-y": 3
   },
-  "fetched_at": "2018-07-20T16:41:54.654Z"
+  "fetched_at": "2018-07-22T16:49:45.098Z"
 }

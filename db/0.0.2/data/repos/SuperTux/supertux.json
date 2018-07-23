@@ -1,16 +1,16 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
   "contributors": {
-    "Grumbel": 1423,
-    "tobbi": 1079,
+    "Grumbel": 1451,
+    "tobbi": 1082,
     "MatzeB": 672,
-    "Hume2": 520,
+    "Hume2": 522,
     "sommer": 527,
     "LMH0013": 302,
     "slackstone": 277,
     "ryanflegel": 247,
     "uafr": 230,
-    "maxteufel": 156,
+    "maxteufel": 167,
     "Mathnerd314": 154,
     "maths22": 107,
     "RavuAlHemio": 92,
@@ -77,11 +77,11 @@
   "url": "https://api.github.com/repos/SuperTux/supertux",
   "languages_url": "https://api.github.com/repos/SuperTux/supertux/languages",
   "created_at": "2013-11-23T21:40:12Z",
-  "updated_at": "2018-07-19T22:00:50Z",
-  "pushed_at": "2018-07-20T02:07:30Z",
+  "updated_at": "2018-07-22T12:39:52Z",
+  "pushed_at": "2018-07-22T12:39:47Z",
   "homepage": "https://supertux.org",
-  "size": 355067,
-  "stargazers_count": 649,
+  "size": 355169,
+  "stargazers_count": 648,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -115,7 +115,7 @@
   },
   "languages": {
     "C++": {
-      "bytes": 2678371,
+      "bytes": 2682682,
       "color": "#f34b7d"
     },
     "Scheme": {
@@ -130,13 +130,13 @@
       "bytes": 49481,
       "color": "#178600"
     },
-    "Shell": {
-      "bytes": 20577,
-      "color": "#89e051"
-    },
     "Python": {
       "bytes": 20486,
       "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 16027,
+      "color": "#89e051"
     },
     "Squirrel": {
       "bytes": 15403,
@@ -158,10 +158,6 @@
       "bytes": 1583,
       "color": "#101F1F"
     },
-    "Roff": {
-      "bytes": 1089,
-      "color": "#ecdebe"
-    },
     "Ruby": {
       "bytes": 930,
       "color": "#701516"
@@ -171,5 +167,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-22T16:49:45.098Z"
 }

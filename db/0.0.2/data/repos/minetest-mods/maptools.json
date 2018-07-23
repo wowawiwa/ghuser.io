@@ -3,7 +3,8 @@
   "contributors": {
     "adrido": 1,
     "sofar": 4,
-    "Calinou": 32
+    "Calinou": 32,
+    "Thomas--S": 1
   },
   "name": "maptools",
   "full_name": "minetest-mods/maptools",
@@ -15,10 +16,10 @@
   "url": "https://api.github.com/repos/minetest-mods/maptools",
   "languages_url": "https://api.github.com/repos/minetest-mods/maptools/languages",
   "created_at": "2015-03-18T21:11:52Z",
-  "updated_at": "2018-04-21T22:16:07Z",
-  "pushed_at": "2018-07-17T11:59:51Z",
+  "updated_at": "2018-07-22T11:22:44Z",
+  "pushed_at": "2018-07-22T11:22:42Z",
   "homepage": "https://forum.minetest.net/viewtopic.php?f=11&t=1882",
-  "size": 53,
+  "size": 54,
   "stargazers_count": 9,
   "language": "Lua",
   "mirror_url": null,
@@ -53,9 +54,9 @@
   },
   "languages": {
     "Lua": {
-      "bytes": 34972,
+      "bytes": 34988,
       "color": "#000080"
     }
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-22T16:49:45.098Z"
 }

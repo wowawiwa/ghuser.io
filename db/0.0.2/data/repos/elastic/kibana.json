@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/elastic/kibana",
   "languages_url": "https://api.github.com/repos/elastic/kibana/languages",
   "created_at": "2013-01-26T04:00:59Z",
-  "updated_at": "2018-07-20T16:26:25Z",
-  "pushed_at": "2018-07-20T16:31:13Z",
+  "updated_at": "2018-07-22T15:36:55Z",
+  "pushed_at": "2018-07-22T16:52:18Z",
   "homepage": "https://www.elastic.co/products/kibana",
-  "size": 431530,
-  "stargazers_count": 9701,
+  "size": 431686,
+  "stargazers_count": 9703,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 17709404,
+      "bytes": 17746439,
       "color": "#f1e05a"
     },
     "TypeScript": {
@@ -56,11 +56,11 @@
       "color": "#2b7489"
     },
     "HTML": {
-      "bytes": 830315,
+      "bytes": 830342,
       "color": "#e34c26"
     },
     "CSS": {
-      "bytes": 429065,
+      "bytes": 430468,
       "color": "#563d7c"
     },
     "Shell": {
@@ -138,10 +138,10 @@
     "gchaps": 21,
     "justinkambic": 18,
     "azasypkin": 23,
-    "snide": 17,
-    "jgowdyelastic": 30,
+    "snide": 18,
+    "jgowdyelastic": 31,
     "kkirsche": 18,
-    "peteharverson": 20,
+    "peteharverson": 21,
     "trevan": 24,
     "pickypg": 21,
     "walterra": 26,
@@ -162,7 +162,7 @@
     "tsullivan": 132,
     "bevacqua": 161,
     "thomasneirynck": 179,
-    "timroes": 175,
+    "timroes": 176,
     "nreese": 185,
     "panda01": 323,
     "BigFunger": 339,
@@ -173,7 +173,7 @@
     "epixa": 394,
     "lukasolson": 458,
     "jbudz": 460,
-    "cjcenizal": 461,
+    "cjcenizal": 463,
     "Bargs": 563,
     "bleskes": 515,
     "simianhacker": 665,
@@ -343,7 +343,8 @@
     "ruflin": 4,
     "hendrikmuhs": 1,
     "LeanidShutau": 2,
-    "exekias": 1
+    "exekias": 1,
+    "pjhampton": 1
   },
-  "fetched_at": "2018-07-20T16:41:54.654Z"
+  "fetched_at": "2018-07-22T16:49:45.098Z"
 }

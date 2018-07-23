@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/facebook/react",
   "languages_url": "https://api.github.com/repos/facebook/react/languages",
   "created_at": "2013-05-24T16:15:54Z",
-  "updated_at": "2018-07-20T16:35:39Z",
-  "pushed_at": "2018-07-20T15:50:44Z",
+  "updated_at": "2018-07-22T16:26:35Z",
+  "pushed_at": "2018-07-22T11:29:46Z",
   "homepage": "https://reactjs.org",
-  "size": 137090,
-  "stargazers_count": 106833,
+  "size": 137123,
+  "stargazers_count": 106950,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -142,8 +142,8 @@
     "chenglou": 222,
     "petehunt": 332,
     "bvaughn": 277,
-    "acdlite": 436,
-    "sebmarkbage": 643,
+    "acdlite": 437,
+    "sebmarkbage": 644,
     "zpao": 1776,
     "gaearon": 915,
     "sophiebits": 1232,
@@ -503,7 +503,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 1911899,
+      "bytes": 1922151,
       "color": "#f1e05a"
     },
     "C++": {
@@ -543,5 +543,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-07-20T16:41:54.654Z"
+  "fetched_at": "2018-07-22T16:49:45.098Z"
 }
