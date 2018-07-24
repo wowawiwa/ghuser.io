@@ -366,12 +366,12 @@
     },
     "gdi2290/awesome-angular": {
       "full_name": "gdi2290/awesome-angular",
-      "popularity": 4.764297437016825,
+      "popularity": 4.764372165918272,
       "percentage": 0.21052631578947367,
       "maturity": 3.640325003637004,
       "total_commits_count": 475,
       "activity": 5,
-      "total_score": 26.703933616600732,
+      "total_score": 26.70415984851711,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -411,11 +411,11 @@
     "reframejs/reframe": {
       "full_name": "reframejs/reframe",
       "popularity": 3.0418263721237575,
-      "percentage": 98.01821103374398,
-      "maturity": 4.263498541377698,
-      "total_commits_count": 1867,
+      "percentage": 98.02139037433155,
+      "maturity": 4.264211044944489,
+      "total_commits_count": 1870,
       "activity": 5,
-      "total_score": 61.41254550433512,
+      "total_score": 61.41522774173459,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -465,12 +465,12 @@
     },
     "AurelienLourot/ghuser.io": {
       "full_name": "AurelienLourot/ghuser.io",
-      "popularity": 2.3444311854745736,
-      "percentage": 1.5625,
-      "maturity": 3.3363902836170665,
-      "total_commits_count": 256,
+      "popularity": 2.3820559690418284,
+      "percentage": 1.5444015444015444,
+      "maturity": 3.342377905274129,
+      "total_commits_count": 259,
       "activity": 5,
-      "total_score": 19.18228670820738,
+      "total_score": 19.309174336940828,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

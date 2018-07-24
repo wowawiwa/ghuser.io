@@ -1,0 +1,254 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "knrt10/static-contact-validatedForm": {
+      "full_name": "knrt10/static-contact-validatedForm",
+      "popularity": 1.9590800514478444,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 6,
+      "activity": 5,
+      "total_score": 36.34528082316551,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "p-society/p-society.github.io": {
+      "full_name": "p-society/p-society.github.io",
+      "popularity": 2.206864721909315,
+      "percentage": 63.1578947368421,
+      "maturity": 2.559238720343991,
+      "total_commits_count": 76,
+      "activity": 5,
+      "total_score": 34.85859248103978,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "knrt10/swift-simple-calculator": {
+      "full_name": "knrt10/swift-simple-calculator",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 4,
+      "activity": 2.4450313325460007,
+      "total_score": 2.4450313325460007,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "p-society/typeracer-cli": {
+      "full_name": "p-society/typeracer-cli",
+      "popularity": 3.1143163551711277,
+      "percentage": 77.46478873239437,
+      "maturity": 2.4944911357284782,
+      "total_commits_count": 71,
+      "activity": 5,
+      "total_score": 50.69441294186268,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "knrt10/npm-downloads-count-cli": {
+      "full_name": "knrt10/npm-downloads-count-cli",
+      "popularity": 1.49139952161816,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 3,
+      "activity": 5,
+      "total_score": 28.86239234589056,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "knrt10/cloudinary-cli": {
+      "full_name": "knrt10/cloudinary-cli",
+      "popularity": 1.9590800514478444,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 23,
+      "activity": 1.8115646351763917,
+      "total_score": 33.1568454583419,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "p-society/goals": {
+      "full_name": "p-society/goals",
+      "popularity": 2.206864721909315,
+      "percentage": 40,
+      "maturity": 0,
+      "total_commits_count": 5,
+      "activity": 5,
+      "total_score": 23.09629071965638,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "probot/probot": {
+      "full_name": "probot/probot",
+      "popularity": 4.463349641764765,
+      "percentage": 0.23781212841854935,
+      "maturity": 3.905422834037102,
+      "total_commits_count": 841,
+      "activity": 5,
+      "total_score": 26.33888162153245,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "knrt10/probot-repos": {
+      "full_name": "knrt10/probot-repos",
+      "popularity": 1.7853682828948099,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 6,
+      "activity": 1.7520723746963003,
+      "total_score": 30.31796490101326,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "behaviorbot/request-info": {
+      "full_name": "behaviorbot/request-info",
+      "popularity": 2.3997126544096057,
+      "percentage": 4,
+      "maturity": 2.006040535099928,
+      "total_commits_count": 50,
+      "activity": 5,
+      "total_score": 17.459069613721667,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "probot/smee": {
+      "full_name": "probot/smee",
+      "popularity": 2.5198669643416824,
+      "percentage": 3.827751196172249,
+      "maturity": 3.229878901456264,
+      "total_commits_count": 209,
+      "activity": 5,
+      "total_score": 20.27326378824157,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "octokit/routes": {
+      "full_name": "octokit/routes",
+      "popularity": 2.3032349516115587,
+      "percentage": 1.8518518518518519,
+      "maturity": 3.3636521841911384,
+      "total_commits_count": 270,
+      "activity": 5,
+      "total_score": 19.191491711567885,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "wip/app": {
+      "full_name": "wip/app",
+      "popularity": 3.4033312183682662,
+      "percentage": 0.8849557522123894,
+      "maturity": 2.8656513250381606,
+      "total_commits_count": 113,
+      "activity": 5,
+      "total_score": 21.33282998517039,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "probot/reminders": {
+      "full_name": "probot/reminders",
+      "popularity": 2.5198669643416824,
+      "percentage": 0.6896551724137931,
+      "maturity": 3.0233373858695978,
+      "total_commits_count": 145,
+      "activity": 5,
+      "total_score": 18.832194771912118,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "probot/settings": {
+      "full_name": "probot/settings",
+      "popularity": 3.3406814483742275,
+      "percentage": 0,
+      "maturity": 2.91075503612971,
+      "total_commits_count": 121,
+      "activity": 5,
+      "total_score": 20.8435544173821,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "probot/unfurl": {
+      "full_name": "probot/unfurl",
+      "popularity": 2.506543999292103,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 35,
+      "activity": 5,
+      "total_score": 12.51963199787631,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "knrt10/fcc-Pintrest-Clone": {
+      "full_name": "knrt10/fcc-Pintrest-Clone",
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 3,
+      "activity": 1.5247639587990278,
+      "total_score": 18.18761548588607,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "knrt10/LeaveMangerAndoirdApp-IIITBBSR": {
+      "full_name": "knrt10/LeaveMangerAndoirdApp-IIITBBSR",
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 5,
+      "activity": 1.5126026931642165,
+      "total_score": 18.175454220251257,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "knrt10/IssueTracker": {
+      "full_name": "knrt10/IssueTracker",
+      "popularity": 1.6128219920330789,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 8,
+      "activity": 1.4539226472395743,
+      "total_score": 27.259074519768838,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "knrt10/chat-app-with-form-validation": {
+      "full_name": "knrt10/chat-app-with-form-validation",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 8,
+      "activity": 1.7508822496215215,
+      "total_score": 1.7508822496215215,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "knrt10/Practicing-PHP": {
+      "full_name": "knrt10/Practicing-PHP",
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 8,
+      "activity": 1.0439109377053732,
+      "total_score": 17.706762464792416,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "knrt10/practice_templates": {
+      "full_name": "knrt10/practice_templates",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 12,
+      "activity": 0.8674782950922548,
+      "total_score": 0.8674782950922548,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "p-society",
+    "probot",
+    "behaviorbot",
+    "octokit",
+    "wip"
+  ]
+}

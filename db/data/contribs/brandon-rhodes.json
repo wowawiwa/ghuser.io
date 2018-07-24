@@ -14,12 +14,12 @@
     },
     "brandon-rhodes/pyephem": {
       "full_name": "brandon-rhodes/pyephem",
-      "popularity": 3.4943328447947692,
+      "popularity": 3.4957221437863515,
       "percentage": 96.1218836565097,
       "maturity": 3.835584114094175,
       "total_commits_count": 722,
       "activity": 5,
-      "total_score": 66.8188079339555,
+      "total_score": 66.84033629561452,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -36,12 +36,12 @@
     },
     "PrismJS/prism": {
       "full_name": "PrismJS/prism",
-      "popularity": 4.7428505983513265,
+      "popularity": 4.743007607258375,
       "percentage": 0.041631973355537054,
       "maturity": 4.375034524863965,
       "total_commits_count": 2402,
       "activity": 5,
-      "total_score": 28.00428989464809,
+      "total_score": 28.004761771126017,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -257,11 +257,11 @@
     "fgrehm/vagrant-lxc": {
       "full_name": "fgrehm/vagrant-lxc",
       "popularity": 4.058882499908631,
-      "percentage": 0.09775171065493646,
-      "maturity": 3.9943338384476754,
-      "total_commits_count": 1023,
+      "percentage": 0.09746588693957114,
+      "maturity": 3.9956571016831703,
+      "total_commits_count": 1026,
       "activity": 5,
-      "total_score": 25.21689432862399,
+      "total_score": 25.219390038861054,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -381,8 +381,8 @@
       "percentage": 4.516806722689076,
       "maturity": 4.451384329661518,
       "total_commits_count": 2856,
-      "activity": 1.2120290872968242,
-      "total_score": 28.050722116367762,
+      "activity": 1.2113806572643115,
+      "total_score": 28.05007368633525,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -476,12 +476,12 @@
     },
     "cython/cython": {
       "full_name": "cython/cython",
-      "popularity": 4.518434567242392,
+      "popularity": 4.518566187586194,
       "percentage": 0.0076546233925290875,
       "maturity": 5,
       "total_commits_count": 13064,
       "activity": 5,
-      "total_score": 28.559800000668858,
+      "total_score": 28.56019499267581,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -641,12 +641,12 @@
     },
     "urllib3/urllib3": {
       "full_name": "urllib3/urllib3",
-      "popularity": 4.219649805597381,
+      "popularity": 4.219911649620904,
       "percentage": 0.3138075313807531,
       "maturity": 4.453231019138181,
       "total_commits_count": 2868,
       "activity": 5,
-      "total_score": 26.73755198061066,
+      "total_score": 26.73834819460269,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

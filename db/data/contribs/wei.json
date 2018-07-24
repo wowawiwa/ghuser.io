@@ -58,12 +58,12 @@
     },
     "probot/probot": {
       "full_name": "probot/probot",
-      "popularity": 4.4632001736729645,
+      "popularity": 4.463349641764765,
       "percentage": 0.11890606420927467,
       "maturity": 3.905422834037102,
       "total_commits_count": 841,
       "activity": 5,
-      "total_score": 26.269437392728946,
+      "total_score": 26.269888107450477,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -102,12 +102,12 @@
     },
     "remy/mit-license": {
       "full_name": "remy/mit-license",
-      "popularity": 4.232298048706308,
+      "popularity": 4.232552379051006,
       "percentage": 0,
       "maturity": 4.459330547687771,
       "total_commits_count": 2908,
       "activity": 5,
-      "total_score": 26.61555524149447,
+      "total_score": 26.61631823252856,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

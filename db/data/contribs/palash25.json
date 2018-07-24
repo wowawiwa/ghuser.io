@@ -388,12 +388,12 @@
     },
     "OpenGenus/cosmos": {
       "full_name": "OpenGenus/cosmos",
-      "popularity": 4.97340250579737,
+      "popularity": 4.973541013170704,
       "percentage": 0.05613247263541959,
       "maturity": 4.852143571018295,
       "total_commits_count": 7126,
       "activity": 5,
-      "total_score": 29.660786678836708,
+      "total_score": 29.661203211675684,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

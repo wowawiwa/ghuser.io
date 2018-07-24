@@ -3,12 +3,12 @@
   "repos": {
     "crazy-max/WindowsSpyBlocker": {
       "full_name": "crazy-max/WindowsSpyBlocker",
-      "popularity": 3.8216181106707126,
+      "popularity": 3.8235785164421108,
       "percentage": 99.09909909909909,
       "maturity": 3.468751545832409,
       "total_commits_count": 333,
       "activity": 5,
-      "total_score": 72.6358159665519,
+      "total_score": 72.66695286182194,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -113,12 +113,12 @@
     },
     "crazy-max/docker-matomo": {
       "full_name": "crazy-max/docker-matomo",
-      "popularity": 2.2810722512575277,
+      "popularity": 2.3032349516115587,
       "percentage": 97.67441860465117,
       "maturity": 1.4930421103847036,
       "total_commits_count": 43,
       "activity": 5,
-      "total_score": 43.79361374632362,
+      "total_score": 44.1415166007183,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -641,12 +641,12 @@
     },
     "pi-hole/pi-hole": {
       "full_name": "pi-hole/pi-hole",
-      "popularity": 4.9681529631893335,
+      "popularity": 4.968573401913833,
       "percentage": 0.13799448022079117,
       "maturity": 4.330951003217213,
       "total_commits_count": 2174,
       "activity": 5,
-      "total_score": 28.655485995158077,
+      "total_score": 28.656754853700598,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -729,12 +729,12 @@
     },
     "librenms/librenms": {
       "full_name": "librenms/librenms",
-      "popularity": 4.041865847741013,
+      "popularity": 4.042260087497072,
       "percentage": 0.017866714311238163,
       "maturity": 5,
       "total_commits_count": 11194,
       "activity": 5,
-      "total_score": 27.13498547533321,
+      "total_score": 27.13616911029137,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

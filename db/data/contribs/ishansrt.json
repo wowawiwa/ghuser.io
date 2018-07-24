@@ -1,0 +1,86 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "coala/coala-quickstart": {
+      "full_name": "coala/coala-quickstart",
+      "popularity": 2.506543999292103,
+      "percentage": 9.929078014184396,
+      "maturity": 3.0064857601990567,
+      "total_commits_count": 141,
+      "activity": 5,
+      "total_score": 21.768000737218838,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "coala/cEPs": {
+      "full_name": "coala/cEPs",
+      "popularity": 2.3444311854745736,
+      "percentage": 4.705882352941177,
+      "maturity": 2.6559090182261387,
+      "total_commits_count": 85,
+      "activity": 5,
+      "total_score": 18.779351847519266,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "coala/devops": {
+      "full_name": "coala/devops",
+      "popularity": 1.8512968868523627,
+      "percentage": 0.7633587786259542,
+      "maturity": 2.961252793435558,
+      "total_commits_count": 131,
+      "activity": 2.472036560867766,
+      "total_score": 14.132149293250786,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "coala/projects": {
+      "full_name": "coala/projects",
+      "popularity": 2.741190616566951,
+      "percentage": 0.5181347150259067,
+      "maturity": 3.5409374172239443,
+      "total_commits_count": 386,
+      "activity": 5,
+      "total_score": 20.4900864666118,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "pmd/pmd": {
+      "full_name": "pmd/pmd",
+      "popularity": 4.2240798249475615,
+      "percentage": 0.01552553951249806,
+      "maturity": 4.807990903472551,
+      "total_commits_count": 6441,
+      "activity": 5,
+      "total_score": 27.29674682715719,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "coala/coala": {
+      "full_name": "coala/coala",
+      "popularity": 4.360840699918067,
+      "percentage": 0.07462686567164178,
+      "maturity": 4.6016302589301175,
+      "total_commits_count": 4020,
+      "activity": 5,
+      "total_score": 27.328089281121102,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ishanSrt/coala": {
+      "full_name": "ishanSrt/coala",
+      "popularity": 0,
+      "percentage": 0.076103500761035,
+      "maturity": 4.593034669165678,
+      "total_commits_count": 3942,
+      "activity": 2.720743125440734,
+      "total_score": 11.90681246377209,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "coala",
+    "pmd"
+  ]
+}
