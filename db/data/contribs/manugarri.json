@@ -3,12 +3,12 @@
   "repos": {
     "databricks/mlflow": {
       "full_name": "databricks/mlflow",
-      "popularity": 4.252916379033531,
+      "popularity": 4.255094390038135,
       "percentage": 0.8928571428571429,
       "maturity": 2.859669179921282,
       "total_commits_count": 112,
       "activity": 5,
-      "total_score": 23.971729576652404,
+      "total_score": 23.978516414514967,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -47,12 +47,12 @@
     },
     "rasbt/mlxtend": {
       "full_name": "rasbt/mlxtend",
-      "popularity": 4.207161583878138,
+      "popularity": 4.207431064207166,
       "percentage": 0.1392757660167131,
       "maturity": 3.833029807441456,
       "total_commits_count": 718,
       "activity": 5,
-      "total_score": 25.36371860132292,
+      "total_score": 25.364531921480307,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -138,7 +138,7 @@
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,
-      "total_commits_count": 18470,
+      "total_commits_count": 18473,
       "activity": 5,
       "total_score": 30,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
@@ -300,12 +300,12 @@
     },
     "yhat/db.py": {
       "full_name": "yhat/db.py",
-      "popularity": 4.072325754853802,
+      "popularity": 4.072693302679744,
       "percentage": 0.5586592178770949,
       "maturity": 3.1450622028399184,
       "total_commits_count": 179,
-      "activity": 1.2217939354010543,
-      "total_score": 20.024651107391456,
+      "activity": 1.2206210957193369,
+      "total_score": 20.02460760460509,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -333,12 +333,12 @@
     },
     "influxdata/influxdb-python": {
       "full_name": "influxdata/influxdb-python",
-      "popularity": 3.931547805943507,
+      "popularity": 3.9320559905164427,
       "percentage": 0.18050541516245489,
       "maturity": 3.7127835854114473,
       "total_commits_count": 554,
       "activity": 5,
-      "total_score": 24.31246712561599,
+      "total_score": 24.314003604243545,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

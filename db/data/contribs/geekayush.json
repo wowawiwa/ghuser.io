@@ -3,12 +3,12 @@
   "repos": {
     "material-components/material-components-web-react": {
       "full_name": "material-components/material-components-web-react",
-      "popularity": 3.6990959353851256,
-      "percentage": 0.8771929824561403,
-      "maturity": 2.871552188050665,
-      "total_commits_count": 114,
+      "popularity": 3.7051326914932203,
+      "percentage": 0.8620689655172413,
+      "maturity": 2.883118698301688,
+      "total_commits_count": 116,
       "activity": 5,
-      "total_score": 22.26221891173045,
+      "total_score": 22.296865858922793,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

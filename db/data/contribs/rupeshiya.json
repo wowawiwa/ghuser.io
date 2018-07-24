@@ -49,10 +49,10 @@
       "full_name": "openebs/openebs",
       "popularity": 4.721940343367114,
       "percentage": 0,
-      "maturity": 4.136263909281248,
-      "total_commits_count": 1403,
+      "maturity": 4.137218683098794,
+      "total_commits_count": 1406,
       "activity": 5,
-      "total_score": 27.43834884866384,
+      "total_score": 27.44025839629893,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -157,12 +157,12 @@
     },
     "TheAlgorithms/C": {
       "full_name": "TheAlgorithms/C",
-      "popularity": 3.522613709610168,
+      "popularity": 3.5252135048242974,
       "percentage": 2.380952380952381,
       "maturity": 3.1092840956183023,
       "total_commits_count": 168,
       "activity": 5,
-      "total_score": 22.876742134946447,
+      "total_score": 22.885346219107493,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

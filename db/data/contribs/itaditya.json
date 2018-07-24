@@ -113,12 +113,12 @@
     },
     "probot/probot": {
       "full_name": "probot/probot",
-      "popularity": 4.462901083076626,
+      "popularity": 4.4632001736729645,
       "percentage": 0.356718192627824,
       "maturity": 3.905422834037102,
       "total_commits_count": 841,
       "activity": 5,
-      "total_score": 26.40650865837422,
+      "total_score": 26.407419800000643,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -289,12 +289,12 @@
     },
     "probot/stale": {
       "full_name": "probot/stale",
-      "popularity": 3.6552735870419375,
+      "popularity": 3.657190581946688,
       "percentage": 0.6666666666666666,
       "maturity": 3.043522063689193,
       "total_commits_count": 150,
       "activity": 5,
-      "total_score": 22.369655266047832,
+      "total_score": 22.375572390320496,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -333,12 +333,12 @@
     },
     "theskumar/python-dotenv": {
       "full_name": "theskumar/python-dotenv",
-      "popularity": 4.0924438923927235,
+      "popularity": 4.0934957929999625,
       "percentage": 0.6451612903225806,
       "maturity": 3.062810136718,
       "total_commits_count": 155,
       "activity": 5,
-      "total_score": 23.74618918029872,
+      "total_score": 23.749433106042336,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -388,34 +388,34 @@
     },
     "pwarocks/pwa.rocks": {
       "full_name": "pwarocks/pwa.rocks",
-      "popularity": 3.807641752482415,
+      "popularity": 3.808317592158154,
       "percentage": 0,
       "maturity": 3.3029825412519562,
       "total_commits_count": 240,
       "activity": 5,
-      "total_score": 23.028890339951158,
+      "total_score": 23.030917858978373,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "Chalarangelo/30-seconds-of-code": {
       "full_name": "Chalarangelo/30-seconds-of-code",
       "popularity": 5,
-      "percentage": 0.031201248049921998,
-      "maturity": 4.502123699782208,
-      "total_commits_count": 3205,
+      "percentage": 0.031191515907673113,
+      "maturity": 4.502260891638493,
+      "total_commits_count": 3206,
       "activity": 5,
-      "total_score": 29.024528210796866,
+      "total_score": 29.024796268616974,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "agarrharr/awesome-cli-apps": {
       "full_name": "agarrharr/awesome-cli-apps",
-      "popularity": 4.398343749994602,
+      "popularity": 4.39886415405527,
       "percentage": 0,
       "maturity": 2.9978082245019047,
       "total_commits_count": 139,
       "activity": 5,
-      "total_score": 24.190647698987615,
+      "total_score": 24.19220891116962,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -477,11 +477,11 @@
     "sendgrid/docs": {
       "full_name": "sendgrid/docs",
       "popularity": 3.049644666380365,
-      "percentage": 0.009927529038022437,
+      "percentage": 0.009919650828290844,
       "maturity": 5,
-      "total_commits_count": 10073,
+      "total_commits_count": 10081,
       "activity": 5,
-      "total_score": 24.152869805818643,
+      "total_score": 24.152866682472407,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -498,12 +498,12 @@
     },
     "thank-you-github/thank-you-github": {
       "full_name": "thank-you-github/thank-you-github",
-      "popularity": 4.2584608443991065,
+      "popularity": 4.2587003098242615,
       "percentage": 0,
       "maturity": 4.37924283836316,
       "total_commits_count": 2425,
       "activity": 5,
-      "total_score": 26.53386820992364,
+      "total_score": 26.534586606199106,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -641,12 +641,12 @@
     },
     "Roshanjossey/first-contributions": {
       "full_name": "Roshanjossey/first-contributions",
-      "popularity": 4.404718892592939,
+      "popularity": 4.404889901605797,
       "percentage": 0,
-      "maturity": 4.945730114720842,
-      "total_commits_count": 8830,
+      "maturity": 4.946075827702078,
+      "total_commits_count": 8837,
       "activity": 5,
-      "total_score": 28.1056169072205,
+      "total_score": 28.106821360221545,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -922,6 +922,17 @@
       "total_commits_count": 12,
       "activity": 5,
       "total_score": 26.15610435364042,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "summer-skills/sublime-ninja": {
+      "full_name": "summer-skills/sublime-ninja",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 6,
+      "activity": 5,
+      "total_score": 5,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }
