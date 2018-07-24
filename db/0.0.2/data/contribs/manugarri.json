@@ -3,6 +3,7 @@
   "repos": {
     "databricks/mlflow": {
       "full_name": "databricks/mlflow",
+      "name": "mlflow",
       "stargazers_count": 1776,
       "popularity": 4.249261910447993,
       "percentage": 0.9009009009009009,
@@ -15,6 +16,7 @@
     },
     "awesomedata/apd-core": {
       "full_name": "awesomedata/apd-core",
+      "name": "apd-core",
       "stargazers_count": 63,
       "popularity": 2.7931306258879904,
       "percentage": 0,
@@ -27,6 +29,7 @@
     },
     "manugarri/curso_data_science": {
       "full_name": "manugarri/curso_data_science",
+      "name": "curso_data_science",
       "stargazers_count": 16,
       "popularity": 2.179015777092762,
       "percentage": 100,
@@ -39,6 +42,7 @@
     },
     "Pybonacci/pybonacci.github.io": {
       "full_name": "Pybonacci/pybonacci.github.io",
+      "name": "pybonacci.github.io",
       "stargazers_count": 2,
       "popularity": 1.0414282204429401,
       "percentage": 15.476190476190476,
@@ -51,6 +55,7 @@
     },
     "rasbt/mlxtend": {
       "full_name": "rasbt/mlxtend",
+      "name": "mlxtend",
       "stargazers_count": 1610,
       "popularity": 4.206622121061949,
       "percentage": 0.1392757660167131,
@@ -63,6 +68,7 @@
     },
     "LDSSA/bootcamp": {
       "full_name": "LDSSA/bootcamp",
+      "name": "bootcamp",
       "stargazers_count": 5,
       "popularity": 1.6128219920330789,
       "percentage": 4.597701149425287,
@@ -75,6 +81,7 @@
     },
     "LDSSA/setup": {
       "full_name": "LDSSA/setup",
+      "name": "setup",
       "stargazers_count": 3,
       "popularity": 1.3222565221025262,
       "percentage": 4.651162790697675,
@@ -87,6 +94,7 @@
     },
     "MaxHalford/flask-boilerplate": {
       "full_name": "MaxHalford/flask-boilerplate",
+      "name": "flask-boilerplate",
       "stargazers_count": 161,
       "popularity": 3.2044303961585228,
       "percentage": 4.166666666666667,
@@ -99,6 +107,7 @@
     },
     "scrapinghub/exporters": {
       "full_name": "scrapinghub/exporters",
+      "name": "exporters",
       "stargazers_count": 24,
       "popularity": 2.3636508993380505,
       "percentage": 0,
@@ -111,6 +120,7 @@
     },
     "scrapinghub/kafka-scanner": {
       "full_name": "scrapinghub/kafka-scanner",
+      "name": "kafka-scanner",
       "stargazers_count": 18,
       "popularity": 2.2330349704670382,
       "percentage": 1.1627906976744187,
@@ -123,6 +133,7 @@
     },
     "LDSSA/learning-units": {
       "full_name": "LDSSA/learning-units",
+      "name": "learning-units",
       "stargazers_count": 6,
       "popularity": 1.7076084983408428,
       "percentage": 2.8846153846153846,
@@ -135,6 +146,7 @@
     },
     "manugarri/jornada_data_science_info_2017": {
       "full_name": "manugarri/jornada_data_science_info_2017",
+      "name": "jornada_data_science_info_2017",
       "stargazers_count": 4,
       "popularity": 1.49139952161816,
       "percentage": 100,
@@ -147,6 +159,7 @@
     },
     "apache/spark": {
       "full_name": "apache/spark",
+      "name": "spark",
       "stargazers_count": 18152,
       "popularity": 5,
       "percentage": 0,
@@ -159,6 +172,7 @@
     },
     "manugarri/spain_census_map": {
       "full_name": "manugarri/spain_census_map",
+      "name": "spain_census_map",
       "stargazers_count": 3,
       "popularity": 1.3222565221025262,
       "percentage": 100,
@@ -171,6 +185,7 @@
     },
     "DataTau/datascience-anthology-pydata": {
       "full_name": "DataTau/datascience-anthology-pydata",
+      "name": "datascience-anthology-pydata",
       "stargazers_count": 288,
       "popularity": 3.458072267535396,
       "percentage": 3.8461538461538463,
@@ -183,6 +198,7 @@
     },
     "AllenFang/spark-overflow": {
       "full_name": "AllenFang/spark-overflow",
+      "name": "spark-overflow",
       "stargazers_count": 58,
       "popularity": 2.7566751284457114,
       "percentage": 9.090909090909092,
@@ -195,6 +211,7 @@
     },
     "python-spain/association-web": {
       "full_name": "python-spain/association-web",
+      "name": "association-web",
       "stargazers_count": 4,
       "popularity": 1.49139952161816,
       "percentage": 2.857142857142857,
@@ -207,6 +224,7 @@
     },
     "manugarri/pycones_2016_talk_recommenders": {
       "full_name": "manugarri/pycones_2016_talk_recommenders",
+      "name": "pycones_2016_talk_recommenders",
       "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
@@ -219,6 +237,7 @@
     },
     "manugarri/raspberry_reminder": {
       "full_name": "manugarri/raspberry_reminder",
+      "name": "raspberry_reminder",
       "stargazers_count": 6,
       "popularity": 1.7076084983408428,
       "percentage": 100,
@@ -231,6 +250,7 @@
     },
     "manugarri/team_rocket": {
       "full_name": "manugarri/team_rocket",
+      "name": "team_rocket",
       "stargazers_count": 2,
       "popularity": 1.0414282204429401,
       "percentage": 100,
@@ -243,6 +263,7 @@
     },
     "PyDataMadrid2016/Conference-Info": {
       "full_name": "PyDataMadrid2016/Conference-Info",
+      "name": "Conference-Info",
       "stargazers_count": 49,
       "popularity": 2.6821840837653634,
       "percentage": 6.382978723404255,
@@ -255,6 +276,7 @@
     },
     "manugarri/pydata_2016_talk_recommenders": {
       "full_name": "manugarri/pydata_2016_talk_recommenders",
+      "name": "pydata_2016_talk_recommenders",
       "stargazers_count": 34,
       "popularity": 2.5198669643416824,
       "percentage": 100,
@@ -267,6 +289,7 @@
     },
     "eskerda/pybikes": {
       "full_name": "eskerda/pybikes",
+      "name": "pybikes",
       "stargazers_count": 333,
       "popularity": 3.5213079524820428,
       "percentage": 0.16556291390728478,
@@ -279,6 +302,7 @@
     },
     "mapzen/metroextractor-cities": {
       "full_name": "mapzen/metroextractor-cities",
+      "name": "metroextractor-cities",
       "stargazers_count": 85,
       "popularity": 2.924835037974496,
       "percentage": 0.2336448598130841,
@@ -291,6 +315,7 @@
     },
     "manugarri/tweets_map": {
       "full_name": "manugarri/tweets_map",
+      "name": "tweets_map",
       "stargazers_count": 38,
       "popularity": 2.5694128929127964,
       "percentage": 100,
@@ -303,6 +328,7 @@
     },
     "manugarri/keras_monet": {
       "full_name": "manugarri/keras_monet",
+      "name": "keras_monet",
       "stargazers_count": 84,
       "popularity": 2.919640065401408,
       "percentage": 100,
@@ -315,6 +341,7 @@
     },
     "manugarri/cron-metrics": {
       "full_name": "manugarri/cron-metrics",
+      "name": "cron-metrics",
       "stargazers_count": 132,
       "popularity": 3.1176417505287923,
       "percentage": 100,
@@ -327,6 +354,7 @@
     },
     "yhat/db.py": {
       "full_name": "yhat/db.py",
+      "name": "db.py",
       "stargazers_count": 1177,
       "popularity": 4.070483335302788,
       "percentage": 0.5586592178770949,
@@ -339,6 +367,7 @@
     },
     "manugarri/Reddit-Recommendation-Engine": {
       "full_name": "manugarri/Reddit-Recommendation-Engine",
+      "name": "Reddit-Recommendation-Engine",
       "stargazers_count": 11,
       "popularity": 2.0043600754367907,
       "percentage": 100,
@@ -351,6 +380,7 @@
     },
     "simonv3/quickbooks-python": {
       "full_name": "simonv3/quickbooks-python",
+      "name": "quickbooks-python",
       "stargazers_count": 19,
       "popularity": 2.2577174475727126,
       "percentage": 6.666666666666667,
@@ -363,6 +393,7 @@
     },
     "influxdata/influxdb-python": {
       "full_name": "influxdata/influxdb-python",
+      "name": "influxdb-python",
       "stargazers_count": 855,
       "popularity": 3.931547805943507,
       "percentage": 0.18050541516245489,
@@ -375,6 +406,7 @@
     },
     "manugarri/crab": {
       "full_name": "manugarri/crab",
+      "name": "crab",
       "stargazers_count": 1,
       "popularity": 0,
       "percentage": 3.717472118959108,

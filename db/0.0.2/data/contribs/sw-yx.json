@@ -3,6 +3,7 @@
   "repos": {
     "sw-yx/blade.macro": {
       "full_name": "sw-yx/blade.macro",
+      "name": "blade.macro",
       "stargazers_count": 10,
       "popularity": 1.9590800514478444,
       "percentage": 89.47368421052632,
@@ -15,6 +16,7 @@
     },
     "sw-yx/react-typescript-cheatsheet": {
       "full_name": "sw-yx/react-typescript-cheatsheet",
+      "name": "react-typescript-cheatsheet",
       "stargazers_count": 1147,
       "popularity": 4.059261597772537,
       "percentage": 40.298507462686565,
@@ -27,6 +29,7 @@
     },
     "parcel-bundler/website": {
       "full_name": "parcel-bundler/website",
+      "name": "website",
       "stargazers_count": 91,
       "popularity": 2.954763836250654,
       "percentage": 0.5,
@@ -39,6 +42,7 @@
     },
     "sw-yx/create-react-app-parcel": {
       "full_name": "sw-yx/create-react-app-parcel",
+      "name": "create-react-app-parcel",
       "stargazers_count": 225,
       "popularity": 3.3504809277466148,
       "percentage": 4.761904761904762,
@@ -51,6 +55,7 @@
     },
     "LearnInPublic/OpenSourceApps": {
       "full_name": "LearnInPublic/OpenSourceApps",
+      "name": "OpenSourceApps",
       "stargazers_count": 2,
       "popularity": 1.0414282204429401,
       "percentage": 33.333333333333336,
@@ -63,6 +68,7 @@
     },
     "gatsbyjs/gatsby": {
       "full_name": "gatsbyjs/gatsby",
+      "name": "gatsby",
       "stargazers_count": 23641,
       "popularity": 5,
       "percentage": 0.040791352233326535,
@@ -75,6 +81,7 @@
     },
     "sw-yx/gatsby": {
       "full_name": "sw-yx/gatsby",
+      "name": "gatsby",
       "stargazers_count": 5,
       "popularity": 1.6128219920330789,
       "percentage": 0.1488411652136934,
@@ -87,6 +94,7 @@
     },
     "sw-yx/swyxdotio": {
       "full_name": "sw-yx/swyxdotio",
+      "name": "swyxdotio",
       "stargazers_count": 3,
       "popularity": 1.3222565221025262,
       "percentage": 0,
@@ -99,6 +107,7 @@
     },
     "sw-yx/fresh-async-react": {
       "full_name": "sw-yx/fresh-async-react",
+      "name": "fresh-async-react",
       "stargazers_count": 189,
       "popularity": 3.2744278634238038,
       "percentage": 54.54545454545455,
@@ -111,6 +120,7 @@
     },
     "ThatOtherPerson/gatsby": {
       "full_name": "ThatOtherPerson/gatsby",
+      "name": "gatsby",
       "stargazers_count": 2,
       "popularity": 1.0414282204429401,
       "percentage": 0.04917629702483403,
@@ -123,6 +133,7 @@
     },
     "sw-yx/create-react-app-parcel-typescript": {
       "full_name": "sw-yx/create-react-app-parcel-typescript",
+      "name": "create-react-app-parcel-typescript",
       "stargazers_count": 24,
       "popularity": 2.3636508993380505,
       "percentage": 1.6666666666666667,
@@ -135,6 +146,7 @@
     },
     "parcel-bundler/examples": {
       "full_name": "parcel-bundler/examples",
+      "name": "examples",
       "stargazers_count": 65,
       "popularity": 2.8068970571940928,
       "percentage": 9.090909090909092,
@@ -147,6 +159,7 @@
     },
     "facebook/create-react-app": {
       "full_name": "facebook/create-react-app",
+      "name": "create-react-app",
       "stargazers_count": 52572,
       "popularity": 5,
       "percentage": 0.06596306068601583,
@@ -159,6 +172,7 @@
     },
     "sw-yx/awesome-dev-podcasts": {
       "full_name": "sw-yx/awesome-dev-podcasts",
+      "name": "awesome-dev-podcasts",
       "stargazers_count": 363,
       "popularity": 3.5588676026757824,
       "percentage": 63.63636363636363,
@@ -171,6 +185,7 @@
     },
     "sw-yx/react-firebase-firestore": {
       "full_name": "sw-yx/react-firebase-firestore",
+      "name": "react-firebase-firestore",
       "stargazers_count": 2,
       "popularity": 1.0414282204429401,
       "percentage": 100,
@@ -183,6 +198,7 @@
     },
     "sw-yx/react-blade": {
       "full_name": "sw-yx/react-blade",
+      "name": "react-blade",
       "stargazers_count": 15,
       "popularity": 2.149257924096549,
       "percentage": 14.285714285714286,
@@ -195,6 +211,7 @@
     },
     "sw-yx/async-react-future": {
       "full_name": "sw-yx/async-react-future",
+      "name": "async-react-future",
       "stargazers_count": 14,
       "popularity": 2.117310085935697,
       "percentage": 29.41176470588235,
@@ -207,6 +224,7 @@
     },
     "sw-yx/async-render-toolbox": {
       "full_name": "sw-yx/async-render-toolbox",
+      "name": "async-render-toolbox",
       "stargazers_count": 163,
       "popularity": 3.20982207938896,
       "percentage": 13.636363636363637,
@@ -219,6 +237,7 @@
     },
     "sw-yx/fresh": {
       "full_name": "sw-yx/fresh",
+      "name": "fresh",
       "stargazers_count": 136,
       "popularity": 3.130694408743479,
       "percentage": 92.85714285714286,
@@ -231,6 +250,7 @@
     },
     "sw-yx/phtrends": {
       "full_name": "sw-yx/phtrends",
+      "name": "phtrends",
       "stargazers_count": 2,
       "popularity": 1.0414282204429401,
       "percentage": 40,
@@ -243,6 +263,7 @@
     },
     "storybooks/storybook": {
       "full_name": "storybooks/storybook",
+      "name": "storybook",
       "stargazers_count": 26083,
       "popularity": 5,
       "percentage": 0.02483032610494951,
@@ -255,6 +276,7 @@
     },
     "sw-yx/SunburstJS": {
       "full_name": "sw-yx/SunburstJS",
+      "name": "SunburstJS",
       "stargazers_count": 4,
       "popularity": 1.49139952161816,
       "percentage": 100,
@@ -267,6 +289,7 @@
     },
     "apollographql/apollo-client": {
       "full_name": "apollographql/apollo-client",
+      "name": "apollo-client",
       "stargazers_count": 7993,
       "popularity": 4.902699997463272,
       "percentage": 0.020807324178110695,
@@ -279,6 +302,7 @@
     },
     "reactjs/reactjs.org": {
       "full_name": "reactjs/reactjs.org",
+      "name": "reactjs.org",
       "stargazers_count": 2056,
       "popularity": 4.312872046000665,
       "percentage": 0,
@@ -291,6 +315,7 @@
     },
     "sw-yx/react-contributing": {
       "full_name": "sw-yx/react-contributing",
+      "name": "react-contributing",
       "stargazers_count": 3,
       "popularity": 1.3222565221025262,
       "percentage": 3.225806451612903,
@@ -303,6 +328,7 @@
     },
     "parcel-bundler/awesome-parcel": {
       "full_name": "parcel-bundler/awesome-parcel",
+      "name": "awesome-parcel",
       "stargazers_count": 444,
       "popularity": 3.64654082986365,
       "percentage": 3.0303030303030303,
@@ -315,6 +341,7 @@
     },
     "kyleshevlin/second-career-devs-guest-list": {
       "full_name": "kyleshevlin/second-career-devs-guest-list",
+      "name": "second-career-devs-guest-list",
       "stargazers_count": 6,
       "popularity": 1.7076084983408428,
       "percentage": 2.5641025641025643,
@@ -327,6 +354,7 @@
     },
     "sw-yx/react-hero-video": {
       "full_name": "sw-yx/react-hero-video",
+      "name": "react-hero-video",
       "stargazers_count": 3,
       "popularity": 1.3222565221025262,
       "percentage": 100,
@@ -339,6 +367,7 @@
     },
     "chentsulin/awesome-graphql": {
       "full_name": "chentsulin/awesome-graphql",
+      "name": "awesome-graphql",
       "stargazers_count": 7721,
       "popularity": 4.887662014022465,
       "percentage": 0,
@@ -351,6 +380,7 @@
     },
     "facebook/react": {
       "full_name": "facebook/react",
+      "name": "react",
       "stargazers_count": 106950,
       "popularity": 5,
       "percentage": 0,
@@ -363,6 +393,7 @@
     },
     "sw-yx/FSA-GraphQL-of-Thrones": {
       "full_name": "sw-yx/FSA-GraphQL-of-Thrones",
+      "name": "FSA-GraphQL-of-Thrones",
       "stargazers_count": 7,
       "popularity": 1.7853682828948099,
       "percentage": 0.9345794392523364,
@@ -375,6 +406,7 @@
     },
     "graphql/graphiql": {
       "full_name": "graphql/graphiql",
+      "name": "graphiql",
       "stargazers_count": 6190,
       "popularity": 4.791666587857431,
       "percentage": 0.2717391304347826,
@@ -387,6 +419,7 @@
     },
     "fsaMABS/phaserAdvanceWars": {
       "full_name": "fsaMABS/phaserAdvanceWars",
+      "name": "phaserAdvanceWars",
       "stargazers_count": 3,
       "popularity": 1.3222565221025262,
       "percentage": 0,
@@ -399,6 +432,7 @@
     },
     "sw-yx/crossbones": {
       "full_name": "sw-yx/crossbones",
+      "name": "crossbones",
       "stargazers_count": 15,
       "popularity": 2.149257924096549,
       "percentage": 100,
@@ -411,6 +445,7 @@
     },
     "FSA-JEFS/Grace-Shopper": {
       "full_name": "FSA-JEFS/Grace-Shopper",
+      "name": "Grace-Shopper",
       "stargazers_count": 11,
       "popularity": 2.0043600754367907,
       "percentage": 0,
@@ -423,6 +458,7 @@
     },
     "sw-yx/swyx": {
       "full_name": "sw-yx/swyx",
+      "name": "swyx",
       "stargazers_count": 1,
       "popularity": 0,
       "percentage": 0,
@@ -435,6 +471,7 @@
     },
     "sw-yx/FSA-React-Trip-Planner": {
       "full_name": "sw-yx/FSA-React-Trip-Planner",
+      "name": "FSA-React-Trip-Planner",
       "stargazers_count": 6,
       "popularity": 1.7076084983408428,
       "percentage": 100,
@@ -447,6 +484,7 @@
     },
     "nikolas/github-drama": {
       "full_name": "nikolas/github-drama",
+      "name": "github-drama",
       "stargazers_count": 516,
       "popularity": 3.7119306309456377,
       "percentage": 0.7692307692307693,
@@ -459,6 +497,7 @@
     },
     "sw-yx/fsa-wikistack-testing": {
       "full_name": "sw-yx/fsa-wikistack-testing",
+      "name": "fsa-wikistack-testing",
       "stargazers_count": 1,
       "popularity": 0,
       "percentage": 33.333333333333336,
@@ -471,6 +510,7 @@
     },
     "sw-yx/fsa-nodeunixshell": {
       "full_name": "sw-yx/fsa-nodeunixshell",
+      "name": "fsa-nodeunixshell",
       "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
@@ -483,6 +523,7 @@
     },
     "sw-yx/packageJason": {
       "full_name": "sw-yx/packageJason",
+      "name": "packageJason",
       "stargazers_count": 3,
       "popularity": 1.3222565221025262,
       "percentage": 48.38709677419355,
@@ -495,6 +536,7 @@
     },
     "VulcanJS/vulcan-docs": {
       "full_name": "VulcanJS/vulcan-docs",
+      "name": "vulcan-docs",
       "stargazers_count": 26,
       "popularity": 2.3997126544096057,
       "percentage": 0.31545741324921134,
@@ -507,6 +549,7 @@
     },
     "sw-yx/base-fcc": {
       "full_name": "sw-yx/base-fcc",
+      "name": "base-fcc",
       "stargazers_count": 5,
       "popularity": 1.6128219920330789,
       "percentage": 8.661417322834646,
@@ -519,6 +562,7 @@
     },
     "sw-yx/vladimirponomarev-clean": {
       "full_name": "sw-yx/vladimirponomarev-clean",
+      "name": "vladimirponomarev-clean",
       "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
@@ -531,6 +575,7 @@
     },
     "arunoda/learnnextjs-content": {
       "full_name": "arunoda/learnnextjs-content",
+      "name": "learnnextjs-content",
       "stargazers_count": 76,
       "popularity": 2.875678973610975,
       "percentage": 1.5873015873015872,
@@ -543,6 +588,7 @@
     },
     "icebob/vue-express-mongo-boilerplate": {
       "full_name": "icebob/vue-express-mongo-boilerplate",
+      "name": "vue-express-mongo-boilerplate",
       "stargazers_count": 1288,
       "popularity": 4.109651375924915,
       "percentage": 0.2053388090349076,

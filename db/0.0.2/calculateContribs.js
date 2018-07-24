@@ -92,6 +92,7 @@
         const full_name = repos[repo].full_name;
         const score = contribs[filename].repos[full_name] = {
           full_name,
+          name: repos[repo].name,
           stargazers_count: repos[repo].stargazers_count,
           popularity: logarithmicScoreAscending(1, 10000, repos[repo].stargazers_count)
         };
