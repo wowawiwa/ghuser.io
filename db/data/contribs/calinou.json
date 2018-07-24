@@ -267,12 +267,12 @@
     },
     "assimp/assimp": {
       "full_name": "assimp/assimp",
-      "popularity": 4.513403203887854,
+      "popularity": 4.513802542924544,
       "percentage": 0.020938023450586266,
       "maturity": 4.677157145708946,
       "total_commits_count": 4776,
       "activity": 5,
-      "total_score": 27.9068091295577,
+      "total_score": 27.90800823364588,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -399,12 +399,12 @@
     },
     "minetest-mods/moreblocks": {
       "full_name": "minetest-mods/moreblocks",
-      "popularity": 2.3032349516115587,
+      "popularity": 2.3243213587049825,
       "percentage": 44.44444444444444,
       "maturity": 3.088450563344869,
       "total_commits_count": 162,
       "activity": 5,
-      "total_score": 31.39418570194675,
+      "total_score": 31.57927749754458,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -454,12 +454,12 @@
     },
     "c-bata/go-prompt": {
       "full_name": "c-bata/go-prompt",
-      "popularity": 4.212253333675393,
+      "popularity": 4.212519673978295,
       "percentage": 0.4132231404958678,
       "maturity": 3.307301774701013,
       "total_commits_count": 242,
       "activity": 5,
-      "total_score": 24.477641622071925,
+      "total_score": 24.478454950517563,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -531,12 +531,12 @@
     },
     "zkat/npx": {
       "full_name": "zkat/npx",
-      "popularity": 4.266529494848296,
+      "popularity": 4.26723428968655,
       "percentage": 0.373134328358209,
       "maturity": 3.3598608441960054,
       "total_commits_count": 268,
-      "activity": 3.193983071930433,
-      "total_score": 22.920251765139824,
+      "activity": 3.0688560942063763,
+      "total_score": 22.797273359739847,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -795,12 +795,12 @@
     },
     "RandyGaul/cute_headers": {
       "full_name": "RandyGaul/cute_headers",
-      "popularity": 4.183052549170615,
+      "popularity": 4.182767504211268,
       "percentage": 0.6097560975609756,
       "maturity": 3.095506703770788,
       "total_commits_count": 164,
       "activity": 5,
-      "total_score": 24.07175448882914,
+      "total_score": 24.070876758923834,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -894,12 +894,12 @@
     },
     "alecthomas/chroma": {
       "full_name": "alecthomas/chroma",
-      "popularity": 4.1455773215697915,
+      "popularity": 4.145266578507951,
       "percentage": 0.5319148936170213,
       "maturity": 3.1722902070738215,
       "total_commits_count": 188,
       "activity": 5,
-      "total_score": 24.067974640454928,
+      "total_score": 24.06702092371726,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -1587,12 +1587,12 @@
     },
     "minetest/minetest_game": {
       "full_name": "minetest/minetest_game",
-      "popularity": 3.804246687600188,
+      "popularity": 3.8049278271501525,
       "percentage": 0.6216696269982238,
       "maturity": 4.037605972757154,
       "total_commits_count": 1126,
       "activity": 5,
-      "total_score": 24.795400008822526,
+      "total_score": 24.797498475162513,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -1730,12 +1730,12 @@
     },
     "crosswalk-project/crosswalk": {
       "full_name": "crosswalk-project/crosswalk",
-      "popularity": 4.310328710536256,
+      "popularity": 4.310541224967888,
       "percentage": 0.04591368227731864,
       "maturity": 4.331764251080012,
       "total_commits_count": 2178,
       "activity": 5,
-      "total_score": 26.620242031949218,
+      "total_score": 26.620880843695726,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -2247,12 +2247,12 @@
     },
     "stujones11/minetest-3d_armor": {
       "full_name": "stujones11/minetest-3d_armor",
-      "popularity": 2.6243210916459527,
+      "popularity": 2.634516268125146,
       "percentage": 0.3875968992248062,
       "maturity": 3.3403911896658194,
       "total_commits_count": 258,
       "activity": 5,
-      "total_score": 19.685978887569487,
+      "total_score": 19.717078127449817,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

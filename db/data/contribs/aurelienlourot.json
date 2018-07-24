@@ -267,12 +267,12 @@
     },
     "jfrog/artifactory-user-plugins": {
       "full_name": "jfrog/artifactory-user-plugins",
-      "popularity": 3.1705941207822503,
+      "popularity": 3.1735167058910467,
       "percentage": 0.12345679012345678,
       "maturity": 3.888283216984283,
       "total_commits_count": 810,
       "activity": 5,
-      "total_score": 22.339234874797008,
+      "total_score": 22.34804953581033,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

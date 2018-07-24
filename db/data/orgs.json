@@ -2957,6 +2957,76 @@
       "created_at": "2017-10-15T06:01:27Z",
       "updated_at": "2017-10-18T16:18:47Z",
       "type": "Organization"
+    },
+    "duckduckgo": {
+      "login": "duckduckgo",
+      "url": "https://api.github.com/orgs/duckduckgo",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/342708?v=4",
+      "name": "DuckDuckGo",
+      "html_url": "https://github.com/duckduckgo",
+      "created_at": "2010-07-24T11:04:12Z",
+      "updated_at": "2018-07-13T14:23:55Z",
+      "type": "Organization"
+    },
+    "iiitv": {
+      "login": "iiitv",
+      "url": "https://api.github.com/orgs/iiitv",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/9347727?v=4",
+      "name": "IIIT Vadodara",
+      "html_url": "https://github.com/iiitv",
+      "created_at": "2014-10-22T07:17:32Z",
+      "updated_at": "2016-12-02T15:22:04Z",
+      "type": "Organization"
+    },
+    "Kinto": {
+      "login": "Kinto",
+      "url": "https://api.github.com/orgs/Kinto",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/13413813?v=4",
+      "name": "Kinto",
+      "html_url": "https://github.com/Kinto",
+      "created_at": "2015-07-20T07:33:20Z",
+      "updated_at": "2017-07-07T09:38:03Z",
+      "type": "Organization"
+    },
+    "campus-experts": {
+      "login": "campus-experts",
+      "url": "https://api.github.com/orgs/campus-experts",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/21289761?v=4",
+      "name": "GitHub Campus Experts",
+      "html_url": "https://github.com/campus-experts",
+      "created_at": "2016-08-28T09:43:31Z",
+      "updated_at": "2018-07-02T04:24:42Z",
+      "type": "Organization"
+    },
+    "taskcluster": {
+      "login": "taskcluster",
+      "url": "https://api.github.com/orgs/taskcluster",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/6257436?v=4",
+      "name": "Taskcluster Platform",
+      "html_url": "https://github.com/taskcluster",
+      "created_at": "2013-12-25T05:23:29Z",
+      "updated_at": "2018-07-03T15:28:04Z",
+      "type": "Organization"
+    },
+    "kubernetes": {
+      "login": "kubernetes",
+      "url": "https://api.github.com/orgs/kubernetes",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/13629408?v=4",
+      "name": "Kubernetes",
+      "html_url": "https://github.com/kubernetes",
+      "created_at": "2015-08-03T17:55:43Z",
+      "updated_at": "2018-07-19T21:25:07Z",
+      "type": "Organization"
+    },
+    "freedombox": {
+      "login": "freedombox",
+      "url": "https://api.github.com/orgs/freedombox",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/5255604?v=4",
+      "name": "FreedomBox",
+      "html_url": "https://github.com/freedombox",
+      "created_at": "2013-08-18T15:01:42Z",
+      "updated_at": "2017-02-05T15:57:26Z",
+      "type": "Organization"
     }
   }
 }

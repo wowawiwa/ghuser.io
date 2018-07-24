@@ -564,12 +564,12 @@
     },
     "koding/koding": {
       "full_name": "koding/koding",
-      "popularity": 3.8657943074002605,
+      "popularity": 3.866385506085654,
       "percentage": 0.014389639459589095,
       "maturity": 5,
       "total_commits_count": 62545,
-      "activity": 2.461289134435288,
-      "total_score": 24.065903616856165,
+      "activity": 2.4352493927892556,
+      "total_score": 24.041638577193982,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -619,12 +619,12 @@
     },
     "cloudflare/hellogopher": {
       "full_name": "cloudflare/hellogopher",
-      "popularity": 4.0577432167649325,
+      "popularity": 4.057362790597188,
       "percentage": 0,
       "maturity": 1.614477908582291,
       "total_commits_count": 44,
-      "activity": 1.5505855255914511,
-      "total_score": 16.95277099305083,
+      "activity": 1.5473017380011238,
+      "total_score": 16.94834592695727,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -718,12 +718,12 @@
     },
     "jmdugan/blocklists": {
       "full_name": "jmdugan/blocklists",
-      "popularity": 4.507233572869725,
+      "popularity": 4.507098472239282,
       "percentage": 3.7037037037037037,
       "maturity": 0,
       "total_commits_count": 27,
-      "activity": 2.334992483418625,
-      "total_score": 18.026842700076187,
+      "activity": 2.2468912572669275,
+      "total_score": 17.938271123581465,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -773,12 +773,12 @@
     },
     "bhrigu123/classifier": {
       "full_name": "bhrigu123/classifier",
-      "popularity": 3.9064280049572155,
+      "popularity": 3.906966431119348,
       "percentage": 1.3157894736842106,
       "maturity": 2.559238720343991,
       "total_commits_count": 76,
-      "activity": 1.3164207560191006,
-      "total_score": 18.82238700190036,
+      "activity": 1.3060114213509921,
+      "total_score": 18.81368504493059,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
