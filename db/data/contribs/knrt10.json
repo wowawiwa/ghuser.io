@@ -15,11 +15,11 @@
     "p-society/p-society.github.io": {
       "full_name": "p-society/p-society.github.io",
       "popularity": 2.206864721909315,
-      "percentage": 63.1578947368421,
-      "maturity": 2.559238720343991,
-      "total_commits_count": 76,
+      "percentage": 62.33766233766234,
+      "maturity": 2.5711055574387496,
+      "total_commits_count": 77,
       "activity": 5,
-      "total_score": 34.85859248103978,
+      "total_score": 34.6470077023121,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -80,12 +80,12 @@
     },
     "probot/probot": {
       "full_name": "probot/probot",
-      "popularity": 4.464394480522345,
+      "popularity": 4.4648415002042094,
       "percentage": 0.23781212841854935,
       "maturity": 3.905422834037102,
       "total_commits_count": 841,
       "activity": 5,
-      "total_score": 26.342048439597935,
+      "total_score": 26.34340331851479,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

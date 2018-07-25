@@ -1,14 +1,25 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
   "repos": {
+    "sr6033/quine": {
+      "full_name": "sr6033/quine",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 23,
+      "activity": 5,
+      "total_score": 5,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
     "matiassingers/awesome-readme": {
       "full_name": "matiassingers/awesome-readme",
-      "popularity": 4.4548991854259015,
+      "popularity": 4.455203835912439,
       "percentage": 1.36986301369863,
       "maturity": 2.5215590771505747,
       "total_commits_count": 73,
       "activity": 5,
-      "total_score": 24.201153921682096,
+      "total_score": 24.202122125968078,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -23,36 +34,58 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
+    "sr6033/news_kabada": {
+      "full_name": "sr6033/news_kabada",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 11,
+      "activity": 5,
+      "total_score": 5,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
     "p-society/p-society.github.io": {
       "full_name": "p-society/p-society.github.io",
       "popularity": 2.206864721909315,
-      "percentage": 11.842105263157896,
-      "maturity": 2.559238720343991,
-      "total_commits_count": 76,
+      "percentage": 11.688311688311689,
+      "maturity": 2.5711055574387496,
+      "total_commits_count": 77,
       "activity": 5,
-      "total_score": 20.136481770407897,
+      "total_score": 20.116093234675443,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sr6033/advaita.io": {
+      "full_name": "sr6033/advaita.io",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 4,
+      "activity": 5,
+      "total_score": 5,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "django/channels": {
       "full_name": "django/channels",
-      "popularity": 4.497120850218384,
+      "popularity": 4.497397286040166,
       "percentage": 0.10256410256410256,
       "maturity": 3.9725941902942514,
       "total_commits_count": 975,
       "activity": 5,
-      "total_score": 26.4965125425799,
+      "total_score": 26.497345535856205,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "sr6033/locale.js": {
       "full_name": "sr6033/locale.js",
-      "popularity": 1.0414282204429401,
+      "popularity": 1.3222565221025262,
       "percentage": 100,
       "maturity": 0,
       "total_commits_count": 6,
-      "activity": 1.981361822420312,
-      "total_score": 18.644213349507353,
+      "activity": 1.9746667090306378,
+      "total_score": 23.13077106267106,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -64,6 +97,39 @@
       "total_commits_count": 3,
       "activity": 1.7922049652902308,
       "total_score": 1.7922049652902308,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sr6033/Deep-learning-model-for-stock-price-prediction": {
+      "full_name": "sr6033/Deep-learning-model-for-stock-price-prediction",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 4,
+      "activity": 1.492846769745353,
+      "total_score": 1.492846769745353,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sr6033/brownian-motion": {
+      "full_name": "sr6033/brownian-motion",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 4,
+      "activity": 1.492893592517055,
+      "total_score": 1.492893592517055,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sr6033/sr6033.github.io": {
+      "full_name": "sr6033/sr6033.github.io",
+      "popularity": 0,
+      "percentage": 92.85714285714286,
+      "maturity": 0,
+      "total_commits_count": 14,
+      "activity": 5,
+      "total_score": 5,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -80,34 +146,34 @@
     },
     "sr6033/dataStructure-Algorithms": {
       "full_name": "sr6033/dataStructure-Algorithms",
-      "popularity": 1.49139952161816,
+      "popularity": 1.6128219920330789,
       "percentage": 13.20754716981132,
       "maturity": 2.118994386183839,
       "total_commits_count": 53,
-      "activity": 1.3772176527817184,
-      "total_score": 12.650109829008642,
+      "activity": 1.3621318067073291,
+      "total_score": 13.207771484891417,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "sr6033/cryptography": {
       "full_name": "sr6033/cryptography",
-      "popularity": 1.0414282204429401,
+      "popularity": 1.3222565221025262,
       "percentage": 31.818181818181817,
       "maturity": 0,
       "total_commits_count": 22,
-      "activity": 1.3265278932573388,
-      "total_score": 8.75853837550923,
+      "activity": 1.3130785022372118,
+      "total_score": 10.74918186451433,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "sr6033/lterm": {
       "full_name": "sr6033/lterm",
-      "popularity": 2.0043600754367907,
+      "popularity": 2.0828241359374196,
       "percentage": 59.701492537313435,
       "maturity": 2.4346992151481284,
       "total_commits_count": 67,
-      "activity": 1.314298907677856,
-      "total_score": 27.753005015435697,
+      "activity": 1.3128490620785631,
+      "total_score": 28.595922149253617,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -146,12 +212,12 @@
     },
     "sr6033/text-mining": {
       "full_name": "sr6033/text-mining",
-      "popularity": 0,
+      "popularity": 1.0414282204429401,
       "percentage": 100,
       "maturity": 0,
       "total_commits_count": 3,
-      "activity": 1.2315525312933904,
-      "total_score": 1.2315525312933904,
+      "activity": 1.2303538574515511,
+      "total_score": 17.893205384538593,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -188,14 +254,69 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "sr6033/node-web-scrape": {
-      "full_name": "sr6033/node-web-scrape",
+    "sr6033/CodingHackathons": {
+      "full_name": "sr6033/CodingHackathons",
+      "popularity": 0,
+      "percentage": 15.384615384615385,
+      "maturity": 0,
+      "total_commits_count": 26,
+      "activity": 1.139654245128523,
+      "total_score": 1.139654245128523,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sr6033/cputemp": {
+      "full_name": "sr6033/cputemp",
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
+      "total_commits_count": 8,
+      "activity": 1.0973118661942491,
+      "total_score": 1.0973118661942491,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sr6033/mhrd_grantScheme": {
+      "full_name": "sr6033/mhrd_grantScheme",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 3,
+      "activity": 1.0322917479663878,
+      "total_score": 1.0322917479663878,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sr6033/miniflix": {
+      "full_name": "sr6033/miniflix",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 8,
+      "activity": 1.0085979159262775,
+      "total_score": 1.0085979159262775,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sr6033/goPlay": {
+      "full_name": "sr6033/goPlay",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 9,
+      "activity": 1.0082845590946135,
+      "total_score": 1.0082845590946135,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sr6033/node-web-scrape": {
+      "full_name": "sr6033/node-web-scrape",
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
       "total_commits_count": 2,
-      "activity": 1.1415662894199032,
-      "total_score": 1.1415662894199032,
+      "activity": 1.1405916883826621,
+      "total_score": 17.803443215469706,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -207,6 +328,17 @@
       "total_commits_count": 6,
       "activity": 0.6032512944419688,
       "total_score": 0.6032512944419688,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sr6033/challenges": {
+      "full_name": "sr6033/challenges",
+      "popularity": 0,
+      "percentage": 0.8547008547008547,
+      "maturity": 2.8887884491162428,
+      "total_commits_count": 117,
+      "activity": 1.1418827417524975,
+      "total_score": 6.919459639984983,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

@@ -47,12 +47,12 @@
     },
     "AurelienLourot/ghuser.io": {
       "full_name": "AurelienLourot/ghuser.io",
-      "popularity": 2.416679446233313,
-      "percentage": 98.46743295019157,
-      "maturity": 3.3463242774463398,
-      "total_commits_count": 261,
+      "popularity": 2.4487452694590637,
+      "percentage": 98.47908745247149,
+      "maturity": 3.350235112177397,
+      "total_commits_count": 263,
       "activity": 5,
-      "total_score": 49.87803566702365,
+      "total_score": 50.396231972917036,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -334,11 +334,11 @@
     "reframejs/reframe": {
       "full_name": "reframejs/reframe",
       "popularity": 3.0418263721237575,
-      "percentage": 0.5869797225186766,
-      "maturity": 4.265159234997435,
-      "total_commits_count": 1874,
+      "percentage": 0.5866666666666667,
+      "maturity": 4.265395959398999,
+      "total_commits_count": 1875,
       "activity": 5,
-      "total_score": 22.88791133834784,
+      "total_score": 22.88826099314991,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

@@ -397,14 +397,14 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "jamesgeorge007/timer": {
-      "full_name": "jamesgeorge007/timer",
+    "jamesgeorge007/Timer-App": {
+      "full_name": "jamesgeorge007/Timer-App",
       "popularity": 1.49139952161816,
       "percentage": 100,
       "maturity": 0,
-      "total_commits_count": 4,
-      "activity": 2.0018449012230213,
-      "total_score": 25.86423724711358,
+      "total_commits_count": 10,
+      "activity": 5,
+      "total_score": 28.86239234589056,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
