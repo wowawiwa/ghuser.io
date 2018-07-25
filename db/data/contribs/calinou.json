@@ -927,12 +927,12 @@
     },
     "zyedidia/micro": {
       "full_name": "zyedidia/micro",
-      "popularity": 4.978817433028709,
+      "popularity": 4.978863034952637,
       "percentage": 0.30257186081694404,
       "maturity": 4.109658083638681,
       "total_commits_count": 1322,
       "activity": 5,
-      "total_score": 28.351606973562802,
+      "total_score": 28.351745573056256,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -1917,12 +1917,12 @@
     },
     "JoelBesada/pasteboard": {
       "full_name": "JoelBesada/pasteboard",
-      "popularity": 3.774629032349946,
+      "popularity": 3.7753582039256477,
       "percentage": 0,
       "maturity": 3.3636521841911384,
       "total_commits_count": 270,
-      "activity": 0.8523081938220196,
-      "total_score": 18.903499659254134,
+      "activity": 0.8480011239600778,
+      "total_score": 18.901380104119298,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

@@ -3,12 +3,12 @@
   "repos": {
     "okgrow/react-native-copilot": {
       "full_name": "okgrow/react-native-copilot",
-      "popularity": 3.6043731520354947,
+      "popularity": 3.6054518771097497,
       "percentage": 1.4492753623188406,
       "maturity": 2.46562335273591,
       "total_commits_count": 69,
       "activity": 5,
-      "total_score": 21.423450958338616,
+      "total_score": 21.42689037161885,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -5041,12 +5041,12 @@
     },
     "thlorenz/doctoc": {
       "full_name": "thlorenz/doctoc",
-      "popularity": 4.294968019764847,
+      "popularity": 4.295188183251203,
       "percentage": 0.7407407407407407,
       "maturity": 2.979915013406333,
       "total_commits_count": 135,
       "activity": 5,
-      "total_score": 24.258323599121603,
+      "total_score": 24.25900529050898,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -6064,12 +6064,12 @@
     },
     "yannickcr/eslint-plugin-react": {
       "full_name": "yannickcr/eslint-plugin-react",
-      "popularity": 4.633416634964625,
+      "popularity": 4.633517643078117,
       "percentage": 0.05307855626326964,
       "maturity": 4.267520692482905,
       "total_commits_count": 1884,
       "activity": 5,
-      "total_score": 27.467262848381203,
+      "total_score": 27.46756656969911,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -6527,11 +6527,11 @@
     "hypothesis/h": {
       "full_name": "hypothesis/h",
       "popularity": 4.069374120111281,
-      "percentage": 0.06626277925028398,
+      "percentage": 0.06625023660798789,
       "maturity": 5,
-      "total_commits_count": 10564,
+      "total_commits_count": 10566,
       "activity": 5,
-      "total_score": 27.243176605404848,
+      "total_score": 27.243169970113335,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
