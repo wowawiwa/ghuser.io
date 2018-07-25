@@ -3,12 +3,12 @@
   "repos": {
     "wei/pull": {
       "full_name": "wei/pull",
-      "popularity": 2.478605454390306,
+      "popularity": 2.492799351998761,
       "percentage": 79.03225806451613,
       "maturity": 2.34612075126341,
       "total_commits_count": 62,
       "activity": 5,
-      "total_score": 42.593730034191694,
+      "total_score": 42.78214257825231,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -36,12 +36,12 @@
     },
     "amio/badgen": {
       "full_name": "amio/badgen",
-      "popularity": 3.3840338619500683,
-      "percentage": 0.7936507936507936,
-      "maturity": 2.936737457454448,
-      "total_commits_count": 126,
+      "popularity": 3.385824031418084,
+      "percentage": 0.78125,
+      "maturity": 2.9467102601021384,
+      "total_commits_count": 128,
       "activity": 5,
-      "total_score": 21.37472285159522,
+      "total_score": 21.394765367649427,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -58,12 +58,12 @@
     },
     "probot/probot": {
       "full_name": "probot/probot",
-      "popularity": 4.463947000248611,
+      "popularity": 4.464394480522345,
       "percentage": 0.11890606420927467,
       "maturity": 3.905422834037102,
       "total_commits_count": 841,
       "activity": 5,
-      "total_score": 26.271689416743023,
+      "total_score": 26.273038774619586,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

@@ -36,12 +36,12 @@
     },
     "django/channels": {
       "full_name": "django/channels",
-      "popularity": 4.496844238328426,
+      "popularity": 4.497120850218384,
       "percentage": 0.10256410256410256,
       "maturity": 3.9725941902942514,
       "total_commits_count": 975,
       "activity": 5,
-      "total_score": 26.495679018751492,
+      "total_score": 26.4965125425799,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

@@ -36,12 +36,12 @@
     },
     "PrismJS/prism": {
       "full_name": "PrismJS/prism",
-      "popularity": 4.743086090430955,
+      "popularity": 4.743164559423076,
       "percentage": 0.041631973355537054,
       "maturity": 4.375034524863965,
       "total_commits_count": 2402,
       "activity": 5,
-      "total_score": 28.004997645406974,
+      "total_score": 28.005233477069808,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -135,12 +135,12 @@
     },
     "pmorissette/ffn": {
       "full_name": "pmorissette/ffn",
-      "popularity": 3.4787498311846665,
+      "popularity": 3.4801898009881578,
       "percentage": 1.1235955056179776,
       "maturity": 2.6928142814876193,
       "total_commits_count": 89,
       "activity": 5,
-      "total_score": 21.33001005434273,
+      "total_score": 21.334540296421128,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -344,12 +344,12 @@
     },
     "brandon-rhodes/python-adventure": {
       "full_name": "brandon-rhodes/python-adventure",
-      "popularity": 2.5453460937604104,
+      "popularity": 2.5575461822849728,
       "percentage": 99.24812030075188,
       "maturity": 2.9706841383064435,
       "total_commits_count": 133,
-      "activity": 0.676967966975468,
-      "total_score": 47.09508051654525,
+      "activity": 0.6740996036510891,
+      "total_score": 47.286221079758086,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -381,8 +381,8 @@
       "percentage": 4.516806722689076,
       "maturity": 4.451384329661518,
       "total_commits_count": 2856,
-      "activity": 1.210605618017012,
-      "total_score": 28.04929864708795,
+      "activity": 1.2100884234679667,
+      "total_score": 28.048781452538904,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -641,12 +641,12 @@
     },
     "urllib3/urllib3": {
       "full_name": "urllib3/urllib3",
-      "popularity": 4.219911649620904,
+      "popularity": 4.219649805597381,
       "percentage": 0.32810791104629966,
       "maturity": 4.43359836703362,
       "total_commits_count": 2743,
       "activity": 5,
-      "total_score": 26.706927914430374,
+      "total_score": 26.70613121365738,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

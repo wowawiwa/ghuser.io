@@ -3,12 +3,12 @@
   "repos": {
     "databricks/mlflow": {
       "full_name": "databricks/mlflow",
-      "popularity": 4.256058899865635,
-      "percentage": 0.8771929824561403,
-      "maturity": 2.871552188050665,
-      "total_commits_count": 114,
+      "popularity": 4.256540352699233,
+      "percentage": 0.8695652173913043,
+      "maturity": 2.877373948214582,
+      "total_commits_count": 115,
       "activity": 5,
-      "total_score": 23.996621125682914,
+      "total_score": 24.00554308135373,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -138,7 +138,7 @@
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,
-      "total_commits_count": 18476,
+      "total_commits_count": 18480,
       "activity": 5,
       "total_score": 30,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
@@ -300,12 +300,12 @@
     },
     "yhat/db.py": {
       "full_name": "yhat/db.py",
-      "popularity": 4.072693302679744,
+      "popularity": 4.073060539709243,
       "percentage": 0.5586592178770949,
       "maturity": 3.1450622028399184,
       "total_commits_count": 179,
-      "activity": 1.2206210957193369,
-      "total_score": 20.02460760460509,
+      "activity": 1.2186417440519781,
+      "total_score": 20.02375663487195,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

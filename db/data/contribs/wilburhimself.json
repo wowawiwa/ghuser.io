@@ -91,12 +91,12 @@
     },
     "cdnjs/cdnjs": {
       "full_name": "cdnjs/cdnjs",
-      "popularity": 4.81342656900106,
+      "popularity": 4.813560031758524,
       "percentage": 0,
       "maturity": 5,
-      "total_commits_count": 53644,
+      "total_commits_count": 53648,
       "activity": 5,
-      "total_score": 29.44027970700318,
+      "total_score": 29.44068009527557,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

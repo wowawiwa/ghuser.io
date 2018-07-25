@@ -47,12 +47,12 @@
     },
     "pmd/pmd": {
       "full_name": "pmd/pmd",
-      "popularity": 4.2240798249475615,
+      "popularity": 4.224339012401086,
       "percentage": 0.01552553951249806,
       "maturity": 4.807990903472551,
       "total_commits_count": 6441,
       "activity": 5,
-      "total_score": 27.29674682715719,
+      "total_score": 27.29752491264102,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

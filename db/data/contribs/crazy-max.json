@@ -80,12 +80,12 @@
     },
     "crazy-max/docker-jetbrains-license-server": {
       "full_name": "crazy-max/docker-jetbrains-license-server",
-      "popularity": 2.634516268125146,
+      "popularity": 2.64447758948869,
       "percentage": 96.875,
       "maturity": 0,
       "total_commits_count": 32,
       "activity": 5,
-      "total_score": 46.0819880560765,
+      "total_score": 46.23732241108926,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -179,12 +179,12 @@
     },
     "portapps/intellij-idea-ultimate-portable": {
       "full_name": "portapps/intellij-idea-ultimate-portable",
-      "popularity": 1.8512968868523627,
+      "popularity": 1.9085236249774054,
       "percentage": 100,
       "maturity": 0,
       "total_commits_count": 14,
       "activity": 5,
-      "total_score": 34.6207501896378,
+      "total_score": 35.53637799963849,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -619,12 +619,12 @@
     },
     "StevenBlack/hosts": {
       "full_name": "StevenBlack/hosts",
-      "popularity": 4.993567899587202,
+      "popularity": 4.9936560534644165,
       "percentage": 0.33195020746887965,
       "maturity": 4.068099372138315,
       "total_commits_count": 1205,
       "activity": 5,
-      "total_score": 28.332392510074364,
+      "total_score": 28.332660775856723,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -641,12 +641,12 @@
     },
     "pi-hole/pi-hole": {
       "full_name": "pi-hole/pi-hole",
-      "popularity": 4.9688534684419485,
+      "popularity": 4.96894678383048,
       "percentage": 0.13799448022079117,
       "maturity": 4.330951003217213,
       "total_commits_count": 2174,
       "activity": 5,
-      "total_score": 28.65760007747749,
+      "total_score": 28.657881697654197,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

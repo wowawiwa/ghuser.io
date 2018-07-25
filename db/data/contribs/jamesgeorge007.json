@@ -59,9 +59,9 @@
     "mad-hacks/madhacks-webapp": {
       "full_name": "mad-hacks/madhacks-webapp",
       "popularity": 0,
-      "percentage": 78.78787878787878,
+      "percentage": 66.66666666666667,
       "maturity": 0,
-      "total_commits_count": 33,
+      "total_commits_count": 39,
       "activity": 5,
       "total_score": 5,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
@@ -685,12 +685,12 @@
     },
     "Anupam-dagar/awesome-first-timers": {
       "full_name": "Anupam-dagar/awesome-first-timers",
-      "popularity": 3.458072267535396,
+      "popularity": 3.4565569327965666,
       "percentage": 2.857142857142857,
       "maturity": 3.132390384985706,
       "total_commits_count": 175,
-      "activity": 2.6641475050101953,
-      "total_score": 20.58757191981523,
+      "activity": 2.4484107596333313,
+      "total_score": 20.366726331604596,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

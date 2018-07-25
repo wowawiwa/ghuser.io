@@ -36,12 +36,12 @@
     },
     "fossasia/2018.fossasia.org": {
       "full_name": "fossasia/2018.fossasia.org",
-      "popularity": 3.6108056738487706,
+      "popularity": 3.6097401814313725,
       "percentage": 0,
       "maturity": 3.507021451406386,
       "total_commits_count": 360,
-      "activity": 2.0213228144077617,
-      "total_score": 19.867782738766845,
+      "activity": 1.961974045257779,
+      "total_score": 19.805237492364668,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -58,12 +58,12 @@
     },
     "websemantics/awesome-ant-design": {
       "full_name": "websemantics/awesome-ant-design",
-      "popularity": 4.077079783722399,
+      "popularity": 4.077443331780775,
       "percentage": 1.3157894736842106,
       "maturity": 2.559238720343991,
       "total_commits_count": 76,
       "activity": 5,
-      "total_score": 23.047112018018222,
+      "total_score": 23.048264848045438,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
