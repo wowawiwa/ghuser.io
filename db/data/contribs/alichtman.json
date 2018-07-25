@@ -3,12 +3,12 @@
   "repos": {
     "shobrook/saplings": {
       "full_name": "shobrook/saplings",
-      "popularity": 0,
+      "popularity": 1.0414282204429401,
       "percentage": 5,
       "maturity": 2.3049237547889083,
       "total_commits_count": 60,
       "activity": 5,
-      "total_score": 9.609847509577817,
+      "total_score": 13.41106051419455,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -58,12 +58,12 @@
     },
     "selfagency/microsoft-drop-ice": {
       "full_name": "selfagency/microsoft-drop-ice",
-      "popularity": 3.7243968855062057,
+      "popularity": 3.7252153827127996,
       "percentage": 0.2898550724637681,
       "maturity": 3.8147162180975105,
       "total_commits_count": 690,
       "activity": 5,
-      "total_score": 23.94296268550083,
+      "total_score": 23.94544901904434,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -179,12 +179,12 @@
     },
     "sb2nov/mac-setup": {
       "full_name": "sb2nov/mac-setup",
-      "popularity": 4.6993650677533205,
+      "popularity": 4.6995386085371065,
       "percentage": 0.3048780487804878,
       "maturity": 3.461278975413779,
       "total_commits_count": 328,
-      "activity": 2.375960802371247,
-      "total_score": 23.582869279266063,
+      "activity": 2.364774507455067,
+      "total_score": 23.57221048484206,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -223,12 +223,12 @@
     },
     "agarrharr/awesome-cli-apps": {
       "full_name": "agarrharr/awesome-cli-apps",
-      "popularity": 4.399037483592798,
-      "percentage": 1.4388489208633093,
-      "maturity": 2.9978082245019047,
-      "total_commits_count": 139,
+      "popularity": 4.399383935275215,
+      "percentage": 1.4285714285714286,
+      "maturity": 3.002168664964446,
+      "total_commits_count": 140,
       "activity": 5,
-      "total_score": 25.01557044347582,
+      "total_score": 25.01951758087708,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -322,12 +322,12 @@
     },
     "enaqx/awesome-pentest": {
       "full_name": "enaqx/awesome-pentest",
-      "popularity": 4.862116773858414,
-      "percentage": 0.3367003367003367,
-      "maturity": 3.4118377212527617,
-      "total_commits_count": 297,
+      "popularity": 4.862295726618592,
+      "percentage": 0.33222591362126247,
+      "maturity": 3.4185425267583973,
+      "total_commits_count": 301,
       "activity": 5,
-      "total_score": 26.622845690209246,
+      "total_score": 26.63397171658201,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -355,12 +355,12 @@
     },
     "FabioBaroni/awesome-exploit-development": {
       "full_name": "FabioBaroni/awesome-exploit-development",
-      "popularity": 3.697355622538459,
+      "popularity": 3.6964828439292887,
       "percentage": 0,
       "maturity": 0,
       "total_commits_count": 8,
-      "activity": 1.598731550449711,
-      "total_score": 12.690798418065087,
+      "activity": 1.5961509979950086,
+      "total_score": 12.685599529782875,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

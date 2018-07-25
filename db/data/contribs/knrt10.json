@@ -80,12 +80,12 @@
     },
     "probot/probot": {
       "full_name": "probot/probot",
-      "popularity": 4.463349641764765,
+      "popularity": 4.463947000248611,
       "percentage": 0.23781212841854935,
       "maturity": 3.905422834037102,
       "total_commits_count": 841,
       "activity": 5,
-      "total_score": 26.33888162153245,
+      "total_score": 26.34069216466601,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -157,23 +157,23 @@
     },
     "probot/settings": {
       "full_name": "probot/settings",
-      "popularity": 3.3406814483742275,
+      "popularity": 3.3426591134479233,
       "percentage": 0,
       "maturity": 2.91075503612971,
       "total_commits_count": 121,
       "activity": 5,
-      "total_score": 20.8435544173821,
+      "total_score": 20.84948741260319,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "probot/unfurl": {
       "full_name": "probot/unfurl",
-      "popularity": 2.506543999292103,
+      "popularity": 2.5198669643416824,
       "percentage": 0,
       "maturity": 0,
       "total_commits_count": 35,
       "activity": 5,
-      "total_score": 12.51963199787631,
+      "total_score": 12.559600893025047,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -201,12 +201,12 @@
     },
     "knrt10/IssueTracker": {
       "full_name": "knrt10/IssueTracker",
-      "popularity": 1.6128219920330789,
+      "popularity": 1.7076084983408428,
       "percentage": 100,
       "maturity": 0,
       "total_commits_count": 8,
-      "activity": 1.4539226472395743,
-      "total_score": 27.259074519768838,
+      "activity": 1.452568779770763,
+      "total_score": 28.77430475322425,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
