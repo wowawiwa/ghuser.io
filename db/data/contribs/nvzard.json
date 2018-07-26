@@ -47,12 +47,12 @@
     },
     "omegaup/omegaup": {
       "full_name": "omegaup/omegaup",
-      "popularity": 2.800068385953039,
+      "popularity": 2.7931306258879904,
       "percentage": 0,
       "maturity": 4.558653586435095,
       "total_commits_count": 3645,
       "activity": 5,
-      "total_score": 22.517512330729303,
+      "total_score": 22.49669905053416,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -80,12 +80,12 @@
     },
     "coala/coala": {
       "full_name": "coala/coala",
-      "popularity": 4.361596948393701,
+      "popularity": 4.36254041088588,
       "percentage": 0.09950248756218906,
       "maturity": 4.6016302589301175,
       "total_commits_count": 4020,
       "activity": 5,
-      "total_score": 27.344470030035485,
+      "total_score": 27.347312621504457,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -147,11 +147,11 @@
     "sendgrid/docs": {
       "full_name": "sendgrid/docs",
       "popularity": 3.049644666380365,
-      "percentage": 0.009919650828290844,
+      "percentage": 0.00991571641051066,
       "maturity": 5,
-      "total_commits_count": 10081,
+      "total_commits_count": 10085,
       "activity": 5,
-      "total_score": 24.152866682472407,
+      "total_score": 24.152865122657502,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

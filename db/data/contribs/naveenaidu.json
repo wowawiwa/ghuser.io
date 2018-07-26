@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "coala/projects": {
+      "full_name": "coala/projects",
+      "popularity": 2.7490018802358214,
+      "percentage": 0.25906735751295334,
+      "maturity": 3.5409374172239443,
+      "total_commits_count": 386,
+      "activity": 5,
+      "total_score": 20.42146344003376,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "coala/documentation": {
+      "full_name": "coala/documentation",
+      "popularity": 2.506543999292103,
+      "percentage": 0.42016806722689076,
+      "maturity": 3.2986199194112844,
+      "total_commits_count": 238,
+      "activity": 5,
+      "total_score": 19.2537839038871,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "coala/coala": {
+      "full_name": "coala/coala",
+      "popularity": 4.36254041088588,
+      "percentage": 0.024875621890547265,
+      "maturity": 4.6016302589301175,
+      "total_commits_count": 4020,
+      "activity": 5,
+      "total_score": 27.304989468264523,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "coala"
+  ]
+}
