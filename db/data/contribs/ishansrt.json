@@ -58,12 +58,12 @@
     },
     "coala/coala": {
       "full_name": "coala/coala",
-      "popularity": 4.36254041088588,
-      "percentage": 0.07462686567164178,
-      "maturity": 4.6016302589301175,
-      "total_commits_count": 4020,
+      "popularity": 4.362917222747269,
+      "percentage": 0.07457121551081283,
+      "maturity": 4.601957485079885,
+      "total_commits_count": 4023,
       "activity": 5,
-      "total_score": 27.33320490375781,
+      "total_score": 27.33496188366311,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

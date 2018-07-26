@@ -4,11 +4,11 @@
     "skyfielders/python-skyfield": {
       "full_name": "skyfielders/python-skyfield",
       "popularity": 3.373135059176772,
-      "percentage": 94.89402697495183,
-      "maturity": 4.000910200583117,
-      "total_commits_count": 1038,
+      "percentage": 94.89894128970164,
+      "maturity": 4.001345104139822,
+      "total_commits_count": 1039,
       "activity": 5,
-      "total_score": 64.73297358713447,
+      "total_score": 64.73599835840656,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -36,12 +36,12 @@
     },
     "PrismJS/prism": {
       "full_name": "PrismJS/prism",
-      "popularity": 4.743321454886428,
+      "popularity": 4.743478293689385,
       "percentage": 0.041631973355537054,
       "maturity": 4.375034524863965,
       "total_commits_count": 2402,
       "activity": 5,
-      "total_score": 28.005705012602668,
+      "total_score": 28.006176377847694,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -179,12 +179,12 @@
     },
     "brandon-rhodes/pycon-pandas-tutorial": {
       "full_name": "brandon-rhodes/pycon-pandas-tutorial",
-      "popularity": 3.7365152635103787,
+      "popularity": 3.737311258031356,
       "percentage": 95.45454545454545,
       "maturity": 2.9659940673125176,
       "total_commits_count": 132,
-      "activity": 1.3819316888500044,
-      "total_score": 64.89022320211224,
+      "activity": 1.3705679929298356,
+      "total_score": 64.89112505812895,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -381,8 +381,8 @@
       "percentage": 4.516806722689076,
       "maturity": 4.451384329661518,
       "total_commits_count": 2856,
-      "activity": 1.208765634196347,
-      "total_score": 28.047458663267285,
+      "activity": 1.2079635493635141,
+      "total_score": 28.04665657843445,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -476,12 +476,12 @@
     },
     "cython/cython": {
       "full_name": "cython/cython",
-      "popularity": 4.5193550730619645,
+      "popularity": 4.519486414768369,
       "percentage": 0.0076546233925290875,
       "maturity": 5,
       "total_commits_count": 13064,
       "activity": 5,
-      "total_score": 28.562562434123876,
+      "total_score": 28.562956589941358,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -641,12 +641,12 @@
     },
     "urllib3/urllib3": {
       "full_name": "urllib3/urllib3",
-      "popularity": 4.220173335869036,
+      "popularity": 4.220434864531796,
       "percentage": 0.32810791104629966,
       "maturity": 4.43359836703362,
       "total_commits_count": 2743,
       "activity": 5,
-      "total_score": 26.707724135147437,
+      "total_score": 26.708519876386735,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

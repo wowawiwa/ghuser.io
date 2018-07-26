@@ -4,22 +4,22 @@
     "wei/pull": {
       "full_name": "wei/pull",
       "popularity": 2.492799351998761,
-      "percentage": 79.03225806451613,
-      "maturity": 2.34612075126341,
-      "total_commits_count": 62,
+      "percentage": 77.77777777777777,
+      "maturity": 2.3653407969119673,
+      "total_commits_count": 63,
       "activity": 5,
-      "total_score": 42.78214257825231,
+      "total_score": 42.414050875585474,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "probot/probot.github.io": {
       "full_name": "probot/probot.github.io",
-      "popularity": 2.416679446233313,
+      "popularity": 2.4330082352955733,
       "percentage": 0.6811989100817438,
       "maturity": 3.8431581133574935,
       "total_commits_count": 734,
       "activity": 5,
-      "total_score": 20.150365688037766,
+      "total_score": 20.20079806515513,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -58,12 +58,12 @@
     },
     "probot/probot": {
       "full_name": "probot/probot",
-      "popularity": 4.465288060241405,
+      "popularity": 4.465585512041151,
       "percentage": 0.11890606420927467,
       "maturity": 3.905422834037102,
       "total_commits_count": 841,
       "activity": 5,
-      "total_score": 26.275733326542934,
+      "total_score": 26.276630279889137,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

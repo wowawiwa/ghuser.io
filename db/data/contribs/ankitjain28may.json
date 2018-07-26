@@ -278,12 +278,12 @@
     },
     "thank-you-github/thank-you-github": {
       "full_name": "thank-you-github/thank-you-github",
-      "popularity": 4.259417914885178,
+      "popularity": 4.259656853317732,
       "percentage": 0,
       "maturity": 4.37924283836316,
       "total_commits_count": 2425,
       "activity": 5,
-      "total_score": 26.536739421381853,
+      "total_score": 26.537456236679514,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -675,11 +675,11 @@
     "civicrm/civicrm-core": {
       "full_name": "civicrm/civicrm-core",
       "popularity": 3.4535103086180627,
-      "percentage": 0.011194865288454363,
+      "percentage": 0.0111915242856077,
       "maturity": 5,
-      "total_commits_count": 26798,
+      "total_commits_count": 26806,
       "activity": 5,
-      "total_score": 25.36555693160223,
+      "total_score": 25.365555431637823,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

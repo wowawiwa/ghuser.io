@@ -48,11 +48,11 @@
     "p-society/p-society.github.io": {
       "full_name": "p-society/p-society.github.io",
       "popularity": 2.206864721909315,
-      "percentage": 11.688311688311689,
-      "maturity": 2.5711055574387496,
-      "total_commits_count": 77,
+      "percentage": 11.538461538461538,
+      "maturity": 2.582656746092775,
+      "total_commits_count": 78,
       "activity": 5,
-      "total_score": 20.116093234675443,
+      "total_score": 20.096204740777466,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -69,12 +69,12 @@
     },
     "django/channels": {
       "full_name": "django/channels",
-      "popularity": 4.497535437995507,
+      "popularity": 4.497673546017769,
       "percentage": 0.10256410256410256,
       "maturity": 3.9725941902942514,
       "total_commits_count": 975,
       "activity": 5,
-      "total_score": 26.497761833748296,
+      "total_score": 26.49817799925538,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -168,12 +168,12 @@
     },
     "sr6033/lterm": {
       "full_name": "sr6033/lterm",
-      "popularity": 2.117310085935697,
+      "popularity": 2.149257924096549,
       "percentage": 59.701492537313435,
       "maturity": 2.4346992151481284,
       "total_commits_count": 67,
-      "activity": 1.3119640540450086,
-      "total_score": 28.96614714045526,
+      "activity": 1.3109470767893616,
+      "total_score": 29.308927048482808,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
