@@ -3,12 +3,12 @@
   "repos": {
     "crazy-max/WindowsSpyBlocker": {
       "full_name": "crazy-max/WindowsSpyBlocker",
-      "popularity": 3.8274729782384163,
+      "popularity": 3.8294071908523004,
       "percentage": 99.09909909909909,
       "maturity": 3.468751545832409,
       "total_commits_count": 333,
       "activity": 5,
-      "total_score": 72.72880814242453,
+      "total_score": 72.75952901484145,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -157,12 +157,12 @@
     },
     "portapps/portapps": {
       "full_name": "portapps/portapps",
-      "popularity": 2.3820559690418284,
+      "popularity": 2.3997126544096057,
       "percentage": 100,
       "maturity": 2.6461709786895096,
       "total_commits_count": 84,
       "activity": 5,
-      "total_score": 48.40523746204828,
+      "total_score": 48.687744427932714,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -234,12 +234,12 @@
     },
     "crazy-max/csgo-server-launcher": {
       "full_name": "crazy-max/csgo-server-launcher",
-      "popularity": 3.3675813454055556,
+      "popularity": 3.3657142122686508,
       "percentage": 84.88372093023256,
       "maturity": 2.6654334850844252,
       "total_commits_count": 86,
       "activity": 5,
-      "total_score": 57.59447957370961,
+      "total_score": 57.56827457724165,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -597,12 +597,12 @@
     },
     "badges/shields": {
       "full_name": "badges/shields",
-      "popularity": 4.773613451908761,
-      "percentage": 0.05549389567147614,
-      "maturity": 4.24776677146016,
-      "total_commits_count": 1802,
+      "popularity": 4.773832844269821,
+      "percentage": 0.05543237250554324,
+      "maturity": 4.24825942034764,
+      "total_commits_count": 1804,
       "activity": 5,
-      "total_score": 27.85081173154051,
+      "total_score": 27.8524186079701,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -619,12 +619,12 @@
     },
     "StevenBlack/hosts": {
       "full_name": "StevenBlack/hosts",
-      "popularity": 4.993920407785084,
-      "percentage": 0.33195020746887965,
-      "maturity": 4.068099372138315,
-      "total_commits_count": 1205,
+      "popularity": 4.994184601291604,
+      "percentage": 0.3308519437551696,
+      "maturity": 4.069587830901043,
+      "total_commits_count": 1209,
       "activity": 5,
-      "total_score": 28.333465246640035,
+      "total_score": 28.33653310444213,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -641,12 +641,12 @@
     },
     "pi-hole/pi-hole": {
       "full_name": "pi-hole/pi-hole",
-      "popularity": 4.970251098344457,
+      "popularity": 4.970715977251544,
       "percentage": 0.13799448022079117,
       "maturity": 4.330951003217213,
       "total_commits_count": 2174,
       "activity": 5,
-      "total_score": 28.66181803966257,
+      "total_score": 28.66322101597784,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -729,12 +729,12 @@
     },
     "librenms/librenms": {
       "full_name": "librenms/librenms",
-      "popularity": 4.043440664027199,
+      "popularity": 4.043833477445295,
       "percentage": 0.017853954650955187,
       "maturity": 5,
       "total_commits_count": 11202,
       "activity": 5,
-      "total_score": 27.139706874894017,
+      "total_score": 27.14088622687379,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

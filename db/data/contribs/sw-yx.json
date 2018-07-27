@@ -14,12 +14,12 @@
     },
     "sw-yx/react-typescript-cheatsheet": {
       "full_name": "sw-yx/react-typescript-cheatsheet",
-      "popularity": 4.067147154363778,
+      "popularity": 4.067890745822294,
       "percentage": 39.705882352941174,
       "maturity": 2.450436471736861,
       "total_commits_count": 68,
       "activity": 5,
-      "total_score": 43.09597104158985,
+      "total_score": 43.102040060111555,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -36,12 +36,12 @@
     },
     "sw-yx/create-react-app-parcel": {
       "full_name": "sw-yx/create-react-app-parcel",
-      "popularity": 3.363839017218971,
+      "popularity": 3.3657142122686508,
       "percentage": 4.761904761904762,
       "maturity": 2.3653407969119673,
       "total_commits_count": 63,
       "activity": 5,
-      "total_score": 21.904575179949735,
+      "total_score": 21.911361600129528,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -59,11 +59,11 @@
     "gatsbyjs/gatsby": {
       "full_name": "gatsbyjs/gatsby",
       "popularity": 5,
-      "percentage": 0.040436716538617065,
-      "maturity": 4.692472679382677,
-      "total_commits_count": 4946,
+      "percentage": 0.0404122044857547,
+      "maturity": 4.692738162224027,
+      "total_commits_count": 4949,
       "activity": 5,
-      "total_score": 29.411229224515452,
+      "total_score": 29.411744257363793,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -136,11 +136,11 @@
     "facebook/create-react-app": {
       "full_name": "facebook/create-react-app",
       "popularity": 5,
-      "percentage": 0.06583278472679395,
-      "maturity": 4.171733738520462,
-      "total_commits_count": 1519,
+      "percentage": 0.06578947368421052,
+      "maturity": 4.17202726015844,
+      "total_commits_count": 1520,
       "activity": 5,
-      "total_score": 28.38625878711334,
+      "total_score": 28.386817678211614,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -224,11 +224,11 @@
     "storybooks/storybook": {
       "full_name": "storybooks/storybook",
       "popularity": 5,
-      "percentage": 0.024783147459727387,
+      "percentage": 0.024777006937561942,
       "maturity": 5,
-      "total_commits_count": 12105,
+      "total_commits_count": 12108,
       "activity": 5,
-      "total_score": 30.016109045848822,
+      "total_score": 30.016105054509413,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -245,23 +245,23 @@
     },
     "apollographql/apollo-client": {
       "full_name": "apollographql/apollo-client",
-      "popularity": 4.905894309069017,
-      "percentage": 0.020682523267838676,
-      "maturity": 4.682533951120352,
-      "total_commits_count": 4835,
+      "popularity": 4.9064333968883735,
+      "percentage": 0.02066969822240595,
+      "maturity": 4.6828055776050626,
+      "total_commits_count": 4838,
       "activity": 5,
-      "total_score": 29.095941444963348,
+      "total_score": 29.09809523057131,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "reactjs/reactjs.org": {
       "full_name": "reactjs/reactjs.org",
-      "popularity": 4.3177055291288795,
+      "popularity": 4.318957640371811,
       "percentage": 0,
       "maturity": 4.509740472642182,
       "total_commits_count": 3261,
       "activity": 5,
-      "total_score": 26.972597532671003,
+      "total_score": 26.976353866399798,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -278,12 +278,12 @@
     },
     "parcel-bundler/awesome-parcel": {
       "full_name": "parcel-bundler/awesome-parcel",
-      "popularity": 3.65623314220591,
+      "popularity": 3.657190581946688,
       "percentage": 3.0303030303030303,
       "maturity": 0,
       "total_commits_count": 33,
       "activity": 5,
-      "total_score": 17.40903369475945,
+      "total_score": 17.412283187213003,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -311,12 +311,12 @@
     },
     "chentsulin/awesome-graphql": {
       "full_name": "chentsulin/awesome-graphql",
-      "popularity": 4.889514473713904,
+      "popularity": 4.889682487984591,
       "percentage": 0,
       "maturity": 3.7203207073711027,
       "total_commits_count": 563,
       "activity": 5,
-      "total_score": 27.109184835883916,
+      "total_score": 27.10968887869598,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -344,12 +344,12 @@
     },
     "graphql/graphiql": {
       "full_name": "graphql/graphiql",
-      "popularity": 4.794045867813965,
+      "popularity": 4.794603809125026,
       "percentage": 0.2717391304347826,
       "maturity": 3.844407703433218,
       "total_commits_count": 736,
       "activity": 5,
-      "total_score": 27.24030789150828,
+      "total_score": 27.242001425324737,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -498,12 +498,12 @@
     },
     "icebob/vue-express-mongo-boilerplate": {
       "full_name": "icebob/vue-express-mongo-boilerplate",
-      "popularity": 4.114683424553718,
+      "popularity": 4.115349980566542,
       "percentage": 0.20491803278688525,
       "maturity": 3.653110875811567,
       "total_commits_count": 488,
       "activity": 5,
-      "total_score": 24.759884493561334,
+      "total_score": 24.761901918214903,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

@@ -3,12 +3,12 @@
   "repos": {
     "databricks/mlflow": {
       "full_name": "databricks/mlflow",
-      "popularity": 4.259895660364359,
-      "percentage": 0.8620689655172413,
-      "maturity": 2.883118698301688,
-      "total_commits_count": 116,
+      "popularity": 4.2613257516101015,
+      "percentage": 0.8547008547008547,
+      "maturity": 2.8887884491162428,
+      "total_commits_count": 117,
       "activity": 5,
-      "total_score": 24.023326477564872,
+      "total_score": 24.03503479213058,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -47,12 +47,12 @@
     },
     "rasbt/mlxtend": {
       "full_name": "rasbt/mlxtend",
-      "popularity": 4.209312759024037,
+      "popularity": 4.2095809082572515,
       "percentage": 0.1392757660167131,
       "maturity": 3.833029807441456,
       "total_commits_count": 718,
       "activity": 5,
-      "total_score": 25.370211075614232,
+      "total_score": 25.37102037838356,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -138,7 +138,7 @@
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,
-      "total_commits_count": 18489,
+      "total_commits_count": 18492,
       "activity": 5,
       "total_score": 30,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
@@ -245,12 +245,12 @@
     },
     "eskerda/pybikes": {
       "full_name": "eskerda/pybikes",
-      "popularity": 3.5213079524820428,
+      "popularity": 3.522613709610168,
       "percentage": 0.16556291390728478,
       "maturity": 3.753092111146201,
       "total_commits_count": 604,
-      "activity": 5,
-      "total_score": 23.145897820437646,
+      "activity": 3.042985829762906,
+      "total_score": 21.192829025629077,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -300,12 +300,12 @@
     },
     "yhat/db.py": {
       "full_name": "yhat/db.py",
-      "popularity": 4.073060539709243,
+      "popularity": 4.073427466467472,
       "percentage": 0.5586592178770949,
       "maturity": 3.1450622028399184,
       "total_commits_count": 179,
-      "activity": 1.2186417440519781,
-      "total_score": 20.02375663487195,
+      "activity": 1.2154959809197177,
+      "total_score": 20.021738300326426,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

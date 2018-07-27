@@ -3,12 +3,12 @@
   "repos": {
     "coala/projects": {
       "full_name": "coala/projects",
-      "popularity": 2.7490018802358214,
+      "popularity": 2.7566751284457114,
       "percentage": 0.25906735751295334,
       "maturity": 3.5409374172239443,
       "total_commits_count": 386,
       "activity": 5,
-      "total_score": 20.42146344003376,
+      "total_score": 20.444741610121277,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -25,12 +25,12 @@
     },
     "coala/coala": {
       "full_name": "coala/coala",
-      "popularity": 4.362917222747269,
-      "percentage": 0.024857071836937607,
-      "maturity": 4.601957485079885,
-      "total_commits_count": 4023,
+      "popularity": 4.363105506147251,
+      "percentage": 0.024838549428713365,
+      "maturity": 4.602284464861475,
+      "total_commits_count": 4026,
       "activity": 5,
-      "total_score": 27.306765053488753,
+      "total_score": 27.30797396569573,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }
