@@ -3,12 +3,12 @@
   "repos": {
     "debck/car-CLI": {
       "full_name": "debck/car-CLI",
-      "popularity": 1.0414282204429401,
+      "popularity": 0,
       "percentage": 91.66666666666667,
       "maturity": 0,
       "total_commits_count": 24,
       "activity": 5,
-      "total_score": 20.534637621607192,
+      "total_score": 5,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -36,12 +36,12 @@
     },
     "debck/wikiView": {
       "full_name": "debck/wikiView",
-      "popularity": 1.3222565221025262,
+      "popularity": 1.0414282204429401,
       "percentage": 100,
       "maturity": 0,
       "total_commits_count": 20,
-      "activity": 5,
-      "total_score": 26.15610435364042,
+      "activity": 2.7687317855225366,
+      "total_score": 19.43158331260958,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -113,23 +113,23 @@
     },
     "openebs/openebs": {
       "full_name": "openebs/openebs",
-      "popularity": 4.722352106219035,
+      "popularity": 4.722187447923326,
       "percentage": 0,
-      "maturity": 4.147274430378609,
-      "total_commits_count": 1438,
+      "maturity": 4.150061158497952,
+      "total_commits_count": 1447,
       "activity": 5,
-      "total_score": 27.461605179414324,
+      "total_score": 27.466684660765882,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "debck/Calculator": {
       "full_name": "debck/Calculator",
-      "popularity": 1.0414282204429401,
+      "popularity": 0,
       "percentage": 100,
       "maturity": 0,
       "total_commits_count": 12,
-      "activity": 2.130806433852733,
-      "total_score": 18.793657960939775,
+      "activity": 2.0233484665942703,
+      "total_score": 2.0233484665942703,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -190,23 +190,23 @@
     },
     "OpenGenus/cosmos": {
       "full_name": "OpenGenus/cosmos",
-      "popularity": 4.974048495945529,
+      "popularity": 4.9741867974823695,
       "percentage": 0.028058361391694726,
       "maturity": 4.852266130177679,
       "total_commits_count": 7128,
       "activity": 5,
-      "total_score": 29.644821022728223,
+      "total_score": 29.64523643180563,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "dwyl/learn-elm": {
       "full_name": "dwyl/learn-elm",
-      "popularity": 3.290296338013504,
+      "popularity": 3.2925166623889335,
       "percentage": 1.5873015873015872,
       "maturity": 2.3653407969119673,
       "total_commits_count": 63,
-      "activity": 2.1293171195925393,
-      "total_score": 17.409837765459773,
+      "activity": 2.0221851672826965,
+      "total_score": 17.309824948448927,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -245,23 +245,23 @@
     },
     "TheAlgorithms/C": {
       "full_name": "TheAlgorithms/C",
-      "popularity": 3.527797829579201,
+      "popularity": 3.5329207966015987,
       "percentage": 0.5952380952380952,
       "maturity": 3.1092840956183023,
       "total_commits_count": 168,
       "activity": 5,
-      "total_score": 22.074946035834504,
+      "total_score": 22.090711356968907,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "TheAlgorithms/Java": {
       "full_name": "TheAlgorithms/Java",
-      "popularity": 4.747846940938816,
+      "popularity": 4.749705849018884,
       "percentage": 0,
       "maturity": 3.450596547762729,
       "total_commits_count": 321,
       "activity": 5,
-      "total_score": 26.144733918341906,
+      "total_score": 26.15031064258211,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -306,6 +306,17 @@
       "total_commits_count": 20,
       "activity": 2.070891656656072,
       "total_score": 6.037661222963651,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "debck/File-Creator-CLI": {
+      "full_name": "debck/File-Creator-CLI",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 5,
+      "activity": 5,
+      "total_score": 5,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

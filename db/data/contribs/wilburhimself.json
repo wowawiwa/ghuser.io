@@ -3,12 +3,12 @@
   "repos": {
     "developersdo/opensource": {
       "full_name": "developersdo/opensource",
-      "popularity": 2.5198669643416824,
-      "percentage": 1.9292604501607717,
-      "maturity": 3.43486519699675,
-      "total_commits_count": 311,
+      "popularity": 2.532793353021433,
+      "percentage": 1.9230769230769231,
+      "maturity": 3.436464223545136,
+      "total_commits_count": 312,
       "activity": 5,
-      "total_score": 20.06132364463479,
+      "total_score": 20.10450684440993,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -29,19 +29,19 @@
       "percentage": 7.6923076923076925,
       "maturity": 0,
       "total_commits_count": 13,
-      "activity": 2.0313048268750475,
-      "total_score": 17.309900088809044,
+      "activity": 2.020079125181362,
+      "total_score": 17.29867438711536,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "edwardtufte/tufte-css": {
       "full_name": "edwardtufte/tufte-css",
-      "popularity": 4.55381292030198,
+      "popularity": 4.553934245166719,
       "percentage": 0.45454545454545453,
       "maturity": 3.2572490692670404,
       "total_commits_count": 220,
-      "activity": 2.0488828543011883,
-      "total_score": 22.49390869903178,
+      "activity": 1.9975898592660926,
+      "total_score": 22.442986847787456,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -91,12 +91,12 @@
     },
     "cdnjs/cdnjs": {
       "full_name": "cdnjs/cdnjs",
-      "popularity": 4.813693453514232,
+      "popularity": 4.813826834293372,
       "percentage": 0,
       "maturity": 5,
-      "total_commits_count": 53699,
+      "total_commits_count": 53724,
       "activity": 5,
-      "total_score": 29.441080360542696,
+      "total_score": 29.441480502880115,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

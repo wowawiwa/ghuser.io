@@ -36,12 +36,12 @@
     },
     "p-society/typeracer-cli": {
       "full_name": "p-society/typeracer-cli",
-      "popularity": 3.1176417505287923,
+      "popularity": 3.1209418766789323,
       "percentage": 77.46478873239437,
       "maturity": 2.4944911357284782,
       "total_commits_count": 71,
       "activity": 5,
-      "total_score": 50.73787726428399,
+      "total_score": 50.78101130748582,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -80,12 +80,12 @@
     },
     "probot/probot": {
       "full_name": "probot/probot",
-      "popularity": 4.466031308100866,
+      "popularity": 4.466921529757736,
       "percentage": 0.23781212841854935,
       "maturity": 3.905422834037102,
       "total_commits_count": 841,
       "activity": 5,
-      "total_score": 26.347009525802036,
+      "total_score": 26.349707712488556,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -146,34 +146,34 @@
     },
     "probot/reminders": {
       "full_name": "probot/reminders",
-      "popularity": 2.5198669643416824,
+      "popularity": 2.532793353021433,
       "percentage": 0.6896551724137931,
       "maturity": 3.0233373858695978,
       "total_commits_count": 145,
       "activity": 5,
-      "total_score": 18.832194771912118,
+      "total_score": 18.87213285555714,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "probot/settings": {
       "full_name": "probot/settings",
-      "popularity": 3.3426591134479233,
+      "popularity": 3.344627813553609,
       "percentage": 0,
       "maturity": 2.91075503612971,
       "total_commits_count": 121,
       "activity": 5,
-      "total_score": 20.84948741260319,
+      "total_score": 20.855393512920244,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "probot/unfurl": {
       "full_name": "probot/unfurl",
-      "popularity": 2.5198669643416824,
+      "popularity": 2.532793353021433,
       "percentage": 0,
       "maturity": 0,
       "total_commits_count": 35,
       "activity": 5,
-      "total_score": 12.559600893025047,
+      "total_score": 12.598380059064299,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -246,11 +246,11 @@
     "canjs/canjs": {
       "full_name": "canjs/canjs",
       "popularity": 4.218338212173986,
-      "percentage": 0.022846698652044778,
-      "maturity": 4.941958838165866,
-      "total_commits_count": 8754,
+      "percentage": 0.022789425706472195,
+      "maturity": 4.9430538954260586,
+      "total_commits_count": 8776,
       "activity": 5,
-      "total_score": 27.551461076106662,
+      "total_score": 27.55361978306192,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

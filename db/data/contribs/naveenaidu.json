@@ -25,12 +25,45 @@
     },
     "coala/coala": {
       "full_name": "coala/coala",
-      "popularity": 4.363105506147251,
-      "percentage": 0.024838549428713365,
-      "maturity": 4.602284464861475,
-      "total_commits_count": 4026,
+      "popularity": 4.363481828239683,
+      "percentage": 0.024807740014884644,
+      "maturity": 4.60282888468575,
+      "total_commits_count": 4031,
       "activity": 5,
-      "total_score": 27.30797396569573,
+      "total_score": 27.31017551004865,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Naveenaidu/IEEE-webscraper": {
+      "full_name": "Naveenaidu/IEEE-webscraper",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 25,
+      "activity": 5,
+      "total_score": 5,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Naveenaidu/2D-Flash-Game-SpaceShip-Invader-ActionScript3": {
+      "full_name": "Naveenaidu/2D-Flash-Game-SpaceShip-Invader-ActionScript3",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 5,
+      "activity": 1.3766461002416963,
+      "total_score": 1.3766461002416963,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Naveenaidu/nand2tetris": {
+      "full_name": "Naveenaidu/nand2tetris",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 6,
+      "activity": 5,
+      "total_score": 5,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

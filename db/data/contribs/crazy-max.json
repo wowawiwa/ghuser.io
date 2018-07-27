@@ -3,12 +3,12 @@
   "repos": {
     "crazy-max/WindowsSpyBlocker": {
       "full_name": "crazy-max/WindowsSpyBlocker",
-      "popularity": 3.8294071908523004,
+      "popularity": 3.8300500188081616,
       "percentage": 99.09909909909909,
       "maturity": 3.468751545832409,
       "total_commits_count": 333,
       "activity": 5,
-      "total_score": 72.75952901484145,
+      "total_score": 72.76973897597823,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -157,12 +157,12 @@
     },
     "portapps/portapps": {
       "full_name": "portapps/portapps",
-      "popularity": 2.3997126544096057,
+      "popularity": 2.416679446233313,
       "percentage": 100,
       "maturity": 2.6461709786895096,
       "total_commits_count": 84,
       "activity": 5,
-      "total_score": 48.687744427932714,
+      "total_score": 48.95921309711203,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -520,12 +520,12 @@
     },
     "RocketChat/docs": {
       "full_name": "RocketChat/docs",
-      "popularity": 3.1007541442296103,
-      "percentage": 0.19630938358853553,
-      "maturity": 4.400907906378801,
-      "total_commits_count": 2547,
+      "popularity": 3.1041846084544136,
+      "percentage": 0.19615535504119264,
+      "maturity": 4.401254219981931,
+      "total_commits_count": 2549,
       "activity": 5,
-      "total_score": 23.183210172959164,
+      "total_score": 23.194219581745124,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -597,12 +597,12 @@
     },
     "badges/shields": {
       "full_name": "badges/shields",
-      "popularity": 4.773832844269821,
+      "popularity": 4.774052125856492,
       "percentage": 0.05543237250554324,
       "maturity": 4.24825942034764,
       "total_commits_count": 1804,
       "activity": 5,
-      "total_score": 27.8524186079701,
+      "total_score": 27.85307803291893,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -619,12 +619,12 @@
     },
     "StevenBlack/hosts": {
       "full_name": "StevenBlack/hosts",
-      "popularity": 4.994184601291604,
+      "popularity": 4.994404639843977,
       "percentage": 0.3308519437551696,
       "maturity": 4.069587830901043,
       "total_commits_count": 1209,
       "activity": 5,
-      "total_score": 28.33653310444213,
+      "total_score": 28.337202684123007,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -641,12 +641,12 @@
     },
     "pi-hole/pi-hole": {
       "full_name": "pi-hole/pi-hole",
-      "popularity": 4.970715977251544,
+      "popularity": 4.971133943229835,
       "percentage": 0.13799448022079117,
       "maturity": 4.330951003217213,
       "total_commits_count": 2174,
       "activity": 5,
-      "total_score": 28.66322101597784,
+      "total_score": 28.664482411922442,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -685,12 +685,12 @@
     },
     "Novik/ruTorrent": {
       "full_name": "Novik/ruTorrent",
-      "popularity": 4.033503051111857,
+      "popularity": 4.033904952385699,
       "percentage": 0.12391573729863693,
       "maturity": 4.19876852744248,
       "total_commits_count": 1614,
       "activity": 5,
-      "total_score": 25.563022093802257,
+      "total_score": 25.56423427186983,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -729,12 +729,12 @@
     },
     "librenms/librenms": {
       "full_name": "librenms/librenms",
-      "popularity": 4.043833477445295,
-      "percentage": 0.017853954650955187,
+      "popularity": 4.044225935890071,
+      "percentage": 0.017857142857142856,
       "maturity": 5,
-      "total_commits_count": 11202,
+      "total_commits_count": 11200,
       "activity": 5,
-      "total_score": 27.14088622687379,
+      "total_score": 27.1420661893071,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

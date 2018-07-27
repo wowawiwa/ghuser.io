@@ -3,12 +3,12 @@
   "repos": {
     "databricks/mlflow": {
       "full_name": "databricks/mlflow",
-      "popularity": 4.2613257516101015,
-      "percentage": 0.8547008547008547,
-      "maturity": 2.8887884491162428,
-      "total_commits_count": 117,
+      "popularity": 4.264644430919609,
+      "percentage": 0.8403361344537815,
+      "maturity": 2.899910611391032,
+      "total_commits_count": 119,
       "activity": 5,
-      "total_score": 24.03503479213058,
+      "total_score": 24.05964004160774,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -47,12 +47,12 @@
     },
     "rasbt/mlxtend": {
       "full_name": "rasbt/mlxtend",
-      "popularity": 4.2095809082572515,
+      "popularity": 4.2098488920275186,
       "percentage": 0.1392757660167131,
       "maturity": 3.833029807441456,
       "total_commits_count": 718,
       "activity": 5,
-      "total_score": 25.37102037838356,
+      "total_score": 25.371829181768195,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -138,7 +138,7 @@
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,
-      "total_commits_count": 18492,
+      "total_commits_count": 18499,
       "activity": 5,
       "total_score": 30,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
