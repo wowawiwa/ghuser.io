@@ -15,11 +15,11 @@
     "probot/probot.github.io": {
       "full_name": "probot/probot.github.io",
       "popularity": 2.4330082352955733,
-      "percentage": 0.6793478260869565,
-      "maturity": 3.844407703433218,
-      "total_commits_count": 736,
+      "percentage": 0.6784260515603799,
+      "maturity": 3.8450311527660412,
+      "total_commits_count": 737,
       "activity": 5,
-      "total_score": 20.202711763968118,
+      "total_score": 20.203667113581915,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -58,12 +58,12 @@
     },
     "probot/probot": {
       "full_name": "probot/probot",
-      "popularity": 4.466921529757736,
-      "percentage": 0.11890606420927467,
-      "maturity": 3.905422834037102,
-      "total_commits_count": 841,
+      "popularity": 4.467069722785597,
+      "percentage": 0.1187648456057007,
+      "maturity": 3.9059646189103567,
+      "total_commits_count": 842,
       "activity": 5,
-      "total_score": 26.280658984917984,
+      "total_score": 26.282107416149255,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -102,12 +102,12 @@
     },
     "remy/mit-license": {
       "full_name": "remy/mit-license",
-      "popularity": 4.232806560542629,
+      "popularity": 4.233060593355318,
       "percentage": 0,
       "maturity": 4.459633286916022,
       "total_commits_count": 2910,
       "activity": 5,
-      "total_score": 26.61768625545993,
+      "total_score": 26.618448353897996,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

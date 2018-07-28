@@ -1,0 +1,313 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "DefactoSoftware/ex_cell": {
+      "full_name": "DefactoSoftware/ex_cell",
+      "popularity": 2.0043600754367907,
+      "percentage": 73.91304347826087,
+      "maturity": 1.7870377452764827,
+      "total_commits_count": 46,
+      "activity": 5,
+      "total_score": 33.8464416591038,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "DefactoSoftware/cell-js": {
+      "full_name": "DefactoSoftware/cell-js",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 35,
+      "activity": 1.2771523378750729,
+      "total_score": 1.2771523378750729,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "DefactoSoftware/ex_css_modules": {
+      "full_name": "DefactoSoftware/ex_css_modules",
+      "popularity": 1.49139952161816,
+      "percentage": 63.1578947368421,
+      "maturity": 0,
+      "total_commits_count": 19,
+      "activity": 1.1937408009040933,
+      "total_score": 17.913114385360302,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "teamon/tesla": {
+      "full_name": "teamon/tesla",
+      "popularity": 3.8574318941461936,
+      "percentage": 0.22371364653243847,
+      "maturity": 3.611436995331304,
+      "total_commits_count": 447,
+      "activity": 5,
+      "total_score": 23.907354493288885,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "hansihe/html5ever_elixir": {
+      "full_name": "hansihe/html5ever_elixir",
+      "popularity": 2.506543999292103,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 17,
+      "activity": 2.468959392155972,
+      "total_score": 9.988591390032282,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "DefactoSoftware/website": {
+      "full_name": "DefactoSoftware/website",
+      "popularity": 1.9590800514478444,
+      "percentage": 0.0708215297450425,
+      "maturity": 4.139121956651735,
+      "total_commits_count": 1412,
+      "activity": 5,
+      "total_score": 19.17352092364475,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "jessedijkstra/mixcloud-crawler": {
+      "full_name": "jessedijkstra/mixcloud-crawler",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 1,
+      "activity": 0.9013479253845684,
+      "total_score": 0.9013479253845684,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "apollographql/react-docs": {
+      "full_name": "apollographql/react-docs",
+      "popularity": 3.06111437832399,
+      "percentage": 0.1757469244288225,
+      "maturity": 3.7252737526322863,
+      "total_commits_count": 569,
+      "activity": 5,
+      "total_score": 21.70382822708753,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "bkniffler/draft-wysiwyg": {
+      "full_name": "bkniffler/draft-wysiwyg",
+      "popularity": 3.5833512304335597,
+      "percentage": 0,
+      "maturity": 2.9160773650635297,
+      "total_commits_count": 122,
+      "activity": 0.8265785071858236,
+      "total_score": 17.40878692861356,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "GoogleChrome/accessibility-developer-tools": {
+      "full_name": "GoogleChrome/accessibility-developer-tools",
+      "popularity": 4.251214786467938,
+      "percentage": 0,
+      "maturity": 3.507021451406386,
+      "total_commits_count": 360,
+      "activity": 1.3899165610556987,
+      "total_score": 21.157603823272286,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "jessedijkstra/wdio-cucumber-utilities": {
+      "full_name": "jessedijkstra/wdio-cucumber-utilities",
+      "popularity": 1.3222565221025262,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 22,
+      "activity": 0.8109004507151027,
+      "total_score": 21.967004804355522,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "DefactoSoftware/lrs-api": {
+      "full_name": "DefactoSoftware/lrs-api",
+      "popularity": 1.0414282204429401,
+      "percentage": 38.46153846153846,
+      "maturity": 0,
+      "total_commits_count": 13,
+      "activity": 0.8115800015695331,
+      "total_score": 9.143005765113054,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "samselikoff/ember-cli-mirage": {
+      "full_name": "samselikoff/ember-cli-mirage",
+      "popularity": 3.9026402144284402,
+      "percentage": 0.17857142857142858,
+      "maturity": 4.03520012425271,
+      "total_commits_count": 1120,
+      "activity": 5,
+      "total_score": 24.868917896768544,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "salsify/ember-css-modules": {
+      "full_name": "salsify/ember-css-modules",
+      "popularity": 3.330655737691339,
+      "percentage": 0.4975124378109453,
+      "maturity": 3.208830783389968,
+      "total_commits_count": 201,
+      "activity": 5,
+      "total_score": 21.62504432507777,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "jkleinsc/broccoli-serviceworker": {
+      "full_name": "jkleinsc/broccoli-serviceworker",
+      "popularity": 2.973628670542915,
+      "percentage": 1.8867924528301887,
+      "maturity": 2.118994386183839,
+      "total_commits_count": 53,
+      "activity": 1.2053498642040612,
+      "total_score": 15.093605265503465,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "TryGhost/Ghost": {
+      "full_name": "TryGhost/Ghost",
+      "popularity": 5,
+      "percentage": 0.01226391954868776,
+      "maturity": 4.9109766529982215,
+      "total_commits_count": 8154,
+      "activity": 5,
+      "total_score": 29.82992485370309,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "zipmark/rspec_api_documentation": {
+      "full_name": "zipmark/rspec_api_documentation",
+      "popularity": 4.031891716416629,
+      "percentage": 0,
+      "maturity": 3.7492255009323054,
+      "total_commits_count": 599,
+      "activity": 5,
+      "total_score": 24.594126151114498,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "blendle/emailcorrect": {
+      "full_name": "blendle/emailcorrect",
+      "popularity": 1.7076084983408428,
+      "percentage": 91.11111111111111,
+      "maturity": 1.709272515882201,
+      "total_commits_count": 45,
+      "activity": 1.0819897413165838,
+      "total_score": 29.84903425956283,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "oesmith/puffing-billy": {
+      "full_name": "oesmith/puffing-billy",
+      "popularity": 3.6416123329095376,
+      "percentage": 0.36363636363636365,
+      "maturity": 3.372988210663766,
+      "total_commits_count": 275,
+      "activity": 5,
+      "total_score": 22.84296236670278,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ampproject/amphtml": {
+      "full_name": "ampproject/amphtml",
+      "popularity": 5,
+      "percentage": 0.010118385105737124,
+      "maturity": 4.9948681983049426,
+      "total_commits_count": 9883,
+      "activity": 5,
+      "total_score": 29.996313346928613,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "jessedijkstra/tindle": {
+      "full_name": "jessedijkstra/tindle",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 12,
+      "activity": 0.6373919223497744,
+      "total_score": 0.6373919223497744,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "zalmoxisus/redux-devtools-extension": {
+      "full_name": "zalmoxisus/redux-devtools-extension",
+      "popularity": 4.8366226900124545,
+      "percentage": 0.12345679012345678,
+      "maturity": 3.888283216984283,
+      "total_commits_count": 810,
+      "activity": 5,
+      "total_score": 27.364059312611065,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "airbnb/javascript": {
+      "full_name": "airbnb/javascript",
+      "popularity": 5,
+      "percentage": 0,
+      "maturity": 4.19794003693542,
+      "total_commits_count": 1611,
+      "activity": 5,
+      "total_score": 28.395880073870842,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "rickpastoor/isjoostaloveropswift": {
+      "full_name": "rickpastoor/isjoostaloveropswift",
+      "popularity": 1.8512968868523627,
+      "percentage": 5.555555555555555,
+      "maturity": 0,
+      "total_commits_count": 18,
+      "activity": 0.7548108190147342,
+      "total_score": 7.645749231187418,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "jamesdbloom/mockserver": {
+      "full_name": "jamesdbloom/mockserver",
+      "popularity": 4.207161583878138,
+      "percentage": 0.053022269353128315,
+      "maturity": 4.267991447041837,
+      "total_commits_count": 1886,
+      "activity": 5,
+      "total_score": 26.186467168830717,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "jessedijkstra/fluxible-test": {
+      "full_name": "jessedijkstra/fluxible-test",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 3,
+      "activity": 0.4992703157480518,
+      "total_score": 0.4992703157480518,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "jessedijkstra/halclj": {
+      "full_name": "jessedijkstra/halclj",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 0.435448744569646,
+      "total_score": 0.435448744569646,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "DefactoSoftware",
+    "apollographql",
+    "GoogleChrome",
+    "salsify",
+    "TryGhost",
+    "zipmark",
+    "blendle",
+    "ampproject",
+    "airbnb"
+  ]
+}

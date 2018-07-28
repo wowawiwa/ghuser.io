@@ -3,12 +3,12 @@
   "repos": {
     "skyfielders/python-skyfield": {
       "full_name": "skyfielders/python-skyfield",
-      "popularity": 3.373135059176772,
+      "popularity": 3.374970626146057,
       "percentage": 94.66158245948522,
       "maturity": 4.005670353060886,
       "total_commits_count": 1049,
       "activity": 5,
-      "total_score": 64.64056521531361,
+      "total_score": 64.66866041384445,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -48,11 +48,11 @@
     "livegrep/livegrep": {
       "full_name": "livegrep/livegrep",
       "popularity": 3.6628913134227656,
-      "percentage": 4.659188955996549,
-      "maturity": 4.050605059506286,
-      "total_commits_count": 1159,
+      "percentage": 4.651162790697675,
+      "maturity": 4.05138051661189,
+      "total_commits_count": 1161,
       "activity": 5,
-      "total_score": 26.308477417367826,
+      "total_score": 26.306206465329097,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -381,8 +381,8 @@
       "percentage": 4.516806722689076,
       "maturity": 4.451384329661518,
       "total_commits_count": 2856,
-      "activity": 1.2053028610330214,
-      "total_score": 28.04399589010396,
+      "activity": 1.2046669744427638,
+      "total_score": 28.0433600035137,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -476,12 +476,12 @@
     },
     "cython/cython": {
       "full_name": "cython/cython",
-      "popularity": 4.520011384743245,
+      "popularity": 4.520273631955757,
       "percentage": 0.0076546233925290875,
       "maturity": 5,
       "total_commits_count": 13064,
       "activity": 5,
-      "total_score": 28.564532022264153,
+      "total_score": 28.565319024864166,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -641,23 +641,23 @@
     },
     "urllib3/urllib3": {
       "full_name": "urllib3/urllib3",
-      "popularity": 4.220696235798867,
+      "popularity": 4.220957449859583,
       "percentage": 0.32810791104629966,
       "maturity": 4.43359836703362,
       "total_commits_count": 2743,
       "activity": 5,
-      "total_score": 26.709315138725405,
+      "total_score": 26.710109922739527,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "eventlet/eventlet": {
       "full_name": "eventlet/eventlet",
       "popularity": 3.8408349818609366,
-      "percentage": 0.1287001287001287,
-      "maturity": 4.181890763615422,
-      "total_commits_count": 1554,
+      "percentage": 0.12853470437017994,
+      "maturity": 4.182464052057556,
+      "total_commits_count": 1556,
       "activity": 5,
-      "total_score": 24.95054754715624,
+      "total_score": 24.95161152625858,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

@@ -69,12 +69,12 @@
     },
     "django/channels": {
       "full_name": "django/channels",
-      "popularity": 4.498363428109631,
+      "popularity": 4.498639074390436,
       "percentage": 0.10256410256410256,
       "maturity": 3.9725941902942514,
       "total_commits_count": 975,
       "activity": 5,
-      "total_score": 26.50025684395886,
+      "total_score": 26.501087458085017,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -168,12 +168,12 @@
     },
     "sr6033/lterm": {
       "full_name": "sr6033/lterm",
-      "popularity": 2.149257924096549,
+      "popularity": 2.179015777092762,
       "percentage": 59.701492537313435,
       "maturity": 2.4346992151481284,
       "total_commits_count": 67,
-      "activity": 1.3109470767893616,
-      "total_score": 29.308927048482808,
+      "activity": 1.306772553634079,
+      "total_score": 29.62498255533155,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -245,12 +245,12 @@
     },
     "WhitestormJS/whs.js": {
       "full_name": "WhitestormJS/whs.js",
-      "popularity": 4.68793352304118,
+      "popularity": 4.688022616399451,
       "percentage": 0.1497005988023952,
       "maturity": 4.29489982602514,
       "total_commits_count": 2004,
       "activity": 5,
-      "total_score": 27.744832460394683,
+      "total_score": 27.745101474322272,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

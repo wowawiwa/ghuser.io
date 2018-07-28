@@ -48,11 +48,11 @@
     "AurelienLourot/ghuser.io": {
       "full_name": "AurelienLourot/ghuser.io",
       "popularity": 2.463931943319936,
-      "percentage": 98.50187265917603,
-      "maturity": 3.3579526897939087,
-      "total_commits_count": 267,
+      "percentage": 98.50746268656717,
+      "maturity": 3.3598608441960054,
+      "total_commits_count": 268,
       "activity": 5,
-      "total_score": 50.658949577378564,
+      "total_score": 50.66455643429966,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -234,12 +234,12 @@
     },
     "dracula/mutt": {
       "full_name": "dracula/mutt",
-      "popularity": 1.6128219920330789,
+      "popularity": 1.7076084983408428,
       "percentage": 10,
       "maturity": 0,
       "total_commits_count": 10,
-      "activity": 1.7586619652717852,
-      "total_score": 8.693796531014023,
+      "activity": 1.7077397474554799,
+      "total_score": 9.050456290321105,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

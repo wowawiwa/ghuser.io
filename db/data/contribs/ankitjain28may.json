@@ -245,12 +245,12 @@
     },
     "sendgrid/sendgrid-php": {
       "full_name": "sendgrid/sendgrid-php",
-      "popularity": 3.9325635811381234,
+      "popularity": 3.9330705791953133,
       "percentage": 0.15313935681470137,
       "maturity": 3.7892673520991162,
       "total_commits_count": 653,
       "activity": 5,
-      "total_score": 24.454515381080896,
+      "total_score": 24.456046468628795,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -322,12 +322,12 @@
     },
     "phpmyadmin/phpmyadmin": {
       "full_name": "phpmyadmin/phpmyadmin",
-      "popularity": 4.508716912607183,
+      "popularity": 4.508582272699385,
       "percentage": 0,
       "maturity": 5,
-      "total_commits_count": 82552,
+      "total_commits_count": 82555,
       "activity": 5,
-      "total_score": 28.52615073782155,
+      "total_score": 28.525746818098156,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

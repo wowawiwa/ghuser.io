@@ -3215,6 +3215,76 @@
       "created_at": "2015-04-04T16:20:00Z",
       "updated_at": "2017-06-28T17:59:40Z",
       "type": "Organization"
+    },
+    "DefactoSoftware": {
+      "login": "DefactoSoftware",
+      "url": "https://api.github.com/orgs/DefactoSoftware",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/3899757?v=4",
+      "name": "Defacto",
+      "html_url": "https://github.com/DefactoSoftware",
+      "created_at": "2013-03-18T14:22:53Z",
+      "updated_at": "2017-02-08T10:22:21Z",
+      "type": "Organization"
+    },
+    "GoogleChrome": {
+      "login": "GoogleChrome",
+      "url": "https://api.github.com/orgs/GoogleChrome",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1778935?v=4",
+      "name": "",
+      "html_url": "https://github.com/GoogleChrome",
+      "created_at": "2012-05-25T18:21:42Z",
+      "updated_at": "2018-04-19T23:34:02Z",
+      "type": "Organization"
+    },
+    "salsify": {
+      "login": "salsify",
+      "url": "https://api.github.com/orgs/salsify",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/2165267?v=4",
+      "name": "Salsify",
+      "html_url": "https://github.com/salsify",
+      "created_at": "2012-08-16T20:00:00Z",
+      "updated_at": "2018-07-25T17:45:48Z",
+      "type": "Organization"
+    },
+    "TryGhost": {
+      "login": "TryGhost",
+      "url": "https://api.github.com/orgs/TryGhost",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/2178663?v=4",
+      "name": "Ghost",
+      "html_url": "https://github.com/TryGhost",
+      "created_at": "2012-08-19T13:28:58Z",
+      "updated_at": "2018-07-20T09:55:18Z",
+      "type": "Organization"
+    },
+    "zipmark": {
+      "login": "zipmark",
+      "url": "https://api.github.com/orgs/zipmark",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/903590?v=4",
+      "name": "Zipmark, Inc",
+      "html_url": "https://github.com/zipmark",
+      "created_at": "2011-07-08T19:31:29Z",
+      "updated_at": "2018-07-20T09:43:49Z",
+      "type": "Organization"
+    },
+    "blendle": {
+      "login": "blendle",
+      "url": "https://api.github.com/orgs/blendle",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/7072577?v=4",
+      "name": "Blendle",
+      "html_url": "https://github.com/blendle",
+      "created_at": "2014-03-26T17:16:04Z",
+      "updated_at": "2018-04-12T12:32:19Z",
+      "type": "Organization"
+    },
+    "ampproject": {
+      "login": "ampproject",
+      "url": "https://api.github.com/orgs/ampproject",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/14114390?v=4",
+      "name": "AMP Project",
+      "html_url": "https://github.com/ampproject",
+      "created_at": "2015-09-03T18:29:21Z",
+      "updated_at": "2018-04-19T23:19:51Z",
+      "type": "Organization"
     }
   }
 }
