@@ -36,12 +36,12 @@
     },
     "amio/badgen": {
       "full_name": "amio/badgen",
-      "popularity": 3.4016119188251994,
-      "percentage": 0.7352941176470589,
-      "maturity": 2.984457903098387,
-      "total_commits_count": 136,
+      "popularity": 3.406749531940878,
+      "percentage": 0.6896551724137931,
+      "maturity": 3.0233373858695978,
+      "total_commits_count": 145,
       "activity": 5,
-      "total_score": 21.498905643148312,
+      "total_score": 21.572356084218598,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -58,12 +58,12 @@
     },
     "probot/probot": {
       "full_name": "probot/probot",
-      "popularity": 4.467069722785597,
+      "popularity": 4.467217865263237,
       "percentage": 0.1187648456057007,
       "maturity": 3.9059646189103567,
       "total_commits_count": 842,
       "activity": 5,
-      "total_score": 26.282107416149255,
+      "total_score": 26.282554130817577,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

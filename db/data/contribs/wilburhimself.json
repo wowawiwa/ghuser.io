@@ -36,12 +36,12 @@
     },
     "edwardtufte/tufte-css": {
       "full_name": "edwardtufte/tufte-css",
-      "popularity": 4.553934245166719,
+      "popularity": 4.55381292030198,
       "percentage": 0.45454545454545453,
       "maturity": 3.2572490692670404,
       "total_commits_count": 220,
-      "activity": 1.9975898592660926,
-      "total_score": 22.442986847787456,
+      "activity": 1.986859094150089,
+      "total_score": 22.431884938880682,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -58,12 +58,12 @@
     },
     "knightking100/hello-worlds": {
       "full_name": "knightking100/hello-worlds",
-      "popularity": 2.654215543864054,
+      "popularity": 2.6637399292557244,
       "percentage": 0.5788712011577424,
       "maturity": 3.8153837478143138,
       "total_commits_count": 691,
-      "activity": 1.2596520545981225,
-      "total_score": 17.05280454401997,
+      "activity": 1.2416414234738835,
+      "total_score": 17.0640838100843,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -91,12 +91,12 @@
     },
     "cdnjs/cdnjs": {
       "full_name": "cdnjs/cdnjs",
-      "popularity": 4.813826834293372,
+      "popularity": 4.813893509324592,
       "percentage": 0,
       "maturity": 5,
-      "total_commits_count": 53742,
+      "total_commits_count": 53750,
       "activity": 5,
-      "total_score": 29.441480502880115,
+      "total_score": 29.441680527973773,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

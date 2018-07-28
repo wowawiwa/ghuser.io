@@ -26,11 +26,11 @@
     "coala/coala": {
       "full_name": "coala/coala",
       "popularity": 4.363481828239683,
-      "percentage": 0.024807740014884644,
-      "maturity": 4.60282888468575,
-      "total_commits_count": 4031,
+      "percentage": 0.02478929102627665,
+      "maturity": 4.603155209295582,
+      "total_commits_count": 4034,
       "activity": 5,
-      "total_score": 27.31017551004865,
+      "total_score": 27.310817694030867,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -53,6 +53,17 @@
       "total_commits_count": 5,
       "activity": 1.3766461002416963,
       "total_score": 1.3766461002416963,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Naveenaidu/Google-Crawler": {
+      "full_name": "Naveenaidu/Google-Crawler",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 5,
+      "activity": 5,
+      "total_score": 5,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

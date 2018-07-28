@@ -322,12 +322,12 @@
     },
     "phpmyadmin/phpmyadmin": {
       "full_name": "phpmyadmin/phpmyadmin",
-      "popularity": 4.508582272699385,
+      "popularity": 4.508716912607183,
       "percentage": 0,
       "maturity": 5,
       "total_commits_count": 82555,
       "activity": 5,
-      "total_score": 28.525746818098156,
+      "total_score": 28.52615073782155,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

@@ -136,11 +136,11 @@
     "samselikoff/ember-cli-mirage": {
       "full_name": "samselikoff/ember-cli-mirage",
       "popularity": 3.9026402144284402,
-      "percentage": 0.17857142857142858,
-      "maturity": 4.03520012425271,
-      "total_commits_count": 1120,
+      "percentage": 0.17825311942959002,
+      "maturity": 4.036003555509855,
+      "total_commits_count": 1122,
       "activity": 5,
-      "total_score": 24.868917896768544,
+      "total_score": 24.87036326729535,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -234,12 +234,12 @@
     },
     "zalmoxisus/redux-devtools-extension": {
       "full_name": "zalmoxisus/redux-devtools-extension",
-      "popularity": 4.8366226900124545,
+      "popularity": 4.836875697976076,
       "percentage": 0.12345679012345678,
       "maturity": 3.888283216984283,
       "total_commits_count": 810,
       "activity": 5,
-      "total_score": 27.364059312611065,
+      "total_score": 27.36482239712357,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

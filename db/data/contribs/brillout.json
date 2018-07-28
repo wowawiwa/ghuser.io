@@ -47,12 +47,12 @@
     },
     "brillout/awesome-angular-components": {
       "full_name": "brillout/awesome-angular-components",
-      "popularity": 4.368530516395915,
+      "popularity": 4.368902168879831,
       "percentage": 39.50617283950617,
       "maturity": 3.088450563344869,
       "total_commits_count": 162,
-      "activity": 3.3683414902365625,
-      "total_score": 45.08674397871528,
+      "activity": 3.034606802136479,
+      "total_score": 44.75603298181151,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -366,12 +366,12 @@
     },
     "gdi2290/awesome-angular": {
       "full_name": "gdi2290/awesome-angular",
-      "popularity": 4.764745617668467,
+      "popularity": 4.764670953004635,
       "percentage": 0.21052631578947367,
       "maturity": 3.640325003637004,
       "total_commits_count": 475,
       "activity": 5,
-      "total_score": 26.70529042455244,
+      "total_score": 26.705064387106987,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -388,12 +388,12 @@
     },
     "jnv/lists": {
       "full_name": "jnv/lists",
-      "popularity": 4.707873166708032,
+      "popularity": 4.708043341464885,
       "percentage": 0.15337423312883436,
       "maturity": 3.788558415009318,
       "total_commits_count": 652,
       "activity": 5,
-      "total_score": 26.79460496690225,
+      "total_score": 26.795118884227776,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -466,11 +466,11 @@
     "AurelienLourot/ghuser.io": {
       "full_name": "AurelienLourot/ghuser.io",
       "popularity": 2.463931943319936,
-      "percentage": 1.492537313432836,
-      "maturity": 3.3598608441960054,
-      "total_commits_count": 268,
+      "percentage": 1.486988847583643,
+      "maturity": 3.3617606514247345,
+      "total_commits_count": 269,
       "activity": 5,
-      "total_score": 19.58959386556315,
+      "total_score": 19.591616244529117,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
