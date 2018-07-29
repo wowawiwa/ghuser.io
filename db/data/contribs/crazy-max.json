@@ -289,12 +289,12 @@
     },
     "crazy-max/nodejs-portable": {
       "full_name": "crazy-max/nodejs-portable",
-      "popularity": 3.2383361339481387,
+      "popularity": 3.240837837319775,
       "percentage": 83,
       "maturity": 2.7806079073212198,
       "total_commits_count": 100,
-      "activity": 2.396903031679431,
-      "total_score": 52.614774133466696,
+      "activity": 2.1983182393775222,
+      "total_score": 52.45068783065965,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -608,12 +608,12 @@
     },
     "badges/shields": {
       "full_name": "badges/shields",
-      "popularity": 4.774198252094831,
+      "popularity": 4.774417349305896,
       "percentage": 0.055401662049861494,
       "maturity": 4.248505535383188,
       "total_commits_count": 1805,
       "activity": 5,
-      "total_score": 27.853990634406678,
+      "total_score": 27.854649504025325,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -630,12 +630,12 @@
     },
     "StevenBlack/hosts": {
       "full_name": "StevenBlack/hosts",
-      "popularity": 4.9948443827783375,
+      "popularity": 4.99497621887986,
       "percentage": 0.3308519437551696,
       "maturity": 4.069587830901043,
       "total_commits_count": 1209,
       "activity": 5,
-      "total_score": 28.338540826600685,
+      "total_score": 28.338942005275207,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -652,12 +652,12 @@
     },
     "pi-hole/pi-hole": {
       "full_name": "pi-hole/pi-hole",
-      "popularity": 4.9715515073434595,
+      "popularity": 4.971690606211576,
       "percentage": 0.13799448022079117,
       "maturity": 4.330951003217213,
       "total_commits_count": 2174,
       "activity": 5,
-      "total_score": 28.665742595063882,
+      "total_score": 28.66616238700211,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

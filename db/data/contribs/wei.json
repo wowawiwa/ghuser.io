@@ -3,12 +3,12 @@
   "repos": {
     "wei/pull": {
       "full_name": "wei/pull",
-      "popularity": 2.492799351998761,
+      "popularity": 2.506543999292103,
       "percentage": 76.5625,
       "maturity": 2.3837461708665604,
       "total_commits_count": 64,
       "activity": 5,
-      "total_score": 42.05703394809207,
+      "total_score": 42.23507008256364,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -36,12 +36,12 @@
     },
     "amio/badgen": {
       "full_name": "amio/badgen",
-      "popularity": 3.406749531940878,
-      "percentage": 0.6896551724137931,
-      "maturity": 3.0233373858695978,
-      "total_commits_count": 145,
+      "popularity": 3.4101411500931413,
+      "percentage": 0.684931506849315,
+      "maturity": 3.0274500692824846,
+      "total_commits_count": 146,
       "activity": 5,
-      "total_score": 21.572356084218598,
+      "total_score": 21.58896629398967,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -58,12 +58,12 @@
     },
     "probot/probot": {
       "full_name": "probot/probot",
-      "popularity": 4.4673659572251285,
+      "popularity": 4.467661989739393,
       "percentage": 0.1187648456057007,
       "maturity": 3.9059646189103567,
       "total_commits_count": 842,
       "activity": 5,
-      "total_score": 26.28300069315872,
+      "total_score": 26.283893361274774,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -102,12 +102,12 @@
     },
     "remy/mit-license": {
       "full_name": "remy/mit-license",
-      "popularity": 4.233060593355318,
+      "popularity": 4.233314477662903,
       "percentage": 0,
       "maturity": 4.459633286916022,
       "total_commits_count": 2910,
       "activity": 5,
-      "total_score": 26.618448353897996,
+      "total_score": 26.61921000682075,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

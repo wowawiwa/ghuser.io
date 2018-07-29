@@ -36,12 +36,12 @@
     },
     "teamon/tesla": {
       "full_name": "teamon/tesla",
-      "popularity": 3.8574318941461936,
+      "popularity": 3.8580345787937436,
       "percentage": 0.22371364653243847,
       "maturity": 3.611436995331304,
       "total_commits_count": 447,
       "activity": 5,
-      "total_score": 23.907354493288885,
+      "total_score": 23.909180074972962,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -135,12 +135,12 @@
     },
     "samselikoff/ember-cli-mirage": {
       "full_name": "samselikoff/ember-cli-mirage",
-      "popularity": 3.9026402144284402,
+      "popularity": 3.903183354177561,
       "percentage": 0.17793594306049823,
       "maturity": 4.036805503188364,
       "total_commits_count": 1124,
       "activity": 5,
-      "total_score": 24.87180624536947,
+      "total_score": 24.873448228347684,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -234,12 +234,12 @@
     },
     "zalmoxisus/redux-devtools-extension": {
       "full_name": "zalmoxisus/redux-devtools-extension",
-      "popularity": 4.8373181075517495,
+      "popularity": 4.8375707108262205,
       "percentage": 0.12345679012345678,
       "maturity": 3.888283216984283,
       "total_commits_count": 810,
       "activity": 5,
-      "total_score": 27.366156726251187,
+      "total_score": 27.366918590201227,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

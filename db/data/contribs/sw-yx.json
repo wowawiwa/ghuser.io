@@ -14,12 +14,12 @@
     },
     "sw-yx/react-typescript-cheatsheet": {
       "full_name": "sw-yx/react-typescript-cheatsheet",
-      "popularity": 4.074892081244656,
+      "popularity": 4.075622540562749,
       "percentage": 39.705882352941174,
       "maturity": 2.450436471736861,
       "total_commits_count": 68,
       "activity": 5,
-      "total_score": 43.15918331245583,
+      "total_score": 43.16514514953733,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -245,12 +245,12 @@
     },
     "apollographql/apollo-client": {
       "full_name": "apollographql/apollo-client",
-      "popularity": 4.907455823842564,
+      "popularity": 4.907509569168769,
       "percentage": 0.020554984583761562,
       "maturity": 4.685242601204916,
       "total_commits_count": 4865,
       "activity": 5,
-      "total_score": 29.105966122182117,
+      "total_score": 29.1061275017762,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -311,12 +311,12 @@
     },
     "chentsulin/awesome-graphql": {
       "full_name": "chentsulin/awesome-graphql",
-      "popularity": 4.890745071594626,
+      "popularity": 4.890800925095707,
       "percentage": 0,
       "maturity": 3.7203207073711027,
       "total_commits_count": 563,
       "activity": 5,
-      "total_score": 27.112876629526085,
+      "total_score": 27.113044190029328,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -498,12 +498,12 @@
     },
     "icebob/vue-express-mongo-boilerplate": {
       "full_name": "icebob/vue-express-mongo-boilerplate",
-      "popularity": 4.117011908527945,
+      "popularity": 4.1176749030615385,
       "percentage": 0.20491803278688525,
       "maturity": 3.653110875811567,
       "total_commits_count": 488,
       "activity": 5,
-      "total_score": 24.766931974770213,
+      "total_score": 24.768938620110617,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -522,10 +522,10 @@
       "full_name": "js-org/js.org",
       "popularity": 4.247300213321817,
       "percentage": 0,
-      "maturity": 4.448288956138535,
-      "total_commits_count": 2836,
+      "maturity": 4.448444249905428,
+      "total_commits_count": 2837,
       "activity": 5,
-      "total_score": 26.63847855224252,
+      "total_score": 26.638789139776307,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

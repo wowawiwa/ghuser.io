@@ -15,22 +15,22 @@
     "coala/coala": {
       "full_name": "coala/coala",
       "popularity": 4.363481828239683,
-      "percentage": 0.2971768202080238,
-      "maturity": 4.603589927707562,
-      "total_commits_count": 4038,
+      "percentage": 0.29710324337707356,
+      "maturity": 4.6036985393535135,
+      "total_commits_count": 4039,
       "activity": 5,
-      "total_score": 27.4661996752519,
+      "total_score": 27.46637516189238,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "kubernetes/community": {
       "full_name": "kubernetes/community",
-      "popularity": 4.351468174760764,
+      "popularity": 4.351661486650202,
       "percentage": 0,
       "maturity": 4.705895384014238,
       "total_commits_count": 5100,
       "activity": 5,
-      "total_score": 27.466195292310765,
+      "total_score": 27.466775227979085,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -69,12 +69,12 @@
     },
     "tapasweni-pathak/SOC-Programs": {
       "full_name": "tapasweni-pathak/SOC-Programs",
-      "popularity": 3.808317592158154,
+      "popularity": 3.8096661244882792,
       "percentage": 22.22222222222222,
       "maturity": 0,
       "total_commits_count": 36,
       "activity": 5,
-      "total_score": 27.42675915382024,
+      "total_score": 27.43470051087542,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -135,12 +135,12 @@
     },
     "p-society/typeracer-cli": {
       "full_name": "p-society/typeracer-cli",
-      "popularity": 3.1242171147613855,
+      "popularity": 3.1274678373572993,
       "percentage": 2.816901408450704,
       "maturity": 2.4944911357284782,
       "total_commits_count": 71,
       "activity": 5,
-      "total_score": 20.505713122555143,
+      "total_score": 20.51665569580054,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -204,7 +204,7 @@
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,
-      "total_commits_count": 20618,
+      "total_commits_count": 20624,
       "activity": 5,
       "total_score": 30,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
@@ -311,12 +311,12 @@
     },
     "coala/coala-bears": {
       "full_name": "coala/coala-bears",
-      "popularity": 3.301286157755804,
-      "percentage": 0.07674597083653108,
-      "maturity": 4.103173916558165,
-      "total_commits_count": 1303,
+      "popularity": 3.303451139813469,
+      "percentage": 0.07662835249042145,
+      "maturity": 4.103861037370727,
+      "total_commits_count": 1305,
       "activity": 5,
-      "total_score": 23.143143159837948,
+      "total_score": 23.150983436570808,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -388,12 +388,12 @@
     },
     "OpenGenus/cosmos": {
       "full_name": "OpenGenus/cosmos",
-      "popularity": 4.974417202217055,
+      "popularity": 4.974601438035461,
       "percentage": 0.05611672278338945,
       "maturity": 4.852266130177679,
       "total_commits_count": 7128,
       "activity": 5,
-      "total_score": 29.66407310585547,
+      "total_score": 29.66462715734303,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -405,6 +405,17 @@
       "total_commits_count": 10680,
       "activity": 1.9169225122720643,
       "total_score": 23.58847049002288,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "p-society/slackcontestwatcherbot": {
+      "full_name": "p-society/slackcontestwatcherbot",
+      "popularity": 1.49139952161816,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 6,
+      "activity": 5,
+      "total_score": 9.474198564854479,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }
