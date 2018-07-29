@@ -80,12 +80,12 @@
     },
     "probot/probot": {
       "full_name": "probot/probot",
-      "popularity": 4.467217865263237,
+      "popularity": 4.4673659572251285,
       "percentage": 0.2375296912114014,
       "maturity": 3.9059646189103567,
       "total_commits_count": 842,
       "activity": 5,
-      "total_score": 26.35152542802473,
+      "total_score": 26.351974276821338,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -124,12 +124,12 @@
     },
     "octokit/routes": {
       "full_name": "octokit/routes",
-      "popularity": 2.3243213587049825,
+      "popularity": 2.3444311854745736,
       "percentage": 1.845018450184502,
       "maturity": 3.3655355142603147,
       "total_commits_count": 271,
       "activity": 5,
-      "total_score": 19.261529157461496,
+      "total_score": 19.326682027954856,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -245,12 +245,12 @@
     },
     "canjs/canjs": {
       "full_name": "canjs/canjs",
-      "popularity": 4.218338212173986,
-      "percentage": 0.02277644915157727,
-      "maturity": 4.943302387469167,
-      "total_commits_count": 8781,
+      "popularity": 4.218600847936869,
+      "percentage": 0.022771262666514858,
+      "maturity": 4.943401744489475,
+      "total_commits_count": 8783,
       "activity": 5,
-      "total_score": 27.554109651013476,
+      "total_score": 27.55509420562872,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

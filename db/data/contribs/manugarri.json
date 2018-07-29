@@ -3,12 +3,12 @@
   "repos": {
     "databricks/mlflow": {
       "full_name": "databricks/mlflow",
-      "popularity": 4.265823554374228,
+      "popularity": 4.266058995388356,
       "percentage": 0.8264462809917356,
       "maturity": 2.91075503612971,
       "total_commits_count": 121,
       "activity": 5,
-      "total_score": 24.077292356926442,
+      "total_score": 24.078023975284395,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -245,12 +245,12 @@
     },
     "eskerda/pybikes": {
       "full_name": "eskerda/pybikes",
-      "popularity": 3.5239155525922445,
+      "popularity": 3.5252135048242974,
       "percentage": 0.16556291390728478,
       "maturity": 3.753092111146201,
       "total_commits_count": 604,
-      "activity": 2.853575024450868,
-      "total_score": 21.007351769062552,
+      "activity": 2.823530982634702,
+      "total_score": 20.981229520000518,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

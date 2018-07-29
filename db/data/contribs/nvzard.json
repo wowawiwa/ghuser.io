@@ -14,12 +14,12 @@
     },
     "errbotio/errbot": {
       "full_name": "errbotio/errbot",
-      "popularity": 4.247300213321817,
+      "popularity": 4.247545910592522,
       "percentage": 0.12004801920768307,
       "maturity": 4.3925124379491125,
       "total_commits_count": 2499,
       "activity": 5,
-      "total_score": 26.593209912950332,
+      "total_score": 26.593950839173633,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -80,12 +80,12 @@
     },
     "coala/coala": {
       "full_name": "coala/coala",
-      "popularity": 4.363481828239683,
+      "popularity": 4.363293707954494,
       "percentage": 0.0991571641051066,
       "maturity": 4.603155209295582,
       "total_commits_count": 4034,
       "activity": 5,
-      "total_score": 27.353003066192827,
+      "total_score": 27.35243628038564,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

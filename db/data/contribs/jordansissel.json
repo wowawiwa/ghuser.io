@@ -91,12 +91,12 @@
     },
     "elastic/logstash": {
       "full_name": "elastic/logstash",
-      "popularity": 4.964209115315812,
+      "popularity": 4.9642562771517875,
       "percentage": 45.25206562088373,
       "maturity": 4.921394805577064,
       "total_commits_count": 8351,
       "activity": 5,
-      "total_score": 58.9387101205694,
+      "total_score": 58.93912904824185,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -113,12 +113,12 @@
     },
     "elastic/logstash-docs": {
       "full_name": "elastic/logstash-docs",
-      "popularity": 2.3636508993380505,
+      "popularity": 2.3820559690418284,
       "percentage": 2.1447721179624666,
       "maturity": 3.524310431080785,
       "total_commits_count": 373,
       "activity": 5,
-      "total_score": 19.798607591090352,
+      "total_score": 19.858954508644562,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -168,12 +168,12 @@
     },
     "jruby/jruby": {
       "full_name": "jruby/jruby",
-      "popularity": 4.49029261815485,
+      "popularity": 4.490433048371157,
       "percentage": 0.009231905465288036,
       "maturity": 5,
       "total_commits_count": 43328,
       "activity": 5,
-      "total_score": 28.476266868869647,
+      "total_score": 28.476688328055573,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -212,12 +212,12 @@
     },
     "jordansissel/pleaserun": {
       "full_name": "jordansissel/pleaserun",
-      "popularity": 4.037903640845309,
+      "popularity": 4.0383014921789995,
       "percentage": 88.51851851851852,
       "maturity": 3.3636521841911384,
       "total_commits_count": 270,
-      "activity": 1.1905394676638967,
-      "total_score": 66.49735702564274,
+      "activity": 1.1898641723629426,
+      "total_score": 66.50245352172722,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -245,12 +245,12 @@
     },
     "elastic/docs": {
       "full_name": "elastic/docs",
-      "popularity": 3.0338647464484936,
+      "popularity": 3.0378638034149463,
       "percentage": 0,
       "maturity": 2.9564591863300644,
       "total_commits_count": 130,
       "activity": 5,
-      "total_score": 20.01451261200561,
+      "total_score": 20.026509782904967,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -278,12 +278,12 @@
     },
     "cesanta/mongoose-os": {
       "full_name": "cesanta/mongoose-os",
-      "popularity": 4.194581177597906,
+      "popularity": 4.194858575719498,
       "percentage": 0,
       "maturity": 4.581302668056522,
       "total_commits_count": 3838,
       "activity": 5,
-      "total_score": 26.74634886890676,
+      "total_score": 26.74718106327154,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -1092,12 +1092,12 @@
     },
     "elastic/kibana": {
       "full_name": "elastic/kibana",
-      "popularity": 4.989493355635237,
+      "popularity": 4.989537850285432,
       "percentage": 0.06946198534983582,
       "maturity": 5,
       "total_commits_count": 15836,
       "activity": 5,
-      "total_score": 30.013535481774102,
+      "total_score": 30.013669367513963,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -1246,12 +1246,12 @@
     },
     "elastic/curator": {
       "full_name": "elastic/curator",
-      "popularity": 4.3075565179310376,
+      "popularity": 4.30777039289046,
       "percentage": 0.21528525296017223,
       "maturity": 3.9506867339556755,
       "total_commits_count": 929,
-      "activity": 2.194165159412361,
-      "total_score": 23.138764122415218,
+      "activity": 2.1874032125962706,
+      "total_score": 23.132649786213612,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -1401,11 +1401,11 @@
     "monitorama/monitorama.github.com": {
       "full_name": "monitorama/monitorama.github.com",
       "popularity": 2.179015777092762,
-      "percentage": 0.639386189258312,
-      "maturity": 3.872198516692047,
-      "total_commits_count": 782,
+      "percentage": 0.6385696040868455,
+      "maturity": 3.87278334672286,
+      "total_commits_count": 783,
       "activity": 5,
-      "total_score": 19.462564601888758,
+      "total_score": 19.46350294619403,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -1789,8 +1789,8 @@
       "percentage": 0,
       "maturity": 0,
       "total_commits_count": 2,
-      "activity": 1.6275798849810101,
-      "total_score": 16.62757988498101,
+      "activity": 1.6257350857442328,
+      "total_score": 16.625735085744232,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

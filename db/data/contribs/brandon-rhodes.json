@@ -36,12 +36,12 @@
     },
     "PrismJS/prism": {
       "full_name": "PrismJS/prism",
-      "popularity": 4.743556691856002,
+      "popularity": 4.743635075872857,
       "percentage": 0.041631973355537054,
       "maturity": 4.375034524863965,
       "total_commits_count": 2402,
       "activity": 5,
-      "total_score": 28.00641199665069,
+      "total_score": 28.006647572927825,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -476,12 +476,12 @@
     },
     "cython/cython": {
       "full_name": "cython/cython",
-      "popularity": 4.520535720906762,
+      "popularity": 4.520666706093869,
       "percentage": 0.007654037504783774,
       "maturity": 5,
       "total_commits_count": 13065,
       "activity": 5,
-      "total_score": 28.566105208213727,
+      "total_score": 28.566498294108566,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -652,12 +652,12 @@
     },
     "eventlet/eventlet": {
       "full_name": "eventlet/eventlet",
-      "popularity": 3.841461127424327,
+      "popularity": 3.842086371539707,
       "percentage": 0.12853470437017994,
       "maturity": 4.182464052057556,
       "total_commits_count": 1556,
       "activity": 5,
-      "total_score": 24.95350042553529,
+      "total_score": 24.955386605405206,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

@@ -234,12 +234,12 @@
     },
     "zalmoxisus/redux-devtools-extension": {
       "full_name": "zalmoxisus/redux-devtools-extension",
-      "popularity": 4.836875697976076,
+      "popularity": 4.837128558630064,
       "percentage": 0.12345679012345678,
       "maturity": 3.888283216984283,
       "total_commits_count": 810,
       "activity": 5,
-      "total_score": 27.36482239712357,
+      "total_score": 27.365585037342942,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -267,12 +267,12 @@
     },
     "jamesdbloom/mockserver": {
       "full_name": "jamesdbloom/mockserver",
-      "popularity": 4.207161583878138,
+      "popularity": 4.207431064207166,
       "percentage": 0.053022269353128315,
       "maturity": 4.267991447041837,
       "total_commits_count": 1886,
-      "activity": 5,
-      "total_score": 26.186467168830717,
+      "activity": 4.739507924688956,
+      "total_score": 25.926785392006373,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
