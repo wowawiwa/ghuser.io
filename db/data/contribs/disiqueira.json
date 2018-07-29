@@ -91,12 +91,12 @@
     },
     "kennethreitz/twitter-scraper": {
       "full_name": "kennethreitz/twitter-scraper",
-      "popularity": 4.024976053000141,
+      "popularity": 4.0253859194760055,
       "percentage": 2.857142857142857,
       "maturity": 0,
       "total_commits_count": 35,
-      "activity": 1.9252688815604495,
-      "total_score": 15.495188145960924,
+      "activity": 1.9178415050431044,
+      "total_score": 15.489142604990779,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -146,12 +146,12 @@
     },
     "uber-go/zap": {
       "full_name": "uber-go/zap",
-      "popularity": 4.630782144127015,
+      "popularity": 4.6309853656196065,
       "percentage": 0.27548209366391185,
       "maturity": 3.51107274030634,
       "total_commits_count": 363,
       "activity": 5,
-      "total_score": 26.08033259584125,
+      "total_score": 26.080949538223717,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -234,23 +234,23 @@
     },
     "google/skylark": {
       "full_name": "google/skylark",
-      "popularity": 4.02126974341077,
+      "popularity": 4.021683121022051,
       "percentage": 3.0927835051546393,
       "maturity": 2.7583693920773915,
       "total_commits_count": 97,
       "activity": 5,
-      "total_score": 24.197347189572866,
+      "total_score": 24.198753525776194,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "Netflix/chaosmonkey": {
       "full_name": "Netflix/chaosmonkey",
-      "popularity": 4.664878425094889,
+      "popularity": 4.664972375357607,
       "percentage": 3.8461538461538463,
       "maturity": 2.582656746092775,
       "total_commits_count": 78,
       "activity": 5,
-      "total_score": 26.49238798001766,
+      "total_score": 26.492716805937174,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -278,12 +278,12 @@
     },
     "OpenGenus/cosmos": {
       "full_name": "OpenGenus/cosmos",
-      "popularity": 4.974371131047946,
+      "popularity": 4.974417202217055,
       "percentage": 0,
       "maturity": 4.852266130177679,
       "total_commits_count": 7128,
       "activity": 5,
-      "total_score": 29.627645653499197,
+      "total_score": 29.627783867006524,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -300,12 +300,12 @@
     },
     "jmoiron/sqlx": {
       "full_name": "jmoiron/sqlx",
-      "popularity": 4.673345742306151,
+      "popularity": 4.673437878780261,
       "percentage": 0.37735849056603776,
       "maturity": 3.354111043795162,
       "total_commits_count": 265,
       "activity": 5,
-      "total_score": 25.95751778488606,
+      "total_score": 25.957798714210895,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -487,12 +487,12 @@
     },
     "gorilla/mux": {
       "full_name": "gorilla/mux",
-      "popularity": 4.821886560723703,
+      "popularity": 4.822082878637946,
       "percentage": 0.5780346820809249,
       "maturity": 3.1259130721649018,
       "total_commits_count": 173,
       "activity": 5,
-      "total_score": 26.07982412297148,
+      "total_score": 26.08042782892742,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -520,12 +520,12 @@
     },
     "jinzhu/gorm": {
       "full_name": "jinzhu/gorm",
-      "popularity": 4.987933163979169,
+      "popularity": 4.988022468938779,
       "percentage": 0.0749063670411985,
       "maturity": 4.1140394881850195,
       "total_commits_count": 1335,
       "activity": 5,
-      "total_score": 28.24045010211408,
+      "total_score": 28.240718886629224,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -575,12 +575,12 @@
     },
     "koding/kite": {
       "full_name": "koding/kite",
-      "popularity": 4.305411955359672,
+      "popularity": 4.305626888791672,
       "percentage": 0.21037868162692847,
       "maturity": 4.1435307571170075,
       "total_commits_count": 1426,
       "activity": 5,
-      "total_score": 26.32104707614685,
+      "total_score": 26.32169775470642,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

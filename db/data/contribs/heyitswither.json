@@ -14,12 +14,12 @@
     },
     "Jguer/yay": {
       "full_name": "Jguer/yay",
-      "popularity": 3.9944002366015043,
+      "popularity": 3.9948399839921143,
       "percentage": 0.29027576197387517,
       "maturity": 3.8140476607785057,
       "total_commits_count": 689,
       "activity": 5,
-      "total_score": 24.76202811576158,
+      "total_score": 24.763363952174565,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -103,11 +103,11 @@
     "NISH1001/playx": {
       "full_name": "NISH1001/playx",
       "popularity": 2.3997126544096057,
-      "percentage": 1.7543859649122806,
-      "maturity": 2.234722295244445,
-      "total_commits_count": 57,
+      "percentage": 7.936507936507937,
+      "maturity": 2.3653407969119673,
+      "total_commits_count": 63,
       "activity": 5,
-      "total_score": 17.215885439811125,
+      "total_score": 19.4057135655706,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

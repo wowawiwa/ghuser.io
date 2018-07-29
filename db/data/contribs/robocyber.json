@@ -1,0 +1,83 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "robocyber/Linkedin-Auto-Connect-Script": {
+      "full_name": "robocyber/Linkedin-Auto-Connect-Script",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 3,
+      "activity": 2.43656272068006,
+      "total_score": 2.43656272068006,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "tcpiplab/Web-App-Hacking-Notes": {
+      "full_name": "tcpiplab/Web-App-Hacking-Notes",
+      "popularity": 1.6128219920330789,
+      "percentage": 0,
+      "maturity": 2.4802970571810303,
+      "total_commits_count": 70,
+      "activity": 1.753705089744492,
+      "total_score": 11.552765180205789,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "KevinWorkman/HappyCoding": {
+      "full_name": "KevinWorkman/HappyCoding",
+      "popularity": 2.045361715305606,
+      "percentage": 0.9146341463414634,
+      "maturity": 3.791387246141552,
+      "total_commits_count": 656,
+      "activity": 5,
+      "total_score": 18.96205813483687,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "robocyber/Keylogger": {
+      "full_name": "robocyber/Keylogger",
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 5,
+      "activity": 1.3156780282156753,
+      "total_score": 1.3156780282156753,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "abahgat/redmine_didyoumean": {
+      "full_name": "abahgat/redmine_didyoumean",
+      "popularity": 2.813620017180149,
+      "percentage": 2.0408163265306123,
+      "maturity": 2.765909468455758,
+      "total_commits_count": 98,
+      "activity": 1.2994859549387816,
+      "total_score": 16.01863556019364,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "thank-you-github/thank-you-github": {
+      "full_name": "thank-you-github/thank-you-github",
+      "popularity": 4.259417914885178,
+      "percentage": 0,
+      "maturity": 4.380333985592138,
+      "total_commits_count": 2431,
+      "activity": 5,
+      "total_score": 26.538921715839813,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Roshanjossey/first-contributions": {
+      "full_name": "Roshanjossey/first-contributions",
+      "popularity": 4.40931266379952,
+      "percentage": 0,
+      "maturity": 4.9524466988996645,
+      "total_commits_count": 8967,
+      "activity": 5,
+      "total_score": 28.13283138919789,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": []
+}

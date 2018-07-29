@@ -3,12 +3,12 @@
   "repos": {
     "databricks/mlflow": {
       "full_name": "databricks/mlflow",
-      "popularity": 4.266058995388356,
-      "percentage": 0.8264462809917356,
-      "maturity": 2.91075503612971,
-      "total_commits_count": 121,
+      "popularity": 4.26723428968655,
+      "percentage": 0.8130081300813008,
+      "maturity": 2.9213352571273665,
+      "total_commits_count": 123,
       "activity": 5,
-      "total_score": 24.078023975284395,
+      "total_score": 24.095381885476375,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

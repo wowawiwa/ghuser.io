@@ -245,12 +245,12 @@
     },
     "sendgrid/sendgrid-php": {
       "full_name": "sendgrid/sendgrid-php",
-      "popularity": 3.9330705791953133,
+      "popularity": 3.933576986069927,
       "percentage": 0.15313935681470137,
       "maturity": 3.7892673520991162,
       "total_commits_count": 653,
       "activity": 5,
-      "total_score": 24.456046468628795,
+      "total_score": 24.457575770859634,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -280,10 +280,10 @@
       "full_name": "thank-you-github/thank-you-github",
       "popularity": 4.259417914885178,
       "percentage": 0,
-      "maturity": 4.37924283836316,
-      "total_commits_count": 2425,
+      "maturity": 4.380333985592138,
+      "total_commits_count": 2431,
       "activity": 5,
-      "total_score": 26.536739421381853,
+      "total_score": 26.538921715839813,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -322,12 +322,12 @@
     },
     "phpmyadmin/phpmyadmin": {
       "full_name": "phpmyadmin/phpmyadmin",
-      "popularity": 4.508986067264315,
+      "popularity": 4.509120582065339,
       "percentage": 0,
       "maturity": 5,
       "total_commits_count": 82555,
       "activity": 5,
-      "total_score": 28.526958201792944,
+      "total_score": 28.527361746196018,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -675,11 +675,11 @@
     "civicrm/civicrm-core": {
       "full_name": "civicrm/civicrm-core",
       "popularity": 3.455036292252844,
-      "percentage": 0.011182763633652663,
+      "percentage": 0.011181930001118194,
       "maturity": 5,
-      "total_commits_count": 26827,
+      "total_commits_count": 26829,
       "activity": 5,
-      "total_score": 25.370131667804785,
+      "total_score": 25.3701312933748,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

@@ -47,12 +47,12 @@
     },
     "brillout/awesome-angular-components": {
       "full_name": "brillout/awesome-angular-components",
-      "popularity": 4.369087875922588,
+      "popularity": 4.36927350358979,
       "percentage": 39.50617283950617,
       "maturity": 3.088450563344869,
       "total_commits_count": 162,
-      "activity": 2.989804038158625,
-      "total_score": 44.71274109365065,
+      "activity": 2.9475800847921976,
+      "total_score": 44.67202737031739,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -388,12 +388,12 @@
     },
     "jnv/lists": {
       "full_name": "jnv/lists",
-      "popularity": 4.708213449566262,
+      "popularity": 4.70829847863746,
       "percentage": 0.15337423312883436,
       "maturity": 3.788558415009318,
       "total_commits_count": 652,
       "activity": 5,
-      "total_score": 26.795632600257857,
+      "total_score": 26.795889382836368,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -422,11 +422,11 @@
     "sindresorhus/awesome": {
       "full_name": "sindresorhus/awesome",
       "popularity": 5,
-      "percentage": 0.1430615164520744,
-      "maturity": 3.820687367337964,
-      "total_commits_count": 699,
+      "percentage": 0.14245014245014245,
+      "maturity": 3.822659644770373,
+      "total_commits_count": 702,
       "activity": 5,
-      "total_score": 27.734364720369776,
+      "total_score": 27.73791188213334,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -466,11 +466,11 @@
     "AurelienLourot/ghuser.io": {
       "full_name": "AurelienLourot/ghuser.io",
       "popularity": 2.463931943319936,
-      "percentage": 1.4814814814814814,
-      "maturity": 3.3636521841911384,
-      "total_commits_count": 270,
+      "percentage": 1.4760147601476015,
+      "maturity": 3.3655355142603147,
+      "total_commits_count": 271,
       "activity": 5,
-      "total_score": 19.593635239277777,
+      "total_score": 19.59565084760456,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

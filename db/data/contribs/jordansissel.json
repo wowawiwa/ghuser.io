@@ -3,12 +3,12 @@
   "repos": {
     "jordansissel/fpm": {
       "full_name": "jordansissel/fpm",
-      "popularity": 4.934744537473205,
+      "popularity": 4.93479500983483,
       "percentage": 65.8611825192802,
       "maturity": 4.281654004675052,
       "total_commits_count": 1945,
       "activity": 5,
-      "total_score": 70.61859600868041,
+      "total_score": 70.61917956779004,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -168,12 +168,12 @@
     },
     "jruby/jruby": {
       "full_name": "jruby/jruby",
-      "popularity": 4.490433048371157,
+      "popularity": 4.490854066774679,
       "percentage": 0.009231905465288036,
       "maturity": 5,
       "total_commits_count": 43328,
       "activity": 5,
-      "total_score": 28.476688328055573,
+      "total_score": 28.477951888550407,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -1015,12 +1015,12 @@
     },
     "logstash-plugins/logstash-input-jdbc": {
       "full_name": "logstash-plugins/logstash-input-jdbc",
-      "popularity": 3.3911506864735506,
+      "popularity": 3.3893823839580257,
       "percentage": 1.5267175572519085,
       "maturity": 2.961252793435558,
       "total_commits_count": 131,
       "activity": 5,
-      "total_score": 21.769010454294154,
+      "total_score": 21.76335458594297,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -1789,8 +1789,8 @@
       "percentage": 0,
       "maturity": 0,
       "total_commits_count": 2,
-      "activity": 1.6257350857442328,
-      "total_score": 16.625735085744232,
+      "activity": 1.6238216411991009,
+      "total_score": 16.6238216411991,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -2313,12 +2313,12 @@
     },
     "elastic/beats": {
       "full_name": "elastic/beats",
-      "popularity": 4.770456587858247,
+      "popularity": 4.77060392869614,
       "percentage": 0.026592208482914506,
       "maturity": 4.875701755451103,
       "total_commits_count": 7521,
       "activity": 5,
-      "total_score": 29.07926468137554,
+      "total_score": 29.079707213244596,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

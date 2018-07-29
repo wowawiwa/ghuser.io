@@ -36,12 +36,12 @@
     },
     "p-society/typeracer-cli": {
       "full_name": "p-society/typeracer-cli",
-      "popularity": 3.1209418766789323,
+      "popularity": 3.1242171147613855,
       "percentage": 77.46478873239437,
       "maturity": 2.4944911357284782,
       "total_commits_count": 71,
       "activity": 5,
-      "total_score": 50.78101130748582,
+      "total_score": 50.823820053126894,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -251,6 +251,17 @@
       "total_commits_count": 8783,
       "activity": 5,
       "total_score": 27.55509420562872,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "p-society/slackcontestwatcherbot": {
+      "full_name": "p-society/slackcontestwatcherbot",
+      "popularity": 1.3222565221025262,
+      "percentage": 50,
+      "maturity": 0,
+      "total_commits_count": 4,
+      "activity": 5,
+      "total_score": 17.561436959974,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

@@ -102,12 +102,12 @@
     },
     "GoogleChrome/accessibility-developer-tools": {
       "full_name": "GoogleChrome/accessibility-developer-tools",
-      "popularity": 4.251214786467938,
+      "popularity": 4.2514582796813665,
       "percentage": 0,
       "maturity": 3.507021451406386,
       "total_commits_count": 360,
-      "activity": 1.3899165610556987,
-      "total_score": 21.157603823272286,
+      "activity": 1.3860423632668772,
+      "total_score": 21.15446010512375,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -136,11 +136,11 @@
     "samselikoff/ember-cli-mirage": {
       "full_name": "samselikoff/ember-cli-mirage",
       "popularity": 3.9026402144284402,
-      "percentage": 0.17825311942959002,
-      "maturity": 4.036003555509855,
-      "total_commits_count": 1122,
+      "percentage": 0.17793594306049823,
+      "maturity": 4.036805503188364,
+      "total_commits_count": 1124,
       "activity": 5,
-      "total_score": 24.87036326729535,
+      "total_score": 24.87180624536947,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -234,12 +234,12 @@
     },
     "zalmoxisus/redux-devtools-extension": {
       "full_name": "zalmoxisus/redux-devtools-extension",
-      "popularity": 4.837128558630064,
+      "popularity": 4.8373181075517495,
       "percentage": 0.12345679012345678,
       "maturity": 3.888283216984283,
       "total_commits_count": 810,
       "activity": 5,
-      "total_score": 27.365585037342942,
+      "total_score": 27.366156726251187,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -267,12 +267,12 @@
     },
     "jamesdbloom/mockserver": {
       "full_name": "jamesdbloom/mockserver",
-      "popularity": 4.207431064207166,
+      "popularity": 4.207161583878138,
       "percentage": 0.053022269353128315,
       "maturity": 4.267991447041837,
       "total_commits_count": 1886,
-      "activity": 4.739507924688956,
-      "total_score": 25.926785392006373,
+      "activity": 3.910976119743812,
+      "total_score": 25.097443288574528,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
