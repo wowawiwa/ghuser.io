@@ -741,11 +741,11 @@
     "librenms/librenms": {
       "full_name": "librenms/librenms",
       "popularity": 4.044225935890071,
-      "percentage": 0.017855548611731095,
+      "percentage": 0.017853954650955187,
       "maturity": 5,
-      "total_commits_count": 11201,
+      "total_commits_count": 11202,
       "activity": 5,
-      "total_score": 27.142065351133578,
+      "total_score": 27.142064513109702,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

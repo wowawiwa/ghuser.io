@@ -1444,12 +1444,12 @@
     },
     "boto/boto": {
       "full_name": "boto/boto",
-      "popularity": 4.788850643852163,
+      "popularity": 4.788921265434623,
       "percentage": 0.020863759649488837,
       "maturity": 4.678713233621913,
       "total_commits_count": 4793,
       "activity": 5,
-      "total_score": 28.736967144548295,
+      "total_score": 28.7371792008418,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

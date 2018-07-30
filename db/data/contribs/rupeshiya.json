@@ -102,12 +102,12 @@
     },
     "dwyl/the-book": {
       "full_name": "dwyl/the-book",
-      "popularity": 3.8274729782384163,
+      "popularity": 3.828118673403023,
       "percentage": 0.7575757575757576,
       "maturity": 2.9659940673125176,
       "total_commits_count": 132,
-      "activity": 1.7457838333553224,
-      "total_score": 19.53713899903727,
+      "activity": 1.6919380220236149,
+      "total_score": 19.485293864389835,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

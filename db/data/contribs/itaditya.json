@@ -796,11 +796,11 @@
     "Cloud-CV/EvalAI": {
       "full_name": "Cloud-CV/EvalAI",
       "popularity": 3.671304513268116,
-      "percentage": 0.32679738562091504,
-      "maturity": 3.945280098422064,
-      "total_commits_count": 918,
+      "percentage": 0.3264417845484222,
+      "maturity": 3.945774401547509,
+      "total_commits_count": 919,
       "activity": 5,
-      "total_score": 24.060444189826534,
+      "total_score": 24.061263078500517,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

@@ -300,12 +300,12 @@
     },
     "jmoiron/sqlx": {
       "full_name": "jmoiron/sqlx",
-      "popularity": 4.673437878780261,
+      "popularity": 4.673529995711572,
       "percentage": 0.37735849056603776,
       "maturity": 3.354111043795162,
       "total_commits_count": 265,
       "activity": 5,
-      "total_score": 25.957798714210895,
+      "total_score": 25.958079583948628,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

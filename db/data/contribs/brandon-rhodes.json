@@ -113,12 +113,12 @@
     },
     "brandon-rhodes/python-sgp4": {
       "full_name": "brandon-rhodes/python-sgp4",
-      "popularity": 2.9595574227207875,
+      "popularity": 2.964298676410496,
       "percentage": 98.4,
       "maturity": 2.931663842435397,
       "total_commits_count": 125,
-      "activity": 2.1327189196935423,
-      "total_score": 54.73337742417102,
+      "activity": 1.9979957123106304,
+      "total_score": 54.67352809505598,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -278,12 +278,12 @@
     },
     "bling/fzf.el": {
       "full_name": "bling/fzf.el",
-      "popularity": 3.0378638034149463,
+      "popularity": 3.0418263721237575,
       "percentage": 8,
       "maturity": 0,
       "total_commits_count": 25,
-      "activity": 2.7190314420578137,
-      "total_score": 14.992001207854196,
+      "activity": 2.5218797891829334,
+      "total_score": 14.810858332562916,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
