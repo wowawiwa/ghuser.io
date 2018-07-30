@@ -14,23 +14,23 @@
     },
     "coala/coala": {
       "full_name": "coala/coala",
-      "popularity": 4.363857824526184,
-      "percentage": 0.29710324337707356,
-      "maturity": 4.6036985393535135,
-      "total_commits_count": 4039,
+      "popularity": 4.364045700668409,
+      "percentage": 0.29673590504451036,
+      "maturity": 4.604241190520185,
+      "total_commits_count": 4044,
       "activity": 5,
-      "total_score": 27.46751767301499,
+      "total_score": 27.468965459629246,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "kubernetes/community": {
       "full_name": "kubernetes/community",
-      "popularity": 4.352047852481158,
+      "popularity": 4.353397432447367,
       "percentage": 0,
       "maturity": 4.705895384014238,
       "total_commits_count": 5100,
       "activity": 5,
-      "total_score": 27.46793432547195,
+      "total_score": 27.47198306537058,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -69,12 +69,12 @@
     },
     "tapasweni-pathak/SOC-Programs": {
       "full_name": "tapasweni-pathak/SOC-Programs",
-      "popularity": 3.8096661244882792,
+      "popularity": 3.810338823643776,
       "percentage": 22.22222222222222,
       "maturity": 0,
       "total_commits_count": 36,
       "activity": 5,
-      "total_score": 27.43470051087542,
+      "total_score": 27.43866196145779,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -223,12 +223,12 @@
     },
     "ethereum/web3.py": {
       "full_name": "ethereum/web3.py",
-      "popularity": 3.9755168476834064,
+      "popularity": 3.975976127005014,
       "percentage": 0.06406149903907751,
       "maturity": 4.183893971023535,
       "total_commits_count": 1561,
       "activity": 5,
-      "total_score": 25.32744656903059,
+      "total_score": 25.32882823187125,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -279,11 +279,11 @@
     "Kinto/kinto": {
       "full_name": "Kinto/kinto",
       "popularity": 4.5459767721831845,
-      "percentage": 0.02800336040324839,
-      "maturity": 4.549646286400249,
-      "total_commits_count": 3571,
+      "percentage": 0.027972027972027972,
+      "maturity": 4.550137973108622,
+      "total_commits_count": 3575,
       "activity": 5,
-      "total_score": 27.753772230721765,
+      "total_score": 27.75473708739292,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -388,12 +388,12 @@
     },
     "OpenGenus/cosmos": {
       "full_name": "OpenGenus/cosmos",
-      "popularity": 4.974693526644349,
+      "popularity": 4.974785595730736,
       "percentage": 0.05611672278338945,
       "maturity": 4.852266130177679,
       "total_commits_count": 7128,
       "activity": 5,
-      "total_score": 29.664904094972115,
+      "total_score": 29.665180973891278,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -410,12 +410,12 @@
     },
     "p-society/slackcontestwatcherbot": {
       "full_name": "p-society/slackcontestwatcherbot",
-      "popularity": 1.6128219920330789,
+      "popularity": 1.7076084983408428,
       "percentage": 0,
       "maturity": 0,
       "total_commits_count": 6,
       "activity": 5,
-      "total_score": 9.838465976099236,
+      "total_score": 10.122825495022528,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

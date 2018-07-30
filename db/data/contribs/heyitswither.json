@@ -3,23 +3,23 @@
   "repos": {
     "selfagency/microsoft-drop-ice": {
       "full_name": "selfagency/microsoft-drop-ice",
-      "popularity": 3.730094233751377,
+      "popularity": 3.7292848885876095,
       "percentage": 0.14492753623188406,
       "maturity": 3.8147162180975105,
       "total_commits_count": 690,
       "activity": 5,
-      "total_score": 23.889992275186497,
+      "total_score": 23.887548991163122,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "Jguer/yay": {
       "full_name": "Jguer/yay",
-      "popularity": 3.9957181452171233,
-      "percentage": 0.2881844380403458,
-      "maturity": 3.8173802028200328,
-      "total_commits_count": 694,
+      "popularity": 3.996594534346825,
+      "percentage": 0.28694404591104733,
+      "maturity": 3.819367522088087,
+      "total_commits_count": 697,
       "activity": 5,
-      "total_score": 24.771610333763547,
+      "total_score": 24.777602517938337,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

@@ -4,11 +4,11 @@
     "sendgrid/docs": {
       "full_name": "sendgrid/docs",
       "popularity": 3.0535016590191395,
-      "percentage": 0.00991571641051066,
+      "percentage": 0.009893153937475268,
       "maturity": 5,
-      "total_commits_count": 10085,
+      "total_commits_count": 10108,
       "activity": 5,
-      "total_score": 24.1644410724037,
+      "total_score": 24.16443211611235,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
