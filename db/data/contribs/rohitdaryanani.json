@@ -36,12 +36,12 @@
     },
     "sendgrid/csharp-http-client": {
       "full_name": "sendgrid/csharp-http-client",
-      "popularity": 2.0828241359374196,
+      "popularity": 2.179015777092762,
       "percentage": 1.0101010101010102,
       "maturity": 2.773320867412916,
       "total_commits_count": 99,
-      "activity": 1.2271459030519907,
-      "total_score": 13.295762204954592,
+      "activity": 1.2071247283479303,
+      "total_score": 13.576947179322815,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

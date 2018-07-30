@@ -3,23 +3,23 @@
   "repos": {
     "selfagency/microsoft-drop-ice": {
       "full_name": "selfagency/microsoft-drop-ice",
-      "popularity": 3.7292848885876095,
+      "popularity": 3.730094233751377,
       "percentage": 0.14492753623188406,
       "maturity": 3.8147162180975105,
       "total_commits_count": 690,
       "activity": 5,
-      "total_score": 23.887548991163122,
+      "total_score": 23.889992275186497,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "Jguer/yay": {
       "full_name": "Jguer/yay",
-      "popularity": 3.9948399839921143,
-      "percentage": 0.29027576197387517,
-      "maturity": 3.8140476607785057,
-      "total_commits_count": 689,
+      "popularity": 3.9957181452171233,
+      "percentage": 0.2881844380403458,
+      "maturity": 3.8173802028200328,
+      "total_commits_count": 694,
       "activity": 5,
-      "total_score": 24.763363952174565,
+      "total_score": 24.771610333763547,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -102,12 +102,12 @@
     },
     "NISH1001/playx": {
       "full_name": "NISH1001/playx",
-      "popularity": 2.3997126544096057,
+      "popularity": 2.463931943319936,
       "percentage": 8.333333333333334,
       "maturity": 2.508235952687284,
       "total_commits_count": 72,
       "activity": 5,
-      "total_score": 19.815298577547125,
+      "total_score": 20.07752734059764,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

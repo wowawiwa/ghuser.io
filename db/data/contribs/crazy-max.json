@@ -3,12 +3,12 @@
   "repos": {
     "crazy-max/WindowsSpyBlocker": {
       "full_name": "crazy-max/WindowsSpyBlocker",
-      "popularity": 3.8313328272661047,
+      "popularity": 3.8326118577522257,
       "percentage": 99.09909909909909,
       "maturity": 3.468751545832409,
       "total_commits_count": 333,
       "activity": 5,
-      "total_score": 72.7901136724769,
+      "total_score": 72.8104283638916,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -201,12 +201,12 @@
     },
     "portapps/skype-portable": {
       "full_name": "portapps/skype-portable",
-      "popularity": 1.9590800514478444,
+      "popularity": 2.0043600754367907,
       "percentage": 100,
       "maturity": 0,
       "total_commits_count": 33,
       "activity": 5,
-      "total_score": 36.34528082316551,
+      "total_score": 37.06976120698865,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -608,12 +608,12 @@
     },
     "badges/shields": {
       "full_name": "badges/shields",
-      "popularity": 4.774417349305896,
-      "percentage": 0.055401662049861494,
-      "maturity": 4.248505535383188,
-      "total_commits_count": 1805,
+      "popularity": 4.774563352730499,
+      "percentage": 0.05537098560354374,
+      "maturity": 4.248751511024136,
+      "total_commits_count": 1806,
       "activity": 5,
-      "total_score": 27.854649504025325,
+      "total_score": 27.855561476466512,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -630,12 +630,12 @@
     },
     "StevenBlack/hosts": {
       "full_name": "StevenBlack/hosts",
-      "popularity": 4.99497621887986,
+      "popularity": 4.995151938117264,
       "percentage": 0.3308519437551696,
       "maturity": 4.069587830901043,
       "total_commits_count": 1209,
       "activity": 5,
-      "total_score": 28.338942005275207,
+      "total_score": 28.339476720804083,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -652,12 +652,12 @@
     },
     "pi-hole/pi-hole": {
       "full_name": "pi-hole/pi-hole",
-      "popularity": 4.971690606211576,
+      "popularity": 4.9719223387007565,
       "percentage": 0.13799448022079117,
       "maturity": 4.330951003217213,
       "total_commits_count": 2174,
       "activity": 5,
-      "total_score": 28.66616238700211,
+      "total_score": 28.666861741584224,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -696,12 +696,12 @@
     },
     "Novik/ruTorrent": {
       "full_name": "Novik/ruTorrent",
-      "popularity": 4.034306482079166,
+      "popularity": 4.034707640878716,
       "percentage": 0.12391573729863693,
       "maturity": 4.19876852744248,
       "total_commits_count": 1614,
       "activity": 5,
-      "total_score": 25.565445329210476,
+      "total_score": 25.566655267894618,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

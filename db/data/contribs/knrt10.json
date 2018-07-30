@@ -36,12 +36,12 @@
     },
     "p-society/typeracer-cli": {
       "full_name": "p-society/typeracer-cli",
-      "popularity": 3.1274678373572993,
+      "popularity": 3.130694408743479,
       "percentage": 77.46478873239437,
       "maturity": 2.4944911357284782,
       "total_commits_count": 71,
       "activity": 5,
-      "total_score": 50.86630837100025,
+      "total_score": 50.90848102235764,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -80,12 +80,12 @@
     },
     "probot/probot": {
       "full_name": "probot/probot",
-      "popularity": 4.467661989739393,
+      "popularity": 4.468105660502525,
       "percentage": 0.2375296912114014,
       "maturity": 3.9059646189103567,
       "total_commits_count": 842,
       "activity": 5,
-      "total_score": 26.352871515510657,
+      "total_score": 26.354216227847367,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -113,12 +113,12 @@
     },
     "probot/smee": {
       "full_name": "probot/smee",
-      "popularity": 2.5198669643416824,
+      "popularity": 2.532793353021433,
       "percentage": 3.827751196172249,
       "maturity": 3.229878901456264,
       "total_commits_count": 209,
       "activity": 5,
-      "total_score": 20.27326378824157,
+      "total_score": 20.318475224245866,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -135,12 +135,12 @@
     },
     "wip/app": {
       "full_name": "wip/app",
-      "popularity": 3.4033312183682662,
+      "popularity": 3.4050437383211576,
       "percentage": 0.8849557522123894,
       "maturity": 2.8656513250381606,
       "total_commits_count": 113,
       "activity": 5,
-      "total_score": 21.33282998517039,
+      "total_score": 21.338164560598862,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -256,12 +256,12 @@
     },
     "p-society/slackcontestwatcherbot": {
       "full_name": "p-society/slackcontestwatcherbot",
-      "popularity": 1.49139952161816,
+      "popularity": 1.6128219920330789,
       "percentage": 33.333333333333336,
       "maturity": 0,
       "total_commits_count": 6,
       "activity": 5,
-      "total_score": 15.93692982519984,
+      "total_score": 16.827361274909244,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

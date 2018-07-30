@@ -322,12 +322,12 @@
     },
     "phpmyadmin/phpmyadmin": {
       "full_name": "phpmyadmin/phpmyadmin",
-      "popularity": 4.509120582065339,
+      "popularity": 4.509255055215755,
       "percentage": 0,
       "maturity": 5,
       "total_commits_count": 82555,
       "activity": 5,
-      "total_score": 28.527361746196018,
+      "total_score": 28.527765165647267,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -652,12 +652,12 @@
     },
     "itaditya/circlebars": {
       "full_name": "itaditya/circlebars",
-      "popularity": 2.3444311854745736,
+      "popularity": 2.3636508993380505,
       "percentage": 1.8518518518518519,
       "maturity": 2.1509431413585514,
       "total_commits_count": 54,
-      "activity": 1.6801373305075318,
-      "total_score": 13.579717269855198,
+      "activity": 1.625566691754126,
+      "total_score": 13.587432740844541,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -675,11 +675,11 @@
     "civicrm/civicrm-core": {
       "full_name": "civicrm/civicrm-core",
       "popularity": 3.455036292252844,
-      "percentage": 0.011181930001118194,
+      "percentage": 0.011179429849077696,
       "maturity": 5,
-      "total_commits_count": 26829,
+      "total_commits_count": 26835,
       "activity": 5,
-      "total_score": 25.3701312933748,
+      "total_score": 25.370130170419714,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
