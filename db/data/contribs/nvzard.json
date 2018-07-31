@@ -80,12 +80,12 @@
     },
     "coala/coala": {
       "full_name": "coala/coala",
-      "popularity": 4.3642334955704065,
+      "popularity": 4.364421209302406,
       "percentage": 0.09888751545117429,
       "maturity": 4.604349639435791,
       "total_commits_count": 4045,
       "activity": 5,
-      "total_score": 27.35750363252215,
+      "total_score": 27.35806918684894,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -113,12 +113,12 @@
     },
     "sendgrid/php-http-client": {
       "full_name": "sendgrid/php-http-client",
-      "popularity": 2.478605454390306,
+      "popularity": 2.492799351998761,
       "percentage": 1.2903225806451613,
       "maturity": 3.062810136718,
       "total_commits_count": 155,
-      "activity": 5,
-      "total_score": 18.97720271282723,
+      "activity": 3.224076335927917,
+      "total_score": 17.246241653437412,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

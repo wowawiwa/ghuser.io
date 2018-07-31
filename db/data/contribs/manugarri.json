@@ -3,12 +3,12 @@
   "repos": {
     "mlflow/mlflow": {
       "full_name": "mlflow/mlflow",
-      "popularity": 4.269108169877655,
-      "percentage": 0.7575757575757576,
-      "maturity": 2.9659940673125176,
-      "total_commits_count": 132,
+      "popularity": 4.269341837420152,
+      "percentage": 0.7352941176470589,
+      "maturity": 2.984457903098387,
+      "total_commits_count": 136,
       "activity": 5,
-      "total_score": 24.15975511553383,
+      "total_score": 24.185040170563568,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -25,12 +25,12 @@
     },
     "manugarri/curso_data_science": {
       "full_name": "manugarri/curso_data_science",
-      "popularity": 2.206864721909315,
+      "popularity": 2.2330349704670382,
       "percentage": 100,
       "maturity": 0,
       "total_commits_count": 12,
       "activity": 5,
-      "total_score": 40.30983555054904,
+      "total_score": 40.72855952747261,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -47,12 +47,12 @@
     },
     "rasbt/mlxtend": {
       "full_name": "rasbt/mlxtend",
-      "popularity": 4.211186336064046,
+      "popularity": 4.211453331329007,
       "percentage": 0.1392757660167131,
       "maturity": 3.833029807441456,
       "total_commits_count": 718,
       "activity": 5,
-      "total_score": 25.375865729438328,
+      "total_score": 25.376671549409316,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -138,7 +138,7 @@
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,
-      "total_commits_count": 18520,
+      "total_commits_count": 18522,
       "activity": 5,
       "total_score": 30,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",

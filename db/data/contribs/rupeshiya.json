@@ -47,12 +47,12 @@
     },
     "openebs/openebs": {
       "full_name": "openebs/openebs",
-      "popularity": 4.722434411962117,
+      "popularity": 4.722598976668295,
       "percentage": 0,
-      "maturity": 4.151601648921451,
-      "total_commits_count": 1452,
+      "maturity": 4.152830119026878,
+      "total_commits_count": 1456,
       "activity": 5,
-      "total_score": 27.470506533729253,
+      "total_score": 27.473457168058644,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -102,12 +102,12 @@
     },
     "dwyl/the-book": {
       "full_name": "dwyl/the-book",
-      "popularity": 3.8300500188081616,
+      "popularity": 3.8306918966780064,
       "percentage": 0.7575757575757576,
       "maturity": 2.9659940673125176,
       "total_commits_count": 132,
-      "activity": 1.6842750588337405,
-      "total_score": 19.483615145674975,
+      "activity": 1.6811185910832265,
+      "total_score": 19.48244752677875,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -168,12 +168,12 @@
     },
     "TheAlgorithms/C": {
       "full_name": "TheAlgorithms/C",
-      "popularity": 3.5367237499150366,
+      "popularity": 3.540493691063696,
       "percentage": 2.380952380952381,
       "maturity": 3.1092840956183023,
       "total_commits_count": 168,
       "activity": 5,
-      "total_score": 22.92343964928875,
+      "total_score": 22.93591635928074,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
