@@ -146,12 +146,12 @@
     },
     "luis-almeida/unveil": {
       "full_name": "luis-almeida/unveil",
-      "popularity": 4.633214548232977,
+      "popularity": 4.633113469592942,
       "percentage": 0,
       "maturity": 0,
       "total_commits_count": 31,
-      "activity": 1.4839719229321875,
-      "total_score": 15.383615567631118,
+      "activity": 1.4713959223430573,
+      "total_score": 15.370736331121883,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -268,11 +268,11 @@
     "sendgrid/docs": {
       "full_name": "sendgrid/docs",
       "popularity": 3.0535016590191395,
-      "percentage": 0.009893153937475268,
+      "percentage": 0.009888262632255512,
       "maturity": 5,
-      "total_commits_count": 10108,
+      "total_commits_count": 10113,
       "activity": 5,
-      "total_score": 24.16443211611235,
+      "total_score": 24.164430174483233,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -322,12 +322,12 @@
     },
     "phpmyadmin/phpmyadmin": {
       "full_name": "phpmyadmin/phpmyadmin",
-      "popularity": 4.509255055215755,
+      "popularity": 4.509389486741348,
       "percentage": 0,
       "maturity": 5,
       "total_commits_count": 82555,
       "activity": 5,
-      "total_score": 28.527765165647267,
+      "total_score": 28.528168460224045,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -675,11 +675,11 @@
     "civicrm/civicrm-core": {
       "full_name": "civicrm/civicrm-core",
       "popularity": 3.455036292252844,
-      "percentage": 0.0111781801922647,
+      "percentage": 0.011174849139536615,
       "maturity": 5,
-      "total_commits_count": 26838,
+      "total_commits_count": 26846,
       "activity": 5,
-      "total_score": 25.370129609130462,
+      "total_score": 25.370128112972413,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

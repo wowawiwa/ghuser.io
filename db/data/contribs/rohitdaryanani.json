@@ -4,11 +4,11 @@
     "sendgrid/docs": {
       "full_name": "sendgrid/docs",
       "popularity": 3.0535016590191395,
-      "percentage": 0.009893153937475268,
+      "percentage": 0.009888262632255512,
       "maturity": 5,
-      "total_commits_count": 10108,
+      "total_commits_count": 10113,
       "activity": 5,
-      "total_score": 24.16443211611235,
+      "total_score": 24.164430174483233,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -36,12 +36,12 @@
     },
     "sendgrid/csharp-http-client": {
       "full_name": "sendgrid/csharp-http-client",
-      "popularity": 2.179015777092762,
+      "popularity": 2.206864721909315,
       "percentage": 1.0101010101010102,
       "maturity": 2.773320867412916,
       "total_commits_count": 99,
-      "activity": 1.2071247283479303,
-      "total_score": 13.576947179322815,
+      "activity": 1.2054152637170858,
+      "total_score": 13.662441481289259,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

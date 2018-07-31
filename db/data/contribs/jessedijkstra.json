@@ -179,12 +179,12 @@
     },
     "zipmark/rspec_api_documentation": {
       "full_name": "zipmark/rspec_api_documentation",
-      "popularity": 4.032295110914825,
+      "popularity": 4.032698131067662,
       "percentage": 0,
       "maturity": 3.7492255009323054,
       "total_commits_count": 599,
       "activity": 5,
-      "total_score": 24.595336334609087,
+      "total_score": 24.5965453950676,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -213,11 +213,11 @@
     "ampproject/amphtml": {
       "full_name": "ampproject/amphtml",
       "popularity": 5,
-      "percentage": 0.010118385105737124,
-      "maturity": 4.9948681983049426,
-      "total_commits_count": 9883,
+      "percentage": 0.010108157282927322,
+      "maturity": 4.995309191528829,
+      "total_commits_count": 9893,
       "activity": 5,
-      "total_score": 29.996313346928613,
+      "total_score": 29.99718868529156,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -234,12 +234,12 @@
     },
     "zalmoxisus/redux-devtools-extension": {
       "full_name": "zalmoxisus/redux-devtools-extension",
-      "popularity": 4.837886258447106,
+      "popularity": 4.838012413328088,
       "percentage": 0.12345679012345678,
       "maturity": 3.888283216984283,
       "total_commits_count": 810,
       "activity": 5,
-      "total_score": 27.367870297408416,
+      "total_score": 27.36825078675933,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -267,12 +267,12 @@
     },
     "jamesdbloom/mockserver": {
       "full_name": "jamesdbloom/mockserver",
-      "popularity": 4.207969523744654,
+      "popularity": 4.2077003774269635,
       "percentage": 0.053022269353128315,
       "maturity": 4.267991447041837,
       "total_commits_count": 1886,
-      "activity": 3.321002701776926,
-      "total_score": 24.50989925925187,
+      "activity": 3.200423384372388,
+      "total_score": 24.38851064769695,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

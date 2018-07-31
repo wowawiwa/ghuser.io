@@ -48,11 +48,11 @@
     "AurelienLourot/ghuser.io": {
       "full_name": "AurelienLourot/ghuser.io",
       "popularity": 2.478605454390306,
-      "percentage": 98.54545454545455,
-      "maturity": 3.372988210663766,
-      "total_commits_count": 275,
+      "percentage": 98.55072463768116,
+      "maturity": 3.3748315717394153,
+      "total_commits_count": 276,
       "activity": 5,
-      "total_score": 50.93498193292408,
+      "total_score": 50.94036677738933,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -201,12 +201,12 @@
     },
     "dnschneid/crouton": {
       "full_name": "dnschneid/crouton",
-      "popularity": 4.825925871868282,
+      "popularity": 4.8260555487873225,
       "percentage": 0.06246096189881324,
       "maturity": 4.195166931334593,
       "total_commits_count": 1601,
       "activity": 5,
-      "total_score": 27.907297634635235,
+      "total_score": 27.90768771835922,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -334,11 +334,11 @@
     "reframejs/reframe": {
       "full_name": "reframejs/reframe",
       "popularity": 3.0573246988147873,
-      "percentage": 0.5854177754124534,
-      "maturity": 4.266341568778577,
-      "total_commits_count": 1879,
+      "percentage": 0.5851063829787234,
+      "maturity": 4.266577649767267,
+      "total_commits_count": 1880,
       "activity": 5,
-      "total_score": 22.937332823107695,
+      "total_score": 22.937681221473852,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
