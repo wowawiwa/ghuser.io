@@ -3,12 +3,12 @@
   "repos": {
     "mlflow/mlflow": {
       "full_name": "mlflow/mlflow",
-      "popularity": 4.269341837420152,
-      "percentage": 0.7352941176470589,
-      "maturity": 2.984457903098387,
-      "total_commits_count": 136,
+      "popularity": 4.270508293009648,
+      "percentage": 0.7246376811594203,
+      "maturity": 2.993403559571943,
+      "total_commits_count": 138,
       "activity": 5,
-      "total_score": 24.185040170563568,
+      "total_score": 24.200626257659245,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -25,12 +25,12 @@
     },
     "manugarri/curso_data_science": {
       "full_name": "manugarri/curso_data_science",
-      "popularity": 2.2330349704670382,
+      "popularity": 2.2577174475727126,
       "percentage": 100,
       "maturity": 0,
       "total_commits_count": 12,
       "activity": 5,
-      "total_score": 40.72855952747261,
+      "total_score": 41.1234791611634,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -47,12 +47,12 @@
     },
     "rasbt/mlxtend": {
       "full_name": "rasbt/mlxtend",
-      "popularity": 4.211453331329007,
-      "percentage": 0.1392757660167131,
-      "maturity": 3.833029807441456,
-      "total_commits_count": 718,
+      "popularity": 4.211720162551645,
+      "percentage": 0.13908205841446453,
+      "maturity": 3.833669793907492,
+      "total_commits_count": 719,
       "activity": 5,
-      "total_score": 25.376671549409316,
+      "total_score": 25.37865078772746,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -80,12 +80,12 @@
     },
     "MaxHalford/flask-boilerplate": {
       "full_name": "MaxHalford/flask-boilerplate",
-      "popularity": 3.2151476458874177,
+      "popularity": 3.217786138241388,
       "percentage": 4.166666666666667,
       "maturity": 0,
       "total_commits_count": 24,
-      "activity": 1.338344841363332,
-      "total_score": 12.725326087214604,
+      "activity": 1.3337480707119203,
+      "total_score": 12.730073976983503,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -138,7 +138,7 @@
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,
-      "total_commits_count": 18522,
+      "total_commits_count": 18529,
       "activity": 5,
       "total_score": 30,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
@@ -300,12 +300,12 @@
     },
     "yhat/db.py": {
       "full_name": "yhat/db.py",
-      "popularity": 4.074160391264158,
+      "popularity": 4.0745263903463265,
       "percentage": 0.5586592178770949,
       "maturity": 3.1450622028399184,
       "total_commits_count": 179,
-      "activity": 1.2086814386158107,
-      "total_score": 20.017175761587758,
+      "activity": 1.2046261478194373,
+      "total_score": 20.014245048976814,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -355,12 +355,12 @@
     },
     "src-d/engine": {
       "full_name": "src-d/engine",
-      "popularity": 2.800068385953039,
+      "popularity": 2.8068970571940928,
       "percentage": 0,
       "maturity": 3.552086502921159,
       "total_commits_count": 395,
       "activity": 5,
-      "total_score": 20.504378163701432,
+      "total_score": 20.524864177424597,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }
