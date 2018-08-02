@@ -3,12 +3,12 @@
   "repos": {
     "mlflow/mlflow": {
       "full_name": "mlflow/mlflow",
-      "popularity": 4.270973999433555,
-      "percentage": 0.7194244604316546,
-      "maturity": 2.9978082245019047,
-      "total_commits_count": 139,
+      "popularity": 4.2719039167825725,
+      "percentage": 0.6896551724137931,
+      "maturity": 3.0233373858695978,
+      "total_commits_count": 145,
       "activity": 5,
-      "total_score": 24.207982058762287,
+      "total_score": 24.245384804281212,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -37,11 +37,11 @@
     "Pybonacci/pybonacci.github.io": {
       "full_name": "Pybonacci/pybonacci.github.io",
       "popularity": 1.0414282204429401,
-      "percentage": 15.476190476190476,
-      "maturity": 2.6461709786895096,
-      "total_commits_count": 84,
+      "percentage": 17.97752808988764,
+      "maturity": 2.6928142814876193,
+      "total_commits_count": 89,
       "activity": 5,
-      "total_score": 15.511881014598993,
+      "total_score": 15.943812885563965,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -138,7 +138,7 @@
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,
-      "total_commits_count": 18531,
+      "total_commits_count": 18537,
       "activity": 5,
       "total_score": 30,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",

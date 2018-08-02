@@ -80,12 +80,12 @@
     },
     "probot/probot": {
       "full_name": "probot/probot",
-      "popularity": 4.472371270901283,
+      "popularity": 4.47310250505036,
       "percentage": 0.2375296912114014,
       "maturity": 3.9059646189103567,
       "total_commits_count": 842,
       "activity": 5,
-      "total_score": 26.367144776229352,
+      "total_score": 26.369361058353395,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -135,12 +135,12 @@
     },
     "wip/app": {
       "full_name": "wip/app",
-      "popularity": 3.411827078053053,
+      "popularity": 3.413506486553458,
       "percentage": 0.8849557522123894,
       "maturity": 2.8656513250381606,
       "total_commits_count": 113,
       "activity": 5,
-      "total_score": 21.359294964011497,
+      "total_score": 21.364526395800368,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -246,11 +246,11 @@
     "canjs/canjs": {
       "full_name": "canjs/canjs",
       "popularity": 4.219387803608099,
-      "percentage": 0.02276348736626451,
-      "maturity": 4.943550737412872,
-      "total_commits_count": 8786,
+      "percentage": 0.022732439190725165,
+      "maturity": 4.944146198483572,
+      "total_commits_count": 8798,
       "activity": 5,
-      "total_score": 27.557751123174945,
+      "total_score": 27.55892501475823,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

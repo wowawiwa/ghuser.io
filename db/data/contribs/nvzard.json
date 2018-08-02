@@ -80,12 +80,12 @@
     },
     "coala/coala": {
       "full_name": "coala/coala",
-      "popularity": 4.364983864179332,
+      "popularity": 4.365545791045776,
       "percentage": 0.09886307464162135,
       "maturity": 4.604458061277068,
       "total_commits_count": 4046,
       "activity": 5,
-      "total_score": 27.35996735941673,
+      "total_score": 27.361660362012366,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -136,11 +136,11 @@
     "openebs/maya": {
       "full_name": "openebs/maya",
       "popularity": 3.0047902055826565,
-      "percentage": 0.1607717041800643,
-      "maturity": 3.7667336202047483,
-      "total_commits_count": 622,
+      "percentage": 0.16051364365971107,
+      "maturity": 3.767479062851442,
+      "total_commits_count": 623,
       "activity": 5,
-      "total_score": 21.61063893862463,
+      "total_score": 21.612029019613892,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -190,12 +190,12 @@
     },
     "tapasweni-pathak/Getting-Started-With-Contributing-to-Open-Sources": {
       "full_name": "tapasweni-pathak/Getting-Started-With-Contributing-to-Open-Sources",
-      "popularity": 3.2650928559259493,
+      "popularity": 3.262727411607676,
       "percentage": 2.272727272727273,
       "maturity": 1.614477908582291,
       "total_commits_count": 44,
-      "activity": 1.4760449425920337,
-      "total_score": 15.46496585314895,
+      "activity": 1.4489414223319694,
+      "total_score": 15.430067118658211,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

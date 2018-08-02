@@ -3,12 +3,12 @@
   "repos": {
     "skyfielders/python-skyfield": {
       "full_name": "skyfielders/python-skyfield",
-      "popularity": 3.376798467641986,
+      "popularity": 3.378618648421539,
       "percentage": 94.66158245948522,
       "maturity": 4.005670353060886,
       "total_commits_count": 1049,
       "activity": 5,
-      "total_score": 64.6966373662359,
+      "total_score": 64.72449706365869,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -36,12 +36,12 @@
     },
     "PrismJS/prism": {
       "full_name": "PrismJS/prism",
-      "popularity": 4.74488729993367,
+      "popularity": 4.744965444183666,
       "percentage": 0.041631973355537054,
       "maturity": 4.375034524863965,
       "total_commits_count": 2402,
       "activity": 5,
-      "total_score": 28.0104110223429,
+      "total_score": 28.010645878021805,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -80,12 +80,12 @@
     },
     "brandon-rhodes/logging_tree": {
       "full_name": "brandon-rhodes/logging_tree",
-      "popularity": 3.20982207938896,
+      "popularity": 3.207134604809987,
       "percentage": 86.53846153846153,
       "maturity": 2.0845073675966073,
       "total_commits_count": 52,
-      "activity": 5,
-      "total_score": 54.908979366485895,
+      "activity": 2.4690456092714497,
+      "total_score": 52.33972846300698,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -336,7 +336,7 @@
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,
-      "total_commits_count": 15912,
+      "total_commits_count": 15919,
       "activity": 5,
       "total_score": 30,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
@@ -446,7 +446,7 @@
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,
-      "total_commits_count": 32277,
+      "total_commits_count": 32278,
       "activity": 5,
       "total_score": 30,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
@@ -476,12 +476,12 @@
     },
     "cython/cython": {
       "full_name": "cython/cython",
-      "popularity": 4.522235454615453,
+      "popularity": 4.522365928233895,
       "percentage": 0.007651694850409366,
       "maturity": 5,
       "total_commits_count": 13069,
       "activity": 5,
-      "total_score": 28.571204723392615,
+      "total_score": 28.5715962740327,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -641,12 +641,12 @@
     },
     "urllib3/urllib3": {
       "full_name": "urllib3/urllib3",
-      "popularity": 4.222781562339482,
+      "popularity": 4.223041525524692,
       "percentage": 0.32810791104629966,
       "maturity": 4.43359836703362,
       "total_commits_count": 2743,
       "activity": 5,
-      "total_score": 26.715660065924812,
+      "total_score": 26.716451043957534,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
