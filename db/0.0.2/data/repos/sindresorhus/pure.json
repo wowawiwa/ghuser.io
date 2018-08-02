@@ -44,7 +44,8 @@
     "zmwangx": 4,
     "pbrisbin": 4,
     "sindresorhus": 76,
-    "mafredri": 88
+    "mafredri": 89,
+    "mortnod": 1
   },
   "name": "pure",
   "full_name": "sindresorhus/pure",
@@ -56,11 +57,11 @@
   "url": "https://api.github.com/repos/sindresorhus/pure",
   "languages_url": "https://api.github.com/repos/sindresorhus/pure/languages",
   "created_at": "2012-09-20T18:14:58Z",
-  "updated_at": "2018-07-22T15:19:18Z",
-  "pushed_at": "2018-07-16T16:26:32Z",
+  "updated_at": "2018-08-02T08:29:34Z",
+  "pushed_at": "2018-07-30T16:13:36Z",
   "homepage": "",
-  "size": 553,
-  "stargazers_count": 5380,
+  "size": 554,
+  "stargazers_count": 5434,
   "language": "Shell",
   "mirror_url": null,
   "archived": false,
@@ -74,9 +75,9 @@
   "default_branch": "master",
   "languages": {
     "Shell": {
-      "bytes": 33386,
+      "bytes": 34275,
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-07-22T16:49:45.098Z"
+  "fetched_at": "2018-08-02T09:08:18.533Z"
 }

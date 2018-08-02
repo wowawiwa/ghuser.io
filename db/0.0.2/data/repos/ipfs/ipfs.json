@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/ipfs/ipfs",
   "languages_url": "https://api.github.com/repos/ipfs/ipfs/languages",
   "created_at": "2014-02-11T07:28:24Z",
-  "updated_at": "2018-07-22T16:49:43Z",
-  "pushed_at": "2018-07-03T13:40:35Z",
+  "updated_at": "2018-08-02T09:03:10Z",
+  "pushed_at": "2018-07-28T20:32:54Z",
   "homepage": "https://ipfs.io",
-  "size": 2326,
-  "stargazers_count": 13560,
+  "size": 2303,
+  "stargazers_count": 13685,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -96,7 +96,9 @@
     "dylanPowers": 9,
     "diasdavid": 22,
     "RichardLitt": 35,
-    "jbenet": 72
+    "jbenet": 72,
+    "vukovinski": 1,
+    "dmitshur": 1
   },
-  "fetched_at": "2018-07-22T16:49:45.098Z"
+  "fetched_at": "2018-08-02T09:08:18.533Z"
 }

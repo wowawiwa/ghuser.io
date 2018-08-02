@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/jjangsangy/ExplainToMe",
   "languages_url": "https://api.github.com/repos/jjangsangy/ExplainToMe/languages",
   "created_at": "2015-03-12T05:34:06Z",
-  "updated_at": "2018-07-22T05:41:19Z",
-  "pushed_at": "2018-06-26T14:50:25Z",
+  "updated_at": "2018-07-27T02:39:44Z",
+  "pushed_at": "2018-07-26T20:51:56Z",
   "homepage": "https://explaintome-app.herokuapp.com/",
-  "size": 5816,
-  "stargazers_count": 334,
+  "size": 5822,
+  "stargazers_count": 336,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -29,11 +29,11 @@
   "contributors": {
     "vinodpahuja": 1,
     "andykaycodes": 4,
-    "jjangsangy": 168
+    "jjangsangy": 173
   },
   "languages": {
     "Python": {
-      "bytes": 13726,
+      "bytes": 14214,
       "color": "#3572A5"
     },
     "HTML": {
@@ -44,10 +44,14 @@
       "bytes": 9228,
       "color": "#563d7c"
     },
+    "Dockerfile": {
+      "bytes": 1211,
+      "color": "#0db7ed"
+    },
     "JavaScript": {
       "bytes": 504,
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-07-22T09:08:36.263Z"
+  "fetched_at": "2018-07-27T17:48:38.221Z"
 }

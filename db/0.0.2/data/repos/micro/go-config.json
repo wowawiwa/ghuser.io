@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/micro/go-config",
   "languages_url": "https://api.github.com/repos/micro/go-config/languages",
   "created_at": "2018-02-20T12:02:28Z",
-  "updated_at": "2018-07-21T19:23:18Z",
-  "pushed_at": "2018-07-21T18:49:10Z",
+  "updated_at": "2018-08-01T19:46:13Z",
+  "pushed_at": "2018-08-01T19:46:12Z",
   "homepage": "",
-  "size": 151,
-  "stargazers_count": 288,
+  "size": 148,
+  "stargazers_count": 304,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -53,14 +53,15 @@
     "pijalu": 3,
     "DiSiqueira": 3,
     "bkono": 6,
-    "asim": 91,
-    "44px": 1
+    "asim": 101,
+    "44px": 1,
+    "QLeelulu": 2
   },
   "languages": {
     "Go": {
-      "bytes": 60671,
+      "bytes": 70331,
       "color": "#375eab"
     }
   },
-  "fetched_at": "2018-07-22T09:08:36.263Z"
+  "fetched_at": "2018-08-01T20:16:09.053Z"
 }

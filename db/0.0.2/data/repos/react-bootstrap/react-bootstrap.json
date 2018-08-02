@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/react-bootstrap/react-bootstrap",
   "languages_url": "https://api.github.com/repos/react-bootstrap/react-bootstrap/languages",
   "created_at": "2013-12-27T19:06:07Z",
-  "updated_at": "2018-07-22T15:15:42Z",
-  "pushed_at": "2018-07-21T18:59:18Z",
+  "updated_at": "2018-08-02T07:57:07Z",
+  "pushed_at": "2018-08-01T17:57:05Z",
   "homepage": "https://react-bootstrap.github.io/",
-  "size": 6931,
-  "stargazers_count": 13429,
+  "size": 7080,
+  "stargazers_count": 13493,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -25,7 +25,7 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
   },
-  "default_branch": "master",
+  "default_branch": "v4-support",
   "organization": {
     "login": "react-bootstrap",
     "id": 6853419,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 720289,
+      "bytes": 642218,
       "color": "#f1e05a"
     },
     "CSS": {
-      "bytes": 17356,
+      "bytes": 11837,
       "color": "#563d7c"
     }
   },
@@ -152,11 +152,11 @@
     "tgriesser": 12,
     "kevinzwhuang": 25,
     "pieterv": 100,
-    "jquense": 295,
+    "jquense": 341,
     "mtscout6": 319,
     "stevoland": 235,
     "AlexKVal": 421,
-    "taion": 598,
+    "taion": 601,
     "alampros": 1,
     "Kimahriman": 1,
     "alfonsoperez": 1,
@@ -260,7 +260,13 @@
     "rallgood": 1,
     "roadmanfong": 1,
     "sidewaysgravity": 1,
-    "ycavatars": 1
+    "ycavatars": 1,
+    "kendaganio": 3,
+    "iamnapo": 2,
+    "aporlando": 1,
+    "hsjoberg": 1,
+    "grady-lad": 1,
+    "stephanieinez": 1
   },
-  "fetched_at": "2018-07-22T16:49:45.098Z"
+  "fetched_at": "2018-08-02T09:08:18.533Z"
 }

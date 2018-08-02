@@ -42,7 +42,8 @@
     "burnoutberni": 5,
     "BlueManCZ": 6,
     "revolter": 8,
-    "PalmerAL": 878
+    "PalmerAL": 879,
+    "slemony": 2
   },
   "name": "min",
   "full_name": "minbrowser/min",
@@ -54,11 +55,11 @@
   "url": "https://api.github.com/repos/minbrowser/min",
   "languages_url": "https://api.github.com/repos/minbrowser/min/languages",
   "created_at": "2015-10-31T21:59:49Z",
-  "updated_at": "2018-07-21T18:39:41Z",
-  "pushed_at": "2018-07-15T22:13:39Z",
+  "updated_at": "2018-08-02T03:47:04Z",
+  "pushed_at": "2018-08-02T03:47:02Z",
   "homepage": "https://minbrowser.github.io/min",
-  "size": 147180,
-  "stargazers_count": 2510,
+  "size": 147333,
+  "stargazers_count": 2517,
   "language": "HTML",
   "mirror_url": null,
   "archived": false,
@@ -104,5 +105,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-07-22T09:08:36.263Z"
+  "fetched_at": "2018-08-02T09:08:18.533Z"
 }

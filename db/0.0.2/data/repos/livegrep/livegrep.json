@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/livegrep/livegrep",
   "languages_url": "https://api.github.com/repos/livegrep/livegrep/languages",
   "created_at": "2013-02-10T00:19:18Z",
-  "updated_at": "2018-07-20T17:32:45Z",
-  "pushed_at": "2018-07-20T01:10:42Z",
+  "updated_at": "2018-08-01T19:50:25Z",
+  "pushed_at": "2018-08-01T17:56:38Z",
   "homepage": "",
-  "size": 8453,
-  "stargazers_count": 457,
+  "size": 8485,
+  "stargazers_count": 463,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -52,11 +52,11 @@
       "color": "#f34b7d"
     },
     "Python": {
-      "bytes": 181204,
+      "bytes": 181222,
       "color": "#3572A5"
     },
     "Go": {
-      "bytes": 71561,
+      "bytes": 74517,
       "color": "#375eab"
     },
     "JavaScript": {
@@ -78,6 +78,10 @@
     "Shell": {
       "bytes": 1583,
       "color": "#89e051"
+    },
+    "Dockerfile": {
+      "bytes": 779,
+      "color": "#0db7ed"
     }
   },
   "contributors": {
@@ -98,7 +102,8 @@
     "brandon-rhodes": 54,
     "jboning": 66,
     "nelhage": 1002,
-    "fowles": 2
+    "fowles": 2,
+    "ains-stripe": 2
   },
-  "fetched_at": "2018-07-21T08:12:16.618Z"
+  "fetched_at": "2018-08-01T20:16:09.053Z"
 }

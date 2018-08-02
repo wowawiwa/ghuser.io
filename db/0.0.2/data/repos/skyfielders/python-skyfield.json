@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/skyfielders/python-skyfield",
   "languages_url": "https://api.github.com/repos/skyfielders/python-skyfield/languages",
   "created_at": "2013-01-30T21:19:21Z",
-  "updated_at": "2018-07-20T21:45:21Z",
-  "pushed_at": "2018-07-09T01:33:20Z",
+  "updated_at": "2018-08-01T20:33:37Z",
+  "pushed_at": "2018-08-01T14:43:20Z",
   "homepage": null,
-  "size": 1647,
-  "stargazers_count": 236,
+  "size": 1707,
+  "stargazers_count": 240,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "Python": {
-      "bytes": 554513,
+      "bytes": 601163,
       "color": "#3572A5"
     },
     "Jupyter Notebook": {
@@ -82,7 +82,7 @@
     "trehn": 2,
     "cdeil": 2,
     "squishybear": 2,
-    "JoshPaterson": 3,
+    "JoshPaterson": 4,
     "jrs65": 3,
     "ozialien": 3,
     "aisipos": 3,
@@ -90,7 +90,9 @@
     "azharkhan": 3,
     "aarose": 6,
     "alextucker": 9,
-    "brandon-rhodes": 974
+    "brandon-rhodes": 993,
+    "beaglebao": 1,
+    "GammaSagittarii": 1
   },
-  "fetched_at": "2018-07-21T08:12:16.618Z"
+  "fetched_at": "2018-08-02T09:08:18.533Z"
 }

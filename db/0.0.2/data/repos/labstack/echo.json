@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/labstack/echo",
   "languages_url": "https://api.github.com/repos/labstack/echo/languages",
   "created_at": "2015-03-01T17:43:01Z",
-  "updated_at": "2018-07-22T15:58:37Z",
-  "pushed_at": "2018-07-22T08:33:07Z",
+  "updated_at": "2018-08-02T09:07:05Z",
+  "pushed_at": "2018-07-29T21:00:49Z",
   "homepage": "https://echo.labstack.com",
-  "size": 5080,
-  "stargazers_count": 11050,
+  "size": 5087,
+  "stargazers_count": 11145,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -152,11 +152,12 @@
     "acristal": 1,
     "chanxuehong": 1,
     "roxma": 1,
-    "kesuskim": 3
+    "kesuskim": 3,
+    "philippgille": 1
   },
   "languages": {
     "Go": {
-      "bytes": 233599,
+      "bytes": 233598,
       "color": "#375eab"
     },
     "Makefile": {
@@ -168,5 +169,5 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-07-22T16:49:45.098Z"
+  "fetched_at": "2018-08-02T09:08:18.533Z"
 }

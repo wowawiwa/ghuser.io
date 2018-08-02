@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/nock/nock",
   "languages_url": "https://api.github.com/repos/nock/nock/languages",
   "created_at": "2011-09-22T10:08:03Z",
-  "updated_at": "2018-07-22T12:18:22Z",
-  "pushed_at": "2018-07-20T20:41:35Z",
+  "updated_at": "2018-08-02T05:57:23Z",
+  "pushed_at": "2018-08-02T00:56:17Z",
   "homepage": "",
-  "size": 3475,
-  "stargazers_count": 6594,
+  "size": 3467,
+  "stargazers_count": 6666,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 307695,
+      "bytes": 309890,
       "color": "#f1e05a"
     }
   },
@@ -76,7 +76,7 @@
     "perfusorius": 1,
     "bacchusrx": 1,
     "andyfowler": 1,
-    "RichardLitt": 4,
+    "RichardLitt": 5,
     "PizzaAficionado": 2,
     "chenghung": 2,
     "reconbot": 2,
@@ -174,7 +174,7 @@
     "leedm777": 1,
     "DavidTPate": 1,
     "dcstone09": 1,
-    "deeptiagrawa": 1,
+    "deeptiagrawa": 2,
     "edorivai": 1,
     "audionerd": 1,
     "technicallyerik": 1,
@@ -232,7 +232,8 @@
     "hems": 1,
     "louib": 1,
     "stubar": 1,
-    "yinrong": 1
+    "yinrong": 1,
+    "jlilja": 1
   },
-  "fetched_at": "2018-07-22T16:49:45.098Z"
+  "fetched_at": "2018-08-02T09:08:18.533Z"
 }

@@ -84,13 +84,15 @@
     "sschuberth": 10,
     "comradekingu": 11,
     "pmros": 15,
-    "bovirus": 22,
+    "bovirus": 23,
     "jsmakaayb": 23,
     "x2357": 23,
     "m4r71n": 51,
     "rygwdn": 105,
-    "hluk": 3469,
-    "alaazghoul": 1
+    "hluk": 3499,
+    "alaazghoul": 1,
+    "jimmyyoungtw": 1,
+    "lnddyl": 1
   },
   "name": "CopyQ",
   "full_name": "hluk/CopyQ",
@@ -102,11 +104,11 @@
   "url": "https://api.github.com/repos/hluk/CopyQ",
   "languages_url": "https://api.github.com/repos/hluk/CopyQ/languages",
   "created_at": "2009-10-21T13:35:38Z",
-  "updated_at": "2018-07-22T07:31:49Z",
-  "pushed_at": "2018-07-22T07:39:32Z",
+  "updated_at": "2018-08-02T02:53:16Z",
+  "pushed_at": "2018-08-01T17:01:09Z",
   "homepage": "",
-  "size": 25072,
-  "stargazers_count": 1344,
+  "size": 25000,
+  "stargazers_count": 1355,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -120,15 +122,15 @@
   "default_branch": "master",
   "languages": {
     "C++": {
-      "bytes": 2075741,
+      "bytes": 2084335,
       "color": "#f34b7d"
     },
     "C": {
-      "bytes": 67054,
+      "bytes": 67092,
       "color": "#555555"
     },
     "Objective-C++": {
-      "bytes": 40326,
+      "bytes": 40703,
       "color": "#6866fb"
     },
     "Shell": {
@@ -168,5 +170,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-07-22T09:08:36.263Z"
+  "fetched_at": "2018-08-02T09:08:18.533Z"
 }

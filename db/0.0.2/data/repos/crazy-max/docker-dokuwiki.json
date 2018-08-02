@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/crazy-max/docker-dokuwiki",
   "languages_url": "https://api.github.com/repos/crazy-max/docker-dokuwiki/languages",
   "created_at": "2017-09-23T12:55:07Z",
-  "updated_at": "2018-06-29T14:59:56Z",
-  "pushed_at": "2018-06-29T14:59:54Z",
+  "updated_at": "2018-07-27T23:38:05Z",
+  "pushed_at": "2018-07-27T23:38:04Z",
   "homepage": "",
-  "size": 322,
+  "size": 325,
   "stargazers_count": 2,
   "language": "Shell",
   "mirror_url": null,
@@ -27,17 +27,21 @@
   },
   "default_branch": "master",
   "contributors": {
-    "crazy-max": 35
+    "crazy-max": 37
   },
   "languages": {
     "Shell": {
       "bytes": 5615,
       "color": "#89e051"
     },
+    "Dockerfile": {
+      "bytes": 1747,
+      "color": "#0db7ed"
+    },
     "PHP": {
       "bytes": 43,
       "color": "#4F5D95"
     }
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-28T01:44:43.412Z"
 }

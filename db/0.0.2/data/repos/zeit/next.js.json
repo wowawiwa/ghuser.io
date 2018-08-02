@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/zeit/next.js",
   "languages_url": "https://api.github.com/repos/zeit/next.js/languages",
   "created_at": "2016-10-05T23:32:51Z",
-  "updated_at": "2018-07-22T15:45:32Z",
-  "pushed_at": "2018-07-22T00:22:16Z",
+  "updated_at": "2018-08-02T09:13:46Z",
+  "pushed_at": "2018-08-01T18:11:06Z",
   "homepage": "https://nextjs.org",
-  "size": 6327,
-  "stargazers_count": 27397,
+  "size": 7409,
+  "stargazers_count": 27702,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 337440,
+      "bytes": 352272,
       "color": "#f1e05a"
     },
     "TypeScript": {
@@ -56,7 +56,7 @@
       "color": "#2b7489"
     },
     "CSS": {
-      "bytes": 30,
+      "bytes": 90,
       "color": "#563d7c"
     }
   },
@@ -159,7 +159,7 @@
     "rauchg": 162,
     "greenkeeper[bot]": 157,
     "nkzawa": 225,
-    "timneutkens": 373,
+    "timneutkens": 382,
     "arunoda": 397,
     "abelta": 2,
     "sheerun": 2,
@@ -308,7 +308,7 @@
     "CompuIves": 1,
     "idupree": 1,
     "jisaacks": 1,
-    "DullReferenceException": 2,
+    "DullReferenceException": 3,
     "jwillem": 1,
     "jaredpalmer": 1,
     "jasonleibowitz": 1,
@@ -379,7 +379,7 @@
     "emattias": 1,
     "matiasfh": 1,
     "maxobaxo": 1,
-    "mxstbr": 1,
+    "mxstbr": 2,
     "micwehrle": 1,
     "michaelhelvey": 1,
     "mmiszy": 1,
@@ -470,7 +470,7 @@
     "tmeasday": 1,
     "tmcw": 1,
     "wereHamster": 1,
-    "Tomekmularczyk": 4,
+    "Tomekmularczyk": 9,
     "cheshirecode": 1,
     "trevordmiller": 1,
     "tryggvigy": 1,
@@ -535,7 +535,11 @@
     "mherodev": 1,
     "klujanrosas": 1,
     "lkostrowski": 1,
-    "brainkim": 1
+    "brainkim": 1,
+    "gilaz": 1,
+    "terrierscript": 1,
+    "stefanivic": 1,
+    "jmaguirrei": 1
   },
-  "fetched_at": "2018-07-22T16:49:45.098Z"
+  "fetched_at": "2018-08-02T09:08:18.533Z"
 }

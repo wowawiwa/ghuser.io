@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/cython/cython",
   "languages_url": "https://api.github.com/repos/cython/cython/languages",
   "created_at": "2010-11-21T07:44:20Z",
-  "updated_at": "2018-07-21T16:04:12Z",
-  "pushed_at": "2018-07-22T08:56:55Z",
+  "updated_at": "2018-08-02T08:09:49Z",
+  "pushed_at": "2018-08-01T19:40:33Z",
   "homepage": "http://cython.org",
-  "size": 51329,
-  "stargazers_count": 3296,
+  "size": 51331,
+  "stargazers_count": 3330,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -48,15 +48,15 @@
   },
   "languages": {
     "Python": {
-      "bytes": 5787588,
+      "bytes": 5789744,
       "color": "#3572A5"
     },
     "C": {
-      "bytes": 622292,
+      "bytes": 622263,
       "color": "#555555"
     },
     "C++": {
-      "bytes": 28402,
+      "bytes": 28393,
       "color": "#f34b7d"
     },
     "Emacs Lisp": {
@@ -183,12 +183,12 @@
     "vitek": 339,
     "dalcinl": 339,
     "markflorisson": 543,
-    "robertwb": 2652,
-    "scoder": 8018,
+    "robertwb": 2655,
+    "scoder": 8031,
     "invalid-email-address": 49,
     "adityapb": 2,
     "andreabedini": 2,
-    "AntyMew": 2,
+    "AntyMew": 4,
     "dtcaciuc": 2,
     "metakermit": 2,
     "mindw": 2,
@@ -327,7 +327,9 @@
     "xqat": 1,
     "Yonose": 1,
     "ambv": 1,
-    "realead": 2
+    "realead": 2,
+    "aguinet": 2,
+    "orivej": 1
   },
-  "fetched_at": "2018-07-22T09:08:36.263Z"
+  "fetched_at": "2018-08-02T09:08:18.533Z"
 }

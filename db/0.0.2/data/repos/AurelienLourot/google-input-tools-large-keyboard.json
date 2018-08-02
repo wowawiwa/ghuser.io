@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/AurelienLourot/google-input-tools-large-keyboard",
   "languages_url": "https://api.github.com/repos/AurelienLourot/google-input-tools-large-keyboard/languages",
   "created_at": "2017-11-11T13:55:42Z",
-  "updated_at": "2018-07-05T15:31:20Z",
-  "pushed_at": "2018-07-05T15:31:18Z",
+  "updated_at": "2018-08-01T17:57:51Z",
+  "pushed_at": "2018-08-01T17:57:50Z",
   "homepage": "",
-  "size": 128,
+  "size": 494,
   "stargazers_count": 1,
   "language": "JavaScript",
   "mirror_url": null,
@@ -27,15 +27,19 @@
   },
   "default_branch": "master",
   "contributors": {
-    "AurelienLourot": 20
+    "AurelienLourot": 30
   },
   "languages": {
     "JavaScript": {
-      "bytes": 425,
+      "bytes": 829,
       "color": "#f1e05a"
     },
+    "Shell": {
+      "bytes": 502,
+      "color": "#89e051"
+    },
     "HTML": {
-      "bytes": 404,
+      "bytes": 450,
       "color": "#e34c26"
     },
     "CSS": {
@@ -50,5 +54,5 @@
       "Chrome Extensions"
     ]
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-08-01T20:16:09.053Z"
 }

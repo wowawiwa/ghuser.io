@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/olivierlacan/keep-a-changelog",
   "languages_url": "https://api.github.com/repos/olivierlacan/keep-a-changelog/languages",
   "created_at": "2014-05-31T05:23:54Z",
-  "updated_at": "2018-07-21T17:08:25Z",
-  "pushed_at": "2018-07-10T17:28:19Z",
+  "updated_at": "2018-08-01T19:06:14Z",
+  "pushed_at": "2018-07-28T04:28:28Z",
   "homepage": "http://keepachangelog.com",
-  "size": 6902,
-  "stargazers_count": 2620,
+  "size": 6913,
+  "stargazers_count": 2688,
   "language": "HTML",
   "mirror_url": null,
   "archived": false,
@@ -28,7 +28,7 @@
   "default_branch": "master",
   "languages": {
     "HTML": {
-      "bytes": 328816,
+      "bytes": 328825,
       "color": "#e34c26"
     },
     "Ruby": {
@@ -83,9 +83,14 @@
     "azkidenz": 8,
     "dgdavid": 8,
     "magol": 10,
-    "Webysther": 13,
+    "Webysther": 14,
     "nbibler": 20,
-    "olivierlacan": 105
+    "olivierlacan": 105,
+    "lex111": 1,
+    "stevoisiak": 1,
+    "brother": 1,
+    "dguo": 1,
+    "pierceh89": 3
   },
-  "fetched_at": "2018-07-22T09:08:36.263Z"
+  "fetched_at": "2018-08-01T20:16:09.053Z"
 }

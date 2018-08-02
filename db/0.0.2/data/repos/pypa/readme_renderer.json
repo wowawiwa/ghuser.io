@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/pypa/readme_renderer",
   "languages_url": "https://api.github.com/repos/pypa/readme_renderer/languages",
   "created_at": "2014-02-27T18:21:19Z",
-  "updated_at": "2018-06-27T17:16:21Z",
-  "pushed_at": "2018-06-27T17:16:19Z",
+  "updated_at": "2018-07-31T23:46:48Z",
+  "pushed_at": "2018-07-31T23:46:46Z",
   "homepage": "",
-  "size": 141,
+  "size": 146,
   "stargazers_count": 73,
   "language": "Python",
   "mirror_url": null,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "Python": {
-      "bytes": 24086,
+      "bytes": 23443,
       "color": "#3572A5"
     }
   },
@@ -63,7 +63,8 @@
     "msabramo": 16,
     "di": 20,
     "theacodes": 21,
-    "dstufft": 35
+    "dstufft": 35,
+    "mila": 2
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-08-01T10:42:25.848Z"
 }

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/libp2p/go-libp2p",
   "languages_url": "https://api.github.com/repos/libp2p/go-libp2p/languages",
   "created_at": "2015-09-30T23:24:32Z",
-  "updated_at": "2018-07-22T16:46:58Z",
-  "pushed_at": "2018-07-21T02:45:32Z",
+  "updated_at": "2018-08-02T09:03:03Z",
+  "pushed_at": "2018-07-30T20:19:14Z",
   "homepage": "",
-  "size": 8122,
-  "stargazers_count": 1488,
+  "size": 8134,
+  "stargazers_count": 1524,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "Go": {
-      "bytes": 167772,
+      "bytes": 169222,
       "color": "#375eab"
     },
     "Makefile": {
-      "bytes": 474,
+      "bytes": 359,
       "color": "#427819"
     },
     "Groovy": {
@@ -64,7 +64,7 @@
     "crackcomm": 1,
     "VictorBjelkholm": 1,
     "jvsteiner": 1,
-    "upperwal": 1,
+    "upperwal": 10,
     "chrisdostert": 1,
     "alholm": 1,
     "zmonteiro": 1,
@@ -104,9 +104,11 @@
     "diasdavid": 17,
     "lgierth": 21,
     "avive": 26,
-    "Stebalien": 70,
+    "Stebalien": 71,
     "jbenet": 125,
-    "whyrusleeping": 248
+    "whyrusleeping": 248,
+    "qidu": 1,
+    "florianlenz": 1
   },
-  "fetched_at": "2018-07-22T16:49:45.098Z"
+  "fetched_at": "2018-08-02T09:08:18.533Z"
 }

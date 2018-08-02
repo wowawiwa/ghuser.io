@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/probot/probot",
   "languages_url": "https://api.github.com/repos/probot/probot/languages",
   "created_at": "2016-09-16T20:56:13Z",
-  "updated_at": "2018-07-21T22:04:49Z",
-  "pushed_at": "2018-07-20T11:20:08Z",
+  "updated_at": "2018-08-02T08:20:45Z",
+  "pushed_at": "2018-08-01T08:08:40Z",
   "homepage": "https://probot.github.io",
-  "size": 1673,
-  "stargazers_count": 2904,
+  "size": 1672,
+  "stargazers_count": 2973,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -132,7 +132,9 @@
     "hiimbex": 43,
     "bkeepers": 551,
     "gjtorikian": 1,
-    "kentaro-m": 2
+    "kentaro-m": 2,
+    "mousavian": 1,
+    "tommilligan": 1
   },
-  "fetched_at": "2018-07-22T09:08:36.263Z"
+  "fetched_at": "2018-08-02T09:08:18.533Z"
 }

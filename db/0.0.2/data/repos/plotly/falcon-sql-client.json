@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/plotly/falcon-sql-client",
   "languages_url": "https://api.github.com/repos/plotly/falcon-sql-client/languages",
   "created_at": "2016-05-12T01:03:48Z",
-  "updated_at": "2018-07-22T02:34:24Z",
-  "pushed_at": "2018-07-21T00:15:32Z",
+  "updated_at": "2018-08-01T11:57:10Z",
+  "pushed_at": "2018-08-01T15:43:36Z",
   "homepage": "https://plot.ly/free-sql-client-download/",
-  "size": 12062,
-  "stargazers_count": 553,
+  "size": 12207,
+  "stargazers_count": 561,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 672218,
+      "bytes": 731941,
       "color": "#f1e05a"
     },
     "CSS": {
-      "bytes": 22741,
+      "bytes": 23735,
       "color": "#563d7c"
     },
     "Shell": {
@@ -63,13 +63,17 @@
       "bytes": 9946,
       "color": "#e34c26"
     },
+    "Dockerfile": {
+      "bytes": 4887,
+      "color": "#0db7ed"
+    },
     "Python": {
       "bytes": 1855,
       "color": "#3572A5"
     }
   },
   "contributors": {
-    "briandennis": 1,
+    "briandennis": 28,
     "alvaroabascar": 1,
     "mperreux": 1,
     "bpostlethwaite": 1,
@@ -81,9 +85,11 @@
     "rmoestl": 57,
     "tarzzz": 180,
     "chriddyp": 265,
-    "n-riesco": 315,
+    "n-riesco": 316,
     "alexandresobolevski": 497,
-    "mfix22": 1
+    "mfix22": 45,
+    "jakedex": 15,
+    "nicolaskruchten": 1
   },
-  "fetched_at": "2018-07-22T09:08:36.263Z"
+  "fetched_at": "2018-08-01T20:16:09.053Z"
 }

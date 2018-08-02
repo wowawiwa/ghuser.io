@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/splitrb/split-sinatra-example",
   "languages_url": "https://api.github.com/repos/splitrb/split-sinatra-example/languages",
   "created_at": "2011-05-27T21:17:39Z",
-  "updated_at": "2018-07-08T20:01:58Z",
-  "pushed_at": "2018-07-08T20:01:45Z",
+  "updated_at": "2018-07-23T09:46:18Z",
+  "pushed_at": "2018-07-23T09:46:17Z",
   "homepage": "",
-  "size": 28,
+  "size": 29,
   "stargazers_count": 10,
   "language": "Ruby",
   "mirror_url": null,
@@ -46,11 +46,12 @@
     "type": "Organization",
     "site_admin": false
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "fetched_at": "2018-07-23T16:29:16.674Z",
   "contributors": {
     "strand": 1,
     "phoet": 3,
-    "andrew": 42
+    "andrew": 42,
+    "RichardLitt": 2
   },
   "languages": {
     "Ruby": {

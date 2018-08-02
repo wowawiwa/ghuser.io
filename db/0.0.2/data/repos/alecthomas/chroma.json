@@ -19,7 +19,7 @@
     "kevinburke": 1,
     "hexasoftware": 1,
     "Depado": 1,
-    "kaushalmodi": 1,
+    "kaushalmodi": 5,
     "alecnunn": 1,
     "FooSoft": 1,
     "Dekker1": 1,
@@ -40,7 +40,9 @@
     "bep": 3,
     "kenshaw": 4,
     "steambap": 6,
-    "alecthomas": 128
+    "alecthomas": 128,
+    "jamtur01": 1,
+    "dmitshur": 1
   },
   "name": "chroma",
   "full_name": "alecthomas/chroma",
@@ -52,11 +54,11 @@
   "url": "https://api.github.com/repos/alecthomas/chroma",
   "languages_url": "https://api.github.com/repos/alecthomas/chroma/languages",
   "created_at": "2017-06-07T09:47:08Z",
-  "updated_at": "2018-07-19T20:47:29Z",
-  "pushed_at": "2018-06-25T10:57:38Z",
+  "updated_at": "2018-08-02T03:21:41Z",
+  "pushed_at": "2018-08-02T03:21:40Z",
   "homepage": "",
-  "size": 3805,
-  "stargazers_count": 1395,
+  "size": 3818,
+  "stargazers_count": 1402,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -70,13 +72,17 @@
   "default_branch": "master",
   "languages": {
     "Go": {
-      "bytes": 1110810,
+      "bytes": 1119041,
       "color": "#375eab"
     },
     "Python": {
       "bytes": 7492,
       "color": "#3572A5"
+    },
+    "Nim": {
+      "bytes": 1700,
+      "color": "#37775b"
     }
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-08-02T09:08:18.533Z"
 }

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/crazy-max/docker-ejtserver",
   "languages_url": "https://api.github.com/repos/crazy-max/docker-ejtserver/languages",
   "created_at": "2018-02-05T16:04:37Z",
-  "updated_at": "2018-07-16T18:22:52Z",
-  "pushed_at": "2018-06-13T01:41:47Z",
+  "updated_at": "2018-07-30T20:56:07Z",
+  "pushed_at": "2018-07-27T23:58:55Z",
   "homepage": null,
-  "size": 263,
-  "stargazers_count": 4,
+  "size": 265,
+  "stargazers_count": 5,
   "language": "Shell",
   "mirror_url": null,
   "archived": false,
@@ -27,13 +27,17 @@
   },
   "default_branch": "master",
   "contributors": {
-    "crazy-max": 16
+    "crazy-max": 18
   },
   "languages": {
     "Shell": {
-      "bytes": 3267,
+      "bytes": 3424,
       "color": "#89e051"
+    },
+    "Dockerfile": {
+      "bytes": 1006,
+      "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-31T05:33:58.235Z"
 }

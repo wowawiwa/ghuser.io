@@ -5,15 +5,15 @@
   "owner": "aryaminus",
   "private": false,
   "html_url": "https://github.com/aryaminus/nazar",
-  "description": "Electronic component detection and identification system in realtime from camera image using react-native and tensorflow for classification along with Clarifai API with option to search the component details from web",
+  "description": "Electronic component detection and identification system in realtime from camera image using react-native and tensorflow for classification along with Clarifai API with option to search the component details from web with description shown from Octopart fetched from server",
   "fork": false,
   "url": "https://api.github.com/repos/aryaminus/nazar",
   "languages_url": "https://api.github.com/repos/aryaminus/nazar/languages",
   "created_at": "2018-02-20T14:28:00Z",
-  "updated_at": "2018-07-10T12:52:33Z",
-  "pushed_at": "2018-07-18T02:45:52Z",
+  "updated_at": "2018-07-30T13:36:58Z",
+  "pushed_at": "2018-07-30T14:18:24Z",
   "homepage": "https://play.google.com/store/apps/details?id=com.speks.nazar",
-  "size": 85217,
+  "size": 85235,
   "stargazers_count": 6,
   "language": "JavaScript",
   "mirror_url": null,
@@ -27,11 +27,11 @@
   },
   "default_branch": "master",
   "contributors": {
-    "aryaminus": 120
+    "aryaminus": 137
   },
   "languages": {
     "JavaScript": {
-      "bytes": 40255,
+      "bytes": 42823,
       "color": "#f1e05a"
     },
     "Objective-C": {
@@ -39,7 +39,7 @@
       "color": "#438eff"
     },
     "Java": {
-      "bytes": 2560,
+      "bytes": 2476,
       "color": "#b07219"
     },
     "Python": {
@@ -47,5 +47,5 @@
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-30T16:17:21.729Z"
 }

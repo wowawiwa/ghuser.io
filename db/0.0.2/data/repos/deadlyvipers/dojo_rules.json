@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "dojo_rules",
+  "full_name": "deadlyvipers/dojo_rules",
+  "owner": "deadlyvipers",
+  "private": false,
+  "html_url": "https://github.com/deadlyvipers/dojo_rules",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/deadlyvipers/dojo_rules",
+  "languages_url": "https://api.github.com/repos/deadlyvipers/dojo_rules/languages",
+  "created_at": "2014-06-02T17:42:50Z",
+  "updated_at": "2018-05-02T08:48:57Z",
+  "pushed_at": "2018-07-06T19:03:49Z",
+  "homepage": null,
+  "size": 78252,
+  "stargazers_count": 70,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "deadlyvipers",
+    "id": 7718750,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjc3MTg3NTA=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/7718750?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/deadlyvipers",
+    "html_url": "https://github.com/deadlyvipers",
+    "followers_url": "https://api.github.com/users/deadlyvipers/followers",
+    "following_url": "https://api.github.com/users/deadlyvipers/following{/other_user}",
+    "gists_url": "https://api.github.com/users/deadlyvipers/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/deadlyvipers/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/deadlyvipers/subscriptions",
+    "organizations_url": "https://api.github.com/users/deadlyvipers/orgs",
+    "repos_url": "https://api.github.com/users/deadlyvipers/repos",
+    "events_url": "https://api.github.com/users/deadlyvipers/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/deadlyvipers/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "PeterBell": 2,
+    "githubteacher": 4
+  },
+  "languages": {
+    "Ruby": {
+      "bytes": 70,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-07-25T14:10:51.615Z"
+}

@@ -10,12 +10,12 @@
   "url": "https://api.github.com/repos/opensourcecities/munich",
   "languages_url": "https://api.github.com/repos/opensourcecities/munich/languages",
   "created_at": "2018-06-14T17:11:09Z",
-  "updated_at": "2018-07-15T00:10:42Z",
-  "pushed_at": "2018-07-15T00:11:18Z",
+  "updated_at": "2018-07-30T14:09:22Z",
+  "pushed_at": "2018-07-30T14:11:42Z",
   "homepage": "https://opensourcecities.github.io/munich/",
-  "size": 6797,
+  "size": 6804,
   "stargazers_count": 3,
-  "language": "Ruby",
+  "language": "Shell",
   "mirror_url": null,
   "archived": false,
   "license": {
@@ -47,14 +47,18 @@
     "site_admin": false
   },
   "languages": {
+    "Shell": {
+      "bytes": 12173,
+      "color": "#89e051"
+    },
     "Ruby": {
       "bytes": 181,
       "color": "#701516"
     }
   },
   "contributors": {
-    "khos2ow": 4,
+    "khos2ow": 5,
     "SuriyaaKudoIsc": 10
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-30T16:17:21.729Z"
 }

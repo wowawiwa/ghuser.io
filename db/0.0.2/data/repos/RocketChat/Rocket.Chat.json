@@ -54,8 +54,8 @@
     "flaviogrossi": 12,
     "lucasvanhalst": 12,
     "danielbush": 12,
-    "tassoevan": 22,
-    "c0dzilla": 13,
+    "tassoevan": 24,
+    "c0dzilla": 14,
     "ramrami": 18,
     "toxicgumbo": 13,
     "pitamar": 15,
@@ -81,26 +81,26 @@
     "timkinnane": 44,
     "fduraibi": 45,
     "AlecTroemel": 47,
-    "Hudell": 51,
+    "Hudell": 53,
     "Kiran-Rao": 47,
     "luisfn": 52,
     "rcaferati": 63,
     "pkgodara": 77,
-    "MarcosSpessatto": 81,
+    "MarcosSpessatto": 82,
     "alexbrazier": 106,
     "nishimaki10": 125,
     "gmsecrieru": 137,
     "gdelavald": 124,
     "Sing-Li": 251,
     "geekgonecrazy": 360,
-    "ggazzo": 438,
+    "ggazzo": 440,
     "graywolf336": 435,
     "MartinSchoeler": 599,
     "karlprieb": 604,
     "marceloschmidt": 1208,
-    "sampaiodiego": 1284,
-    "engelgabriel": 3241,
-    "rodrigok": 3868,
+    "sampaiodiego": 1298,
+    "engelgabriel": 3243,
+    "rodrigok": 3869,
     "saplla": 16,
     "mnt": 11,
     "Huljo": 10,
@@ -392,11 +392,11 @@
   "url": "https://api.github.com/repos/RocketChat/Rocket.Chat",
   "languages_url": "https://api.github.com/repos/RocketChat/Rocket.Chat/languages",
   "created_at": "2015-05-19T07:36:09Z",
-  "updated_at": "2018-07-22T15:44:01Z",
-  "pushed_at": "2018-07-22T11:24:10Z",
+  "updated_at": "2018-08-02T07:05:05Z",
+  "pushed_at": "2018-08-02T07:09:26Z",
   "homepage": "https://rocket.chat/",
-  "size": 74566,
-  "stargazers_count": 18981,
+  "size": 76038,
+  "stargazers_count": 19201,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -430,11 +430,11 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 3909172,
+      "bytes": 3913600,
       "color": "#f1e05a"
     },
     "HTML": {
-      "bytes": 407138,
+      "bytes": 407173,
       "color": "#e34c26"
     },
     "CSS": {
@@ -470,5 +470,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-07-22T16:49:45.098Z"
+  "fetched_at": "2018-08-02T09:08:18.533Z"
 }

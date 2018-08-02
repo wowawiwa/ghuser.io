@@ -61,12 +61,12 @@
     "Member1221": 16,
     "t3hk0d3": 17,
     "xrtariq2594": 20,
-    "jellysnake": 33,
+    "jellysnake": 34,
     "Ozaq": 22,
     "portokaliu": 22,
     "dkambersky": 26,
     "unknown0perator": 25,
-    "ar0ne": 39,
+    "ar0ne": 48,
     "shartte": 26,
     "iojw": 27,
     "pollend": 31,
@@ -83,13 +83,13 @@
     "GabrielXia": 68,
     "small-jeeper": 84,
     "indianajohn": 75,
-    "iaronaraujo": 80,
+    "iaronaraujo": 91,
     "miniME89": 84,
     "nihal111": 104,
     "synopia": 141,
-    "TheFlash98": 113,
+    "TheFlash98": 137,
     "mkienenb": 121,
-    "eviltak": 167,
+    "eviltak": 197,
     "rzats": 172,
     "Josharias": 168,
     "emanuele3d": 169,
@@ -98,7 +98,7 @@
     "MarcinSc": 264,
     "flo": 336,
     "msteiger": 667,
-    "Cervator": 1443,
+    "Cervator": 1457,
     "begla": 845,
     "immortius": 1398,
     "cribsb": 5,
@@ -193,7 +193,8 @@
     "oekonomi": 1,
     "pamtdoh": 1,
     "thejmarie": 1,
-    "triebben": 1
+    "triebben": 1,
+    "JosiahSomani": 1
   },
   "name": "Terasology",
   "full_name": "MovingBlocks/Terasology",
@@ -205,11 +206,11 @@
   "url": "https://api.github.com/repos/MovingBlocks/Terasology",
   "languages_url": "https://api.github.com/repos/MovingBlocks/Terasology/languages",
   "created_at": "2011-03-04T03:49:19Z",
-  "updated_at": "2018-07-22T10:19:21Z",
-  "pushed_at": "2018-07-20T17:51:01Z",
+  "updated_at": "2018-08-01T22:29:13Z",
+  "pushed_at": "2018-08-01T20:57:56Z",
   "homepage": "http://terasology.org",
-  "size": 286090,
-  "stargazers_count": 2362,
+  "size": 286304,
+  "stargazers_count": 2378,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -243,7 +244,7 @@
   },
   "languages": {
     "Java": {
-      "bytes": 8400718,
+      "bytes": 8467582,
       "color": "#b07219"
     },
     "GLSL": {
@@ -263,5 +264,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-07-22T16:49:45.098Z"
+  "fetched_at": "2018-08-02T09:08:18.533Z"
 }

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/rtfd/readthedocs.org",
   "languages_url": "https://api.github.com/repos/rtfd/readthedocs.org/languages",
   "created_at": "2010-08-16T19:18:06Z",
-  "updated_at": "2018-07-22T12:59:20Z",
-  "pushed_at": "2018-07-21T00:03:06Z",
+  "updated_at": "2018-08-02T08:28:43Z",
+  "pushed_at": "2018-08-02T08:28:27Z",
   "homepage": "https://readthedocs.org/",
-  "size": 50937,
-  "stargazers_count": 4474,
+  "size": 51382,
+  "stargazers_count": 4523,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "Python": {
-      "bytes": 1468271,
+      "bytes": 1469602,
       "color": "#3572A5"
     },
     "JavaScript": {
-      "bytes": 426911,
+      "bytes": 427010,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -137,7 +137,7 @@
     "jezdez": 8,
     "paulcollinsiii": 7,
     "aasis21": 9,
-    "RichardLitt": 21,
+    "RichardLitt": 22,
     "cmc333333": 8,
     "tlpinney": 11,
     "raybellwaves": 9,
@@ -171,12 +171,12 @@
     "toffer": 81,
     "bobbygrace": 162,
     "coleifer": 140,
-    "davidfischer": 250,
-    "humitos": 239,
+    "davidfischer": 261,
+    "humitos": 244,
     "gregmuellegger": 277,
     "stsewd": 386,
     "agjohnson": 785,
-    "ericholscher": 5476,
+    "ericholscher": 5480,
     "ajatprabha": 2,
     "agronholm": 2,
     "brodul": 2,
@@ -383,7 +383,9 @@
     "zimbatm": 1,
     "merwok": 1,
     "ktdreyer": 1,
-    "StefanoChiodino": 4
+    "StefanoChiodino": 4,
+    "mlncn": 2,
+    "hbetts": 5
   },
-  "fetched_at": "2018-07-22T16:49:45.098Z"
+  "fetched_at": "2018-08-02T09:08:18.533Z"
 }

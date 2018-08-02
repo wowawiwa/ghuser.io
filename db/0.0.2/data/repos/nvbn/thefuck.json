@@ -98,7 +98,7 @@
     "mlk": 14,
     "SanketDG": 14,
     "josephfrazier": 88,
-    "scorphus": 94,
+    "scorphus": 95,
     "mcarton": 125,
     "nvbn": 914,
     "b1skit": 1,
@@ -124,11 +124,11 @@
   "url": "https://api.github.com/repos/nvbn/thefuck",
   "languages_url": "https://api.github.com/repos/nvbn/thefuck/languages",
   "created_at": "2015-04-08T15:08:04Z",
-  "updated_at": "2018-07-22T07:32:40Z",
-  "pushed_at": "2018-07-18T14:42:51Z",
+  "updated_at": "2018-08-02T09:08:43Z",
+  "pushed_at": "2018-07-29T16:18:43Z",
   "homepage": "",
   "size": 2649,
-  "stargazers_count": 36357,
+  "stargazers_count": 36509,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -142,7 +142,7 @@
   "default_branch": "master",
   "languages": {
     "Python": {
-      "bytes": 451539,
+      "bytes": 451869,
       "color": "#3572A5"
     },
     "Shell": {
@@ -150,5 +150,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-07-22T09:08:36.263Z"
+  "fetched_at": "2018-08-02T09:08:18.533Z"
 }

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/getredash/redash",
   "languages_url": "https://api.github.com/repos/getredash/redash/languages",
   "created_at": "2013-10-28T13:19:39Z",
-  "updated_at": "2018-07-22T14:11:10Z",
-  "pushed_at": "2018-07-20T12:53:41Z",
+  "updated_at": "2018-08-02T05:44:58Z",
+  "pushed_at": "2018-08-02T00:06:19Z",
   "homepage": "http://redash.io/",
-  "size": 10956,
-  "stargazers_count": 9555,
+  "size": 11309,
+  "stargazers_count": 9631,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -48,19 +48,19 @@
   },
   "languages": {
     "Python": {
-      "bytes": 783991,
+      "bytes": 794916,
       "color": "#3572A5"
     },
     "JavaScript": {
-      "bytes": 383173,
+      "bytes": 393441,
       "color": "#f1e05a"
     },
     "HTML": {
-      "bytes": 188299,
+      "bytes": 194058,
       "color": "#e34c26"
     },
     "CSS": {
-      "bytes": 168552,
+      "bytes": 168849,
       "color": "#563d7c"
     },
     "Shell": {
@@ -70,6 +70,10 @@
     "Mako": {
       "bytes": 494,
       "color": "#ccc"
+    },
+    "Dockerfile": {
+      "bytes": 431,
+      "color": "#0db7ed"
     }
   },
   "contributors": {
@@ -114,7 +118,7 @@
     "yosit": 4,
     "Pablohn26": 5,
     "akiray03": 5,
-    "jezdez": 5,
+    "jezdez": 12,
     "doddjc21": 5,
     "cdessanti": 5,
     "alexmuller": 5,
@@ -154,14 +158,14 @@
     "ChiragKParmar": 17,
     "44px": 19,
     "jeffwidman": 18,
-    "ariarijp": 22,
+    "ariarijp": 23,
     "alonho": 20,
     "christophervalles-hailo": 28,
     "christophervalles": 38,
     "adamlwgriffiths": 21,
     "ekampf": 25,
-    "denisov-vlad": 26,
-    "kyoshidajp": 27,
+    "denisov-vlad": 27,
+    "kyoshidajp": 32,
     "luke14free": 27,
     "deecay": 38,
     "alexdebrie": 41,
@@ -169,10 +173,10 @@
     "tjwudi": 55,
     "erans": 58,
     "alexanderlz": 69,
-    "kravets-levko": 165,
+    "kravets-levko": 176,
     "amirnissim": 201,
-    "kocsmy": 299,
-    "arikfr": 3726,
+    "kocsmy": 306,
+    "arikfr": 3765,
     "chriszs": 3,
     "mpcarter": 3,
     "bamboo-yujiro": 3,
@@ -196,7 +200,7 @@
     "muddydixon": 2,
     "ninneko": 2,
     "myouju": 2,
-    "yuua": 2,
+    "yuua": 3,
     "jbencook": 2,
     "shinji19": 2,
     "Posnet": 1,
@@ -272,7 +276,8 @@
     "tknzk": 1,
     "tnetennba3": 1,
     "tomerben": 1,
-    "yoavbls": 1
+    "yoavbls": 1,
+    "matsumo": 1
   },
-  "fetched_at": "2018-07-22T16:49:45.098Z"
+  "fetched_at": "2018-08-02T09:08:18.533Z"
 }

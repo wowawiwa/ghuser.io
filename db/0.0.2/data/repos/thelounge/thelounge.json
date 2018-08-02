@@ -96,11 +96,11 @@
     "maxpoulin64": 106,
     "MaxLeiter": 51,
     "greenkeeperio-bot": 64,
-    "renovate-bot": 79,
+    "renovate-bot": 87,
     "greenkeeper[bot]": 275,
     "erming": 658,
-    "astorije": 1487,
-    "xPaw": 1227,
+    "astorije": 1496,
+    "xPaw": 1238,
     "aspotton": 1,
     "LFlare": 1,
     "benharri": 1,
@@ -129,11 +129,11 @@
   "url": "https://api.github.com/repos/thelounge/thelounge",
   "languages_url": "https://api.github.com/repos/thelounge/thelounge/languages",
   "created_at": "2016-02-09T03:16:03Z",
-  "updated_at": "2018-07-22T15:53:36Z",
-  "pushed_at": "2018-07-22T15:53:47Z",
+  "updated_at": "2018-08-02T05:58:13Z",
+  "pushed_at": "2018-08-02T05:58:24Z",
   "homepage": "https://thelounge.chat",
-  "size": 10586,
-  "stargazers_count": 2102,
+  "size": 10757,
+  "stargazers_count": 2112,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -167,15 +167,15 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 487371,
+      "bytes": 489249,
       "color": "#f1e05a"
     },
     "CSS": {
-      "bytes": 57873,
+      "bytes": 57689,
       "color": "#563d7c"
     },
     "Smarty": {
-      "bytes": 48869,
+      "bytes": 49050,
       "color": "#ccc"
     },
     "Shell": {
@@ -187,5 +187,5 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-07-22T16:49:45.098Z"
+  "fetched_at": "2018-08-02T09:08:18.533Z"
 }

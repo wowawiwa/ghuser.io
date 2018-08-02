@@ -63,7 +63,7 @@
     "kaguillera": 16,
     "mushketyk": 15,
     "EdOverflow": 16,
-    "Katharsisdrill": 17,
+    "Katharsisdrill": 19,
     "trebmuh": 18,
     "joealcorn": 20,
     "cakey": 19,
@@ -72,34 +72,34 @@
     "Evild67": 20,
     "bruceadams": 33,
     "dasj19": 24,
-    "MuhdNurHidayat": 33,
+    "MuhdNurHidayat": 36,
     "eldelacajita": 31,
     "m4sk1n": 33,
-    "Zveryok": 39,
+    "Zveryok": 44,
     "revi": 36,
     "sim6": 37,
     "patcon": 39,
-    "psaints": 42,
+    "psaints": 45,
     "wyze": 74,
-    "jmontane": 48,
+    "jmontane": 51,
     "pskosinski": 43,
     "nijel": 43,
-    "bisqwit": 51,
+    "bisqwit": 56,
     "techtonik": 56,
     "oakes": 64,
     "joonas": 65,
-    "Skybladev2": 61,
+    "Skybladev2": 63,
     "comradekingu": 66,
-    "aggsol": 79,
-    "jelv": 93,
+    "aggsol": 80,
+    "jelv": 97,
     "clone1018": 167,
     "rummik": 129,
-    "jorgesumle": 127,
+    "jorgesumle": 135,
     "zwn": 223,
     "seanlinsley": 299,
     "rohitpaulk": 214,
-    "tuxayo": 196,
-    "Changaco": 4880,
+    "tuxayo": 200,
+    "Changaco": 4899,
     "chadwhitacre": 5013,
     "trinary": 5,
     "andersjohansson": 3,
@@ -263,7 +263,11 @@
     "unarist": 1,
     "yamabiiko": 1,
     "r1235613": 1,
-    "dmitshur": 3
+    "dmitshur": 3,
+    "mapass": 1,
+    "flashcode": 2,
+    "MatNascimento": 1,
+    "Anne017": 1
   },
   "name": "liberapay.com",
   "full_name": "liberapay/liberapay.com",
@@ -275,11 +279,11 @@
   "url": "https://api.github.com/repos/liberapay/liberapay.com",
   "languages_url": "https://api.github.com/repos/liberapay/liberapay.com/languages",
   "created_at": "2015-05-22T14:03:52Z",
-  "updated_at": "2018-07-21T07:57:37Z",
-  "pushed_at": "2018-07-21T06:06:25Z",
+  "updated_at": "2018-08-01T16:16:15Z",
+  "pushed_at": "2018-08-01T16:16:17Z",
   "homepage": "https://liberapay.com/",
-  "size": 49849,
-  "stargazers_count": 456,
+  "size": 48390,
+  "stargazers_count": 460,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -307,11 +311,11 @@
   },
   "languages": {
     "Python": {
-      "bytes": 756564,
+      "bytes": 755804,
       "color": "#3572A5"
     },
     "PLpgSQL": {
-      "bytes": 100261,
+      "bytes": 103359,
       "color": "#ccc"
     },
     "JavaScript": {
@@ -319,11 +323,11 @@
       "color": "#f1e05a"
     },
     "CSS": {
-      "bytes": 79014,
+      "bytes": 78990,
       "color": "#563d7c"
     },
     "HTML": {
-      "bytes": 78389,
+      "bytes": 78785,
       "color": "#e34c26"
     },
     "Shell": {
@@ -337,7 +341,11 @@
     "SQLPL": {
       "bytes": 1410,
       "color": "#ccc"
+    },
+    "Dockerfile": {
+      "bytes": 644,
+      "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-07-21T08:12:16.618Z"
+  "fetched_at": "2018-08-01T20:16:09.053Z"
 }

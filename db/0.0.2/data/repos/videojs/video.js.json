@@ -94,12 +94,12 @@
     "OwenEdwards": 32,
     "forbesjo": 35,
     "mister-ben": 43,
-    "greenkeeper[bot]": 44,
-    "BrandonOCasey": 90,
+    "greenkeeper[bot]": 45,
+    "BrandonOCasey": 91,
     "mmcc": 117,
     "misteroneill": 101,
     "dmlap": 121,
-    "gkatsev": 558,
+    "gkatsev": 564,
     "heff": 1299,
     "squarebracket": 2,
     "OshinKaramian": 2,
@@ -309,7 +309,12 @@
     "typicode": 1,
     "zjruan": 1,
     "ragecub3": 1,
-    "ChALkeR": 1
+    "ChALkeR": 1,
+    "Akxe": 2,
+    "mreinstein": 1,
+    "gstrat88": 1,
+    "Chocobozzz": 1,
+    "decarbonite": 1
   },
   "name": "video.js",
   "full_name": "videojs/video.js",
@@ -321,11 +326,11 @@
   "url": "https://api.github.com/repos/videojs/video.js",
   "languages_url": "https://api.github.com/repos/videojs/video.js/languages",
   "created_at": "2010-05-14T18:45:10Z",
-  "updated_at": "2018-07-22T01:44:20Z",
-  "pushed_at": "2018-07-21T20:04:14Z",
+  "updated_at": "2018-08-02T09:05:48Z",
+  "pushed_at": "2018-07-31T20:40:39Z",
   "homepage": "www.videojs.com",
-  "size": 117719,
-  "stargazers_count": 21951,
+  "size": 117745,
+  "stargazers_count": 22062,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -359,7 +364,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 1177438,
+      "bytes": 1180324,
       "color": "#f1e05a"
     },
     "CSS": {
@@ -375,5 +380,5 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-07-22T09:08:36.263Z"
+  "fetched_at": "2018-08-02T09:08:18.533Z"
 }

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/cockroachdb/cockroach",
   "languages_url": "https://api.github.com/repos/cockroachdb/cockroach/languages",
   "created_at": "2014-02-06T00:18:47Z",
-  "updated_at": "2018-07-22T14:50:08Z",
-  "pushed_at": "2018-07-22T14:49:29Z",
+  "updated_at": "2018-08-02T08:20:33Z",
+  "pushed_at": "2018-08-02T08:39:31Z",
   "homepage": "https://www.cockroachlabs.com",
-  "size": 1024409,
-  "stargazers_count": 13861,
+  "size": 1029523,
+  "stargazers_count": 13928,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -78,7 +78,7 @@
     "soniabhishek": 5,
     "sbunce": 7,
     "bsnyder788": 6,
-    "emsal1863": 8,
+    "emsal1863": 9,
     "dsaveliev": 7,
     "yznming": 6,
     "bogdanbatog": 6,
@@ -89,8 +89,8 @@
     "guanqun": 9,
     "yananzhi": 14,
     "xiaoyulei": 10,
-    "yuzefovich": 16,
-    "lhirata": 17,
+    "yuzefovich": 22,
+    "lhirata": 19,
     "thundercw": 11,
     "joezxy": 14,
     "jamesgraves": 16,
@@ -110,7 +110,7 @@
     "a6802739": 43,
     "windchan7": 33,
     "yaojingguo": 44,
-    "solongordon": 76,
+    "solongordon": 80,
     "m-schneider": 82,
     "abhimadan": 75,
     "richardwu": 90,
@@ -118,35 +118,35 @@
     "d4l3k": 97,
     "eisenstatdavid": 106,
     "jseldess": 112,
-    "arjunravinarayan": 123,
-    "rytaft": 118,
+    "arjunravinarayan": 124,
+    "rytaft": 126,
     "lego": 122,
     "andybons": 105,
-    "asubiotto": 174,
-    "vilterp": 201,
-    "justinj": 342,
-    "andy-kimball": 267,
+    "asubiotto": 183,
+    "vilterp": 218,
+    "justinj": 345,
+    "andy-kimball": 280,
     "kkaneda": 429,
-    "couchand": 377,
-    "mrtracy": 602,
-    "mjibson": 665,
-    "danhhz": 695,
-    "BramGruneir": 746,
-    "mberhault": 727,
-    "vivekmenezes": 822,
-    "jordanlewis": 812,
-    "spencerkimball": 894,
-    "dt": 989,
-    "andreimatei": 876,
-    "a-robinson": 1055,
-    "benesch": 1161,
-    "nvanbenschoten": 1417,
+    "couchand": 379,
+    "mrtracy": 604,
+    "mjibson": 671,
+    "danhhz": 711,
+    "BramGruneir": 747,
+    "mberhault": 733,
+    "vivekmenezes": 823,
+    "jordanlewis": 832,
+    "spencerkimball": 895,
+    "dt": 998,
+    "andreimatei": 897,
+    "a-robinson": 1058,
+    "benesch": 1183,
+    "nvanbenschoten": 1448,
     "bdarnell": 1515,
-    "RaduBerinde": 1717,
-    "knz": 1843,
-    "petermattis": 3060,
-    "tschottdorf": 2771,
-    "tamird": 3207,
+    "RaduBerinde": 1733,
+    "knz": 1856,
+    "petermattis": 3068,
+    "tschottdorf": 2785,
+    "tamird": 3212,
     "maxlang": 96,
     "craig[bot]": 57,
     "itsbilal": 14,
@@ -155,7 +155,7 @@
     "kortschak": 4,
     "kaavee315": 3,
     "louishust": 3,
-    "madhavsuresh": 5,
+    "madhavsuresh": 6,
     "rmloveland": 4,
     "ajayaa": 2,
     "alex": 2,
@@ -254,27 +254,28 @@
     "hyphop": 1,
     "ivan": 1,
     "awoods187": 1,
-    "tarekbadrshalaan": 1
+    "tarekbadrshalaan": 1,
+    "tim-o": 1
   },
   "languages": {
     "Go": {
-      "bytes": 18835163,
+      "bytes": 19179334,
       "color": "#375eab"
     },
     "TypeScript": {
-      "bytes": 857712,
+      "bytes": 864680,
       "color": "#2b7489"
     },
     "C++": {
-      "bytes": 365336,
+      "bytes": 376879,
       "color": "#f34b7d"
     },
     "Yacc": {
-      "bytes": 237280,
+      "bytes": 237189,
       "color": "#4B6C4B"
     },
     "Shell": {
-      "bytes": 93505,
+      "bytes": 93538,
       "color": "#89e051"
     },
     "Tcl": {
@@ -282,11 +283,11 @@
       "color": "#e4cc98"
     },
     "Makefile": {
-      "bytes": 66071,
+      "bytes": 67826,
       "color": "#427819"
     },
     "CSS": {
-      "bytes": 55189,
+      "bytes": 55201,
       "color": "#563d7c"
     },
     "Python": {
@@ -294,7 +295,7 @@
       "color": "#3572A5"
     },
     "C": {
-      "bytes": 31331,
+      "bytes": 31722,
       "color": "#555555"
     },
     "C#": {
@@ -322,7 +323,7 @@
       "color": "#ccc"
     },
     "CMake": {
-      "bytes": 5392,
+      "bytes": 5394,
       "color": "#ccc"
     },
     "PHP": {
@@ -346,5 +347,5 @@
       "color": "#4d41b1"
     }
   },
-  "fetched_at": "2018-07-22T16:49:45.098Z"
+  "fetched_at": "2018-08-02T09:08:18.533Z"
 }

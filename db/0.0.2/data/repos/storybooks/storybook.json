@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/storybooks/storybook",
   "languages_url": "https://api.github.com/repos/storybooks/storybook/languages",
   "created_at": "2016-03-18T04:23:44Z",
-  "updated_at": "2018-07-22T16:36:30Z",
-  "pushed_at": "2018-07-22T11:29:24Z",
+  "updated_at": "2018-08-02T09:02:04Z",
+  "pushed_at": "2018-08-02T08:42:43Z",
   "homepage": "https://storybook.js.org",
-  "size": 107403,
-  "stargazers_count": 26083,
+  "size": 107402,
+  "stargazers_count": 26627,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -120,7 +120,7 @@
     "theinterned": 22,
     "dangreenisrael": 41,
     "leonrodenburg": 25,
-    "wuweiweiwu": 36,
+    "wuweiweiwu": 37,
     "naipath": 27,
     "klimentru1986": 34,
     "joscha": 34,
@@ -137,13 +137,13 @@
     "rhalff": 64,
     "Keraito": 60,
     "alterx": 104,
-    "danielduan": 300,
+    "danielduan": 310,
     "tmeasday": 191,
     "roonyh": 219,
-    "igor-dv": 618,
+    "igor-dv": 645,
     "shilman": 800,
     "mnmtanish": 808,
-    "ndelangen": 1539,
+    "ndelangen": 1551,
     "Hypnosphi": 2215,
     "arunoda": 1111,
     "dependencies-bot": 2209,
@@ -264,7 +264,7 @@
     "bluetidepro": 2,
     "Ethaan": 2,
     "folmert": 2,
-    "mnicole": 2,
+    "mnicole": 3,
     "paul42": 2,
     "sec0ndhand": 2,
     "Li0liQ": 2,
@@ -462,11 +462,16 @@
     "sanpoChew": 6,
     "adekbadek": 1,
     "jmiazga": 5,
-    "JalilArfaoui": 1
+    "JalilArfaoui": 1,
+    "pksunkara": 1,
+    "brycemhammond": 1,
+    "camel-floss": 4,
+    "libetl": 3,
+    "faun": 2
   },
   "languages": {
     "JavaScript": {
-      "bytes": 811432,
+      "bytes": 815681,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -474,7 +479,7 @@
       "color": "#e34c26"
     },
     "Kotlin": {
-      "bytes": 40970,
+      "bytes": 44969,
       "color": "#F18E33"
     },
     "TypeScript": {
@@ -510,5 +515,5 @@
       "color": "#d4bec1"
     }
   },
-  "fetched_at": "2018-07-22T16:49:45.098Z"
+  "fetched_at": "2018-08-02T09:08:18.533Z"
 }

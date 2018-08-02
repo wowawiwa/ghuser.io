@@ -12,7 +12,7 @@
     "jcs224": 5,
     "djrm": 17,
     "pcvonz": 20,
-    "akien-mga": 25
+    "akien-mga": 28
   },
   "name": "godot-website",
   "full_name": "godotengine/godot-website",
@@ -24,10 +24,10 @@
   "url": "https://api.github.com/repos/godotengine/godot-website",
   "languages_url": "https://api.github.com/repos/godotengine/godot-website/languages",
   "created_at": "2017-09-05T16:18:42Z",
-  "updated_at": "2018-07-08T18:59:42Z",
-  "pushed_at": "2018-07-15T15:33:23Z",
+  "updated_at": "2018-07-28T22:03:31Z",
+  "pushed_at": "2018-07-28T22:03:30Z",
   "homepage": null,
-  "size": 13458,
+  "size": 13451,
   "stargazers_count": 20,
   "language": "JavaScript",
   "mirror_url": null,
@@ -64,7 +64,7 @@
       "color": "#4F5D95"
     },
     "HTML": {
-      "bytes": 107491,
+      "bytes": 107923,
       "color": "#e34c26"
     },
     "CSS": {
@@ -72,5 +72,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-29T00:23:03.240Z"
 }

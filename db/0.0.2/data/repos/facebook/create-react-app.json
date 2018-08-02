@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/facebook/create-react-app",
   "languages_url": "https://api.github.com/repos/facebook/create-react-app/languages",
   "created_at": "2016-07-17T14:55:11Z",
-  "updated_at": "2018-07-22T16:33:06Z",
-  "pushed_at": "2018-07-20T17:42:58Z",
+  "updated_at": "2018-08-02T09:08:06Z",
+  "pushed_at": "2018-07-31T07:56:13Z",
   "homepage": null,
-  "size": 5707,
-  "stargazers_count": 52572,
+  "size": 5786,
+  "stargazers_count": 53173,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -124,7 +124,7 @@
     "hnordt": 4,
     "keyanzhang": 4,
     "eanplatter": 4,
-    "bugzpodder": 9,
+    "bugzpodder": 10,
     "bradfordlemley": 5,
     "bondz": 5,
     "jeffposnick": 5,
@@ -529,11 +529,14 @@
     "carlsagan21": 1,
     "shelldandy": 1,
     "mjw56": 1,
-    "remon-nashid": 1
+    "remon-nashid": 1,
+    "frenzzy": 1,
+    "Ashleyotero": 1,
+    "j-f1": 1
   },
   "languages": {
     "JavaScript": {
-      "bytes": 3000766,
+      "bytes": 3000805,
       "color": "#f1e05a"
     },
     "Shell": {
@@ -553,5 +556,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-07-22T16:49:45.098Z"
+  "fetched_at": "2018-08-02T09:08:18.533Z"
 }

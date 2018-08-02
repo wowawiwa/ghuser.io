@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/aryaminus/nazar-server",
   "languages_url": "https://api.github.com/repos/aryaminus/nazar-server/languages",
   "created_at": "2018-06-24T09:55:27Z",
-  "updated_at": "2018-07-21T14:17:57Z",
-  "pushed_at": "2018-07-21T13:59:41Z",
+  "updated_at": "2018-07-28T17:07:06Z",
+  "pushed_at": "2018-07-28T17:07:05Z",
   "homepage": "https://goo.gl/RA8pbn",
-  "size": 79554,
+  "size": 79900,
   "stargazers_count": 2,
   "language": "Python",
   "mirror_url": null,
@@ -22,17 +22,17 @@
   "default_branch": "master",
   "contributors": {
     "psuzn": 6,
-    "aryaminus": 32
+    "aryaminus": 34
   },
   "languages": {
     "Python": {
-      "bytes": 62431,
+      "bytes": 62286,
       "color": "#3572A5"
     },
     "Shell": {
-      "bytes": 797,
+      "bytes": 795,
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-07-21T14:55:33.499Z"
+  "fetched_at": "2018-07-29T00:23:03.240Z"
 }

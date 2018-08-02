@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/ipfs/awesome-ipfs",
   "languages_url": "https://api.github.com/repos/ipfs/awesome-ipfs/languages",
   "created_at": "2015-10-14T17:29:46Z",
-  "updated_at": "2018-07-22T14:27:43Z",
-  "pushed_at": "2018-07-20T05:29:25Z",
-  "homepage": "",
-  "size": 1174,
-  "stargazers_count": 1517,
+  "updated_at": "2018-08-02T06:21:12Z",
+  "pushed_at": "2018-08-02T04:29:24Z",
+  "homepage": "https://awesome.ipfs.io/",
+  "size": 2192,
+  "stargazers_count": 1547,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 8866,
+      "bytes": 8826,
       "color": "#f1e05a"
     },
     "HTML": {
-      "bytes": 6155,
+      "bytes": 6540,
       "color": "#e34c26"
     },
     "CSS": {
@@ -85,7 +85,7 @@
     "maxlath": 1,
     "richardschneider": 1,
     "siddharthist": 1,
-    "machawk1": 1,
+    "machawk1": 3,
     "musoke": 1,
     "fbonesso": 1,
     "keorn": 1,
@@ -109,14 +109,14 @@
     "sindresorhus": 3,
     "bhstahl": 4,
     "dignifiedquire": 4,
-    "VictorBjelkholm": 13,
+    "VictorBjelkholm": 17,
     "RichardLitt": 32,
     "carsonfarmer": 1,
     "postables": 1,
-    "koalalorenzo": 2,
+    "koalalorenzo": 9,
     "negamaxi": 1,
     "wanderingstan": 1,
-    "diasdavid": 1,
+    "diasdavid": 4,
     "groksrc": 1,
     "petethomas": 1,
     "dongtianyi": 1,
@@ -125,7 +125,12 @@
     "daijiale": 1,
     "PascalPrecht": 1,
     "MidnightLightning": 1,
-    "hacdias": 10
+    "hacdias": 14,
+    "rjrbt": 2,
+    "alanshaw": 1,
+    "lgierth": 1,
+    "lanzafame": 1,
+    "olizilla": 2
   },
-  "fetched_at": "2018-07-22T16:49:45.098Z"
+  "fetched_at": "2018-08-02T09:08:18.533Z"
 }

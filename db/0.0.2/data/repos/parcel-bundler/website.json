@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/parcel-bundler/website",
   "languages_url": "https://api.github.com/repos/parcel-bundler/website/languages",
   "created_at": "2017-10-23T01:24:40Z",
-  "updated_at": "2018-07-20T18:08:42Z",
-  "pushed_at": "2018-07-20T18:08:39Z",
+  "updated_at": "2018-07-31T23:47:59Z",
+  "pushed_at": "2018-07-31T23:47:56Z",
   "homepage": "https://parceljs.org",
-  "size": 4942,
-  "stargazers_count": 91,
+  "size": 4960,
+  "stargazers_count": 92,
   "language": "HTML",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "contributors": {
     "Noviny": 1,
-    "sw-yx": 1,
+    "sw-yx": 2,
     "chrisdwheatley": 1,
     "Chaptykov": 1,
     "threepointone": 1,
@@ -111,7 +111,7 @@
     "robertoachar": 4,
     "jamiebuilds": 5,
     "jamesmcallister": 5,
-    "lex111": 9,
+    "lex111": 11,
     "QC-L": 10,
     "forresst": 15,
     "DeMoorJasper": 14,
@@ -122,15 +122,18 @@
     "rafaelrinaldi": 1,
     "wooseopkim": 1,
     "rizowski": 1,
-    "Leopoldthecoder": 1
+    "Leopoldthecoder": 1,
+    "supertopoz": 1,
+    "ashtonsix": 1,
+    "DanielRuf": 1
   },
   "languages": {
     "HTML": {
-      "bytes": 112034,
+      "bytes": 112057,
       "color": "#e34c26"
     },
     "CSS": {
-      "bytes": 11688,
+      "bytes": 11795,
       "color": "#563d7c"
     },
     "JavaScript": {
@@ -142,5 +145,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-07-21T08:12:16.618Z"
+  "fetched_at": "2018-08-01T10:42:25.848Z"
 }

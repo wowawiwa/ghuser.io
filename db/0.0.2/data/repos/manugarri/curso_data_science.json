@@ -10,28 +10,28 @@
   "url": "https://api.github.com/repos/manugarri/curso_data_science",
   "languages_url": "https://api.github.com/repos/manugarri/curso_data_science/languages",
   "created_at": "2018-03-13T15:34:16Z",
-  "updated_at": "2018-07-21T10:44:52Z",
-  "pushed_at": "2018-07-21T10:44:48Z",
+  "updated_at": "2018-08-01T09:48:50Z",
+  "pushed_at": "2018-07-30T19:00:38Z",
   "homepage": null,
-  "size": 52192,
-  "stargazers_count": 16,
+  "size": 64581,
+  "stargazers_count": 19,
   "language": "Jupyter Notebook",
   "mirror_url": null,
   "archived": false,
   "license": null,
   "default_branch": "master",
   "contributors": {
-    "manugarri": 9
+    "manugarri": 12
   },
   "languages": {
     "Jupyter Notebook": {
-      "bytes": 14966011,
+      "bytes": 43488259,
       "color": "#DA5B0B"
     },
     "Python": {
-      "bytes": 85260,
+      "bytes": 105115,
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-07-21T14:55:33.499Z"
+  "fetched_at": "2018-08-01T10:42:25.848Z"
 }

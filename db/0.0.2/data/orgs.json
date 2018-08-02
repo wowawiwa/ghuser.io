@@ -2681,11 +2681,6 @@
       "url": "https://api.github.com/orgs/Small-Start",
       "avatar_url": "https://avatars3.githubusercontent.com/u/17977081?v=4"
     },
-    "7-sins": {
-      "login": "7-sins",
-      "url": "https://api.github.com/orgs/7-sins",
-      "avatar_url": "https://avatars2.githubusercontent.com/u/32466854?v=4"
-    },
     "librenms": {
       "login": "librenms",
       "url": "https://api.github.com/orgs/librenms",
@@ -2961,6 +2956,364 @@
       "html_url": "https://github.com/hacktoberfest17",
       "created_at": "2017-10-15T06:01:27Z",
       "updated_at": "2017-10-18T16:18:47Z",
+      "type": "Organization"
+    },
+    "duckduckgo": {
+      "login": "duckduckgo",
+      "url": "https://api.github.com/orgs/duckduckgo",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/342708?v=4",
+      "name": "DuckDuckGo",
+      "html_url": "https://github.com/duckduckgo",
+      "created_at": "2010-07-24T11:04:12Z",
+      "updated_at": "2018-07-13T14:23:55Z",
+      "type": "Organization"
+    },
+    "iiitv": {
+      "login": "iiitv",
+      "url": "https://api.github.com/orgs/iiitv",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/9347727?v=4",
+      "name": "IIIT Vadodara",
+      "html_url": "https://github.com/iiitv",
+      "created_at": "2014-10-22T07:17:32Z",
+      "updated_at": "2016-12-02T15:22:04Z",
+      "type": "Organization"
+    },
+    "Kinto": {
+      "login": "Kinto",
+      "url": "https://api.github.com/orgs/Kinto",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/13413813?v=4",
+      "name": "Kinto",
+      "html_url": "https://github.com/Kinto",
+      "created_at": "2015-07-20T07:33:20Z",
+      "updated_at": "2017-07-07T09:38:03Z",
+      "type": "Organization"
+    },
+    "campus-experts": {
+      "login": "campus-experts",
+      "url": "https://api.github.com/orgs/campus-experts",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/21289761?v=4",
+      "name": "GitHub Campus Experts",
+      "html_url": "https://github.com/campus-experts",
+      "created_at": "2016-08-28T09:43:31Z",
+      "updated_at": "2018-07-02T04:24:42Z",
+      "type": "Organization"
+    },
+    "taskcluster": {
+      "login": "taskcluster",
+      "url": "https://api.github.com/orgs/taskcluster",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/6257436?v=4",
+      "name": "Taskcluster Platform",
+      "html_url": "https://github.com/taskcluster",
+      "created_at": "2013-12-25T05:23:29Z",
+      "updated_at": "2018-07-03T15:28:04Z",
+      "type": "Organization"
+    },
+    "kubernetes": {
+      "login": "kubernetes",
+      "url": "https://api.github.com/orgs/kubernetes",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/13629408?v=4",
+      "name": "Kubernetes",
+      "html_url": "https://github.com/kubernetes",
+      "created_at": "2015-08-03T17:55:43Z",
+      "updated_at": "2018-07-19T21:25:07Z",
+      "type": "Organization"
+    },
+    "freedombox": {
+      "login": "freedombox",
+      "url": "https://api.github.com/orgs/freedombox",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/5255604?v=4",
+      "name": "FreedomBox",
+      "html_url": "https://github.com/freedombox",
+      "created_at": "2013-08-18T15:01:42Z",
+      "updated_at": "2017-02-05T15:57:26Z",
+      "type": "Organization"
+    },
+    "pmd": {
+      "login": "pmd",
+      "url": "https://api.github.com/orgs/pmd",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1958157?v=4",
+      "name": "PMD",
+      "html_url": "https://github.com/pmd",
+      "created_at": "2012-07-11T18:00:33Z",
+      "updated_at": "2018-04-03T05:51:12Z",
+      "type": "Organization"
+    },
+    "behaviorbot": {
+      "login": "behaviorbot",
+      "url": "https://api.github.com/orgs/behaviorbot",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/29607982?v=4",
+      "name": "behaviorbot",
+      "html_url": "https://github.com/behaviorbot",
+      "created_at": "2017-06-21T16:09:22Z",
+      "updated_at": "2018-06-25T04:41:22Z",
+      "type": "Organization"
+    },
+    "octokit": {
+      "login": "octokit",
+      "url": "https://api.github.com/orgs/octokit",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/3430433?v=4",
+      "name": null,
+      "html_url": "https://github.com/octokit",
+      "created_at": "2013-01-30T18:13:42Z",
+      "updated_at": "2018-07-07T04:11:55Z",
+      "type": "Organization"
+    },
+    "wip": {
+      "login": "wip",
+      "url": "https://api.github.com/orgs/wip",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/39417193?v=4",
+      "name": "Work In Progress",
+      "html_url": "https://github.com/wip",
+      "created_at": "2018-05-18T18:21:08Z",
+      "updated_at": "2018-07-01T00:43:00Z",
+      "type": "Organization"
+    },
+    "django": {
+      "login": "django",
+      "url": "https://api.github.com/orgs/django",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/27804?v=4",
+      "name": "Django",
+      "html_url": "https://github.com/django",
+      "created_at": "2008-10-06T19:43:18Z",
+      "updated_at": "2018-07-19T04:09:41Z",
+      "type": "Organization"
+    },
+    "NJACKWinterOfCode": {
+      "login": "NJACKWinterOfCode",
+      "url": "https://api.github.com/orgs/NJACKWinterOfCode",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/33991322?v=4",
+      "name": "NJACK Winter Of Code",
+      "html_url": "https://github.com/NJACKWinterOfCode",
+      "created_at": "2017-11-25T23:02:36Z",
+      "updated_at": "2017-12-03T21:58:30Z",
+      "type": "Organization"
+    },
+    "WhitestormJS": {
+      "login": "WhitestormJS",
+      "url": "https://api.github.com/orgs/WhitestormJS",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/16437392?v=4",
+      "name": "WhitestormJS Framework",
+      "html_url": "https://github.com/WhitestormJS",
+      "created_at": "2015-12-25T14:59:31Z",
+      "updated_at": "2018-01-25T18:22:02Z",
+      "type": "Organization"
+    },
+    "jsshack15": {
+      "login": "jsshack15",
+      "url": "https://api.github.com/orgs/jsshack15",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/15375248?v=4",
+      "name": "Hackathon-2015",
+      "html_url": "https://github.com/jsshack15",
+      "created_at": "2015-10-29T06:50:51Z",
+      "updated_at": "2017-05-07T15:35:20Z",
+      "type": "Organization"
+    },
+    "phpbb": {
+      "login": "phpbb",
+      "url": "https://api.github.com/orgs/phpbb",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/176697?v=4",
+      "name": "phpBB Forum Software",
+      "html_url": "https://github.com/phpbb",
+      "created_at": "2010-01-05T12:36:12Z",
+      "updated_at": "2018-07-25T09:37:27Z",
+      "type": "Organization"
+    },
+    "phpmyadmin": {
+      "login": "phpmyadmin",
+      "url": "https://api.github.com/orgs/phpmyadmin",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1351977?v=4",
+      "name": "phpMyAdmin",
+      "html_url": "https://github.com/phpmyadmin",
+      "created_at": "2012-01-19T08:04:26Z",
+      "updated_at": "2017-06-12T11:29:14Z",
+      "type": "Organization"
+    },
+    "wit-ai": {
+      "login": "wit-ai",
+      "url": "https://api.github.com/orgs/wit-ai",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/4723433?v=4",
+      "name": "Wit.ai",
+      "html_url": "https://github.com/wit-ai",
+      "created_at": "2013-06-18T00:19:36Z",
+      "updated_at": "2017-08-18T21:28:49Z",
+      "type": "Organization"
+    },
+    "civicrm": {
+      "login": "civicrm",
+      "url": "https://api.github.com/orgs/civicrm",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/136373?v=4",
+      "name": "CiviCRM",
+      "html_url": "https://github.com/civicrm",
+      "created_at": "2009-10-07T15:19:09Z",
+      "updated_at": "2016-01-12T14:19:22Z",
+      "type": "Organization"
+    },
+    "deadlyvipers": {
+      "login": "deadlyvipers",
+      "url": "https://api.github.com/orgs/deadlyvipers",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/7718750?v=4",
+      "html_url": "https://github.com/deadlyvipers",
+      "created_at": "2014-05-27T23:58:21Z",
+      "updated_at": "2015-04-21T10:02:51Z",
+      "type": "Organization"
+    },
+    "errbotio": {
+      "login": "errbotio",
+      "url": "https://api.github.com/orgs/errbotio",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/15802630?v=4",
+      "name": "errbot.io",
+      "html_url": "https://github.com/errbotio",
+      "created_at": "2015-11-11T15:52:11Z",
+      "updated_at": "2015-11-11T23:07:02Z",
+      "type": "Organization"
+    },
+    "ChickenMomos": {
+      "login": "ChickenMomos",
+      "url": "https://api.github.com/orgs/ChickenMomos",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/38945503?v=4",
+      "html_url": "https://github.com/ChickenMomos",
+      "created_at": "2018-05-03T11:34:39Z",
+      "updated_at": "2018-05-03T11:34:39Z",
+      "type": "Organization"
+    },
+    "omegaup": {
+      "login": "omegaup",
+      "url": "https://api.github.com/orgs/omegaup",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/558429?v=4",
+      "name": "omegaUp",
+      "html_url": "https://github.com/omegaup",
+      "created_at": "2011-01-12T00:06:10Z",
+      "updated_at": "2015-08-20T00:59:35Z",
+      "type": "Organization"
+    },
+    "openwisp": {
+      "login": "openwisp",
+      "url": "https://api.github.com/orgs/openwisp",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1150243?v=4",
+      "name": "OpenWISP",
+      "html_url": "https://github.com/openwisp",
+      "created_at": "2011-10-25T08:52:01Z",
+      "updated_at": "2017-07-21T17:09:10Z",
+      "type": "Organization"
+    },
+    "MUSoC": {
+      "login": "MUSoC",
+      "url": "https://api.github.com/orgs/MUSoC",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/29161127?v=4",
+      "name": "Manipal University Summer of Code",
+      "html_url": "https://github.com/MUSoC",
+      "created_at": "2017-06-03T11:11:31Z",
+      "updated_at": "2017-06-03T11:16:57Z",
+      "type": "Organization"
+    },
+    "canjs": {
+      "login": "canjs",
+      "url": "https://api.github.com/orgs/canjs",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/11798761?v=4",
+      "name": "CanJS",
+      "html_url": "https://github.com/canjs",
+      "created_at": "2015-04-04T16:20:00Z",
+      "updated_at": "2017-06-28T17:59:40Z",
+      "type": "Organization"
+    },
+    "DefactoSoftware": {
+      "login": "DefactoSoftware",
+      "url": "https://api.github.com/orgs/DefactoSoftware",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/3899757?v=4",
+      "name": "Defacto",
+      "html_url": "https://github.com/DefactoSoftware",
+      "created_at": "2013-03-18T14:22:53Z",
+      "updated_at": "2017-02-08T10:22:21Z",
+      "type": "Organization"
+    },
+    "GoogleChrome": {
+      "login": "GoogleChrome",
+      "url": "https://api.github.com/orgs/GoogleChrome",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1778935?v=4",
+      "name": "",
+      "html_url": "https://github.com/GoogleChrome",
+      "created_at": "2012-05-25T18:21:42Z",
+      "updated_at": "2018-04-19T23:34:02Z",
+      "type": "Organization"
+    },
+    "salsify": {
+      "login": "salsify",
+      "url": "https://api.github.com/orgs/salsify",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/2165267?v=4",
+      "name": "Salsify",
+      "html_url": "https://github.com/salsify",
+      "created_at": "2012-08-16T20:00:00Z",
+      "updated_at": "2018-07-25T17:45:48Z",
+      "type": "Organization"
+    },
+    "TryGhost": {
+      "login": "TryGhost",
+      "url": "https://api.github.com/orgs/TryGhost",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/2178663?v=4",
+      "name": "Ghost",
+      "html_url": "https://github.com/TryGhost",
+      "created_at": "2012-08-19T13:28:58Z",
+      "updated_at": "2018-07-20T09:55:18Z",
+      "type": "Organization"
+    },
+    "zipmark": {
+      "login": "zipmark",
+      "url": "https://api.github.com/orgs/zipmark",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/903590?v=4",
+      "name": "Zipmark, Inc",
+      "html_url": "https://github.com/zipmark",
+      "created_at": "2011-07-08T19:31:29Z",
+      "updated_at": "2018-07-20T09:43:49Z",
+      "type": "Organization"
+    },
+    "blendle": {
+      "login": "blendle",
+      "url": "https://api.github.com/orgs/blendle",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/7072577?v=4",
+      "name": "Blendle",
+      "html_url": "https://github.com/blendle",
+      "created_at": "2014-03-26T17:16:04Z",
+      "updated_at": "2018-04-12T12:32:19Z",
+      "type": "Organization"
+    },
+    "ampproject": {
+      "login": "ampproject",
+      "url": "https://api.github.com/orgs/ampproject",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/14114390?v=4",
+      "name": "AMP Project",
+      "html_url": "https://github.com/ampproject",
+      "created_at": "2015-09-03T18:29:21Z",
+      "updated_at": "2018-04-19T23:19:51Z",
+      "type": "Organization"
+    },
+    "js-org": {
+      "login": "js-org",
+      "url": "https://api.github.com/orgs/js-org",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/11666794?v=4",
+      "name": "JS.ORG",
+      "html_url": "https://github.com/js-org",
+      "created_at": "2015-03-26T15:41:35Z",
+      "updated_at": "2016-04-20T08:20:54Z",
+      "type": "Organization"
+    },
+    "src-d": {
+      "login": "src-d",
+      "url": "https://api.github.com/orgs/src-d",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/15128793?v=4",
+      "name": "source{d}",
+      "html_url": "https://github.com/src-d",
+      "created_at": "2015-10-14T17:13:24Z",
+      "updated_at": "2018-07-16T09:33:59Z",
+      "type": "Organization"
+    },
+    "Asiatik": {
+      "login": "Asiatik",
+      "url": "https://api.github.com/orgs/Asiatik",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/36604391?v=4",
+      "name": "Asiatik",
+      "html_url": "https://github.com/Asiatik",
+      "created_at": "2018-02-18T17:12:23Z",
+      "updated_at": "2018-02-18T18:10:55Z",
       "type": "Organization"
     }
   }

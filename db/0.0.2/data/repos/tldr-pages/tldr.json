@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/tldr-pages/tldr",
   "languages_url": "https://api.github.com/repos/tldr-pages/tldr/languages",
   "created_at": "2013-12-08T07:34:43Z",
-  "updated_at": "2018-07-22T12:23:56Z",
-  "pushed_at": "2018-07-22T16:43:20Z",
+  "updated_at": "2018-08-02T08:53:55Z",
+  "pushed_at": "2018-08-01T15:35:11Z",
   "homepage": "http://tldr-pages.github.io/",
-  "size": 3338,
-  "stargazers_count": 17702,
+  "size": 3439,
+  "stargazers_count": 17805,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -145,7 +145,7 @@
     "oxguy3": 91,
     "pxgamer": 115,
     "igorshubovych": 301,
-    "agnivade": 156,
+    "agnivade": 158,
     "waldyrious": 412,
     "lasersharks": 4,
     "alxers": 3,
@@ -264,7 +264,7 @@
     "rspeicher": 2,
     "rowanfreeman": 2,
     "ry": 2,
-    "itsjzt": 3,
+    "itsjzt": 4,
     "severen": 2,
     "smevawala": 2,
     "simman": 2,
@@ -457,12 +457,14 @@
     "codetheweb": 1,
     "loliee": 1,
     "mehdi-farsi": 1,
-    "Calinou": 3,
+    "Calinou": 5,
     "julienc91": 2,
     "Wesalius": 3,
     "amadeous": 1,
-    "borekb": 2,
-    "adamsulucz": 3
+    "borekb": 3,
+    "adamsulucz": 3,
+    "idleberg": 7,
+    "christopherkuemmel": 1
   },
   "languages": {
     "Python": {
@@ -482,5 +484,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-07-22T16:49:45.098Z"
+  "fetched_at": "2018-08-02T09:08:18.533Z"
 }

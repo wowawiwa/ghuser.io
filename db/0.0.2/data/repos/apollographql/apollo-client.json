@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/apollographql/apollo-client",
   "languages_url": "https://api.github.com/repos/apollographql/apollo-client/languages",
   "created_at": "2016-02-26T20:25:00Z",
-  "updated_at": "2018-07-22T13:25:51Z",
-  "pushed_at": "2018-07-22T09:25:40Z",
+  "updated_at": "2018-08-02T08:45:47Z",
+  "pushed_at": "2018-08-01T22:03:19Z",
   "homepage": "https://www.apollographql.com/client/",
-  "size": 10188,
-  "stargazers_count": 7993,
+  "size": 10393,
+  "stargazers_count": 8135,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -123,7 +123,7 @@
     "srtucker22": 16,
     "BlooJeans": 13,
     "mquandalle": 10,
-    "benjamn": 12,
+    "benjamn": 13,
     "abernix": 25,
     "martijnwalraven": 17,
     "evans": 19,
@@ -139,16 +139,16 @@
     "tmeasday": 53,
     "Slava": 61,
     "peggyrayzis": 94,
-    "hwillson": 288,
+    "hwillson": 378,
     "calebmer": 140,
     "renovate[bot]": 163,
-    "renovate-bot": 179,
-    "jbaxleyiii": 198,
+    "renovate-bot": 187,
+    "jbaxleyiii": 200,
     "Poincare": 345,
     "helfer": 1098,
     "stubailo": 1095,
     "tabrindle": 4,
-    "unicodeveloper": 4,
+    "unicodeveloper": 7,
     "divyenduz": 3,
     "erikrahm": 3,
     "lirbank": 3,
@@ -183,7 +183,7 @@
     "p4bloch": 2,
     "Platane": 2,
     "bricker": 2,
-    "chentsulin": 2,
+    "chentsulin": 4,
     "crash7": 2,
     "PascalSenn": 2,
     "rarkins": 2,
@@ -205,7 +205,7 @@
     "ananth99": 1,
     "andtos90": 1,
     "anslzo": 1,
-    "ardouglass": 1,
+    "ardouglass": 2,
     "AndrewRayCode": 1,
     "aruntk": 1,
     "avindra": 1,
@@ -355,11 +355,16 @@
     "jfurler": 1,
     "jinxac": 1,
     "dandv": 1,
-    "quentin-": 6
+    "quentin-": 6,
+    "jzimmek": 1,
+    "bennypowers": 4,
+    "TheMightyPenguin": 2,
+    "PowerKiKi": 1,
+    "drrckln": 2
   },
   "languages": {
     "TypeScript": {
-      "bytes": 969343,
+      "bytes": 976290,
       "color": "#2b7489"
     },
     "JavaScript": {
@@ -371,5 +376,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-07-22T16:49:45.098Z"
+  "fetched_at": "2018-08-02T09:08:18.533Z"
 }

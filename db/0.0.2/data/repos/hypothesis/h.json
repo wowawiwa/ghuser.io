@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/hypothesis/h",
   "languages_url": "https://api.github.com/repos/hypothesis/h/languages",
   "created_at": "2012-04-02T19:56:59Z",
-  "updated_at": "2018-07-22T09:16:44Z",
-  "pushed_at": "2018-07-22T09:16:40Z",
+  "updated_at": "2018-08-01T17:25:02Z",
+  "pushed_at": "2018-08-01T17:59:08Z",
   "homepage": "https://hypothes.is/",
-  "size": 30071,
-  "stargazers_count": 1173,
+  "size": 30122,
+  "stargazers_count": 1184,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "Python": {
-      "bytes": 2473147,
+      "bytes": 2494608,
       "color": "#3572A5"
     },
     "JavaScript": {
@@ -56,7 +56,7 @@
       "color": "#f1e05a"
     },
     "HTML": {
-      "bytes": 107356,
+      "bytes": 107338,
       "color": "#e34c26"
     },
     "CSS": {
@@ -113,21 +113,23 @@
     "JakeHartnell": 53,
     "edsu": 59,
     "Treora": 69,
-    "sheetaluk": 82,
+    "sheetaluk": 84,
     "BigBlueHat": 88,
     "fatbusinessman": 95,
-    "hmstepanek": 108,
-    "lyzadanger": 113,
+    "hmstepanek": 118,
+    "lyzadanger": 117,
     "finitud": 120,
     "jtremback": 182,
     "csillag": 520,
     "aron": 539,
     "gergely-ujvari": 586,
     "chdorner": 655,
-    "robertknight": 1136,
-    "seanh": 1205,
+    "robertknight": 1142,
+    "seanh": 1206,
     "nickstenning": 1394,
-    "tilgovi": 3410
+    "tilgovi": 3410,
+    "a-feld": 1,
+    "SteelWagstaff": 1
   },
-  "fetched_at": "2018-07-22T16:49:45.098Z"
+  "fetched_at": "2018-08-01T20:16:09.053Z"
 }

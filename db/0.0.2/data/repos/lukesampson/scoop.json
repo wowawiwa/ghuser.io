@@ -48,7 +48,7 @@
     "RobBlackwell": 5,
     "shipcod3": 5,
     "pablocrivella": 5,
-    "Calinou": 7,
+    "Calinou": 8,
     "stkb": 6,
     "yigitemres": 6,
     "Congee": 6,
@@ -72,7 +72,7 @@
     "inosik": 12,
     "Krzysztof-Cieslak": 12,
     "myty": 12,
-    "h404bi": 16,
+    "h404bi": 17,
     "excitoon": 13,
     "pcrama": 13,
     "matthewjberger": 13,
@@ -82,7 +82,7 @@
     "danielkocot": 16,
     "scottwillmoore": 16,
     "kodybrown": 21,
-    "asmgf": 18,
+    "asmgf": 19,
     "jkrehm": 18,
     "rivy": 25,
     "engelhro": 25,
@@ -94,13 +94,13 @@
     "moigagoo": 42,
     "sestegra": 53,
     "martinlindhe": 62,
-    "brandon93s": 71,
+    "brandon93s": 76,
     "sakai135": 83,
     "rrelmy": 121,
-    "rasa": 137,
+    "rasa": 139,
     "deevus": 202,
     "lukesampson": 1426,
-    "r15ch13": 3197,
+    "r15ch13": 3275,
     "Mika-": 4,
     "masaeedu": 3,
     "quincunx": 3,
@@ -266,7 +266,10 @@
     "nickbudi": 1,
     "CryoRenegade": 2,
     "frodri": 1,
-    "Gargauth": 1
+    "Gargauth": 1,
+    "HWataru": 1,
+    "Ardelean-Calin": 1,
+    "amaechler": 1
   },
   "name": "scoop",
   "full_name": "lukesampson/scoop",
@@ -278,11 +281,11 @@
   "url": "https://api.github.com/repos/lukesampson/scoop",
   "languages_url": "https://api.github.com/repos/lukesampson/scoop/languages",
   "created_at": "2013-05-11T03:52:15Z",
-  "updated_at": "2018-07-22T15:00:28Z",
-  "pushed_at": "2018-07-22T15:00:23Z",
+  "updated_at": "2018-08-02T09:00:28Z",
+  "pushed_at": "2018-08-02T09:00:23Z",
   "homepage": "https://scoop.sh",
-  "size": 6322,
-  "stargazers_count": 4465,
+  "size": 6293,
+  "stargazers_count": 4521,
   "language": "PowerShell",
   "mirror_url": null,
   "archived": false,
@@ -296,7 +299,7 @@
   "default_branch": "master",
   "languages": {
     "PowerShell": {
-      "bytes": 220716,
+      "bytes": 221691,
       "color": "#012456"
     },
     "C#": {
@@ -304,5 +307,5 @@
       "color": "#178600"
     }
   },
-  "fetched_at": "2018-07-22T16:49:45.098Z"
+  "fetched_at": "2018-08-02T09:08:18.533Z"
 }

@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/p-society/p-society.github.io",
   "languages_url": "https://api.github.com/repos/p-society/p-society.github.io/languages",
   "created_at": "2017-07-04T16:18:46Z",
-  "updated_at": "2018-07-19T07:44:56Z",
-  "pushed_at": "2018-07-15T16:10:50Z",
+  "updated_at": "2018-07-28T07:36:34Z",
+  "pushed_at": "2018-07-28T07:36:32Z",
   "homepage": "https://p-society.herokuapp.com/",
-  "size": 913,
+  "size": 924,
   "stargazers_count": 17,
   "language": "HTML",
   "mirror_url": null,
@@ -47,7 +47,7 @@
     "site_admin": false
   },
   "contributors": {
-    "debck": 3,
+    "debck": 4,
     "sonakshisaxena1": 1,
     "swap1108": 1,
     "geekysrm": 1,
@@ -59,20 +59,22 @@
     "shibasisp": 3,
     "bkhanale": 3,
     "sr6033": 9,
-    "knrt10": 48,
-    "nayonika1999": 1
+    "knrt10": 51,
+    "nayonika1999": 1,
+    "nawedx": 1,
+    "IamRaviTejaG": 2
   },
   "languages": {
     "HTML": {
-      "bytes": 23503,
+      "bytes": 29463,
       "color": "#e34c26"
     },
     "CSS": {
-      "bytes": 9905,
+      "bytes": 9859,
       "color": "#563d7c"
     },
     "Ruby": {
-      "bytes": 4292,
+      "bytes": 4552,
       "color": "#701516"
     },
     "JavaScript": {
@@ -84,5 +86,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-28T15:39:57.361Z"
 }

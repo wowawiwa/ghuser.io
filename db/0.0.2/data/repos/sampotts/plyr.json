@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/sampotts/plyr",
   "languages_url": "https://api.github.com/repos/sampotts/plyr/languages",
   "created_at": "2015-02-14T11:33:07Z",
-  "updated_at": "2018-07-22T06:45:41Z",
-  "pushed_at": "2018-07-19T00:02:52Z",
+  "updated_at": "2018-08-02T08:54:12Z",
+  "pushed_at": "2018-08-01T14:56:13Z",
   "homepage": "https://plyr.io",
-  "size": 27595,
-  "stargazers_count": 11688,
+  "size": 28387,
+  "stargazers_count": 11751,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -94,16 +94,18 @@
     "pchrysa": 11,
     "calvintam236": 15,
     "gehaktmolen": 19,
-    "friday": 120,
-    "sampotts": 845
+    "friday": 124,
+    "sampotts": 850,
+    "renaudleo": 1,
+    "mhluska": 1
   },
   "languages": {
     "JavaScript": {
-      "bytes": 208485,
+      "bytes": 208811,
       "color": "#f1e05a"
     },
     "CSS": {
-      "bytes": 38919,
+      "bytes": 39003,
       "color": "#563d7c"
     },
     "Shell": {
@@ -111,5 +113,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-07-22T09:08:36.263Z"
+  "fetched_at": "2018-08-02T09:08:18.533Z"
 }

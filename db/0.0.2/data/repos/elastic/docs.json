@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/elastic/docs",
   "languages_url": "https://api.github.com/repos/elastic/docs/languages",
   "created_at": "2015-02-25T16:26:02Z",
-  "updated_at": "2018-07-22T14:54:14Z",
-  "pushed_at": "2018-07-22T14:54:11Z",
+  "updated_at": "2018-08-02T09:05:29Z",
+  "pushed_at": "2018-08-02T09:05:26Z",
   "homepage": null,
-  "size": 616935,
-  "stargazers_count": 109,
+  "size": 696904,
+  "stargazers_count": 110,
   "language": "HTML",
   "mirror_url": null,
   "archived": false,
@@ -42,15 +42,15 @@
   },
   "languages": {
     "HTML": {
-      "bytes": 2434642240,
+      "bytes": 2646067207,
       "color": "#e34c26"
     },
     "JavaScript": {
-      "bytes": 11840514,
+      "bytes": 12246620,
       "color": "#f1e05a"
     },
     "CSS": {
-      "bytes": 11396296,
+      "bytes": 11813783,
       "color": "#563d7c"
     },
     "XSLT": {
@@ -107,9 +107,9 @@
     }
   },
   "contributors": {
-    "lcawl": 48,
-    "debadair": 25,
-    "nrichers": 9,
+    "lcawl": 50,
+    "debadair": 30,
+    "nrichers": 11,
     "dedemorton": 6,
     "axw": 3,
     "nik9000": 4,
@@ -127,7 +127,8 @@
     "spalger": 1,
     "simitt": 1,
     "Sue-Gallagher": 2,
-    "jalvz": 1
+    "jalvz": 1,
+    "jahtalab": 1
   },
-  "fetched_at": "2018-07-22T16:49:45.098Z"
+  "fetched_at": "2018-08-02T09:08:18.533Z"
 }

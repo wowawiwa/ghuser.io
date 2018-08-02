@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/facebook/react",
   "languages_url": "https://api.github.com/repos/facebook/react/languages",
   "created_at": "2013-05-24T16:15:54Z",
-  "updated_at": "2018-07-22T16:26:35Z",
-  "pushed_at": "2018-07-22T11:29:46Z",
+  "updated_at": "2018-08-02T08:50:07Z",
+  "pushed_at": "2018-08-02T05:29:28Z",
   "homepage": "https://reactjs.org",
-  "size": 137123,
-  "stargazers_count": 106950,
+  "size": 137388,
+  "stargazers_count": 107792,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -62,7 +62,7 @@
     "jbaiter": 5,
     "keito": 5,
     "clayallsopp": 5,
-    "philipp-spiess": 7,
+    "philipp-spiess": 8,
     "brigand": 6,
     "aaronabramov": 5,
     "jontewks": 6,
@@ -130,7 +130,7 @@
     "cpojer": 65,
     "koba04": 59,
     "aweary": 67,
-    "flarnie": 66,
+    "flarnie": 67,
     "syranide": 77,
     "yungsters": 114,
     "nhunzaker": 83,
@@ -141,11 +141,11 @@
     "vjeux": 207,
     "chenglou": 222,
     "petehunt": 332,
-    "bvaughn": 277,
-    "acdlite": 437,
+    "bvaughn": 279,
+    "acdlite": 440,
     "sebmarkbage": 644,
     "zpao": 1776,
-    "gaearon": 915,
+    "gaearon": 928,
     "sophiebits": 1232,
     "leebyron": 10,
     "puradox": 8,
@@ -503,7 +503,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 1922151,
+      "bytes": 1964019,
       "color": "#f1e05a"
     },
     "C++": {
@@ -511,7 +511,7 @@
       "color": "#f34b7d"
     },
     "HTML": {
-      "bytes": 41060,
+      "bytes": 42971,
       "color": "#e34c26"
     },
     "TypeScript": {
@@ -522,6 +522,10 @@
       "bytes": 15766,
       "color": "#244776"
     },
+    "CSS": {
+      "bytes": 9544,
+      "color": "#563d7c"
+    },
     "Shell": {
       "bytes": 5733,
       "color": "#89e051"
@@ -529,10 +533,6 @@
     "C": {
       "bytes": 5219,
       "color": "#555555"
-    },
-    "CSS": {
-      "bytes": 4644,
-      "color": "#563d7c"
     },
     "Python": {
       "bytes": 259,
@@ -543,5 +543,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-07-22T16:49:45.098Z"
+  "fetched_at": "2018-08-02T09:08:18.533Z"
 }

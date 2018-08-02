@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/OpenGenus/cosmos",
   "languages_url": "https://api.github.com/repos/OpenGenus/cosmos/languages",
   "created_at": "2017-09-16T12:07:05Z",
-  "updated_at": "2018-07-22T16:05:57Z",
-  "pushed_at": "2018-07-21T16:00:58Z",
+  "updated_at": "2018-08-02T06:43:42Z",
+  "pushed_at": "2018-07-30T16:41:53Z",
   "homepage": "https://discourse.opengenus.org",
-  "size": 14226,
-  "stargazers_count": 9393,
+  "size": 14242,
+  "stargazers_count": 9447,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -137,7 +137,7 @@
     "cenaion": 47,
     "parulagg27": 58,
     "FrankKair": 58,
-    "christianbender": 65,
+    "christianbender": 66,
     "YashovardhanSiramdas": 65,
     "mansiag": 75,
     "daipeihust": 91,
@@ -146,7 +146,7 @@
     "abdouskamel": 142,
     "arnavb": 318,
     "iattempt": 481,
-    "AdiChat": 2876,
+    "AdiChat": 2879,
     "tbhaxor": 138,
     "OkarinRintaro": 13,
     "RajatGarg97": 10,
@@ -481,15 +481,16 @@
     "sahitpj": 11,
     "ionicc": 5,
     "rhendz": 7,
-    "saurabhgoyaliitr": 3
+    "saurabhgoyaliitr": 3,
+    "CanftIn": 9
   },
   "languages": {
     "C++": {
-      "bytes": 1470796,
+      "bytes": 1479222,
       "color": "#f34b7d"
     },
     "Python": {
-      "bytes": 508007,
+      "bytes": 510072,
       "color": "#3572A5"
     },
     "Java": {
@@ -497,11 +498,11 @@
       "color": "#b07219"
     },
     "C": {
-      "bytes": 424496,
+      "bytes": 433217,
       "color": "#555555"
     },
     "JavaScript": {
-      "bytes": 148549,
+      "bytes": 148346,
       "color": "#f1e05a"
     },
     "C#": {
@@ -649,5 +650,5 @@
       "color": "#776791"
     }
   },
-  "fetched_at": "2018-07-22T16:49:45.098Z"
+  "fetched_at": "2018-08-02T09:08:18.533Z"
 }
