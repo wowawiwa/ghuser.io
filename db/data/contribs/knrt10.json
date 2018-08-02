@@ -80,12 +80,12 @@
     },
     "probot/probot": {
       "full_name": "probot/probot",
-      "popularity": 4.471198729314344,
+      "popularity": 4.472371270901283,
       "percentage": 0.2375296912114014,
       "maturity": 3.9059646189103567,
       "total_commits_count": 842,
       "activity": 5,
-      "total_score": 26.363590944721196,
+      "total_score": 26.367144776229352,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -135,12 +135,12 @@
     },
     "wip/app": {
       "full_name": "wip/app",
-      "popularity": 3.408448651859347,
+      "popularity": 3.411827078053053,
       "percentage": 0.8849557522123894,
       "maturity": 2.8656513250381606,
       "total_commits_count": 113,
       "activity": 5,
-      "total_score": 21.348771016930215,
+      "total_score": 21.359294964011497,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

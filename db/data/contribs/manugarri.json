@@ -3,12 +3,12 @@
   "repos": {
     "mlflow/mlflow": {
       "full_name": "mlflow/mlflow",
-      "popularity": 4.270508293009648,
-      "percentage": 0.7246376811594203,
-      "maturity": 2.993403559571943,
-      "total_commits_count": 138,
+      "popularity": 4.270973999433555,
+      "percentage": 0.7194244604316546,
+      "maturity": 2.9978082245019047,
+      "total_commits_count": 139,
       "activity": 5,
-      "total_score": 24.200626257659245,
+      "total_score": 24.207982058762287,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -138,7 +138,7 @@
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,
-      "total_commits_count": 18529,
+      "total_commits_count": 18531,
       "activity": 5,
       "total_score": 30,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",

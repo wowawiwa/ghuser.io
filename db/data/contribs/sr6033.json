@@ -14,12 +14,12 @@
     },
     "matiassingers/awesome-readme": {
       "full_name": "matiassingers/awesome-readme",
-      "popularity": 4.4573304264180145,
+      "popularity": 4.457481928018402,
       "percentage": 1.36986301369863,
       "maturity": 2.5215590771505747,
       "total_commits_count": 73,
       "activity": 5,
-      "total_score": 24.208880605383058,
+      "total_score": 24.209362089921278,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -69,12 +69,12 @@
     },
     "django/channels": {
       "full_name": "django/channels",
-      "popularity": 4.499189842649336,
+      "popularity": 4.499602460950397,
       "percentage": 0.10256410256410256,
       "maturity": 3.9725941902942514,
       "total_commits_count": 975,
       "activity": 5,
-      "total_score": 26.502747106438502,
+      "total_score": 26.503990462919035,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -245,12 +245,12 @@
     },
     "WhitestormJS/whs.js": {
       "full_name": "WhitestormJS/whs.js",
-      "popularity": 4.6884678092409455,
+      "popularity": 4.688556793071668,
       "percentage": 0.1497005988023952,
       "maturity": 4.29489982602514,
       "total_commits_count": 2004,
-      "activity": 3.0471055126364224,
-      "total_score": 25.793551229415726,
+      "activity": 2.910801837351017,
+      "total_score": 25.657516237343742,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

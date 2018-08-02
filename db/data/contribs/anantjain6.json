@@ -3,12 +3,12 @@
   "repos": {
     "phpmyadmin/phpmyadmin": {
       "full_name": "phpmyadmin/phpmyadmin",
-      "popularity": 4.509926797110355,
+      "popularity": 4.510061020897773,
       "percentage": 0,
       "maturity": 5,
       "total_commits_count": 82555,
       "activity": 5,
-      "total_score": 28.529780391331066,
+      "total_score": 28.530183062693318,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

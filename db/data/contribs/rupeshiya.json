@@ -47,12 +47,12 @@
     },
     "openebs/openebs": {
       "full_name": "openebs/openebs",
-      "popularity": 4.722598976668295,
+      "popularity": 4.722516702109901,
       "percentage": 0,
       "maturity": 4.1555815370955775,
       "total_commits_count": 1465,
       "activity": 5,
-      "total_score": 27.47896000419604,
+      "total_score": 27.478713180520856,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -70,11 +70,11 @@
     "ant-design/ant-design-pro": {
       "full_name": "ant-design/ant-design-pro",
       "popularity": 5,
-      "percentage": 0.1267427122940431,
-      "maturity": 3.8762758843561516,
-      "total_commits_count": 789,
+      "percentage": 0.12658227848101267,
+      "maturity": 3.8768552530561013,
+      "total_commits_count": 790,
       "activity": 5,
-      "total_score": 27.834934531703432,
+      "total_score": 27.83598898712486,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -102,12 +102,12 @@
     },
     "dwyl/the-book": {
       "full_name": "dwyl/the-book",
-      "popularity": 3.8306918966780064,
+      "popularity": 3.8313328272661047,
       "percentage": 0.7575757575757576,
       "maturity": 2.9659940673125176,
       "total_commits_count": 132,
-      "activity": 1.6811185910832265,
-      "total_score": 19.48244752677875,
+      "activity": 1.6750228466917152,
+      "total_score": 19.47833769610339,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -168,12 +168,12 @@
     },
     "TheAlgorithms/C": {
       "full_name": "TheAlgorithms/C",
-      "popularity": 3.540493691063696,
+      "popularity": 3.5417431007089224,
       "percentage": 2.380952380952381,
       "maturity": 3.1092840956183023,
       "total_commits_count": 168,
       "activity": 5,
-      "total_score": 22.93591635928074,
+      "total_score": 22.940051310249466,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

@@ -36,12 +36,12 @@
     },
     "dataquestio/solutions": {
       "full_name": "dataquestio/solutions",
-      "popularity": 3.3911506864735506,
+      "popularity": 3.392911818237103,
       "percentage": 0,
       "maturity": 2.006040535099928,
       "total_commits_count": 50,
       "activity": 5,
-      "total_score": 19.185533129620506,
+      "total_score": 19.190816524911167,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -69,12 +69,12 @@
     },
     "schalkventer/tech-for-good": {
       "full_name": "schalkventer/tech-for-good",
-      "popularity": 0,
+      "popularity": 1.0414282204429401,
       "percentage": 0,
       "maturity": 0,
       "total_commits_count": 10,
       "activity": 5,
-      "total_score": 5,
+      "total_score": 8.12428466132882,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
