@@ -146,12 +146,12 @@
     },
     "luis-almeida/unveil": {
       "full_name": "luis-almeida/unveil",
-      "popularity": 4.633214548232977,
+      "popularity": 4.633113469592942,
       "percentage": 0,
       "maturity": 0,
       "total_commits_count": 31,
-      "activity": 1.4671043835094162,
-      "total_score": 15.366748028208345,
+      "activity": 1.4627515989740374,
+      "total_score": 15.362092007752864,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -322,12 +322,12 @@
     },
     "phpmyadmin/phpmyadmin": {
       "full_name": "phpmyadmin/phpmyadmin",
-      "popularity": 4.510329344086383,
+      "popularity": 4.5104634435387885,
       "percentage": 0,
       "maturity": 5,
       "total_commits_count": 82558,
       "activity": 5,
-      "total_score": 28.53098803225915,
+      "total_score": 28.531390330616365,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -674,12 +674,12 @@
     },
     "civicrm/civicrm-core": {
       "full_name": "civicrm/civicrm-core",
-      "popularity": 3.455036292252844,
-      "percentage": 0.011162790697674419,
+      "popularity": 3.458072267535396,
+      "percentage": 0.011161960040183057,
       "maturity": 5,
-      "total_commits_count": 26875,
+      "total_commits_count": 26877,
       "activity": 5,
-      "total_score": 25.37012269686636,
+      "total_score": 25.379234654986806,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

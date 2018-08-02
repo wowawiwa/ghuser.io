@@ -80,12 +80,12 @@
     },
     "probot/probot": {
       "full_name": "probot/probot",
-      "popularity": 4.47310250505036,
+      "popularity": 4.473248604252174,
       "percentage": 0.2375296912114014,
       "maturity": 3.9059646189103567,
       "total_commits_count": 842,
       "activity": 5,
-      "total_score": 26.369361058353395,
+      "total_score": 26.36980386733562,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -245,12 +245,12 @@
     },
     "canjs/canjs": {
       "full_name": "canjs/canjs",
-      "popularity": 4.219387803608099,
-      "percentage": 0.022732439190725165,
-      "maturity": 4.944146198483572,
-      "total_commits_count": 8798,
+      "popularity": 4.219649805597381,
+      "percentage": 0.022729855665416524,
+      "maturity": 4.944195783406066,
+      "total_commits_count": 8799,
       "activity": 5,
-      "total_score": 27.55892501475823,
+      "total_score": 27.559809547639453,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

@@ -59,11 +59,11 @@
     "DefactoSoftware/website": {
       "full_name": "DefactoSoftware/website",
       "popularity": 1.9590800514478444,
-      "percentage": 0.07047216349541931,
-      "maturity": 4.141331951428767,
-      "total_commits_count": 1419,
+      "percentage": 0.06988120195667366,
+      "maturity": 4.145094544658161,
+      "total_commits_count": 1431,
       "activity": 5,
-      "total_score": 19.17785193646028,
+      "total_score": 19.185226616594043,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -102,12 +102,12 @@
     },
     "GoogleChrome/accessibility-developer-tools": {
       "full_name": "GoogleChrome/accessibility-developer-tools",
-      "popularity": 4.2514582796813665,
+      "popularity": 4.251214786467938,
       "percentage": 0,
       "maturity": 3.507021451406386,
       "total_commits_count": 360,
-      "activity": 1.3860423632668772,
-      "total_score": 21.15446010512375,
+      "activity": 1.3736845846707388,
+      "total_score": 21.141371846887324,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -213,11 +213,11 @@
     "ampproject/amphtml": {
       "full_name": "ampproject/amphtml",
       "popularity": 5,
-      "percentage": 0.010088781275221953,
-      "maturity": 4.996145846978912,
-      "total_commits_count": 9912,
+      "percentage": 0.010083694665725522,
+      "maturity": 4.996365751840239,
+      "total_commits_count": 9917,
       "activity": 5,
-      "total_score": 29.998849401786718,
+      "total_score": 29.9992859052132,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -234,12 +234,12 @@
     },
     "zalmoxisus/redux-devtools-extension": {
       "full_name": "zalmoxisus/redux-devtools-extension",
-      "popularity": 4.839460566649841,
+      "popularity": 4.839649100708804,
       "percentage": 0.12345679012345678,
       "maturity": 3.888283216984283,
       "total_commits_count": 810,
       "activity": 5,
-      "total_score": 27.37261848869148,
+      "total_score": 27.373187116723635,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -267,12 +267,12 @@
     },
     "jamesdbloom/mockserver": {
       "full_name": "jamesdbloom/mockserver",
-      "popularity": 4.208507316500297,
+      "popularity": 4.208775963350582,
       "percentage": 0.053022269353128315,
       "maturity": 4.267991447041837,
       "total_commits_count": 1886,
-      "activity": 3.015132633805419,
-      "total_score": 24.205646276496296,
+      "activity": 2.882941366980283,
+      "total_score": 24.074262801976552,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

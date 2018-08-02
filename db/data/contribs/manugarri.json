@@ -3,12 +3,12 @@
   "repos": {
     "mlflow/mlflow": {
       "full_name": "mlflow/mlflow",
-      "popularity": 4.2719039167825725,
+      "popularity": 4.272600050428082,
       "percentage": 0.6896551724137931,
       "maturity": 3.0233373858695978,
       "total_commits_count": 145,
       "activity": 5,
-      "total_score": 24.245384804281212,
+      "total_score": 24.247535617199752,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -47,12 +47,12 @@
     },
     "rasbt/mlxtend": {
       "full_name": "rasbt/mlxtend",
-      "popularity": 4.211720162551645,
+      "popularity": 4.211986829933413,
       "percentage": 0.13908205841446453,
       "maturity": 3.833669793907492,
       "total_commits_count": 719,
       "activity": 5,
-      "total_score": 25.37865078772746,
+      "total_score": 25.379455611397052,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -138,7 +138,7 @@
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,
-      "total_commits_count": 18537,
+      "total_commits_count": 18541,
       "activity": 5,
       "total_score": 30,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
@@ -333,12 +333,12 @@
     },
     "influxdata/influxdb-python": {
       "full_name": "influxdata/influxdb-python",
-      "popularity": 3.933576986069927,
+      "popularity": 3.93408280313905,
       "percentage": 0.18050541516245489,
       "maturity": 3.7127835854114473,
       "total_commits_count": 554,
       "activity": 5,
-      "total_score": 24.3186022821354,
+      "total_score": 24.320131602696378,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
