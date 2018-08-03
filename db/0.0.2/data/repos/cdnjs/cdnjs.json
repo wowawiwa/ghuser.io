@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/cdnjs/cdnjs",
   "languages_url": "https://api.github.com/repos/cdnjs/cdnjs/languages",
   "created_at": "2011-02-25T05:53:47Z",
-  "updated_at": "2018-08-03T05:32:06Z",
-  "pushed_at": "2018-08-03T04:40:04Z",
+  "updated_at": "2018-08-03T13:39:33Z",
+  "pushed_at": "2018-08-03T13:38:43Z",
   "homepage": "https://cdnjs.com",
-  "size": 6989276,
+  "size": 6988579,
   "stargazers_count": 6532,
   "language": null,
   "mirror_url": null,
@@ -47,8 +47,8 @@
     "site_admin": false
   },
   "contributors": {
-    "PeterBot": 27389,
-    "PeterDaveHello": 18242,
+    "PeterBot": 27393,
+    "PeterDaveHello": 18244,
     "thomasdavis": 1356,
     "ryankirkman": 975,
     "Lockyc": 451,
@@ -57,7 +57,7 @@
     "the-cdnjs-curator": 337,
     "pvnr0082t": 280,
     "Amomo": 229,
-    "extend1994": 226,
+    "extend1994": 227,
     "kennynaoh": 196,
     "sufuf3": 186,
     "Piicksarn": 156,
@@ -443,8 +443,9 @@
     "daneden": 2,
     "buzzedword": 2,
     "Daniel15": 2,
-    "chdanielmueller": 2
+    "chdanielmueller": 2,
+    "snoopy831002": 3
   },
   "languages": {},
-  "fetched_at": "2018-08-03T05:56:14.583Z"
+  "fetched_at": "2018-08-03T13:45:28.336Z"
 }

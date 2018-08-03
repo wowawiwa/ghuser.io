@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/apache/spark",
   "languages_url": "https://api.github.com/repos/apache/spark/languages",
   "created_at": "2014-02-25T08:00:08Z",
-  "updated_at": "2018-08-03T05:49:09Z",
-  "pushed_at": "2018-08-03T05:58:02Z",
+  "updated_at": "2018-08-03T13:36:44Z",
+  "pushed_at": "2018-08-03T13:38:13Z",
   "homepage": null,
-  "size": 278419,
-  "stargazers_count": 18285,
+  "size": 278446,
+  "stargazers_count": 18288,
   "language": "Scala",
   "mirror_url": null,
   "archived": false,
@@ -56,7 +56,7 @@
     "yjshen": 34,
     "koeninger": 35,
     "xiajunluan": 37,
-    "gengliangwang": 51,
+    "gengliangwang": 52,
     "tejasapatil": 36,
     "jose-torres": 36,
     "andyk": 42,
@@ -75,7 +75,7 @@
     "sethah": 45,
     "ijuma": 48,
     "squito": 53,
-    "dilipbiswal": 55,
+    "dilipbiswal": 56,
     "mosharaf": 78,
     "tgravescs": 54,
     "zero323": 52,
@@ -83,7 +83,7 @@
     "ash211": 52,
     "WangTaoTheTonic": 54,
     "lw-lin": 56,
-    "dbtsai": 61,
+    "dbtsai": 62,
     "nchammas": 59,
     "yu-iskw": 60,
     "wangmiao1981": 62,
@@ -105,7 +105,7 @@
     "davies": 80,
     "ericl": 81,
     "WeichenXu123": 86,
-    "hhbyyh": 85,
+    "hhbyyh": 86,
     "mgaido91": 96,
     "BryanCutler": 87,
     "scwf": 92,
@@ -193,7 +193,7 @@
     "junyangq": 16,
     "yaooqinn": 16,
     "markgrover": 16,
-    "srowen": 21,
+    "srowen": 22,
     "willb": 16,
     "pxinghao": 16,
     "heary-cao": 16,
@@ -387,7 +387,7 @@
   },
   "languages": {
     "Scala": {
-      "bytes": 26821725,
+      "bytes": 26821745,
       "color": "#c22d40"
     },
     "Java": {
@@ -395,7 +395,7 @@
       "color": "#b07219"
     },
     "Python": {
-      "bytes": 2711914,
+      "bytes": 2711927,
       "color": "#3572A5"
     },
     "HiveQL": {
@@ -467,5 +467,5 @@
       "color": "#555555"
     }
   },
-  "fetched_at": "2018-08-03T05:56:14.583Z"
+  "fetched_at": "2018-08-03T13:45:28.336Z"
 }

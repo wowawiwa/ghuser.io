@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/dkhamsing/awesome_bot",
   "languages_url": "https://api.github.com/repos/dkhamsing/awesome_bot/languages",
   "created_at": "2015-12-09T02:59:58Z",
-  "updated_at": "2018-08-02T15:38:20Z",
-  "pushed_at": "2018-08-02T07:22:46Z",
+  "updated_at": "2018-08-03T12:06:38Z",
+  "pushed_at": "2018-08-03T12:06:36Z",
   "homepage": "",
-  "size": 349,
+  "size": 360,
   "stargazers_count": 505,
   "language": "Ruby",
   "mirror_url": null,
@@ -30,6 +30,10 @@
     "Ruby": {
       "bytes": 45727,
       "color": "#701516"
+    },
+    "Dockerfile": {
+      "bytes": 126,
+      "color": "#0db7ed"
     },
     "Shell": {
       "bytes": 115,
@@ -57,8 +61,9 @@
     "unixorn": 3,
     "ruzickap": 4,
     "Devinsuit": 4,
-    "dkhamsing": 257,
-    "MatMoore": 6
+    "dkhamsing": 259,
+    "MatMoore": 6,
+    "frenck": 1
   },
-  "fetched_at": "2018-08-02T16:33:34.881Z"
+  "fetched_at": "2018-08-03T13:45:28.336Z"
 }

@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/elastic/kibana",
   "languages_url": "https://api.github.com/repos/elastic/kibana/languages",
   "created_at": "2013-01-26T04:00:59Z",
-  "updated_at": "2018-08-03T04:09:44Z",
-  "pushed_at": "2018-08-03T05:21:04Z",
+  "updated_at": "2018-08-03T13:44:46Z",
+  "pushed_at": "2018-08-03T13:44:23Z",
   "homepage": "https://www.elastic.co/products/kibana",
-  "size": 435499,
+  "size": 435501,
   "stargazers_count": 9798,
   "language": "JavaScript",
   "mirror_url": null,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 18217400,
+      "bytes": 18222910,
       "color": "#f1e05a"
     },
     "TypeScript": {
@@ -56,7 +56,7 @@
       "color": "#2b7489"
     },
     "HTML": {
-      "bytes": 836131,
+      "bytes": 836178,
       "color": "#e34c26"
     },
     "CSS": {
@@ -72,7 +72,7 @@
       "color": "#0298c3"
     },
     "Batchfile": {
-      "bytes": 963,
+      "bytes": 943,
       "color": "#C1F12E"
     },
     "Dockerfile": {
@@ -167,12 +167,12 @@
     "panda01": 323,
     "BigFunger": 339,
     "Stacey-Gammon": 265,
-    "ppisljar": 275,
+    "ppisljar": 276,
     "LeeDr": 322,
     "ycombinator": 330,
     "epixa": 394,
     "lukasolson": 461,
-    "jbudz": 460,
+    "jbudz": 461,
     "cjcenizal": 473,
     "Bargs": 564,
     "bleskes": 515,
@@ -350,5 +350,5 @@
     "maryia-lapata": 1,
     "dedemorton": 1
   },
-  "fetched_at": "2018-08-03T05:56:14.583Z"
+  "fetched_at": "2018-08-03T13:45:28.336Z"
 }
