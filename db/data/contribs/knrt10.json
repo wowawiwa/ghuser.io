@@ -80,12 +80,12 @@
     },
     "probot/probot": {
       "full_name": "probot/probot",
-      "popularity": 4.473248604252174,
-      "percentage": 0.2375296912114014,
-      "maturity": 3.9059646189103567,
-      "total_commits_count": 842,
+      "popularity": 4.473540655292545,
+      "percentage": 0.2372479240806643,
+      "maturity": 3.90650572874588,
+      "total_commits_count": 843,
       "activity": 5,
-      "total_score": 26.36980386733562,
+      "total_score": 26.371607393758016,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -125,11 +125,11 @@
     "octokit/routes": {
       "full_name": "octokit/routes",
       "popularity": 2.3444311854745736,
-      "percentage": 1.838235294117647,
-      "maturity": 3.367410712467753,
-      "total_commits_count": 272,
+      "percentage": 1.8315018315018314,
+      "maturity": 3.3692778487353228,
+      "total_commits_count": 273,
       "activity": 5,
-      "total_score": 19.328365080829254,
+      "total_score": 19.330047155197835,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

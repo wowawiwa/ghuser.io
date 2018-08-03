@@ -48,22 +48,22 @@
     "pmd/pmd": {
       "full_name": "pmd/pmd",
       "popularity": 4.230258026240207,
-      "percentage": 0.01542495758136665,
-      "maturity": 4.810831163572227,
-      "total_commits_count": 6483,
+      "percentage": 0.015417823003391921,
+      "maturity": 4.811033330277671,
+      "total_commits_count": 6486,
       "activity": 5,
-      "total_score": 27.320919107444766,
+      "total_score": 27.321319517311906,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "coala/coala": {
       "full_name": "coala/coala",
-      "popularity": 4.365920005435899,
+      "popularity": 4.366106991783223,
       "percentage": 0.07414730598121602,
       "maturity": 4.604458061277068,
       "total_commits_count": 4046,
       "activity": 5,
-      "total_score": 27.348759895711066,
+      "total_score": 27.349322657142444,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

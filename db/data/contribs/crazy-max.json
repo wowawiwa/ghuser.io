@@ -6,7 +6,7 @@
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
-      "total_commits_count": 10,
+      "total_commits_count": 12,
       "activity": 5,
       "total_score": 5,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
@@ -25,12 +25,12 @@
     },
     "portapps/brave-portable": {
       "full_name": "portapps/brave-portable",
-      "popularity": 2.3444311854745736,
+      "popularity": 2.3636508993380505,
       "percentage": 100,
       "maturity": 2.6048763698809907,
       "total_commits_count": 80,
       "activity": 5,
-      "total_score": 47.72065170735516,
+      "total_score": 48.02816712917079,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -91,12 +91,12 @@
     },
     "crazy-max/docker-jetbrains-license-server": {
       "full_name": "crazy-max/docker-jetbrains-license-server",
-      "popularity": 2.725133536124766,
+      "popularity": 2.7332362815104947,
       "percentage": 97.05882352941177,
       "maturity": 0,
       "total_commits_count": 34,
       "activity": 5,
-      "total_score": 47.56017375536032,
+      "total_score": 47.68671957300214,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -554,11 +554,11 @@
     "RocketChat/docs": {
       "full_name": "RocketChat/docs",
       "popularity": 3.1041846084544136,
-      "percentage": 0.19500780031201248,
-      "maturity": 4.403842806784678,
-      "total_commits_count": 2564,
+      "percentage": 0.1949317738791423,
+      "maturity": 4.404014831880226,
+      "total_commits_count": 2565,
       "activity": 5,
-      "total_score": 23.19893366652602,
+      "total_score": 23.19924703670636,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -630,12 +630,12 @@
     },
     "badges/shields": {
       "full_name": "badges/shields",
-      "popularity": 4.775656816655533,
+      "popularity": 4.775438344008951,
       "percentage": 0.054884742041712405,
       "maturity": 4.252668291573333,
       "total_commits_count": 1822,
       "activity": 5,
-      "total_score": 27.866381423133312,
+      "total_score": 27.865724446387638,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -652,12 +652,12 @@
     },
     "StevenBlack/hosts": {
       "full_name": "StevenBlack/hosts",
-      "popularity": 4.996160946318202,
+      "popularity": 4.996379986067387,
       "percentage": 0.3292181069958848,
       "maturity": 4.071810997413029,
       "total_commits_count": 1215,
       "activity": 5,
-      "total_score": 28.34593229814984,
+      "total_score": 28.3465987919381,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -674,12 +674,12 @@
     },
     "pi-hole/pi-hole": {
       "full_name": "pi-hole/pi-hole",
-      "popularity": 4.974463268499325,
+      "popularity": 4.974647484780735,
       "percentage": 0.13799448022079117,
       "maturity": 4.330951003217213,
       "total_commits_count": 2174,
       "activity": 5,
-      "total_score": 28.674530113437218,
+      "total_score": 28.675086066989348,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -718,12 +718,12 @@
     },
     "Novik/ruTorrent": {
       "full_name": "Novik/ruTorrent",
-      "popularity": 4.034707640878716,
+      "popularity": 4.033904952385699,
       "percentage": 0.12391573729863693,
       "maturity": 4.19876852744248,
       "total_commits_count": 1614,
       "activity": 5,
-      "total_score": 25.566655267894618,
+      "total_score": 25.56423427186983,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -762,12 +762,12 @@
     },
     "librenms/librenms": {
       "full_name": "librenms/librenms",
-      "popularity": 4.045009790421844,
-      "percentage": 0.01783962180001784,
+      "popularity": 4.045401187785597,
+      "percentage": 0.01783803068141277,
       "maturity": 5,
-      "total_commits_count": 11211,
+      "total_commits_count": 11212,
       "activity": 5,
-      "total_score": 27.144410359094536,
+      "total_score": 27.145584622122612,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -779,6 +779,17 @@
       "total_commits_count": 154,
       "activity": 5,
       "total_score": 18.677641781648337,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "RocketChat/Rocket.Chat": {
+      "full_name": "RocketChat/Rocket.Chat",
+      "popularity": 5,
+      "percentage": 0,
+      "maturity": 5,
+      "total_commits_count": 15061,
+      "activity": 5,
+      "total_score": 30,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

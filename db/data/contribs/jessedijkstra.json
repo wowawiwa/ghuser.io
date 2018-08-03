@@ -36,12 +36,12 @@
     },
     "teamon/tesla": {
       "full_name": "teamon/tesla",
-      "popularity": 3.8580345787937436,
+      "popularity": 3.8586364282350183,
       "percentage": 0.22271714922049,
       "maturity": 3.613565374531227,
       "total_commits_count": 449,
       "activity": 5,
-      "total_score": 23.912937045631477,
+      "total_score": 23.914760019440237,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -213,11 +213,11 @@
     "ampproject/amphtml": {
       "full_name": "ampproject/amphtml",
       "popularity": 5,
-      "percentage": 0.010083694665725522,
-      "maturity": 4.996365751840239,
-      "total_commits_count": 9917,
+      "percentage": 0.010070493454179255,
+      "maturity": 4.996936983912219,
+      "total_commits_count": 9930,
       "activity": 5,
-      "total_score": 29.9992859052132,
+      "total_score": 30.000419788569655,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -234,12 +234,12 @@
     },
     "zalmoxisus/redux-devtools-extension": {
       "full_name": "zalmoxisus/redux-devtools-extension",
-      "popularity": 4.839649100708804,
+      "popularity": 4.839774744627016,
       "percentage": 0.12345679012345678,
       "maturity": 3.888283216984283,
       "total_commits_count": 810,
       "activity": 5,
-      "total_score": 27.373187116723635,
+      "total_score": 27.373566064985603,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

@@ -15,11 +15,11 @@
     "probot/probot.github.io": {
       "full_name": "probot/probot.github.io",
       "popularity": 2.4487452694590637,
-      "percentage": 0.6738544474393531,
-      "maturity": 3.8481350448344718,
-      "total_commits_count": 742,
+      "percentage": 0.6640106241699867,
+      "maturity": 3.854886512054834,
+      "total_commits_count": 753,
       "activity": 5,
-      "total_score": 20.257018623807372,
+      "total_score": 20.267387906211745,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -36,12 +36,12 @@
     },
     "amio/badgen": {
       "full_name": "amio/badgen",
-      "popularity": 3.426712962040841,
+      "popularity": 3.428335888056931,
       "percentage": 0.6802721088435374,
       "maturity": 3.031524171462595,
       "total_commits_count": 147,
       "activity": 5,
-      "total_score": 21.646229871949284,
+      "total_score": 21.651242174067004,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -58,12 +58,12 @@
     },
     "probot/probot": {
       "full_name": "probot/probot",
-      "popularity": 4.473248604252174,
-      "percentage": 0.1187648456057007,
-      "maturity": 3.9059646189103567,
-      "total_commits_count": 842,
+      "popularity": 4.473540655292545,
+      "percentage": 0.11862396204033215,
+      "maturity": 3.90650572874588,
+      "total_commits_count": 843,
       "activity": 5,
-      "total_score": 26.30073945895643,
+      "total_score": 26.302620408563705,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

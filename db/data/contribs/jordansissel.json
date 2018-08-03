@@ -3,12 +3,12 @@
   "repos": {
     "jordansissel/fpm": {
       "full_name": "jordansissel/fpm",
-      "popularity": 4.935198577700097,
+      "popularity": 4.9355513922143714,
       "percentage": 65.8611825192802,
       "maturity": 4.281654004675052,
       "total_commits_count": 1945,
       "activity": 5,
-      "total_score": 70.62384560077416,
+      "total_score": 70.62792482586259,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -91,12 +91,12 @@
     },
     "elastic/logstash": {
       "full_name": "elastic/logstash",
-      "popularity": 4.964868915418042,
+      "popularity": 4.964821820067695,
       "percentage": 45.25206562088373,
       "maturity": 4.921394805577064,
       "total_commits_count": 8351,
       "activity": 5,
-      "total_score": 58.944570972154054,
+      "total_score": 58.944152635058046,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -168,12 +168,12 @@
     },
     "jruby/jruby": {
       "full_name": "jruby/jruby",
-      "popularity": 4.49462497773276,
-      "percentage": 0.009229775254972542,
+      "popularity": 4.494764014256919,
+      "percentage": 0.009229136383562908,
       "maturity": 5,
-      "total_commits_count": 43338,
+      "total_commits_count": 43341,
       "activity": 5,
-      "total_score": 28.48926790239026,
+      "total_score": 28.489684805483694,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -347,7 +347,7 @@
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,
-      "total_commits_count": 38857,
+      "total_commits_count": 38864,
       "activity": 5,
       "total_score": 30,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
@@ -1092,12 +1092,12 @@
     },
     "elastic/kibana": {
       "full_name": "elastic/kibana",
-      "popularity": 4.991092298070209,
-      "percentage": 0.06923464249748237,
+      "popularity": 4.99113662921394,
+      "percentage": 0.06921286100799094,
       "maturity": 5,
-      "total_commits_count": 15888,
+      "total_commits_count": 15893,
       "activity": 5,
-      "total_score": 30.01819923803137,
+      "total_score": 30.01831849759448,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -1246,12 +1246,12 @@
     },
     "elastic/curator": {
       "full_name": "elastic/curator",
-      "popularity": 4.308411386538004,
+      "popularity": 4.308197827090434,
       "percentage": 0.21528525296017223,
       "maturity": 3.9506867339556755,
       "total_commits_count": 929,
-      "activity": 2.108663025088373,
-      "total_score": 23.055850519190688,
+      "activity": 2.1001585930211903,
+      "total_score": 23.04669943187484,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -1789,8 +1789,8 @@
       "percentage": 0,
       "maturity": 0,
       "total_commits_count": 2,
-      "activity": 1.602672356968084,
-      "total_score": 16.602672356968085,
+      "activity": 1.6000019471616649,
+      "total_score": 16.600001947161665,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -2313,12 +2313,12 @@
     },
     "elastic/beats": {
       "full_name": "elastic/beats",
-      "popularity": 4.772514824562497,
+      "popularity": 4.772661468882765,
       "percentage": 0.026483050847457626,
       "maturity": 4.8774976561048025,
       "total_commits_count": 7552,
       "activity": 5,
-      "total_score": 29.08897058375708,
+      "total_score": 29.089411021584453,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

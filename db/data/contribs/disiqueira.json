@@ -102,12 +102,12 @@
     },
     "micro/go-config": {
       "full_name": "micro/go-config",
-      "popularity": 3.481625012125187,
+      "popularity": 3.4830554959441025,
       "percentage": 2.5210084033613445,
       "maturity": 2.899910611391032,
       "total_commits_count": 119,
       "activity": 5,
-      "total_score": 22.385733027837308,
+      "total_score": 22.39049329331874,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -146,12 +146,12 @@
     },
     "uber-go/zap": {
       "full_name": "uber-go/zap",
-      "popularity": 4.633719588855076,
+      "popularity": 4.633921440771429,
       "percentage": 0.27472527472527475,
       "maturity": 3.5124148149757084,
       "total_commits_count": 364,
       "activity": 5,
-      "total_score": 26.091478381832896,
+      "total_score": 26.09209114657897,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -245,12 +245,12 @@
     },
     "Netflix/chaosmonkey": {
       "full_name": "Netflix/chaosmonkey",
-      "popularity": 4.667781473890798,
+      "popularity": 4.668341119786945,
       "percentage": 3.8461538461538463,
       "maturity": 2.582656746092775,
       "total_commits_count": 78,
       "activity": 5,
-      "total_score": 26.502548650803345,
+      "total_score": 26.504507411439857,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -278,12 +278,12 @@
     },
     "OpenGenus/cosmos": {
       "full_name": "OpenGenus/cosmos",
-      "popularity": 4.975383569502351,
+      "popularity": 4.975429533399936,
       "percentage": 0,
       "maturity": 4.852572376845336,
       "total_commits_count": 7133,
       "activity": 5,
-      "total_score": 29.631295462197723,
+      "total_score": 29.63143335389048,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -411,11 +411,11 @@
     "labstack/echo": {
       "full_name": "labstack/echo",
       "popularity": 5,
-      "percentage": 0.17761989342806395,
-      "maturity": 4.037605972757154,
-      "total_commits_count": 1126,
+      "percentage": 0.1774622892635315,
+      "maturity": 4.038005654951181,
+      "total_commits_count": 1127,
       "activity": 5,
-      "total_score": 28.19066487624255,
+      "total_score": 28.19136179792366,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -487,12 +487,12 @@
     },
     "gorilla/mux": {
       "full_name": "gorilla/mux",
-      "popularity": 4.8244317975968904,
+      "popularity": 4.824561921336081,
       "percentage": 0.5780346820809249,
       "maturity": 3.1259130721649018,
       "total_commits_count": 173,
       "activity": 5,
-      "total_score": 26.087651094165327,
+      "total_score": 26.088051243467348,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -520,12 +520,12 @@
     },
     "jinzhu/gorm": {
       "full_name": "jinzhu/gorm",
-      "popularity": 4.989893643472675,
+      "popularity": 4.990026990806221,
       "percentage": 0.0749063670411985,
       "maturity": 4.1140394881850195,
       "total_commits_count": 1335,
       "activity": 5,
-      "total_score": 28.24635063140615,
+      "total_score": 28.246751971920148,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -542,12 +542,12 @@
     },
     "Shopify/sarama": {
       "full_name": "Shopify/sarama",
-      "popularity": 4.508178102348417,
+      "popularity": 4.508716912607183,
       "percentage": 0.8746355685131195,
       "maturity": 3.9969763452776923,
       "total_commits_count": 1029,
       "activity": 5,
-      "total_score": 27.0310786768764,
+      "total_score": 27.03275637179291,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -642,11 +642,11 @@
     "ethereum/go-ethereum": {
       "full_name": "ethereum/go-ethereum",
       "popularity": 5,
-      "percentage": 0.010357327809425169,
-      "maturity": 4.984690105981866,
-      "total_commits_count": 9655,
+      "percentage": 0.010356255178127589,
+      "maturity": 4.984735271598188,
+      "total_commits_count": 9656,
       "activity": 5,
-      "total_score": 29.976112475039855,
+      "total_score": 29.976202109062157,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -664,11 +664,11 @@
     "cockroachdb/cockroach": {
       "full_name": "cockroachdb/cockroach",
       "popularity": 5,
-      "percentage": 0.00334079444091805,
+      "percentage": 0.0033394556687259976,
       "maturity": 5,
-      "total_commits_count": 29933,
+      "total_commits_count": 29945,
       "activity": 5,
-      "total_score": 30.002171516386596,
+      "total_score": 30.002170646184673,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -773,12 +773,12 @@
     },
     "bhrigu123/classifier": {
       "full_name": "bhrigu123/classifier",
-      "popularity": 3.908041284994917,
+      "popularity": 3.9075041905822414,
       "percentage": 1.3157894736842106,
       "maturity": 2.559238720343991,
       "total_commits_count": 76,
-      "activity": 1.288909806101818,
-      "total_score": 18.7999918478921,
+      "activity": 1.282884350550781,
+      "total_score": 18.792263237690342,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
