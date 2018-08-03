@@ -81,7 +81,7 @@
     "timkinnane": 44,
     "fduraibi": 45,
     "AlecTroemel": 47,
-    "Hudell": 53,
+    "Hudell": 54,
     "Kiran-Rao": 47,
     "luisfn": 52,
     "rcaferati": 63,
@@ -392,11 +392,11 @@
   "url": "https://api.github.com/repos/RocketChat/Rocket.Chat",
   "languages_url": "https://api.github.com/repos/RocketChat/Rocket.Chat/languages",
   "created_at": "2015-05-19T07:36:09Z",
-  "updated_at": "2018-08-02T07:05:05Z",
-  "pushed_at": "2018-08-02T07:09:26Z",
+  "updated_at": "2018-08-03T04:30:52Z",
+  "pushed_at": "2018-08-02T21:51:22Z",
   "homepage": "https://rocket.chat/",
-  "size": 76038,
-  "stargazers_count": 19201,
+  "size": 76059,
+  "stargazers_count": 19222,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -430,7 +430,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 3913600,
+      "bytes": 3913711,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -470,5 +470,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-08-02T09:08:18.533Z"
+  "fetched_at": "2018-08-03T05:56:14.583Z"
 }

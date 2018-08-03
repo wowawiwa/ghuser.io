@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/Chalarangelo/30-seconds-of-code",
   "languages_url": "https://api.github.com/repos/Chalarangelo/30-seconds-of-code/languages",
   "created_at": "2017-11-29T17:35:03Z",
-  "updated_at": "2018-08-02T09:04:59Z",
-  "pushed_at": "2018-08-02T09:04:57Z",
+  "updated_at": "2018-08-03T03:34:44Z",
+  "pushed_at": "2018-08-03T01:19:26Z",
   "homepage": "https://30secondsofcode.org/",
-  "size": 10034,
-  "stargazers_count": 21224,
+  "size": 10076,
+  "stargazers_count": 21230,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -100,7 +100,7 @@
     "michael-gutman": 4,
     "sabareeshkk": 5,
     "DanielRamosAcosta": 4,
-    "Siarhei-Zharnasek": 5,
+    "Siarhei-Zharnasek": 6,
     "davehenton": 5,
     "Kladdkaka": 5,
     "justin0022": 5,
@@ -119,14 +119,14 @@
     "meetzaveri": 20,
     "arjunmahishi": 34,
     "iamsoorena": 40,
-    "skatcat31": 57,
+    "skatcat31": 58,
     "kriadmin": 157,
     "kingdavidmartins": 156,
     "atomiks": 160,
     "flxwu": 205,
     "fejes713": 239,
-    "30secondsofcode": 473,
-    "Chalarangelo": 1399,
+    "30secondsofcode": 477,
+    "Chalarangelo": 1408,
     "itaditya": 1,
     "brettapeters": 1,
     "BrianDGLS": 1,
@@ -152,7 +152,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 263402,
+      "bytes": 266688,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -168,5 +168,5 @@
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-08-02T09:08:18.533Z"
+  "fetched_at": "2018-08-03T05:56:14.583Z"
 }

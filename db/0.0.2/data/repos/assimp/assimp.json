@@ -100,7 +100,7 @@
     "terziman": 126,
     "turol": 319,
     "acgessler": 687,
-    "kimkulling": 2074,
+    "kimkulling": 2079,
     "invalid-email-address": 12,
     "NebuHiiEjamu": 8,
     "thomas-lemaire": 5,
@@ -256,7 +256,8 @@
     "brendanmig": 2,
     "ardenpm": 2,
     "thothonegan": 1,
-    "JekaS178RUS": 1
+    "JekaS178RUS": 1,
+    "Maxqia": 1
   },
   "name": "assimp",
   "full_name": "assimp/assimp",
@@ -268,11 +269,11 @@
   "url": "https://api.github.com/repos/assimp/assimp",
   "languages_url": "https://api.github.com/repos/assimp/assimp/languages",
   "created_at": "2010-05-05T12:53:45Z",
-  "updated_at": "2018-08-01T20:37:48Z",
-  "pushed_at": "2018-07-31T12:19:08Z",
+  "updated_at": "2018-08-03T05:36:50Z",
+  "pushed_at": "2018-08-02T22:26:28Z",
   "homepage": "http://www.assimp.org",
-  "size": 133620,
-  "stargazers_count": 3287,
+  "size": 133640,
+  "stargazers_count": 3291,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -306,7 +307,7 @@
   },
   "languages": {
     "C++": {
-      "bytes": 12386392,
+      "bytes": 12385957,
       "color": "#f34b7d"
     },
     "RPC": {
@@ -330,7 +331,7 @@
       "color": "#b07219"
     },
     "CMake": {
-      "bytes": 258990,
+      "bytes": 258974,
       "color": "#ccc"
     },
     "D": {
@@ -410,5 +411,5 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-08-02T09:08:18.533Z"
+  "fetched_at": "2018-08-03T05:56:14.583Z"
 }

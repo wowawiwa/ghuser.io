@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/elastic/kibana",
   "languages_url": "https://api.github.com/repos/elastic/kibana/languages",
   "created_at": "2013-01-26T04:00:59Z",
-  "updated_at": "2018-08-02T04:13:01Z",
-  "pushed_at": "2018-08-02T09:02:27Z",
+  "updated_at": "2018-08-03T04:09:44Z",
+  "pushed_at": "2018-08-03T05:21:04Z",
   "homepage": "https://www.elastic.co/products/kibana",
-  "size": 435429,
-  "stargazers_count": 9793,
+  "size": 435499,
+  "stargazers_count": 9798,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,15 +48,15 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 18207304,
+      "bytes": 18217400,
       "color": "#f1e05a"
     },
     "TypeScript": {
-      "bytes": 917527,
+      "bytes": 917536,
       "color": "#2b7489"
     },
     "HTML": {
-      "bytes": 835787,
+      "bytes": 836131,
       "color": "#e34c26"
     },
     "CSS": {
@@ -128,7 +128,7 @@
     "drej82": 9,
     "grouma": 16,
     "jarpy": 10,
-    "chrisdavies": 13,
+    "chrisdavies": 14,
     "acs": 16,
     "coverslide": 11,
     "repocho": 12,
@@ -139,7 +139,7 @@
     "justinkambic": 18,
     "azasypkin": 24,
     "snide": 22,
-    "jgowdyelastic": 51,
+    "jgowdyelastic": 52,
     "kkirsche": 18,
     "peteharverson": 28,
     "trevan": 24,
@@ -151,7 +151,7 @@
     "archanid": 30,
     "sqren": 43,
     "weltenwort": 39,
-    "bmcconaghy": 39,
+    "bmcconaghy": 40,
     "jimmyjones2": 36,
     "debadair": 48,
     "lcawl": 102,
@@ -163,7 +163,7 @@
     "bevacqua": 161,
     "thomasneirynck": 182,
     "timroes": 181,
-    "nreese": 196,
+    "nreese": 197,
     "panda01": 323,
     "BigFunger": 339,
     "Stacey-Gammon": 265,
@@ -173,14 +173,14 @@
     "epixa": 394,
     "lukasolson": 461,
     "jbudz": 460,
-    "cjcenizal": 470,
+    "cjcenizal": 473,
     "Bargs": 564,
     "bleskes": 515,
     "simianhacker": 665,
     "rashidkpc": 1001,
     "stormpython": 1190,
     "w33ble": 1612,
-    "spalger": 4225,
+    "spalger": 4226,
     "ajebasingh": 2,
     "nellicus": 2,
     "formgeist": 4,
@@ -190,7 +190,7 @@
     "jribble": 2,
     "izeye": 2,
     "kellyemurphy": 2,
-    "markov00": 3,
+    "markov00": 4,
     "marius-dr": 2,
     "martijnvg": 2,
     "mcascallares": 2,
@@ -339,7 +339,7 @@
     "wispxjtu": 1,
     "yershalom": 1,
     "ytzlax": 1,
-    "yankouskia": 3,
+    "yankouskia": 4,
     "ruflin": 4,
     "hendrikmuhs": 1,
     "LeanidShutau": 3,
@@ -347,7 +347,8 @@
     "pjhampton": 1,
     "simitt": 2,
     "cchaos": 1,
-    "maryia-lapata": 1
+    "maryia-lapata": 1,
+    "dedemorton": 1
   },
-  "fetched_at": "2018-08-02T09:08:18.533Z"
+  "fetched_at": "2018-08-03T05:56:14.583Z"
 }

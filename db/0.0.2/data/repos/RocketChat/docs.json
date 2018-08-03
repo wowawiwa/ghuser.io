@@ -10,15 +10,21 @@
   "url": "https://api.github.com/repos/RocketChat/docs",
   "languages_url": "https://api.github.com/repos/RocketChat/docs/languages",
   "created_at": "2016-05-06T12:02:57Z",
-  "updated_at": "2018-08-01T19:20:57Z",
-  "pushed_at": "2018-08-01T20:03:53Z",
+  "updated_at": "2018-08-02T18:31:32Z",
+  "pushed_at": "2018-08-02T20:25:38Z",
   "homepage": "https://rocket.chat/docs/",
-  "size": 9474,
+  "size": 9485,
   "stargazers_count": 128,
   "language": "CSS",
   "mirror_url": null,
   "archived": false,
-  "license": null,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
   "default_branch": "master",
   "organization": {
     "login": "RocketChat",
@@ -140,7 +146,7 @@
     "tmeasday": 119,
     "geekgonecrazy": 157,
     "stubailo": 227,
-    "MartinSchoeler": 558,
+    "MartinSchoeler": 559,
     "isabellarussell": 5,
     "hippocai": 2,
     "tgxn": 2,
@@ -273,15 +279,16 @@
     "fspc": 1,
     "gruberro": 1,
     "jeanmorais": 1,
-    "adipose": 1
+    "adipose": 1,
+    "jamalv": 1
   },
   "languages": {
     "CSS": {
-      "bytes": 43050,
+      "bytes": 43455,
       "color": "#563d7c"
     },
     "HTML": {
-      "bytes": 20220,
+      "bytes": 20241,
       "color": "#e34c26"
     },
     "JavaScript": {
@@ -297,5 +304,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-01T20:16:09.053Z"
+  "fetched_at": "2018-08-03T05:56:14.583Z"
 }

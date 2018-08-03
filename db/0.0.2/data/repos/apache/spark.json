@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/apache/spark",
   "languages_url": "https://api.github.com/repos/apache/spark/languages",
   "created_at": "2014-02-25T08:00:08Z",
-  "updated_at": "2018-08-02T06:49:56Z",
-  "pushed_at": "2018-08-02T09:10:26Z",
+  "updated_at": "2018-08-03T05:49:09Z",
+  "pushed_at": "2018-08-03T05:58:02Z",
   "homepage": null,
-  "size": 278316,
-  "stargazers_count": 18273,
+  "size": 278419,
+  "stargazers_count": 18285,
   "language": "Scala",
   "mirror_url": null,
   "archived": false,
@@ -56,7 +56,7 @@
     "yjshen": 34,
     "koeninger": 35,
     "xiajunluan": 37,
-    "gengliangwang": 50,
+    "gengliangwang": 51,
     "tejasapatil": 36,
     "jose-torres": 36,
     "andyk": 42,
@@ -75,7 +75,7 @@
     "sethah": 45,
     "ijuma": 48,
     "squito": 53,
-    "dilipbiswal": 54,
+    "dilipbiswal": 55,
     "mosharaf": 78,
     "tgravescs": 54,
     "zero323": 52,
@@ -96,7 +96,7 @@
     "CodingCat": 68,
     "markhamstra": 75,
     "jey": 68,
-    "jiangxb1987": 72,
+    "jiangxb1987": 75,
     "woggle": 72,
     "dennybritz": 85,
     "wangyum": 79,
@@ -106,20 +106,20 @@
     "ericl": 81,
     "WeichenXu123": 86,
     "hhbyyh": 85,
-    "mgaido91": 95,
+    "mgaido91": 96,
     "BryanCutler": 87,
     "scwf": 92,
     "sryza": 92,
     "adrian-wang": 94,
     "stephenh": 110,
-    "kiszk": 104,
+    "kiszk": 105,
     "zhengruifeng": 105,
     "brkyvz": 111,
     "kayousterhout": 124,
     "chenghao-intel": 118,
-    "maropu": 129,
+    "maropu": 130,
     "hvanhovell": 125,
-    "ueshin": 135,
+    "ueshin": 137,
     "andrewor14": 136,
     "sarutak": 143,
     "holdenk": 151,
@@ -137,14 +137,14 @@
     "dongjoon-hyun": 299,
     "mengxr": 338,
     "vanzin": 344,
-    "viirya": 347,
+    "viirya": 348,
     "HyukjinKwon": 369,
-    "gatorsmile": 374,
+    "gatorsmile": 375,
     "liancheng": 376,
     "tdas": 560,
     "zsxwing": 474,
     "JoshRosen": 511,
-    "cloud-fan": 577,
+    "cloud-fan": 578,
     "pwendell": 857,
     "mateiz": 1588,
     "rxin": 1454,
@@ -169,7 +169,7 @@
     "tnachen": 23,
     "carsonwang": 22,
     "tsudukim": 22,
-    "MaxGekk": 31,
+    "MaxGekk": 32,
     "tarekbecker": 22,
     "liyezhang556520": 22,
     "kanzhang": 20,
@@ -204,7 +204,7 @@
     "mccheah": 20,
     "vectorijk": 15,
     "haoyuan": 15,
-    "skonto": 16,
+    "skonto": 17,
     "MrBago": 16,
     "kevinyu98": 15,
     "icexelloss": 16,
@@ -387,7 +387,7 @@
   },
   "languages": {
     "Scala": {
-      "bytes": 26768655,
+      "bytes": 26821725,
       "color": "#c22d40"
     },
     "Java": {
@@ -395,7 +395,7 @@
       "color": "#b07219"
     },
     "Python": {
-      "bytes": 2710651,
+      "bytes": 2711914,
       "color": "#3572A5"
     },
     "HiveQL": {
@@ -427,7 +427,7 @@
       "color": "#e34c26"
     },
     "ANTLR": {
-      "bytes": 34259,
+      "bytes": 35042,
       "color": "#9DC3FF"
     },
     "Thrift": {
@@ -467,5 +467,5 @@
       "color": "#555555"
     }
   },
-  "fetched_at": "2018-08-02T09:08:18.533Z"
+  "fetched_at": "2018-08-03T05:56:14.583Z"
 }

@@ -35,7 +35,7 @@
     "gmpreussner": 10,
     "idlewan": 10,
     "runvnc": 10,
-    "timotheecour": 24,
+    "timotheecour": 25,
     "RedBeard0531": 11,
     "andreaferretti": 11,
     "jfhg": 13,
@@ -75,7 +75,7 @@
     "Parashurama": 31,
     "nigredo-tori": 31,
     "vegansk": 39,
-    "jangko": 43,
+    "jangko": 44,
     "couven92": 41,
     "flyx": 42,
     "rbehrends": 42,
@@ -359,11 +359,11 @@
   "url": "https://api.github.com/repos/nim-lang/Nim",
   "languages_url": "https://api.github.com/repos/nim-lang/Nim/languages",
   "created_at": "2010-08-16T20:38:58Z",
-  "updated_at": "2018-08-02T08:00:54Z",
-  "pushed_at": "2018-08-02T05:43:02Z",
+  "updated_at": "2018-08-03T02:24:28Z",
+  "pushed_at": "2018-08-02T23:51:18Z",
   "homepage": "https://nim-lang.org/",
-  "size": 69678,
-  "stargazers_count": 5250,
+  "size": 69732,
+  "stargazers_count": 5251,
   "language": "Nim",
   "mirror_url": null,
   "archived": false,
@@ -397,7 +397,7 @@
   },
   "languages": {
     "Nim": {
-      "bytes": 8292056,
+      "bytes": 8296890,
       "color": "#37775b"
     },
     "C": {
@@ -445,5 +445,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-02T09:08:18.533Z"
+  "fetched_at": "2018-08-03T05:56:14.583Z"
 }

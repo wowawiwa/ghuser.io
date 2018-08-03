@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/ipfs/interface-ipfs-core",
   "languages_url": "https://api.github.com/repos/ipfs/interface-ipfs-core/languages",
   "created_at": "2016-05-11T10:30:47Z",
-  "updated_at": "2018-07-30T20:01:38Z",
-  "pushed_at": "2018-07-29T12:57:54Z",
+  "updated_at": "2018-08-02T17:59:12Z",
+  "pushed_at": "2018-08-02T17:59:10Z",
   "homepage": null,
-  "size": 15794,
+  "size": 15807,
   "stargazers_count": 107,
   "language": "JavaScript",
   "mirror_url": null,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 231348,
+      "bytes": 239611,
       "color": "#f1e05a"
     },
     "Groovy": {
@@ -71,7 +71,7 @@
     "NicoSantangelo": 1,
     "vith": 1,
     "kenshyx": 1,
-    "PascalPrecht": 2,
+    "PascalPrecht": 3,
     "vasco-santos": 2,
     "kevinsimper": 2,
     "MichaelMure": 2,
@@ -85,7 +85,7 @@
     "wraithgar": 5,
     "dryajov": 5,
     "pgte": 6,
-    "achingbrain": 12,
+    "achingbrain": 14,
     "VictorBjelkholm": 9,
     "vmx": 12,
     "noffle": 12,
@@ -93,9 +93,10 @@
     "hacdias": 15,
     "greenkeeperio-bot": 16,
     "dignifiedquire": 18,
-    "alanshaw": 76,
+    "alanshaw": 80,
     "diasdavid": 421,
-    "vutsalsinghal": 1
+    "vutsalsinghal": 1,
+    "negamaxi": 1
   },
-  "fetched_at": "2018-07-31T05:33:58.235Z"
+  "fetched_at": "2018-08-03T05:56:14.583Z"
 }

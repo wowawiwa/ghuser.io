@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/nodejs/admin",
   "languages_url": "https://api.github.com/repos/nodejs/admin/languages",
   "created_at": "2015-08-09T23:47:00Z",
-  "updated_at": "2018-08-02T05:44:30Z",
-  "pushed_at": "2018-08-01T19:44:43Z",
+  "updated_at": "2018-08-02T21:24:39Z",
+  "pushed_at": "2018-08-02T21:24:37Z",
   "homepage": "",
-  "size": 168,
+  "size": 194,
   "stargazers_count": 26,
   "language": null,
   "mirror_url": null,
@@ -42,7 +42,7 @@
   },
   "languages": {},
   "contributors": {
-    "guybedford": 1,
+    "guybedford": 2,
     "amiller-gh": 1,
     "devsnek": 1,
     "NickNaso": 1,
@@ -67,7 +67,7 @@
     "ChALkeR": 3,
     "obensource": 3,
     "jasnell": 3,
-    "codeekage": 5,
+    "codeekage": 6,
     "MylesBorins": 4,
     "maddhruv": 6,
     "chowdhurian": 9,
@@ -80,7 +80,8 @@
     "ladyleet": 1,
     "a0viedo": 1,
     "refack": 1,
-    "davisjam": 1
+    "davisjam": 1,
+    "trivikr": 1
   },
-  "fetched_at": "2018-08-02T09:08:18.533Z"
+  "fetched_at": "2018-08-03T05:56:14.583Z"
 }
