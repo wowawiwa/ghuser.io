@@ -1,0 +1,78 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "js-ipld",
+  "full_name": "ipld/js-ipld",
+  "owner": "ipld",
+  "private": false,
+  "html_url": "https://github.com/ipld/js-ipld",
+  "description": "The JavaScript Implementation of IPLD",
+  "fork": false,
+  "url": "https://api.github.com/repos/ipld/js-ipld",
+  "languages_url": "https://api.github.com/repos/ipld/js-ipld/languages",
+  "created_at": "2016-04-08T08:34:07Z",
+  "updated_at": "2018-08-01T17:51:14Z",
+  "pushed_at": "2018-07-29T18:05:09Z",
+  "homepage": "https://ipld.io",
+  "size": 216,
+  "stargazers_count": 45,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "ipld",
+    "id": 19803583,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE5ODAzNTgz",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/19803583?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ipld",
+    "html_url": "https://github.com/ipld",
+    "followers_url": "https://api.github.com/users/ipld/followers",
+    "following_url": "https://api.github.com/users/ipld/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ipld/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ipld/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ipld/subscriptions",
+    "organizations_url": "https://api.github.com/users/ipld/orgs",
+    "repos_url": "https://api.github.com/users/ipld/repos",
+    "events_url": "https://api.github.com/users/ipld/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ipld/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 64494,
+      "color": "#f1e05a"
+    },
+    "Groovy": {
+      "bytes": 62,
+      "color": "#e69f56"
+    }
+  },
+  "contributors": {
+    "olizilla": 1,
+    "achingbrain": 1,
+    "richardschneider": 5,
+    "magik6k": 1,
+    "wanderer": 1,
+    "RichardLitt": 1,
+    "jacobheun": 2,
+    "pgte": 2,
+    "greenkeeperio-bot": 2,
+    "VictorBjelkholm": 4,
+    "kumavis": 6,
+    "nicola": 9,
+    "vmx": 18,
+    "dignifiedquire": 24,
+    "diasdavid": 105,
+    "JonKrone": 2
+  },
+  "fetched_at": "2018-08-01T20:16:09.053Z"
+}

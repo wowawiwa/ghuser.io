@@ -1,0 +1,98 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "logstash-forwarder",
+  "full_name": "elastic/logstash-forwarder",
+  "owner": "elastic",
+  "private": false,
+  "html_url": "https://github.com/elastic/logstash-forwarder",
+  "description": "An experiment to cut logs in preparation for processing elsewhere. Replaced by Filebeat: https://github.com/elastic/beats/tree/master/filebeat",
+  "fork": false,
+  "url": "https://api.github.com/repos/elastic/logstash-forwarder",
+  "languages_url": "https://api.github.com/repos/elastic/logstash-forwarder/languages",
+  "created_at": "2012-08-01T03:44:25Z",
+  "updated_at": "2018-07-10T06:54:11Z",
+  "pushed_at": "2016-10-12T19:05:29Z",
+  "homepage": "",
+  "size": 1965,
+  "stargazers_count": 1712,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "elastic",
+    "id": 6764390,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjY3NjQzOTA=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/6764390?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/elastic",
+    "html_url": "https://github.com/elastic",
+    "followers_url": "https://api.github.com/users/elastic/followers",
+    "following_url": "https://api.github.com/users/elastic/following{/other_user}",
+    "gists_url": "https://api.github.com/users/elastic/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/elastic/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/elastic/subscriptions",
+    "organizations_url": "https://api.github.com/users/elastic/orgs",
+    "repos_url": "https://api.github.com/users/elastic/repos",
+    "events_url": "https://api.github.com/users/elastic/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/elastic/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "Go": {
+      "bytes": 52111,
+      "color": "#375eab"
+    },
+    "Ruby": {
+      "bytes": 7548,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 2006,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 1629,
+      "color": "#427819"
+    }
+  },
+  "contributors": {
+    "tsg": 1,
+    "failshell": 1,
+    "jsvd": 1,
+    "robin13": 1,
+    "lowstz": 1,
+    "jasperla": 1,
+    "mipearson": 1,
+    "pilif": 1,
+    "atwardowski": 1,
+    "josegonzalez": 1,
+    "fayep": 1,
+    "mfournier": 1,
+    "Yggdrasil": 1,
+    "sgzijl": 1,
+    "promisedlandt": 1,
+    "solarce": 1,
+    "jwalton": 2,
+    "evgeniy-b": 2,
+    "alphazero": 2,
+    "mieciu": 2,
+    "willie": 2,
+    "jamtur01": 2,
+    "avleen": 3,
+    "igalic": 3,
+    "ph": 5,
+    "driskell": 5,
+    "nickethier": 11,
+    "jordansissel": 522
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

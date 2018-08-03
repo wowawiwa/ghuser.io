@@ -1,0 +1,91 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ipfs-desktop",
+  "full_name": "ipfs-shipyard/ipfs-desktop",
+  "owner": "ipfs-shipyard",
+  "private": false,
+  "html_url": "https://github.com/ipfs-shipyard/ipfs-desktop",
+  "description": "Menubar IPFS Application",
+  "fork": false,
+  "url": "https://api.github.com/repos/ipfs-shipyard/ipfs-desktop",
+  "languages_url": "https://api.github.com/repos/ipfs-shipyard/ipfs-desktop/languages",
+  "created_at": "2015-05-30T23:42:36Z",
+  "updated_at": "2018-08-03T10:58:20Z",
+  "pushed_at": "2018-08-02T13:20:16Z",
+  "homepage": "",
+  "size": 9081,
+  "stargazers_count": 406,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "ipfs-shipyard",
+    "id": 28269663,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI4MjY5NjYz",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/28269663?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ipfs-shipyard",
+    "html_url": "https://github.com/ipfs-shipyard",
+    "followers_url": "https://api.github.com/users/ipfs-shipyard/followers",
+    "following_url": "https://api.github.com/users/ipfs-shipyard/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ipfs-shipyard/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ipfs-shipyard/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ipfs-shipyard/subscriptions",
+    "organizations_url": "https://api.github.com/users/ipfs-shipyard/orgs",
+    "repos_url": "https://api.github.com/users/ipfs-shipyard/repos",
+    "events_url": "https://api.github.com/users/ipfs-shipyard/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ipfs-shipyard/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 101065,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 30108,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 859,
+      "color": "#89e051"
+    },
+    "HTML": {
+      "bytes": 442,
+      "color": "#e34c26"
+    },
+    "Groovy": {
+      "bytes": 16,
+      "color": "#e69f56"
+    }
+  },
+  "contributors": {
+    "lidel": 1,
+    "olizilla": 1,
+    "flyingzumwalt": 1,
+    "xizhao": 1,
+    "RichardLitt": 1,
+    "Kubuxu": 1,
+    "namick": 1,
+    "jeffd": 1,
+    "harlantwood": 1,
+    "bcomnes": 2,
+    "VictorBjelkholm": 3,
+    "jbenet": 4,
+    "krl": 11,
+    "diasdavid": 29,
+    "greenkeeperio-bot": 37,
+    "dignifiedquire": 98,
+    "hacdias": 164
+  },
+  "fetched_at": "2018-08-03T13:45:28.336Z"
+}

@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "module-nodejs",
+  "full_name": "neard/module-nodejs",
+  "owner": "neard",
+  "private": false,
+  "html_url": "https://github.com/neard/module-nodejs",
+  "description": "📦 Node.js module for Neard project",
+  "fork": false,
+  "url": "https://api.github.com/repos/neard/module-nodejs",
+  "languages_url": "https://api.github.com/repos/neard/module-nodejs/languages",
+  "created_at": "2015-12-06T14:34:03Z",
+  "updated_at": "2017-11-24T18:12:15Z",
+  "pushed_at": "2017-12-28T01:58:40Z",
+  "homepage": "http://neard.io/modules/nodejs",
+  "size": 97990,
+  "stargazers_count": 1,
+  "language": "Batchfile",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "neard",
+    "id": 33940021,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMzOTQwMDIx",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/33940021?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/neard",
+    "html_url": "https://github.com/neard",
+    "followers_url": "https://api.github.com/users/neard/followers",
+    "following_url": "https://api.github.com/users/neard/following{/other_user}",
+    "gists_url": "https://api.github.com/users/neard/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/neard/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/neard/subscriptions",
+    "organizations_url": "https://api.github.com/users/neard/orgs",
+    "repos_url": "https://api.github.com/users/neard/repos",
+    "events_url": "https://api.github.com/users/neard/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/neard/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "crazy-max": 41
+  },
+  "languages": {
+    "Batchfile": {
+      "bytes": 28966,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

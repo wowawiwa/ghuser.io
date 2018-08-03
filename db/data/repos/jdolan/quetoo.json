@@ -1,0 +1,88 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "illwieckz": 1,
+    "gitter-badger": 1,
+    "literallyvoid": 2,
+    "Calinou": 4,
+    "void-995": 4,
+    "dokipen": 4,
+    "IngarKCT": 7,
+    "tapir": 13,
+    "SpineyPete": 15,
+    "jayschwa": 26,
+    "jar3817": 107,
+    "WickedShell": 114,
+    "kaadmy": 187,
+    "maci0": 366,
+    "Paril": 604,
+    "jdolan": 2877
+  },
+  "name": "quetoo",
+  "full_name": "jdolan/quetoo",
+  "owner": "jdolan",
+  "private": false,
+  "html_url": "https://github.com/jdolan/quetoo",
+  "description": "A Free, standalone first person shooter video game based on id Tech2.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jdolan/quetoo",
+  "languages_url": "https://api.github.com/repos/jdolan/quetoo/languages",
+  "created_at": "2013-04-21T23:29:53Z",
+  "updated_at": "2018-07-14T12:16:46Z",
+  "pushed_at": "2018-04-29T12:17:46Z",
+  "homepage": null,
+  "size": 41428,
+  "stargazers_count": 126,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "languages": {
+    "C": {
+      "bytes": 8470147,
+      "color": "#555555"
+    },
+    "Objective-C": {
+      "bytes": 175063,
+      "color": "#438eff"
+    },
+    "C++": {
+      "bytes": 61525,
+      "color": "#f34b7d"
+    },
+    "GLSL": {
+      "bytes": 30312,
+      "color": "#ccc"
+    },
+    "Makefile": {
+      "bytes": 28448,
+      "color": "#427819"
+    },
+    "M4": {
+      "bytes": 12210,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 5063,
+      "color": "#89e051"
+    },
+    "Python": {
+      "bytes": 4643,
+      "color": "#3572A5"
+    },
+    "Batchfile": {
+      "bytes": 4056,
+      "color": "#C1F12E"
+    },
+    "CSS": {
+      "bytes": 3537,
+      "color": "#563d7c"
+    },
+    "PowerShell": {
+      "bytes": 2424,
+      "color": "#012456"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

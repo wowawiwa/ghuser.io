@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ghuser.io",
+  "full_name": "AurelienLourot/ghuser.io",
+  "owner": "AurelienLourot",
+  "private": false,
+  "html_url": "https://github.com/AurelienLourot/ghuser.io",
+  "description": ":octocat: Better GitHub profiles",
+  "fork": false,
+  "url": "https://api.github.com/repos/AurelienLourot/ghuser.io",
+  "languages_url": "https://api.github.com/repos/AurelienLourot/ghuser.io/languages",
+  "created_at": "2018-06-19T11:36:58Z",
+  "updated_at": "2018-08-03T07:26:51Z",
+  "pushed_at": "2018-08-03T13:44:06Z",
+  "homepage": "https://ghuser.io",
+  "size": 21393,
+  "stargazers_count": 31,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "AurelienLourot": 284,
+    "brillout": 4
+  },
+  "settings": {
+    "_comment": "Repo metadata for ghuser.io. See https://github.com/AurelienLourot/ghuser.io/blob/master/docs/repo-settings.md",
+    "avatar_url": "https://rawgit.com/AurelienLourot/ghuser.io/master/docs/logo_square.png",
+    "techs": [
+      "React",
+      "Node.js",
+      "Reframe",
+      "GitHub API",
+      "Bootstrap",
+      "Semantic UI",
+      "AWS",
+      "Ansible"
+    ]
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 92151,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 4399,
+      "color": "#89e051"
+    },
+    "CSS": {
+      "bytes": 4051,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 1626,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-08-03T13:45:28.336Z"
+}

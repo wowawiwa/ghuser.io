@@ -1,0 +1,63 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "haskell-multihash",
+  "full_name": "multiformats/haskell-multihash",
+  "owner": "multiformats",
+  "private": false,
+  "html_url": "https://github.com/multiformats/haskell-multihash",
+  "description": "Multihash Haskell implementation",
+  "fork": false,
+  "url": "https://api.github.com/repos/multiformats/haskell-multihash",
+  "languages_url": "https://api.github.com/repos/multiformats/haskell-multihash/languages",
+  "created_at": "2015-04-05T00:23:52Z",
+  "updated_at": "2017-10-25T20:04:05Z",
+  "pushed_at": "2018-01-20T21:56:14Z",
+  "homepage": null,
+  "size": 23,
+  "stargazers_count": 13,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "multiformats",
+    "id": 20296538,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIwMjk2NTM4",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/20296538?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/multiformats",
+    "html_url": "https://github.com/multiformats",
+    "followers_url": "https://api.github.com/users/multiformats/followers",
+    "following_url": "https://api.github.com/users/multiformats/following{/other_user}",
+    "gists_url": "https://api.github.com/users/multiformats/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/multiformats/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/multiformats/subscriptions",
+    "organizations_url": "https://api.github.com/users/multiformats/orgs",
+    "repos_url": "https://api.github.com/users/multiformats/repos",
+    "events_url": "https://api.github.com/users/multiformats/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/multiformats/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "Haskell": {
+      "bytes": 6089,
+      "color": "#5e5086"
+    }
+  },
+  "contributors": {
+    "davidar": 2,
+    "RichardLitt": 3,
+    "eikeon": 4,
+    "tiago-loureiro": 4,
+    "lukehoersten": 8
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

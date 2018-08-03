@@ -1,0 +1,60 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Data-Partial-Google",
+  "full_name": "shutterstock/Data-Partial-Google",
+  "owner": "shutterstock",
+  "private": false,
+  "html_url": "https://github.com/shutterstock/Data-Partial-Google",
+  "description": "Filter data structures for \"partial responses,\" Google style",
+  "fork": false,
+  "url": "https://api.github.com/repos/shutterstock/Data-Partial-Google",
+  "languages_url": "https://api.github.com/repos/shutterstock/Data-Partial-Google/languages",
+  "created_at": "2014-09-03T17:55:06Z",
+  "updated_at": "2018-01-22T18:45:10Z",
+  "pushed_at": "2017-11-29T22:06:56Z",
+  "homepage": null,
+  "size": 27,
+  "stargazers_count": 5,
+  "language": "Perl",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "shutterstock",
+    "id": 589896,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjU4OTg5Ng==",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/589896?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/shutterstock",
+    "html_url": "https://github.com/shutterstock",
+    "followers_url": "https://api.github.com/users/shutterstock/followers",
+    "following_url": "https://api.github.com/users/shutterstock/following{/other_user}",
+    "gists_url": "https://api.github.com/users/shutterstock/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/shutterstock/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/shutterstock/subscriptions",
+    "organizations_url": "https://api.github.com/users/shutterstock/orgs",
+    "repos_url": "https://api.github.com/users/shutterstock/repos",
+    "events_url": "https://api.github.com/users/shutterstock/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/shutterstock/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "Perl": {
+      "bytes": 12132,
+      "color": "#0298c3"
+    }
+  },
+  "contributors": {
+    "RichardLitt": 1,
+    "arodland": 32
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

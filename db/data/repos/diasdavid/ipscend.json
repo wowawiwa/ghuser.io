@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ipscend",
+  "full_name": "ipfs-shipyard/ipscend",
+  "owner": "ipfs-shipyard",
+  "private": false,
+  "html_url": "https://github.com/ipfs-shipyard/ipscend",
+  "description": "🚀  Publish all your Web pages to IPFS, track released versions and more!",
+  "fork": false,
+  "url": "https://api.github.com/repos/ipfs-shipyard/ipscend",
+  "languages_url": "https://api.github.com/repos/ipfs-shipyard/ipscend/languages",
+  "created_at": "2015-09-30T01:51:19Z",
+  "updated_at": "2018-08-02T16:56:11Z",
+  "pushed_at": "2018-07-14T13:13:47Z",
+  "homepage": "",
+  "size": 65,
+  "stargazers_count": 216,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "languages": {
+    "JavaScript": {
+      "bytes": 9676,
+      "color": "#f1e05a"
+    }
+  },
+  "contributors": {
+    "RichardLitt": 1,
+    "fbaiodias": 3,
+    "ike": 3,
+    "noffle": 4,
+    "greenkeeperio-bot": 21,
+    "diasdavid": 57
+  },
+  "fetched_at": "2018-08-03T05:56:14.583Z",
+  "organization": {
+    "login": "ipfs-shipyard",
+    "id": 28269663,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI4MjY5NjYz",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/28269663?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ipfs-shipyard",
+    "html_url": "https://github.com/ipfs-shipyard",
+    "followers_url": "https://api.github.com/users/ipfs-shipyard/followers",
+    "following_url": "https://api.github.com/users/ipfs-shipyard/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ipfs-shipyard/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ipfs-shipyard/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ipfs-shipyard/subscriptions",
+    "organizations_url": "https://api.github.com/users/ipfs-shipyard/orgs",
+    "repos_url": "https://api.github.com/users/ipfs-shipyard/repos",
+    "events_url": "https://api.github.com/users/ipfs-shipyard/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ipfs-shipyard/received_events",
+    "type": "Organization",
+    "site_admin": false
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "livegrep",
+  "full_name": "livegrep/livegrep",
+  "owner": "livegrep",
+  "private": false,
+  "html_url": "https://github.com/livegrep/livegrep",
+  "description": "Interactively grep source code. Source for http://livegrep.com/",
+  "fork": false,
+  "url": "https://api.github.com/repos/livegrep/livegrep",
+  "languages_url": "https://api.github.com/repos/livegrep/livegrep/languages",
+  "created_at": "2013-02-10T00:19:18Z",
+  "updated_at": "2018-08-03T03:38:50Z",
+  "pushed_at": "2018-08-01T17:56:38Z",
+  "homepage": "",
+  "size": 8485,
+  "stargazers_count": 464,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "livegrep",
+    "id": 7953784,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjc5NTM3ODQ=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/7953784?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/livegrep",
+    "html_url": "https://github.com/livegrep",
+    "followers_url": "https://api.github.com/users/livegrep/followers",
+    "following_url": "https://api.github.com/users/livegrep/following{/other_user}",
+    "gists_url": "https://api.github.com/users/livegrep/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/livegrep/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/livegrep/subscriptions",
+    "organizations_url": "https://api.github.com/users/livegrep/orgs",
+    "repos_url": "https://api.github.com/users/livegrep/repos",
+    "events_url": "https://api.github.com/users/livegrep/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/livegrep/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "C++": {
+      "bytes": 197610,
+      "color": "#f34b7d"
+    },
+    "Python": {
+      "bytes": 181222,
+      "color": "#3572A5"
+    },
+    "Go": {
+      "bytes": 74517,
+      "color": "#375eab"
+    },
+    "JavaScript": {
+      "bytes": 47907,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 14167,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 11565,
+      "color": "#563d7c"
+    },
+    "C": {
+      "bytes": 1676,
+      "color": "#555555"
+    },
+    "Shell": {
+      "bytes": 1583,
+      "color": "#89e051"
+    },
+    "Dockerfile": {
+      "bytes": 779,
+      "color": "#0db7ed"
+    }
+  },
+  "contributors": {
+    "sstephens-dbx": 1,
+    "stappon": 1,
+    "bnewbold": 1,
+    "joelburget": 1,
+    "dylanvee": 1,
+    "zarvox": 1,
+    "shalecraig": 1,
+    "mandarg": 1,
+    "ternus": 1,
+    "samertm": 2,
+    "alexmv": 2,
+    "bkrausz-stripe": 2,
+    "j3parker": 3,
+    "tpcwang": 17,
+    "brandon-rhodes": 54,
+    "jboning": 66,
+    "nelhage": 1002,
+    "fowles": 2,
+    "ains-stripe": 2
+  },
+  "fetched_at": "2018-08-03T05:56:14.583Z"
+}

@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "logging_tree",
+  "full_name": "brandon-rhodes/logging_tree",
+  "owner": "brandon-rhodes",
+  "private": false,
+  "html_url": "https://github.com/brandon-rhodes/logging_tree",
+  "description": "This package introspects the logger tree in the Python standard ``logging`` module.",
+  "fork": false,
+  "url": "https://api.github.com/repos/brandon-rhodes/logging_tree",
+  "languages_url": "https://api.github.com/repos/brandon-rhodes/logging_tree/languages",
+  "created_at": "2012-02-08T14:29:04Z",
+  "updated_at": "2018-08-02T09:07:52Z",
+  "pushed_at": "2018-06-21T02:58:08Z",
+  "homepage": "",
+  "size": 46,
+  "stargazers_count": 162,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-2-clause",
+    "name": "BSD 2-Clause \"Simplified\" License",
+    "spdx_id": "BSD-2-Clause",
+    "url": "https://api.github.com/licenses/bsd-2-clause",
+    "node_id": "MDc6TGljZW5zZTQ="
+  },
+  "default_branch": "master",
+  "languages": {
+    "Python": {
+      "bytes": 21531,
+      "color": "#3572A5"
+    }
+  },
+  "contributors": {
+    "shalak": 1,
+    "ryanhiebert": 1,
+    "FedericoCeratto": 1,
+    "brondsem": 1,
+    "living180": 1,
+    "ralphbean": 2,
+    "brandon-rhodes": 45
+  },
+  "fetched_at": "2018-08-02T09:08:18.533Z"
+}

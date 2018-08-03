@@ -1,0 +1,78 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "montreal",
+  "full_name": "opensourcecities/montreal",
+  "owner": "opensourcecities",
+  "private": false,
+  "html_url": "https://github.com/opensourcecities/montreal",
+  "description": "A directory of companies, people, and projects that are Open Source and from Montréal.",
+  "fork": false,
+  "url": "https://api.github.com/repos/opensourcecities/montreal",
+  "languages_url": "https://api.github.com/repos/opensourcecities/montreal/languages",
+  "created_at": "2017-03-08T15:43:07Z",
+  "updated_at": "2018-07-29T21:42:24Z",
+  "pushed_at": "2018-07-29T21:43:48Z",
+  "homepage": "https://opensourcecities.github.io/montreal/",
+  "size": 9559,
+  "stargazers_count": 52,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "unlicense",
+    "name": "The Unlicense",
+    "spdx_id": "Unlicense",
+    "url": "https://api.github.com/licenses/unlicense",
+    "node_id": "MDc6TGljZW5zZTE1"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "opensourcecities",
+    "id": 28193913,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI4MTkzOTEz",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/28193913?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/opensourcecities",
+    "html_url": "https://github.com/opensourcecities",
+    "followers_url": "https://api.github.com/users/opensourcecities/followers",
+    "following_url": "https://api.github.com/users/opensourcecities/following{/other_user}",
+    "gists_url": "https://api.github.com/users/opensourcecities/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/opensourcecities/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/opensourcecities/subscriptions",
+    "organizations_url": "https://api.github.com/users/opensourcecities/orgs",
+    "repos_url": "https://api.github.com/users/opensourcecities/repos",
+    "events_url": "https://api.github.com/users/opensourcecities/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/opensourcecities/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "Shell": {
+      "bytes": 12173,
+      "color": "#89e051"
+    },
+    "Ruby": {
+      "bytes": 181,
+      "color": "#701516"
+    }
+  },
+  "contributors": {
+    "ivilata": 1,
+    "gitter-badger": 1,
+    "danieljakots": 1,
+    "millette": 1,
+    "dionnel666": 1,
+    "flovilmart": 1,
+    "rvoulon": 1,
+    "maxmx": 1,
+    "ruyadorno": 1,
+    "nbrochu": 1,
+    "chriddyp": 1,
+    "kirkins": 1,
+    "nitriques": 2,
+    "nicolaskruchten": 3,
+    "khos2ow": 37,
+    "RichardLitt": 47
+  },
+  "fetched_at": "2018-07-29T22:07:46.447Z"
+}

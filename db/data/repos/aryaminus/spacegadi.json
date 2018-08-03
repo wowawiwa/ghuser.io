@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "spacegadi",
+  "full_name": "aryaminus/spacegadi",
+  "owner": "aryaminus",
+  "private": false,
+  "html_url": "https://github.com/aryaminus/spacegadi",
+  "description": "Spacegadi- A C programming project based on the Mobile Game Two Cars where the user needs to avoid obstacles reaching both the cars gradually until one of the car hits the object.",
+  "fork": false,
+  "url": "https://api.github.com/repos/aryaminus/spacegadi",
+  "languages_url": "https://api.github.com/repos/aryaminus/spacegadi/languages",
+  "created_at": "2017-03-22T14:38:18Z",
+  "updated_at": "2018-02-20T07:14:52Z",
+  "pushed_at": "2018-02-07T15:59:16Z",
+  "homepage": "",
+  "size": 23,
+  "stargazers_count": 1,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "psuzn": 1,
+    "aryaminus": 39
+  },
+  "languages": {
+    "C": {
+      "bytes": 12957,
+      "color": "#555555"
+    },
+    "Makefile": {
+      "bytes": 203,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "GIG",
+  "full_name": "palash25/GIG",
+  "owner": "palash25",
+  "private": false,
+  "html_url": "https://github.com/palash25/GIG",
+  "description": "A cli :computer: tool to generate gitignore files for your projects. Written in python :snake:",
+  "fork": false,
+  "url": "https://api.github.com/repos/palash25/GIG",
+  "languages_url": "https://api.github.com/repos/palash25/GIG/languages",
+  "created_at": "2018-01-04T17:04:25Z",
+  "updated_at": "2018-08-03T15:10:08Z",
+  "pushed_at": "2018-06-14T06:44:15Z",
+  "homepage": "",
+  "size": 336,
+  "stargazers_count": 14,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "palash25": 9
+  },
+  "languages": {
+    "Python": {
+      "bytes": 7650,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-03T15:15:48.347Z"
+}

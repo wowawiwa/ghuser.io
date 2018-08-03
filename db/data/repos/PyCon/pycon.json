@@ -1,0 +1,115 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pycon",
+  "full_name": "PyCon/pycon",
+  "owner": "PyCon",
+  "private": false,
+  "html_url": "https://github.com/PyCon/pycon",
+  "description": "Website for PyCon",
+  "fork": false,
+  "url": "https://api.github.com/repos/PyCon/pycon",
+  "languages_url": "https://api.github.com/repos/PyCon/pycon/languages",
+  "created_at": "2013-06-04T13:54:18Z",
+  "updated_at": "2018-07-23T06:25:08Z",
+  "pushed_at": "2018-07-19T18:00:48Z",
+  "homepage": "",
+  "size": 28226,
+  "stargazers_count": 97,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-3-clause",
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "spdx_id": "BSD-3-Clause",
+    "url": "https://api.github.com/licenses/bsd-3-clause",
+    "node_id": "MDc6TGljZW5zZTU="
+  },
+  "default_branch": "develop",
+  "organization": {
+    "login": "PyCon",
+    "id": 3891942,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM4OTE5NDI=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/3891942?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/PyCon",
+    "html_url": "https://github.com/PyCon",
+    "followers_url": "https://api.github.com/users/PyCon/followers",
+    "following_url": "https://api.github.com/users/PyCon/following{/other_user}",
+    "gists_url": "https://api.github.com/users/PyCon/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/PyCon/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/PyCon/subscriptions",
+    "organizations_url": "https://api.github.com/users/PyCon/orgs",
+    "repos_url": "https://api.github.com/users/PyCon/repos",
+    "events_url": "https://api.github.com/users/PyCon/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/PyCon/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "Python": {
+      "bytes": 865291,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 278290,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 161207,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 83202,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 13952,
+      "color": "#89e051"
+    },
+    "Smarty": {
+      "bytes": 7379,
+      "color": "#ccc"
+    },
+    "Makefile": {
+      "bytes": 1339,
+      "color": "#427819"
+    }
+  },
+  "contributors": {
+    "ericmjl": 1,
+    "ncnwoko": 1,
+    "muattiyah": 1,
+    "kevinlondon": 1,
+    "yarko": 1,
+    "doobeh": 1,
+    "jesstess": 1,
+    "onelson": 1,
+    "zerok": 1,
+    "poirier": 2,
+    "njl": 2,
+    "jwm": 2,
+    "taavi": 2,
+    "SonOfLilit": 2,
+    "jacobian": 3,
+    "paltman": 3,
+    "wolever": 4,
+    "copelco": 4,
+    "jnoller": 6,
+    "calebsmith": 8,
+    "brosner": 16,
+    "imnikkilee": 19,
+    "lukesneeringer": 19,
+    "mlhamel": 19,
+    "alex": 23,
+    "dchukhin": 64,
+    "rayt86": 87,
+    "jtauber": 122,
+    "ewdurbin": 163,
+    "daaray": 171,
+    "brandon-rhodes": 231,
+    "lukeman": 247,
+    "dpoirier": 326
+  },
+  "fetched_at": "2018-07-23T16:29:16.674Z"
+}

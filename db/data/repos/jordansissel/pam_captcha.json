@@ -1,0 +1,33 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pam_captcha",
+  "full_name": "jordansissel/pam_captcha",
+  "owner": "jordansissel",
+  "private": false,
+  "html_url": "https://github.com/jordansissel/pam_captcha",
+  "description": "Make ssh more fun with a figlet captcha.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jordansissel/pam_captcha",
+  "languages_url": "https://api.github.com/repos/jordansissel/pam_captcha/languages",
+  "created_at": "2011-05-28T10:57:15Z",
+  "updated_at": "2015-07-23T15:49:21Z",
+  "pushed_at": "2011-05-28T11:48:33Z",
+  "homepage": "",
+  "size": 92,
+  "stargazers_count": 7,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "languages": {
+    "C": {
+      "bytes": 12492,
+      "color": "#555555"
+    }
+  },
+  "contributors": {
+    "jordansissel": 5
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

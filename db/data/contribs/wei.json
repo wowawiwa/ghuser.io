@@ -3,17 +3,21 @@
   "repos": {
     "wei/pull": {
       "full_name": "wei/pull",
-      "popularity": 2.506543999292103,
+      "name": "pull",
+      "stargazers_count": 35,
+      "popularity": 2.532793353021433,
       "percentage": 76.92307692307692,
       "maturity": 2.4014031362418624,
       "total_commits_count": 65,
       "activity": 5,
-      "total_score": 42.38787826328107,
+      "total_score": 42.729119861762356,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "probot/probot.github.io": {
       "full_name": "probot/probot.github.io",
+      "name": "probot.github.io",
+      "stargazers_count": 29,
       "popularity": 2.4487452694590637,
       "percentage": 0.6640106241699867,
       "maturity": 3.854886512054834,
@@ -25,6 +29,8 @@
     },
     "wei/new-issue": {
       "full_name": "wei/new-issue",
+      "name": "new-issue",
+      "stargazers_count": 12,
       "popularity": 2.045361715305606,
       "percentage": 35.294117647058826,
       "maturity": 2.04704368583375,
@@ -36,6 +42,8 @@
     },
     "amio/badgen": {
       "full_name": "amio/badgen",
+      "name": "badgen",
+      "stargazers_count": 269,
       "popularity": 3.428335888056931,
       "percentage": 0.6802721088435374,
       "maturity": 3.031524171462595,
@@ -47,28 +55,34 @@
     },
     "firekylin/firekylin": {
       "full_name": "firekylin/firekylin",
-      "popularity": 4.170916593291589,
+      "name": "firekylin",
+      "stargazers_count": 1484,
+      "popularity": 4.171209520919408,
       "percentage": 3.3333333333333335,
       "maturity": 3.9795054543149955,
       "total_commits_count": 990,
       "activity": 5,
-      "total_score": 27.279157878931116,
+      "total_score": 27.28016359711996,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "probot/probot": {
       "full_name": "probot/probot",
-      "popularity": 4.473540655292545,
+      "name": "probot",
+      "stargazers_count": 2977,
+      "popularity": 4.473686607197137,
       "percentage": 0.11862396204033215,
       "maturity": 3.90650572874588,
       "total_commits_count": 843,
       "activity": 5,
-      "total_score": 26.302620408563705,
+      "total_score": 26.303060515018593,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "probot/template": {
       "full_name": "probot/template",
+      "name": "template",
+      "stargazers_count": 15,
       "popularity": 2.149257924096549,
       "percentage": 1.1904761904761905,
       "maturity": 2.6461709786895096,
@@ -80,6 +94,8 @@
     },
     "wei/minifier": {
       "full_name": "wei/minifier",
+      "name": "minifier",
+      "stargazers_count": 3,
       "popularity": 1.3222565221025262,
       "percentage": 100,
       "maturity": 0,
@@ -91,6 +107,8 @@
     },
     "gogs/gogs": {
       "full_name": "gogs/gogs",
+      "name": "gogs",
+      "stargazers_count": 26410,
       "popularity": 5,
       "percentage": 0.020458265139116204,
       "maturity": 4.687307852152201,
@@ -102,6 +120,8 @@
     },
     "remy/mit-license": {
       "full_name": "remy/mit-license",
+      "name": "mit-license",
+      "stargazers_count": 1713,
       "popularity": 4.233568213638915,
       "percentage": 0,
       "maturity": 4.461143825610317,
@@ -113,6 +133,8 @@
     },
     "shanzi/diumoo": {
       "full_name": "shanzi/diumoo",
+      "name": "diumoo",
+      "stargazers_count": 352,
       "popularity": 3.5454699069859292,
       "percentage": 0.5763688760806917,
       "maturity": 3.489015570789262,
@@ -124,6 +146,8 @@
     },
     "wei/cloudcone-cli": {
       "full_name": "wei/cloudcone-cli",
+      "name": "cloudcone-cli",
+      "stargazers_count": 4,
       "popularity": 1.49139952161816,
       "percentage": 100,
       "maturity": 0,
@@ -135,6 +159,8 @@
     },
     "xuexb/github-bot": {
       "full_name": "xuexb/github-bot",
+      "name": "github-bot",
+      "stargazers_count": 269,
       "popularity": 3.428335888056931,
       "percentage": 1.694915254237288,
       "maturity": 2.2827606132375395,
@@ -146,6 +172,8 @@
     },
     "wei/ROT47": {
       "full_name": "wei/ROT47",
+      "name": "ROT47",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -157,6 +185,8 @@
     },
     "saniyusuf/imagenie": {
       "full_name": "saniyusuf/imagenie",
+      "name": "imagenie",
+      "stargazers_count": 48,
       "popularity": 2.673059912795125,
       "percentage": 7.6923076923076925,
       "maturity": 0,
@@ -168,6 +198,8 @@
     },
     "kevbook/web-client-router": {
       "full_name": "kevbook/web-client-router",
+      "name": "web-client-router",
+      "stargazers_count": 2,
       "popularity": 1.0414282204429401,
       "percentage": 4.25531914893617,
       "maturity": 1.8529702602724436,
@@ -179,6 +211,8 @@
     },
     "dowjones/react-picture-show": {
       "full_name": "dowjones/react-picture-show",
+      "name": "react-picture-show",
+      "stargazers_count": 57,
       "popularity": 2.7490018802358214,
       "percentage": 1.6129032258064515,
       "maturity": 2.34612075126341,
@@ -190,6 +224,8 @@
     },
     "dekatotoro/GoogleMaterialDesignIcons": {
       "full_name": "dekatotoro/GoogleMaterialDesignIcons",
+      "name": "GoogleMaterialDesignIcons",
+      "stargazers_count": 367,
       "popularity": 3.5636388068582425,
       "percentage": 2.1739130434782608,
       "maturity": 1.7870377452764827,
@@ -201,6 +237,8 @@
     },
     "wei/isogram": {
       "full_name": "wei/isogram",
+      "name": "isogram",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 40,
       "maturity": 0,
@@ -212,6 +250,8 @@
     },
     "wei/WHRoundedImageView": {
       "full_name": "wei/WHRoundedImageView",
+      "name": "WHRoundedImageView",
+      "stargazers_count": 3,
       "popularity": 1.3222565221025262,
       "percentage": 66.66666666666667,
       "maturity": 0,

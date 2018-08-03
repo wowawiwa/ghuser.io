@@ -1,0 +1,69 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "go-blocks",
+  "full_name": "ipfs/go-blocks",
+  "owner": "ipfs",
+  "private": false,
+  "html_url": "https://github.com/ipfs/go-blocks",
+  "description": "(Deprecated) Blockservice and blockstore for go-ipfs",
+  "fork": false,
+  "url": "https://api.github.com/repos/ipfs/go-blocks",
+  "languages_url": "https://api.github.com/repos/ipfs/go-blocks/languages",
+  "created_at": "2015-06-27T12:01:59Z",
+  "updated_at": "2017-12-25T16:36:47Z",
+  "pushed_at": "2016-11-25T00:29:15Z",
+  "homepage": "https://github.com/ipfs/go-ipfs",
+  "size": 682,
+  "stargazers_count": 4,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "ipfs",
+    "id": 10536621,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwNTM2NjIx",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/10536621?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ipfs",
+    "html_url": "https://github.com/ipfs",
+    "followers_url": "https://api.github.com/users/ipfs/followers",
+    "following_url": "https://api.github.com/users/ipfs/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ipfs/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ipfs/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ipfs/subscriptions",
+    "organizations_url": "https://api.github.com/users/ipfs/orgs",
+    "repos_url": "https://api.github.com/users/ipfs/repos",
+    "events_url": "https://api.github.com/users/ipfs/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ipfs/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "Go": {
+      "bytes": 48554,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 295,
+      "color": "#427819"
+    },
+    "Protocol Buffer": {
+      "bytes": 138,
+      "color": "#ccc"
+    }
+  },
+  "contributors": {
+    "lgierth": 1,
+    "RichardLitt": 1,
+    "jbenet": 9
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

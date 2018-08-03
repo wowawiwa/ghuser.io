@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "dotfiles",
+  "full_name": "jordansissel/dotfiles",
+  "owner": "jordansissel",
+  "private": false,
+  "html_url": "https://github.com/jordansissel/dotfiles",
+  "description": "dotfiles and friends.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jordansissel/dotfiles",
+  "languages_url": "https://api.github.com/repos/jordansissel/dotfiles/languages",
+  "created_at": "2010-12-25T09:21:53Z",
+  "updated_at": "2018-07-28T14:50:21Z",
+  "pushed_at": "2017-09-08T15:57:18Z",
+  "homepage": "",
+  "size": 571,
+  "stargazers_count": 24,
+  "language": "Vim script",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "languages": {
+    "Vim script": {
+      "bytes": 240016,
+      "color": "#199f4b"
+    },
+    "Python": {
+      "bytes": 130176,
+      "color": "#3572A5"
+    },
+    "Ruby": {
+      "bytes": 75203,
+      "color": "#701516"
+    },
+    "Lua": {
+      "bytes": 59058,
+      "color": "#000080"
+    },
+    "Shell": {
+      "bytes": 20263,
+      "color": "#89e051"
+    }
+  },
+  "contributors": {
+    "solarce": 1,
+    "jordansissel": 249
+  },
+  "fetched_at": "2018-07-28T15:39:57.361Z"
+}

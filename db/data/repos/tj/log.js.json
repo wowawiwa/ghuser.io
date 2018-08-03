@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "log.js",
+  "full_name": "tj/log.js",
+  "owner": "tj",
+  "private": false,
+  "html_url": "https://github.com/tj/log.js",
+  "description": "super light-weight nodejs logging + streaming log reader",
+  "fork": false,
+  "url": "https://api.github.com/repos/tj/log.js",
+  "languages_url": "https://api.github.com/repos/tj/log.js/languages",
+  "created_at": "2010-09-22T03:55:24Z",
+  "updated_at": "2018-07-24T19:22:14Z",
+  "pushed_at": "2017-08-31T11:02:41Z",
+  "homepage": "",
+  "size": 26,
+  "stargazers_count": 371,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "languages": {
+    "HTML": {
+      "bytes": 10702,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 3883,
+      "color": "#f1e05a"
+    },
+    "Makefile": {
+      "bytes": 249,
+      "color": "#427819"
+    }
+  },
+  "contributors": {
+    "RichardLitt": 1,
+    "ForbesLindesay": 1,
+    "buschtoens": 1,
+    "bentruyman": 1,
+    "stravid": 1,
+    "greelgorke": 2,
+    "thakkar-rushikesh": 2,
+    "tj": 30
+  },
+  "fetched_at": "2018-07-25T00:05:30.322Z"
+}

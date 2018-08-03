@@ -1,0 +1,77 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "js-libp2p-tcp",
+  "full_name": "libp2p/js-libp2p-tcp",
+  "owner": "libp2p",
+  "private": false,
+  "html_url": "https://github.com/libp2p/js-libp2p-tcp",
+  "description": "JavaScript implementation of the TCP module that libp2p uses that implements the interface-transport spec",
+  "fork": false,
+  "url": "https://api.github.com/repos/libp2p/js-libp2p-tcp",
+  "languages_url": "https://api.github.com/repos/libp2p/js-libp2p-tcp/languages",
+  "created_at": "2015-09-15T13:42:08Z",
+  "updated_at": "2018-07-31T12:13:17Z",
+  "pushed_at": "2018-07-31T13:53:38Z",
+  "homepage": "https://libp2p.io",
+  "size": 114,
+  "stargazers_count": 19,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "libp2p",
+    "id": 14838238,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0ODM4MjM4",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/14838238?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/libp2p",
+    "html_url": "https://github.com/libp2p",
+    "followers_url": "https://api.github.com/users/libp2p/followers",
+    "following_url": "https://api.github.com/users/libp2p/following{/other_user}",
+    "gists_url": "https://api.github.com/users/libp2p/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/libp2p/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/libp2p/subscriptions",
+    "organizations_url": "https://api.github.com/users/libp2p/orgs",
+    "repos_url": "https://api.github.com/users/libp2p/repos",
+    "events_url": "https://api.github.com/users/libp2p/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/libp2p/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 22392,
+      "color": "#f1e05a"
+    },
+    "Groovy": {
+      "bytes": 190,
+      "color": "#e69f56"
+    }
+  },
+  "contributors": {
+    "jacobheun": 4,
+    "fsdiogo": 1,
+    "drewstone": 1,
+    "pgte": 1,
+    "alanshaw": 1,
+    "dryajov": 1,
+    "prashcr": 1,
+    "emschwartz": 1,
+    "JGAntunes": 1,
+    "RichardLitt": 2,
+    "dignifiedquire": 8,
+    "noffle": 10,
+    "greenkeeperio-bot": 15,
+    "diasdavid": 108,
+    "TomCoded": 2
+  },
+  "fetched_at": "2018-07-31T15:31:47.919Z"
+}

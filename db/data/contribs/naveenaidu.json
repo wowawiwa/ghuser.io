@@ -3,6 +3,8 @@
   "repos": {
     "coala/projects": {
       "full_name": "coala/projects",
+      "name": "projects",
+      "stargazers_count": 59,
       "popularity": 2.764215153768394,
       "percentage": 0.25839793281653745,
       "maturity": 3.5421904330436953,
@@ -14,6 +16,8 @@
     },
     "coala/documentation": {
       "full_name": "coala/documentation",
+      "name": "documentation",
+      "stargazers_count": 33,
       "popularity": 2.506543999292103,
       "percentage": 0.42016806722689076,
       "maturity": 3.2986199194112844,
@@ -25,17 +29,21 @@
     },
     "coala/coala": {
       "full_name": "coala/coala",
-      "popularity": 4.366106991783223,
+      "name": "coala",
+      "stargazers_count": 2325,
+      "popularity": 4.366293897657852,
       "percentage": 0.024715768660405337,
       "maturity": 4.604458061277068,
       "total_commits_count": 4046,
       "activity": 5,
-      "total_score": 27.32126561765002,
+      "total_score": 27.321826935811814,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "Naveenaidu/IEEE-webscraper": {
       "full_name": "Naveenaidu/IEEE-webscraper",
+      "name": "IEEE-webscraper",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -47,6 +55,8 @@
     },
     "Naveenaidu/2D-Flash-Game-SpaceShip-Invader-ActionScript3": {
       "full_name": "Naveenaidu/2D-Flash-Game-SpaceShip-Invader-ActionScript3",
+      "name": "2D-Flash-Game-SpaceShip-Invader-ActionScript3",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -58,6 +68,8 @@
     },
     "Naveenaidu/Google-Crawler": {
       "full_name": "Naveenaidu/Google-Crawler",
+      "name": "Google-Crawler",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -69,6 +81,8 @@
     },
     "Naveenaidu/nand2tetris": {
       "full_name": "Naveenaidu/nand2tetris",
+      "name": "nand2tetris",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,

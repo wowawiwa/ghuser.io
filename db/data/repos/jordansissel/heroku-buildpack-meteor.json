@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "heroku-buildpack-meteor",
+  "full_name": "jordansissel/heroku-buildpack-meteor",
+  "owner": "jordansissel",
+  "private": false,
+  "html_url": "https://github.com/jordansissel/heroku-buildpack-meteor",
+  "description": "a heroku buildpack for meteor (meteor.com)",
+  "fork": false,
+  "url": "https://api.github.com/repos/jordansissel/heroku-buildpack-meteor",
+  "languages_url": "https://api.github.com/repos/jordansissel/heroku-buildpack-meteor/languages",
+  "created_at": "2012-04-11T15:32:12Z",
+  "updated_at": "2018-07-26T10:50:35Z",
+  "pushed_at": "2016-11-13T06:35:08Z",
+  "homepage": "",
+  "size": 457,
+  "stargazers_count": 609,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "languages": {
+    "Shell": {
+      "bytes": 12888,
+      "color": "#89e051"
+    }
+  },
+  "contributors": {
+    "leonardykris": 1,
+    "idris": 1,
+    "gdumitrescu": 1,
+    "martriay": 1,
+    "asfaltboy": 1,
+    "jfenton": 1,
+    "ravivmg": 1,
+    "wfleming": 2,
+    "camstuart": 2,
+    "brad": 3,
+    "jordansissel": 20
+  },
+  "fetched_at": "2018-07-26T20:38:34.539Z"
+}

@@ -3,17 +3,21 @@
   "repos": {
     "crazy-max/docker-librenms": {
       "full_name": "crazy-max/docker-librenms",
-      "popularity": 0,
+      "name": "docker-librenms",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
       "percentage": 100,
       "maturity": 0,
       "total_commits_count": 12,
       "activity": 5,
-      "total_score": 5,
+      "total_score": 21.662851527087042,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "crazy-max/WindowsSpyBlocker": {
       "full_name": "crazy-max/WindowsSpyBlocker",
+      "name": "WindowsSpyBlocker",
+      "stargazers_count": 698,
       "popularity": 3.8433341657827094,
       "percentage": 99.09909909909909,
       "maturity": 3.468751545832409,
@@ -25,28 +29,34 @@
     },
     "portapps/brave-portable": {
       "full_name": "portapps/brave-portable",
+      "name": "brave-portable",
+      "stargazers_count": 24,
       "popularity": 2.3636508993380505,
       "percentage": 100,
-      "maturity": 2.6048763698809907,
-      "total_commits_count": 80,
+      "maturity": 2.6155739242796985,
+      "total_commits_count": 81,
       "activity": 5,
-      "total_score": 48.02816712917079,
+      "total_score": 48.0495622379682,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "portapps/portapps.github.io": {
       "full_name": "portapps/portapps.github.io",
+      "name": "portapps.github.io",
+      "stargazers_count": 6,
       "popularity": 1.7076084983408428,
       "percentage": 100,
-      "maturity": 2.4183701866164125,
-      "total_commits_count": 66,
+      "maturity": 2.4346992151481284,
+      "total_commits_count": 67,
       "activity": 5,
-      "total_score": 37.158476346686314,
+      "total_score": 37.19113440374974,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "crazy-max/docker-artifactory": {
       "full_name": "crazy-max/docker-artifactory",
+      "name": "docker-artifactory",
+      "stargazers_count": 7,
       "popularity": 1.7853682828948099,
       "percentage": 100,
       "maturity": 0,
@@ -58,6 +68,8 @@
     },
     "portapps/postman-portable": {
       "full_name": "portapps/postman-portable",
+      "name": "postman-portable",
+      "stargazers_count": 8,
       "popularity": 1.8512968868523627,
       "percentage": 100,
       "maturity": 0,
@@ -69,6 +81,8 @@
     },
     "crazy-max/firefox-history-merger": {
       "full_name": "crazy-max/firefox-history-merger",
+      "name": "firefox-history-merger",
+      "stargazers_count": 6,
       "popularity": 1.7076084983408428,
       "percentage": 100,
       "maturity": 0,
@@ -80,6 +94,8 @@
     },
     "crazy-max/docker-rtorrent-rutorrent": {
       "full_name": "crazy-max/docker-rtorrent-rutorrent",
+      "name": "docker-rtorrent-rutorrent",
+      "stargazers_count": 5,
       "popularity": 1.6128219920330789,
       "percentage": 100,
       "maturity": 0,
@@ -91,6 +107,8 @@
     },
     "crazy-max/docker-jetbrains-license-server": {
       "full_name": "crazy-max/docker-jetbrains-license-server",
+      "name": "docker-jetbrains-license-server",
+      "stargazers_count": 55,
       "popularity": 2.7332362815104947,
       "percentage": 97.05882352941177,
       "maturity": 0,
@@ -102,6 +120,8 @@
     },
     "crazy-max/docker-dokuwiki": {
       "full_name": "crazy-max/docker-dokuwiki",
+      "name": "docker-dokuwiki",
+      "stargazers_count": 2,
       "popularity": 1.0414282204429401,
       "percentage": 100,
       "maturity": 0,
@@ -113,6 +133,8 @@
     },
     "crazy-max/docker-firefox-syncserver": {
       "full_name": "crazy-max/docker-firefox-syncserver",
+      "name": "docker-firefox-syncserver",
+      "stargazers_count": 13,
       "popularity": 2.0828241359374196,
       "percentage": 100,
       "maturity": 0,
@@ -124,6 +146,8 @@
     },
     "crazy-max/docker-matomo": {
       "full_name": "crazy-max/docker-matomo",
+      "name": "docker-matomo",
+      "stargazers_count": 21,
       "popularity": 2.3032349516115587,
       "percentage": 97.67441860465117,
       "maturity": 1.4930421103847036,
@@ -135,6 +159,8 @@
     },
     "crazy-max/docker-nextcloud": {
       "full_name": "crazy-max/docker-nextcloud",
+      "name": "docker-nextcloud",
+      "stargazers_count": 7,
       "popularity": 1.7853682828948099,
       "percentage": 100,
       "maturity": 2.34612075126341,
@@ -146,6 +172,8 @@
     },
     "portapps/intellij-idea-community-portable": {
       "full_name": "portapps/intellij-idea-community-portable",
+      "name": "intellij-idea-community-portable",
+      "stargazers_count": 12,
       "popularity": 2.045361715305606,
       "percentage": 100,
       "maturity": 0,
@@ -157,6 +185,8 @@
     },
     "portapps/vscode-portable": {
       "full_name": "portapps/vscode-portable",
+      "name": "vscode-portable",
+      "stargazers_count": 4,
       "popularity": 1.49139952161816,
       "percentage": 100,
       "maturity": 0,
@@ -168,6 +198,8 @@
     },
     "portapps/portapps": {
       "full_name": "portapps/portapps",
+      "name": "portapps",
+      "stargazers_count": 28,
       "popularity": 2.4330082352955733,
       "percentage": 100,
       "maturity": 2.6461709786895096,
@@ -179,6 +211,8 @@
     },
     "crazy-max/docker-ejtserver": {
       "full_name": "crazy-max/docker-ejtserver",
+      "name": "docker-ejtserver",
+      "stargazers_count": 5,
       "popularity": 1.6128219920330789,
       "percentage": 100,
       "maturity": 0,
@@ -190,6 +224,8 @@
     },
     "portapps/intellij-idea-ultimate-portable": {
       "full_name": "portapps/intellij-idea-ultimate-portable",
+      "name": "intellij-idea-ultimate-portable",
+      "stargazers_count": 9,
       "popularity": 1.9085236249774054,
       "percentage": 100,
       "maturity": 0,
@@ -201,6 +237,8 @@
     },
     "portapps/rocketchat-portable": {
       "full_name": "portapps/rocketchat-portable",
+      "name": "rocketchat-portable",
+      "stargazers_count": 2,
       "popularity": 1.0414282204429401,
       "percentage": 100,
       "maturity": 0,
@@ -212,6 +250,8 @@
     },
     "portapps/skype-portable": {
       "full_name": "portapps/skype-portable",
+      "name": "skype-portable",
+      "stargazers_count": 11,
       "popularity": 2.0043600754367907,
       "percentage": 100,
       "maturity": 0,
@@ -223,6 +263,8 @@
     },
     "portapps/teamspeak-client-portable": {
       "full_name": "portapps/teamspeak-client-portable",
+      "name": "teamspeak-client-portable",
+      "stargazers_count": 3,
       "popularity": 1.3222565221025262,
       "percentage": 100,
       "maturity": 0,
@@ -234,6 +276,8 @@
     },
     "portapps/slack-portable": {
       "full_name": "portapps/slack-portable",
+      "name": "slack-portable",
+      "stargazers_count": 20,
       "popularity": 2.2810722512575277,
       "percentage": 98.83720930232558,
       "maturity": 2.6654334850844252,
@@ -245,6 +289,8 @@
     },
     "crazy-max/csgo-server-launcher": {
       "full_name": "crazy-max/csgo-server-launcher",
+      "name": "csgo-server-launcher",
+      "stargazers_count": 234,
       "popularity": 3.3675813454055556,
       "percentage": 84.88372093023256,
       "maturity": 2.6654334850844252,
@@ -256,6 +302,8 @@
     },
     "crazy-max/crossfit-reader": {
       "full_name": "crazy-max/crossfit-reader",
+      "name": "crossfit-reader",
+      "stargazers_count": 4,
       "popularity": 1.49139952161816,
       "percentage": 100,
       "maturity": 3.0107603634824787,
@@ -267,6 +315,8 @@
     },
     "crazy-max/dokuwiki-plugin-syntaxhighlighter4": {
       "full_name": "crazy-max/dokuwiki-plugin-syntaxhighlighter4",
+      "name": "dokuwiki-plugin-syntaxhighlighter4",
+      "stargazers_count": 22,
       "popularity": 2.3243213587049825,
       "percentage": 100,
       "maturity": 0,
@@ -278,6 +328,8 @@
     },
     "crazy-max/dokuwiki-plugin-syntaxhighlighter3": {
       "full_name": "crazy-max/dokuwiki-plugin-syntaxhighlighter3",
+      "name": "dokuwiki-plugin-syntaxhighlighter3",
+      "stargazers_count": 3,
       "popularity": 1.3222565221025262,
       "percentage": 100,
       "maturity": 0,
@@ -289,6 +341,8 @@
     },
     "crazy-max/git-rewrite-author": {
       "full_name": "crazy-max/git-rewrite-author",
+      "name": "git-rewrite-author",
+      "stargazers_count": 16,
       "popularity": 2.179015777092762,
       "percentage": 100,
       "maturity": 0,
@@ -300,6 +354,8 @@
     },
     "crazy-max/nodejs-portable": {
       "full_name": "crazy-max/nodejs-portable",
+      "name": "nodejs-portable",
+      "stargazers_count": 175,
       "popularity": 3.240837837319775,
       "percentage": 83,
       "maturity": 2.7806079073212198,
@@ -311,6 +367,8 @@
     },
     "portapps/twitch-portable": {
       "full_name": "portapps/twitch-portable",
+      "name": "twitch-portable",
+      "stargazers_count": 5,
       "popularity": 1.6128219920330789,
       "percentage": 100,
       "maturity": 1.0429714431619128,
@@ -322,6 +380,8 @@
     },
     "portapps/discord-portable": {
       "full_name": "portapps/discord-portable",
+      "name": "discord-portable",
+      "stargazers_count": 43,
       "popularity": 2.6243210916459527,
       "percentage": 100,
       "maturity": 2.5711055574387496,
@@ -333,6 +393,8 @@
     },
     "portapps/discord-ptb-portable": {
       "full_name": "portapps/discord-ptb-portable",
+      "name": "discord-ptb-portable",
+      "stargazers_count": 4,
       "popularity": 1.49139952161816,
       "percentage": 100,
       "maturity": 2.234722295244445,
@@ -344,6 +406,8 @@
     },
     "portapps/docker-toolbox-portable": {
       "full_name": "portapps/docker-toolbox-portable",
+      "name": "docker-toolbox-portable",
+      "stargazers_count": 4,
       "popularity": 1.49139952161816,
       "percentage": 100,
       "maturity": 0,
@@ -355,6 +419,8 @@
     },
     "portapps/hostsman-portable": {
       "full_name": "portapps/hostsman-portable",
+      "name": "hostsman-portable",
+      "stargazers_count": 7,
       "popularity": 1.7853682828948099,
       "percentage": 100,
       "maturity": 1.323873088726792,
@@ -366,6 +432,8 @@
     },
     "ftpgrab/docker": {
       "full_name": "ftpgrab/docker",
+      "name": "docker",
+      "stargazers_count": 5,
       "popularity": 1.6128219920330789,
       "percentage": 100,
       "maturity": 0,
@@ -377,6 +445,8 @@
     },
     "ftpgrab/ftpgrab": {
       "full_name": "ftpgrab/ftpgrab",
+      "name": "ftpgrab",
+      "stargazers_count": 71,
       "popularity": 2.8457570508611636,
       "percentage": 94.64285714285714,
       "maturity": 2.859669179921282,
@@ -388,6 +458,8 @@
     },
     "neard/neard": {
       "full_name": "neard/neard",
+      "name": "neard",
+      "stargazers_count": 214,
       "popularity": 3.328622520025432,
       "percentage": 99.15014164305948,
       "maturity": 3.4974188327762143,
@@ -399,6 +471,8 @@
     },
     "neard/dev": {
       "full_name": "neard/dev",
+      "name": "dev",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 2.5711055574387496,
@@ -410,6 +484,8 @@
     },
     "neard/prerequisites": {
       "full_name": "neard/prerequisites",
+      "name": "prerequisites",
+      "stargazers_count": 8,
       "popularity": 1.8512968868523627,
       "percentage": 100,
       "maturity": 0,
@@ -421,6 +497,8 @@
     },
     "crazy-max/docker-7zip": {
       "full_name": "crazy-max/docker-7zip",
+      "name": "docker-7zip",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -432,6 +510,8 @@
     },
     "crazy-max/CwsCrypto": {
       "full_name": "crazy-max/CwsCrypto",
+      "name": "CwsCrypto",
+      "stargazers_count": 4,
       "popularity": 1.49139952161816,
       "percentage": 100,
       "maturity": 0,
@@ -443,6 +523,8 @@
     },
     "crazy-max/CwsShareCount": {
       "full_name": "crazy-max/CwsShareCount",
+      "name": "CwsShareCount",
+      "stargazers_count": 10,
       "popularity": 1.9590800514478444,
       "percentage": 100,
       "maturity": 0,
@@ -454,6 +536,8 @@
     },
     "crazy-max/CwsSession": {
       "full_name": "crazy-max/CwsSession",
+      "name": "CwsSession",
+      "stargazers_count": 4,
       "popularity": 1.49139952161816,
       "percentage": 100,
       "maturity": 0,
@@ -465,6 +549,8 @@
     },
     "crazy-max/CwsOvhLogsDownloader": {
       "full_name": "crazy-max/CwsOvhLogsDownloader",
+      "name": "CwsOvhLogsDownloader",
+      "stargazers_count": 2,
       "popularity": 1.0414282204429401,
       "percentage": 100,
       "maturity": 0,
@@ -476,6 +562,8 @@
     },
     "crazy-max/CwsMailBounceHandler": {
       "full_name": "crazy-max/CwsMailBounceHandler",
+      "name": "CwsMailBounceHandler",
+      "stargazers_count": 22,
       "popularity": 2.3243213587049825,
       "percentage": 74.57627118644068,
       "maturity": 2.2827606132375395,
@@ -487,6 +575,8 @@
     },
     "crazy-max/CwsDump": {
       "full_name": "crazy-max/CwsDump",
+      "name": "CwsDump",
+      "stargazers_count": 2,
       "popularity": 1.0414282204429401,
       "percentage": 97.22222222222223,
       "maturity": 0,
@@ -498,6 +588,8 @@
     },
     "crazy-max/CwsDebug": {
       "full_name": "crazy-max/CwsDebug",
+      "name": "CwsDebug",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 96.66666666666667,
       "maturity": 0,
@@ -509,6 +601,8 @@
     },
     "crazy-max/CwsCurl": {
       "full_name": "crazy-max/CwsCurl",
+      "name": "CwsCurl",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -520,6 +614,8 @@
     },
     "crazy-max/CwsCaptcha": {
       "full_name": "crazy-max/CwsCaptcha",
+      "name": "CwsCaptcha",
+      "stargazers_count": 4,
       "popularity": 1.49139952161816,
       "percentage": 100,
       "maturity": 0,
@@ -531,6 +627,8 @@
     },
     "crazy-max/login-servers-enhanced": {
       "full_name": "crazy-max/login-servers-enhanced",
+      "name": "login-servers-enhanced",
+      "stargazers_count": 2,
       "popularity": 1.0414282204429401,
       "percentage": 100,
       "maturity": 0,
@@ -542,6 +640,8 @@
     },
     "neard/module-php": {
       "full_name": "neard/module-php",
+      "name": "module-php",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 2.4802970571810303,
@@ -553,6 +653,8 @@
     },
     "RocketChat/docs": {
       "full_name": "RocketChat/docs",
+      "name": "docs",
+      "stargazers_count": 128,
       "popularity": 3.1041846084544136,
       "percentage": 0.1949317738791423,
       "maturity": 4.404014831880226,
@@ -564,6 +666,8 @@
     },
     "crazy-max/rocketchat-appveyor": {
       "full_name": "crazy-max/rocketchat-appveyor",
+      "name": "rocketchat-appveyor",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -575,6 +679,8 @@
     },
     "crazy-max/rocketchat-uptimerobot": {
       "full_name": "crazy-max/rocketchat-uptimerobot",
+      "name": "rocketchat-uptimerobot",
+      "stargazers_count": 3,
       "popularity": 1.3222565221025262,
       "percentage": 100,
       "maturity": 0,
@@ -586,6 +692,8 @@
     },
     "neard/module-apache": {
       "full_name": "neard/module-apache",
+      "name": "module-apache",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -597,6 +705,8 @@
     },
     "neard/module-nodejs": {
       "full_name": "neard/module-nodejs",
+      "name": "module-nodejs",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 1.0429714431619128,
@@ -608,6 +718,8 @@
     },
     "neard/module-mysql": {
       "full_name": "neard/module-mysql",
+      "name": "module-mysql",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -619,6 +731,8 @@
     },
     "neard/module-mariadb": {
       "full_name": "neard/module-mariadb",
+      "name": "module-mariadb",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -630,17 +744,21 @@
     },
     "badges/shields": {
       "full_name": "badges/shields",
-      "popularity": 4.775438344008951,
+      "name": "shields",
+      "stargazers_count": 5961,
+      "popularity": 4.775292634496736,
       "percentage": 0.054884742041712405,
       "maturity": 4.252668291573333,
       "total_commits_count": 1822,
       "activity": 5,
-      "total_score": 27.865724446387638,
+      "total_score": 27.865286278211222,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "crazy-max/aetraymenu": {
       "full_name": "crazy-max/aetraymenu",
+      "name": "aetraymenu",
+      "stargazers_count": 5,
       "popularity": 1.6128219920330789,
       "percentage": 55.55555555555556,
       "maturity": 0,
@@ -652,17 +770,21 @@
     },
     "StevenBlack/hosts": {
       "full_name": "StevenBlack/hosts",
-      "popularity": 4.996379986067387,
+      "name": "hosts",
+      "stargazers_count": 9919,
+      "popularity": 4.996467571043594,
       "percentage": 0.3292181069958848,
       "maturity": 4.071810997413029,
       "total_commits_count": 1215,
       "activity": 5,
-      "total_score": 28.3465987919381,
+      "total_score": 28.346865295359528,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "crazy-max/IOPriority": {
       "full_name": "crazy-max/IOPriority",
+      "name": "IOPriority",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -674,17 +796,21 @@
     },
     "pi-hole/pi-hole": {
       "full_name": "pi-hole/pi-hole",
-      "popularity": 4.974647484780735,
+      "name": "pi-hole",
+      "stargazers_count": 9439,
+      "popularity": 4.9749236627737305,
       "percentage": 0.13799448022079117,
       "maturity": 4.330951003217213,
       "total_commits_count": 2174,
       "activity": 5,
-      "total_score": 28.675086066989348,
+      "total_score": 28.675919555403354,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "miniflux/picoFeed": {
       "full_name": "miniflux/picoFeed",
+      "name": "picoFeed",
+      "stargazers_count": 441,
       "popularity": 3.643590448334852,
       "percentage": 0.6109979633401222,
       "maturity": 3.6560087615680237,
@@ -696,6 +822,8 @@
     },
     "crazy-max/IconsRefresh": {
       "full_name": "crazy-max/IconsRefresh",
+      "name": "IconsRefresh",
+      "stargazers_count": 4,
       "popularity": 1.49139952161816,
       "percentage": 100,
       "maturity": 0,
@@ -707,6 +835,8 @@
     },
     "crazy-max/Killer": {
       "full_name": "crazy-max/Killer",
+      "name": "Killer",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -718,17 +848,21 @@
     },
     "Novik/ruTorrent": {
       "full_name": "Novik/ruTorrent",
-      "popularity": 4.033904952385699,
+      "name": "ruTorrent",
+      "stargazers_count": 1084,
+      "popularity": 4.034707640878716,
       "percentage": 0.12391573729863693,
       "maturity": 4.19876852744248,
       "total_commits_count": 1614,
       "activity": 5,
-      "total_score": 25.56423427186983,
+      "total_score": 25.566655267894618,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "crazy-max/putty-portable": {
       "full_name": "crazy-max/putty-portable",
+      "name": "putty-portable",
+      "stargazers_count": 8,
       "popularity": 1.8512968868523627,
       "percentage": 100,
       "maturity": 0,
@@ -740,6 +874,8 @@
     },
     "crazy-max/shares-erasor": {
       "full_name": "crazy-max/shares-erasor",
+      "name": "shares-erasor",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -751,6 +887,8 @@
     },
     "portapps/insomnia-portable": {
       "full_name": "portapps/insomnia-portable",
+      "name": "insomnia-portable",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -762,17 +900,21 @@
     },
     "librenms/librenms": {
       "full_name": "librenms/librenms",
-      "popularity": 4.045401187785597,
+      "name": "librenms",
+      "stargazers_count": 1112,
+      "popularity": 4.045792232729559,
       "percentage": 0.01783803068141277,
       "maturity": 5,
       "total_commits_count": 11212,
       "activity": 5,
-      "total_score": 27.145584622122612,
+      "total_score": 27.146758663765823,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "librenms/librenms-agent": {
       "full_name": "librenms/librenms-agent",
+      "name": "librenms-agent",
+      "stargazers_count": 34,
       "popularity": 2.5198669643416824,
       "percentage": 0,
       "maturity": 3.059020444311644,
@@ -784,6 +926,8 @@
     },
     "RocketChat/Rocket.Chat": {
       "full_name": "RocketChat/Rocket.Chat",
+      "name": "Rocket.Chat",
+      "stargazers_count": 19227,
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,

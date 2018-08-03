@@ -1,0 +1,117 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "changes",
+  "full_name": "dropbox/changes",
+  "owner": "dropbox",
+  "private": false,
+  "html_url": "https://github.com/dropbox/changes",
+  "description": "A dashboard for your code. A build system.",
+  "fork": false,
+  "url": "https://api.github.com/repos/dropbox/changes",
+  "languages_url": "https://api.github.com/repos/dropbox/changes/languages",
+  "created_at": "2013-09-21T01:41:26Z",
+  "updated_at": "2018-07-23T15:15:22Z",
+  "pushed_at": "2016-11-05T18:50:57Z",
+  "homepage": "",
+  "size": 22349,
+  "stargazers_count": 770,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "dropbox",
+    "id": 559357,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjU1OTM1Nw==",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/559357?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/dropbox",
+    "html_url": "https://github.com/dropbox",
+    "followers_url": "https://api.github.com/users/dropbox/followers",
+    "following_url": "https://api.github.com/users/dropbox/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dropbox/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/dropbox/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dropbox/subscriptions",
+    "organizations_url": "https://api.github.com/users/dropbox/orgs",
+    "repos_url": "https://api.github.com/users/dropbox/repos",
+    "events_url": "https://api.github.com/users/dropbox/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/dropbox/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "Python": {
+      "bytes": 2189624,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 380548,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 24837,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 21274,
+      "color": "#e34c26"
+    },
+    "Makefile": {
+      "bytes": 6148,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 4150,
+      "color": "#89e051"
+    },
+    "Mako": {
+      "bytes": 412,
+      "color": "#ccc"
+    }
+  },
+  "contributors": {
+    "pra85": 1,
+    "ptyl": 1,
+    "alex": 1,
+    "Chetane": 1,
+    "lord": 2,
+    "willywu": 2,
+    "dlitz": 2,
+    "gnprice": 4,
+    "JukkaL": 4,
+    "adegtiar": 4,
+    "cjpark": 4,
+    "brandon-rhodes": 5,
+    "nipunn1313": 7,
+    "gvanrossum": 8,
+    "kajic": 8,
+    "ddfisher": 9,
+    "alexmv": 10,
+    "charleseff": 13,
+    "yzyz": 16,
+    "stefan-avramov": 20,
+    "angieatdropboxdotcom": 36,
+    "jhance": 38,
+    "dzbarsky": 40,
+    "anupcshan": 43,
+    "akhilravidas": 43,
+    "ecnerwala": 47,
+    "jboning": 48,
+    "tmadeira": 50,
+    "aroravishal": 54,
+    "paulruan": 78,
+    "naphatkrit": 104,
+    "nathanielherman": 107,
+    "meitros": 305,
+    "kylec1": 346,
+    "dcramer": 943
+  },
+  "fetched_at": "2018-07-23T16:29:16.674Z"
+}

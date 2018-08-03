@@ -1,0 +1,86 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "mischnic": 1,
+    "zhaozg": 1,
+    "bcampbell": 1,
+    "parro-it": 1,
+    "Qwerp-Derp": 1,
+    "tom-corwin": 1,
+    "marcotrosi": 1,
+    "lxn": 1,
+    "ForsakenHarmony": 1,
+    "l0calh05t": 1,
+    "kornrunner": 1,
+    "sclukey": 1,
+    "yamadapc": 1,
+    "neelchauhan": 1,
+    "starius": 1,
+    "ghaberek": 1,
+    "hugows": 1,
+    "dom96": 1,
+    "joaoventura": 1,
+    "pcwalton": 1,
+    "actionless": 1,
+    "nopara73": 2,
+    "msink": 7,
+    "kainjow": 7,
+    "fclairamb": 7,
+    "emersion": 9,
+    "cody271": 25,
+    "andlabs": 3278
+  },
+  "name": "libui",
+  "full_name": "andlabs/libui",
+  "owner": "andlabs",
+  "private": false,
+  "html_url": "https://github.com/andlabs/libui",
+  "description": "Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.",
+  "fork": false,
+  "url": "https://api.github.com/repos/andlabs/libui",
+  "languages_url": "https://api.github.com/repos/andlabs/libui/languages",
+  "created_at": "2015-04-17T00:35:54Z",
+  "updated_at": "2018-08-03T08:43:23Z",
+  "pushed_at": "2018-07-31T17:59:30Z",
+  "homepage": "",
+  "size": 5536,
+  "stargazers_count": 7474,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "languages": {
+    "C": {
+      "bytes": 526115,
+      "color": "#555555"
+    },
+    "C++": {
+      "bytes": 400580,
+      "color": "#f34b7d"
+    },
+    "Objective-C": {
+      "bytes": 330812,
+      "color": "#438eff"
+    },
+    "CMake": {
+      "bytes": 13148,
+      "color": "#ccc"
+    },
+    "Go": {
+      "bytes": 2100,
+      "color": "#375eab"
+    },
+    "Batchfile": {
+      "bytes": 477,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-08-03T13:45:28.336Z"
+}

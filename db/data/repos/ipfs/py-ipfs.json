@@ -1,0 +1,71 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "py-ipfs",
+  "full_name": "ipfs/py-ipfs",
+  "owner": "ipfs",
+  "private": false,
+  "html_url": "https://github.com/ipfs/py-ipfs",
+  "description": "python implementation of ipfs",
+  "fork": false,
+  "url": "https://api.github.com/repos/ipfs/py-ipfs",
+  "languages_url": "https://api.github.com/repos/ipfs/py-ipfs/languages",
+  "created_at": "2015-04-15T21:06:16Z",
+  "updated_at": "2018-07-27T14:09:58Z",
+  "pushed_at": "2018-01-17T21:13:43Z",
+  "homepage": "http://ipfs.github.io/py-ipfs/",
+  "size": 217,
+  "stargazers_count": 281,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "ipfs",
+    "id": 10536621,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwNTM2NjIx",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/10536621?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ipfs",
+    "html_url": "https://github.com/ipfs",
+    "followers_url": "https://api.github.com/users/ipfs/followers",
+    "following_url": "https://api.github.com/users/ipfs/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ipfs/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ipfs/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ipfs/subscriptions",
+    "organizations_url": "https://api.github.com/users/ipfs/orgs",
+    "repos_url": "https://api.github.com/users/ipfs/repos",
+    "events_url": "https://api.github.com/users/ipfs/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ipfs/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "Python": {
+      "bytes": 1783,
+      "color": "#3572A5"
+    }
+  },
+  "contributors": {
+    "Josh-Payne": 1,
+    "sumnerevans": 1,
+    "ralphbean": 1,
+    "ivilata": 1,
+    "mvanveen": 1,
+    "gitter-badger": 1,
+    "sirMackk": 1,
+    "RichardLitt": 2,
+    "candeira": 2,
+    "jbenet": 2,
+    "fredthomsen": 3,
+    "LeoTindall": 4,
+    "bmcorser": 9
+  },
+  "fetched_at": "2018-07-27T17:48:38.221Z"
+}

@@ -1,0 +1,33 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "freebsd-newmoused",
+  "full_name": "jordansissel/freebsd-newmoused",
+  "owner": "jordansissel",
+  "private": false,
+  "html_url": "https://github.com/jordansissel/freebsd-newmoused",
+  "description": "An old effort to improve moused on freebsd. Needs new owner.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jordansissel/freebsd-newmoused",
+  "languages_url": "https://api.github.com/repos/jordansissel/freebsd-newmoused/languages",
+  "created_at": "2011-05-28T11:32:25Z",
+  "updated_at": "2014-06-06T08:41:23Z",
+  "pushed_at": "2011-05-28T11:50:03Z",
+  "homepage": "",
+  "size": 116,
+  "stargazers_count": 1,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "languages": {
+    "C": {
+      "bytes": 17513,
+      "color": "#555555"
+    }
+  },
+  "contributors": {
+    "jordansissel": 38
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

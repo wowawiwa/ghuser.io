@@ -3,6 +3,8 @@
   "repos": {
     "knrt10/static-contact-validatedForm": {
       "full_name": "knrt10/static-contact-validatedForm",
+      "name": "static-contact-validatedForm",
+      "stargazers_count": 11,
       "popularity": 2.0043600754367907,
       "percentage": 100,
       "maturity": 0,
@@ -14,6 +16,8 @@
     },
     "p-society/p-society.github.io": {
       "full_name": "p-society/p-society.github.io",
+      "name": "p-society.github.io",
+      "stargazers_count": 17,
       "popularity": 2.206864721909315,
       "percentage": 61.44578313253012,
       "maturity": 2.636209568212883,
@@ -25,6 +29,8 @@
     },
     "knrt10/swift-simple-calculator": {
       "full_name": "knrt10/swift-simple-calculator",
+      "name": "swift-simple-calculator",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -36,6 +42,8 @@
     },
     "p-society/typeracer-cli": {
       "full_name": "p-society/typeracer-cli",
+      "name": "typeracer-cli",
+      "stargazers_count": 136,
       "popularity": 3.130694408743479,
       "percentage": 77.46478873239437,
       "maturity": 2.4944911357284782,
@@ -47,6 +55,8 @@
     },
     "knrt10/npm-downloads-count-cli": {
       "full_name": "knrt10/npm-downloads-count-cli",
+      "name": "npm-downloads-count-cli",
+      "stargazers_count": 4,
       "popularity": 1.49139952161816,
       "percentage": 100,
       "maturity": 0,
@@ -58,6 +68,8 @@
     },
     "knrt10/cloudinary-cli": {
       "full_name": "knrt10/cloudinary-cli",
+      "name": "cloudinary-cli",
+      "stargazers_count": 10,
       "popularity": 1.9590800514478444,
       "percentage": 100,
       "maturity": 0,
@@ -69,6 +81,8 @@
     },
     "p-society/goals": {
       "full_name": "p-society/goals",
+      "name": "goals",
+      "stargazers_count": 17,
       "popularity": 2.206864721909315,
       "percentage": 40,
       "maturity": 0,
@@ -80,17 +94,21 @@
     },
     "probot/probot": {
       "full_name": "probot/probot",
-      "popularity": 4.473540655292545,
+      "name": "probot",
+      "stargazers_count": 2977,
+      "popularity": 4.473686607197137,
       "percentage": 0.2372479240806643,
       "maturity": 3.90650572874588,
       "total_commits_count": 843,
       "activity": 5,
-      "total_score": 26.371607393758016,
+      "total_score": 26.37204975095402,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "knrt10/probot-repos": {
       "full_name": "knrt10/probot-repos",
+      "name": "probot-repos",
+      "stargazers_count": 7,
       "popularity": 1.7853682828948099,
       "percentage": 100,
       "maturity": 0,
@@ -102,6 +120,8 @@
     },
     "behaviorbot/request-info": {
       "full_name": "behaviorbot/request-info",
+      "name": "request-info",
+      "stargazers_count": 26,
       "popularity": 2.3997126544096057,
       "percentage": 4,
       "maturity": 2.006040535099928,
@@ -113,6 +133,8 @@
     },
     "probot/smee": {
       "full_name": "probot/smee",
+      "name": "smee",
+      "stargazers_count": 35,
       "popularity": 2.532793353021433,
       "percentage": 3.827751196172249,
       "maturity": 3.229878901456264,
@@ -124,6 +146,8 @@
     },
     "octokit/routes": {
       "full_name": "octokit/routes",
+      "name": "routes",
+      "stargazers_count": 23,
       "popularity": 2.3444311854745736,
       "percentage": 1.8315018315018314,
       "maturity": 3.3692778487353228,
@@ -135,6 +159,8 @@
     },
     "wip/app": {
       "full_name": "wip/app",
+      "name": "app",
+      "stargazers_count": 260,
       "popularity": 3.413506486553458,
       "percentage": 0.8849557522123894,
       "maturity": 2.8656513250381606,
@@ -146,6 +172,8 @@
     },
     "probot/reminders": {
       "full_name": "probot/reminders",
+      "name": "reminders",
+      "stargazers_count": 35,
       "popularity": 2.532793353021433,
       "percentage": 0.6896551724137931,
       "maturity": 3.0233373858695978,
@@ -157,6 +185,8 @@
     },
     "probot/settings": {
       "full_name": "probot/settings",
+      "name": "settings",
+      "stargazers_count": 222,
       "popularity": 3.344627813553609,
       "percentage": 0,
       "maturity": 2.91075503612971,
@@ -168,6 +198,8 @@
     },
     "probot/unfurl": {
       "full_name": "probot/unfurl",
+      "name": "unfurl",
+      "stargazers_count": 36,
       "popularity": 2.5453460937604104,
       "percentage": 0,
       "maturity": 0,
@@ -179,6 +211,8 @@
     },
     "knrt10/fcc-Pintrest-Clone": {
       "full_name": "knrt10/fcc-Pintrest-Clone",
+      "name": "fcc-Pintrest-Clone",
+      "stargazers_count": 2,
       "popularity": 1.0414282204429401,
       "percentage": 100,
       "maturity": 0,
@@ -190,6 +224,8 @@
     },
     "knrt10/LeaveMangerAndoirdApp-IIITBBSR": {
       "full_name": "knrt10/LeaveMangerAndoirdApp-IIITBBSR",
+      "name": "LeaveMangerAndoirdApp-IIITBBSR",
+      "stargazers_count": 2,
       "popularity": 1.0414282204429401,
       "percentage": 100,
       "maturity": 0,
@@ -201,6 +237,8 @@
     },
     "knrt10/IssueTracker": {
       "full_name": "knrt10/IssueTracker",
+      "name": "IssueTracker",
+      "stargazers_count": 6,
       "popularity": 1.7076084983408428,
       "percentage": 100,
       "maturity": 0,
@@ -212,6 +250,8 @@
     },
     "knrt10/chat-app-with-form-validation": {
       "full_name": "knrt10/chat-app-with-form-validation",
+      "name": "chat-app-with-form-validation",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -223,6 +263,8 @@
     },
     "knrt10/Practicing-PHP": {
       "full_name": "knrt10/Practicing-PHP",
+      "name": "Practicing-PHP",
+      "stargazers_count": 2,
       "popularity": 1.0414282204429401,
       "percentage": 100,
       "maturity": 0,
@@ -234,6 +276,8 @@
     },
     "knrt10/practice_templates": {
       "full_name": "knrt10/practice_templates",
+      "name": "practice_templates",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -245,17 +289,21 @@
     },
     "canjs/canjs": {
       "full_name": "canjs/canjs",
-      "popularity": 4.219649805597381,
-      "percentage": 0.022729855665416524,
-      "maturity": 4.944195783406066,
-      "total_commits_count": 8799,
+      "name": "canjs",
+      "stargazers_count": 1660,
+      "popularity": 4.219911649620904,
+      "percentage": 0.022719527433829375,
+      "maturity": 4.944394066502584,
+      "total_commits_count": 8803,
       "activity": 5,
-      "total_score": 27.559809547639453,
+      "total_score": 27.560986753671827,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "p-society/slackcontestwatcherbot": {
       "full_name": "p-society/slackcontestwatcherbot",
+      "name": "slackcontestwatcherbot",
+      "stargazers_count": 7,
       "popularity": 1.7853682828948099,
       "percentage": 33.333333333333336,
       "maturity": 0,

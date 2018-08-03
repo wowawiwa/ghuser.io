@@ -1,0 +1,74 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "examples",
+  "full_name": "parcel-bundler/examples",
+  "owner": "parcel-bundler",
+  "private": false,
+  "html_url": "https://github.com/parcel-bundler/examples",
+  "description": "🛠 Parcel examples using various frameworks",
+  "fork": false,
+  "url": "https://api.github.com/repos/parcel-bundler/examples",
+  "languages_url": "https://api.github.com/repos/parcel-bundler/examples/languages",
+  "created_at": "2017-12-11T15:29:06Z",
+  "updated_at": "2018-08-03T02:26:10Z",
+  "pushed_at": "2018-07-13T16:47:41Z",
+  "homepage": null,
+  "size": 50,
+  "stargazers_count": 69,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "parcel-bundler",
+    "id": 32607881,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMyNjA3ODgx",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/32607881?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/parcel-bundler",
+    "html_url": "https://github.com/parcel-bundler",
+    "followers_url": "https://api.github.com/users/parcel-bundler/followers",
+    "following_url": "https://api.github.com/users/parcel-bundler/following{/other_user}",
+    "gists_url": "https://api.github.com/users/parcel-bundler/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/parcel-bundler/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/parcel-bundler/subscriptions",
+    "organizations_url": "https://api.github.com/users/parcel-bundler/orgs",
+    "repos_url": "https://api.github.com/users/parcel-bundler/repos",
+    "events_url": "https://api.github.com/users/parcel-bundler/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/parcel-bundler/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "punkkk": 1,
+    "sw-yx": 1,
+    "ittus": 1,
+    "webtaculars": 1,
+    "yoyoys": 1,
+    "brandon93s": 1,
+    "axetroy": 1,
+    "vinayakkulkarni": 1,
+    "devongovett": 1,
+    "philipodev": 2
+  },
+  "languages": {
+    "CSS": {
+      "bytes": 1565,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 1298,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 692,
+      "color": "#e34c26"
+    },
+    "Vue": {
+      "bytes": 528,
+      "color": "#2c3e50"
+    }
+  },
+  "fetched_at": "2018-08-03T05:56:14.583Z"
+}

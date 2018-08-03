@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "procnanny",
+  "full_name": "jordansissel/procnanny",
+  "owner": "jordansissel",
+  "private": false,
+  "html_url": "https://github.com/jordansissel/procnanny",
+  "description": "Process Nanny. It's like daemontools or supervisord, but fun.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jordansissel/procnanny",
+  "languages_url": "https://api.github.com/repos/jordansissel/procnanny/languages",
+  "created_at": "2011-05-31T08:27:08Z",
+  "updated_at": "2017-11-16T17:14:03Z",
+  "pushed_at": "2011-06-30T05:48:30Z",
+  "homepage": "",
+  "size": 2944,
+  "stargazers_count": 13,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "languages": {
+    "C++": {
+      "bytes": 3668964,
+      "color": "#f34b7d"
+    },
+    "C": {
+      "bytes": 1060562,
+      "color": "#555555"
+    },
+    "JavaScript": {
+      "bytes": 802455,
+      "color": "#f1e05a"
+    },
+    "ActionScript": {
+      "bytes": 797100,
+      "color": "#882B0F"
+    },
+    "Shell": {
+      "bytes": 476560,
+      "color": "#89e051"
+    },
+    "Perl": {
+      "bytes": 64261,
+      "color": "#0298c3"
+    },
+    "CoffeeScript": {
+      "bytes": 18930,
+      "color": "#244776"
+    },
+    "Python": {
+      "bytes": 8666,
+      "color": "#3572A5"
+    },
+    "Assembly": {
+      "bytes": 6668,
+      "color": "#6E4C13"
+    },
+    "D": {
+      "bytes": 3439,
+      "color": "#ba595e"
+    },
+    "Ruby": {
+      "bytes": 2983,
+      "color": "#701516"
+    }
+  },
+  "contributors": {
+    "jordansissel": 70
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

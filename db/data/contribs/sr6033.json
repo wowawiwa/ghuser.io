@@ -3,6 +3,8 @@
   "repos": {
     "sr6033/quine": {
       "full_name": "sr6033/quine",
+      "name": "quine",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -14,17 +16,21 @@
     },
     "matiassingers/awesome-readme": {
       "full_name": "matiassingers/awesome-readme",
-      "popularity": 4.458843069385197,
+      "name": "awesome-readme",
+      "stargazers_count": 2878,
+      "popularity": 4.458994044316587,
       "percentage": 1.36986301369863,
       "maturity": 2.5215590771505747,
       "total_commits_count": 73,
       "activity": 5,
-      "total_score": 24.213687909059583,
+      "total_score": 24.21416771980044,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "sr6033/node-ionic-notifications": {
       "full_name": "sr6033/node-ionic-notifications",
+      "name": "node-ionic-notifications",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -36,6 +42,8 @@
     },
     "sr6033/news_kabada": {
       "full_name": "sr6033/news_kabada",
+      "name": "news_kabada",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -47,6 +55,8 @@
     },
     "p-society/p-society.github.io": {
       "full_name": "p-society/p-society.github.io",
+      "name": "p-society.github.io",
+      "stargazers_count": 17,
       "popularity": 2.206864721909315,
       "percentage": 10.843373493975903,
       "maturity": 2.636209568212883,
@@ -58,6 +68,8 @@
     },
     "sr6033/advaita.io": {
       "full_name": "sr6033/advaita.io",
+      "name": "advaita.io",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -69,6 +81,8 @@
     },
     "django/channels": {
       "full_name": "django/channels",
+      "name": "channels",
+      "stargazers_count": 3164,
       "popularity": 4.500152009577253,
       "percentage": 0.10256410256410256,
       "maturity": 3.9725941902942514,
@@ -80,6 +94,8 @@
     },
     "sr6033/locale.js": {
       "full_name": "sr6033/locale.js",
+      "name": "locale.js",
+      "stargazers_count": 3,
       "popularity": 1.3222565221025262,
       "percentage": 100,
       "maturity": 0,
@@ -91,6 +107,8 @@
     },
     "sr6033/Vision-based-Visual-Surveillance": {
       "full_name": "sr6033/Vision-based-Visual-Surveillance",
+      "name": "Vision-based-Visual-Surveillance",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -102,6 +120,8 @@
     },
     "sr6033/Deep-learning-model-for-stock-price-prediction": {
       "full_name": "sr6033/Deep-learning-model-for-stock-price-prediction",
+      "name": "Deep-learning-model-for-stock-price-prediction",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -113,6 +133,8 @@
     },
     "sr6033/brownian-motion": {
       "full_name": "sr6033/brownian-motion",
+      "name": "brownian-motion",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -124,6 +146,8 @@
     },
     "sr6033/sr6033.github.io": {
       "full_name": "sr6033/sr6033.github.io",
+      "name": "sr6033.github.io",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 92.85714285714286,
       "maturity": 0,
@@ -135,6 +159,8 @@
     },
     "DA1234k/os_research": {
       "full_name": "DA1234k/os_research",
+      "name": "os_research",
+      "stargazers_count": 2,
       "popularity": 1.0414282204429401,
       "percentage": 14.285714285714286,
       "maturity": 0,
@@ -146,6 +172,8 @@
     },
     "sr6033/dataStructure-Algorithms": {
       "full_name": "sr6033/dataStructure-Algorithms",
+      "name": "dataStructure-Algorithms",
+      "stargazers_count": 5,
       "popularity": 1.6128219920330789,
       "percentage": 13.20754716981132,
       "maturity": 2.118994386183839,
@@ -157,6 +185,8 @@
     },
     "sr6033/cryptography": {
       "full_name": "sr6033/cryptography",
+      "name": "cryptography",
+      "stargazers_count": 3,
       "popularity": 1.3222565221025262,
       "percentage": 31.818181818181817,
       "maturity": 0,
@@ -168,6 +198,8 @@
     },
     "sr6033/lterm": {
       "full_name": "sr6033/lterm",
+      "name": "lterm",
+      "stargazers_count": 16,
       "popularity": 2.179015777092762,
       "percentage": 59.701492537313435,
       "maturity": 2.4346992151481284,
@@ -179,6 +211,8 @@
     },
     "NJACKWinterOfCode/lterm": {
       "full_name": "NJACKWinterOfCode/lterm",
+      "name": "lterm",
+      "stargazers_count": 3,
       "popularity": 1.3222565221025262,
       "percentage": 74.35897435897436,
       "maturity": 0,
@@ -190,6 +224,8 @@
     },
     "p-society/winter-of-code-2017": {
       "full_name": "p-society/winter-of-code-2017",
+      "name": "winter-of-code-2017",
+      "stargazers_count": 9,
       "popularity": 1.9085236249774054,
       "percentage": 10,
       "maturity": 0,
@@ -201,6 +237,8 @@
     },
     "p-society/TheDevGuide": {
       "full_name": "p-society/TheDevGuide",
+      "name": "TheDevGuide",
+      "stargazers_count": 3,
       "popularity": 1.3222565221025262,
       "percentage": 71.42857142857143,
       "maturity": 0,
@@ -212,6 +250,8 @@
     },
     "sr6033/text-mining": {
       "full_name": "sr6033/text-mining",
+      "name": "text-mining",
+      "stargazers_count": 2,
       "popularity": 1.0414282204429401,
       "percentage": 100,
       "maturity": 0,
@@ -223,6 +263,8 @@
     },
     "p-society/intro-to-open-source-2017": {
       "full_name": "p-society/intro-to-open-source-2017",
+      "name": "intro-to-open-source-2017",
+      "stargazers_count": 10,
       "popularity": 1.9590800514478444,
       "percentage": 28.571428571428573,
       "maturity": 0,
@@ -234,6 +276,8 @@
     },
     "inncaps/CodingHackathons": {
       "full_name": "inncaps/CodingHackathons",
+      "name": "CodingHackathons",
+      "stargazers_count": 5,
       "popularity": 1.6128219920330789,
       "percentage": 6.349206349206349,
       "maturity": 2.3653407969119673,
@@ -245,6 +289,8 @@
     },
     "WhitestormJS/whs.js": {
       "full_name": "WhitestormJS/whs.js",
+      "name": "whs.js",
+      "stargazers_count": 4886,
       "popularity": 4.68891254618505,
       "percentage": 0.1497005988023952,
       "maturity": 4.29489982602514,
@@ -256,6 +302,8 @@
     },
     "sr6033/CodingHackathons": {
       "full_name": "sr6033/CodingHackathons",
+      "name": "CodingHackathons",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 15.384615384615385,
       "maturity": 0,
@@ -267,6 +315,8 @@
     },
     "sr6033/cputemp": {
       "full_name": "sr6033/cputemp",
+      "name": "cputemp",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -278,6 +328,8 @@
     },
     "sr6033/mhrd_grantScheme": {
       "full_name": "sr6033/mhrd_grantScheme",
+      "name": "mhrd_grantScheme",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -289,6 +341,8 @@
     },
     "sr6033/miniflix": {
       "full_name": "sr6033/miniflix",
+      "name": "miniflix",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -300,6 +354,8 @@
     },
     "sr6033/goPlay": {
       "full_name": "sr6033/goPlay",
+      "name": "goPlay",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -311,6 +367,8 @@
     },
     "sr6033/node-web-scrape": {
       "full_name": "sr6033/node-web-scrape",
+      "name": "node-web-scrape",
+      "stargazers_count": 2,
       "popularity": 1.0414282204429401,
       "percentage": 100,
       "maturity": 0,
@@ -322,6 +380,8 @@
     },
     "sr6033/tic-tac-toe": {
       "full_name": "sr6033/tic-tac-toe",
+      "name": "tic-tac-toe",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -333,6 +393,8 @@
     },
     "sr6033/challenges": {
       "full_name": "sr6033/challenges",
+      "name": "challenges",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 0.8547008547008547,
       "maturity": 2.8887884491162428,

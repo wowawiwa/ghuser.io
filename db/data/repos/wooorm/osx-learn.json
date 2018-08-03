@@ -1,0 +1,40 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "osx-learn",
+  "full_name": "wooorm/osx-learn",
+  "owner": "wooorm",
+  "private": false,
+  "html_url": "https://github.com/wooorm/osx-learn",
+  "description": "Add words to the OS X Spell Check dictionary",
+  "fork": false,
+  "url": "https://api.github.com/repos/wooorm/osx-learn",
+  "languages_url": "https://api.github.com/repos/wooorm/osx-learn/languages",
+  "created_at": "2015-08-08T13:11:00Z",
+  "updated_at": "2018-04-30T22:18:21Z",
+  "pushed_at": "2018-03-08T16:12:46Z",
+  "homepage": null,
+  "size": 8,
+  "stargazers_count": 11,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "languages": {
+    "Shell": {
+      "bytes": 1086,
+      "color": "#89e051"
+    }
+  },
+  "contributors": {
+    "RichardLitt": 3,
+    "wooorm": 10
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

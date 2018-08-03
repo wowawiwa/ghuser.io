@@ -1,0 +1,134 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "docs",
+  "full_name": "elastic/docs",
+  "owner": "elastic",
+  "private": false,
+  "html_url": "https://github.com/elastic/docs",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/elastic/docs",
+  "languages_url": "https://api.github.com/repos/elastic/docs/languages",
+  "created_at": "2015-02-25T16:26:02Z",
+  "updated_at": "2018-08-03T13:32:55Z",
+  "pushed_at": "2018-08-03T13:32:51Z",
+  "homepage": null,
+  "size": 697518,
+  "stargazers_count": 110,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "elastic",
+    "id": 6764390,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjY3NjQzOTA=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/6764390?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/elastic",
+    "html_url": "https://github.com/elastic",
+    "followers_url": "https://api.github.com/users/elastic/followers",
+    "following_url": "https://api.github.com/users/elastic/following{/other_user}",
+    "gists_url": "https://api.github.com/users/elastic/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/elastic/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/elastic/subscriptions",
+    "organizations_url": "https://api.github.com/users/elastic/orgs",
+    "repos_url": "https://api.github.com/users/elastic/repos",
+    "events_url": "https://api.github.com/users/elastic/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/elastic/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "HTML": {
+      "bytes": 2646067166,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 12246620,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 11813783,
+      "color": "#563d7c"
+    },
+    "XSLT": {
+      "bytes": 8186523,
+      "color": "#EB8CEB"
+    },
+    "Perl": {
+      "bytes": 489760,
+      "color": "#0298c3"
+    },
+    "Python": {
+      "bytes": 350709,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 47531,
+      "color": "#89e051"
+    },
+    "Roff": {
+      "bytes": 23668,
+      "color": "#ecdebe"
+    },
+    "Perl 6": {
+      "bytes": 21640,
+      "color": "#0000fb"
+    },
+    "Vim script": {
+      "bytes": 12047,
+      "color": "#199f4b"
+    },
+    "Makefile": {
+      "bytes": 8974,
+      "color": "#427819"
+    },
+    "SystemVerilog": {
+      "bytes": 5465,
+      "color": "#DAE1C2"
+    },
+    "NewLisp": {
+      "bytes": 4473,
+      "color": "#87AED7"
+    },
+    "Ruby": {
+      "bytes": 2415,
+      "color": "#701516"
+    },
+    "TeX": {
+      "bytes": 626,
+      "color": "#3D6117"
+    },
+    "M4": {
+      "bytes": 107,
+      "color": "#ccc"
+    }
+  },
+  "contributors": {
+    "lcawl": 50,
+    "debadair": 30,
+    "nrichers": 11,
+    "dedemorton": 6,
+    "axw": 3,
+    "nik9000": 4,
+    "tylersmalley": 2,
+    "watson": 5,
+    "javanna": 3,
+    "untergeek": 2,
+    "clintongormley": 3,
+    "jpountz": 1,
+    "cbuescher": 1,
+    "felixbarny": 2,
+    "martijnvg": 1,
+    "roncohen": 1,
+    "russcam": 1,
+    "spalger": 1,
+    "simitt": 1,
+    "Sue-Gallagher": 2,
+    "jalvz": 1,
+    "jahtalab": 1
+  },
+  "fetched_at": "2018-08-03T13:45:28.336Z"
+}

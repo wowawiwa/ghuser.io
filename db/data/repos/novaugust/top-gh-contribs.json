@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "top-gh-contribs",
+  "full_name": "novaugust/top-gh-contribs",
+  "owner": "novaugust",
+  "private": false,
+  "html_url": "https://github.com/novaugust/top-gh-contribs",
+  "description": "A simple tool for grabbing the top contributors for a repo from github, with some convenient options.",
+  "fork": false,
+  "url": "https://api.github.com/repos/novaugust/top-gh-contribs",
+  "languages_url": "https://api.github.com/repos/novaugust/top-gh-contribs/languages",
+  "created_at": "2014-08-28T03:50:00Z",
+  "updated_at": "2017-11-01T08:00:34Z",
+  "pushed_at": "2016-05-27T15:35:53Z",
+  "homepage": null,
+  "size": 51,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "languages": {
+    "JavaScript": {
+      "bytes": 14030,
+      "color": "#f1e05a"
+    }
+  },
+  "contributors": {
+    "RichardLitt": 1,
+    "cobbspur": 5,
+    "ErisDS": 11,
+    "novaugust": 11,
+    "jaswilli": 14
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

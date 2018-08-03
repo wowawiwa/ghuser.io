@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ruby-cabin",
+  "full_name": "jordansissel/ruby-cabin",
+  "owner": "jordansissel",
+  "private": false,
+  "html_url": "https://github.com/jordansissel/ruby-cabin",
+  "description": "Structured+contextual logging experiments in Ruby",
+  "fork": false,
+  "url": "https://api.github.com/repos/jordansissel/ruby-cabin",
+  "languages_url": "https://api.github.com/repos/jordansissel/ruby-cabin/languages",
+  "created_at": "2011-10-10T05:12:03Z",
+  "updated_at": "2018-07-27T10:16:36Z",
+  "pushed_at": "2016-09-02T20:01:05Z",
+  "homepage": "",
+  "size": 167,
+  "stargazers_count": 148,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "languages": {
+    "Ruby": {
+      "bytes": 51801,
+      "color": "#701516"
+    },
+    "Makefile": {
+      "bytes": 969,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 190,
+      "color": "#89e051"
+    }
+  },
+  "contributors": {
+    "driskell": 1,
+    "sanemat": 1,
+    "jlambert121": 1,
+    "gsandie": 1,
+    "grantr": 5,
+    "jsvd": 7,
+    "portertech": 9,
+    "jordansissel": 101
+  },
+  "fetched_at": "2018-07-27T17:48:38.221Z"
+}

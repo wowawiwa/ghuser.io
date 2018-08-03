@@ -3,17 +3,21 @@
   "repos": {
     "skywang329/Empyrean-Eyes": {
       "full_name": "skywang329/Empyrean-Eyes",
-      "popularity": 2.045361715305606,
+      "name": "Empyrean-Eyes",
+      "stargazers_count": 13,
+      "popularity": 2.0828241359374196,
       "percentage": 100,
       "maturity": 0,
       "total_commits_count": 18,
       "activity": 5,
-      "total_score": 37.7257874448897,
+      "total_score": 38.32518617499871,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "skywang329/Spirit-Time": {
       "full_name": "skywang329/Spirit-Time",
+      "name": "Spirit-Time",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -25,6 +29,8 @@
     },
     "skywang329/Reddit-Personality": {
       "full_name": "skywang329/Reddit-Personality",
+      "name": "Reddit-Personality",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,

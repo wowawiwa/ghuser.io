@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "fastbreak",
+  "full_name": "wilburhimself/fastbreak",
+  "owner": "wilburhimself",
+  "private": false,
+  "html_url": "https://github.com/wilburhimself/fastbreak",
+  "description": "Fastbreak PHP Framework",
+  "fork": false,
+  "url": "https://api.github.com/repos/wilburhimself/fastbreak",
+  "languages_url": "https://api.github.com/repos/wilburhimself/fastbreak/languages",
+  "created_at": "2010-10-03T17:24:53Z",
+  "updated_at": "2013-11-03T15:10:11Z",
+  "pushed_at": "2013-05-23T04:35:33Z",
+  "homepage": "fastbreak.retrorock.info",
+  "size": 216,
+  "stargazers_count": 1,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "wilburhimself": 16
+  },
+  "languages": {
+    "PHP": {
+      "bytes": 40325,
+      "color": "#4F5D95"
+    },
+    "JavaScript": {
+      "bytes": 6688,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

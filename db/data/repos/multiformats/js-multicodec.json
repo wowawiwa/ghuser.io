@@ -1,0 +1,75 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "js-multicodec",
+  "full_name": "multiformats/js-multicodec",
+  "owner": "multiformats",
+  "private": false,
+  "html_url": "https://github.com/multiformats/js-multicodec",
+  "description": "JavaScript implementation of the multicodec specification",
+  "fork": false,
+  "url": "https://api.github.com/repos/multiformats/js-multicodec",
+  "languages_url": "https://api.github.com/repos/multiformats/js-multicodec/languages",
+  "created_at": "2016-09-01T19:58:46Z",
+  "updated_at": "2018-07-21T22:07:50Z",
+  "pushed_at": "2018-07-13T19:12:28Z",
+  "homepage": "",
+  "size": 66,
+  "stargazers_count": 5,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "multiformats",
+    "id": 20296538,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIwMjk2NTM4",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/20296538?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/multiformats",
+    "html_url": "https://github.com/multiformats",
+    "followers_url": "https://api.github.com/users/multiformats/followers",
+    "following_url": "https://api.github.com/users/multiformats/following{/other_user}",
+    "gists_url": "https://api.github.com/users/multiformats/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/multiformats/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/multiformats/subscriptions",
+    "organizations_url": "https://api.github.com/users/multiformats/orgs",
+    "repos_url": "https://api.github.com/users/multiformats/repos",
+    "events_url": "https://api.github.com/users/multiformats/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/multiformats/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 26810,
+      "color": "#f1e05a"
+    },
+    "Awk": {
+      "bytes": 507,
+      "color": "#ccc"
+    },
+    "Groovy": {
+      "bytes": 190,
+      "color": "#e69f56"
+    }
+  },
+  "contributors": {
+    "VictorBjelkholm": 1,
+    "magik6k": 1,
+    "dignifiedquire": 2,
+    "wanderer": 2,
+    "RichardLitt": 3,
+    "hacdias": 6,
+    "kumavis": 4,
+    "vmx": 5,
+    "diasdavid": 58
+  },
+  "fetched_at": "2018-07-22T09:08:36.263Z"
+}

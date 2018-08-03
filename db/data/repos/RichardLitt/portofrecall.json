@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "portofrecall",
+  "full_name": "RichardLitt/portofrecall",
+  "owner": "RichardLitt",
+  "private": false,
+  "html_url": "https://github.com/RichardLitt/portofrecall",
+  "description": "A Meteor app to help you remember what you talked about with whom. Made at the 2014 Meteor Hackathon.",
+  "fork": false,
+  "url": "https://api.github.com/repos/RichardLitt/portofrecall",
+  "languages_url": "https://api.github.com/repos/RichardLitt/portofrecall/languages",
+  "created_at": "2014-07-26T22:11:56Z",
+  "updated_at": "2015-07-23T13:40:07Z",
+  "pushed_at": "2015-07-23T13:52:50Z",
+  "homepage": null,
+  "size": 3832,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "languages": {
+    "JavaScript": {
+      "bytes": 10381,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 8432,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 7391,
+      "color": "#563d7c"
+    }
+  },
+  "contributors": {
+    "dstavis": 5,
+    "RichardLitt": 17
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

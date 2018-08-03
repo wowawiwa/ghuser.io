@@ -1,0 +1,92 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "js-ipfsd-ctl",
+  "full_name": "ipfs/js-ipfsd-ctl",
+  "owner": "ipfs",
+  "private": false,
+  "html_url": "https://github.com/ipfs/js-ipfsd-ctl",
+  "description": "Control an IPFS daemon (go-ipfs or js-ipfs) using JavaScript!",
+  "fork": false,
+  "url": "https://api.github.com/repos/ipfs/js-ipfsd-ctl",
+  "languages_url": "https://api.github.com/repos/ipfs/js-ipfsd-ctl/languages",
+  "created_at": "2015-04-25T04:40:11Z",
+  "updated_at": "2018-08-01T10:26:21Z",
+  "pushed_at": "2018-07-31T15:07:11Z",
+  "homepage": "",
+  "size": 370,
+  "stargazers_count": 71,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "ipfs",
+    "id": 10536621,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwNTM2NjIx",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/10536621?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ipfs",
+    "html_url": "https://github.com/ipfs",
+    "followers_url": "https://api.github.com/users/ipfs/followers",
+    "following_url": "https://api.github.com/users/ipfs/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ipfs/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ipfs/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ipfs/subscriptions",
+    "organizations_url": "https://api.github.com/users/ipfs/orgs",
+    "repos_url": "https://api.github.com/users/ipfs/repos",
+    "events_url": "https://api.github.com/users/ipfs/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ipfs/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 111155,
+      "color": "#f1e05a"
+    },
+    "Groovy": {
+      "bytes": 190,
+      "color": "#e69f56"
+    },
+    "Shell": {
+      "bytes": 96,
+      "color": "#89e051"
+    }
+  },
+  "contributors": {
+    "jacobheun": 1,
+    "JonKrone": 1,
+    "VictorBjelkholm": 1,
+    "scott113341": 1,
+    "RichardLitt": 1,
+    "harlantwood": 1,
+    "hugomrdias": 2,
+    "alanshaw": 2,
+    "vmx": 2,
+    "edsilv": 2,
+    "FrauBienenstich": 2,
+    "ralphtheninja": 2,
+    "wraithgar": 3,
+    "thisconnect": 4,
+    "bcomnes": 4,
+    "noffle": 4,
+    "achingbrain": 6,
+    "haadcode": 7,
+    "richardschneider": 9,
+    "greenkeeperio-bot": 10,
+    "vasco-santos": 12,
+    "dryajov": 13,
+    "jbenet": 17,
+    "krl": 20,
+    "dignifiedquire": 22,
+    "diasdavid": 142
+  },
+  "fetched_at": "2018-08-01T10:42:25.848Z"
+}

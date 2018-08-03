@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "reading-list",
+  "full_name": "ipfs/reading-list",
+  "owner": "ipfs",
+  "private": false,
+  "html_url": "https://github.com/ipfs/reading-list",
+  "description": "Papers to read to understand IPFS",
+  "fork": false,
+  "url": "https://api.github.com/repos/ipfs/reading-list",
+  "languages_url": "https://api.github.com/repos/ipfs/reading-list/languages",
+  "created_at": "2016-07-27T20:43:25Z",
+  "updated_at": "2018-07-31T20:32:55Z",
+  "pushed_at": "2018-07-31T20:32:54Z",
+  "homepage": null,
+  "size": 10,
+  "stargazers_count": 181,
+  "language": "TeX",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "cc0-1.0",
+    "name": "Creative Commons Zero v1.0 Universal",
+    "spdx_id": "CC0-1.0",
+    "url": "https://api.github.com/licenses/cc0-1.0",
+    "node_id": "MDc6TGljZW5zZTY="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "ipfs",
+    "id": 10536621,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwNTM2NjIx",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/10536621?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ipfs",
+    "html_url": "https://github.com/ipfs",
+    "followers_url": "https://api.github.com/users/ipfs/followers",
+    "following_url": "https://api.github.com/users/ipfs/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ipfs/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ipfs/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ipfs/subscriptions",
+    "organizations_url": "https://api.github.com/users/ipfs/orgs",
+    "repos_url": "https://api.github.com/users/ipfs/repos",
+    "events_url": "https://api.github.com/users/ipfs/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ipfs/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "TeX": {
+      "bytes": 273,
+      "color": "#3D6117"
+    }
+  },
+  "contributors": {
+    "flyingzumwalt": 1,
+    "RichardLitt": 5,
+    "germeuser": 1
+  },
+  "fetched_at": "2018-08-01T10:42:25.848Z"
+}

@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "node-toobusy",
+  "full_name": "lloyd/node-toobusy",
+  "owner": "lloyd",
+  "private": false,
+  "html_url": "https://github.com/lloyd/node-toobusy",
+  "description": "Build Node.JS servers that don't fall over.",
+  "fork": false,
+  "url": "https://api.github.com/repos/lloyd/node-toobusy",
+  "languages_url": "https://api.github.com/repos/lloyd/node-toobusy/languages",
+  "created_at": "2012-11-16T16:28:59Z",
+  "updated_at": "2018-08-02T04:42:52Z",
+  "pushed_at": "2017-03-14T23:35:32Z",
+  "homepage": "",
+  "size": 375,
+  "stargazers_count": 1248,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "languages": {
+    "JavaScript": {
+      "bytes": 5607,
+      "color": "#f1e05a"
+    },
+    "C++": {
+      "bytes": 3171,
+      "color": "#f34b7d"
+    },
+    "Python": {
+      "bytes": 149,
+      "color": "#3572A5"
+    }
+  },
+  "contributors": {
+    "speier": 1,
+    "waldyrious": 1,
+    "davglass": 1,
+    "vendethiel": 2,
+    "jacobmarble": 2,
+    "lloyd": 42
+  },
+  "fetched_at": "2018-08-02T09:08:18.533Z"
+}

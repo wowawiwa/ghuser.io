@@ -1,0 +1,62 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "osm-p2p-db",
+  "full_name": "digidem/osm-p2p-db",
+  "owner": "digidem",
+  "private": false,
+  "html_url": "https://github.com/digidem/osm-p2p-db",
+  "description": "Peer-to-peer database for OpenStreetMap data",
+  "fork": false,
+  "url": "https://api.github.com/repos/digidem/osm-p2p-db",
+  "languages_url": "https://api.github.com/repos/digidem/osm-p2p-db/languages",
+  "created_at": "2015-12-24T05:34:34Z",
+  "updated_at": "2018-07-31T02:55:07Z",
+  "pushed_at": "2018-03-06T18:55:03Z",
+  "homepage": "",
+  "size": 218,
+  "stargazers_count": 178,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-2-clause",
+    "name": "BSD 2-Clause \"Simplified\" License",
+    "spdx_id": "BSD-2-Clause",
+    "url": "https://api.github.com/licenses/bsd-2-clause",
+    "node_id": "MDc6TGljZW5zZTQ="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "digidem",
+    "id": 405221,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQwNTIyMQ==",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/405221?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/digidem",
+    "html_url": "https://github.com/digidem",
+    "followers_url": "https://api.github.com/users/digidem/followers",
+    "following_url": "https://api.github.com/users/digidem/following{/other_user}",
+    "gists_url": "https://api.github.com/users/digidem/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/digidem/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/digidem/subscriptions",
+    "organizations_url": "https://api.github.com/users/digidem/orgs",
+    "repos_url": "https://api.github.com/users/digidem/repos",
+    "events_url": "https://api.github.com/users/digidem/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/digidem/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 106981,
+      "color": "#f1e05a"
+    }
+  },
+  "contributors": {
+    "lpww": 1,
+    "gmaclennan": 15,
+    "noffle": 45,
+    "substack": 124
+  },
+  "fetched_at": "2018-07-31T05:33:58.235Z"
+}

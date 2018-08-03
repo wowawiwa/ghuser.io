@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "is-github-user-or-org",
+  "full_name": "RichardLitt/is-github-user-or-org",
+  "owner": "RichardLitt",
+  "private": false,
+  "html_url": "https://github.com/RichardLitt/is-github-user-or-org",
+  "description": "Determines whether a GitHub profile is a User or an Organization",
+  "fork": false,
+  "url": "https://api.github.com/repos/RichardLitt/is-github-user-or-org",
+  "languages_url": "https://api.github.com/repos/RichardLitt/is-github-user-or-org/languages",
+  "created_at": "2017-03-07T19:16:00Z",
+  "updated_at": "2017-09-14T15:45:54Z",
+  "pushed_at": "2017-09-13T17:33:21Z",
+  "homepage": "",
+  "size": 50,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "languages": {
+    "JavaScript": {
+      "bytes": 3145,
+      "color": "#f1e05a"
+    }
+  },
+  "contributors": {
+    "RichardLitt": 25
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

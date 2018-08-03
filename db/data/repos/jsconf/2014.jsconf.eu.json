@@ -1,0 +1,88 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "2014.jsconf.eu",
+  "full_name": "jsconf/2014.jsconf.eu",
+  "owner": "jsconf",
+  "private": false,
+  "html_url": "https://github.com/jsconf/2014.jsconf.eu",
+  "description": "Leaking future secrets",
+  "fork": false,
+  "url": "https://api.github.com/repos/jsconf/2014.jsconf.eu",
+  "languages_url": "https://api.github.com/repos/jsconf/2014.jsconf.eu/languages",
+  "created_at": "2014-04-25T14:51:24Z",
+  "updated_at": "2018-05-24T06:46:23Z",
+  "pushed_at": "2018-05-24T06:46:21Z",
+  "homepage": null,
+  "size": 51189,
+  "stargazers_count": 19,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "gh-pages",
+  "organization": {
+    "login": "jsconf",
+    "id": 1778284,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE3NzgyODQ=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/1778284?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/jsconf",
+    "html_url": "https://github.com/jsconf",
+    "followers_url": "https://api.github.com/users/jsconf/followers",
+    "following_url": "https://api.github.com/users/jsconf/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jsconf/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/jsconf/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jsconf/subscriptions",
+    "organizations_url": "https://api.github.com/users/jsconf/orgs",
+    "repos_url": "https://api.github.com/users/jsconf/repos",
+    "events_url": "https://api.github.com/users/jsconf/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/jsconf/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "CSS": {
+      "bytes": 22154,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 13627,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 1560,
+      "color": "#f1e05a"
+    },
+    "Ruby": {
+      "bytes": 915,
+      "color": "#701516"
+    },
+    "Makefile": {
+      "bytes": 191,
+      "color": "#427819"
+    }
+  },
+  "contributors": {
+    "DamonHD": 1,
+    "MichaelFoss": 1,
+    "webinista": 1,
+    "RichardLitt": 1,
+    "adregan": 1,
+    "dbarnett": 1,
+    "lloydwatkin": 1,
+    "ipeychev": 1,
+    "wazaraki": 1,
+    "eiriklv": 1,
+    "maxfell": 1,
+    "rmehner": 1,
+    "hblank": 2,
+    "SamHasler": 2,
+    "Kriesse": 2,
+    "addyosmani": 6,
+    "billgathen": 23,
+    "janl": 24,
+    "theophani": 46,
+    "cramforce": 132
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

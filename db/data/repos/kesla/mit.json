@@ -1,0 +1,40 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mit",
+  "full_name": "kesla/mit",
+  "owner": "kesla",
+  "private": false,
+  "html_url": "https://github.com/kesla/mit",
+  "description": "node.js-module to create mit-licences",
+  "fork": false,
+  "url": "https://api.github.com/repos/kesla/mit",
+  "languages_url": "https://api.github.com/repos/kesla/mit/languages",
+  "created_at": "2013-05-12T15:20:50Z",
+  "updated_at": "2017-09-21T21:22:56Z",
+  "pushed_at": "2017-09-07T00:43:33Z",
+  "homepage": null,
+  "size": 6,
+  "stargazers_count": 5,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "languages": {
+    "JavaScript": {
+      "bytes": 655,
+      "color": "#f1e05a"
+    }
+  },
+  "contributors": {
+    "RichardLitt": 1,
+    "kesla": 12
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

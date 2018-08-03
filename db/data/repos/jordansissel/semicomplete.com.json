@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "semicomplete.com",
+  "full_name": "jordansissel/semicomplete.com",
+  "owner": "jordansissel",
+  "private": false,
+  "html_url": "https://github.com/jordansissel/semicomplete.com",
+  "description": "semicomplete.com projects",
+  "fork": false,
+  "url": "https://api.github.com/repos/jordansissel/semicomplete.com",
+  "languages_url": "https://api.github.com/repos/jordansissel/semicomplete.com/languages",
+  "created_at": "2009-12-07T08:04:19Z",
+  "updated_at": "2018-04-26T22:35:42Z",
+  "pushed_at": "2018-05-11T19:50:30Z",
+  "homepage": "http://www.semicomplete.com/",
+  "size": 3893,
+  "stargazers_count": 2,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "languages": {
+    "HTML": {
+      "bytes": 1316432,
+      "color": "#e34c26"
+    },
+    "Ruby": {
+      "bytes": 2378,
+      "color": "#701516"
+    },
+    "Makefile": {
+      "bytes": 722,
+      "color": "#427819"
+    }
+  },
+  "contributors": {
+    "jordansissel": 31
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

@@ -3,6 +3,8 @@
   "repos": {
     "xingshaocheng/architect-awesome": {
       "full_name": "xingshaocheng/architect-awesome",
+      "name": "architect-awesome",
+      "stargazers_count": 22906,
       "popularity": 5,
       "percentage": 0.5181347150259067,
       "maturity": 3.1867103774631103,
@@ -14,6 +16,8 @@
     },
     "tianshanghong/awesome-anki": {
       "full_name": "tianshanghong/awesome-anki",
+      "name": "awesome-anki",
+      "stargazers_count": 34,
       "popularity": 2.5198669643416824,
       "percentage": 54.166666666666664,
       "maturity": 0,
@@ -25,17 +29,21 @@
     },
     "mtianyan/movie_project": {
       "full_name": "mtianyan/movie_project",
-      "popularity": 2.8639564121406873,
+      "name": "movie_project",
+      "stargazers_count": 73,
+      "popularity": 2.8579742991606407,
       "percentage": 3.0303030303030303,
       "maturity": 0,
       "total_commits_count": 33,
-      "activity": 1.7940344644922313,
-      "total_score": 11.514128954181837,
+      "activity": 1.7658888273402775,
+      "total_score": 11.465680388127907,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "tianshanghong/leetcode-playground": {
       "full_name": "tianshanghong/leetcode-playground",
+      "name": "leetcode-playground",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,

@@ -1,0 +1,69 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "logstash-devutils",
+  "full_name": "elastic/logstash-devutils",
+  "owner": "elastic",
+  "private": false,
+  "html_url": "https://github.com/elastic/logstash-devutils",
+  "description": "An assortment of tooling/libraries to make Logstash core and plugin development and releasing a bit easier.",
+  "fork": false,
+  "url": "https://api.github.com/repos/elastic/logstash-devutils",
+  "languages_url": "https://api.github.com/repos/elastic/logstash-devutils/languages",
+  "created_at": "2014-11-14T23:14:09Z",
+  "updated_at": "2017-10-29T17:59:53Z",
+  "pushed_at": "2017-11-03T15:43:54Z",
+  "homepage": null,
+  "size": 64,
+  "stargazers_count": 14,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "elastic",
+    "id": 6764390,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjY3NjQzOTA=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/6764390?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/elastic",
+    "html_url": "https://github.com/elastic",
+    "followers_url": "https://api.github.com/users/elastic/followers",
+    "following_url": "https://api.github.com/users/elastic/following{/other_user}",
+    "gists_url": "https://api.github.com/users/elastic/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/elastic/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/elastic/subscriptions",
+    "organizations_url": "https://api.github.com/users/elastic/orgs",
+    "repos_url": "https://api.github.com/users/elastic/repos",
+    "events_url": "https://api.github.com/users/elastic/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/elastic/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "Ruby": {
+      "bytes": 14536,
+      "color": "#701516"
+    }
+  },
+  "contributors": {
+    "talevy": 1,
+    "suyograo": 1,
+    "original-brownbear": 2,
+    "andrewvc": 2,
+    "guyboertje": 2,
+    "untergeek": 2,
+    "jakelandis": 3,
+    "jordansissel": 9,
+    "jsvd": 10,
+    "colinsurprenant": 17,
+    "ph": 17
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

@@ -1,0 +1,69 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "react-native-copilot",
+  "full_name": "okgrow/react-native-copilot",
+  "owner": "okgrow",
+  "private": false,
+  "html_url": "https://github.com/okgrow/react-native-copilot",
+  "description": "Step-by-step walkthrough for your react native app",
+  "fork": false,
+  "url": "https://api.github.com/repos/okgrow/react-native-copilot",
+  "languages_url": "https://api.github.com/repos/okgrow/react-native-copilot/languages",
+  "created_at": "2017-10-06T17:32:03Z",
+  "updated_at": "2018-08-03T14:04:20Z",
+  "pushed_at": "2018-08-03T14:04:18Z",
+  "homepage": "",
+  "size": 283,
+  "stargazers_count": 417,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "okgrow",
+    "id": 1377176,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzNzcxNzY=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/1377176?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/okgrow",
+    "html_url": "https://github.com/okgrow",
+    "followers_url": "https://api.github.com/users/okgrow/followers",
+    "following_url": "https://api.github.com/users/okgrow/following{/other_user}",
+    "gists_url": "https://api.github.com/users/okgrow/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/okgrow/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/okgrow/subscriptions",
+    "organizations_url": "https://api.github.com/users/okgrow/orgs",
+    "repos_url": "https://api.github.com/users/okgrow/repos",
+    "events_url": "https://api.github.com/users/okgrow/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/okgrow/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 44522,
+      "color": "#f1e05a"
+    }
+  },
+  "contributors": {
+    "jzabala": 1,
+    "yushimatenjin": 1,
+    "cfnelson": 1,
+    "xavczen": 1,
+    "RichardLitt": 1,
+    "prayuditb": 2,
+    "danielang": 3,
+    "arrygoo": 4,
+    "mohebifar": 53,
+    "naffiq": 2,
+    "klapperkopp": 1
+  },
+  "fetched_at": "2018-08-03T14:13:19.969Z"
+}

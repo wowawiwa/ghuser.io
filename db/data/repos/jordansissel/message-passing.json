@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "message-passing",
+  "full_name": "jordansissel/message-passing",
+  "owner": "jordansissel",
+  "private": false,
+  "html_url": "https://github.com/jordansissel/message-passing",
+  "description": "experiments in message passing",
+  "fork": false,
+  "url": "https://api.github.com/repos/jordansissel/message-passing",
+  "languages_url": "https://api.github.com/repos/jordansissel/message-passing/languages",
+  "created_at": "2012-06-01T05:23:45Z",
+  "updated_at": "2014-04-18T18:11:23Z",
+  "pushed_at": "2012-07-15T01:15:56Z",
+  "homepage": null,
+  "size": 104,
+  "stargazers_count": 2,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "languages": {
+    "Ruby": {
+      "bytes": 2105,
+      "color": "#701516"
+    },
+    "C": {
+      "bytes": 1920,
+      "color": "#555555"
+    },
+    "Go": {
+      "bytes": 459,
+      "color": "#375eab"
+    }
+  },
+  "contributors": {
+    "fetep": 2,
+    "jordansissel": 8
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

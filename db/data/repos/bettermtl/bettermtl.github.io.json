@@ -1,0 +1,81 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "bettermtl.github.io",
+  "full_name": "bettermtl/bettermtl.github.io",
+  "owner": "bettermtl",
+  "private": false,
+  "html_url": "https://github.com/bettermtl/bettermtl.github.io",
+  "description": "Community-sourced crowdsourced (wiki) information gatherer, factchecker, inviter, connector. Who, where, when, which interests.",
+  "fork": true,
+  "url": "https://api.github.com/repos/bettermtl/bettermtl.github.io",
+  "languages_url": "https://api.github.com/repos/bettermtl/bettermtl.github.io/languages",
+  "created_at": "2016-03-21T13:42:20Z",
+  "updated_at": "2016-12-03T22:28:24Z",
+  "pushed_at": "2017-04-10T15:56:09Z",
+  "homepage": "http://bettermtl.com",
+  "size": 4483,
+  "stargazers_count": 8,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "bettermtl",
+    "id": 17984466,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE3OTg0NDY2",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/17984466?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/bettermtl",
+    "html_url": "https://github.com/bettermtl",
+    "followers_url": "https://api.github.com/users/bettermtl/followers",
+    "following_url": "https://api.github.com/users/bettermtl/following{/other_user}",
+    "gists_url": "https://api.github.com/users/bettermtl/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/bettermtl/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/bettermtl/subscriptions",
+    "organizations_url": "https://api.github.com/users/bettermtl/orgs",
+    "repos_url": "https://api.github.com/users/bettermtl/repos",
+    "events_url": "https://api.github.com/users/bettermtl/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/bettermtl/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "HTML": {
+      "bytes": 28547,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 17594,
+      "color": "#563d7c"
+    },
+    "Ruby": {
+      "bytes": 5700,
+      "color": "#701516"
+    },
+    "JavaScript": {
+      "bytes": 1891,
+      "color": "#f1e05a"
+    }
+  },
+  "contributors": {
+    "RichardLitt": 1,
+    "abbyhunter94": 1,
+    "mattmanis": 1,
+    "carocvin": 1,
+    "waffle-iron": 1,
+    "frabrunelle": 3,
+    "MattyChance": 3,
+    "firearbete75": 6,
+    "boyney123": 28,
+    "pcuci": 156,
+    "David-Ro": 232
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

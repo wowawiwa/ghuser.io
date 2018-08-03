@@ -3,17 +3,21 @@
   "repos": {
     "jordansissel/fpm": {
       "full_name": "jordansissel/fpm",
-      "popularity": 4.9355513922143714,
+      "name": "fpm",
+      "stargazers_count": 8625,
+      "popularity": 4.935752871895723,
       "percentage": 65.8611825192802,
       "maturity": 4.281654004675052,
       "total_commits_count": 1945,
       "activity": 5,
-      "total_score": 70.62792482586259,
+      "total_score": 70.63025432461541,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "jordansissel/semicomplete.com": {
       "full_name": "jordansissel/semicomplete.com",
+      "name": "semicomplete.com",
+      "stargazers_count": 2,
       "popularity": 1.0414282204429401,
       "percentage": 100,
       "maturity": 0,
@@ -25,6 +29,8 @@
     },
     "jordansissel/ruby-O_o": {
       "full_name": "jordansissel/ruby-O_o",
+      "name": "ruby-O_o",
+      "stargazers_count": 5,
       "popularity": 1.6128219920330789,
       "percentage": 66.66666666666667,
       "maturity": 0,
@@ -36,6 +42,8 @@
     },
     "jordansissel/ruby-grok": {
       "full_name": "jordansissel/ruby-grok",
+      "name": "ruby-grok",
+      "stargazers_count": 49,
       "popularity": 2.6821840837653634,
       "percentage": 51.42857142857143,
       "maturity": 2.4802970571810303,
@@ -47,6 +55,8 @@
     },
     "jordansissel/keynav": {
       "full_name": "jordansissel/keynav",
+      "name": "keynav",
+      "stargazers_count": 146,
       "popularity": 3.1617064741531076,
       "percentage": 94.79166666666667,
       "maturity": 3.1838643933763855,
@@ -58,6 +68,8 @@
     },
     "elastic/tealess": {
       "full_name": "elastic/tealess",
+      "name": "tealess",
+      "stargazers_count": 14,
       "popularity": 2.117310085935697,
       "percentage": 100,
       "maturity": 2.9467102601021384,
@@ -69,6 +81,8 @@
     },
     "jordansissel/experiments": {
       "full_name": "jordansissel/experiments",
+      "name": "experiments",
+      "stargazers_count": 116,
       "popularity": 3.06111437832399,
       "percentage": 100,
       "maturity": 3.846896148746672,
@@ -80,6 +94,8 @@
     },
     "jordansissel/shatty": {
       "full_name": "jordansissel/shatty",
+      "name": "shatty",
+      "stargazers_count": 24,
       "popularity": 2.3636508993380505,
       "percentage": 100,
       "maturity": 0,
@@ -91,17 +107,21 @@
     },
     "elastic/logstash": {
       "full_name": "elastic/logstash",
-      "popularity": 4.964821820067695,
+      "name": "logstash",
+      "stargazers_count": 9224,
+      "popularity": 4.964916005661872,
       "percentage": 45.25206562088373,
       "maturity": 4.921394805577064,
       "total_commits_count": 8351,
       "activity": 5,
-      "total_score": 58.944152635058046,
+      "total_score": 58.94498926389005,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "jordansissel/ruby-ftw": {
       "full_name": "jordansissel/ruby-ftw",
+      "name": "ruby-ftw",
+      "stargazers_count": 27,
       "popularity": 2.416679446233313,
       "percentage": 94.58483754512635,
       "maturity": 3.3766671417344045,
@@ -113,6 +133,8 @@
     },
     "elastic/logstash-docs": {
       "full_name": "elastic/logstash-docs",
+      "name": "logstash-docs",
+      "stargazers_count": 25,
       "popularity": 2.3820559690418284,
       "percentage": 2.1447721179624666,
       "maturity": 3.524310431080785,
@@ -124,6 +146,8 @@
     },
     "logstash-plugins/logstash-input-kafka": {
       "full_name": "logstash-plugins/logstash-input-kafka",
+      "name": "logstash-input-kafka",
+      "stargazers_count": 89,
       "popularity": 2.9450149526988105,
       "percentage": 3.35195530726257,
       "maturity": 3.1450622028399184,
@@ -135,6 +159,8 @@
     },
     "logstash-plugins/logstash-output-kafka": {
       "full_name": "logstash-plugins/logstash-output-kafka",
+      "name": "logstash-output-kafka",
+      "stargazers_count": 55,
       "popularity": 2.7332362815104947,
       "percentage": 4,
       "maturity": 3.043522063689193,
@@ -146,6 +172,8 @@
     },
     "elastic/logstash-docker": {
       "full_name": "elastic/logstash-docker",
+      "name": "logstash-docker",
+      "stargazers_count": 197,
       "popularity": 3.2925166623889335,
       "percentage": 1.1764705882352942,
       "maturity": 3.116012283230563,
@@ -157,6 +185,8 @@
     },
     "logstash-plugins/logstash-filter-date": {
       "full_name": "logstash-plugins/logstash-filter-date",
+      "name": "logstash-filter-date",
+      "stargazers_count": 5,
       "popularity": 1.6128219920330789,
       "percentage": 15.88785046728972,
       "maturity": 2.828456256278814,
@@ -168,17 +198,21 @@
     },
     "jruby/jruby": {
       "full_name": "jruby/jruby",
-      "popularity": 4.494764014256919,
+      "name": "jruby",
+      "stargazers_count": 3129,
+      "popularity": 4.495319715664305,
       "percentage": 0.009229136383562908,
       "maturity": 5,
       "total_commits_count": 43341,
       "activity": 5,
-      "total_score": 28.489684805483694,
+      "total_score": 28.491352576429584,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "elastic/jarvis": {
       "full_name": "elastic/jarvis",
+      "name": "jarvis",
+      "stargazers_count": 35,
       "popularity": 2.532793353021433,
       "percentage": 69.79166666666667,
       "maturity": 2.750696090991644,
@@ -190,6 +224,8 @@
     },
     "logstash-plugins/logstash-input-udp": {
       "full_name": "logstash-plugins/logstash-input-udp",
+      "name": "logstash-input-udp",
+      "stargazers_count": 10,
       "popularity": 1.9590800514478444,
       "percentage": 4.225352112676056,
       "maturity": 2.4944911357284782,
@@ -201,6 +237,8 @@
     },
     "logstash-plugins/logstash-input-s3": {
       "full_name": "logstash-plugins/logstash-input-s3",
+      "name": "logstash-input-s3",
+      "stargazers_count": 36,
       "popularity": 2.5453460937604104,
       "percentage": 4.724409448818897,
       "maturity": 2.9417524841153866,
@@ -212,6 +250,8 @@
     },
     "jordansissel/pleaserun": {
       "full_name": "jordansissel/pleaserun",
+      "name": "pleaserun",
+      "stargazers_count": 1094,
       "popularity": 4.038698979379986,
       "percentage": 88.51851851851852,
       "maturity": 3.3636521841911384,
@@ -223,6 +263,8 @@
     },
     "logstash-plugins/logstash-filter-csv": {
       "full_name": "logstash-plugins/logstash-filter-csv",
+      "name": "logstash-filter-csv",
+      "stargazers_count": 13,
       "popularity": 2.0828241359374196,
       "percentage": 5.970149253731344,
       "maturity": 2.4346992151481284,
@@ -234,6 +276,8 @@
     },
     "logstash-plugins/logstash-output-s3": {
       "full_name": "logstash-plugins/logstash-output-s3",
+      "name": "logstash-output-s3",
+      "stargazers_count": 39,
       "popularity": 2.580963961738607,
       "percentage": 1.3793103448275863,
       "maturity": 3.0233373858695978,
@@ -245,6 +289,8 @@
     },
     "elastic/docs": {
       "full_name": "elastic/docs",
+      "name": "docs",
+      "stargazers_count": 110,
       "popularity": 3.0378638034149463,
       "percentage": 0,
       "maturity": 2.9659940673125176,
@@ -256,6 +302,8 @@
     },
     "logstash-plugins/logstash-filter-elasticsearch": {
       "full_name": "logstash-plugins/logstash-filter-elasticsearch",
+      "name": "logstash-filter-elasticsearch",
+      "stargazers_count": 12,
       "popularity": 2.045361715305606,
       "percentage": 1.9230769230769231,
       "maturity": 2.808591644762431,
@@ -267,6 +315,8 @@
     },
     "jordansissel/dotfiles": {
       "full_name": "jordansissel/dotfiles",
+      "name": "dotfiles",
+      "stargazers_count": 24,
       "popularity": 2.3636508993380505,
       "percentage": 99.6,
       "maturity": 3.3241615462399197,
@@ -278,17 +328,21 @@
     },
     "cesanta/mongoose-os": {
       "full_name": "cesanta/mongoose-os",
-      "popularity": 4.195135796770911,
+      "name": "mongoose-os",
+      "stargazers_count": 1569,
+      "popularity": 4.195412840978059,
       "percentage": 0,
       "maturity": 4.581645568269758,
       "total_commits_count": 3841,
       "activity": 5,
-      "total_score": 26.74869852685225,
+      "total_score": 26.749529659473694,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "logstash-plugins/logstash-output-rabbitmq": {
       "full_name": "logstash-plugins/logstash-output-rabbitmq",
+      "name": "logstash-output-rabbitmq",
+      "stargazers_count": 11,
       "popularity": 2.0043600754367907,
       "percentage": 1.0309278350515463,
       "maturity": 2.7583693920773915,
@@ -300,6 +354,8 @@
     },
     "logstash-plugins/logstash-filter-geoip": {
       "full_name": "logstash-plugins/logstash-filter-geoip",
+      "name": "logstash-filter-geoip",
+      "stargazers_count": 38,
       "popularity": 2.5694128929127964,
       "percentage": 2.8368794326241136,
       "maturity": 3.0064857601990567,
@@ -311,6 +367,8 @@
     },
     "logstash-plugins/logstash-input-file": {
       "full_name": "logstash-plugins/logstash-input-file",
+      "name": "logstash-input-file",
+      "stargazers_count": 39,
       "popularity": 2.580963961738607,
       "percentage": 0.8695652173913043,
       "maturity": 2.877373948214582,
@@ -322,6 +380,8 @@
     },
     "logstash-plugins/logstash-input-beats": {
       "full_name": "logstash-plugins/logstash-input-beats",
+      "name": "logstash-input-beats",
+      "stargazers_count": 53,
       "popularity": 2.716876736929962,
       "percentage": 17.219917012448132,
       "maturity": 3.6472564415561086,
@@ -333,6 +393,8 @@
     },
     "logstash-plugins/logstash-codec-cef": {
       "full_name": "logstash-plugins/logstash-codec-cef",
+      "name": "logstash-codec-cef",
+      "stargazers_count": 14,
       "popularity": 2.117310085935697,
       "percentage": 7.142857142857143,
       "maturity": 2.765909468455758,
@@ -344,10 +406,12 @@
     },
     "elastic/elasticsearch": {
       "full_name": "elastic/elasticsearch",
+      "name": "elasticsearch",
+      "stargazers_count": 33150,
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,
-      "total_commits_count": 38864,
+      "total_commits_count": 38873,
       "activity": 5,
       "total_score": 30,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
@@ -355,6 +419,8 @@
     },
     "logstash-plugins/logstash-filter-cidr": {
       "full_name": "logstash-plugins/logstash-filter-cidr",
+      "name": "logstash-filter-cidr",
+      "stargazers_count": 5,
       "popularity": 1.6128219920330789,
       "percentage": 1.7543859649122806,
       "maturity": 2.234722295244445,
@@ -366,6 +432,8 @@
     },
     "logstash-plugins/logstash-filter-translate": {
       "full_name": "logstash-plugins/logstash-filter-translate",
+      "name": "logstash-filter-translate",
+      "stargazers_count": 15,
       "popularity": 2.149257924096549,
       "percentage": 1.4705882352941178,
       "maturity": 2.450436471736861,
@@ -377,6 +445,8 @@
     },
     "logstash-plugins/logstash-filter-punct": {
       "full_name": "logstash-plugins/logstash-filter-punct",
+      "name": "logstash-filter-punct",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 2.0408163265306123,
       "maturity": 1.9607586681802867,
@@ -388,6 +458,8 @@
     },
     "logstash-plugins/logstash-input-github": {
       "full_name": "logstash-plugins/logstash-input-github",
+      "name": "logstash-input-github",
+      "stargazers_count": 9,
       "popularity": 1.9085236249774054,
       "percentage": 1.5384615384615385,
       "maturity": 2.4014031362418624,
@@ -399,6 +471,8 @@
     },
     "logstash-plugins/logstash-filter-anonymize": {
       "full_name": "logstash-plugins/logstash-filter-anonymize",
+      "name": "logstash-filter-anonymize",
+      "stargazers_count": 3,
       "popularity": 1.3222565221025262,
       "percentage": 1.9607843137254901,
       "maturity": 2.04704368583375,
@@ -410,6 +484,8 @@
     },
     "logstash-plugins/logstash-codec-cloudtrail": {
       "full_name": "logstash-plugins/logstash-codec-cloudtrail",
+      "name": "logstash-codec-cloudtrail",
+      "stargazers_count": 8,
       "popularity": 1.8512968868523627,
       "percentage": 1.694915254237288,
       "maturity": 2.2827606132375395,
@@ -421,6 +497,8 @@
     },
     "logstash-plugins/logstash-codec-collectd": {
       "full_name": "logstash-plugins/logstash-codec-collectd",
+      "name": "logstash-codec-collectd",
+      "stargazers_count": 6,
       "popularity": 1.7076084983408428,
       "percentage": 1.2820512820512822,
       "maturity": 2.582656746092775,
@@ -432,6 +510,8 @@
     },
     "logstash-plugins/logstash-codec-compress_spooler": {
       "full_name": "logstash-plugins/logstash-codec-compress_spooler",
+      "name": "logstash-codec-compress_spooler",
+      "stargazers_count": 3,
       "popularity": 1.3222565221025262,
       "percentage": 1.9607843137254901,
       "maturity": 2.04704368583375,
@@ -443,6 +523,8 @@
     },
     "logstash-plugins/logstash-codec-dots": {
       "full_name": "logstash-plugins/logstash-codec-dots",
+      "name": "logstash-codec-dots",
+      "stargazers_count": 2,
       "popularity": 1.0414282204429401,
       "percentage": 1.8518518518518519,
       "maturity": 2.1509431413585514,
@@ -454,6 +536,8 @@
     },
     "logstash-plugins/logstash-codec-edn": {
       "full_name": "logstash-plugins/logstash-codec-edn",
+      "name": "logstash-codec-edn",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 1.8181818181818181,
       "maturity": 2.1807017899081935,
@@ -465,6 +549,8 @@
     },
     "logstash-plugins/logstash-codec-edn_lines": {
       "full_name": "logstash-plugins/logstash-codec-edn_lines",
+      "name": "logstash-codec-edn_lines",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 1.7857142857142858,
       "maturity": 2.208551431450411,
@@ -476,6 +562,8 @@
     },
     "logstash-plugins/logstash-codec-fluent": {
       "full_name": "logstash-plugins/logstash-codec-fluent",
+      "name": "logstash-codec-fluent",
+      "stargazers_count": 6,
       "popularity": 1.7076084983408428,
       "percentage": 1.5873015873015872,
       "maturity": 2.3653407969119673,
@@ -487,6 +575,8 @@
     },
     "logstash-plugins/logstash-codec-graphite": {
       "full_name": "logstash-plugins/logstash-codec-graphite",
+      "name": "logstash-codec-graphite",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 1.8518518518518519,
       "maturity": 2.1509431413585514,
@@ -498,6 +588,8 @@
     },
     "logstash-plugins/logstash-codec-json": {
       "full_name": "logstash-plugins/logstash-codec-json",
+      "name": "logstash-codec-json",
+      "stargazers_count": 14,
       "popularity": 2.117310085935697,
       "percentage": 5.882352941176471,
       "maturity": 2.450436471736861,
@@ -509,6 +601,8 @@
     },
     "logstash-plugins/logstash-codec-json_lines": {
       "full_name": "logstash-plugins/logstash-codec-json_lines",
+      "name": "logstash-codec-json_lines",
+      "stargazers_count": 6,
       "popularity": 1.7076084983408428,
       "percentage": 1.2987012987012987,
       "maturity": 2.5711055574387496,
@@ -520,6 +614,8 @@
     },
     "logstash-plugins/logstash-codec-line": {
       "full_name": "logstash-plugins/logstash-codec-line",
+      "name": "logstash-codec-line",
+      "stargazers_count": 3,
       "popularity": 1.3222565221025262,
       "percentage": 1.6129032258064515,
       "maturity": 2.34612075126341,
@@ -531,6 +627,8 @@
     },
     "logstash-plugins/logstash-codec-msgpack": {
       "full_name": "logstash-plugins/logstash-codec-msgpack",
+      "name": "logstash-codec-msgpack",
+      "stargazers_count": 5,
       "popularity": 1.6128219920330789,
       "percentage": 1.7241379310344827,
       "maturity": 2.2594053196037502,
@@ -542,6 +640,8 @@
     },
     "logstash-plugins/logstash-codec-multiline": {
       "full_name": "logstash-plugins/logstash-codec-multiline",
+      "name": "logstash-codec-multiline",
+      "stargazers_count": 3,
       "popularity": 1.3222565221025262,
       "percentage": 1.2048192771084338,
       "maturity": 2.636209568212883,
@@ -553,6 +653,8 @@
     },
     "jordansissel/ruby-stud": {
       "full_name": "jordansissel/ruby-stud",
+      "name": "ruby-stud",
+      "stargazers_count": 32,
       "popularity": 2.492799351998761,
       "percentage": 73.33333333333333,
       "maturity": 2.547038498146359,
@@ -564,6 +666,8 @@
     },
     "logstash-plugins/logstash-filter-fingerprint": {
       "full_name": "logstash-plugins/logstash-filter-fingerprint",
+      "name": "logstash-filter-fingerprint",
+      "stargazers_count": 8,
       "popularity": 1.8512968868523627,
       "percentage": 2.816901408450704,
       "maturity": 2.4944911357284782,
@@ -575,6 +679,8 @@
     },
     "jordansissel/xdotool": {
       "full_name": "jordansissel/xdotool",
+      "name": "xdotool",
+      "stargazers_count": 667,
       "popularity": 3.8235785164421108,
       "percentage": 87.04379562043796,
       "maturity": 3.707685172474404,
@@ -586,6 +692,8 @@
     },
     "jordansissel/grok": {
       "full_name": "jordansissel/grok",
+      "name": "grok",
+      "stargazers_count": 207,
       "popularity": 3.314117061467472,
       "percentage": 96.94915254237289,
       "maturity": 3.408446097935486,
@@ -597,6 +705,8 @@
     },
     "logstash-plugins/logstash-codec-netflow": {
       "full_name": "logstash-plugins/logstash-codec-netflow",
+      "name": "logstash-codec-netflow",
+      "stargazers_count": 65,
       "popularity": 2.8068970571940928,
       "percentage": 1.3071895424836601,
       "maturity": 3.0551973913907773,
@@ -608,6 +718,8 @@
     },
     "logstash-plugins/logstash-filter-xml": {
       "full_name": "logstash-plugins/logstash-filter-xml",
+      "name": "logstash-filter-xml",
+      "stargazers_count": 7,
       "popularity": 1.7853682828948099,
       "percentage": 4.3478260869565215,
       "maturity": 2.46562335273591,
@@ -619,6 +731,8 @@
     },
     "logstash-plugins/logstash-input-gelf": {
       "full_name": "logstash-plugins/logstash-input-gelf",
+      "name": "logstash-input-gelf",
+      "stargazers_count": 13,
       "popularity": 2.0828241359374196,
       "percentage": 2.6315789473684212,
       "maturity": 2.559238720343991,
@@ -630,6 +744,8 @@
     },
     "logstash-plugins/logstash-filter-grok": {
       "full_name": "logstash-plugins/logstash-filter-grok",
+      "name": "logstash-filter-grok",
+      "stargazers_count": 56,
       "popularity": 2.741190616566951,
       "percentage": 4.3478260869565215,
       "maturity": 2.877373948214582,
@@ -641,6 +757,8 @@
     },
     "logstash-plugins/logstash-input-snmptrap": {
       "full_name": "logstash-plugins/logstash-input-snmptrap",
+      "name": "logstash-input-snmptrap",
+      "stargazers_count": 8,
       "popularity": 1.8512968868523627,
       "percentage": 3.7037037037037037,
       "maturity": 2.1509431413585514,
@@ -652,6 +770,8 @@
     },
     "logstash-plugins/logstash-input-meetup": {
       "full_name": "logstash-plugins/logstash-input-meetup",
+      "name": "logstash-input-meetup",
+      "stargazers_count": 5,
       "popularity": 1.6128219920330789,
       "percentage": 2.898550724637681,
       "maturity": 2.46562335273591,
@@ -663,6 +783,8 @@
     },
     "logstash-plugins/logstash-input-tcp": {
       "full_name": "logstash-plugins/logstash-input-tcp",
+      "name": "logstash-input-tcp",
+      "stargazers_count": 15,
       "popularity": 2.149257924096549,
       "percentage": 6.60377358490566,
       "maturity": 2.8219351565257536,
@@ -674,6 +796,8 @@
     },
     "logstash-plugins/logstash-input-log4j": {
       "full_name": "logstash-plugins/logstash-input-log4j",
+      "name": "logstash-input-log4j",
+      "stargazers_count": 11,
       "popularity": 2.0043600754367907,
       "percentage": 9.30232558139535,
       "maturity": 2.6654334850844252,
@@ -685,6 +809,8 @@
     },
     "logstash-plugins/logstash-output-sns": {
       "full_name": "logstash-plugins/logstash-output-sns",
+      "name": "logstash-output-sns",
+      "stargazers_count": 3,
       "popularity": 1.3222565221025262,
       "percentage": 2.816901408450704,
       "maturity": 2.4944911357284782,
@@ -696,6 +822,8 @@
     },
     "logstash-plugins/logstash-output-elasticsearch": {
       "full_name": "logstash-plugins/logstash-output-elasticsearch",
+      "name": "logstash-output-elasticsearch",
+      "stargazers_count": 131,
       "popularity": 3.1143163551711277,
       "percentage": 2.522935779816514,
       "maturity": 3.599540723535347,
@@ -707,6 +835,8 @@
     },
     "logstash-plugins/logstash-output-nagios": {
       "full_name": "logstash-plugins/logstash-output-nagios",
+      "name": "logstash-output-nagios",
+      "stargazers_count": 2,
       "popularity": 1.0414282204429401,
       "percentage": 1.9230769230769231,
       "maturity": 2.0845073675966073,
@@ -718,6 +848,8 @@
     },
     "logstash-plugins/logstash-output-file": {
       "full_name": "logstash-plugins/logstash-output-file",
+      "name": "logstash-output-file",
+      "stargazers_count": 13,
       "popularity": 2.0828241359374196,
       "percentage": 3.2967032967032965,
       "maturity": 2.710153827630827,
@@ -729,6 +861,8 @@
     },
     "neveragaindottech/neveragaindottech.github.io": {
       "full_name": "neveragaindottech/neveragaindottech.github.io",
+      "name": "neveragaindottech.github.io",
+      "stargazers_count": 362,
       "popularity": 3.557666566255704,
       "percentage": 0,
       "maturity": 4.6135763714731866,
@@ -740,6 +874,8 @@
     },
     "logstash-plugins/logstash-filter-sleep": {
       "full_name": "logstash-plugins/logstash-filter-sleep",
+      "name": "logstash-filter-sleep",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 3.7735849056603774,
       "maturity": 2.118994386183839,
@@ -751,6 +887,8 @@
     },
     "logstash-plugins/logstash-filter-truncate": {
       "full_name": "logstash-plugins/logstash-filter-truncate",
+      "name": "logstash-filter-truncate",
+      "stargazers_count": 3,
       "popularity": 1.3222565221025262,
       "percentage": 47.82608695652174,
       "maturity": 0,
@@ -762,6 +900,8 @@
     },
     "jordansissel/ruby-flores": {
       "full_name": "jordansissel/ruby-flores",
+      "name": "ruby-flores",
+      "stargazers_count": 9,
       "popularity": 1.9085236249774054,
       "percentage": 97.29729729729729,
       "maturity": 2.5344856158942024,
@@ -773,6 +913,8 @@
     },
     "elastic/logstash-forwarder": {
       "full_name": "elastic/logstash-forwarder",
+      "name": "logstash-forwarder",
+      "stargazers_count": 1712,
       "popularity": 4.233314477662903,
       "percentage": 90.46793760831889,
       "maturity": 3.731791148353922,
@@ -784,6 +926,8 @@
     },
     "logstash-plugins/logstash-mixin-aws": {
       "full_name": "logstash-plugins/logstash-mixin-aws",
+      "name": "logstash-mixin-aws",
+      "stargazers_count": 6,
       "popularity": 1.7076084983408428,
       "percentage": 4.761904761904762,
       "maturity": 2.6461709786895096,
@@ -795,6 +939,8 @@
     },
     "jordansissel/ruby-cabin": {
       "full_name": "jordansissel/ruby-cabin",
+      "name": "ruby-cabin",
+      "stargazers_count": 148,
       "popularity": 3.167651734809155,
       "percentage": 80.15873015873017,
       "maturity": 2.936737457454448,
@@ -806,6 +952,8 @@
     },
     "jordansissel/ruby-filewatch": {
       "full_name": "jordansissel/ruby-filewatch",
+      "name": "ruby-filewatch",
+      "stargazers_count": 82,
       "popularity": 2.909059894668503,
       "percentage": 35.26011560693642,
       "maturity": 3.1259130721649018,
@@ -817,6 +965,8 @@
     },
     "widhalmt/check_logstash": {
       "full_name": "widhalmt/check_logstash",
+      "name": "check_logstash",
+      "stargazers_count": 16,
       "popularity": 2.179015777092762,
       "percentage": 3.225806451612903,
       "maturity": 0,
@@ -828,6 +978,8 @@
     },
     "logstash-plugins/logstash-mixin-rabbitmq_connection": {
       "full_name": "logstash-plugins/logstash-mixin-rabbitmq_connection",
+      "name": "logstash-mixin-rabbitmq_connection",
+      "stargazers_count": 2,
       "popularity": 1.0414282204429401,
       "percentage": 7.142857142857143,
       "maturity": 2.208551431450411,
@@ -839,6 +991,8 @@
     },
     "jordansissel/ruby-arr-pm": {
       "full_name": "jordansissel/ruby-arr-pm",
+      "name": "ruby-arr-pm",
+      "stargazers_count": 16,
       "popularity": 2.179015777092762,
       "percentage": 95.74468085106383,
       "maturity": 1.8529702602724436,
@@ -850,6 +1004,8 @@
     },
     "logstash-plugins/logstash-filter-kv": {
       "full_name": "logstash-plugins/logstash-filter-kv",
+      "name": "logstash-filter-kv",
+      "stargazers_count": 12,
       "popularity": 2.045361715305606,
       "percentage": 1.1627906976744187,
       "maturity": 2.6654334850844252,
@@ -861,6 +1017,8 @@
     },
     "jordansissel/puppet-workstation": {
       "full_name": "jordansissel/puppet-workstation",
+      "name": "puppet-workstation",
+      "stargazers_count": 3,
       "popularity": 1.3222565221025262,
       "percentage": 100,
       "maturity": 0,
@@ -872,6 +1030,8 @@
     },
     "logstash-plugins/logstash-output-redis": {
       "full_name": "logstash-plugins/logstash-output-redis",
+      "name": "logstash-output-redis",
+      "stargazers_count": 12,
       "popularity": 2.045361715305606,
       "percentage": 11.267605633802816,
       "maturity": 2.4944911357284782,
@@ -883,6 +1043,8 @@
     },
     "jordansissel/eventmachine-tail": {
       "full_name": "jordansissel/eventmachine-tail",
+      "name": "eventmachine-tail",
+      "stargazers_count": 123,
       "popularity": 3.0867547205859567,
       "percentage": 79.45205479452055,
       "maturity": 2.5215590771505747,
@@ -894,6 +1056,8 @@
     },
     "logstash-plugins/logstash-input-sqlite": {
       "full_name": "logstash-plugins/logstash-input-sqlite",
+      "name": "logstash-input-sqlite",
+      "stargazers_count": 4,
       "popularity": 1.49139952161816,
       "percentage": 2.0408163265306123,
       "maturity": 1.9607586681802867,
@@ -905,6 +1069,8 @@
     },
     "davedash/parental-leave": {
       "full_name": "davedash/parental-leave",
+      "name": "parental-leave",
+      "stargazers_count": 68,
       "popularity": 2.8267615505705566,
       "percentage": 4.761904761904762,
       "maturity": 1.323873088726792,
@@ -916,6 +1082,8 @@
     },
     "litaio/lita": {
       "full_name": "litaio/lita",
+      "name": "lita",
+      "stargazers_count": 1472,
       "popularity": 4.167681281478456,
       "percentage": 0.15748031496062992,
       "maturity": 3.7763259776877205,
@@ -927,6 +1095,8 @@
     },
     "jordansissel/heroku-buildpack-meteor": {
       "full_name": "jordansissel/heroku-buildpack-meteor",
+      "name": "heroku-buildpack-meteor",
+      "stargazers_count": 609,
       "popularity": 3.7840140856382365,
       "percentage": 58.8235294117647,
       "maturity": 0,
@@ -938,6 +1108,8 @@
     },
     "jordansissel/demo.logstash.net": {
       "full_name": "jordansissel/demo.logstash.net",
+      "name": "demo.logstash.net",
+      "stargazers_count": 4,
       "popularity": 1.49139952161816,
       "percentage": 100,
       "maturity": 3.2714817605991215,
@@ -949,6 +1121,8 @@
     },
     "logstash/logstash.net": {
       "full_name": "logstash/logstash.net",
+      "name": "logstash.net",
+      "stargazers_count": 11,
       "popularity": 2.0043600754367907,
       "percentage": 97.02517162471396,
       "maturity": 3.6006357692966215,
@@ -960,6 +1134,8 @@
     },
     "elastic/logstash-contrib": {
       "full_name": "elastic/logstash-contrib",
+      "name": "logstash-contrib",
+      "stargazers_count": 131,
       "popularity": 3.1143163551711277,
       "percentage": 63.27334083239595,
       "maturity": 4.2418109784804985,
@@ -971,6 +1147,8 @@
     },
     "jordansissel/fingerpoken": {
       "full_name": "jordansissel/fingerpoken",
+      "name": "fingerpoken",
+      "stargazers_count": 41,
       "popularity": 2.6031833637998933,
       "percentage": 98.99497487437186,
       "maturity": 3.203405409095768,
@@ -982,6 +1160,8 @@
     },
     "zeromq/goczmq": {
       "full_name": "zeromq/goczmq",
+      "name": "goczmq",
+      "stargazers_count": 246,
       "popularity": 3.3893823839580257,
       "percentage": 0.8130081300813008,
       "maturity": 3.3158134696058705,
@@ -993,6 +1173,8 @@
     },
     "elastic/ruby-lumberjack": {
       "full_name": "elastic/ruby-lumberjack",
+      "name": "ruby-lumberjack",
+      "stargazers_count": 3,
       "popularity": 1.3222565221025262,
       "percentage": 66.39344262295081,
       "maturity": 2.9160773650635297,
@@ -1004,6 +1186,8 @@
     },
     "jordansissel/fosl": {
       "full_name": "jordansissel/fosl",
+      "name": "fosl",
+      "stargazers_count": 20,
       "popularity": 2.2810722512575277,
       "percentage": 86.66666666666667,
       "maturity": 0,
@@ -1015,6 +1199,8 @@
     },
     "logstash-plugins/logstash-input-jdbc": {
       "full_name": "logstash-plugins/logstash-input-jdbc",
+      "name": "logstash-input-jdbc",
+      "stargazers_count": 247,
       "popularity": 3.3911506864735506,
       "percentage": 1.5267175572519085,
       "maturity": 2.961252793435558,
@@ -1026,6 +1212,8 @@
     },
     "logstash-plugins/logstash-input-lumberjack": {
       "full_name": "logstash-plugins/logstash-input-lumberjack",
+      "name": "logstash-input-lumberjack",
+      "stargazers_count": 14,
       "popularity": 2.117310085935697,
       "percentage": 2.127659574468085,
       "maturity": 2.7349303806503453,
@@ -1037,6 +1225,8 @@
     },
     "logstash-plugins/logstash-filter-dns": {
       "full_name": "logstash-plugins/logstash-filter-dns",
+      "name": "logstash-filter-dns",
+      "stargazers_count": 6,
       "popularity": 1.7076084983408428,
       "percentage": 2.4691358024691357,
       "maturity": 2.6155739242796985,
@@ -1048,6 +1238,8 @@
     },
     "logstash-plugins/logstash-filter-range": {
       "full_name": "logstash-plugins/logstash-filter-range",
+      "name": "logstash-filter-range",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 4.081632653061225,
       "maturity": 1.9607586681802867,
@@ -1059,6 +1251,8 @@
     },
     "logstash-plugins/logstash-input-fluentd": {
       "full_name": "logstash-plugins/logstash-input-fluentd",
+      "name": "logstash-input-fluentd",
+      "stargazers_count": 6,
       "popularity": 1.7076084983408428,
       "percentage": 11.11111111111111,
       "maturity": 0,
@@ -1070,17 +1264,21 @@
     },
     "logstash-plugins/logstash-patterns-core": {
       "full_name": "logstash-plugins/logstash-patterns-core",
-      "popularity": 4.003542699518527,
+      "name": "logstash-patterns-core",
+      "stargazers_count": 1012,
+      "popularity": 4.004833195176206,
       "percentage": 1.6129032258064515,
       "maturity": 2.92653025393631,
       "total_commits_count": 124,
       "activity": 5,
-      "total_score": 23.703141107940148,
+      "total_score": 23.70728318271238,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "logstash-plugins/logstash-filter-mutate": {
       "full_name": "logstash-plugins/logstash-filter-mutate",
+      "name": "logstash-filter-mutate",
+      "stargazers_count": 10,
       "popularity": 1.9590800514478444,
       "percentage": 2.1052631578947367,
       "maturity": 2.74288477252764,
@@ -1092,17 +1290,21 @@
     },
     "elastic/kibana": {
       "full_name": "elastic/kibana",
+      "name": "kibana",
+      "stargazers_count": 9798,
       "popularity": 4.99113662921394,
-      "percentage": 0.06921286100799094,
+      "percentage": 0.06920415224913495,
       "maturity": 5,
-      "total_commits_count": 15893,
+      "total_commits_count": 15895,
       "activity": 5,
-      "total_score": 30.01831849759448,
+      "total_score": 30.018312846935785,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "elastic/ci": {
       "full_name": "elastic/ci",
+      "name": "ci",
+      "stargazers_count": 3,
       "popularity": 1.3222565221025262,
       "percentage": 3.488372093023256,
       "maturity": 2.6654334850844252,
@@ -1114,6 +1316,8 @@
     },
     "test-kitchen/busser-rspec": {
       "full_name": "test-kitchen/busser-rspec",
+      "name": "busser-rspec",
+      "stargazers_count": 11,
       "popularity": 2.0043600754367907,
       "percentage": 7.407407407407407,
       "maturity": 0,
@@ -1125,6 +1329,8 @@
     },
     "jordansissel/software-patterns": {
       "full_name": "jordansissel/software-patterns",
+      "name": "software-patterns",
+      "stargazers_count": 59,
       "popularity": 2.764215153768394,
       "percentage": 100,
       "maturity": 2.1807017899081935,
@@ -1136,6 +1342,8 @@
     },
     "rmcauley/rainwave": {
       "full_name": "rmcauley/rainwave",
+      "name": "rainwave",
+      "stargazers_count": 120,
       "popularity": 3.0759508173174988,
       "percentage": 0.039541320680110716,
       "maturity": 4.397778593803134,
@@ -1147,17 +1355,21 @@
     },
     "mdub/clamp": {
       "full_name": "mdub/clamp",
-      "popularity": 3.5316457090932305,
+      "name": "clamp",
+      "stargazers_count": 342,
+      "popularity": 3.5329207966015987,
       "percentage": 3.3333333333333335,
       "maturity": 3.5459279344152743,
       "total_commits_count": 390,
       "activity": 5,
-      "total_score": 24.217172803383974,
+      "total_score": 24.22155060382937,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "logstash-plugins/logstash-input-imap": {
       "full_name": "logstash-plugins/logstash-input-imap",
+      "name": "logstash-input-imap",
+      "stargazers_count": 7,
       "popularity": 1.7853682828948099,
       "percentage": 1.6129032258064515,
       "maturity": 2.34612075126341,
@@ -1169,6 +1381,8 @@
     },
     "jordansissel/ruby-sshkeyauth": {
       "full_name": "jordansissel/ruby-sshkeyauth",
+      "name": "ruby-sshkeyauth",
+      "stargazers_count": 33,
       "popularity": 2.506543999292103,
       "percentage": 89.1304347826087,
       "maturity": 1.7870377452764827,
@@ -1180,6 +1394,8 @@
     },
     "elastic/logstash-devutils": {
       "full_name": "elastic/logstash-devutils",
+      "name": "logstash-devutils",
+      "stargazers_count": 14,
       "popularity": 2.117310085935697,
       "percentage": 13.636363636363637,
       "maturity": 2.4183701866164125,
@@ -1191,6 +1407,8 @@
     },
     "jordansissel/batcave": {
       "full_name": "jordansissel/batcave",
+      "name": "batcave",
+      "stargazers_count": 9,
       "popularity": 1.9085236249774054,
       "percentage": 100,
       "maturity": 1.4930421103847036,
@@ -1202,6 +1420,8 @@
     },
     "logstash-plugins/logstash-filter-ruby": {
       "full_name": "logstash-plugins/logstash-filter-ruby",
+      "name": "logstash-filter-ruby",
+      "stargazers_count": 7,
       "popularity": 1.7853682828948099,
       "percentage": 2.985074626865672,
       "maturity": 2.4346992151481284,
@@ -1213,6 +1433,8 @@
     },
     "joekiller/logstash-kafka": {
       "full_name": "joekiller/logstash-kafka",
+      "name": "logstash-kafka",
+      "stargazers_count": 202,
       "popularity": 3.303451139813469,
       "percentage": 66.42167156656866,
       "maturity": 4.675871461815577,
@@ -1224,6 +1446,8 @@
     },
     "jordansissel/puppet-pleaserun": {
       "full_name": "jordansissel/puppet-pleaserun",
+      "name": "puppet-pleaserun",
+      "stargazers_count": 6,
       "popularity": 1.7076084983408428,
       "percentage": 100,
       "maturity": 0,
@@ -1235,6 +1459,8 @@
     },
     "jordansissel/omnibus-fpm": {
       "full_name": "jordansissel/omnibus-fpm",
+      "name": "omnibus-fpm",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -1246,17 +1472,21 @@
     },
     "elastic/curator": {
       "full_name": "elastic/curator",
-      "popularity": 4.308197827090434,
+      "name": "curator",
+      "stargazers_count": 2036,
+      "popularity": 4.308624841021719,
       "percentage": 0.21528525296017223,
       "maturity": 3.9506867339556755,
       "total_commits_count": 929,
-      "activity": 2.1001585930211903,
-      "total_score": 23.04669943187484,
+      "activity": 2.0952630320410703,
+      "total_score": 23.04309686356286,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "moby/moby": {
       "full_name": "moby/moby",
+      "name": "moby",
+      "stargazers_count": 49784,
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,
@@ -1268,6 +1498,8 @@
     },
     "logstash/cookbook": {
       "full_name": "logstash/cookbook",
+      "name": "cookbook",
+      "stargazers_count": 120,
       "popularity": 3.0759508173174988,
       "percentage": 55.55555555555556,
       "maturity": 3.119337688518808,
@@ -1279,6 +1511,8 @@
     },
     "jordansissel/jruby-elasticsearch": {
       "full_name": "jordansissel/jruby-elasticsearch",
+      "name": "jruby-elasticsearch",
+      "stargazers_count": 27,
       "popularity": 2.416679446233313,
       "percentage": 84.12698412698413,
       "maturity": 2.3653407969119673,
@@ -1290,6 +1524,8 @@
     },
     "jordansissel/ruby-insist": {
       "full_name": "jordansissel/ruby-insist",
+      "name": "ruby-insist",
+      "stargazers_count": 3,
       "popularity": 1.3222565221025262,
       "percentage": 100,
       "maturity": 0,
@@ -1301,6 +1537,8 @@
     },
     "jordansissel/lol-logging": {
       "full_name": "jordansissel/lol-logging",
+      "name": "lol-logging",
+      "stargazers_count": 10,
       "popularity": 1.9590800514478444,
       "percentage": 100,
       "maturity": 2.3260105612596127,
@@ -1312,6 +1550,8 @@
     },
     "jruby/joni": {
       "full_name": "jruby/joni",
+      "name": "joni",
+      "stargazers_count": 109,
       "popularity": 3.0338647464484936,
       "percentage": 0.43478260869565216,
       "maturity": 3.6250885876618906,
@@ -1323,6 +1563,8 @@
     },
     "jordansissel/puppet-examples": {
       "full_name": "jordansissel/puppet-examples",
+      "name": "puppet-examples",
+      "stargazers_count": 385,
       "popularity": 3.584483385642221,
       "percentage": 97.82608695652173,
       "maturity": 1.7870377452764827,
@@ -1334,6 +1576,8 @@
     },
     "jordansissel/veewee-jenkins": {
       "full_name": "jordansissel/veewee-jenkins",
+      "name": "veewee-jenkins",
+      "stargazers_count": 2,
       "popularity": 1.0414282204429401,
       "percentage": 100,
       "maturity": 0,
@@ -1345,6 +1589,8 @@
     },
     "logstash/testing": {
       "full_name": "logstash/testing",
+      "name": "testing",
+      "stargazers_count": 4,
       "popularity": 1.49139952161816,
       "percentage": 98.46153846153847,
       "maturity": 2.4014031362418624,
@@ -1356,6 +1602,8 @@
     },
     "jordansissel/gem-packaging": {
       "full_name": "jordansissel/gem-packaging",
+      "name": "gem-packaging",
+      "stargazers_count": 11,
       "popularity": 2.0043600754367907,
       "percentage": 100,
       "maturity": 0,
@@ -1367,6 +1615,8 @@
     },
     "jordansissel/vagrant-port": {
       "full_name": "jordansissel/vagrant-port",
+      "name": "vagrant-port",
+      "stargazers_count": 21,
       "popularity": 2.3032349516115587,
       "percentage": 100,
       "maturity": 0,
@@ -1378,6 +1628,8 @@
     },
     "jordansissel/vagrant-tricks": {
       "full_name": "jordansissel/vagrant-tricks",
+      "name": "vagrant-tricks",
+      "stargazers_count": 13,
       "popularity": 2.0828241359374196,
       "percentage": 100,
       "maturity": 0,
@@ -1389,6 +1641,8 @@
     },
     "dnbert/prm": {
       "full_name": "dnbert/prm",
+      "name": "prm",
+      "stargazers_count": 252,
       "popularity": 3.39988578579993,
       "percentage": 10.344827586206897,
       "maturity": 0,
@@ -1400,6 +1654,8 @@
     },
     "monitorama/monitorama.github.com": {
       "full_name": "monitorama/monitorama.github.com",
+      "name": "monitorama.github.com",
+      "stargazers_count": 16,
       "popularity": 2.179015777092762,
       "percentage": 0.6385696040868455,
       "maturity": 3.87278334672286,
@@ -1411,6 +1667,8 @@
     },
     "clausa/salt-logstash": {
       "full_name": "clausa/salt-logstash",
+      "name": "salt-logstash",
+      "stargazers_count": 37,
       "popularity": 2.5575461822849728,
       "percentage": 10,
       "maturity": 0,
@@ -1422,6 +1680,8 @@
     },
     "jordansissel/syslog-shipper": {
       "full_name": "jordansissel/syslog-shipper",
+      "name": "syslog-shipper",
+      "stargazers_count": 34,
       "popularity": 2.5198669643416824,
       "percentage": 75,
       "maturity": 0,
@@ -1433,6 +1693,8 @@
     },
     "jordansissel/fex": {
       "full_name": "jordansissel/fex",
+      "name": "fex",
+      "stargazers_count": 25,
       "popularity": 2.3820559690418284,
       "percentage": 94.44444444444444,
       "maturity": 0,
@@ -1444,6 +1706,8 @@
     },
     "boto/boto": {
       "full_name": "boto/boto",
+      "name": "boto",
+      "stargazers_count": 6156,
       "popularity": 4.7892742011905955,
       "percentage": 0.020863759649488837,
       "maturity": 4.678713233621913,
@@ -1455,6 +1719,8 @@
     },
     "solarce/hangops.github.com": {
       "full_name": "solarce/hangops.github.com",
+      "name": "hangops.github.com",
+      "stargazers_count": 3,
       "popularity": 1.3222565221025262,
       "percentage": 21.62162162162162,
       "maturity": 0,
@@ -1466,6 +1732,8 @@
     },
     "eric/metriks": {
       "full_name": "eric/metriks",
+      "name": "metriks",
+      "stargazers_count": 485,
       "popularity": 3.684974163220027,
       "percentage": 0.625,
       "maturity": 3.0812778831690517,
@@ -1477,6 +1745,8 @@
     },
     "jordansissel/sysadvent": {
       "full_name": "jordansissel/sysadvent",
+      "name": "sysadvent",
+      "stargazers_count": 17,
       "popularity": 2.206864721909315,
       "percentage": 100,
       "maturity": 3.242534094405848,
@@ -1488,6 +1758,8 @@
     },
     "rashidkpc/kibana2": {
       "full_name": "rashidkpc/kibana2",
+      "name": "kibana2",
+      "stargazers_count": 1221,
       "popularity": 4.086434512573942,
       "percentage": 2,
       "maturity": 2.7806079073212198,
@@ -1499,6 +1771,8 @@
     },
     "jordansissel/chef-lumberjack-cookbook": {
       "full_name": "jordansissel/chef-lumberjack-cookbook",
+      "name": "chef-lumberjack-cookbook",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -1510,6 +1784,8 @@
     },
     "jordansissel/vim-ackmore": {
       "full_name": "jordansissel/vim-ackmore",
+      "name": "vim-ackmore",
+      "stargazers_count": 7,
       "popularity": 1.7853682828948099,
       "percentage": 100,
       "maturity": 0,
@@ -1521,6 +1797,8 @@
     },
     "jordansissel/packer": {
       "full_name": "jordansissel/packer",
+      "name": "packer",
+      "stargazers_count": 2,
       "popularity": 1.0414282204429401,
       "percentage": 100,
       "maturity": 0,
@@ -1532,6 +1810,8 @@
     },
     "jordansissel/shebang": {
       "full_name": "jordansissel/shebang",
+      "name": "shebang",
+      "stargazers_count": 15,
       "popularity": 2.149257924096549,
       "percentage": 100,
       "maturity": 0,
@@ -1543,6 +1823,8 @@
     },
     "chuckremes/ffi-rzmq": {
       "full_name": "chuckremes/ffi-rzmq",
+      "name": "ffi-rzmq",
+      "stargazers_count": 219,
       "popularity": 3.3386947363104262,
       "percentage": 0.6172839506172839,
       "maturity": 3.088450563344869,
@@ -1554,6 +1836,8 @@
     },
     "jordansissel/message-passing": {
       "full_name": "jordansissel/message-passing",
+      "name": "message-passing",
+      "stargazers_count": 2,
       "popularity": 1.0414282204429401,
       "percentage": 80,
       "maturity": 0,
@@ -1565,6 +1849,8 @@
     },
     "jordansissel/heroku-buildpack-varnish": {
       "full_name": "jordansissel/heroku-buildpack-varnish",
+      "name": "heroku-buildpack-varnish",
+      "stargazers_count": 2,
       "popularity": 1.0414282204429401,
       "percentage": 100,
       "maturity": 0,
@@ -1576,6 +1862,8 @@
     },
     "jordansissel/go-cabin": {
       "full_name": "jordansissel/go-cabin",
+      "name": "go-cabin",
+      "stargazers_count": 2,
       "popularity": 1.0414282204429401,
       "percentage": 100,
       "maturity": 0,
@@ -1587,6 +1875,8 @@
     },
     "jordansissel/go-lumberjack": {
       "full_name": "jordansissel/go-lumberjack",
+      "name": "go-lumberjack",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -1598,6 +1888,8 @@
     },
     "jordansissel/keymux": {
       "full_name": "jordansissel/keymux",
+      "name": "keymux",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -1609,6 +1901,8 @@
     },
     "jordansissel/ruby-cabin-web": {
       "full_name": "jordansissel/ruby-cabin-web",
+      "name": "ruby-cabin-web",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -1620,6 +1914,8 @@
     },
     "jordansissel/elasticsearch-on-heroku": {
       "full_name": "jordansissel/elasticsearch-on-heroku",
+      "name": "elasticsearch-on-heroku",
+      "stargazers_count": 9,
       "popularity": 1.9085236249774054,
       "percentage": 100,
       "maturity": 0,
@@ -1631,6 +1927,8 @@
     },
     "jordansissel/rubygems-regression": {
       "full_name": "jordansissel/rubygems-regression",
+      "name": "rubygems-regression",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -1642,6 +1940,8 @@
     },
     "jordansissel/sample-rpms": {
       "full_name": "jordansissel/sample-rpms",
+      "name": "sample-rpms",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -1653,6 +1953,8 @@
     },
     "jordansissel/ruby-backport-bij": {
       "full_name": "jordansissel/ruby-backport-bij",
+      "name": "ruby-backport-bij",
+      "stargazers_count": 4,
       "popularity": 1.49139952161816,
       "percentage": 100,
       "maturity": 0,
@@ -1664,6 +1966,8 @@
     },
     "jordansissel/zmqexec": {
       "full_name": "jordansissel/zmqexec",
+      "name": "zmqexec",
+      "stargazers_count": 3,
       "popularity": 1.3222565221025262,
       "percentage": 86.66666666666667,
       "maturity": 0,
@@ -1675,6 +1979,8 @@
     },
     "jordansissel/websocket-log-demo": {
       "full_name": "jordansissel/websocket-log-demo",
+      "name": "websocket-log-demo",
+      "stargazers_count": 3,
       "popularity": 1.3222565221025262,
       "percentage": 14.285714285714286,
       "maturity": 0,
@@ -1686,6 +1992,8 @@
     },
     "jordansissel/ruby-grok-ui": {
       "full_name": "jordansissel/ruby-grok-ui",
+      "name": "ruby-grok-ui",
+      "stargazers_count": 5,
       "popularity": 1.6128219920330789,
       "percentage": 100,
       "maturity": 0,
@@ -1697,6 +2005,8 @@
     },
     "jordansissel/vxin": {
       "full_name": "jordansissel/vxin",
+      "name": "vxin",
+      "stargazers_count": 11,
       "popularity": 2.0043600754367907,
       "percentage": 100,
       "maturity": 2.46562335273591,
@@ -1708,6 +2018,8 @@
     },
     "jordansissel/heumon": {
       "full_name": "jordansissel/heumon",
+      "name": "heumon",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -1719,6 +2031,8 @@
     },
     "obfuscurity/fortune-rants": {
       "full_name": "obfuscurity/fortune-rants",
+      "name": "fortune-rants",
+      "stargazers_count": 19,
       "popularity": 2.2577174475727126,
       "percentage": 5.128205128205129,
       "maturity": 0,
@@ -1730,6 +2044,8 @@
     },
     "jordansissel/presentation-an-implementation-of-puppet": {
       "full_name": "jordansissel/presentation-an-implementation-of-puppet",
+      "name": "presentation-an-implementation-of-puppet",
+      "stargazers_count": 2,
       "popularity": 1.0414282204429401,
       "percentage": 100,
       "maturity": 0,
@@ -1741,6 +2057,8 @@
     },
     "bernd/fpm-cookery": {
       "full_name": "bernd/fpm-cookery",
+      "name": "fpm-cookery",
+      "stargazers_count": 439,
       "popularity": 3.6416123329095376,
       "percentage": 0.20040080160320642,
       "maturity": 3.6636432339301197,
@@ -1752,6 +2070,8 @@
     },
     "logstash/demos": {
       "full_name": "logstash/demos",
+      "name": "demos",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -1763,6 +2083,8 @@
     },
     "jordansissel/python-rightscale": {
       "full_name": "jordansissel/python-rightscale",
+      "name": "python-rightscale",
+      "stargazers_count": 11,
       "popularity": 2.0043600754367907,
       "percentage": 100,
       "maturity": 0,
@@ -1774,6 +2096,8 @@
     },
     "loggly/nodejs-logging": {
       "full_name": "loggly/nodejs-logging",
+      "name": "nodejs-logging",
+      "stargazers_count": 4,
       "popularity": 1.49139952161816,
       "percentage": 100,
       "maturity": 0,
@@ -1785,17 +2109,21 @@
     },
     "nodejs/node-v0.x-archive": {
       "full_name": "nodejs/node-v0.x-archive",
+      "name": "node-v0.x-archive",
+      "stargazers_count": 35785,
       "popularity": 5,
       "percentage": 0,
       "maturity": 0,
       "total_commits_count": 2,
-      "activity": 1.6000019471616649,
-      "total_score": 16.600001947161665,
+      "activity": 1.598448419811945,
+      "total_score": 16.598448419811945,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "jordansissel/tmux": {
       "full_name": "jordansissel/tmux",
+      "name": "tmux",
+      "stargazers_count": 2,
       "popularity": 1.0414282204429401,
       "percentage": 100,
       "maturity": 0,
@@ -1807,6 +2135,8 @@
     },
     "jordansissel/procnanny": {
       "full_name": "jordansissel/procnanny",
+      "name": "procnanny",
+      "stargazers_count": 13,
       "popularity": 2.0828241359374196,
       "percentage": 100,
       "maturity": 2.4802970571810303,
@@ -1818,6 +2148,8 @@
     },
     "jordansissel/perl-Term-Shelly": {
       "full_name": "jordansissel/perl-Term-Shelly",
+      "name": "perl-Term-Shelly",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -1829,6 +2161,8 @@
     },
     "jordansissel/tic": {
       "full_name": "jordansissel/tic",
+      "name": "tic",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -1840,6 +2174,8 @@
     },
     "jordansissel/ruby-netty-eventmachine": {
       "full_name": "jordansissel/ruby-netty-eventmachine",
+      "name": "ruby-netty-eventmachine",
+      "stargazers_count": 43,
       "popularity": 2.6243210916459527,
       "percentage": 88.88888888888889,
       "maturity": 0,
@@ -1851,6 +2187,8 @@
     },
     "ripienaar/puppet-extlookup": {
       "full_name": "ripienaar/puppet-extlookup",
+      "name": "puppet-extlookup",
+      "stargazers_count": 18,
       "popularity": 2.2330349704670382,
       "percentage": 7.142857142857143,
       "maturity": 0,
@@ -1862,6 +2200,8 @@
     },
     "jordansissel/rvm-packaging": {
       "full_name": "jordansissel/rvm-packaging",
+      "name": "rvm-packaging",
+      "stargazers_count": 51,
       "popularity": 2.6998767365027594,
       "percentage": 72.72727272727273,
       "maturity": 0,
@@ -1873,6 +2213,8 @@
     },
     "logstash/releases": {
       "full_name": "logstash/releases",
+      "name": "releases",
+      "stargazers_count": 2,
       "popularity": 1.0414282204429401,
       "percentage": 100,
       "maturity": 0,
@@ -1884,6 +2226,8 @@
     },
     "jordansissel/ruby-minstrel": {
       "full_name": "jordansissel/ruby-minstrel",
+      "name": "ruby-minstrel",
+      "stargazers_count": 31,
       "popularity": 2.478605454390306,
       "percentage": 100,
       "maturity": 0,
@@ -1895,6 +2239,8 @@
     },
     "jordansissel/parasite": {
       "full_name": "jordansissel/parasite",
+      "name": "parasite",
+      "stargazers_count": 5,
       "popularity": 1.6128219920330789,
       "percentage": 100,
       "maturity": 0,
@@ -1906,6 +2252,8 @@
     },
     "jordansissel/ruby-acme-tlap": {
       "full_name": "jordansissel/ruby-acme-tlap",
+      "name": "ruby-acme-tlap",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -1917,6 +2265,8 @@
     },
     "jordansissel/ruby-lsof": {
       "full_name": "jordansissel/ruby-lsof",
+      "name": "ruby-lsof",
+      "stargazers_count": 3,
       "popularity": 1.3222565221025262,
       "percentage": 100,
       "maturity": 0,
@@ -1928,6 +2278,8 @@
     },
     "jordansissel/fastest_sites": {
       "full_name": "jordansissel/fastest_sites",
+      "name": "fastest_sites",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -1939,6 +2291,8 @@
     },
     "jordansissel/extlookup.rb": {
       "full_name": "jordansissel/extlookup.rb",
+      "name": "extlookup.rb",
+      "stargazers_count": 4,
       "popularity": 1.49139952161816,
       "percentage": 100,
       "maturity": 0,
@@ -1950,6 +2304,8 @@
     },
     "logstash/build": {
       "full_name": "logstash/build",
+      "name": "build",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -1961,6 +2317,8 @@
     },
     "jordansissel/eventmachine-vnc": {
       "full_name": "jordansissel/eventmachine-vnc",
+      "name": "eventmachine-vnc",
+      "stargazers_count": 12,
       "popularity": 2.045361715305606,
       "percentage": 100,
       "maturity": 0,
@@ -1972,6 +2330,8 @@
     },
     "jordansissel/s3cleaner": {
       "full_name": "jordansissel/s3cleaner",
+      "name": "s3cleaner",
+      "stargazers_count": 30,
       "popularity": 2.463931943319936,
       "percentage": 100,
       "maturity": 0,
@@ -1983,6 +2343,8 @@
     },
     "jordansissel/xboxproxy": {
       "full_name": "jordansissel/xboxproxy",
+      "name": "xboxproxy",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -1994,6 +2356,8 @@
     },
     "jordansissel/node-packaging": {
       "full_name": "jordansissel/node-packaging",
+      "name": "node-packaging",
+      "stargazers_count": 2,
       "popularity": 1.0414282204429401,
       "percentage": 100,
       "maturity": 0,
@@ -2005,6 +2369,8 @@
     },
     "jordansissel/twitter-spamwatch": {
       "full_name": "jordansissel/twitter-spamwatch",
+      "name": "twitter-spamwatch",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -2016,6 +2382,8 @@
     },
     "puppetlabs/marionette-collective": {
       "full_name": "puppetlabs/marionette-collective",
+      "name": "marionette-collective",
+      "stargazers_count": 212,
       "popularity": 3.3245273034451106,
       "percentage": 0.05512679162072767,
       "maturity": 4.250714316827402,
@@ -2027,6 +2395,8 @@
     },
     "jordansissel/slideshow-template-jls": {
       "full_name": "jordansissel/slideshow-template-jls",
+      "name": "slideshow-template-jls",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -2038,6 +2408,8 @@
     },
     "lak/pzero": {
       "full_name": "lak/pzero",
+      "name": "pzero",
+      "stargazers_count": 17,
       "popularity": 2.206864721909315,
       "percentage": 14.285714285714286,
       "maturity": 0,
@@ -2049,6 +2421,8 @@
     },
     "jordansissel/djbdnsplus": {
       "full_name": "jordansissel/djbdnsplus",
+      "name": "djbdnsplus",
+      "stargazers_count": 3,
       "popularity": 1.3222565221025262,
       "percentage": 100,
       "maturity": 0,
@@ -2060,6 +2434,8 @@
     },
     "jordansissel/python-packaging": {
       "full_name": "jordansissel/python-packaging",
+      "name": "python-packaging",
+      "stargazers_count": 6,
       "popularity": 1.7076084983408428,
       "percentage": 100,
       "maturity": 0,
@@ -2071,6 +2447,8 @@
     },
     "jordansissel/pam_captcha": {
       "full_name": "jordansissel/pam_captcha",
+      "name": "pam_captcha",
+      "stargazers_count": 7,
       "popularity": 1.7853682828948099,
       "percentage": 100,
       "maturity": 0,
@@ -2082,6 +2460,8 @@
     },
     "jordansissel/ruby-rplot": {
       "full_name": "jordansissel/ruby-rplot",
+      "name": "ruby-rplot",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -2093,6 +2473,8 @@
     },
     "jordansissel/ifwm": {
       "full_name": "jordansissel/ifwm",
+      "name": "ifwm",
+      "stargazers_count": 2,
       "popularity": 1.0414282204429401,
       "percentage": 100,
       "maturity": 1.7870377452764827,
@@ -2104,6 +2486,8 @@
     },
     "jordansissel/slashport": {
       "full_name": "jordansissel/slashport",
+      "name": "slashport",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 2.0845073675966073,
@@ -2115,6 +2499,8 @@
     },
     "jordansissel/check_logstash": {
       "full_name": "jordansissel/check_logstash",
+      "name": "check_logstash",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 14.285714285714286,
       "maturity": 0,
@@ -2126,6 +2512,8 @@
     },
     "jordansissel/clamp": {
       "full_name": "jordansissel/clamp",
+      "name": "clamp",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 4.25531914893617,
       "maturity": 3.3857303922920043,
@@ -2137,6 +2525,8 @@
     },
     "jordansissel/firefox-tabsearch": {
       "full_name": "jordansissel/firefox-tabsearch",
+      "name": "firefox-tabsearch",
+      "stargazers_count": 2,
       "popularity": 1.0414282204429401,
       "percentage": 100,
       "maturity": 0,
@@ -2148,6 +2538,8 @@
     },
     "jordansissel/firefox-urledit": {
       "full_name": "jordansissel/firefox-urledit",
+      "name": "firefox-urledit",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -2159,6 +2551,8 @@
     },
     "jordansissel/fpm-cookery": {
       "full_name": "jordansissel/fpm-cookery",
+      "name": "fpm-cookery",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 0.8064516129032258,
       "maturity": 2.92653025393631,
@@ -2170,6 +2564,8 @@
     },
     "jordansissel/freebsd-newmoused": {
       "full_name": "jordansissel/freebsd-newmoused",
+      "name": "freebsd-newmoused",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -2181,6 +2577,8 @@
     },
     "jordansissel/googlemaps-traffic-sms": {
       "full_name": "jordansissel/googlemaps-traffic-sms",
+      "name": "googlemaps-traffic-sms",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -2192,6 +2590,8 @@
     },
     "jordansissel/grok-cpp": {
       "full_name": "jordansissel/grok-cpp",
+      "name": "grok-cpp",
+      "stargazers_count": 3,
       "popularity": 1.3222565221025262,
       "percentage": 100,
       "maturity": 0,
@@ -2203,6 +2603,8 @@
     },
     "jordansissel/homebrew": {
       "full_name": "jordansissel/homebrew",
+      "name": "homebrew",
+      "stargazers_count": 3,
       "popularity": 1.3222565221025262,
       "percentage": 0.060471679096956256,
       "maturity": 4.6937984736713245,
@@ -2214,6 +2616,8 @@
     },
     "jordansissel/logstash": {
       "full_name": "jordansissel/logstash",
+      "name": "logstash",
+      "stargazers_count": 5,
       "popularity": 1.6128219920330789,
       "percentage": 65.0340868317187,
       "maturity": 4.74478328978147,
@@ -2225,6 +2629,8 @@
     },
     "jordansissel/mpf": {
       "full_name": "jordansissel/mpf",
+      "name": "mpf",
+      "stargazers_count": 2,
       "popularity": 1.0414282204429401,
       "percentage": 71.42857142857143,
       "maturity": 0,
@@ -2236,6 +2642,8 @@
     },
     "jordansissel/nodejs-logging": {
       "full_name": "jordansissel/nodejs-logging",
+      "name": "nodejs-logging",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -2247,6 +2655,8 @@
     },
     "jordansissel/prm": {
       "full_name": "jordansissel/prm",
+      "name": "prm",
+      "stargazers_count": 4,
       "popularity": 1.49139952161816,
       "percentage": 66.66666666666667,
       "maturity": 0,
@@ -2258,6 +2668,8 @@
     },
     "jordansissel/puppet-extlookup": {
       "full_name": "jordansissel/puppet-extlookup",
+      "name": "puppet-extlookup",
+      "stargazers_count": 2,
       "popularity": 1.0414282204429401,
       "percentage": 8.333333333333334,
       "maturity": 0,
@@ -2269,6 +2681,8 @@
     },
     "jordansissel/python-pimp": {
       "full_name": "jordansissel/python-pimp",
+      "name": "python-pimp",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 2.808591644762431,
@@ -2280,6 +2694,8 @@
     },
     "jordansissel/ruby-matchit": {
       "full_name": "jordansissel/ruby-matchit",
+      "name": "ruby-matchit",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -2291,6 +2707,8 @@
     },
     "jordansissel/ruby-nagios": {
       "full_name": "jordansissel/ruby-nagios",
+      "name": "ruby-nagios",
+      "stargazers_count": 10,
       "popularity": 1.9590800514478444,
       "percentage": 22.727272727272727,
       "maturity": 0,
@@ -2302,6 +2720,8 @@
     },
     "jordansissel/windows-winmgr": {
       "full_name": "jordansissel/windows-winmgr",
+      "name": "windows-winmgr",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -2313,12 +2733,14 @@
     },
     "elastic/beats": {
       "full_name": "elastic/beats",
-      "popularity": 4.772661468882765,
+      "name": "beats",
+      "stargazers_count": 5928,
+      "popularity": 4.772881342562311,
       "percentage": 0.026483050847457626,
       "maturity": 4.8774976561048025,
       "total_commits_count": 7552,
       "activity": 5,
-      "total_score": 29.089411021584453,
+      "total_score": 29.090071399603453,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

@@ -1,0 +1,70 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "watchexec",
+  "full_name": "mattgreen/watchexec",
+  "owner": "mattgreen",
+  "private": false,
+  "html_url": "https://github.com/mattgreen/watchexec",
+  "description": "Executes commands in response to file modifications",
+  "fork": false,
+  "url": "https://api.github.com/repos/mattgreen/watchexec",
+  "languages_url": "https://api.github.com/repos/mattgreen/watchexec/languages",
+  "created_at": "2016-09-18T20:41:31Z",
+  "updated_at": "2018-08-01T18:13:47Z",
+  "pushed_at": "2018-08-01T15:38:17Z",
+  "homepage": "",
+  "size": 224,
+  "stargazers_count": 557,
+  "language": "Rust",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "mcgoo": 1,
+    "jmgao": 1,
+    "lilianmoraru": 1,
+    "octaltree": 1,
+    "robinst": 1,
+    "4tm4j33tk4ur": 1,
+    "neodc": 1,
+    "gsquire": 1,
+    "mattgathu": 2,
+    "jaemk": 2,
+    "akerl": 2,
+    "passcod": 2,
+    "craftytrickster": 2,
+    "palfrey": 2,
+    "chr4": 27,
+    "mattgreen": 180
+  },
+  "languages": {
+    "Rust": {
+      "bytes": 52783,
+      "color": "#dea584"
+    },
+    "Shell": {
+      "bytes": 512,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 506,
+      "color": "#427819"
+    },
+    "Ruby": {
+      "bytes": 464,
+      "color": "#701516"
+    },
+    "Python": {
+      "bytes": 58,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-01T20:16:09.053Z"
+}

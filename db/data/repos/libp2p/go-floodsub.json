@@ -1,0 +1,81 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "go-floodsub",
+  "full_name": "libp2p/go-floodsub",
+  "owner": "libp2p",
+  "private": false,
+  "html_url": "https://github.com/libp2p/go-floodsub",
+  "description": "A flooding 'pubsub' system.",
+  "fork": false,
+  "url": "https://api.github.com/repos/libp2p/go-floodsub",
+  "languages_url": "https://api.github.com/repos/libp2p/go-floodsub/languages",
+  "created_at": "2016-09-10T13:26:37Z",
+  "updated_at": "2018-07-25T15:26:38Z",
+  "pushed_at": "2018-07-21T03:00:13Z",
+  "homepage": null,
+  "size": 245,
+  "stargazers_count": 65,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "libp2p",
+    "id": 14838238,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0ODM4MjM4",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/14838238?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/libp2p",
+    "html_url": "https://github.com/libp2p",
+    "followers_url": "https://api.github.com/users/libp2p/followers",
+    "following_url": "https://api.github.com/users/libp2p/following{/other_user}",
+    "gists_url": "https://api.github.com/users/libp2p/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/libp2p/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/libp2p/subscriptions",
+    "organizations_url": "https://api.github.com/users/libp2p/orgs",
+    "repos_url": "https://api.github.com/users/libp2p/repos",
+    "events_url": "https://api.github.com/users/libp2p/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/libp2p/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "Go": {
+      "bytes": 79109,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 141,
+      "color": "#427819"
+    },
+    "Groovy": {
+      "bytes": 9,
+      "color": "#e69f56"
+    }
+  },
+  "contributors": {
+    "rargulati": 1,
+    "VictorBjelkholm": 1,
+    "magik6k": 1,
+    "lgierth": 1,
+    "elimisteve": 1,
+    "RichardLitt": 1,
+    "laser": 2,
+    "kevina": 2,
+    "Kubuxu": 2,
+    "film42": 3,
+    "jamesray1": 4,
+    "keks": 11,
+    "Stebalien": 41,
+    "whyrusleeping": 56,
+    "prestonvanloon": 1
+  },
+  "fetched_at": "2018-07-25T22:48:16.001Z"
+}

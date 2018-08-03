@@ -1,0 +1,86 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "distributions",
+  "full_name": "ipfs/distributions",
+  "owner": "ipfs",
+  "private": false,
+  "html_url": "https://github.com/ipfs/distributions",
+  "description": "dist.ipfs.io website and artifact build tools",
+  "fork": false,
+  "url": "https://api.github.com/repos/ipfs/distributions",
+  "languages_url": "https://api.github.com/repos/ipfs/distributions/languages",
+  "created_at": "2015-08-05T04:59:55Z",
+  "updated_at": "2018-07-25T03:11:56Z",
+  "pushed_at": "2018-07-25T03:12:01Z",
+  "homepage": "https://dist.ipfs.io",
+  "size": 2475,
+  "stargazers_count": 22,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "ipfs",
+    "id": 10536621,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwNTM2NjIx",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/10536621?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ipfs",
+    "html_url": "https://github.com/ipfs",
+    "followers_url": "https://api.github.com/users/ipfs/followers",
+    "following_url": "https://api.github.com/users/ipfs/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ipfs/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ipfs/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ipfs/subscriptions",
+    "organizations_url": "https://api.github.com/users/ipfs/orgs",
+    "repos_url": "https://api.github.com/users/ipfs/repos",
+    "events_url": "https://api.github.com/users/ipfs/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ipfs/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "CSS": {
+      "bytes": 124611,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 9397,
+      "color": "#89e051"
+    },
+    "JavaScript": {
+      "bytes": 7998,
+      "color": "#f1e05a"
+    },
+    "Makefile": {
+      "bytes": 6634,
+      "color": "#427819"
+    },
+    "Roff": {
+      "bytes": 1080,
+      "color": "#ecdebe"
+    }
+  },
+  "contributors": {
+    "MichaelMure": 1,
+    "magik6k": 1,
+    "Kubuxu": 1,
+    "greenkeeperio-bot": 1,
+    "RichardLitt": 5,
+    "diasdavid": 5,
+    "noffle": 6,
+    "Stebalien": 19,
+    "hsanjuan": 24,
+    "jbenet": 27,
+    "dignifiedquire": 49,
+    "whyrusleeping": 65
+  },
+  "fetched_at": "2018-07-25T06:27:58.557Z"
+}

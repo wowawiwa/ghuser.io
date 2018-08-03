@@ -1,0 +1,88 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "logstash-codec-netflow",
+  "full_name": "logstash-plugins/logstash-codec-netflow",
+  "owner": "logstash-plugins",
+  "private": false,
+  "html_url": "https://github.com/logstash-plugins/logstash-codec-netflow",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/logstash-plugins/logstash-codec-netflow",
+  "languages_url": "https://api.github.com/repos/logstash-plugins/logstash-codec-netflow/languages",
+  "created_at": "2014-09-30T12:16:06Z",
+  "updated_at": "2018-07-25T12:05:18Z",
+  "pushed_at": "2018-07-25T12:05:15Z",
+  "homepage": null,
+  "size": 328,
+  "stargazers_count": 65,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "logstash-plugins",
+    "id": 8961934,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjg5NjE5MzQ=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/8961934?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/logstash-plugins",
+    "html_url": "https://github.com/logstash-plugins",
+    "followers_url": "https://api.github.com/users/logstash-plugins/followers",
+    "following_url": "https://api.github.com/users/logstash-plugins/following{/other_user}",
+    "gists_url": "https://api.github.com/users/logstash-plugins/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/logstash-plugins/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/logstash-plugins/subscriptions",
+    "organizations_url": "https://api.github.com/users/logstash-plugins/orgs",
+    "repos_url": "https://api.github.com/users/logstash-plugins/repos",
+    "events_url": "https://api.github.com/users/logstash-plugins/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/logstash-plugins/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "Ruby": {
+      "bytes": 156509,
+      "color": "#701516"
+    },
+    "Python": {
+      "bytes": 25338,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 1385,
+      "color": "#89e051"
+    }
+  },
+  "contributors": {
+    "robcowart": 1,
+    "kesslerm": 1,
+    "abeeson": 1,
+    "advt": 1,
+    "andrewvc": 1,
+    "jakelandis": 1,
+    "sliddjur": 1,
+    "jmahonin": 1,
+    "SaaldjorMike": 1,
+    "ejectck": 1,
+    "ycombinator": 1,
+    "debadair": 1,
+    "marian-craciunescu": 2,
+    "jordansissel": 2,
+    "suyograo": 2,
+    "gjmoed": 2,
+    "electrical": 2,
+    "colinsurprenant": 3,
+    "jsvd": 5,
+    "bodgit": 7,
+    "ph": 40,
+    "jorritfolmer": 76
+  },
+  "fetched_at": "2018-07-25T14:10:51.615Z"
+}

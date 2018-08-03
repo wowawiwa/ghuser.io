@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "nazar-server",
+  "full_name": "aryaminus/nazar-server",
+  "owner": "aryaminus",
+  "private": false,
+  "html_url": "https://github.com/aryaminus/nazar-server",
+  "description": "Heroku deployed Flask + Bottle server used by nazar app to classify images after converting base64 text to image & going through the tensorflow InceptionV3 trained frozen graph to send predicted name along with octopart description and details",
+  "fork": false,
+  "url": "https://api.github.com/repos/aryaminus/nazar-server",
+  "languages_url": "https://api.github.com/repos/aryaminus/nazar-server/languages",
+  "created_at": "2018-06-24T09:55:27Z",
+  "updated_at": "2018-07-28T17:07:06Z",
+  "pushed_at": "2018-07-28T17:07:05Z",
+  "homepage": "https://goo.gl/RA8pbn",
+  "size": 79900,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "psuzn": 6,
+    "aryaminus": 34
+  },
+  "languages": {
+    "Python": {
+      "bytes": 62286,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 795,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-07-29T00:23:03.240Z"
+}

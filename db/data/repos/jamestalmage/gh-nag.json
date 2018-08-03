@@ -1,0 +1,40 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gh-nag",
+  "full_name": "jamestalmage/gh-nag",
+  "owner": "jamestalmage",
+  "private": false,
+  "html_url": "https://github.com/jamestalmage/gh-nag",
+  "description": "Never forget a PR or issue again!",
+  "fork": false,
+  "url": "https://api.github.com/repos/jamestalmage/gh-nag",
+  "languages_url": "https://api.github.com/repos/jamestalmage/gh-nag/languages",
+  "created_at": "2016-02-04T05:59:55Z",
+  "updated_at": "2018-06-01T07:44:34Z",
+  "pushed_at": "2016-02-05T19:37:33Z",
+  "homepage": "",
+  "size": 35,
+  "stargazers_count": 62,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "languages": {
+    "JavaScript": {
+      "bytes": 15105,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 488,
+      "color": "#e34c26"
+    }
+  },
+  "contributors": {
+    "RichardLitt": 1,
+    "kentcdodds": 1,
+    "andrepolischuk": 1,
+    "jamestalmage": 1
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

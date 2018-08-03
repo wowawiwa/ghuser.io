@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "reading-list",
+  "full_name": "simonv3/reading-list",
+  "owner": "simonv3",
+  "private": false,
+  "html_url": "https://github.com/simonv3/reading-list",
+  "description": "A Hood.ie Powered Reading List",
+  "fork": false,
+  "url": "https://api.github.com/repos/simonv3/reading-list",
+  "languages_url": "https://api.github.com/repos/simonv3/reading-list/languages",
+  "created_at": "2014-11-10T10:23:10Z",
+  "updated_at": "2017-07-27T17:44:37Z",
+  "pushed_at": "2016-11-22T22:47:29Z",
+  "homepage": null,
+  "size": 2296,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "develop",
+  "languages": {
+    "JavaScript": {
+      "bytes": 13725,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 4584,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 1861,
+      "color": "#563d7c"
+    }
+  },
+  "contributors": {
+    "RichardLitt": 1,
+    "andersaloof": 1,
+    "AndreasPizsa": 1,
+    "pBun": 1,
+    "scottsilvi": 1,
+    "solomonhawk": 1,
+    "maximerassi": 2,
+    "dqdinh": 2,
+    "aobyrne": 2,
+    "pprince": 5,
+    "simonv3": 31,
+    "greypants": 42
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z"
+}

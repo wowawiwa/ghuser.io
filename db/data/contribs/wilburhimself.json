@@ -3,6 +3,8 @@
   "repos": {
     "developersdo/opensource": {
       "full_name": "developersdo/opensource",
+      "name": "opensource",
+      "stargazers_count": 35,
       "popularity": 2.532793353021433,
       "percentage": 1.9230769230769231,
       "maturity": 3.436464223545136,
@@ -14,6 +16,8 @@
     },
     "ForwardFinancing/process_lock": {
       "full_name": "ForwardFinancing/process_lock",
+      "name": "process_lock",
+      "stargazers_count": 2,
       "popularity": 1.0414282204429401,
       "percentage": 0,
       "maturity": 0,
@@ -25,6 +29,8 @@
     },
     "SinanMtl/webpack-simple-starter": {
       "full_name": "SinanMtl/webpack-simple-starter",
+      "name": "webpack-simple-starter",
+      "stargazers_count": 662,
       "popularity": 3.8203062399018353,
       "percentage": 7.6923076923076925,
       "maturity": 0,
@@ -36,6 +42,8 @@
     },
     "edwardtufte/tufte-css": {
       "full_name": "edwardtufte/tufte-css",
+      "name": "tufte-css",
+      "stargazers_count": 3583,
       "popularity": 4.554176793263272,
       "percentage": 0.45454545454545453,
       "maturity": 3.2572490692670404,
@@ -47,6 +55,8 @@
     },
     "wilburhimself/rubykoans": {
       "full_name": "wilburhimself/rubykoans",
+      "name": "rubykoans",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -58,6 +68,8 @@
     },
     "knightking100/hello-worlds": {
       "full_name": "knightking100/hello-worlds",
+      "name": "hello-worlds",
+      "stargazers_count": 47,
       "popularity": 2.6637399292557244,
       "percentage": 0.5788712011577424,
       "maturity": 3.8153837478143138,
@@ -69,6 +81,8 @@
     },
     "wilburhimself/graphql_sequelize_starter": {
       "full_name": "wilburhimself/graphql_sequelize_starter",
+      "name": "graphql_sequelize_starter",
+      "stargazers_count": 2,
       "popularity": 1.0414282204429401,
       "percentage": 100,
       "maturity": 0,
@@ -80,6 +94,8 @@
     },
     "SpinaCMS/Spina": {
       "full_name": "SpinaCMS/Spina",
+      "name": "Spina",
+      "stargazers_count": 1554,
       "popularity": 4.19123850583809,
       "percentage": 0.17452006980802792,
       "maturity": 3.728544676082591,
@@ -91,10 +107,12 @@
     },
     "cdnjs/cdnjs": {
       "full_name": "cdnjs/cdnjs",
+      "name": "cdnjs",
+      "stargazers_count": 6532,
       "popularity": 4.815025421504075,
       "percentage": 0,
       "maturity": 5,
-      "total_commits_count": 53893,
+      "total_commits_count": 53903,
       "activity": 5,
       "total_score": 29.445076264512224,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
@@ -102,6 +120,8 @@
     },
     "EbookFoundation/free-programming-books": {
       "full_name": "EbookFoundation/free-programming-books",
+      "name": "free-programming-books",
+      "stargazers_count": 109052,
       "popularity": 5,
       "percentage": 0,
       "maturity": 4.585626193333993,
@@ -113,6 +133,8 @@
     },
     "wilburhimself/dropboxy": {
       "full_name": "wilburhimself/dropboxy",
+      "name": "dropboxy",
+      "stargazers_count": 3,
       "popularity": 1.3222565221025262,
       "percentage": 100,
       "maturity": 0,
@@ -124,6 +146,8 @@
     },
     "wilburhimself/sandwich-store": {
       "full_name": "wilburhimself/sandwich-store",
+      "name": "sandwich-store",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -135,6 +159,8 @@
     },
     "wilburhimself/fastbreak": {
       "full_name": "wilburhimself/fastbreak",
+      "name": "fastbreak",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -146,6 +172,8 @@
     },
     "wilburhimself/flame": {
       "full_name": "wilburhimself/flame",
+      "name": "flame",
+      "stargazers_count": 3,
       "popularity": 1.3222565221025262,
       "percentage": 100,
       "maturity": 0,
@@ -157,6 +185,8 @@
     },
     "wilburhimself/shell-tutorial": {
       "full_name": "wilburhimself/shell-tutorial",
+      "name": "shell-tutorial",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -168,6 +198,8 @@
     },
     "wilburhimself/evev": {
       "full_name": "wilburhimself/evev",
+      "name": "evev",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -179,6 +211,8 @@
     },
     "wilburhimself/tombler": {
       "full_name": "wilburhimself/tombler",
+      "name": "tombler",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -190,6 +224,8 @@
     },
     "bcit-ci/CodeIgniter": {
       "full_name": "bcit-ci/CodeIgniter",
+      "name": "CodeIgniter",
+      "stargazers_count": 16384,
       "popularity": 5,
       "percentage": 0,
       "maturity": 4.886084111764763,
@@ -201,6 +237,8 @@
     },
     "wilburhimself/CodeIgniter": {
       "full_name": "wilburhimself/CodeIgniter",
+      "name": "CodeIgniter",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 0.06222775357809583,
       "maturity": 4.1968329186446,

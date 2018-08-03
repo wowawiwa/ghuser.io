@@ -1,0 +1,87 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "orgmanager",
+  "full_name": "orgmanager/orgmanager",
+  "owner": "orgmanager",
+  "private": false,
+  "html_url": "https://github.com/orgmanager/orgmanager",
+  "description": "Invite System for GitHub Organizations",
+  "fork": false,
+  "url": "https://api.github.com/repos/orgmanager/orgmanager",
+  "languages_url": "https://api.github.com/repos/orgmanager/orgmanager/languages",
+  "created_at": "2017-01-13T17:37:57Z",
+  "updated_at": "2018-07-24T20:50:47Z",
+  "pushed_at": "2018-07-23T06:58:43Z",
+  "homepage": "",
+  "size": 1601,
+  "stargazers_count": 145,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mpl-2.0",
+    "name": "Mozilla Public License 2.0",
+    "spdx_id": "MPL-2.0",
+    "url": "https://api.github.com/licenses/mpl-2.0",
+    "node_id": "MDc6TGljZW5zZTE0"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "orgmanager",
+    "id": 26161276,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI2MTYxMjc2",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/26161276?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/orgmanager",
+    "html_url": "https://github.com/orgmanager",
+    "followers_url": "https://api.github.com/users/orgmanager/followers",
+    "following_url": "https://api.github.com/users/orgmanager/following{/other_user}",
+    "gists_url": "https://api.github.com/users/orgmanager/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/orgmanager/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/orgmanager/subscriptions",
+    "organizations_url": "https://api.github.com/users/orgmanager/orgs",
+    "repos_url": "https://api.github.com/users/orgmanager/repos",
+    "events_url": "https://api.github.com/users/orgmanager/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/orgmanager/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "PHP": {
+      "bytes": 132079,
+      "color": "#4F5D95"
+    },
+    "HTML": {
+      "bytes": 75268,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 23697,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 3619,
+      "color": "#563d7c"
+    }
+  },
+  "contributors": {
+    "renovate[bot]": 1,
+    "StyleJS-Bot": 1,
+    "joaorobertopb": 1,
+    "ruman63": 1,
+    "limonte": 1,
+    "laravel-shift": 1,
+    "piamancini": 1,
+    "samrichca": 1,
+    "scrutinizer-auto-fixer": 1,
+    "codacy-badger": 1,
+    "greenkeeper[bot]": 1,
+    "imanghafoori1": 2,
+    "RichardLitt": 4,
+    "rudSarkar": 9,
+    "renovate-bot": 18,
+    "m1guelpf": 406,
+    "NathanGeerinck": 4
+  },
+  "fetched_at": "2018-07-25T00:05:30.322Z"
+}

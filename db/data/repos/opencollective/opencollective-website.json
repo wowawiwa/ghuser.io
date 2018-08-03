@@ -1,0 +1,93 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "opencollective-website",
+  "full_name": "opencollective/opencollective-website",
+  "owner": "opencollective",
+  "private": false,
+  "html_url": "https://github.com/opencollective/opencollective-website",
+  "description": "OpenCollective frontend",
+  "fork": false,
+  "url": "https://api.github.com/repos/opencollective/opencollective-website",
+  "languages_url": "https://api.github.com/repos/opencollective/opencollective-website/languages",
+  "created_at": "2016-02-04T16:30:42Z",
+  "updated_at": "2018-08-03T11:49:19Z",
+  "pushed_at": "2018-07-19T14:26:18Z",
+  "homepage": "",
+  "size": 49050,
+  "stargazers_count": 58,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "opencollective",
+    "id": 13403593,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzNDAzNTkz",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/13403593?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/opencollective",
+    "html_url": "https://github.com/opencollective",
+    "followers_url": "https://api.github.com/users/opencollective/followers",
+    "following_url": "https://api.github.com/users/opencollective/following{/other_user}",
+    "gists_url": "https://api.github.com/users/opencollective/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/opencollective/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/opencollective/subscriptions",
+    "organizations_url": "https://api.github.com/users/opencollective/orgs",
+    "repos_url": "https://api.github.com/users/opencollective/repos",
+    "events_url": "https://api.github.com/users/opencollective/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/opencollective/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 561342,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 154054,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 34595,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 3563,
+      "color": "#89e051"
+    }
+  },
+  "contributors": {
+    "vitorbaptista": 1,
+    "ErnieAtLYD": 1,
+    "jancborchardt": 1,
+    "thomasJang": 1,
+    "RichardLitt": 1,
+    "scottmathson": 1,
+    "w00fz": 1,
+    "gabriellupu": 1,
+    "datapimp": 1,
+    "dasilvacontin": 1,
+    "clarete": 2,
+    "nellolux": 2,
+    "boneskull": 2,
+    "alannallama": 3,
+    "phated": 3,
+    "HipsterBrown": 8,
+    "piamancini": 47,
+    "noeldelgado": 59,
+    "arnaudbenard": 74,
+    "sedubois": 78,
+    "carlosascari": 157,
+    "asood123": 470,
+    "xdamman": 598
+  },
+  "fetched_at": "2018-08-03T13:45:28.336Z"
+}

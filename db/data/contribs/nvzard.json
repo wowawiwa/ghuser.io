@@ -3,6 +3,8 @@
   "repos": {
     "coala/corobo": {
       "full_name": "coala/corobo",
+      "name": "corobo",
+      "stargazers_count": 49,
       "popularity": 2.6821840837653634,
       "percentage": 8.05084745762712,
       "maturity": 3.294213028619176,
@@ -14,6 +16,8 @@
     },
     "errbotio/errbot": {
       "full_name": "errbotio/errbot",
+      "name": "errbot",
+      "stargazers_count": 1772,
       "popularity": 4.248282169500966,
       "percentage": 0.12004801920768307,
       "maturity": 4.3925124379491125,
@@ -25,6 +29,8 @@
     },
     "errbotio/err-backend-gitter": {
       "full_name": "errbotio/err-backend-gitter",
+      "name": "err-backend-gitter",
+      "stargazers_count": 13,
       "popularity": 2.0828241359374196,
       "percentage": 2.2222222222222223,
       "maturity": 1.709272515882201,
@@ -36,6 +42,8 @@
     },
     "coala/devops": {
       "full_name": "coala/devops",
+      "name": "devops",
+      "stargazers_count": 8,
       "popularity": 1.8512968868523627,
       "percentage": 0.7633587786259542,
       "maturity": 2.961252793435558,
@@ -47,6 +55,8 @@
     },
     "omegaup/omegaup": {
       "full_name": "omegaup/omegaup",
+      "name": "omegaup",
+      "stargazers_count": 63,
       "popularity": 2.7931306258879904,
       "percentage": 0,
       "maturity": 4.559616252380042,
@@ -58,6 +68,8 @@
     },
     "nvzard/Stocks-Finance": {
       "full_name": "nvzard/Stocks-Finance",
+      "name": "Stocks-Finance",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
@@ -69,6 +81,8 @@
     },
     "coala/coala-bears": {
       "full_name": "coala/coala-bears",
+      "name": "coala-bears",
+      "stargazers_count": 202,
       "popularity": 3.303451139813469,
       "percentage": 0.3065134099616858,
       "maturity": 4.103861037370727,
@@ -80,17 +94,21 @@
     },
     "coala/coala": {
       "full_name": "coala/coala",
-      "popularity": 4.366106991783223,
+      "name": "coala",
+      "stargazers_count": 2325,
+      "popularity": 4.366293897657852,
       "percentage": 0.09886307464162135,
       "maturity": 4.604458061277068,
       "total_commits_count": 4046,
       "activity": 5,
-      "total_score": 27.363351176888663,
+      "total_score": 27.363914296664174,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "openwisp/openwisp2-docs": {
       "full_name": "openwisp/openwisp2-docs",
+      "name": "openwisp2-docs",
+      "stargazers_count": 13,
       "popularity": 2.0828241359374196,
       "percentage": 1.36986301369863,
       "maturity": 2.5215590771505747,
@@ -102,6 +120,8 @@
     },
     "nvzard/Java-Lab-Programs": {
       "full_name": "nvzard/Java-Lab-Programs",
+      "name": "Java-Lab-Programs",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 100,
       "maturity": 2.2594053196037502,
@@ -113,6 +133,8 @@
     },
     "sendgrid/php-http-client": {
       "full_name": "sendgrid/php-http-client",
+      "name": "php-http-client",
+      "stargazers_count": 32,
       "popularity": 2.492799351998761,
       "percentage": 1.2903225806451613,
       "maturity": 3.062810136718,
@@ -124,6 +146,8 @@
     },
     "sendgrid/smtpapi-ruby": {
       "full_name": "sendgrid/smtpapi-ruby",
+      "name": "smtpapi-ruby",
+      "stargazers_count": 13,
       "popularity": 2.0828241359374196,
       "percentage": 1.1627906976744187,
       "maturity": 2.6654334850844252,
@@ -135,17 +159,21 @@
     },
     "openebs/maya": {
       "full_name": "openebs/maya",
+      "name": "maya",
+      "stargazers_count": 102,
       "popularity": 3.0047902055826565,
-      "percentage": 0.16,
-      "maturity": 3.7689661205569407,
-      "total_commits_count": 625,
+      "percentage": 0.1597444089456869,
+      "maturity": 3.7697077443331537,
+      "total_commits_count": 626,
       "activity": 5,
-      "total_score": 21.61480249413797,
+      "total_score": 21.616185902015836,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "sendgrid/docs": {
       "full_name": "sendgrid/docs",
+      "name": "docs",
+      "stargazers_count": 114,
       "popularity": 3.0535016590191395,
       "percentage": 0.009888262632255512,
       "maturity": 5,
@@ -157,6 +185,8 @@
     },
     "openebs/jiva": {
       "full_name": "openebs/jiva",
+      "name": "jiva",
+      "stargazers_count": 62,
       "popularity": 2.7860802349238196,
       "percentage": 0,
       "maturity": 3.673926201184311,
@@ -168,6 +198,8 @@
     },
     "coala/coala-quickstart": {
       "full_name": "coala/coala-quickstart",
+      "name": "coala-quickstart",
+      "stargazers_count": 33,
       "popularity": 2.506543999292103,
       "percentage": 0.6993006993006993,
       "maturity": 3.014993303140942,
@@ -179,6 +211,8 @@
     },
     "MUSoC/rtfd-cli": {
       "full_name": "MUSoC/rtfd-cli",
+      "name": "rtfd-cli",
+      "stargazers_count": 6,
       "popularity": 1.7076084983408428,
       "percentage": 91.54929577464789,
       "maturity": 2.4944911357284782,
@@ -190,6 +224,8 @@
     },
     "tapasweni-pathak/Getting-Started-With-Contributing-to-Open-Sources": {
       "full_name": "tapasweni-pathak/Getting-Started-With-Contributing-to-Open-Sources",
+      "name": "Getting-Started-With-Contributing-to-Open-Sources",
+      "stargazers_count": 184,
       "popularity": 3.262727411607676,
       "percentage": 2.272727272727273,
       "maturity": 1.614477908582291,
@@ -201,6 +237,8 @@
     },
     "ritiek/trunofficial": {
       "full_name": "ritiek/trunofficial",
+      "name": "trunofficial",
+      "stargazers_count": 7,
       "popularity": 1.7853682828948099,
       "percentage": 1.2048192771084338,
       "maturity": 2.636209568212883,
@@ -212,6 +250,8 @@
     },
     "nvzard/rtfd-cli": {
       "full_name": "nvzard/rtfd-cli",
+      "name": "rtfd-cli",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 91.54929577464789,
       "maturity": 2.4944911357284782,
@@ -223,6 +263,8 @@
     },
     "nvzard/truecaller-unofficial-api": {
       "full_name": "nvzard/truecaller-unofficial-api",
+      "name": "truecaller-unofficial-api",
+      "stargazers_count": 1,
       "popularity": 0,
       "percentage": 10,
       "maturity": 0,
