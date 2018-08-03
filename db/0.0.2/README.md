@@ -63,24 +63,24 @@ $ ./fetchAndCalculateAll.sh
 ...
 data/
   users/
-    26 users
+    42 users
     largest: richardlitt.json (39 KB)
     total: 123 KB
   contribs/
-    largest: richardlitt.json (287 KB)
-    total: 766 KB
+    largest: richardlitt.json (307 KB)
+    total: 989 KB
   repos/
-    1733 repos
-    largest: OpenGenus/cosmos.json (14 KB)
-    total: 3832 KB
-  orgs.json: 107 KB
+    2077 repos
+    largest: AliceWonderland/hacktoberfest.json (14 KB)
+    total: 4632 KB
+  orgs.json: 123 KB
   total: 4828 KB
 
-=> 186 KB/user
+=> 141 KB/user
 
-real    10m35.411s
-user    2m34.128s
-sys     0m18.912s
+real    16m37.964s
+user    3m41.584s
+sys     0m27.292s
 ```
 
 > **NOTE**: API keys can be created [here](https://github.com/settings/developers).
