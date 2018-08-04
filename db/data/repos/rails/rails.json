@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/rails/rails",
   "languages_url": "https://api.github.com/repos/rails/rails/languages",
   "created_at": "2008-04-11T02:19:47Z",
-  "updated_at": "2018-08-03T13:27:19Z",
-  "pushed_at": "2018-08-03T13:26:22Z",
+  "updated_at": "2018-08-04T03:18:08Z",
+  "pushed_at": "2018-08-04T04:00:54Z",
   "homepage": "https://rubyonrails.org",
-  "size": 164826,
-  "stargazers_count": 40390,
+  "size": 164827,
+  "stargazers_count": 40399,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "Ruby": {
-      "bytes": 11978901,
+      "bytes": 11979294,
       "color": "#701516"
     },
     "HTML": {
@@ -134,7 +134,7 @@
     "bogdanvlviv": 190,
     "arthurnn": 384,
     "robin850": 278,
-    "georgeclaghorn": 328,
+    "georgeclaghorn": 331,
     "sikachu": 208,
     "zzak": 443,
     "mikel": 238,
@@ -464,5 +464,5 @@
     "bdewater": 15,
     "ptoomey3": 8
   },
-  "fetched_at": "2018-08-03T13:45:28.336Z"
+  "fetched_at": "2018-08-04T04:50:08.376Z"
 }

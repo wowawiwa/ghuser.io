@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/plotly/falcon-sql-client",
   "languages_url": "https://api.github.com/repos/plotly/falcon-sql-client/languages",
   "created_at": "2016-05-12T01:03:48Z",
-  "updated_at": "2018-08-03T06:19:00Z",
-  "pushed_at": "2018-08-03T06:18:57Z",
+  "updated_at": "2018-08-04T02:49:49Z",
+  "pushed_at": "2018-08-03T23:23:40Z",
   "homepage": "https://plot.ly/free-sql-client-download/",
-  "size": 12215,
+  "size": 12230,
   "stargazers_count": 561,
   "language": "JavaScript",
   "mirror_url": null,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 732209,
+      "bytes": 734743,
       "color": "#f1e05a"
     },
     "CSS": {
@@ -73,7 +73,7 @@
     }
   },
   "contributors": {
-    "briandennis": 28,
+    "briandennis": 29,
     "alvaroabascar": 1,
     "mperreux": 1,
     "bpostlethwaite": 1,
@@ -91,5 +91,5 @@
     "jakedex": 15,
     "nicolaskruchten": 1
   },
-  "fetched_at": "2018-08-03T13:45:28.336Z"
+  "fetched_at": "2018-08-04T04:50:08.376Z"
 }

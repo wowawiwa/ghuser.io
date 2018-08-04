@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/storybooks/storybook",
   "languages_url": "https://api.github.com/repos/storybooks/storybook/languages",
   "created_at": "2016-03-18T04:23:44Z",
-  "updated_at": "2018-08-03T13:47:50Z",
-  "pushed_at": "2018-08-03T10:38:01Z",
+  "updated_at": "2018-08-04T04:24:53Z",
+  "pushed_at": "2018-08-03T23:00:59Z",
   "homepage": "https://storybook.js.org",
-  "size": 108823,
-  "stargazers_count": 26683,
+  "size": 109238,
+  "stargazers_count": 26709,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -143,7 +143,7 @@
     "igor-dv": 645,
     "shilman": 805,
     "mnmtanish": 808,
-    "ndelangen": 1552,
+    "ndelangen": 1553,
     "Hypnosphi": 2215,
     "arunoda": 1111,
     "dependencies-bot": 2209,
@@ -468,11 +468,12 @@
     "camel-floss": 4,
     "libetl": 3,
     "faun": 2,
-    "astrotim": 1
+    "astrotim": 1,
+    "tkh44": 3
   },
   "languages": {
     "JavaScript": {
-      "bytes": 815787,
+      "bytes": 815343,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -516,5 +517,5 @@
       "color": "#d4bec1"
     }
   },
-  "fetched_at": "2018-08-03T13:45:28.336Z"
+  "fetched_at": "2018-08-04T04:50:08.376Z"
 }

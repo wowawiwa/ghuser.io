@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/facebook/react",
   "languages_url": "https://api.github.com/repos/facebook/react/languages",
   "created_at": "2013-05-24T16:15:54Z",
-  "updated_at": "2018-08-03T13:44:24Z",
-  "pushed_at": "2018-08-03T12:31:24Z",
+  "updated_at": "2018-08-04T03:48:38Z",
+  "pushed_at": "2018-08-03T22:03:35Z",
   "homepage": "https://reactjs.org",
-  "size": 137444,
-  "stargazers_count": 107909,
+  "size": 137457,
+  "stargazers_count": 107979,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -117,7 +117,7 @@
     "fabiomcosta": 15,
     "Daniel15": 17,
     "iamdustan": 17,
-    "jquense": 17,
+    "jquense": 18,
     "hellendag": 21,
     "aickin": 19,
     "joshduck": 21,
@@ -263,7 +263,7 @@
     "hkal": 3,
     "zwhitchcox": 3,
     "watadarkstar": 3,
-    "alexeyraspopov": 3,
+    "alexeyraspopov": 5,
     "adammark": 2,
     "Wildhoney": 2,
     "pluma": 2,
@@ -502,11 +502,12 @@
     "jtmalinowski": 3,
     "fckt": 1,
     "acusti": 1,
-    "jegtnes": 1
+    "jegtnes": 1,
+    "clarkdo": 2
   },
   "languages": {
     "JavaScript": {
-      "bytes": 1968882,
+      "bytes": 1970095,
       "color": "#f1e05a"
     },
     "C++": {
@@ -518,11 +519,11 @@
       "color": "#e34c26"
     },
     "TypeScript": {
-      "bytes": 19958,
+      "bytes": 20145,
       "color": "#2b7489"
     },
     "CoffeeScript": {
-      "bytes": 15766,
+      "bytes": 15980,
       "color": "#244776"
     },
     "CSS": {
@@ -546,5 +547,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-03T13:45:28.336Z"
+  "fetched_at": "2018-08-04T04:50:08.376Z"
 }

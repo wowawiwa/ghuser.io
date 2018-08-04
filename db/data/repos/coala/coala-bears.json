@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/coala/coala-bears",
   "languages_url": "https://api.github.com/repos/coala/coala-bears/languages",
   "created_at": "2016-02-14T09:25:11Z",
-  "updated_at": "2018-07-29T15:14:40Z",
-  "pushed_at": "2018-07-29T15:14:24Z",
+  "updated_at": "2018-08-04T00:31:54Z",
+  "pushed_at": "2018-08-04T00:31:29Z",
   "homepage": "https://coala.io/",
-  "size": 2250,
+  "size": 2251,
   "stargazers_count": 202,
   "language": "Python",
   "mirror_url": null,
@@ -86,7 +86,7 @@
     "Redridge": 2,
     "sims1253": 2,
     "nishant-mor": 2,
-    "pareksha": 3,
+    "pareksha": 4,
     "harshhx17": 3,
     "khanchi97": 3,
     "shreyans800755": 3,
@@ -246,11 +246,12 @@
     "yashtrivedi96": 1,
     "sladyn98": 1,
     "vddesai1998": 1,
-    "sinscary": 1
+    "sinscary": 1,
+    "osuchovski": 1
   },
   "languages": {
     "Python": {
-      "bytes": 1116109,
+      "bytes": 1117918,
       "color": "#3572A5"
     },
     "C": {
@@ -302,5 +303,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-07-29T18:09:30.497Z"
+  "fetched_at": "2018-08-04T04:50:08.376Z"
 }

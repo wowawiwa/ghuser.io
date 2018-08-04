@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/mlflow/mlflow",
   "languages_url": "https://api.github.com/repos/mlflow/mlflow/languages",
   "created_at": "2018-06-05T16:05:58Z",
-  "updated_at": "2018-08-03T13:01:55Z",
-  "pushed_at": "2018-08-03T07:47:35Z",
+  "updated_at": "2018-08-04T00:41:59Z",
+  "pushed_at": "2018-08-04T01:06:52Z",
   "homepage": "https://mlflow.org",
-  "size": 3336,
-  "stargazers_count": 1887,
+  "size": 3344,
+  "stargazers_count": 1889,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -53,7 +53,7 @@
     "cryptexis": 1,
     "emres": 3,
     "0wu": 1,
-    "jakeret": 3,
+    "jakeret": 4,
     "d18s": 1,
     "jdodb": 1,
     "manugarri": 1,
@@ -73,7 +73,7 @@
     "juntai-zheng": 10,
     "stbof": 13,
     "mateiz": 17,
-    "smurching": 28,
+    "smurching": 30,
     "aarondav": 21,
     "dbczumar": 3,
     "bnekolny": 1,
@@ -83,7 +83,7 @@
   },
   "languages": {
     "Python": {
-      "bytes": 408347,
+      "bytes": 411333,
       "color": "#3572A5"
     },
     "JavaScript": {
@@ -111,5 +111,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-03T13:45:28.336Z"
+  "fetched_at": "2018-08-04T04:50:08.376Z"
 }

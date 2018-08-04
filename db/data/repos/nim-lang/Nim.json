@@ -50,7 +50,7 @@
     "Paalon": 14,
     "Yardanico": 18,
     "skilchen": 21,
-    "barcharcraz": 16,
+    "barcharcraz": 17,
     "ventor3000": 15,
     "exhu": 15,
     "genotrance": 16,
@@ -359,11 +359,11 @@
   "url": "https://api.github.com/repos/nim-lang/Nim",
   "languages_url": "https://api.github.com/repos/nim-lang/Nim/languages",
   "created_at": "2010-08-16T20:38:58Z",
-  "updated_at": "2018-08-03T11:13:12Z",
-  "pushed_at": "2018-08-03T12:37:22Z",
+  "updated_at": "2018-08-04T04:02:50Z",
+  "pushed_at": "2018-08-03T23:18:28Z",
   "homepage": "https://nim-lang.org/",
-  "size": 69732,
-  "stargazers_count": 5252,
+  "size": 69683,
+  "stargazers_count": 5257,
   "language": "Nim",
   "mirror_url": null,
   "archived": false,
@@ -397,7 +397,7 @@
   },
   "languages": {
     "Nim": {
-      "bytes": 8296890,
+      "bytes": 8296902,
       "color": "#37775b"
     },
     "C": {
@@ -445,5 +445,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-03T13:45:28.336Z"
+  "fetched_at": "2018-08-04T04:50:08.376Z"
 }

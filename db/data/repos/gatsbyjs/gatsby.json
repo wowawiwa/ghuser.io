@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/gatsbyjs/gatsby",
   "languages_url": "https://api.github.com/repos/gatsbyjs/gatsby/languages",
   "created_at": "2015-05-21T22:43:05Z",
-  "updated_at": "2018-08-03T13:50:54Z",
-  "pushed_at": "2018-08-03T13:25:57Z",
+  "updated_at": "2018-08-04T04:19:38Z",
+  "pushed_at": "2018-08-04T02:47:29Z",
   "homepage": "https://www.gatsbyjs.org",
-  "size": 368391,
-  "stargazers_count": 24107,
+  "size": 369043,
+  "stargazers_count": 24121,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -108,7 +108,7 @@
     "ThatOtherPerson": 11,
     "slorber": 8,
     "fson": 8,
-    "kkemple": 15,
+    "kkemple": 16,
     "Undistraction": 9,
     "alampros": 9,
     "scottnonnenberg": 9,
@@ -139,14 +139,14 @@
     "0x80": 29,
     "LeKoArts": 33,
     "sebastienfi": 35,
-    "calcsam": 44,
+    "calcsam": 47,
     "ryanditjia": 58,
     "jquense": 113,
     "fk": 112,
-    "pieh": 134,
-    "shannonbux": 147,
-    "m-allanson": 289,
-    "KyleAMathews": 2572,
+    "pieh": 135,
+    "shannonbux": 148,
+    "m-allanson": 291,
+    "KyleAMathews": 2573,
     "thebigredgeek": 6,
     "mathieudutour": 4,
     "wuweiweiwu": 5,
@@ -348,7 +348,7 @@
     "lightstrike": 2,
     "liudonghua123": 2,
     "lucastanz": 2,
-    "sw-yx": 2,
+    "sw-yx": 3,
     "tsiq-swyx": 2,
     "wonism": 2,
     "swim": 2,
@@ -547,11 +547,13 @@
     "shobhitchittora": 2,
     "anantoghosh": 2,
     "janosh": 4,
-    "hellobrian": 1
+    "hellobrian": 1,
+    "charlescatta": 1,
+    "deini": 1
   },
   "languages": {
     "JavaScript": {
-      "bytes": 1385130,
+      "bytes": 1438081,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -571,5 +573,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-03T13:45:28.336Z"
+  "fetched_at": "2018-08-04T04:50:08.376Z"
 }

@@ -95,12 +95,12 @@
     "aomarks": 59,
     "rictic": 54,
     "jsoref": 59,
-    "TimvdLippe": 135,
+    "TimvdLippe": 138,
     "frankiefu": 214,
     "sjmiles": 622,
     "azakus": 1093,
     "kevinpschaaf": 1266,
-    "sorvell": 2038,
+    "sorvell": 2039,
     "katejeffreys": 2,
     "1000ch": 1,
     "InfosecEskimo": 1,
@@ -135,7 +135,8 @@
     "jlaamanen": 1,
     "jorgecasar": 1,
     "salvador-barboza": 1,
-    "dimon-durak": 1
+    "dimon-durak": 1,
+    "charlescatta": 1
   },
   "name": "polymer",
   "full_name": "Polymer/polymer",
@@ -147,11 +148,11 @@
   "url": "https://api.github.com/repos/Polymer/polymer",
   "languages_url": "https://api.github.com/repos/Polymer/polymer/languages",
   "created_at": "2012-08-23T20:56:30Z",
-  "updated_at": "2018-08-03T10:54:40Z",
-  "pushed_at": "2018-08-02T21:58:10Z",
+  "updated_at": "2018-08-03T21:51:35Z",
+  "pushed_at": "2018-08-03T21:10:57Z",
   "homepage": "https://www.polymer-project.org/",
-  "size": 26928,
-  "stargazers_count": 19996,
+  "size": 26933,
+  "stargazers_count": 19999,
   "language": "HTML",
   "mirror_url": null,
   "archived": false,
@@ -185,11 +186,11 @@
   },
   "languages": {
     "HTML": {
-      "bytes": 1040328,
+      "bytes": 1040066,
       "color": "#e34c26"
     },
     "JavaScript": {
-      "bytes": 638410,
+      "bytes": 638458,
       "color": "#f1e05a"
     },
     "Shell": {
@@ -201,5 +202,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-08-03T13:45:28.336Z"
+  "fetched_at": "2018-08-04T04:50:08.376Z"
 }

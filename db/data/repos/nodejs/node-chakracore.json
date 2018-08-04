@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/nodejs/node-chakracore",
   "languages_url": "https://api.github.com/repos/nodejs/node-chakracore/languages",
   "created_at": "2015-11-25T19:09:26Z",
-  "updated_at": "2018-08-03T08:29:50Z",
-  "pushed_at": "2018-08-03T11:01:07Z",
+  "updated_at": "2018-08-03T19:06:56Z",
+  "pushed_at": "2018-08-04T01:03:33Z",
   "homepage": "",
-  "size": 395893,
+  "size": 395095,
   "stargazers_count": 1572,
   "language": "JavaScript",
   "mirror_url": null,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 6773340,
+      "bytes": 6775936,
       "color": "#f1e05a"
     },
     "C++": {
@@ -56,7 +56,7 @@
       "color": "#f34b7d"
     },
     "Python": {
-      "bytes": 1473138,
+      "bytes": 1472439,
       "color": "#3572A5"
     },
     "C": {
@@ -101,7 +101,7 @@
     }
   },
   "contributors": {
-    "not-an-aardvark": 22,
+    "not-an-aardvark": 23,
     "XadillaX": 23,
     "lance": 23,
     "italoacasas": 23,
@@ -144,10 +144,10 @@
     "obastemur": 54,
     "edsadr": 46,
     "vkurchatkin": 46,
-    "devsnek": 53,
+    "devsnek": 54,
     "seishun": 48,
     "watilde": 48,
-    "maclover7": 58,
+    "maclover7": 61,
     "fhinkel": 51,
     "gabrielschulhof": 60,
     "boingoing": 64,
@@ -182,7 +182,7 @@
     "MylesBorins": 185,
     "apapirovski": 192,
     "TooTallNate": 197,
-    "chakrabot": 581,
+    "chakrabot": 583,
     "joyeecheung": 223,
     "targos": 275,
     "vsemozhetbyt": 275,
@@ -229,7 +229,7 @@
     "tricknotes": 16,
     "trentm": 16,
     "davidmarkclements": 15,
-    "shisama": 19,
+    "shisama": 20,
     "DrPizza": 15,
     "richardlau": 15,
     "eljefedelrodeodeljefe": 15,
@@ -556,7 +556,7 @@
     "aconbere": 2,
     "tcare": 3,
     "lundibundi": 4,
-    "rubys": 14,
+    "rubys": 15,
     "aneeshdk": 5,
     "irinayat-MS": 8,
     "aduh95": 3,
@@ -565,5 +565,5 @@
     "rajatd": 6,
     "Cellule": 3
   },
-  "fetched_at": "2018-08-03T13:45:28.336Z"
+  "fetched_at": "2018-08-04T04:50:08.376Z"
 }

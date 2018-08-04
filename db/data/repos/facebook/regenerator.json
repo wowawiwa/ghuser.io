@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/facebook/regenerator",
   "languages_url": "https://api.github.com/repos/facebook/regenerator/languages",
   "created_at": "2013-10-05T14:37:03Z",
-  "updated_at": "2018-08-03T06:24:08Z",
-  "pushed_at": "2018-08-02T16:15:39Z",
+  "updated_at": "2018-08-03T19:41:04Z",
+  "pushed_at": "2018-08-03T19:51:21Z",
   "homepage": "http://facebook.github.io/regenerator/",
-  "size": 4410,
+  "size": 4446,
   "stargazers_count": 2417,
   "language": "JavaScript",
   "mirror_url": null,
@@ -48,8 +48,12 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 187064,
+      "bytes": 187150,
       "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 596,
+      "color": "#89e051"
     },
     "HTML": {
       "bytes": 483,
@@ -107,7 +111,8 @@
     "aickin": 6,
     "termi": 9,
     "amasad": 12,
-    "benjamn": 681
+    "benjamn": 686,
+    "Benjamin-Dobell": 1
   },
-  "fetched_at": "2018-08-03T13:45:28.336Z"
+  "fetched_at": "2018-08-04T04:50:08.376Z"
 }

@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/cesanta/mongoose-os",
   "languages_url": "https://api.github.com/repos/cesanta/mongoose-os/languages",
   "created_at": "2014-06-29T06:58:30Z",
-  "updated_at": "2018-08-03T15:01:31Z",
-  "pushed_at": "2018-08-02T12:34:35Z",
+  "updated_at": "2018-08-03T20:20:12Z",
+  "pushed_at": "2018-08-03T20:20:08Z",
   "homepage": "https://mongoose-os.com",
-  "size": 44599,
+  "size": 44630,
   "stargazers_count": 1569,
   "language": "C",
   "mirror_url": null,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "C": {
-      "bytes": 3122863,
+      "bytes": 3147855,
       "color": "#555555"
     },
     "Python": {
@@ -60,7 +60,7 @@
       "color": "#6E4C13"
     },
     "Makefile": {
-      "bytes": 117968,
+      "bytes": 121530,
       "color": "#427819"
     },
     "C++": {
@@ -110,7 +110,7 @@
     "mmikulicic": 506,
     "dimonomid": 554,
     "cpq": 630,
-    "rojer": 1473
+    "rojer": 1474
   },
-  "fetched_at": "2018-08-03T15:15:48.347Z"
+  "fetched_at": "2018-08-04T04:50:08.376Z"
 }

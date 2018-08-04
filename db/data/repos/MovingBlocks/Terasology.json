@@ -206,11 +206,11 @@
   "url": "https://api.github.com/repos/MovingBlocks/Terasology",
   "languages_url": "https://api.github.com/repos/MovingBlocks/Terasology/languages",
   "created_at": "2011-03-04T03:49:19Z",
-  "updated_at": "2018-08-03T13:12:35Z",
-  "pushed_at": "2018-08-03T07:13:48Z",
+  "updated_at": "2018-08-04T04:23:04Z",
+  "pushed_at": "2018-08-04T04:22:58Z",
   "homepage": "http://terasology.org",
   "size": 286309,
-  "stargazers_count": 2380,
+  "stargazers_count": 2381,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -244,7 +244,7 @@
   },
   "languages": {
     "Java": {
-      "bytes": 8467582,
+      "bytes": 8470726,
       "color": "#b07219"
     },
     "GLSL": {
@@ -264,5 +264,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-08-03T13:45:28.336Z"
+  "fetched_at": "2018-08-04T04:50:08.376Z"
 }
