@@ -59,7 +59,7 @@
     "Ghasan": 7,
     "klaidliadon": 7,
     "damnhandy": 7,
-    "se35710": 8,
+    "se35710": 9,
     "belisarh": 8,
     "gbursson": 9,
     "berwyn": 9,
@@ -100,7 +100,7 @@
     "rasa": 139,
     "deevus": 202,
     "lukesampson": 1426,
-    "r15ch13": 3300,
+    "r15ch13": 3302,
     "Mika-": 4,
     "masaeedu": 3,
     "quincunx": 3,
@@ -269,7 +269,8 @@
     "Gargauth": 1,
     "HWataru": 1,
     "Ardelean-Calin": 1,
-    "amaechler": 1
+    "amaechler": 1,
+    "vaguiners": 1
   },
   "name": "scoop",
   "full_name": "lukesampson/scoop",
@@ -281,11 +282,11 @@
   "url": "https://api.github.com/repos/lukesampson/scoop",
   "languages_url": "https://api.github.com/repos/lukesampson/scoop/languages",
   "created_at": "2013-05-11T03:52:15Z",
-  "updated_at": "2018-08-04T03:08:52Z",
-  "pushed_at": "2018-08-04T03:08:46Z",
+  "updated_at": "2018-08-04T14:04:45Z",
+  "pushed_at": "2018-08-04T12:51:11Z",
   "homepage": "https://scoop.sh",
-  "size": 6305,
-  "stargazers_count": 4533,
+  "size": 6269,
+  "stargazers_count": 4534,
   "language": "PowerShell",
   "mirror_url": null,
   "archived": false,
@@ -307,5 +308,5 @@
       "color": "#178600"
     }
   },
-  "fetched_at": "2018-08-04T04:50:08.376Z"
+  "fetched_at": "2018-08-04T14:28:30.712Z"
 }

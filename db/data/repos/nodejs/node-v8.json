@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/nodejs/node-v8",
   "languages_url": "https://api.github.com/repos/nodejs/node-v8/languages",
   "created_at": "2017-05-04T12:41:45Z",
-  "updated_at": "2018-08-03T06:49:04Z",
-  "pushed_at": "2018-08-03T06:48:59Z",
+  "updated_at": "2018-08-04T06:52:45Z",
+  "pushed_at": "2018-08-04T06:52:39Z",
   "homepage": "",
-  "size": 311931,
+  "size": 311995,
   "stargazers_count": 120,
   "language": "JavaScript",
   "mirror_url": null,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 6736196,
+      "bytes": 6739155,
       "color": "#f1e05a"
     },
     "C++": {
@@ -56,7 +56,7 @@
       "color": "#f34b7d"
     },
     "Python": {
-      "bytes": 1464136,
+      "bytes": 1464178,
       "color": "#3572A5"
     },
     "C": {
@@ -68,7 +68,7 @@
       "color": "#e34c26"
     },
     "Makefile": {
-      "bytes": 42177,
+      "bytes": 43162,
       "color": "#427819"
     },
     "DTrace": {
@@ -118,7 +118,7 @@
     "BridgeAR": 324,
     "vsemozhetbyt": 275,
     "targos": 282,
-    "joyeecheung": 223,
+    "joyeecheung": 224,
     "shigeki": 206,
     "TooTallNate": 197,
     "apapirovski": 191,
@@ -127,7 +127,7 @@
     "Fishrock123": 149,
     "evanlucas": 148,
     "sam-github": 142,
-    "TimothyGu": 140,
+    "TimothyGu": 141,
     "thefourtheye": 137,
     "felixge": 124,
     "mhdawson": 122,
@@ -167,7 +167,7 @@
     "thughes": 35,
     "saghul": 34,
     "ryzokuken": 39,
-    "starkwang": 34,
+    "starkwang": 35,
     "davidben": 31,
     "hiroppy": 31,
     "mikeal": 29,
@@ -219,7 +219,7 @@
     "tricknotes": 16,
     "trentm": 16,
     "davidmarkclements": 15,
-    "shisama": 20,
+    "shisama": 21,
     "DrPizza": 15,
     "richardlau": 15,
     "eljefedelrodeodeljefe": 15,
@@ -564,12 +564,12 @@
     "charlieduong94": 2,
     "chasestarr": 2,
     "dinophile": 2,
-    "rubys": 15,
+    "rubys": 17,
     "lundibundi": 4,
     "nodejs-ci": 4,
     "aduh95": 3,
     "kenny-y": 3,
     "antsmartian": 3
   },
-  "fetched_at": "2018-08-03T13:45:28.336Z"
+  "fetched_at": "2018-08-04T14:28:30.712Z"
 }

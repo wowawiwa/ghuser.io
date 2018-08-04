@@ -1,7 +1,7 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
   "contributors": {
-    "Calinou": 73
+    "Calinou": 74
   },
   "name": "godot-builds-ci",
   "full_name": "Calinou/godot-builds-ci",
@@ -13,8 +13,8 @@
   "url": "https://api.github.com/repos/Calinou/godot-builds-ci",
   "languages_url": "https://api.github.com/repos/Calinou/godot-builds-ci/languages",
   "created_at": "2017-12-27T19:05:29Z",
-  "updated_at": "2018-08-03T09:32:58Z",
-  "pushed_at": "2018-07-24T20:00:30Z",
+  "updated_at": "2018-08-04T13:58:18Z",
+  "pushed_at": "2018-08-04T13:58:16Z",
   "homepage": "https://hugo.pro/projects/godot-builds/",
   "size": 114,
   "stargazers_count": 7,
@@ -31,7 +31,7 @@
   "default_branch": "master",
   "languages": {
     "Shell": {
-      "bytes": 14394,
+      "bytes": 14372,
       "color": "#89e051"
     },
     "Inno Setup": {
@@ -39,5 +39,5 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-08-03T13:45:28.336Z"
+  "fetched_at": "2018-08-04T14:28:30.712Z"
 }

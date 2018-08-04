@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/pmorissette/ffn",
   "languages_url": "https://api.github.com/repos/pmorissette/ffn/languages",
   "created_at": "2014-06-19T15:54:09Z",
-  "updated_at": "2018-08-03T01:09:16Z",
-  "pushed_at": "2018-08-01T18:12:09Z",
+  "updated_at": "2018-08-04T10:45:11Z",
+  "pushed_at": "2018-08-04T10:45:09Z",
   "homepage": "pmorissette.github.io/ffn",
-  "size": 5260,
+  "size": 5261,
   "stargazers_count": 306,
   "language": "Python",
   "mirror_url": null,
@@ -28,7 +28,7 @@
   "default_branch": "master",
   "languages": {
     "Python": {
-      "bytes": 107165,
+      "bytes": 107212,
       "color": "#3572A5"
     },
     "Makefile": {
@@ -40,7 +40,7 @@
     "rubik": 1,
     "johnsloper": 2,
     "brandon-rhodes": 1,
-    "pratapvardhan": 3,
+    "pratapvardhan": 4,
     "xenu256": 1,
     "zhuoqiang": 1,
     "geweiliang": 1,
@@ -54,5 +54,5 @@
     "Anjum48": 8,
     "pmorissette": 48
   },
-  "fetched_at": "2018-08-03T05:56:14.583Z"
+  "fetched_at": "2018-08-04T14:28:30.712Z"
 }

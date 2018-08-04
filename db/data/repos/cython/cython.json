@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/cython/cython",
   "languages_url": "https://api.github.com/repos/cython/cython/languages",
   "created_at": "2010-11-21T07:44:20Z",
-  "updated_at": "2018-08-03T15:39:19Z",
-  "pushed_at": "2018-08-04T03:13:32Z",
+  "updated_at": "2018-08-04T09:02:00Z",
+  "pushed_at": "2018-08-04T09:01:53Z",
   "homepage": "http://cython.org",
-  "size": 51417,
+  "size": 51638,
   "stargazers_count": 3334,
   "language": "Python",
   "mirror_url": null,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "Python": {
-      "bytes": 5789955,
+      "bytes": 5790347,
       "color": "#3572A5"
     },
     "C": {
@@ -184,7 +184,7 @@
     "dalcinl": 339,
     "markflorisson": 543,
     "robertwb": 2655,
-    "scoder": 8042,
+    "scoder": 8044,
     "invalid-email-address": 49,
     "adityapb": 2,
     "andreabedini": 2,
@@ -276,7 +276,7 @@
     "jelmer": 1,
     "jkleckner": 1,
     "jochenvdv": 1,
-    "jakirkham": 1,
+    "jakirkham": 2,
     "stump": 1,
     "tarsius": 1,
     "jvkersch": 1,
@@ -331,5 +331,5 @@
     "aguinet": 2,
     "orivej": 1
   },
-  "fetched_at": "2018-08-04T04:50:08.376Z"
+  "fetched_at": "2018-08-04T14:28:30.712Z"
 }
