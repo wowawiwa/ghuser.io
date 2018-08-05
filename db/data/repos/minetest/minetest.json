@@ -47,7 +47,7 @@
     "ngosang": 10,
     "stujones11": 12,
     "nOOb3167": 12,
-    "bendeutsch": 11,
+    "bendeutsch": 12,
     "duane-r": 11,
     "joancipria": 11,
     "Warr1024": 11,
@@ -336,11 +336,11 @@
   "url": "https://api.github.com/repos/minetest/minetest",
   "languages_url": "https://api.github.com/repos/minetest/minetest/languages",
   "created_at": "2011-08-07T13:48:36Z",
-  "updated_at": "2018-08-04T19:42:49Z",
-  "pushed_at": "2018-08-04T18:41:57Z",
+  "updated_at": "2018-08-05T12:47:04Z",
+  "pushed_at": "2018-08-05T13:07:54Z",
   "homepage": "http://minetest.net/",
-  "size": 58718,
-  "stargazers_count": 3374,
+  "size": 58734,
+  "stargazers_count": 3375,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -374,7 +374,7 @@
   },
   "languages": {
     "C++": {
-      "bytes": 5047157,
+      "bytes": 5076777,
       "color": "#f34b7d"
     },
     "C": {
@@ -382,15 +382,15 @@
       "color": "#555555"
     },
     "Lua": {
-      "bytes": 517718,
+      "bytes": 516196,
       "color": "#000080"
     },
     "CMake": {
-      "bytes": 69455,
+      "bytes": 69546,
       "color": "#ccc"
     },
     "Makefile": {
-      "bytes": 64877,
+      "bytes": 64969,
       "color": "#427819"
     },
     "Shell": {
@@ -414,5 +414,5 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-08-05T05:49:31.694Z"
+  "fetched_at": "2018-08-05T13:20:52.832Z"
 }

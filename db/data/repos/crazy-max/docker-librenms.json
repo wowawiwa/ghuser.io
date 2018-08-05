@@ -10,8 +10,8 @@
   "url": "https://api.github.com/repos/crazy-max/docker-librenms",
   "languages_url": "https://api.github.com/repos/crazy-max/docker-librenms/languages",
   "created_at": "2018-07-05T18:42:11Z",
-  "updated_at": "2018-08-03T15:07:14Z",
-  "pushed_at": "2018-08-02T21:43:10Z",
+  "updated_at": "2018-08-05T12:12:12Z",
+  "pushed_at": "2018-08-05T12:27:55Z",
   "homepage": null,
   "size": 70,
   "stargazers_count": 2,
@@ -27,7 +27,7 @@
   },
   "default_branch": "master",
   "contributors": {
-    "crazy-max": 12
+    "crazy-max": 13
   },
   "languages": {
     "Shell": {
@@ -35,9 +35,9 @@
       "color": "#89e051"
     },
     "Dockerfile": {
-      "bytes": 2957,
+      "bytes": 2960,
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-03T15:15:48.347Z"
+  "fetched_at": "2018-08-05T13:20:52.832Z"
 }

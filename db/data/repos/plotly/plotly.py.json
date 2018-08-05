@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/plotly/plotly.py",
   "languages_url": "https://api.github.com/repos/plotly/plotly.py/languages",
   "created_at": "2013-11-21T05:53:08Z",
-  "updated_at": "2018-08-04T16:41:53Z",
-  "pushed_at": "2018-08-04T22:01:51Z",
+  "updated_at": "2018-08-05T09:45:54Z",
+  "pushed_at": "2018-08-05T11:53:06Z",
   "homepage": "https://plot.ly/python/",
-  "size": 46494,
+  "size": 46555,
   "stargazers_count": 3839,
   "language": "Python",
   "mirror_url": null,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "Python": {
-      "bytes": 16370880,
+      "bytes": 16377383,
       "color": "#3572A5"
     },
     "HTML": {
@@ -116,7 +116,7 @@
     "oxananu": 17,
     "BRONSOLO": 41,
     "aneda": 71,
-    "jonmmease": 86,
+    "jonmmease": 88,
     "yankev": 86,
     "etpinard": 173,
     "cldougl": 202,
@@ -128,5 +128,5 @@
     "michaelbabyn": 1,
     "priyatharsan": 1
   },
-  "fetched_at": "2018-08-05T05:49:31.694Z"
+  "fetched_at": "2018-08-05T13:20:52.832Z"
 }

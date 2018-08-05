@@ -49,7 +49,7 @@
     "Rubonnek": 26,
     "SuperUserNameMan": 25,
     "a12n": 45,
-    "PJB3005": 28,
+    "PJB3005": 29,
     "JoshuaGrams": 26,
     "ISylvox": 27,
     "ianb96": 29,
@@ -69,7 +69,7 @@
     "touilleMan": 50,
     "hurikhan": 66,
     "leezh": 56,
-    "mhilbrunner": 279,
+    "mhilbrunner": 281,
     "guilhermefelipecgs": 60,
     "MarianoGnu": 78,
     "sanikoyes": 68,
@@ -408,7 +408,8 @@
     "razcore-art": 3,
     "TigerCaldwell": 2,
     "TGRCdev": 2,
-    "wcb88": 2
+    "wcb88": 2,
+    "Ertain": 3
   },
   "name": "godot",
   "full_name": "godotengine/godot",
@@ -420,11 +421,11 @@
   "url": "https://api.github.com/repos/godotengine/godot",
   "languages_url": "https://api.github.com/repos/godotengine/godot/languages",
   "created_at": "2014-01-04T16:05:36Z",
-  "updated_at": "2018-08-05T04:29:22Z",
-  "pushed_at": "2018-08-05T05:07:36Z",
+  "updated_at": "2018-08-05T11:10:17Z",
+  "pushed_at": "2018-08-05T11:09:49Z",
   "homepage": "https://godotengine.org",
-  "size": 254915,
-  "stargazers_count": 16058,
+  "size": 254942,
+  "stargazers_count": 16060,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -502,5 +503,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-05T05:49:31.694Z"
+  "fetched_at": "2018-08-05T13:20:52.832Z"
 }

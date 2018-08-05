@@ -43,13 +43,13 @@
     "amio/badgen": {
       "full_name": "amio/badgen",
       "name": "badgen",
-      "stargazers_count": 279,
-      "popularity": 3.4442400634624546,
+      "stargazers_count": 281,
+      "popularity": 3.44735218352222,
       "percentage": 0.6756756756756757,
       "maturity": 3.035560409551506,
       "total_commits_count": 148,
       "activity": 5,
-      "total_score": 21.706375609659375,
+      "total_score": 21.715985331735812,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -69,13 +69,13 @@
     "probot/probot": {
       "full_name": "probot/probot",
       "name": "probot",
-      "stargazers_count": 2994,
-      "popularity": 4.476160314285356,
+      "stargazers_count": 2998,
+      "popularity": 4.476740321026712,
       "percentage": 0.11848341232227488,
       "maturity": 3.9070461652237087,
       "total_commits_count": 844,
       "activity": 5,
-      "total_score": 26.311518870561436,
+      "total_score": 26.313267824538627,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -108,7 +108,7 @@
     "gogs/gogs": {
       "full_name": "gogs/gogs",
       "name": "gogs",
-      "stargazers_count": 26428,
+      "stargazers_count": 26430,
       "popularity": 5,
       "percentage": 0.020458265139116204,
       "maturity": 4.687307852152201,

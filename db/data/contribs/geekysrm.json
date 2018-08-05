@@ -1,0 +1,100 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "wesbos/Syntax": {
+      "full_name": "wesbos/Syntax",
+      "name": "Syntax",
+      "stargazers_count": 229,
+      "popularity": 3.3581643567940627,
+      "percentage": 0,
+      "maturity": 3.091992963860239,
+      "total_commits_count": 163,
+      "activity": 5,
+      "total_score": 21.258478998102667,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "p-society/p-society.github.io": {
+      "full_name": "p-society/p-society.github.io",
+      "name": "p-society.github.io",
+      "stargazers_count": 17,
+      "popularity": 2.206864721909315,
+      "percentage": 1.2048192771084338,
+      "maturity": 2.636209568212883,
+      "total_commits_count": 83,
+      "activity": 5,
+      "total_score": 17.238666812814206,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "geekysrm/hasura-twitter-bot": {
+      "full_name": "geekysrm/hasura-twitter-bot",
+      "name": "hasura-twitter-bot",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 9,
+      "activity": 1.3166930146518014,
+      "total_score": 17.979544541738843,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "hasura/hello-android": {
+      "full_name": "hasura/hello-android",
+      "name": "hello-android",
+      "stargazers_count": 5,
+      "popularity": 1.6128219920330789,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 5,
+      "activity": 2.3013386648515373,
+      "total_score": 7.139804640950773,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "hasura/platform-docs": {
+      "full_name": "hasura/platform-docs",
+      "name": "platform-docs",
+      "stargazers_count": 18,
+      "popularity": 2.2330349704670382,
+      "percentage": 0.1092896174863388,
+      "maturity": 3.9437938044334837,
+      "total_commits_count": 915,
+      "activity": 5,
+      "total_score": 19.618418700176356,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "hasura/hello-react": {
+      "full_name": "hasura/hello-react",
+      "name": "hello-react",
+      "stargazers_count": 13,
+      "popularity": 2.0828241359374196,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 16,
+      "activity": 2.1388050358941517,
+      "total_score": 8.38727744370641,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "geekysrm/blood-group-db": {
+      "full_name": "geekysrm/blood-group-db",
+      "name": "blood-group-db",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 1.3235617524067371,
+      "total_score": 1.3235617524067371,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "p-society",
+    "hasura"
+  ]
+}
