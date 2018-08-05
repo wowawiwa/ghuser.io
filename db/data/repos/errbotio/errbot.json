@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/errbotio/errbot",
   "languages_url": "https://api.github.com/repos/errbotio/errbot/languages",
   "created_at": "2012-05-20T21:13:41Z",
-  "updated_at": "2018-08-04T03:28:06Z",
-  "pushed_at": "2018-07-11T21:04:34Z",
+  "updated_at": "2018-08-04T15:51:19Z",
+  "pushed_at": "2018-08-04T15:51:15Z",
   "homepage": "http://errbot.io",
-  "size": 5366,
+  "size": 5380,
   "stargazers_count": 1773,
   "language": "Python",
   "mirror_url": null,
@@ -109,7 +109,7 @@
     "P-Product": 2,
     "joshuatobin": 2,
     "madewulf": 2,
-    "nvzard": 3,
+    "nvzard": 4,
     "SvenNederhoff": 3,
     "andrewthetechie": 3,
     "sivy": 3,
@@ -180,7 +180,7 @@
   },
   "languages": {
     "Python": {
-      "bytes": 615541,
+      "bytes": 616010,
       "color": "#3572A5"
     },
     "CSS": {
@@ -196,5 +196,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-04T04:50:08.376Z"
+  "fetched_at": "2018-08-05T05:49:31.694Z"
 }

@@ -45,7 +45,7 @@
     "DarkDracoon": 9,
     "MoNTE48": 10,
     "ngosang": 10,
-    "stujones11": 11,
+    "stujones11": 12,
     "nOOb3167": 12,
     "bendeutsch": 11,
     "duane-r": 11,
@@ -85,12 +85,12 @@
     "proller": 65,
     "Ekdohibs": 58,
     "BlockMen": 67,
-    "rubenwardy": 81,
+    "rubenwardy": 82,
     "red-001": 91,
     "Oblomov": 97,
     "RealBadAngel": 126,
     "Zeno-": 127,
-    "SmallJoker": 134,
+    "SmallJoker": 135,
     "erlehmann": 185,
     "PilzAdam": 217,
     "sfan5": 159,
@@ -336,11 +336,11 @@
   "url": "https://api.github.com/repos/minetest/minetest",
   "languages_url": "https://api.github.com/repos/minetest/minetest/languages",
   "created_at": "2011-08-07T13:48:36Z",
-  "updated_at": "2018-08-04T13:56:45Z",
-  "pushed_at": "2018-08-04T07:52:13Z",
+  "updated_at": "2018-08-04T19:42:49Z",
+  "pushed_at": "2018-08-04T18:41:57Z",
   "homepage": "http://minetest.net/",
-  "size": 58711,
-  "stargazers_count": 3372,
+  "size": 58718,
+  "stargazers_count": 3374,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -374,7 +374,7 @@
   },
   "languages": {
     "C++": {
-      "bytes": 5047478,
+      "bytes": 5047157,
       "color": "#f34b7d"
     },
     "C": {
@@ -414,5 +414,5 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-08-04T14:28:30.712Z"
+  "fetched_at": "2018-08-05T05:49:31.694Z"
 }

@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/coala/corobo",
   "languages_url": "https://api.github.com/repos/coala/corobo/languages",
   "created_at": "2017-05-09T07:33:45Z",
-  "updated_at": "2018-08-01T10:03:39Z",
-  "pushed_at": "2018-08-01T10:03:34Z",
+  "updated_at": "2018-08-05T00:30:33Z",
+  "pushed_at": "2018-08-05T00:30:28Z",
   "homepage": "",
-  "size": 378,
+  "size": 381,
   "stargazers_count": 49,
   "language": "Python",
   "mirror_url": null,
@@ -84,13 +84,13 @@
     "adtac": 5,
     "UnimaginaryUnit": 6,
     "jayvdb": 10,
-    "nvzard": 19,
+    "nvzard": 20,
     "meetmangukiya": 150,
     "Pawank221": 1
   },
   "languages": {
     "Python": {
-      "bytes": 101743,
+      "bytes": 101889,
       "color": "#3572A5"
     },
     "Shell": {
@@ -106,5 +106,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-01T10:42:25.848Z"
+  "fetched_at": "2018-08-05T05:49:31.694Z"
 }

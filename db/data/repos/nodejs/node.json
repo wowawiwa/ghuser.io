@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/nodejs/node",
   "languages_url": "https://api.github.com/repos/nodejs/node/languages",
   "created_at": "2014-11-26T19:57:11Z",
-  "updated_at": "2018-08-04T14:12:29Z",
-  "pushed_at": "2018-08-04T14:05:28Z",
+  "updated_at": "2018-08-05T04:41:19Z",
+  "pushed_at": "2018-08-05T04:44:02Z",
   "homepage": "https://nodejs.org",
-  "size": 399101,
-  "stargazers_count": 51956,
+  "size": 398726,
+  "stargazers_count": 51965,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,19 +48,19 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 6741252,
+      "bytes": 6741318,
       "color": "#f1e05a"
     },
     "C++": {
-      "bytes": 2463373,
+      "bytes": 2462890,
       "color": "#f34b7d"
     },
     "Python": {
-      "bytes": 1464329,
+      "bytes": 1464331,
       "color": "#3572A5"
     },
     "C": {
-      "bytes": 426925,
+      "bytes": 426933,
       "color": "#555555"
     },
     "HTML": {
@@ -154,7 +154,7 @@
     "devsnek": 54,
     "seishun": 48,
     "watilde": 48,
-    "maclover7": 64,
+    "maclover7": 65,
     "fhinkel": 51,
     "gabrielschulhof": 59,
     "yorkie": 57,
@@ -184,7 +184,7 @@
     "apapirovski": 191,
     "TooTallNate": 197,
     "joyeecheung": 224,
-    "targos": 277,
+    "targos": 279,
     "vsemozhetbyt": 275,
     "tjfontaine": 332,
     "BridgeAR": 325,
@@ -195,7 +195,7 @@
     "cjihrig": 384,
     "jasnell": 496,
     "piscisaureus": 598,
-    "addaleax": 659,
+    "addaleax": 660,
     "indutny": 754,
     "Trott": 1305,
     "isaacs": 1647,
@@ -208,7 +208,7 @@
     "geek": 19,
     "estliberitas": 18,
     "jkrems": 18,
-    "kfarnung": 18,
+    "kfarnung": 19,
     "JungMinu": 18,
     "rsms": 18,
     "guybedford": 17,
@@ -570,5 +570,5 @@
     "kenny-y": 3,
     "antsmartian": 3
   },
-  "fetched_at": "2018-08-04T14:28:30.712Z"
+  "fetched_at": "2018-08-05T05:49:31.694Z"
 }

@@ -35,7 +35,7 @@
     "gmpreussner": 10,
     "idlewan": 10,
     "runvnc": 10,
-    "timotheecour": 25,
+    "timotheecour": 26,
     "RedBeard0531": 11,
     "andreaferretti": 11,
     "jfhg": 13,
@@ -101,7 +101,7 @@
     "def-": 334,
     "zah": 532,
     "dom96": 1316,
-    "Araq": 6451,
+    "Araq": 6454,
     "Jeff-Ciesielski": 7,
     "petermora": 6,
     "Veladus": 6,
@@ -359,11 +359,11 @@
   "url": "https://api.github.com/repos/nim-lang/Nim",
   "languages_url": "https://api.github.com/repos/nim-lang/Nim/languages",
   "created_at": "2010-08-16T20:38:58Z",
-  "updated_at": "2018-08-04T12:37:45Z",
-  "pushed_at": "2018-08-03T23:18:28Z",
+  "updated_at": "2018-08-05T02:31:50Z",
+  "pushed_at": "2018-08-05T03:14:54Z",
   "homepage": "https://nim-lang.org/",
-  "size": 69683,
-  "stargazers_count": 5258,
+  "size": 69730,
+  "stargazers_count": 5261,
   "language": "Nim",
   "mirror_url": null,
   "archived": false,
@@ -397,7 +397,7 @@
   },
   "languages": {
     "Nim": {
-      "bytes": 8296902,
+      "bytes": 8297553,
       "color": "#37775b"
     },
     "C": {
@@ -445,5 +445,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-04T14:28:30.712Z"
+  "fetched_at": "2018-08-05T05:49:31.694Z"
 }

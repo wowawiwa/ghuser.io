@@ -82,13 +82,13 @@
     "django/channels": {
       "full_name": "django/channels",
       "name": "channels",
-      "stargazers_count": 3164,
-      "popularity": 4.500152009577253,
+      "stargazers_count": 3165,
+      "popularity": 4.500289288148108,
       "percentage": 0.10256410256410256,
       "maturity": 3.9725941902942514,
       "total_commits_count": 975,
       "activity": 5,
-      "total_score": 26.505646436114624,
+      "total_score": 26.50606010220813,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

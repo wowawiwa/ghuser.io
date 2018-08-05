@@ -96,8 +96,8 @@
     "erictleung": 231,
     "BerkeleyTrue": 306,
     "benmcmahon100": 298,
-    "Bouncey": 246,
-    "raisedadead": 467,
+    "Bouncey": 249,
+    "raisedadead": 470,
     "terakilobyte": 658,
     "sahat": 1261,
     "QuincyLarson": 2386,
@@ -402,11 +402,11 @@
   "url": "https://api.github.com/repos/freeCodeCamp/freeCodeCamp",
   "languages_url": "https://api.github.com/repos/freeCodeCamp/freeCodeCamp/languages",
   "created_at": "2014-12-24T17:49:19Z",
-  "updated_at": "2018-08-04T13:59:13Z",
-  "pushed_at": "2018-08-03T18:48:45Z",
+  "updated_at": "2018-08-05T05:42:20Z",
+  "pushed_at": "2018-08-05T04:35:19Z",
   "homepage": "",
-  "size": 35546,
-  "stargazers_count": 293311,
+  "size": 35591,
+  "stargazers_count": 293312,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -440,17 +440,17 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 559220,
+      "bytes": 543160,
       "color": "#f1e05a"
     },
     "HTML": {
-      "bytes": 101356,
+      "bytes": 100963,
       "color": "#e34c26"
     },
     "CSS": {
-      "bytes": 47490,
+      "bytes": 46935,
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-08-04T14:28:30.712Z"
+  "fetched_at": "2018-08-05T05:49:31.694Z"
 }
