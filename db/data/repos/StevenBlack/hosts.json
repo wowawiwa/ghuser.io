@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/StevenBlack/hosts",
   "languages_url": "https://api.github.com/repos/StevenBlack/hosts/languages",
   "created_at": "2012-04-12T20:22:50Z",
-  "updated_at": "2018-08-05T11:10:37Z",
-  "pushed_at": "2018-08-03T20:07:55Z",
+  "updated_at": "2018-08-06T05:29:11Z",
+  "pushed_at": "2018-08-05T18:47:56Z",
   "homepage": "",
-  "size": 81354,
-  "stargazers_count": 9928,
+  "size": 81496,
+  "stargazers_count": 9934,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -76,14 +76,14 @@
     "FrancoGag": 11,
     "ScriptTiger": 17,
     "funilrys": 22,
-    "anudeepND": 33,
-    "gfyoung": 40,
+    "anudeepND": 34,
+    "gfyoung": 41,
     "FadeMind": 40,
     "StevenBlack": 936
   },
   "languages": {
     "Python": {
-      "bytes": 124438,
+      "bytes": 124436,
       "color": "#3572A5"
     },
     "Shell": {
@@ -95,5 +95,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-08-05T13:20:52.832Z"
+  "fetched_at": "2018-08-06T06:12:02.455Z"
 }

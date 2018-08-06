@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/dbjpanda/advance_crawler",
   "languages_url": "https://api.github.com/repos/dbjpanda/advance_crawler/languages",
   "created_at": "2018-06-19T18:09:59Z",
-  "updated_at": "2018-07-04T19:53:38Z",
-  "pushed_at": "2018-07-04T19:53:36Z",
+  "updated_at": "2018-08-05T20:51:42Z",
+  "pushed_at": "2018-08-05T20:51:41Z",
   "homepage": "",
-  "size": 59,
+  "size": 60,
   "stargazers_count": 3,
   "language": "JavaScript",
   "mirror_url": null,
@@ -23,17 +23,21 @@
   "contributors": {
     "shibasisp": 1,
     "dbjpanda": 8,
-    "ankitjain28may": 10
+    "ankitjain28may": 11
   },
   "languages": {
     "JavaScript": {
-      "bytes": 7991,
+      "bytes": 8228,
       "color": "#f1e05a"
+    },
+    "Dockerfile": {
+      "bytes": 683,
+      "color": "#0db7ed"
     },
     "Shell": {
       "bytes": 189,
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-07-25T14:10:51.615Z"
+  "fetched_at": "2018-08-06T06:12:02.455Z"
 }

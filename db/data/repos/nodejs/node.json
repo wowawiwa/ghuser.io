@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/nodejs/node",
   "languages_url": "https://api.github.com/repos/nodejs/node/languages",
   "created_at": "2014-11-26T19:57:11Z",
-  "updated_at": "2018-08-05T13:07:36Z",
-  "pushed_at": "2018-08-05T12:46:22Z",
+  "updated_at": "2018-08-06T04:56:17Z",
+  "pushed_at": "2018-08-06T05:56:44Z",
   "homepage": "https://nodejs.org",
-  "size": 398759,
-  "stargazers_count": 51975,
+  "size": 398802,
+  "stargazers_count": 51998,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 6742781,
+      "bytes": 6743209,
       "color": "#f1e05a"
     },
     "C++": {
-      "bytes": 2463648,
+      "bytes": 2463248,
       "color": "#f34b7d"
     },
     "Python": {
@@ -145,7 +145,7 @@
     "chrisdickinson": 40,
     "bengl": 41,
     "joaocgreis": 42,
-    "ChALkeR": 44,
+    "ChALkeR": 45,
     "shigeki": 206,
     "srl295": 45,
     "miksago": 45,
@@ -154,7 +154,7 @@
     "devsnek": 54,
     "seishun": 48,
     "watilde": 48,
-    "maclover7": 65,
+    "maclover7": 66,
     "fhinkel": 51,
     "gabrielschulhof": 59,
     "yorkie": 57,
@@ -170,7 +170,7 @@
     "silverwind": 89,
     "refack": 91,
     "AndreasMadsen": 103,
-    "tniessen": 114,
+    "tniessen": 116,
     "ofrobots": 117,
     "mhdawson": 122,
     "felixge": 124,
@@ -307,7 +307,7 @@
     "stephank": 6,
     "timoxley": 6,
     "williamkapke": 6,
-    "Flarna": 6,
+    "Flarna": 7,
     "ak239": 7,
     "adammw": 5,
     "gromnitsky": 5,
@@ -570,5 +570,5 @@
     "kenny-y": 3,
     "antsmartian": 3
   },
-  "fetched_at": "2018-08-05T13:20:52.832Z"
+  "fetched_at": "2018-08-06T06:12:02.455Z"
 }

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/moby/moby",
   "languages_url": "https://api.github.com/repos/moby/moby/languages",
   "created_at": "2013-01-18T18:10:57Z",
-  "updated_at": "2018-08-05T12:09:19Z",
-  "pushed_at": "2018-08-05T09:47:53Z",
+  "updated_at": "2018-08-06T05:24:04Z",
+  "pushed_at": "2018-08-06T05:22:05Z",
   "homepage": "https://mobyproject.org/",
-  "size": 137461,
-  "stargazers_count": 49810,
+  "size": 137466,
+  "stargazers_count": 49817,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -170,13 +170,13 @@
     "calavera": 979,
     "albers": 357,
     "jessfraz": 1259,
-    "yongtang": 624,
+    "yongtang": 625,
     "vdemeester": 1855,
     "dnephin": 477,
     "tianon": 801,
     "LK4D4": 1369,
     "cpuguy83": 1479,
-    "thaJeztah": 2608,
+    "thaJeztah": 2609,
     "jhowardmsft": 708,
     "creack": 1257,
     "vieux": 1833,
@@ -540,5 +540,5 @@
     "stevvooe": 65,
     "RenaudWasTaken": 5
   },
-  "fetched_at": "2018-08-05T13:20:52.832Z"
+  "fetched_at": "2018-08-06T06:12:02.455Z"
 }

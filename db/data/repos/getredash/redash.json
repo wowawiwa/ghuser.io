@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/getredash/redash",
   "languages_url": "https://api.github.com/repos/getredash/redash/languages",
   "created_at": "2013-10-28T13:19:39Z",
-  "updated_at": "2018-08-05T11:12:35Z",
-  "pushed_at": "2018-08-05T13:14:51Z",
+  "updated_at": "2018-08-06T04:20:59Z",
+  "pushed_at": "2018-08-06T05:19:25Z",
   "homepage": "http://redash.io/",
-  "size": 11324,
-  "stargazers_count": 9646,
+  "size": 11345,
+  "stargazers_count": 9649,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -48,15 +48,15 @@
   },
   "languages": {
     "Python": {
-      "bytes": 794916,
+      "bytes": 795961,
       "color": "#3572A5"
     },
     "JavaScript": {
-      "bytes": 398818,
+      "bytes": 399641,
       "color": "#f1e05a"
     },
     "HTML": {
-      "bytes": 194927,
+      "bytes": 196453,
       "color": "#e34c26"
     },
     "CSS": {
@@ -176,7 +176,7 @@
     "kravets-levko": 177,
     "amirnissim": 201,
     "kocsmy": 306,
-    "arikfr": 3767,
+    "arikfr": 3785,
     "chriszs": 3,
     "mpcarter": 3,
     "bamboo-yujiro": 3,
@@ -280,5 +280,5 @@
     "matsumo": 1,
     "maxv": 1
   },
-  "fetched_at": "2018-08-05T13:20:52.832Z"
+  "fetched_at": "2018-08-06T06:12:02.455Z"
 }

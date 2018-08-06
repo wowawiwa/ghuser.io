@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/nodejs/node-chakracore",
   "languages_url": "https://api.github.com/repos/nodejs/node-chakracore/languages",
   "created_at": "2015-11-25T19:09:26Z",
-  "updated_at": "2018-08-04T10:03:30Z",
-  "pushed_at": "2018-08-04T11:00:32Z",
+  "updated_at": "2018-08-06T03:39:16Z",
+  "pushed_at": "2018-08-06T03:40:05Z",
   "homepage": "",
-  "size": 395352,
+  "size": 395828,
   "stargazers_count": 1571,
   "language": "JavaScript",
   "mirror_url": null,
@@ -48,15 +48,15 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 6775936,
+      "bytes": 6779024,
       "color": "#f1e05a"
     },
     "C++": {
-      "bytes": 2592411,
+      "bytes": 2594279,
       "color": "#f34b7d"
     },
     "Python": {
-      "bytes": 1472439,
+      "bytes": 1472111,
       "color": "#3572A5"
     },
     "C": {
@@ -68,7 +68,7 @@
       "color": "#e34c26"
     },
     "Makefile": {
-      "bytes": 42950,
+      "bytes": 43242,
       "color": "#427819"
     },
     "DTrace": {
@@ -76,11 +76,11 @@
       "color": "#ccc"
     },
     "Batchfile": {
-      "bytes": 36565,
+      "bytes": 36083,
       "color": "#C1F12E"
     },
     "Shell": {
-      "bytes": 20259,
+      "bytes": 20382,
       "color": "#89e051"
     },
     "Roff": {
@@ -106,7 +106,7 @@
     "lance": 23,
     "italoacasas": 23,
     "creationix": 24,
-    "benjamingr": 24,
+    "benjamingr": 25,
     "Leko": 23,
     "pquerna": 24,
     "pgriess": 23,
@@ -127,7 +127,7 @@
     "mike-kaufman": 31,
     "hiroppy": 31,
     "davidben": 31,
-    "starkwang": 34,
+    "starkwang": 35,
     "ryzokuken": 39,
     "saghul": 34,
     "zkat": 35,
@@ -147,7 +147,7 @@
     "devsnek": 54,
     "seishun": 48,
     "watilde": 48,
-    "maclover7": 61,
+    "maclover7": 64,
     "fhinkel": 51,
     "gabrielschulhof": 60,
     "boingoing": 64,
@@ -158,7 +158,7 @@
     "lpinca": 63,
     "bzoz": 64,
     "JacksonTian": 68,
-    "jackhorton": 84,
+    "jackhorton": 87,
     "gibfahn": 72,
     "orangemocha": 73,
     "jbergstroem": 76,
@@ -173,7 +173,7 @@
     "mhdawson": 122,
     "felixge": 124,
     "thefourtheye": 137,
-    "TimothyGu": 140,
+    "TimothyGu": 141,
     "sam-github": 142,
     "evanlucas": 148,
     "Fishrock123": 153,
@@ -182,9 +182,9 @@
     "MylesBorins": 185,
     "apapirovski": 192,
     "TooTallNate": 197,
-    "chakrabot": 583,
-    "joyeecheung": 223,
-    "targos": 275,
+    "chakrabot": 585,
+    "joyeecheung": 224,
+    "targos": 277,
     "vsemozhetbyt": 275,
     "tjfontaine": 332,
     "BridgeAR": 324,
@@ -193,11 +193,11 @@
     "danbev": 338,
     "trevnorris": 363,
     "cjihrig": 385,
-    "jasnell": 496,
+    "jasnell": 498,
     "piscisaureus": 598,
-    "addaleax": 647,
+    "addaleax": 660,
     "indutny": 754,
-    "Trott": 1303,
+    "Trott": 1305,
     "isaacs": 1647,
     "bnoordhuis": 2138,
     "ry": 3021,
@@ -229,7 +229,7 @@
     "tricknotes": 16,
     "trentm": 16,
     "davidmarkclements": 15,
-    "shisama": 20,
+    "shisama": 21,
     "DrPizza": 15,
     "richardlau": 15,
     "eljefedelrodeodeljefe": 15,
@@ -258,7 +258,7 @@
     "KryDos": 11,
     "zzak": 11,
     "larissayvette": 11,
-    "eugeneo": 11,
+    "eugeneo": 12,
     "xk": 10,
     "laverdet": 10,
     "Sannis": 10,
@@ -323,7 +323,7 @@
     "timoxley": 6,
     "williamkapke": 6,
     "fengmk2": 6,
-    "ak239": 3,
+    "ak239": 4,
     "adammw": 5,
     "gromnitsky": 5,
     "zertosh": 5,
@@ -556,14 +556,15 @@
     "aconbere": 2,
     "tcare": 3,
     "lundibundi": 4,
-    "rubys": 15,
+    "rubys": 17,
     "aneeshdk": 6,
     "irinayat-MS": 8,
     "aduh95": 3,
     "kenny-y": 3,
     "VSadov": 4,
     "rajatd": 6,
-    "Cellule": 3
+    "Cellule": 3,
+    "antsmartian": 3
   },
-  "fetched_at": "2018-08-04T14:28:30.712Z"
+  "fetched_at": "2018-08-06T06:12:02.455Z"
 }

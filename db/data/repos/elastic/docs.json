@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/elastic/docs",
   "languages_url": "https://api.github.com/repos/elastic/docs/languages",
   "created_at": "2015-02-25T16:26:02Z",
-  "updated_at": "2018-08-04T01:55:36Z",
-  "pushed_at": "2018-08-04T01:55:33Z",
+  "updated_at": "2018-08-06T06:14:21Z",
+  "pushed_at": "2018-08-06T06:14:19Z",
   "homepage": null,
-  "size": 701572,
-  "stargazers_count": 110,
+  "size": 701694,
+  "stargazers_count": 111,
   "language": "HTML",
   "mirror_url": null,
   "archived": false,
@@ -42,7 +42,7 @@
   },
   "languages": {
     "HTML": {
-      "bytes": 2667142725,
+      "bytes": 2667188931,
       "color": "#e34c26"
     },
     "JavaScript": {
@@ -107,13 +107,13 @@
     }
   },
   "contributors": {
-    "lcawl": 50,
-    "debadair": 30,
-    "nrichers": 12,
+    "lcawl": 51,
+    "debadair": 37,
+    "nrichers": 13,
     "dedemorton": 6,
-    "axw": 3,
+    "axw": 5,
     "nik9000": 4,
-    "tylersmalley": 2,
+    "tylersmalley": 4,
     "watson": 5,
     "javanna": 3,
     "untergeek": 2,
@@ -126,9 +126,9 @@
     "russcam": 1,
     "spalger": 1,
     "simitt": 1,
-    "Sue-Gallagher": 2,
+    "Sue-Gallagher": 3,
     "jalvz": 1,
     "jahtalab": 1
   },
-  "fetched_at": "2018-08-04T04:50:08.376Z"
+  "fetched_at": "2018-08-06T06:12:02.455Z"
 }

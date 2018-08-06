@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/omegaup/omegaup",
   "languages_url": "https://api.github.com/repos/omegaup/omegaup/languages",
   "created_at": "2011-01-12T00:11:21Z",
-  "updated_at": "2018-08-01T04:16:30Z",
-  "pushed_at": "2018-08-01T04:16:22Z",
+  "updated_at": "2018-08-06T04:46:28Z",
+  "pushed_at": "2018-08-06T04:46:22Z",
   "homepage": "https://omegaup.com",
-  "size": 227126,
+  "size": 227100,
   "stargazers_count": 63,
   "language": "PHP",
   "mirror_url": null,
@@ -98,7 +98,7 @@
     "pabloaguilar": 138,
     "alanboy": 363,
     "joemmanuel": 980,
-    "lhchavez": 1755
+    "lhchavez": 1756
   },
   "languages": {
     "PHP": {
@@ -134,7 +134,7 @@
       "color": "#563d7c"
     },
     "Shell": {
-      "bytes": 17821,
+      "bytes": 17958,
       "color": "#89e051"
     },
     "Scala": {
@@ -162,5 +162,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-01T10:42:25.848Z"
+  "fetched_at": "2018-08-06T06:12:02.455Z"
 }
