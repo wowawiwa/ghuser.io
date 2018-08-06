@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/brandon-rhodes/blog",
   "languages_url": "https://api.github.com/repos/brandon-rhodes/blog/languages",
   "created_at": "2012-03-24T13:44:20Z",
-  "updated_at": "2018-08-05T00:59:46Z",
-  "pushed_at": "2018-08-05T00:59:44Z",
+  "updated_at": "2018-08-06T14:37:05Z",
+  "pushed_at": "2018-08-06T14:37:03Z",
   "homepage": "http://rhodesmill.org/brandon/",
-  "size": 9139,
+  "size": 9141,
   "stargazers_count": 5,
   "language": "Jupyter Notebook",
   "mirror_url": null,
@@ -26,7 +26,7 @@
       "color": "#DA5B0B"
     },
     "HTML": {
-      "bytes": 368163,
+      "bytes": 368294,
       "color": "#e34c26"
     },
     "Mako": {
@@ -52,7 +52,7 @@
   },
   "contributors": {
     "Carreau": 1,
-    "brandon-rhodes": 458
+    "brandon-rhodes": 460
   },
-  "fetched_at": "2018-08-05T05:49:31.694Z"
+  "fetched_at": "2018-08-06T18:44:54.295Z"
 }

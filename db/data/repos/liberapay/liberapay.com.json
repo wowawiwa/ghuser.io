@@ -64,18 +64,18 @@
     "mushketyk": 15,
     "EdOverflow": 16,
     "Katharsisdrill": 19,
-    "trebmuh": 18,
+    "trebmuh": 19,
     "joealcorn": 20,
     "cakey": 19,
     "joeyespo": 20,
-    "tetris4": 22,
+    "tetris4": 23,
     "Evild67": 20,
     "bruceadams": 33,
     "dasj19": 24,
     "MuhdNurHidayat": 36,
     "eldelacajita": 31,
     "m4sk1n": 33,
-    "Zveryok": 44,
+    "Zveryok": 46,
     "revi": 36,
     "sim6": 37,
     "patcon": 39,
@@ -91,15 +91,15 @@
     "Skybladev2": 63,
     "comradekingu": 66,
     "aggsol": 80,
-    "jelv": 97,
+    "jelv": 100,
     "clone1018": 167,
     "rummik": 129,
     "jorgesumle": 135,
     "zwn": 223,
     "seanlinsley": 299,
     "rohitpaulk": 214,
-    "tuxayo": 200,
-    "Changaco": 4899,
+    "tuxayo": 201,
+    "Changaco": 4908,
     "chadwhitacre": 5013,
     "trinary": 5,
     "andersjohansson": 3,
@@ -279,10 +279,10 @@
   "url": "https://api.github.com/repos/liberapay/liberapay.com",
   "languages_url": "https://api.github.com/repos/liberapay/liberapay.com/languages",
   "created_at": "2015-05-22T14:03:52Z",
-  "updated_at": "2018-08-01T16:16:15Z",
-  "pushed_at": "2018-08-01T16:16:17Z",
+  "updated_at": "2018-08-06T16:14:56Z",
+  "pushed_at": "2018-08-06T16:55:39Z",
   "homepage": "https://liberapay.com/",
-  "size": 48390,
+  "size": 49693,
   "stargazers_count": 460,
   "language": "Python",
   "mirror_url": null,
@@ -311,19 +311,19 @@
   },
   "languages": {
     "Python": {
-      "bytes": 755804,
+      "bytes": 767532,
       "color": "#3572A5"
     },
     "PLpgSQL": {
-      "bytes": 103359,
+      "bytes": 106919,
       "color": "#ccc"
     },
     "JavaScript": {
-      "bytes": 83768,
+      "bytes": 86110,
       "color": "#f1e05a"
     },
     "CSS": {
-      "bytes": 78990,
+      "bytes": 79363,
       "color": "#563d7c"
     },
     "HTML": {
@@ -347,5 +347,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-01T20:16:09.053Z"
+  "fetched_at": "2018-08-06T18:44:54.295Z"
 }

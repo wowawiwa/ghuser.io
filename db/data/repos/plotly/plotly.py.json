@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/plotly/plotly.py",
   "languages_url": "https://api.github.com/repos/plotly/plotly.py/languages",
   "created_at": "2013-11-21T05:53:08Z",
-  "updated_at": "2018-08-05T09:45:54Z",
-  "pushed_at": "2018-08-05T11:53:06Z",
+  "updated_at": "2018-08-06T15:24:33Z",
+  "pushed_at": "2018-08-06T18:28:02Z",
   "homepage": "https://plot.ly/python/",
-  "size": 46555,
-  "stargazers_count": 3839,
+  "size": 46582,
+  "stargazers_count": 3844,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "Python": {
-      "bytes": 16377383,
+      "bytes": 16378148,
       "color": "#3572A5"
     },
     "HTML": {
@@ -60,7 +60,7 @@
       "color": "#DA5B0B"
     },
     "JavaScript": {
-      "bytes": 76722,
+      "bytes": 76797,
       "color": "#f1e05a"
     },
     "Makefile": {
@@ -116,7 +116,7 @@
     "oxananu": 17,
     "BRONSOLO": 41,
     "aneda": 71,
-    "jonmmease": 88,
+    "jonmmease": 90,
     "yankev": 86,
     "etpinard": 173,
     "cldougl": 202,
@@ -126,7 +126,8 @@
     "xhlulu": 1,
     "jeffreypriebe": 1,
     "michaelbabyn": 1,
-    "priyatharsan": 1
+    "priyatharsan": 1,
+    "ivirshup": 1
   },
-  "fetched_at": "2018-08-05T13:20:52.832Z"
+  "fetched_at": "2018-08-06T18:44:54.295Z"
 }

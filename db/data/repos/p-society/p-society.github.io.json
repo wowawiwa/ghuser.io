@@ -5,15 +5,15 @@
   "owner": "p-society",
   "private": false,
   "html_url": "https://github.com/p-society/p-society.github.io",
-  "description": "[WIP] Official site of p-society",
+  "description": "Official site of p-society",
   "fork": false,
   "url": "https://api.github.com/repos/p-society/p-society.github.io",
   "languages_url": "https://api.github.com/repos/p-society/p-society.github.io/languages",
   "created_at": "2017-07-04T16:18:46Z",
-  "updated_at": "2018-07-28T07:36:34Z",
-  "pushed_at": "2018-07-28T07:36:32Z",
+  "updated_at": "2018-08-06T16:55:56Z",
+  "pushed_at": "2018-08-06T16:37:12Z",
   "homepage": "https://p-society.herokuapp.com/",
-  "size": 924,
+  "size": 927,
   "stargazers_count": 17,
   "language": "HTML",
   "mirror_url": null,
@@ -47,7 +47,7 @@
     "site_admin": false
   },
   "contributors": {
-    "debck": 4,
+    "debck": 6,
     "sonakshisaxena1": 1,
     "swap1108": 1,
     "geekysrm": 1,
@@ -59,14 +59,14 @@
     "shibasisp": 3,
     "bkhanale": 3,
     "sr6033": 9,
-    "knrt10": 51,
+    "knrt10": 52,
     "nayonika1999": 1,
     "nawedx": 1,
     "IamRaviTejaG": 2
   },
   "languages": {
     "HTML": {
-      "bytes": 29463,
+      "bytes": 27209,
       "color": "#e34c26"
     },
     "CSS": {
@@ -86,5 +86,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-07-28T15:39:57.361Z"
+  "fetched_at": "2018-08-06T18:44:54.295Z"
 }

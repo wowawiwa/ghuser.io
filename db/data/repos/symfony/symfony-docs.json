@@ -83,7 +83,7 @@
     "xelaris": 35,
     "dbu": 37,
     "HeahDude": 43,
-    "nicolas-grekas": 46,
+    "nicolas-grekas": 47,
     "dunglas": 49,
     "peterrehm": 47,
     "snoek09": 48,
@@ -97,10 +97,10 @@
     "bicpi": 162,
     "richardmiller": 210,
     "fabpot": 680,
-    "xabbuh": 2450,
+    "xabbuh": 2455,
     "wouterj": 2078,
     "javiereguiluz": 2908,
-    "weaverryan": 6361,
+    "weaverryan": 6365,
     "matthieu88160": 11,
     "lex111": 10,
     "gimler": 10,
@@ -416,10 +416,10 @@
   "url": "https://api.github.com/repos/symfony/symfony-docs",
   "languages_url": "https://api.github.com/repos/symfony/symfony-docs/languages",
   "created_at": "2010-02-17T08:43:51Z",
-  "updated_at": "2018-08-05T03:28:50Z",
-  "pushed_at": "2018-08-04T11:42:37Z",
+  "updated_at": "2018-08-06T17:19:52Z",
+  "pushed_at": "2018-08-06T17:19:49Z",
   "homepage": "https://symfony.com/doc",
-  "size": 48604,
+  "size": 48623,
   "stargazers_count": 1465,
   "language": "PHP",
   "mirror_url": null,
@@ -484,5 +484,5 @@
       "color": "#5c7611"
     }
   },
-  "fetched_at": "2018-08-05T05:49:31.694Z"
+  "fetched_at": "2018-08-06T18:44:54.295Z"
 }

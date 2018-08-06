@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/elastic/kibana",
   "languages_url": "https://api.github.com/repos/elastic/kibana/languages",
   "created_at": "2013-01-26T04:00:59Z",
-  "updated_at": "2018-08-06T05:25:26Z",
-  "pushed_at": "2018-08-06T05:00:06Z",
+  "updated_at": "2018-08-06T16:29:42Z",
+  "pushed_at": "2018-08-06T18:46:43Z",
   "homepage": "https://www.elastic.co/products/kibana",
-  "size": 435571,
-  "stargazers_count": 9815,
+  "size": 435927,
+  "stargazers_count": 9820,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 18222628,
+      "bytes": 18246156,
       "color": "#f1e05a"
     },
     "TypeScript": {
@@ -64,7 +64,7 @@
       "color": "#563d7c"
     },
     "Shell": {
-      "bytes": 17660,
+      "bytes": 17668,
       "color": "#89e051"
     },
     "Perl": {
@@ -141,7 +141,7 @@
     "snide": 22,
     "jgowdyelastic": 52,
     "kkirsche": 18,
-    "peteharverson": 28,
+    "peteharverson": 29,
     "trevan": 24,
     "pickypg": 23,
     "walterra": 35,
@@ -162,11 +162,11 @@
     "tsullivan": 135,
     "bevacqua": 161,
     "thomasneirynck": 182,
-    "timroes": 181,
+    "timroes": 183,
     "nreese": 198,
     "panda01": 323,
     "BigFunger": 339,
-    "Stacey-Gammon": 265,
+    "Stacey-Gammon": 266,
     "ppisljar": 276,
     "LeeDr": 322,
     "ycombinator": 330,
@@ -350,5 +350,5 @@
     "maryia-lapata": 1,
     "dedemorton": 1
   },
-  "fetched_at": "2018-08-06T06:12:02.455Z"
+  "fetched_at": "2018-08-06T18:44:54.295Z"
 }

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/elastic/elasticsearch",
   "languages_url": "https://api.github.com/repos/elastic/elasticsearch/languages",
   "created_at": "2010-02-08T13:20:56Z",
-  "updated_at": "2018-08-06T06:09:03Z",
-  "pushed_at": "2018-08-06T05:51:16Z",
+  "updated_at": "2018-08-06T18:19:43Z",
+  "pushed_at": "2018-08-06T18:41:27Z",
   "homepage": "https://www.elastic.co/products/elasticsearch",
-  "size": 500798,
-  "stargazers_count": 33199,
+  "size": 500971,
+  "stargazers_count": 33218,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "Java": {
-      "bytes": 68110304,
+      "bytes": 68133551,
       "color": "#b07219"
     },
     "Groovy": {
@@ -93,14 +93,14 @@
     }
   },
   "contributors": {
-    "bizybot": 16,
+    "bizybot": 17,
     "tsullivan": 103,
     "ppf2": 12,
     "eskibars": 15,
     "cwurm": 11,
     "a2lin": 11,
     "jprante": 11,
-    "original-brownbear": 34,
+    "original-brownbear": 35,
     "suyograo": 12,
     "gfyoung": 12,
     "ankon": 12,
@@ -171,12 +171,12 @@
     "brwe": 414,
     "jimczi": 451,
     "areek": 457,
-    "ywelsch": 492,
+    "ywelsch": 494,
     "lcawl": 459,
     "uboness": 456,
     "colings86": 675,
     "dakrone": 717,
-    "imotov": 658,
+    "imotov": 659,
     "tlrx": 688,
     "cbuescher": 989,
     "jaymode": 809,
@@ -188,7 +188,7 @@
     "dadoonet": 1430,
     "rjernst": 1801,
     "nik9000": 1633,
-    "javanna": 1870,
+    "javanna": 1871,
     "jasontedor": 2136,
     "martijnvg": 2123,
     "s1monw": 3104,
@@ -467,5 +467,5 @@
     "jakelandis": 3,
     "aferreira": 9
   },
-  "fetched_at": "2018-08-06T06:12:02.455Z"
+  "fetched_at": "2018-08-06T18:44:54.295Z"
 }

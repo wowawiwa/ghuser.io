@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/hypothesis/h",
   "languages_url": "https://api.github.com/repos/hypothesis/h/languages",
   "created_at": "2012-04-02T19:56:59Z",
-  "updated_at": "2018-08-02T21:12:40Z",
-  "pushed_at": "2018-08-02T22:07:36Z",
+  "updated_at": "2018-08-06T17:37:46Z",
+  "pushed_at": "2018-08-06T17:35:25Z",
   "homepage": "https://hypothes.is/",
-  "size": 30128,
-  "stargazers_count": 1185,
+  "size": 30156,
+  "stargazers_count": 1188,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "Python": {
-      "bytes": 2493378,
+      "bytes": 2482903,
       "color": "#3572A5"
     },
     "JavaScript": {
@@ -116,7 +116,7 @@
     "sheetaluk": 84,
     "BigBlueHat": 88,
     "fatbusinessman": 95,
-    "hmstepanek": 121,
+    "hmstepanek": 130,
     "lyzadanger": 117,
     "finitud": 120,
     "jtremback": 182,
@@ -124,12 +124,12 @@
     "aron": 539,
     "gergely-ujvari": 586,
     "chdorner": 655,
-    "robertknight": 1142,
+    "robertknight": 1143,
     "seanh": 1206,
     "nickstenning": 1394,
     "tilgovi": 3410,
     "a-feld": 1,
     "SteelWagstaff": 1
   },
-  "fetched_at": "2018-08-03T05:56:14.583Z"
+  "fetched_at": "2018-08-06T18:44:54.295Z"
 }

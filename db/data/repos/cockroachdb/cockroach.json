@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/cockroachdb/cockroach",
   "languages_url": "https://api.github.com/repos/cockroachdb/cockroach/languages",
   "created_at": "2014-02-06T00:18:47Z",
-  "updated_at": "2018-08-06T05:07:42Z",
-  "pushed_at": "2018-08-06T05:59:20Z",
+  "updated_at": "2018-08-06T18:17:21Z",
+  "pushed_at": "2018-08-06T18:22:37Z",
   "homepage": "https://www.cockroachlabs.com",
-  "size": 1030679,
-  "stargazers_count": 13939,
+  "size": 1030788,
+  "stargazers_count": 13946,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -61,7 +61,7 @@
     "wenyong-h": 3,
     "strangemonad": 5,
     "maniksurtani": 4,
-    "garvitjuniwal": 4,
+    "garvitjuniwal": 5,
     "tso": 7,
     "rampage644": 4,
     "pmamatsis": 4,
@@ -125,24 +125,24 @@
     "asubiotto": 183,
     "vilterp": 218,
     "justinj": 345,
-    "andy-kimball": 280,
+    "andy-kimball": 282,
     "kkaneda": 429,
     "couchand": 380,
     "mrtracy": 604,
     "mjibson": 671,
-    "danhhz": 714,
+    "danhhz": 715,
     "BramGruneir": 747,
     "mberhault": 733,
-    "vivekmenezes": 824,
+    "vivekmenezes": 826,
     "jordanlewis": 834,
     "spencerkimball": 895,
-    "dt": 998,
-    "andreimatei": 898,
+    "dt": 999,
+    "andreimatei": 899,
     "a-robinson": 1059,
-    "benesch": 1193,
-    "nvanbenschoten": 1448,
-    "bdarnell": 1515,
-    "RaduBerinde": 1734,
+    "benesch": 1196,
+    "nvanbenschoten": 1449,
+    "bdarnell": 1517,
+    "RaduBerinde": 1741,
     "knz": 1867,
     "petermattis": 3072,
     "tschottdorf": 2785,
@@ -259,7 +259,7 @@
   },
   "languages": {
     "Go": {
-      "bytes": 19272034,
+      "bytes": 19297764,
       "color": "#375eab"
     },
     "TypeScript": {
@@ -275,7 +275,7 @@
       "color": "#4B6C4B"
     },
     "Shell": {
-      "bytes": 93406,
+      "bytes": 93558,
       "color": "#89e051"
     },
     "Tcl": {
@@ -347,5 +347,5 @@
       "color": "#4d41b1"
     }
   },
-  "fetched_at": "2018-08-06T06:12:02.455Z"
+  "fetched_at": "2018-08-06T18:44:54.295Z"
 }
