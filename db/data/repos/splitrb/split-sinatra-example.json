@@ -64,5 +64,9 @@
     }
   },
   "pulls_url": "https://api.github.com/repos/splitrb/split-sinatra-example/pulls{/number}",
-  "pulls_authors": []
+  "pulls_authors": [
+    "RichardLitt",
+    "strand",
+    "phoet"
+  ]
 }

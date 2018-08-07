@@ -67,5 +67,12 @@
   },
   "fetched_at": "2018-07-30T08:17:52.801Z",
   "pulls_url": "https://api.github.com/repos/ipfs-shipyard/ipfs-blob-store/pulls{/number}",
-  "pulls_authors": []
+  "pulls_authors": [
+    "achingbrain",
+    "hacdias",
+    "diasdavid",
+    "RichardLitt",
+    "noffle",
+    "travisperson"
+  ]
 }

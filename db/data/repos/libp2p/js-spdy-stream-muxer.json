@@ -65,5 +65,12 @@
   },
   "fetched_at": "2018-07-20T05:20:21.309Z",
   "pulls_url": "https://api.github.com/repos/libp2p/js-spdy-stream-muxer/pulls{/number}",
-  "pulls_authors": []
+  "pulls_authors": [
+    "VictorBjelkholm",
+    "greenkeeperio-bot",
+    "greenkeeper[bot]",
+    "RichardLitt",
+    "diasdavid",
+    "dignifiedquire"
+  ]
 }

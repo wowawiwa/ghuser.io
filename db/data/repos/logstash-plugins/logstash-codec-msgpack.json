@@ -71,7 +71,12 @@
   "fetched_at": "2018-07-20T05:20:21.309Z",
   "pulls_url": "https://api.github.com/repos/logstash-plugins/logstash-codec-msgpack/pulls{/number}",
   "pulls_authors": [
+    "original-brownbear",
+    "dedemorton",
     "kertal",
-    "moshen"
+    "suyograo",
+    "moshen",
+    "colinsurprenant",
+    "ph"
   ]
 }

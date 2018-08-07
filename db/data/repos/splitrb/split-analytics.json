@@ -62,5 +62,11 @@
     }
   },
   "pulls_url": "https://api.github.com/repos/splitrb/split-analytics/pulls{/number}",
-  "pulls_authors": []
+  "pulls_authors": [
+    "RichardLitt",
+    "Bodacious",
+    "dmasur",
+    "jpoday",
+    "joshuavial"
+  ]
 }

@@ -58,5 +58,8 @@
   },
   "fetched_at": "2018-07-30T08:17:52.801Z",
   "pulls_url": "https://api.github.com/repos/google/go-intervals/pulls{/number}",
-  "pulls_authors": []
+  "pulls_authors": [
+    "gonzojive",
+    "DiSiqueira"
+  ]
 }

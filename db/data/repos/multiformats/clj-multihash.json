@@ -62,5 +62,8 @@
   },
   "fetched_at": "2018-08-06T18:44:54.295Z",
   "pulls_url": "https://api.github.com/repos/multiformats/clj-multihash/pulls{/number}",
-  "pulls_authors": []
+  "pulls_authors": [
+    "RichardLitt",
+    "gitter-badger"
+  ]
 }

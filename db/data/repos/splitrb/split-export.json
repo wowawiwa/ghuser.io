@@ -60,5 +60,10 @@
     }
   },
   "pulls_url": "https://api.github.com/repos/splitrb/split-export/pulls{/number}",
-  "pulls_authors": []
+  "pulls_authors": [
+    "Paprikas",
+    "RichardLitt",
+    "max11D",
+    "inkredabull"
+  ]
 }

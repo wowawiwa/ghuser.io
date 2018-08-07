@@ -72,5 +72,9 @@
   },
   "fetched_at": "2018-08-05T13:20:52.832Z",
   "pulls_url": "https://api.github.com/repos/reframejs/reframe/pulls{/number}",
-  "pulls_authors": []
+  "pulls_authors": [
+    "AurelienLourot",
+    "yuxal",
+    "tdfranklin"
+  ]
 }

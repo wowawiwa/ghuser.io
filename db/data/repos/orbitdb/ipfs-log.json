@@ -73,10 +73,15 @@
   "pulls_url": "https://api.github.com/repos/orbitdb/ipfs-log/pulls{/number}",
   "pulls_authors": [
     "mistakia",
-    "crazybuster",
     "thiagodelgado111",
+    "crazybuster",
     "haadcode",
     "coyotespike",
-    "fazo96"
+    "fazo96",
+    "chrisdostert",
+    "dignifiedquire",
+    "diasdavid",
+    "greenkeeperio-bot",
+    "RichardLitt"
   ]
 }
