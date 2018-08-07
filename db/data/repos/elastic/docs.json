@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/elastic/docs",
   "languages_url": "https://api.github.com/repos/elastic/docs/languages",
   "created_at": "2015-02-25T16:26:02Z",
-  "updated_at": "2018-08-06T14:55:44Z",
-  "pushed_at": "2018-08-06T14:55:42Z",
+  "updated_at": "2018-08-06T22:05:14Z",
+  "pushed_at": "2018-08-06T22:05:10Z",
   "homepage": null,
-  "size": 702749,
+  "size": 702940,
   "stargazers_count": 111,
   "language": "HTML",
   "mirror_url": null,
@@ -42,7 +42,7 @@
   },
   "languages": {
     "HTML": {
-      "bytes": 2667244201,
+      "bytes": 2667238107,
       "color": "#e34c26"
     },
     "JavaScript": {
@@ -54,7 +54,7 @@
       "color": "#563d7c"
     },
     "XSLT": {
-      "bytes": 8186523,
+      "bytes": 8186489,
       "color": "#EB8CEB"
     },
     "Perl": {
@@ -128,7 +128,8 @@
     "simitt": 1,
     "Sue-Gallagher": 3,
     "jalvz": 1,
-    "jahtalab": 1
+    "jahtalab": 1,
+    "kellyemurphy": 2
   },
-  "fetched_at": "2018-08-06T18:44:54.295Z"
+  "fetched_at": "2018-08-07T05:28:00.177Z"
 }

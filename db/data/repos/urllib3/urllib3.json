@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/urllib3/urllib3",
   "languages_url": "https://api.github.com/repos/urllib3/urllib3/languages",
   "created_at": "2011-09-18T18:08:28Z",
-  "updated_at": "2018-08-06T18:15:57Z",
-  "pushed_at": "2018-08-06T07:12:31Z",
+  "updated_at": "2018-08-07T01:35:38Z",
+  "pushed_at": "2018-08-06T21:20:05Z",
   "homepage": "https://urllib3.readthedocs.io/",
-  "size": 4069,
-  "stargazers_count": 1675,
+  "size": 4079,
+  "stargazers_count": 1676,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "Python": {
-      "bytes": 701746,
+      "bytes": 702066,
       "color": "#3572A5"
     },
     "PowerShell": {
@@ -218,7 +218,7 @@
     "pra85": 1,
     "obi1kenobi": 1,
     "ruudud": 1,
-    "pquentin": 3,
+    "pquentin": 4,
     "bluetech": 1,
     "rhettinger": 1,
     "riyadparvez": 1,
@@ -249,5 +249,5 @@
     "JackOfMostTrades": 1,
     "mgorny": 1
   },
-  "fetched_at": "2018-08-06T18:44:54.295Z"
+  "fetched_at": "2018-08-07T05:28:00.177Z"
 }

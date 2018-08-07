@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/apache/spark",
   "languages_url": "https://api.github.com/repos/apache/spark/languages",
   "created_at": "2014-02-25T08:00:08Z",
-  "updated_at": "2018-08-06T15:30:15Z",
-  "pushed_at": "2018-08-06T18:39:56Z",
+  "updated_at": "2018-08-07T05:24:06Z",
+  "pushed_at": "2018-08-07T05:27:47Z",
   "homepage": null,
-  "size": 278621,
-  "stargazers_count": 18327,
+  "size": 278722,
+  "stargazers_count": 18329,
   "language": "Scala",
   "mirror_url": null,
   "archived": false,
@@ -83,7 +83,7 @@
     "ash211": 52,
     "WangTaoTheTonic": 54,
     "lw-lin": 56,
-    "dbtsai": 62,
+    "dbtsai": 63,
     "nchammas": 59,
     "yu-iskw": 60,
     "wangmiao1981": 62,
@@ -106,13 +106,13 @@
     "ericl": 81,
     "WeichenXu123": 86,
     "hhbyyh": 86,
-    "mgaido91": 96,
+    "mgaido91": 98,
     "BryanCutler": 87,
     "scwf": 92,
     "sryza": 92,
     "adrian-wang": 94,
     "stephenh": 110,
-    "kiszk": 106,
+    "kiszk": 108,
     "zhengruifeng": 105,
     "brkyvz": 111,
     "kayousterhout": 124,
@@ -134,7 +134,7 @@
     "yhuai": 255,
     "marmbrus": 281,
     "yanboliang": 289,
-    "dongjoon-hyun": 299,
+    "dongjoon-hyun": 300,
     "mengxr": 338,
     "vanzin": 344,
     "viirya": 348,
@@ -322,7 +322,7 @@
     "ioana-delaney": 5,
     "JasonMWhite": 5,
     "jmchung": 5,
-    "HeartSaVioR": 6,
+    "HeartSaVioR": 8,
     "KarthikTunga": 5,
     "kellrott": 5,
     "mortada": 5,
@@ -383,19 +383,20 @@
     "renozhang": 4,
     "chouqin": 4,
     "phalodi": 4,
-    "shahidki31": 4
+    "shahidki31": 4,
+    "arunmahadevan": 4
   },
   "languages": {
     "Scala": {
-      "bytes": 26865224,
+      "bytes": 26874080,
       "color": "#c22d40"
     },
     "Java": {
-      "bytes": 3366338,
+      "bytes": 3371406,
       "color": "#b07219"
     },
     "Python": {
-      "bytes": 2714053,
+      "bytes": 2714595,
       "color": "#3572A5"
     },
     "HiveQL": {
@@ -467,5 +468,5 @@
       "color": "#555555"
     }
   },
-  "fetched_at": "2018-08-06T18:44:54.295Z"
+  "fetched_at": "2018-08-07T05:28:00.177Z"
 }

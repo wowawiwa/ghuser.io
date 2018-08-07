@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/cockroachdb/cockroach",
   "languages_url": "https://api.github.com/repos/cockroachdb/cockroach/languages",
   "created_at": "2014-02-06T00:18:47Z",
-  "updated_at": "2018-08-06T18:17:21Z",
-  "pushed_at": "2018-08-06T18:22:37Z",
+  "updated_at": "2018-08-07T02:19:45Z",
+  "pushed_at": "2018-08-07T04:26:43Z",
   "homepage": "https://www.cockroachlabs.com",
-  "size": 1030788,
-  "stargazers_count": 13946,
+  "size": 1031084,
+  "stargazers_count": 13950,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -89,7 +89,7 @@
     "guanqun": 9,
     "yananzhi": 14,
     "xiaoyulei": 10,
-    "yuzefovich": 24,
+    "yuzefovich": 27,
     "lhirata": 19,
     "thundercw": 11,
     "joezxy": 14,
@@ -122,19 +122,19 @@
     "rytaft": 126,
     "lego": 122,
     "andybons": 105,
-    "asubiotto": 183,
+    "asubiotto": 184,
     "vilterp": 218,
     "justinj": 345,
-    "andy-kimball": 282,
+    "andy-kimball": 285,
     "kkaneda": 429,
     "couchand": 380,
-    "mrtracy": 604,
+    "mrtracy": 605,
     "mjibson": 671,
     "danhhz": 715,
     "BramGruneir": 747,
     "mberhault": 733,
     "vivekmenezes": 826,
-    "jordanlewis": 834,
+    "jordanlewis": 836,
     "spencerkimball": 895,
     "dt": 999,
     "andreimatei": 899,
@@ -259,7 +259,7 @@
   },
   "languages": {
     "Go": {
-      "bytes": 19297764,
+      "bytes": 19351486,
       "color": "#375eab"
     },
     "TypeScript": {
@@ -271,7 +271,7 @@
       "color": "#f34b7d"
     },
     "Yacc": {
-      "bytes": 239388,
+      "bytes": 239399,
       "color": "#4B6C4B"
     },
     "Shell": {
@@ -279,11 +279,11 @@
       "color": "#89e051"
     },
     "Tcl": {
-      "bytes": 70565,
+      "bytes": 70566,
       "color": "#e4cc98"
     },
     "Makefile": {
-      "bytes": 67826,
+      "bytes": 67839,
       "color": "#427819"
     },
     "CSS": {
@@ -347,5 +347,5 @@
       "color": "#4d41b1"
     }
   },
-  "fetched_at": "2018-08-06T18:44:54.295Z"
+  "fetched_at": "2018-08-07T05:28:00.177Z"
 }

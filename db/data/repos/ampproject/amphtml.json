@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/ampproject/amphtml",
   "languages_url": "https://api.github.com/repos/ampproject/amphtml/languages",
   "created_at": "2015-09-01T22:10:53Z",
-  "updated_at": "2018-08-06T18:02:48Z",
-  "pushed_at": "2018-08-06T18:33:10Z",
+  "updated_at": "2018-08-07T00:10:45Z",
+  "pushed_at": "2018-08-07T02:29:00Z",
   "homepage": "https://www.ampproject.org",
-  "size": 494025,
-  "stargazers_count": 11824,
+  "size": 494587,
+  "stargazers_count": 11826,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -76,7 +76,7 @@
     "kushal": 8,
     "adelinamart": 8,
     "AaronCritchley": 9,
-    "kevinkassimo": 10,
+    "kevinkassimo": 11,
     "twifkak": 9,
     "pbakaus": 10,
     "mkendall07": 9,
@@ -117,7 +117,7 @@
     "mrjoro": 65,
     "danielrozenberg": 68,
     "calebcordry": 73,
-    "nainar": 72,
+    "nainar": 73,
     "avimehta": 86,
     "prateekbh": 85,
     "camelburrito": 91,
@@ -127,7 +127,7 @@
     "greenkeeper[bot]": 111,
     "muxin": 118,
     "newmuis": 120,
-    "cvializ": 132,
+    "cvializ": 133,
     "bradfrizzell": 140,
     "keithwrightbos": 156,
     "cathyxz": 167,
@@ -136,10 +136,10 @@
     "bpaduch": 176,
     "honeybadgerdontcare": 183,
     "alanorozco": 186,
-    "Gregable": 217,
+    "Gregable": 218,
     "powdercloud": 261,
-    "aghassemi": 280,
-    "choumx": 316,
+    "aghassemi": 281,
+    "choumx": 318,
     "lannka": 329,
     "zhouyx": 329,
     "jridgewell": 423,
@@ -352,7 +352,7 @@
     "cory-work": 1,
     "bantic": 1,
     "fusedreality": 1,
-    "CrystalFaith": 2,
+    "CrystalFaith": 4,
     "danbri": 1,
     "dharton": 1,
     "da2x": 1,
@@ -480,19 +480,20 @@
     "dev-drprasad": 1,
     "rafaelstz": 1,
     "ryjust": 2,
-    "eoinpjcorcoran": 1
+    "eoinpjcorcoran": 1,
+    "westonruter": 2
   },
   "languages": {
     "JavaScript": {
-      "bytes": 12025665,
+      "bytes": 12029960,
       "color": "#f1e05a"
     },
     "HTML": {
-      "bytes": 1320141,
+      "bytes": 1321198,
       "color": "#e34c26"
     },
     "CSS": {
-      "bytes": 337242,
+      "bytes": 336862,
       "color": "#563d7c"
     },
     "Python": {
@@ -504,7 +505,7 @@
       "color": "#b07219"
     },
     "Yacc": {
-      "bytes": 22292,
+      "bytes": 22627,
       "color": "#4B6C4B"
     },
     "Shell": {
@@ -516,5 +517,5 @@
       "color": "#375eab"
     }
   },
-  "fetched_at": "2018-08-06T18:44:54.295Z"
+  "fetched_at": "2018-08-07T05:28:00.177Z"
 }

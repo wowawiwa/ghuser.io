@@ -5,7 +5,7 @@
     "Kloppie5": 2,
     "mysticfall": 2,
     "exts": 2,
-    "cbscribe": 44,
+    "cbscribe": 49,
     "AndreaCatania": 2,
     "josephskelly": 2,
     "daglilley": 2,
@@ -41,7 +41,7 @@
     "Jason0214": 3,
     "rminderhoud": 3,
     "neikeq": 7,
-    "clayjohn": 5,
+    "clayjohn": 7,
     "follower": 3,
     "tagcup": 3,
     "drambique": 3,
@@ -88,7 +88,7 @@
     "paulloz": 10,
     "Bonfi96": 9,
     "vnen": 11,
-    "Calinou": 16,
+    "Calinou": 17,
     "KellyThomas": 14,
     "eska014": 15,
     "Griatch": 17,
@@ -272,8 +272,9 @@
     "kavika13": 1,
     "rcorre": 1,
     "EIREXE": 1,
-    "FeralBytes": 1,
-    "arrowgamer": 1
+    "FeralBytes": 2,
+    "arrowgamer": 1,
+    "isaacremnant": 1
   },
   "name": "godot-docs",
   "full_name": "godotengine/godot-docs",
@@ -285,10 +286,10 @@
   "url": "https://api.github.com/repos/godotengine/godot-docs",
   "languages_url": "https://api.github.com/repos/godotengine/godot-docs/languages",
   "created_at": "2015-12-12T15:02:06Z",
-  "updated_at": "2018-08-05T18:28:06Z",
-  "pushed_at": "2018-08-06T04:34:58Z",
+  "updated_at": "2018-08-07T01:43:06Z",
+  "pushed_at": "2018-08-07T03:06:45Z",
   "homepage": "http://docs.godotengine.org",
-  "size": 289596,
+  "size": 289609,
   "stargazers_count": 360,
   "language": "Python",
   "mirror_url": null,
@@ -345,5 +346,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-08-06T06:12:02.455Z"
+  "fetched_at": "2018-08-07T05:28:00.177Z"
 }

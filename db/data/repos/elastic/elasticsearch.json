@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/elastic/elasticsearch",
   "languages_url": "https://api.github.com/repos/elastic/elasticsearch/languages",
   "created_at": "2010-02-08T13:20:56Z",
-  "updated_at": "2018-08-06T18:19:43Z",
-  "pushed_at": "2018-08-06T18:41:27Z",
+  "updated_at": "2018-08-07T05:28:56Z",
+  "pushed_at": "2018-08-07T05:13:26Z",
   "homepage": "https://www.elastic.co/products/elasticsearch",
-  "size": 500971,
-  "stargazers_count": 33218,
+  "size": 501023,
+  "stargazers_count": 33232,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "Java": {
-      "bytes": 68133551,
+      "bytes": 68181865,
       "color": "#b07219"
     },
     "Groovy": {
-      "bytes": 414653,
+      "bytes": 414837,
       "color": "#e69f56"
     },
     "Shell": {
@@ -100,7 +100,7 @@
     "cwurm": 11,
     "a2lin": 11,
     "jprante": 11,
-    "original-brownbear": 35,
+    "original-brownbear": 36,
     "suyograo": 12,
     "gfyoung": 12,
     "ankon": 12,
@@ -156,7 +156,7 @@
     "talevy": 183,
     "dnhatn": 152,
     "danielmitterdorfer": 187,
-    "jdconrad": 231,
+    "jdconrad": 232,
     "karmi": 184,
     "tbrooks8": 193,
     "costin": 209,
@@ -189,7 +189,7 @@
     "rjernst": 1801,
     "nik9000": 1633,
     "javanna": 1871,
-    "jasontedor": 2136,
+    "jasontedor": 2137,
     "martijnvg": 2123,
     "s1monw": 3104,
     "kimchy": 4781,
@@ -197,7 +197,7 @@
     "w33ble": 59,
     "panda01": 32,
     "epixa": 17,
-    "dedemorton": 15,
+    "dedemorton": 16,
     "masaruh": 14,
     "xuzha": 13,
     "karussell": 11,
@@ -465,7 +465,8 @@
     "melix": 2,
     "sabi0": 2,
     "jakelandis": 3,
-    "aferreira": 9
+    "aferreira": 9,
+    "benwtrent": 2
   },
-  "fetched_at": "2018-08-06T18:44:54.295Z"
+  "fetched_at": "2018-08-07T05:28:00.177Z"
 }

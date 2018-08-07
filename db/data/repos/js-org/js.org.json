@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/js-org/js.org",
   "languages_url": "https://api.github.com/repos/js-org/js.org/languages",
   "created_at": "2015-04-08T01:43:18Z",
-  "updated_at": "2018-08-06T13:06:48Z",
-  "pushed_at": "2018-08-06T16:36:09Z",
+  "updated_at": "2018-08-07T02:27:01Z",
+  "pushed_at": "2018-08-07T05:08:54Z",
   "homepage": "https://js.org",
-  "size": 2786,
-  "stargazers_count": 1792,
+  "size": 2935,
+  "stargazers_count": 1793,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -141,16 +141,16 @@
     "tannerlinsley": 15,
     "pakastin": 15,
     "egoist": 16,
-    "indus": 1829,
+    "indus": 1832,
     "ccrraaiigg": 3,
     "danieljuarezp": 3,
     "dhruvdutt": 3,
     "dogancelik": 3,
     "eliperelman": 3,
     "GianlucaGuarini": 3,
-    "haydennyyy": 3,
+    "haydennyyy": 4,
     "diegohaz": 3,
-    "Purpzie": 3,
+    "Purpzie": 4,
     "iagrib": 3,
     "jacogr": 3,
     "whoisjorge": 3,
@@ -486,13 +486,14 @@
     "andykais": 2,
     "romanlex": 2,
     "sasha240100": 1,
-    "amishshah": 1
+    "amishshah": 1,
+    "pizzafox": 2
   },
   "languages": {
     "JavaScript": {
-      "bytes": 82680,
+      "bytes": 82716,
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-06T18:44:54.295Z"
+  "fetched_at": "2018-08-07T05:28:00.177Z"
 }
