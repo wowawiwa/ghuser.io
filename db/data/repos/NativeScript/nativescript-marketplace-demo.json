@@ -15,7 +15,7 @@
     "sis0k0": 7,
     "dtopuzov": 11,
     "hdeshev": 13,
-    "NickIliev": 19,
+    "NickIliev": 20,
     "vchimev": 22,
     "hamorphis": 23,
     "vakrilov": 96,
@@ -31,10 +31,10 @@
   "url": "https://api.github.com/repos/NativeScript/nativescript-marketplace-demo",
   "languages_url": "https://api.github.com/repos/NativeScript/nativescript-marketplace-demo/languages",
   "created_at": "2015-07-31T08:54:45Z",
-  "updated_at": "2018-08-03T02:41:31Z",
-  "pushed_at": "2018-06-05T14:55:16Z",
+  "updated_at": "2018-08-07T09:51:47Z",
+  "pushed_at": "2018-08-07T09:51:48Z",
   "homepage": "http://www.nativescript.org",
-  "size": 83789,
+  "size": 83758,
   "stargazers_count": 267,
   "language": "TypeScript",
   "mirror_url": null,
@@ -69,7 +69,7 @@
   },
   "languages": {
     "TypeScript": {
-      "bytes": 148822,
+      "bytes": 148982,
       "color": "#2b7489"
     },
     "CSS": {
@@ -77,7 +77,7 @@
       "color": "#563d7c"
     },
     "JavaScript": {
-      "bytes": 8922,
+      "bytes": 8949,
       "color": "#f1e05a"
     },
     "MAXScript": {
@@ -85,7 +85,7 @@
       "color": "#00a6a6"
     }
   },
-  "fetched_at": "2018-08-03T05:56:14.583Z",
+  "fetched_at": "2018-08-07T18:46:12.707Z",
   "pulls_url": "https://api.github.com/repos/NativeScript/nativescript-marketplace-demo/pulls{/number}",
   "pulls_authors": [
     "NickIliev",

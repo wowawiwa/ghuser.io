@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/AurelienLourot/my-ansible-setup",
   "languages_url": "https://api.github.com/repos/AurelienLourot/my-ansible-setup/languages",
   "created_at": "2015-11-27T20:14:06Z",
-  "updated_at": "2018-07-06T15:47:09Z",
-  "pushed_at": "2018-07-06T15:47:08Z",
+  "updated_at": "2018-08-07T14:07:32Z",
+  "pushed_at": "2018-08-07T14:07:30Z",
   "homepage": null,
-  "size": 7020,
+  "size": 7018,
   "stargazers_count": 1,
   "language": "Shell",
   "mirror_url": null,
@@ -27,11 +27,11 @@
   },
   "default_branch": "master",
   "contributors": {
-    "AurelienLourot": 222
+    "AurelienLourot": 223
   },
   "languages": {
     "Shell": {
-      "bytes": 6705,
+      "bytes": 6744,
       "color": "#89e051"
     },
     "Python": {
@@ -43,7 +43,7 @@
       "color": "#000080"
     },
     "Scheme": {
-      "bytes": 236,
+      "bytes": 275,
       "color": "#1e4aec"
     },
     "Vim script": {
@@ -58,7 +58,7 @@
       "Ansible"
     ]
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "fetched_at": "2018-08-07T18:46:12.707Z",
   "pulls_url": "https://api.github.com/repos/AurelienLourot/my-ansible-setup/pulls{/number}",
   "pulls_authors": []
 }

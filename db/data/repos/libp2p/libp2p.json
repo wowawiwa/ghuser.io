@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/libp2p/libp2p",
   "languages_url": "https://api.github.com/repos/libp2p/libp2p/languages",
   "created_at": "2016-06-18T17:01:46Z",
-  "updated_at": "2018-08-06T18:00:13Z",
+  "updated_at": "2018-08-07T09:00:51Z",
   "pushed_at": "2018-07-19T18:41:28Z",
   "homepage": "https://libp2p.io",
   "size": 5655,
-  "stargazers_count": 500,
+  "stargazers_count": 501,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -58,7 +58,7 @@
     "jbenet": 3,
     "diasdavid": 6
   },
-  "fetched_at": "2018-08-06T18:44:54.295Z",
+  "fetched_at": "2018-08-07T18:46:12.707Z",
   "pulls_url": "https://api.github.com/repos/libp2p/libp2p/pulls{/number}",
   "pulls_authors": [
     "mgoelzer",

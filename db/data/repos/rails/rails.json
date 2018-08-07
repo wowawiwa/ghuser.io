@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/rails/rails",
   "languages_url": "https://api.github.com/repos/rails/rails/languages",
   "created_at": "2008-04-11T02:19:47Z",
-  "updated_at": "2018-08-07T03:37:19Z",
-  "pushed_at": "2018-08-07T03:27:06Z",
+  "updated_at": "2018-08-07T18:25:14Z",
+  "pushed_at": "2018-08-07T18:24:20Z",
   "homepage": "https://rubyonrails.org",
-  "size": 164856,
-  "stargazers_count": 40440,
+  "size": 165101,
+  "stargazers_count": 40447,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "Ruby": {
-      "bytes": 11980608,
+      "bytes": 11980990,
       "color": "#701516"
     },
     "HTML": {
@@ -144,7 +144,7 @@
     "yui-knk": 234,
     "chancancode": 358,
     "ffmike": 248,
-    "eileencodes": 562,
+    "eileencodes": 563,
     "maclover7": 465,
     "matthewd": 779,
     "guilleiguaran": 789,
@@ -173,7 +173,7 @@
     "kamipo": 1547,
     "josevalim": 2574,
     "fxn": 2197,
-    "rafaelfranca": 5707,
+    "rafaelfranca": 5708,
     "jeremy": 3722,
     "dhh": 4233,
     "tenderlove": 4901,
@@ -269,7 +269,7 @@
     "iamvery": 21,
     "bf4": 20,
     "greysteil": 20,
-    "lsylvester": 21,
+    "lsylvester": 22,
     "take": 20,
     "grosser": 20,
     "gazay": 19,
@@ -464,9 +464,10 @@
     "bdewater": 15,
     "ptoomey3": 8
   },
-  "fetched_at": "2018-08-07T05:28:00.177Z",
+  "fetched_at": "2018-08-07T18:46:12.707Z",
   "pulls_url": "https://api.github.com/repos/rails/rails/pulls{/number}",
   "pulls_authors": [
+    "Ana06",
     "araslanov-e",
     "lsylvester",
     "joeltaylor",

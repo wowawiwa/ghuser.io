@@ -97,7 +97,7 @@
     "BerkeleyTrue": 306,
     "benmcmahon100": 298,
     "Bouncey": 249,
-    "raisedadead": 470,
+    "raisedadead": 471,
     "terakilobyte": 658,
     "sahat": 1261,
     "QuincyLarson": 2386,
@@ -402,11 +402,11 @@
   "url": "https://api.github.com/repos/freeCodeCamp/freeCodeCamp",
   "languages_url": "https://api.github.com/repos/freeCodeCamp/freeCodeCamp/languages",
   "created_at": "2014-12-24T17:49:19Z",
-  "updated_at": "2018-08-07T05:23:20Z",
-  "pushed_at": "2018-08-05T04:35:19Z",
+  "updated_at": "2018-08-07T18:24:37Z",
+  "pushed_at": "2018-08-07T13:35:24Z",
   "homepage": "",
-  "size": 35591,
-  "stargazers_count": 293359,
+  "size": 35592,
+  "stargazers_count": 293371,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -440,7 +440,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 543160,
+      "bytes": 543441,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -452,11 +452,11 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-08-07T05:28:00.177Z",
+  "fetched_at": "2018-08-07T18:46:12.707Z",
   "pulls_url": "https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls{/number}",
   "pulls_authors": [
-    "Bouncey",
     "raisedadead",
+    "Bouncey",
     "NitronR",
     "Nirajn2311",
     "ChanHoHo",

@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/ethereum/web3.py",
   "languages_url": "https://api.github.com/repos/ethereum/web3.py/languages",
   "created_at": "2016-04-14T15:59:35Z",
-  "updated_at": "2018-08-07T04:47:42Z",
-  "pushed_at": "2018-08-07T04:47:39Z",
+  "updated_at": "2018-08-07T16:26:17Z",
+  "pushed_at": "2018-08-07T18:39:57Z",
   "homepage": "http://web3py.readthedocs.io",
-  "size": 2670,
+  "size": 2677,
   "stargazers_count": 973,
   "language": "Python",
   "mirror_url": null,
@@ -120,7 +120,8 @@
     "djrtwo": 57,
     "dylanjw": 120,
     "carver": 469,
-    "pipermerriam": 565
+    "pipermerriam": 565,
+    "akhavr": 1
   },
   "languages": {
     "Python": {
@@ -136,9 +137,10 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-07T05:28:00.177Z",
+  "fetched_at": "2018-08-07T18:46:12.707Z",
   "pulls_url": "https://api.github.com/repos/ethereum/web3.py/pulls{/number}",
   "pulls_authors": [
+    "akhavr",
     "dylanjw",
     "banteg",
     "carver",

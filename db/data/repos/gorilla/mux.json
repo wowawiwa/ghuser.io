@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/gorilla/mux",
   "languages_url": "https://api.github.com/repos/gorilla/mux/languages",
   "created_at": "2012-10-02T21:32:24Z",
-  "updated_at": "2018-08-06T15:53:39Z",
-  "pushed_at": "2018-07-10T17:00:21Z",
+  "updated_at": "2018-08-07T17:18:00Z",
+  "pushed_at": "2018-08-07T07:53:30Z",
   "homepage": "http://www.gorillatoolkit.org/pkg/mux",
-  "size": 327,
-  "stargazers_count": 6697,
+  "size": 329,
+  "stargazers_count": 6707,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -114,15 +114,16 @@
     "burrbd": 6,
     "raphael": 6,
     "elithrar": 21,
-    "kisielk": 26
+    "kisielk": 28,
+    "dmitshur": 2
   },
   "languages": {
     "Go": {
-      "bytes": 172884,
+      "bytes": 173064,
       "color": "#375eab"
     }
   },
-  "fetched_at": "2018-08-06T18:44:54.295Z",
+  "fetched_at": "2018-08-07T18:46:12.707Z",
   "pulls_url": "https://api.github.com/repos/gorilla/mux/pulls{/number}",
   "pulls_authors": [
     "nolta",

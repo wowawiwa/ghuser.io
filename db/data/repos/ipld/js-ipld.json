@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/ipld/js-ipld",
   "languages_url": "https://api.github.com/repos/ipld/js-ipld/languages",
   "created_at": "2016-04-08T08:34:07Z",
-  "updated_at": "2018-08-01T17:51:14Z",
-  "pushed_at": "2018-07-29T18:05:09Z",
+  "updated_at": "2018-08-07T13:09:49Z",
+  "pushed_at": "2018-08-07T13:09:47Z",
   "homepage": "https://ipld.io",
-  "size": 216,
+  "size": 208,
   "stargazers_count": 45,
   "language": "JavaScript",
   "mirror_url": null,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 64494,
+      "bytes": 67137,
       "color": "#f1e05a"
     },
     "Groovy": {
@@ -69,12 +69,13 @@
     "VictorBjelkholm": 4,
     "kumavis": 6,
     "nicola": 9,
-    "vmx": 18,
+    "vmx": 20,
     "dignifiedquire": 24,
     "diasdavid": 105,
-    "JonKrone": 2
+    "JonKrone": 2,
+    "jonahweissman": 3
   },
-  "fetched_at": "2018-08-01T20:16:09.053Z",
+  "fetched_at": "2018-08-07T18:46:12.707Z",
   "pulls_url": "https://api.github.com/repos/ipld/js-ipld/pulls{/number}",
   "pulls_authors": [
     "vmx",
