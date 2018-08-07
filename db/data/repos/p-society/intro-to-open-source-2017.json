@@ -65,5 +65,10 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-07-24T11:02:51.802Z"
+  "fetched_at": "2018-07-24T11:02:51.802Z",
+  "pulls_url": "https://api.github.com/repos/p-society/intro-to-open-source-2017/pulls{/number}",
+  "pulls_authors": [
+    "Swaraj1998",
+    "smrutisenapati"
+  ]
 }

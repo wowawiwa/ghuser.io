@@ -74,5 +74,11 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/scrapinghub/exporters/pulls{/number}",
+  "pulls_authors": [
+    "manugarri",
+    "raphapassini",
+    "bbotella"
+  ]
 }

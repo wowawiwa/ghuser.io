@@ -36,5 +36,15 @@
     "devarchy-bot": 124
   },
   "languages": {},
-  "fetched_at": "2018-08-07T05:28:00.177Z"
+  "fetched_at": "2018-08-07T05:28:00.177Z",
+  "pulls_url": "https://api.github.com/repos/brillout/awesome-react-components/pulls{/number}",
+  "pulls_authors": [
+    "fzaninotto",
+    "ScriptedAlchemy",
+    "kidjp85",
+    "jonisar",
+    "diogofcunha",
+    "kirkins",
+    "Kerumen"
+  ]
 }

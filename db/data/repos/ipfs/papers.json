@@ -63,5 +63,16 @@
     "arcalinea": 3,
     "jbenet": 3
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/ipfs/papers/pulls{/number}",
+  "pulls_authors": [
+    "wildmolasses",
+    "Bujiraso",
+    "mitar",
+    "machawk1",
+    "MartinThoma",
+    "ivilata",
+    "rht",
+    "jknoll"
+  ]
 }

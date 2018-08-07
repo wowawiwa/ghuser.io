@@ -67,5 +67,11 @@
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-08-02T09:08:18.533Z"
+  "fetched_at": "2018-08-02T09:08:18.533Z",
+  "pulls_url": "https://api.github.com/repos/serverstf/python-valve/pulls{/number}",
+  "pulls_authors": [
+    "indietyp",
+    "AngellusMortis",
+    "Yepoleb"
+  ]
 }

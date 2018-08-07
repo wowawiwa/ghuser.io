@@ -70,5 +70,12 @@
     "jsvd": 8,
     "ph": 41
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/logstash-plugins/logstash-codec-fluent/pulls{/number}",
+  "pulls_authors": [
+    "cosmo0920",
+    "RavensClaw",
+    "sourcepirate",
+    "hselvara"
+  ]
 }

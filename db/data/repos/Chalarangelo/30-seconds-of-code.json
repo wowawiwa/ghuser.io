@@ -169,5 +169,9 @@
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-08-07T05:28:00.177Z"
+  "fetched_at": "2018-08-07T05:28:00.177Z",
+  "pulls_url": "https://api.github.com/repos/Chalarangelo/30-seconds-of-code/pulls{/number}",
+  "pulls_authors": [
+    "skatcat31"
+  ]
 }

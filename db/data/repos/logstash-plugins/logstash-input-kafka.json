@@ -85,5 +85,12 @@
     "suyograo": 33,
     "ph": 42
   },
-  "fetched_at": "2018-08-02T09:08:18.533Z"
+  "fetched_at": "2018-08-02T09:08:18.533Z",
+  "pulls_url": "https://api.github.com/repos/logstash-plugins/logstash-input-kafka/pulls{/number}",
+  "pulls_authors": [
+    "lepek",
+    "yaauie",
+    "dkelley-accretive",
+    "gnuhpc"
+  ]
 }

@@ -68,5 +68,10 @@
       "color": "#000080"
     }
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/minetest-mods/moreores/pulls{/number}",
+  "pulls_authors": [
+    "Jat15",
+    "fat115"
+  ]
 }

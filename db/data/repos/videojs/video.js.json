@@ -380,5 +380,17 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-08-07T05:28:00.177Z"
+  "fetched_at": "2018-08-07T05:28:00.177Z",
+  "pulls_url": "https://api.github.com/repos/videojs/video.js/pulls{/number}",
+  "pulls_authors": [
+    "greenkeeper[bot]",
+    "thijstriemstra",
+    "Eric-Daniel",
+    "fketchakeu",
+    "gstrat88",
+    "featheast",
+    "gkatsev",
+    "BrandonOCasey",
+    "hartman"
+  ]
 }

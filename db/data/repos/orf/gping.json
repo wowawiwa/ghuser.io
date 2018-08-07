@@ -48,5 +48,9 @@
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-08-04T04:50:08.376Z"
+  "fetched_at": "2018-08-04T04:50:08.376Z",
+  "pulls_url": "https://api.github.com/repos/orf/gping/pulls{/number}",
+  "pulls_authors": [
+    "ejmr"
+  ]
 }

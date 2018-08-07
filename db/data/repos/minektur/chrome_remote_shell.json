@@ -36,5 +36,11 @@
     "brandon-rhodes": 9,
     "minektur": 12
   },
-  "fetched_at": "2018-08-05T05:49:31.694Z"
+  "fetched_at": "2018-08-05T05:49:31.694Z",
+  "pulls_url": "https://api.github.com/repos/minektur/chrome_remote_shell/pulls{/number}",
+  "pulls_authors": [
+    "adeptex",
+    "evanscottgray",
+    "srikumar-b"
+  ]
 }

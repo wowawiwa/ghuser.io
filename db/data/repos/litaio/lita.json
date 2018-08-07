@@ -84,5 +84,11 @@
     "natesholland": 10,
     "jimmycuadra": 583
   },
-  "fetched_at": "2018-07-30T16:17:21.729Z"
+  "fetched_at": "2018-07-30T16:17:21.729Z",
+  "pulls_url": "https://api.github.com/repos/litaio/lita/pulls{/number}",
+  "pulls_authors": [
+    "maxvt",
+    "brodock",
+    "glittershark"
+  ]
 }

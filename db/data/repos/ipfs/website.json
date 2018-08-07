@@ -156,5 +156,17 @@
     "adambrault": 108,
     "Mr0grog": 2
   },
-  "fetched_at": "2018-08-04T14:28:30.712Z"
+  "fetched_at": "2018-08-04T14:28:30.712Z",
+  "pulls_url": "https://api.github.com/repos/ipfs/website/pulls{/number}",
+  "pulls_authors": [
+    "VictorBjelkholm",
+    "abitrolly",
+    "lidel",
+    "mandarvaze",
+    "justrossthings",
+    "lgierth",
+    "JohannesKnecht",
+    "stanfieldr",
+    "jes"
+  ]
 }

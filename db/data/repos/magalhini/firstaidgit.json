@@ -60,5 +60,12 @@
     "magalhini": 3,
     "atishgoswami": 3
   },
-  "fetched_at": "2018-08-01T10:42:25.848Z"
+  "fetched_at": "2018-08-01T10:42:25.848Z",
+  "pulls_url": "https://api.github.com/repos/magalhini/firstaidgit/pulls{/number}",
+  "pulls_authors": [
+    "bpkinez",
+    "RichardLitt",
+    "Thaurin",
+    "alloro"
+  ]
 }

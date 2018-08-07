@@ -112,5 +112,18 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-07T05:28:00.177Z"
+  "fetched_at": "2018-08-07T05:28:00.177Z",
+  "pulls_url": "https://api.github.com/repos/databricks/mlflow/pulls{/number}",
+  "pulls_authors": [
+    "AgrawalAmey",
+    "mateiz",
+    "ToonKBC",
+    "arinto",
+    "dbczumar",
+    "0wu",
+    "smurching",
+    "cryptexis",
+    "xgk",
+    "Cs4r"
+  ]
 }

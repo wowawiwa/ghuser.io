@@ -70,5 +70,7 @@
     "jsvd": 4,
     "ph": 37
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/logstash-plugins/logstash-codec-cloudtrail/pulls{/number}",
+  "pulls_authors": []
 }

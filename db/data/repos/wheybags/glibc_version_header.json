@@ -42,5 +42,9 @@
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-07-27T17:48:38.221Z"
+  "fetched_at": "2018-07-27T17:48:38.221Z",
+  "pulls_url": "https://api.github.com/repos/wheybags/glibc_version_header/pulls{/number}",
+  "pulls_authors": [
+    "heinrich5991"
+  ]
 }

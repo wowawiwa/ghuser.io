@@ -95,5 +95,14 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-04T14:28:30.712Z"
+  "fetched_at": "2018-08-04T14:28:30.712Z",
+  "pulls_url": "https://api.github.com/repos/eskerda/pybikes/pulls{/number}",
+  "pulls_authors": [
+    "adamdanielczyk",
+    "MartinoMensio",
+    "edumucelli",
+    "anastmag",
+    "MatteoBatti",
+    "j0kan"
+  ]
 }

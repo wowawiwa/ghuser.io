@@ -442,5 +442,9 @@
       "color": "#555555"
     }
   },
-  "fetched_at": "2018-07-24T11:02:51.802Z"
+  "fetched_at": "2018-07-24T11:02:51.802Z",
+  "pulls_url": "https://api.github.com/repos/palash25/coala/pulls{/number}",
+  "pulls_authors": [
+    "palash25"
+  ]
 }

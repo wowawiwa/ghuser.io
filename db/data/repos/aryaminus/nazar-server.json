@@ -34,5 +34,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-07-29T00:23:03.240Z"
+  "fetched_at": "2018-07-29T00:23:03.240Z",
+  "pulls_url": "https://api.github.com/repos/aryaminus/nazar-server/pulls{/number}",
+  "pulls_authors": []
 }

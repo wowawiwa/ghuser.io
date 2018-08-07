@@ -105,5 +105,11 @@
     "fowles": 2,
     "ains-stripe": 2
   },
-  "fetched_at": "2018-08-07T05:28:00.177Z"
+  "fetched_at": "2018-08-07T05:28:00.177Z",
+  "pulls_url": "https://api.github.com/repos/livegrep/livegrep/pulls{/number}",
+  "pulls_authors": [
+    "ains-stripe",
+    "ilinum",
+    "jboning"
+  ]
 }

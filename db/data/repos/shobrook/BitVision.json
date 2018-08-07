@@ -44,5 +44,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-07-29T09:27:58.155Z"
+  "fetched_at": "2018-07-29T09:27:58.155Z",
+  "pulls_url": "https://api.github.com/repos/shobrook/BitVision/pulls{/number}",
+  "pulls_authors": []
 }

@@ -72,5 +72,10 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-08-05T05:49:31.694Z"
+  "fetched_at": "2018-08-05T05:49:31.694Z",
+  "pulls_url": "https://api.github.com/repos/Upload/Up1/pulls{/number}",
+  "pulls_authors": [
+    "smb",
+    "msemple1111"
+  ]
 }

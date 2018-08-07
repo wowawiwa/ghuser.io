@@ -75,5 +75,10 @@
     "jsvd": 7,
     "ph": 49
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/logstash-plugins/logstash-mixin-aws/pulls{/number}",
+  "pulls_authors": [
+    "ghost",
+    "RichardN"
+  ]
 }

@@ -73,5 +73,10 @@
     "whyrusleeping": 49,
     "jbenet": 56
   },
-  "fetched_at": "2018-07-30T08:17:52.801Z"
+  "fetched_at": "2018-07-30T08:17:52.801Z",
+  "pulls_url": "https://api.github.com/repos/ipfs/go-datastore/pulls{/number}",
+  "pulls_authors": [
+    "Stebalien",
+    "bigs"
+  ]
 }

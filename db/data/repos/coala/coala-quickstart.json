@@ -95,5 +95,15 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-05T05:49:31.694Z"
+  "fetched_at": "2018-08-05T05:49:31.694Z",
+  "pulls_url": "https://api.github.com/repos/coala/coala-quickstart/pulls{/number}",
+  "pulls_authors": [
+    "MacBox7",
+    "ishanSrt",
+    "tallicamike",
+    "jackthepirate6",
+    "satwikkansal",
+    "prachi1210",
+    "Wert1996"
+  ]
 }

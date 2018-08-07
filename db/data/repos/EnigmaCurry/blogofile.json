@@ -55,5 +55,16 @@
     "douglatornell": 94,
     "EnigmaCurry": 283
   },
-  "fetched_at": "2018-07-22T09:08:36.263Z"
+  "fetched_at": "2018-07-22T09:08:36.263Z",
+  "pulls_url": "https://api.github.com/repos/EnigmaCurry/blogofile/pulls{/number}",
+  "pulls_authors": [
+    "tshepang",
+    "techtonik",
+    "tlevine",
+    "driquet",
+    "kstrauser",
+    "codecoa",
+    "bikegriffith",
+    "Macha"
+  ]
 }

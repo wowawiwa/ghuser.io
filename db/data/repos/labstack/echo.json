@@ -170,5 +170,39 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-08-07T05:28:00.177Z"
+  "fetched_at": "2018-08-07T05:28:00.177Z",
+  "pulls_url": "https://api.github.com/repos/labstack/echo/pulls{/number}",
+  "pulls_authors": [
+    "baba2k",
+    "kolaente",
+    "ledongthuc",
+    "hcrgm",
+    "olivercm",
+    "andreiavrammsd",
+    "jbrodriguez",
+    "likuankuan",
+    "niklas-karlsson",
+    "Tethik",
+    "rafaeljusto",
+    "joaosoft",
+    "BrendanBall",
+    "dreamans",
+    "IngCr3at1on",
+    "panlilu",
+    "enimiste",
+    "mbiamont",
+    "fozcode",
+    "goofle",
+    "johnnyluo",
+    "bartoszgolek",
+    "paultyng",
+    "alaingilbert",
+    "jeyem",
+    "YongHaoWu",
+    "rybit",
+    "amenzhinsky",
+    "DiSiqueira",
+    "zlepper",
+    "pavelsmejkal"
+  ]
 }

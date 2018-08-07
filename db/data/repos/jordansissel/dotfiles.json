@@ -46,5 +46,9 @@
     "solarce": 1,
     "jordansissel": 249
   },
-  "fetched_at": "2018-07-28T15:39:57.361Z"
+  "fetched_at": "2018-07-28T15:39:57.361Z",
+  "pulls_url": "https://api.github.com/repos/jordansissel/dotfiles/pulls{/number}",
+  "pulls_authors": [
+    "arran4"
+  ]
 }

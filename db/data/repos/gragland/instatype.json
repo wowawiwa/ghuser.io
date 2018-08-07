@@ -42,5 +42,7 @@
     "ih": 4,
     "gragland": 187
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/gragland/instatype/pulls{/number}",
+  "pulls_authors": []
 }

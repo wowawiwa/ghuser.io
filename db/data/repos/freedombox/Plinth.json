@@ -172,5 +172,15 @@
       "color": "#0298c3"
     }
   },
-  "fetched_at": "2018-07-24T11:02:51.802Z"
+  "fetched_at": "2018-07-24T11:02:51.802Z",
+  "pulls_url": "https://api.github.com/repos/freedombox/Plinth/pulls{/number}",
+  "pulls_authors": [
+    "JosephKiranBabu",
+    "vikassingh093",
+    "prachisr",
+    "FedericoCeratto",
+    "jvalleroy",
+    "chyamuna",
+    "SunilMohanAdapa"
+  ]
 }

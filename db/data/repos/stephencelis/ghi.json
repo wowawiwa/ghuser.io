@@ -70,5 +70,14 @@
     "AlexChesters": 48,
     "stephencelis": 262
   },
-  "fetched_at": "2018-08-04T14:28:30.712Z"
+  "fetched_at": "2018-08-04T14:28:30.712Z",
+  "pulls_url": "https://api.github.com/repos/stephencelis/ghi/pulls{/number}",
+  "pulls_authors": [
+    "EdwardBetts",
+    "martinmosegaard",
+    "eljobe",
+    "sideshowbarker",
+    "davidascher",
+    "shubhamshuklaer"
+  ]
 }

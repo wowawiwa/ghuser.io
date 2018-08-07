@@ -484,5 +484,17 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-07T05:28:00.177Z"
+  "fetched_at": "2018-08-07T05:28:00.177Z",
+  "pulls_url": "https://api.github.com/repos/tldr-pages/tldr/pulls{/number}",
+  "pulls_authors": [
+    "ShaunKarran",
+    "agnivade",
+    "FraYoshi",
+    "josefglatz",
+    "isu17",
+    "AprilElizabeth",
+    "daylightbrightledlight",
+    "HaleTom",
+    "johan456789"
+  ]
 }

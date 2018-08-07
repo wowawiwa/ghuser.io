@@ -84,5 +84,16 @@
     "suyograo": 22,
     "ph": 46
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/logstash-plugins/logstash-filter-geoip/pulls{/number}",
+  "pulls_authors": [
+    "mdevreugd",
+    "MikeKemmerer",
+    "ebuildy",
+    "purbon",
+    "suyograo",
+    "IngaFeick",
+    "jan-tee",
+    "SamSaffron"
+  ]
 }

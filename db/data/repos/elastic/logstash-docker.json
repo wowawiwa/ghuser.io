@@ -73,5 +73,7 @@
     "dliappis": 18,
     "jarpy": 142
   },
-  "fetched_at": "2018-08-01T10:42:25.848Z"
+  "fetched_at": "2018-08-01T10:42:25.848Z",
+  "pulls_url": "https://api.github.com/repos/elastic/logstash-docker/pulls{/number}",
+  "pulls_authors": []
 }

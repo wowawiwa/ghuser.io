@@ -100,5 +100,11 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-06T18:44:54.295Z"
+  "fetched_at": "2018-08-06T18:44:54.295Z",
+  "pulls_url": "https://api.github.com/repos/goby-lang/goby/pulls{/number}",
+  "pulls_authors": [
+    "hachi8833",
+    "st0012",
+    "shes50103"
+  ]
 }

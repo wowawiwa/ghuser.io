@@ -31,5 +31,9 @@
     "architectcodes": 6,
     "mattdesl": 118
   },
-  "fetched_at": "2018-08-06T06:12:02.455Z"
+  "fetched_at": "2018-08-06T06:12:02.455Z",
+  "pulls_url": "https://api.github.com/repos/mattdesl/module-best-practices/pulls{/number}",
+  "pulls_authors": [
+    "jhhayashi"
+  ]
 }

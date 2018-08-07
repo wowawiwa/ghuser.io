@@ -96,5 +96,24 @@
       "color": "#244776"
     }
   },
-  "fetched_at": "2018-08-06T18:44:54.295Z"
+  "fetched_at": "2018-08-06T18:44:54.295Z",
+  "pulls_url": "https://api.github.com/repos/GoogleChrome/accessibility-developer-tools/pulls{/number}",
+  "pulls_authors": [
+    "tuliooov",
+    "upgundecha",
+    "lukeschaefer",
+    "timmhayes",
+    "stevefaulkner",
+    "valdrinkoshi",
+    "nikulkarni",
+    "takenspc",
+    "Zahweh",
+    "philschatz",
+    "alice",
+    "joscha",
+    "ricksbrown",
+    "kristapsmelderis",
+    "gabrielduque",
+    "yurypetrov"
+  ]
 }

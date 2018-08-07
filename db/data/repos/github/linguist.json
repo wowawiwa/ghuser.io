@@ -502,5 +502,24 @@
     "tenderlove": 1,
     "AlexFence": 1
   },
-  "fetched_at": "2018-08-07T05:28:00.177Z"
+  "fetched_at": "2018-08-07T05:28:00.177Z",
+  "pulls_url": "https://api.github.com/repos/github/linguist/pulls{/number}",
+  "pulls_authors": [
+    "smola",
+    "pchaigno",
+    "CAM-Gerlach",
+    "Alhadis",
+    "wesinator",
+    "kivikakk",
+    "lildude",
+    "tylerjereddy",
+    "RobQuistNL",
+    "eager",
+    "adelcast",
+    "octref",
+    "AlekSi",
+    "ayberkt",
+    "buzinas",
+    "iblech"
+  ]
 }

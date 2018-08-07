@@ -36,5 +36,7 @@
     "jordansissel": 1,
     "widhalmt": 6
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/jordansissel/check_logstash/pulls{/number}",
+  "pulls_authors": []
 }

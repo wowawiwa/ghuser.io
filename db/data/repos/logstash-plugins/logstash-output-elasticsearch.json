@@ -108,5 +108,20 @@
     "jsvd": 77,
     "andrewvc": 122
   },
-  "fetched_at": "2018-07-23T16:29:16.674Z"
+  "fetched_at": "2018-07-23T16:29:16.674Z",
+  "pulls_url": "https://api.github.com/repos/logstash-plugins/logstash-output-elasticsearch/pulls{/number}",
+  "pulls_authors": [
+    "smokris",
+    "ajrpayne",
+    "msvticket",
+    "simmel",
+    "MonnyA",
+    "ItamarBenjamin",
+    "hasnat",
+    "jsvd",
+    "mschneider82",
+    "Petrox",
+    "andrewvc",
+    "sxmichael"
+  ]
 }

@@ -80,5 +80,10 @@
     "timwis": 14,
     "yoshuawuyts": 38
   },
-  "fetched_at": "2018-07-26T08:44:07.818Z"
+  "fetched_at": "2018-07-26T08:44:07.818Z",
+  "pulls_url": "https://api.github.com/repos/choojs/choo-handbook/pulls{/number}",
+  "pulls_authors": [
+    "xpollen8",
+    "louiscenter"
+  ]
 }

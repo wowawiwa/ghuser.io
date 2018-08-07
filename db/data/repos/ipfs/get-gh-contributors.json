@@ -56,5 +56,7 @@
     "RichardLitt": 1,
     "diasdavid": 9
   },
-  "fetched_at": "2018-07-31T15:31:47.919Z"
+  "fetched_at": "2018-07-31T15:31:47.919Z",
+  "pulls_url": "https://api.github.com/repos/ipfs/get-gh-contributors/pulls{/number}",
+  "pulls_authors": []
 }

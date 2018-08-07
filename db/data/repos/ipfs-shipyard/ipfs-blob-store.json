@@ -65,5 +65,7 @@
     "travisperson": 7,
     "diasdavid": 40
   },
-  "fetched_at": "2018-07-30T08:17:52.801Z"
+  "fetched_at": "2018-07-30T08:17:52.801Z",
+  "pulls_url": "https://api.github.com/repos/ipfs-shipyard/ipfs-blob-store/pulls{/number}",
+  "pulls_authors": []
 }

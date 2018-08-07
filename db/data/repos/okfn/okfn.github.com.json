@@ -134,5 +134,9 @@
     "danfowler": 197,
     "rufuspollock": 246
   },
-  "fetched_at": "2018-08-06T18:44:54.295Z"
+  "fetched_at": "2018-08-06T18:44:54.295Z",
+  "pulls_url": "https://api.github.com/repos/okfn/okfn.github.com/pulls{/number}",
+  "pulls_authors": [
+    "augusto-herrmann"
+  ]
 }

@@ -131,5 +131,10 @@
     "jahtalab": 1,
     "kellyemurphy": 2
   },
-  "fetched_at": "2018-08-07T05:28:00.177Z"
+  "fetched_at": "2018-08-07T05:28:00.177Z",
+  "pulls_url": "https://api.github.com/repos/elastic/docs/pulls{/number}",
+  "pulls_authors": [
+    "nrichers",
+    "watson"
+  ]
 }

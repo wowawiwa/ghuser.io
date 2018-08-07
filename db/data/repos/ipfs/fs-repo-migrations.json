@@ -78,5 +78,11 @@
     "whyrusleeping": 50,
     "vasco-santos": 1
   },
-  "fetched_at": "2018-07-21T08:12:16.618Z"
+  "fetched_at": "2018-07-21T08:12:16.618Z",
+  "pulls_url": "https://api.github.com/repos/ipfs/fs-repo-migrations/pulls{/number}",
+  "pulls_authors": [
+    "kevina",
+    "jbenet",
+    "RichardLitt"
+  ]
 }

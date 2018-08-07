@@ -58,5 +58,7 @@
       "color": "#6e4a7e"
     }
   },
-  "fetched_at": "2018-07-28T01:44:43.412Z"
+  "fetched_at": "2018-07-28T01:44:43.412Z",
+  "pulls_url": "https://api.github.com/repos/DefactoSoftware/ex_cell/pulls{/number}",
+  "pulls_authors": []
 }

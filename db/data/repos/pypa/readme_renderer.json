@@ -66,5 +66,11 @@
     "dstufft": 35,
     "mila": 2
   },
-  "fetched_at": "2018-08-04T04:50:08.376Z"
+  "fetched_at": "2018-08-04T04:50:08.376Z",
+  "pulls_url": "https://api.github.com/repos/pypa/readme_renderer/pulls{/number}",
+  "pulls_authors": [
+    "khorn",
+    "brandon-rhodes",
+    "msabramo"
+  ]
 }

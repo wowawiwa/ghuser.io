@@ -84,5 +84,9 @@
     "velociraptors": 31,
     "brandon-rhodes": 146
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/skyfielders/astronomy-notebooks/pulls{/number}",
+  "pulls_authors": [
+    "james-prior"
+  ]
 }

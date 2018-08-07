@@ -459,5 +459,34 @@
     "rex4539": 1,
     "pejvan": 2
   },
-  "fetched_at": "2018-08-07T05:28:00.177Z"
+  "fetched_at": "2018-08-07T05:28:00.177Z",
+  "pulls_url": "https://api.github.com/repos/zcash/zcash/pulls{/number}",
+  "pulls_authors": [
+    "leto",
+    "ebfull",
+    "LarryRuane",
+    "daira",
+    "Eirik0",
+    "str4d",
+    "mdr0id",
+    "bitcartel",
+    "gtank",
+    "evanlimanto",
+    "Shashi456",
+    "plutoforever",
+    "per-gron",
+    "amiller",
+    "syd0",
+    "defuse",
+    "goblin",
+    "ageis",
+    "eiabea",
+    "arielgabizon",
+    "elopio",
+    "lfarkas",
+    "radix42",
+    "ianpurton",
+    "sneak",
+    "bitbandi"
+  ]
 }

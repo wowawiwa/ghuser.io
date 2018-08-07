@@ -71,5 +71,13 @@
     "wiibaa": 5,
     "ph": 41
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/logstash-plugins/logstash-filter-xml/pulls{/number}",
+  "pulls_authors": [
+    "ThisIsNotTheUserYouAreLookingFor",
+    "manishjindal",
+    "radoondas",
+    "wiibaa",
+    "dngferreira"
+  ]
 }

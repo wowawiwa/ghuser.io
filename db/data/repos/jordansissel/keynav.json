@@ -46,5 +46,15 @@
     "aszlig": 7,
     "jordansissel": 182
   },
-  "fetched_at": "2018-08-06T18:44:54.295Z"
+  "fetched_at": "2018-08-06T18:44:54.295Z",
+  "pulls_url": "https://api.github.com/repos/jordansissel/keynav/pulls{/number}",
+  "pulls_authors": [
+    "mgsloan",
+    "AlexDaniel",
+    "dradetsky",
+    "marekjm",
+    "seletskiy",
+    "dkasak",
+    "shouya"
+  ]
 }

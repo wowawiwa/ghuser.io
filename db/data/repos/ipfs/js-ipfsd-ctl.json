@@ -88,5 +88,11 @@
     "dignifiedquire": 22,
     "diasdavid": 142
   },
-  "fetched_at": "2018-08-01T10:42:25.848Z"
+  "fetched_at": "2018-08-01T10:42:25.848Z",
+  "pulls_url": "https://api.github.com/repos/ipfs/js-ipfsd-ctl/pulls{/number}",
+  "pulls_authors": [
+    "alanshaw",
+    "mkg20001",
+    "dryajov"
+  ]
 }

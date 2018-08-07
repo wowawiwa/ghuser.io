@@ -72,5 +72,10 @@
     "jsvd": 7,
     "ph": 40
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/logstash-plugins/logstash-filter-fingerprint/pulls{/number}",
+  "pulls_authors": [
+    "driverpt",
+    "nicholas-marshall"
+  ]
 }

@@ -186,5 +186,14 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-07T05:28:00.177Z"
+  "fetched_at": "2018-08-07T05:28:00.177Z",
+  "pulls_url": "https://api.github.com/repos/pi-hole/pi-hole/pulls{/number}",
+  "pulls_authors": [
+    "Mcat12",
+    "TronPaul",
+    "RamSet",
+    "nullr0ute",
+    "Neepawa",
+    "DL6ER"
+  ]
 }

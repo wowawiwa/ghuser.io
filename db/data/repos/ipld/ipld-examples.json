@@ -52,5 +52,9 @@
     "jbenet": 6,
     "parkan": 6
   },
-  "fetched_at": "2018-08-01T20:16:09.053Z"
+  "fetched_at": "2018-08-01T20:16:09.053Z",
+  "pulls_url": "https://api.github.com/repos/ipld/ipld-examples/pulls{/number}",
+  "pulls_authors": [
+    "mildred"
+  ]
 }

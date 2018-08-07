@@ -228,5 +228,9 @@
     "stuart-warren": 1,
     "vvuksan": 1
   },
-  "fetched_at": "2018-08-01T20:16:09.053Z"
+  "fetched_at": "2018-08-01T20:16:09.053Z",
+  "pulls_url": "https://api.github.com/repos/joekiller/logstash-kafka/pulls{/number}",
+  "pulls_authors": [
+    "sbbird"
+  ]
 }

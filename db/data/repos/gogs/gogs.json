@@ -465,5 +465,31 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-07T05:28:00.177Z"
+  "fetched_at": "2018-08-07T05:28:00.177Z",
+  "pulls_url": "https://api.github.com/repos/gogs/gogs/pulls{/number}",
+  "pulls_authors": [
+    "geekcomb",
+    "luhaixun",
+    "alimy",
+    "whry",
+    "06Games",
+    "isundil",
+    "Mizuho32",
+    "J0WI",
+    "syndbg",
+    "makarchuk",
+    "wangjild",
+    "aboron",
+    "barracks510",
+    "Kaliamos",
+    "linquize",
+    "kkkbird",
+    "spectre013",
+    "sha-red",
+    "lstahlman",
+    "gronke",
+    "yweber",
+    "sapk",
+    "generaltso"
+  ]
 }

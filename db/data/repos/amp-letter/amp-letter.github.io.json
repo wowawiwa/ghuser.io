@@ -532,5 +532,13 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-07-22T09:08:36.263Z"
+  "fetched_at": "2018-07-22T09:08:36.263Z",
+  "pulls_url": "https://api.github.com/repos/amp-letter/amp-letter.github.io/pulls{/number}",
+  "pulls_authors": [
+    "uhlhosting",
+    "lacqui",
+    "JoeUX",
+    "cannobbio",
+    "itst"
+  ]
 }

@@ -61,5 +61,10 @@
     "RichardLitt": 4,
     "hosh": 17
   },
-  "fetched_at": "2018-07-25T22:48:16.001Z"
+  "fetched_at": "2018-07-25T22:48:16.001Z",
+  "pulls_url": "https://api.github.com/repos/ipfs-shipyard/container-demos/pulls{/number}",
+  "pulls_authors": [
+    "hosh",
+    "wking"
+  ]
 }

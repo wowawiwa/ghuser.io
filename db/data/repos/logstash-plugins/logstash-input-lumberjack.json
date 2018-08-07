@@ -68,5 +68,15 @@
     "jsvd": 8,
     "ph": 75
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/logstash-plugins/logstash-input-lumberjack/pulls{/number}",
+  "pulls_authors": [
+    "mrkschan",
+    "ph",
+    "leedm777",
+    "urso",
+    "thefinn93",
+    "jordansissel",
+    "stanhu"
+  ]
 }

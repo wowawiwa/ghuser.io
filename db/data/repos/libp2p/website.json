@@ -82,5 +82,9 @@
     "diasdavid": 17,
     "jesseclay": 22
   },
-  "fetched_at": "2018-08-06T06:12:02.455Z"
+  "fetched_at": "2018-08-06T06:12:02.455Z",
+  "pulls_url": "https://api.github.com/repos/libp2p/website/pulls{/number}",
+  "pulls_authors": [
+    "alanshaw"
+  ]
 }

@@ -94,5 +94,15 @@
     "marten-seemann": 2,
     "vyzo": 7
   },
-  "fetched_at": "2018-08-07T05:28:00.177Z"
+  "fetched_at": "2018-08-07T05:28:00.177Z",
+  "pulls_url": "https://api.github.com/repos/libp2p/go-libp2p-kad-dht/pulls{/number}",
+  "pulls_authors": [
+    "gpestana",
+    "magik6k",
+    "lgierth",
+    "vyzo",
+    "Kubuxu",
+    "mildred",
+    "polezaivsani"
+  ]
 }

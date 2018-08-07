@@ -68,5 +68,10 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-07-31T15:31:47.919Z"
+  "fetched_at": "2018-07-31T15:31:47.919Z",
+  "pulls_url": "https://api.github.com/repos/ethereum/eth-abi/pulls{/number}",
+  "pulls_authors": [
+    "davesque",
+    "palash25"
+  ]
 }

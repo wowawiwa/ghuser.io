@@ -70,5 +70,7 @@
     "cnnorris": 70,
     "johnb30": 150
   },
-  "fetched_at": "2018-07-22T16:49:45.098Z"
+  "fetched_at": "2018-07-22T16:49:45.098Z",
+  "pulls_url": "https://api.github.com/repos/openeventdata/petrarch2/pulls{/number}",
+  "pulls_authors": []
 }

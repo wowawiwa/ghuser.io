@@ -91,5 +91,11 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-07-30T16:17:21.729Z"
+  "fetched_at": "2018-07-30T16:17:21.729Z",
+  "pulls_url": "https://api.github.com/repos/openebs/jiva/pulls{/number}",
+  "pulls_authors": [
+    "utkarshmani1997",
+    "vishnuitta",
+    "Miyurz"
+  ]
 }

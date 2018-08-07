@@ -73,5 +73,9 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-01T10:42:25.848Z"
+  "fetched_at": "2018-08-01T10:42:25.848Z",
+  "pulls_url": "https://api.github.com/repos/postcss/postcss-custom-properties/pulls{/number}",
+  "pulls_authors": [
+    "halmos"
+  ]
 }

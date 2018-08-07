@@ -82,5 +82,9 @@
     "ptitjes": 76,
     "nolanlawson": 103
   },
-  "fetched_at": "2018-08-01T20:16:09.053Z"
+  "fetched_at": "2018-08-01T20:16:09.053Z",
+  "pulls_url": "https://api.github.com/repos/pouchdb-community/pouchdb-authentication/pulls{/number}",
+  "pulls_authors": [
+    "ptitjes"
+  ]
 }

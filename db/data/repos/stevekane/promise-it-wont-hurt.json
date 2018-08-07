@@ -63,5 +63,11 @@
     "TimothyGu": 69,
     "justsml": 1
   },
-  "fetched_at": "2018-08-03T13:45:28.336Z"
+  "fetched_at": "2018-08-03T13:45:28.336Z",
+  "pulls_url": "https://api.github.com/repos/stevekane/promise-it-wont-hurt/pulls{/number}",
+  "pulls_authors": [
+    "fdammacco",
+    "tdtsh",
+    "gness1804"
+  ]
 }

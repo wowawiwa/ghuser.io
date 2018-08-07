@@ -71,5 +71,9 @@
     "vmx": 5,
     "diasdavid": 58
   },
-  "fetched_at": "2018-07-22T09:08:36.263Z"
+  "fetched_at": "2018-07-22T09:08:36.263Z",
+  "pulls_url": "https://api.github.com/repos/multiformats/js-multicodec/pulls{/number}",
+  "pulls_authors": [
+    "VandeurenGlenn"
+  ]
 }

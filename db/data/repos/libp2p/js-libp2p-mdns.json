@@ -67,5 +67,9 @@
     "greenkeeperio-bot": 9,
     "diasdavid": 67
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/libp2p/js-libp2p-mdns/pulls{/number}",
+  "pulls_authors": [
+    "richardschneider"
+  ]
 }

@@ -54,5 +54,10 @@
     "Anjum48": 8,
     "pmorissette": 48
   },
-  "fetched_at": "2018-08-06T18:44:54.295Z"
+  "fetched_at": "2018-08-06T18:44:54.295Z",
+  "pulls_url": "https://api.github.com/repos/pmorissette/ffn/pulls{/number}",
+  "pulls_authors": [
+    "pratapvardhan",
+    "rubik"
+  ]
 }

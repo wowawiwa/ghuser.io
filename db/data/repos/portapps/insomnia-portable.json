@@ -55,5 +55,7 @@
       "color": "#375eab"
     }
   },
-  "fetched_at": "2018-07-25T22:48:16.001Z"
+  "fetched_at": "2018-07-25T22:48:16.001Z",
+  "pulls_url": "https://api.github.com/repos/portapps/insomnia-portable/pulls{/number}",
+  "pulls_authors": []
 }

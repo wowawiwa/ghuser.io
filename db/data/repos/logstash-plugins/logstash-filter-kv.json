@@ -76,5 +76,11 @@
     "colinsurprenant": 8,
     "ph": 39
   },
-  "fetched_at": "2018-07-24T06:35:11.064Z"
+  "fetched_at": "2018-07-24T06:35:11.064Z",
+  "pulls_url": "https://api.github.com/repos/logstash-plugins/logstash-filter-kv/pulls{/number}",
+  "pulls_authors": [
+    "toddiuszho",
+    "beniwohli",
+    "hartfordfive"
+  ]
 }

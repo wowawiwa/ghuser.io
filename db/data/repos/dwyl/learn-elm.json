@@ -66,5 +66,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-01T10:42:25.848Z"
+  "fetched_at": "2018-08-01T10:42:25.848Z",
+  "pulls_url": "https://api.github.com/repos/dwyl/learn-elm/pulls{/number}",
+  "pulls_authors": []
 }

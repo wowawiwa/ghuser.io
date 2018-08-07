@@ -34,5 +34,9 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-07-25T14:10:51.615Z"
+  "fetched_at": "2018-07-25T14:10:51.615Z",
+  "pulls_url": "https://api.github.com/repos/dbjpanda/drupal-devops/pulls{/number}",
+  "pulls_authors": [
+    "Chiranjeeb2410"
+  ]
 }

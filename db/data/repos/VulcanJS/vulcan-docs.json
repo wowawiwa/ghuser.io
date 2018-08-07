@@ -125,5 +125,12 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/VulcanJS/vulcan-docs/pulls{/number}",
+  "pulls_authors": [
+    "justinr1234",
+    "eric-burel",
+    "MHerszak",
+    "geirman"
+  ]
 }

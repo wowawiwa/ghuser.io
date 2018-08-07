@@ -81,5 +81,10 @@
     "kumavis": 1,
     "antimatter15": 2
   },
-  "fetched_at": "2018-07-26T08:44:07.818Z"
+  "fetched_at": "2018-07-26T08:44:07.818Z",
+  "pulls_url": "https://api.github.com/repos/libp2p/js-libp2p-switch/pulls{/number}",
+  "pulls_authors": [
+    "Harzu",
+    "VictorBjelkholm"
+  ]
 }

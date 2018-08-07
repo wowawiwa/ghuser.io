@@ -62,5 +62,11 @@
     "ph": 19,
     "jordansissel": 81
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/elastic/ruby-lumberjack/pulls{/number}",
+  "pulls_authors": [
+    "plarivee",
+    "cspenceiv",
+    "ph"
+  ]
 }

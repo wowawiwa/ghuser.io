@@ -38,5 +38,7 @@
     "tianshanghong": 1,
     "mtianyan": 32
   },
-  "fetched_at": "2018-08-06T18:44:54.295Z"
+  "fetched_at": "2018-08-06T18:44:54.295Z",
+  "pulls_url": "https://api.github.com/repos/mtianyan/movie_project/pulls{/number}",
+  "pulls_authors": []
 }

@@ -78,5 +78,15 @@
     "guyboertje": 8,
     "ph": 42
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/logstash-plugins/logstash-filter-mutate/pulls{/number}",
+  "pulls_authors": [
+    "AbdulHaseebHussain",
+    "jmkgreen",
+    "consulthys",
+    "jautz",
+    "vvs14",
+    "ApelSYN",
+    "Lande24"
+  ]
 }

@@ -177,5 +177,9 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-07-28T01:44:43.412Z"
+  "fetched_at": "2018-07-28T01:44:43.412Z",
+  "pulls_url": "https://api.github.com/repos/apollographql/react-docs/pulls{/number}",
+  "pulls_authors": [
+    "leandrino"
+  ]
 }

@@ -67,5 +67,10 @@
     "dignifiedquire": 6,
     "diasdavid": 27
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/multiformats/js-multihashing/pulls{/number}",
+  "pulls_authors": [
+    "garrensmith",
+    "pelle"
+  ]
 }

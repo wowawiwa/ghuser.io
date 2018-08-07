@@ -105,5 +105,7 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/red-eclipse/site/pulls{/number}",
+  "pulls_authors": []
 }

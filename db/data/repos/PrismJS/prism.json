@@ -281,5 +281,25 @@
     "RunDevelopment": 2,
     "vizjerai": 1
   },
-  "fetched_at": "2018-08-07T05:28:00.177Z"
+  "fetched_at": "2018-08-07T05:28:00.177Z",
+  "pulls_url": "https://api.github.com/repos/PrismJS/prism/pulls{/number}",
+  "pulls_authors": [
+    "RunDevelopment",
+    "tomayac",
+    "verfriemelt-dot-org",
+    "ybiquitous",
+    "RexSkz",
+    "jcubic",
+    "Golmote",
+    "brandon-rhodes",
+    "alice-mm",
+    "glachaud",
+    "bradhowes",
+    "grorg",
+    "zeitgeist87",
+    "wesalvaro",
+    "jandockx",
+    "VitaliyR",
+    "CupOfTea696"
+  ]
 }

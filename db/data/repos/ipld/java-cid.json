@@ -57,5 +57,11 @@
     "celeduc": 2,
     "ianopolous": 9
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/ipld/java-cid/pulls{/number}",
+  "pulls_authors": [
+    "tdiesler",
+    "magwas",
+    "ikonovalov"
+  ]
 }

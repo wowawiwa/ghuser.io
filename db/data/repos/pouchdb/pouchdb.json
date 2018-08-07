@@ -354,5 +354,12 @@
     "suziwen": 1,
     "reconbot": 2
   },
-  "fetched_at": "2018-08-07T05:28:00.177Z"
+  "fetched_at": "2018-08-07T05:28:00.177Z",
+  "pulls_url": "https://api.github.com/repos/pouchdb/pouchdb/pulls{/number}",
+  "pulls_authors": [
+    "greenkeeper[bot]",
+    "SCdF",
+    "Blafy",
+    "ultravail"
+  ]
 }

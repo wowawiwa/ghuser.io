@@ -65,5 +65,9 @@
       "color": "#6E4C13"
     }
   },
-  "fetched_at": "2018-08-04T04:50:08.376Z"
+  "fetched_at": "2018-08-04T04:50:08.376Z",
+  "pulls_url": "https://api.github.com/repos/Netflix/rend/pulls{/number}",
+  "pulls_authors": [
+    "B3rs"
+  ]
 }

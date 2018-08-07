@@ -52,5 +52,10 @@
     "Huddo121": 7,
     "bencentra": 52
   },
-  "fetched_at": "2018-08-04T04:50:08.376Z"
+  "fetched_at": "2018-08-04T04:50:08.376Z",
+  "pulls_url": "https://api.github.com/repos/bencentra/centrarium/pulls{/number}",
+  "pulls_authors": [
+    "semonemo",
+    "riouwa"
+  ]
 }

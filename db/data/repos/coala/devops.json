@@ -102,5 +102,9 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-07-24T11:02:51.802Z"
+  "fetched_at": "2018-07-24T11:02:51.802Z",
+  "pulls_url": "https://api.github.com/repos/coala/devops/pulls{/number}",
+  "pulls_authors": [
+    "yukiisbored"
+  ]
 }

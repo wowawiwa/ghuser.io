@@ -39,5 +39,9 @@
       "color": "#4F5D95"
     }
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/luckyshot/freelance-timetracker/pulls{/number}",
+  "pulls_authors": [
+    "Calinou"
+  ]
 }

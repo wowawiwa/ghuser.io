@@ -73,5 +73,18 @@
     "niallkennedy": 28,
     "ptarjan": 30
   },
-  "fetched_at": "2018-07-30T08:17:52.801Z"
+  "fetched_at": "2018-07-30T08:17:52.801Z",
+  "pulls_url": "https://api.github.com/repos/facebook/open-graph-protocol/pulls{/number}",
+  "pulls_authors": [
+    "ghorsey",
+    "SnijderC",
+    "Logmytech",
+    "flarnie",
+    "jorgesumle",
+    "primeobsession",
+    "kaelaela",
+    "articlefr",
+    "DovydasNavickas",
+    "bhouston"
+  ]
 }

@@ -31,5 +31,10 @@
     "brillout": 13
   },
   "languages": {},
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/brillout/awesome-web-apps/pulls{/number}",
+  "pulls_authors": [
+    "johnxie",
+    "KindlyFire"
+  ]
 }

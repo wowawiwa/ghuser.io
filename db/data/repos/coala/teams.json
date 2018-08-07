@@ -58,5 +58,9 @@
     "sims1253": 22
   },
   "languages": {},
-  "fetched_at": "2018-07-24T11:02:51.802Z"
+  "fetched_at": "2018-07-24T11:02:51.802Z",
+  "pulls_url": "https://api.github.com/repos/coala/teams/pulls{/number}",
+  "pulls_authors": [
+    "jayvdb"
+  ]
 }

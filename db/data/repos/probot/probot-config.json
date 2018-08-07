@@ -60,5 +60,9 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-07-20T16:41:54.654Z"
+  "fetched_at": "2018-07-20T16:41:54.654Z",
+  "pulls_url": "https://api.github.com/repos/probot/probot-config/pulls{/number}",
+  "pulls_authors": [
+    "hiimbex"
+  ]
 }

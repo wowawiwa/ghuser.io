@@ -47,5 +47,16 @@
     "bernd": 10,
     "eric": 126
   },
-  "fetched_at": "2018-07-28T01:44:43.412Z"
+  "fetched_at": "2018-07-28T01:44:43.412Z",
+  "pulls_url": "https://api.github.com/repos/eric/metriks/pulls{/number}",
+  "pulls_authors": [
+    "svenfuchs",
+    "bmorton",
+    "eric",
+    "BRMatt",
+    "hollow",
+    "lmarburger",
+    "JustinLove",
+    "ryanlower"
+  ]
 }

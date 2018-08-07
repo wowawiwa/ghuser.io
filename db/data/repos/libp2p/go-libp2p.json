@@ -112,5 +112,14 @@
     "vyzo": 9,
     "gpestana": 1
   },
-  "fetched_at": "2018-08-07T05:28:00.177Z"
+  "fetched_at": "2018-08-07T05:28:00.177Z",
+  "pulls_url": "https://api.github.com/repos/libp2p/go-libp2p/pulls{/number}",
+  "pulls_authors": [
+    "Stebalien",
+    "bigs",
+    "jmintb",
+    "florianlenz",
+    "rargulati",
+    "david415"
+  ]
 }

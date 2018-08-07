@@ -51,5 +51,13 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-06T06:12:02.455Z"
+  "fetched_at": "2018-08-06T06:12:02.455Z",
+  "pulls_url": "https://api.github.com/repos/c-bata/go-prompt/pulls{/number}",
+  "pulls_authors": [
+    "monkeywithacupcake",
+    "aphistic",
+    "c-bata",
+    "iepathos",
+    "nu11ptr"
+  ]
 }

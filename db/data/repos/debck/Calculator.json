@@ -29,5 +29,7 @@
       "color": "#b07219"
     }
   },
-  "fetched_at": "2018-07-27T17:48:38.221Z"
+  "fetched_at": "2018-07-27T17:48:38.221Z",
+  "pulls_url": "https://api.github.com/repos/debck/Calculator/pulls{/number}",
+  "pulls_authors": []
 }

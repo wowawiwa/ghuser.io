@@ -65,5 +65,11 @@
     "naffiq": 2,
     "klapperkopp": 1
   },
-  "fetched_at": "2018-08-07T05:28:00.177Z"
+  "fetched_at": "2018-08-07T05:28:00.177Z",
+  "pulls_url": "https://api.github.com/repos/okgrow/react-native-copilot/pulls{/number}",
+  "pulls_authors": [
+    "mohebifar",
+    "PedroLourenco",
+    "anupriy97"
+  ]
 }

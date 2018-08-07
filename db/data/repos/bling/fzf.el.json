@@ -45,5 +45,11 @@
     "fernando-jascovich": 4,
     "bling": 10
   },
-  "fetched_at": "2018-08-01T10:42:25.848Z"
+  "fetched_at": "2018-08-01T10:42:25.848Z",
+  "pulls_url": "https://api.github.com/repos/bling/fzf.el/pulls{/number}",
+  "pulls_authors": [
+    "seenaburns",
+    "tttuuu888",
+    "jojojames"
+  ]
 }

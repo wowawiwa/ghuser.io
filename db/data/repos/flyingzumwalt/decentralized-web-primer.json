@@ -36,5 +36,11 @@
     "jadrian": 3,
     "RichardLitt": 4
   },
-  "fetched_at": "2018-07-26T08:44:07.818Z"
+  "fetched_at": "2018-07-26T08:44:07.818Z",
+  "pulls_url": "https://api.github.com/repos/flyingzumwalt/decentralized-web-primer/pulls{/number}",
+  "pulls_authors": [
+    "art-blocksec",
+    "macabeus",
+    "chadoh"
+  ]
 }

@@ -49,5 +49,9 @@
   "contributors": {
     "haadcode": 19
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/orbitdb/orbitdb-orbit-crypto/pulls{/number}",
+  "pulls_authors": [
+    "RichardLitt"
+  ]
 }

@@ -242,5 +242,34 @@
     "denthub": 5,
     "anand-sundaram-zocdoc": 2
   },
-  "fetched_at": "2018-08-07T05:28:00.177Z"
+  "fetched_at": "2018-08-07T05:28:00.177Z",
+  "pulls_url": "https://api.github.com/repos/github/hub/pulls{/number}",
+  "pulls_authors": [
+    "mafredri",
+    "giuscri",
+    "darrenwee",
+    "mehandes",
+    "jsternberg",
+    "javier-lopez",
+    "eiel",
+    "pcorpet",
+    "JasonEtco",
+    "brandur",
+    "ganmacs",
+    "elliott-beach",
+    "hmemcpy",
+    "greg-1-anderson",
+    "sc68cal",
+    "wesbland",
+    "matschaffer",
+    "raboof",
+    "glittershark",
+    "rcorre",
+    "tiennou",
+    "jamesiarmes",
+    "rjbell4",
+    "dasilvacontin",
+    "sbp",
+    "blueyed"
+  ]
 }

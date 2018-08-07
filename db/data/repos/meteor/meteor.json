@@ -480,5 +480,27 @@
     "zebra-lucky": 1,
     "dwebcat": 19
   },
-  "fetched_at": "2018-08-07T05:28:00.177Z"
+  "fetched_at": "2018-08-07T05:28:00.177Z",
+  "pulls_url": "https://api.github.com/repos/meteor/meteor/pulls{/number}",
+  "pulls_authors": [
+    "jamesmillerburgess",
+    "benjamn",
+    "chrishearn",
+    "mrauhu",
+    "dmihal",
+    "sakulstra",
+    "bmajz",
+    "klaussner",
+    "ramezrafla",
+    "robecor",
+    "ilinyevg",
+    "KoenLav",
+    "mitar",
+    "hwillson",
+    "mpowaga",
+    "abernix",
+    "sebakerckhof",
+    "bhunjadi",
+    "mattmccutchen"
+  ]
 }

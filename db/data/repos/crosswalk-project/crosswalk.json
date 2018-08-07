@@ -181,5 +181,16 @@
       "color": "#438eff"
     }
   },
-  "fetched_at": "2018-08-06T18:44:54.295Z"
+  "fetched_at": "2018-08-06T18:44:54.295Z",
+  "pulls_url": "https://api.github.com/repos/crosswalk-project/crosswalk/pulls{/number}",
+  "pulls_authors": [
+    "mrunalk",
+    "fujunwei",
+    "pozdnyakov",
+    "joone",
+    "js0701",
+    "jeanbenoit79",
+    "kygx-legend",
+    "xuzhang"
+  ]
 }

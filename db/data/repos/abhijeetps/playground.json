@@ -27,5 +27,11 @@
     "chaos-monkey-app[bot]": 41
   },
   "languages": {},
-  "fetched_at": "2018-08-06T18:44:54.295Z"
+  "fetched_at": "2018-08-06T18:44:54.295Z",
+  "pulls_url": "https://api.github.com/repos/aps120797/playground/pulls{/number}",
+  "pulls_authors": [
+    "abhijeetps",
+    "itaditya",
+    "Anubhav-Bhargava"
+  ]
 }

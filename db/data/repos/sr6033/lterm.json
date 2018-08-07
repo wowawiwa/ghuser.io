@@ -51,5 +51,7 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-07-28T01:44:43.412Z"
+  "fetched_at": "2018-07-28T01:44:43.412Z",
+  "pulls_url": "https://api.github.com/repos/sr6033/lterm/pulls{/number}",
+  "pulls_authors": []
 }

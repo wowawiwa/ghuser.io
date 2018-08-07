@@ -36,5 +36,10 @@
     "jordansissel": 1,
     "widhalmt": 30
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/widhalmt/check_logstash/pulls{/number}",
+  "pulls_authors": [
+    "rlueckl",
+    "pol"
+  ]
 }

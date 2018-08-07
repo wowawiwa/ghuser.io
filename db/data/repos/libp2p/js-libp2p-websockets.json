@@ -70,5 +70,10 @@
     "dignifiedquire": 8,
     "diasdavid": 92
   },
-  "fetched_at": "2018-07-25T06:27:58.557Z"
+  "fetched_at": "2018-07-25T06:27:58.557Z",
+  "pulls_url": "https://api.github.com/repos/libp2p/js-libp2p-websockets/pulls{/number}",
+  "pulls_authors": [
+    "jacobheun",
+    "mkg20001"
+  ]
 }

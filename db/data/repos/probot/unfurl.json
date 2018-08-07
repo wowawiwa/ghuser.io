@@ -61,5 +61,11 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-07-31T15:31:47.919Z"
+  "fetched_at": "2018-07-31T15:31:47.919Z",
+  "pulls_url": "https://api.github.com/repos/probot/unfurl/pulls{/number}",
+  "pulls_authors": [
+    "greenkeeper[bot]",
+    "knrt10",
+    "aryannarora"
+  ]
 }

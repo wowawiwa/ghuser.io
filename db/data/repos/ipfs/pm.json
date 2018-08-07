@@ -99,5 +99,9 @@
     "RichardLitt": 99,
     "ahazrat": 1
   },
-  "fetched_at": "2018-07-31T05:33:58.235Z"
+  "fetched_at": "2018-07-31T05:33:58.235Z",
+  "pulls_url": "https://api.github.com/repos/ipfs/pm/pulls{/number}",
+  "pulls_authors": [
+    "jacobheun"
+  ]
 }

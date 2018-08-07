@@ -117,5 +117,17 @@
     "tonyseek": 27,
     "lepture": 374
   },
-  "fetched_at": "2018-08-06T06:12:02.455Z"
+  "fetched_at": "2018-08-06T06:12:02.455Z",
+  "pulls_url": "https://api.github.com/repos/lepture/flask-oauthlib/pulls{/number}",
+  "pulls_authors": [
+    "GuilloOme",
+    "mayankberi1",
+    "fabfuel",
+    "ibrewster",
+    "lpodkalicki",
+    "prateekmadhikar",
+    "RickyCook",
+    "icook",
+    "Ryan-K"
+  ]
 }

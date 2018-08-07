@@ -52,5 +52,16 @@
     "jez": 8,
     "thlorenz": 105
   },
-  "fetched_at": "2018-08-06T18:44:54.295Z"
+  "fetched_at": "2018-08-06T18:44:54.295Z",
+  "pulls_url": "https://api.github.com/repos/thlorenz/doctoc/pulls{/number}",
+  "pulls_authors": [
+    "alexandernanberg",
+    "jamesray1",
+    "chocolateboy",
+    "zyskowsk",
+    "benjamincharity",
+    "karfau",
+    "jmanuel1",
+    "RichardLitt"
+  ]
 }

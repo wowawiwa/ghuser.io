@@ -84,5 +84,39 @@
       "color": "#375eab"
     }
   },
-  "fetched_at": "2018-08-07T05:28:00.177Z"
+  "fetched_at": "2018-08-07T05:28:00.177Z",
+  "pulls_url": "https://api.github.com/repos/jmoiron/sqlx/pulls{/number}",
+  "pulls_authors": [
+    "Quasilyte",
+    "renannprado",
+    "deltamualpha",
+    "snigle",
+    "nguyen-phillip",
+    "henrylee2cn",
+    "dmgk",
+    "Mohammed90",
+    "mmatczuk",
+    "thebitguru",
+    "HaraldNordgren",
+    "marpio",
+    "evsan",
+    "matiasanaya",
+    "acoshift",
+    "paulzhol",
+    "npiganeau",
+    "bru7us",
+    "RichardKnop",
+    "Taik",
+    "hypirion",
+    "jeromer",
+    "nussjustin",
+    "hmgle",
+    "gm42",
+    "adilhafeez",
+    "jmoiron",
+    "jlburkhead",
+    "snikch",
+    "proteneer",
+    "vibbix"
+  ]
 }

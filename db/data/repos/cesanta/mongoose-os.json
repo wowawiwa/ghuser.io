@@ -112,5 +112,13 @@
     "cpq": 630,
     "rojer": 1474
   },
-  "fetched_at": "2018-08-06T18:44:54.295Z"
+  "fetched_at": "2018-08-06T18:44:54.295Z",
+  "pulls_url": "https://api.github.com/repos/cesanta/mongoose-os/pulls{/number}",
+  "pulls_authors": [
+    "dawnstrider",
+    "DouglasUrner",
+    "MopeZe",
+    "bjoern79de",
+    "jordansissel"
+  ]
 }

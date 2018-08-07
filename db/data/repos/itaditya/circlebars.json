@@ -52,5 +52,13 @@
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-07-31T15:31:47.919Z"
+  "fetched_at": "2018-07-31T15:31:47.919Z",
+  "pulls_url": "https://api.github.com/repos/itaditya/circlebars/pulls{/number}",
+  "pulls_authors": [
+    "thompsonemerson",
+    "codetriage-readme-bot",
+    "Wolf-0",
+    "ZeroSoulEater",
+    "dillonchanis"
+  ]
 }

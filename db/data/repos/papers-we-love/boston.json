@@ -45,5 +45,7 @@
     "RichardLitt": 1,
     "DarrenN": 10
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/papers-we-love/boston/pulls{/number}",
+  "pulls_authors": []
 }

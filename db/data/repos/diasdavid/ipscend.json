@@ -60,5 +60,12 @@
     "received_events_url": "https://api.github.com/users/ipfs-shipyard/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "pulls_url": "https://api.github.com/repos/diasdavid/ipscend/pulls{/number}",
+  "pulls_authors": [
+    "diasdavid",
+    "alexstep",
+    "enricomarino",
+    "johnhenry"
+  ]
 }

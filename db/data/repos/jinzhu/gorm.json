@@ -184,5 +184,20 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-07T05:28:00.177Z"
+  "fetched_at": "2018-08-07T05:28:00.177Z",
+  "pulls_url": "https://api.github.com/repos/jinzhu/gorm/pulls{/number}",
+  "pulls_authors": [
+    "mtfelian",
+    "brunoro",
+    "easonlin404",
+    "hectorqin",
+    "fillup",
+    "jontonsoup",
+    "gstvg",
+    "askretov",
+    "lotus-wu",
+    "posener",
+    "vutung2311",
+    "impl"
+  ]
 }

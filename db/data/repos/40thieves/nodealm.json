@@ -37,5 +37,7 @@
     "RichardLitt": 1,
     "40thieves": 63
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/40thieves/nodealm/pulls{/number}",
+  "pulls_authors": []
 }

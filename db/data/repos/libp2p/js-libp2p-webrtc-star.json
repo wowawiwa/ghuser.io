@@ -80,5 +80,13 @@
     "greenkeeperio-bot": 27,
     "diasdavid": 173
   },
-  "fetched_at": "2018-08-05T05:49:31.694Z"
+  "fetched_at": "2018-08-05T05:49:31.694Z",
+  "pulls_url": "https://api.github.com/repos/libp2p/js-libp2p-webrtc-star/pulls{/number}",
+  "pulls_authors": [
+    "jacobheun",
+    "mkg20001",
+    "isaackwan",
+    "michaelfakhri",
+    "diasdavid"
+  ]
 }

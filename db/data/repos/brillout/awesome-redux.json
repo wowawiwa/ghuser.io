@@ -32,5 +32,10 @@
     "brillout": 26
   },
   "languages": {},
-  "fetched_at": "2018-08-06T18:44:54.295Z"
+  "fetched_at": "2018-08-06T18:44:54.295Z",
+  "pulls_url": "https://api.github.com/repos/brillout/awesome-redux/pulls{/number}",
+  "pulls_authors": [
+    "qualityjacks",
+    "nialvi"
+  ]
 }

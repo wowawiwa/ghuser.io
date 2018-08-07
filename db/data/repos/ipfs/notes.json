@@ -53,5 +53,7 @@
     "jbenet": 1,
     "diasdavid": 5
   },
-  "fetched_at": "2018-08-03T05:56:14.583Z"
+  "fetched_at": "2018-08-03T05:56:14.583Z",
+  "pulls_url": "https://api.github.com/repos/ipfs/notes/pulls{/number}",
+  "pulls_authors": []
 }

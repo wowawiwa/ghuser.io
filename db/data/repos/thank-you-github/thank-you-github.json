@@ -289,5 +289,9 @@
     "wtser": 1
   },
   "languages": {},
-  "fetched_at": "2018-08-04T14:28:30.712Z"
+  "fetched_at": "2018-08-04T14:28:30.712Z",
+  "pulls_url": "https://api.github.com/repos/thank-you-github/thank-you-github/pulls{/number}",
+  "pulls_authors": [
+    "osusara"
+  ]
 }

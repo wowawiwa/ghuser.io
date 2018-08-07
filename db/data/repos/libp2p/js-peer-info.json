@@ -71,5 +71,10 @@
     "greenkeeperio-bot": 11,
     "diasdavid": 96
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/libp2p/js-peer-info/pulls{/number}",
+  "pulls_authors": [
+    "Gozala",
+    "dignifiedquire"
+  ]
 }

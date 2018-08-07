@@ -48,5 +48,7 @@
     "simonv3": 31,
     "greypants": 42
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/simonv3/reading-list/pulls{/number}",
+  "pulls_authors": []
 }

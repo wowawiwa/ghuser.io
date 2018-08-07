@@ -65,5 +65,10 @@
     "cottsak": 4,
     "itaifrenkel": 27
   },
-  "fetched_at": "2018-08-06T06:12:02.455Z"
+  "fetched_at": "2018-08-06T06:12:02.455Z",
+  "pulls_url": "https://api.github.com/repos/forter/security-101-for-saas-startups/pulls{/number}",
+  "pulls_authors": [
+    "tghosth",
+    "milkr"
+  ]
 }

@@ -155,5 +155,38 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-06T06:12:02.455Z"
+  "fetched_at": "2018-08-06T06:12:02.455Z",
+  "pulls_url": "https://api.github.com/repos/influxdata/influxdb-python/pulls{/number}",
+  "pulls_authors": [
+    "testforvln",
+    "bgusach",
+    "aviau",
+    "tux-00",
+    "gopalkpd",
+    "goriccardo",
+    "SatoshiNewton",
+    "psy0rz",
+    "anthonyserious",
+    "patrickhoebeke",
+    "omki2005",
+    "appunni-dishq",
+    "ghost",
+    "sebito91",
+    "GilZm",
+    "eorochena",
+    "nuaays",
+    "nmerket",
+    "mmitucha",
+    "smolse",
+    "PierreF",
+    "nomad010",
+    "AndreCAndersen",
+    "aisbaa",
+    "dschien",
+    "gaker",
+    "hirochri",
+    "marccardinal",
+    "aisch",
+    "oldmantaiter"
+  ]
 }

@@ -109,5 +109,9 @@
     "iblis17": 237,
     "benoitc": 398
   },
-  "fetched_at": "2018-07-25T00:05:30.322Z"
+  "fetched_at": "2018-07-25T00:05:30.322Z",
+  "pulls_url": "https://api.github.com/repos/couchapp/couchapp/pulls{/number}",
+  "pulls_authors": [
+    "natevw"
+  ]
 }

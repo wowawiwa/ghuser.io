@@ -49,5 +49,7 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-07-23T05:46:32.067Z"
+  "fetched_at": "2018-07-23T05:46:32.067Z",
+  "pulls_url": "https://api.github.com/repos/shobrook/TypeSense/pulls{/number}",
+  "pulls_authors": []
 }

@@ -135,5 +135,10 @@
     "HonzaKral": 34,
     "untergeek": 715
   },
-  "fetched_at": "2018-08-03T13:45:28.336Z"
+  "fetched_at": "2018-08-03T13:45:28.336Z",
+  "pulls_url": "https://api.github.com/repos/elastic/curator/pulls{/number}",
+  "pulls_authors": [
+    "Nostalgiac",
+    "ypid"
+  ]
 }

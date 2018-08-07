@@ -43,5 +43,13 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-05T13:20:52.832Z"
+  "fetched_at": "2018-08-05T13:20:52.832Z",
+  "pulls_url": "https://api.github.com/repos/ndee85/coa_tools/pulls{/number}",
+  "pulls_authors": [
+    "dddjef",
+    "morevnaproject",
+    "muart",
+    "Calinou",
+    "Banbury"
+  ]
 }

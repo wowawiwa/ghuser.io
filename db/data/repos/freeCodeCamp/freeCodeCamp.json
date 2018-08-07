@@ -452,5 +452,15 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-08-07T05:28:00.177Z"
+  "fetched_at": "2018-08-07T05:28:00.177Z",
+  "pulls_url": "https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls{/number}",
+  "pulls_authors": [
+    "NitronR",
+    "Nirajn2311",
+    "nathanhannig",
+    "Bouncey",
+    "tchaffee",
+    "flower17",
+    "raisedadead"
+  ]
 }

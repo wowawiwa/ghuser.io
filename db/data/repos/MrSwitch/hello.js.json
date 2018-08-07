@@ -106,5 +106,18 @@
     "WebSeed": 107,
     "MrSwitch": 748
   },
-  "fetched_at": "2018-08-05T05:49:31.694Z"
+  "fetched_at": "2018-08-05T05:49:31.694Z",
+  "pulls_url": "https://api.github.com/repos/MrSwitch/hello.js/pulls{/number}",
+  "pulls_authors": [
+    "gracefullight",
+    "MrSwitch",
+    "irfan798",
+    "tuomassalo",
+    "WesMC",
+    "davishmcclurg",
+    "sjungwirth",
+    "HynesIP",
+    "al-the-x",
+    "dmhts"
+  ]
 }

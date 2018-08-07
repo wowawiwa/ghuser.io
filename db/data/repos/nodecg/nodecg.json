@@ -98,5 +98,11 @@
     "TreZc0": 1,
     "zoton2": 1
   },
-  "fetched_at": "2018-08-06T06:12:02.455Z"
+  "fetched_at": "2018-08-06T06:12:02.455Z",
+  "pulls_url": "https://api.github.com/repos/nodecg/nodecg/pulls{/number}",
+  "pulls_authors": [
+    "Hoishin",
+    "Dan-Shields",
+    "Seldszar"
+  ]
 }

@@ -86,5 +86,16 @@
     "jbenet": 13,
     "changjiashuai": 1
   },
-  "fetched_at": "2018-08-06T06:12:02.455Z"
+  "fetched_at": "2018-08-06T06:12:02.455Z",
+  "pulls_url": "https://api.github.com/repos/multiformats/multihash/pulls{/number}",
+  "pulls_authors": [
+    "ivan386",
+    "andreiamatuni",
+    "DonaldTsang",
+    "dcbishop",
+    "jbenet",
+    "btrask",
+    "candeira",
+    "subtly"
+  ]
 }

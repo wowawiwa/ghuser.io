@@ -471,5 +471,35 @@
       "color": "#878787"
     }
   },
-  "fetched_at": "2018-08-07T05:28:00.177Z"
+  "fetched_at": "2018-08-07T05:28:00.177Z",
+  "pulls_url": "https://api.github.com/repos/composer/composer/pulls{/number}",
+  "pulls_authors": [
+    "shalvah",
+    "kamazee",
+    "staabm",
+    "stof",
+    "and800",
+    "ytorbyk",
+    "joelwurtz",
+    "localheinz",
+    "mbaynton",
+    "hboomsma",
+    "Toflar",
+    "webflo",
+    "alcohol",
+    "stratdes",
+    "hirak",
+    "curry684",
+    "aripringle",
+    "naderman",
+    "fcastilloes",
+    "nicolas-grekas",
+    "pierrejoye",
+    "frederikbosch",
+    "padraic",
+    "peteraba",
+    "donquixote",
+    "hason",
+    "flavioheleno"
+  ]
 }

@@ -96,5 +96,21 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-06T06:12:02.455Z"
+  "fetched_at": "2018-08-06T06:12:02.455Z",
+  "pulls_url": "https://api.github.com/repos/ethereum/populus/pulls{/number}",
+  "pulls_authors": [
+    "voith",
+    "kennycoc",
+    "davesque",
+    "paultiplady",
+    "frods",
+    "jurijbajzelj",
+    "delirious-lettuce",
+    "michaelsproul",
+    "miohtama",
+    "veox",
+    "Aviah",
+    "pipermerriam",
+    "4gn3s"
+  ]
 }

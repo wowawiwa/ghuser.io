@@ -83,5 +83,9 @@
     "m1guelpf": 406,
     "NathanGeerinck": 4
   },
-  "fetched_at": "2018-07-25T00:05:30.322Z"
+  "fetched_at": "2018-07-25T00:05:30.322Z",
+  "pulls_url": "https://api.github.com/repos/orgmanager/orgmanager/pulls{/number}",
+  "pulls_authors": [
+    "renovate[bot]"
+  ]
 }

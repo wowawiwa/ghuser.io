@@ -46,5 +46,12 @@
     "alexdean": 8,
     "jordansissel": 55
   },
-  "fetched_at": "2018-07-25T00:05:30.322Z"
+  "fetched_at": "2018-07-25T00:05:30.322Z",
+  "pulls_url": "https://api.github.com/repos/jordansissel/ruby-stud/pulls{/number}",
+  "pulls_authors": [
+    "danhermann",
+    "josephlewis42",
+    "reiz",
+    "JakeFromTheDark"
+  ]
 }

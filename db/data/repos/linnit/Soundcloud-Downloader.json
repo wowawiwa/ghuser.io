@@ -44,5 +44,12 @@
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-08-04T14:28:30.712Z"
+  "fetched_at": "2018-08-04T14:28:30.712Z",
+  "pulls_url": "https://api.github.com/repos/linnit/Soundcloud-Downloader/pulls{/number}",
+  "pulls_authors": [
+    "jeremypress",
+    "umbreon222",
+    "eush77",
+    "ghost"
+  ]
 }

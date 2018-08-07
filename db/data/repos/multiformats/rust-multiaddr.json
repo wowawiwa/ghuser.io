@@ -60,5 +60,11 @@
     "tomaka": 5,
     "dignifiedquire": 56
   },
-  "fetched_at": "2018-07-26T20:38:34.539Z"
+  "fetched_at": "2018-07-26T20:38:34.539Z",
+  "pulls_url": "https://api.github.com/repos/multiformats/rust-multiaddr/pulls{/number}",
+  "pulls_authors": [
+    "tomaka",
+    "alexander255",
+    "ProgVal"
+  ]
 }

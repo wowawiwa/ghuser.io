@@ -92,5 +92,11 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-06T06:12:02.455Z"
+  "fetched_at": "2018-08-06T06:12:02.455Z",
+  "pulls_url": "https://api.github.com/repos/opentracing/opentracing-go/pulls{/number}",
+  "pulls_authors": [
+    "rahmansyed",
+    "tonyghita",
+    "devoxel"
+  ]
 }

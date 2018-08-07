@@ -47,5 +47,7 @@
       "color": "#4F5D95"
     }
   },
-  "fetched_at": "2018-07-25T22:48:16.001Z"
+  "fetched_at": "2018-07-25T22:48:16.001Z",
+  "pulls_url": "https://api.github.com/repos/sudonitesh/text-editor/pulls{/number}",
+  "pulls_authors": []
 }

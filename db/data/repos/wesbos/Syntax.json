@@ -85,5 +85,13 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-08-06T18:44:54.295Z"
+  "fetched_at": "2018-08-06T18:44:54.295Z",
+  "pulls_url": "https://api.github.com/repos/wesbos/Syntax/pulls{/number}",
+  "pulls_authors": [
+    "geekysrm",
+    "legarland",
+    "fuzinato",
+    "arobida",
+    "matt-simpson"
+  ]
 }

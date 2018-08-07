@@ -66,5 +66,12 @@
     "jsvd": 6,
     "ph": 39
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/logstash-plugins/logstash-filter-anonymize/pulls{/number}",
+  "pulls_authors": [
+    "aakashAu",
+    "joshuaspence",
+    "eht16",
+    "wiibaa"
+  ]
 }

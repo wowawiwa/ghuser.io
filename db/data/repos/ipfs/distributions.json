@@ -82,5 +82,12 @@
     "dignifiedquire": 49,
     "whyrusleeping": 65
   },
-  "fetched_at": "2018-07-25T06:27:58.557Z"
+  "fetched_at": "2018-07-25T06:27:58.557Z",
+  "pulls_url": "https://api.github.com/repos/ipfs/distributions/pulls{/number}",
+  "pulls_authors": [
+    "Stebalien",
+    "Kubuxu",
+    "lgierth",
+    "dignifiedquire"
+  ]
 }

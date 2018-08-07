@@ -55,5 +55,7 @@
       "color": "#375eab"
     }
   },
-  "fetched_at": "2018-07-24T06:35:11.064Z"
+  "fetched_at": "2018-07-24T06:35:11.064Z",
+  "pulls_url": "https://api.github.com/repos/portapps/twitch-portable/pulls{/number}",
+  "pulls_authors": []
 }

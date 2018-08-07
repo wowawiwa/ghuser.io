@@ -33,5 +33,9 @@
   "contributors": {
     "jordansissel": 3
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z"
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/jordansissel/vagrant-tricks/pulls{/number}",
+  "pulls_authors": [
+    "evanplaice"
+  ]
 }

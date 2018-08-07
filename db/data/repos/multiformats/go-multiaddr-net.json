@@ -71,5 +71,13 @@
     "whyrusleeping": 26,
     "jbenet": 36
   },
-  "fetched_at": "2018-07-21T08:12:16.618Z"
+  "fetched_at": "2018-07-21T08:12:16.618Z",
+  "pulls_url": "https://api.github.com/repos/multiformats/go-multiaddr-net/pulls{/number}",
+  "pulls_authors": [
+    "mwnx",
+    "lanzafame",
+    "Stebalien",
+    "lgierth",
+    "whyrusleeping"
+  ]
 }

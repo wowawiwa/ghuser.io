@@ -68,5 +68,11 @@
     "RichardLitt": 1,
     "h13i32maru": 16
   },
-  "fetched_at": "2018-08-07T05:28:00.177Z"
+  "fetched_at": "2018-08-07T05:28:00.177Z",
+  "pulls_url": "https://api.github.com/repos/jasperapp/jasper/pulls{/number}",
+  "pulls_authors": [
+    "Watson1978",
+    "pocke",
+    "shisama"
+  ]
 }

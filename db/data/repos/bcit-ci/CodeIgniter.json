@@ -437,5 +437,41 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-07T05:28:00.177Z"
+  "fetched_at": "2018-08-07T05:28:00.177Z",
+  "pulls_url": "https://api.github.com/repos/bcit-ci/CodeIgniter/pulls{/number}",
+  "pulls_authors": [
+    "it-can",
+    "elminson",
+    "romainrg",
+    "jim-parry",
+    "popcorner",
+    "LotarProject",
+    "mmapes",
+    "stringariSM",
+    "TalonTR",
+    "jeary",
+    "sanik90",
+    "fengkaijia",
+    "DennisKofflard",
+    "nicolastavella",
+    "spacepille",
+    "tianhe1986",
+    "bQt31",
+    "gxgpet",
+    "ashiina",
+    "eudgen-dev",
+    "KN4CK3R",
+    "ViVers",
+    "EpicKris",
+    "sn0w",
+    "j0inty",
+    "russ-ab",
+    "misterspelik",
+    "rGhabriel",
+    "madwings",
+    "linauror",
+    "AndrewPodner",
+    "mtmcfarl",
+    "wyred"
+  ]
 }

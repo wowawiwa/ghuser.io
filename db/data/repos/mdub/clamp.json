@@ -49,5 +49,9 @@
     "jordansissel": 13,
     "mdub": 352
   },
-  "fetched_at": "2018-08-03T14:53:41.930Z"
+  "fetched_at": "2018-08-03T14:53:41.930Z",
+  "pulls_url": "https://api.github.com/repos/mdub/clamp/pulls{/number}",
+  "pulls_authors": [
+    "mdub"
+  ]
 }

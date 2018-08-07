@@ -84,5 +84,12 @@
     "theophani": 46,
     "cramforce": 132
   },
-  "fetched_at": "2018-08-04T14:28:30.712Z"
+  "fetched_at": "2018-08-04T14:28:30.712Z",
+  "pulls_url": "https://api.github.com/repos/jsconf/2014.jsconf.eu/pulls{/number}",
+  "pulls_authors": [
+    "amster",
+    "anirvan",
+    "luc4leone",
+    "qatoco"
+  ]
 }

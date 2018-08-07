@@ -39,5 +39,11 @@
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-08-03T14:13:19.969Z"
+  "fetched_at": "2018-08-03T14:13:19.969Z",
+  "pulls_url": "https://api.github.com/repos/timsutton/python-macadmin-tools/pulls{/number}",
+  "pulls_authors": [
+    "filipp",
+    "alichtman",
+    "BadStreff"
+  ]
 }

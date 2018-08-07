@@ -37,5 +37,7 @@
       "color": "#2b7489"
     }
   },
-  "fetched_at": "2018-07-23T16:29:16.674Z"
+  "fetched_at": "2018-07-23T16:29:16.674Z",
+  "pulls_url": "https://api.github.com/repos/aryaminus/flowmaker/pulls{/number}",
+  "pulls_authors": []
 }

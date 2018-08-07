@@ -35,5 +35,7 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-07-25T00:05:30.322Z"
+  "fetched_at": "2018-07-25T00:05:30.322Z",
+  "pulls_url": "https://api.github.com/repos/knrt10/IssueTracker/pulls{/number}",
+  "pulls_authors": []
 }

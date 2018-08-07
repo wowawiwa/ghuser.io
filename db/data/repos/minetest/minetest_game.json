@@ -165,5 +165,15 @@
       "color": "#000080"
     }
   },
-  "fetched_at": "2018-08-06T18:44:54.295Z"
+  "fetched_at": "2018-08-06T18:44:54.295Z",
+  "pulls_url": "https://api.github.com/repos/minetest/minetest_game/pulls{/number}",
+  "pulls_authors": [
+    "paramat",
+    "tenplus1",
+    "random-geek",
+    "paanrama",
+    "rubenwardy",
+    "bell07",
+    "hkzorman"
+  ]
 }
