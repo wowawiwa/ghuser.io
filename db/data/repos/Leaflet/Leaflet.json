@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/Leaflet/Leaflet",
   "languages_url": "https://api.github.com/repos/Leaflet/Leaflet/languages",
   "created_at": "2010-09-22T16:57:44Z",
-  "updated_at": "2018-08-08T04:17:59Z",
-  "pushed_at": "2018-08-06T22:27:43Z",
+  "updated_at": "2018-08-08T15:13:16Z",
+  "pushed_at": "2018-08-08T12:40:35Z",
   "homepage": "https://leafletjs.com",
   "size": 47168,
-  "stargazers_count": 22361,
+  "stargazers_count": 22368,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -455,7 +455,7 @@
     "jerekshoe": 1,
     "ilblog": 1
   },
-  "fetched_at": "2018-08-08T04:19:32.786Z",
+  "fetched_at": "2018-08-08T15:54:18.652Z",
   "pulls_url": "https://api.github.com/repos/Leaflet/Leaflet/pulls{/number}",
   "pulls_authors": [
     "matkoniecz",
@@ -1321,6 +1321,7 @@
     "antonj",
     "snc",
     "Miroff",
-    "maxogden"
+    "maxogden",
+    "helbling"
   ]
 }

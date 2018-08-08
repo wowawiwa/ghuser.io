@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/elastic/kibana",
   "languages_url": "https://api.github.com/repos/elastic/kibana/languages",
   "created_at": "2013-01-26T04:00:59Z",
-  "updated_at": "2018-08-08T03:59:22Z",
-  "pushed_at": "2018-08-08T04:00:49Z",
+  "updated_at": "2018-08-08T15:41:52Z",
+  "pushed_at": "2018-08-08T15:42:28Z",
   "homepage": "https://www.elastic.co/products/kibana",
-  "size": 436282,
+  "size": 436577,
   "stargazers_count": 9832,
   "language": "JavaScript",
   "mirror_url": null,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 18252422,
+      "bytes": 18265802,
       "color": "#f1e05a"
     },
     "TypeScript": {
-      "bytes": 919662,
+      "bytes": 931700,
       "color": "#2b7489"
     },
     "HTML": {
@@ -60,7 +60,7 @@
       "color": "#e34c26"
     },
     "CSS": {
-      "bytes": 432661,
+      "bytes": 432798,
       "color": "#563d7c"
     },
     "Shell": {
@@ -141,7 +141,7 @@
     "snide": 22,
     "jgowdyelastic": 53,
     "kkirsche": 18,
-    "peteharverson": 29,
+    "peteharverson": 30,
     "trevan": 24,
     "pickypg": 23,
     "walterra": 35,
@@ -151,11 +151,11 @@
     "archanid": 30,
     "sqren": 44,
     "weltenwort": 39,
-    "bmcconaghy": 40,
+    "bmcconaghy": 41,
     "jimmyjones2": 36,
     "debadair": 48,
     "lcawl": 102,
-    "chrisronline": 70,
+    "chrisronline": 71,
     "kobelb": 86,
     "kimjoar": 95,
     "tylersmalley": 126,
@@ -163,16 +163,16 @@
     "bevacqua": 161,
     "thomasneirynck": 182,
     "timroes": 184,
-    "nreese": 199,
+    "nreese": 200,
     "panda01": 323,
     "BigFunger": 339,
-    "Stacey-Gammon": 267,
+    "Stacey-Gammon": 268,
     "ppisljar": 276,
     "LeeDr": 322,
     "ycombinator": 330,
     "epixa": 394,
     "lukasolson": 461,
-    "jbudz": 461,
+    "jbudz": 463,
     "cjcenizal": 474,
     "Bargs": 565,
     "bleskes": 515,
@@ -183,7 +183,7 @@
     "spalger": 4228,
     "ajebasingh": 2,
     "nellicus": 2,
-    "formgeist": 5,
+    "formgeist": 6,
     "Mogztter": 2,
     "jahtalab": 3,
     "JacobBrandt": 2,
@@ -351,7 +351,7 @@
     "dedemorton": 1,
     "sunui": 1
   },
-  "fetched_at": "2018-08-08T04:19:32.786Z",
+  "fetched_at": "2018-08-08T15:54:18.652Z",
   "pulls_url": "https://api.github.com/repos/elastic/kibana/pulls{/number}",
   "pulls_authors": [
     "nreese",

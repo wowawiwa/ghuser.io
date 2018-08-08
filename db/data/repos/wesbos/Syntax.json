@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/wesbos/Syntax",
   "languages_url": "https://api.github.com/repos/wesbos/Syntax/languages",
   "created_at": "2017-06-19T21:28:08Z",
-  "updated_at": "2018-08-06T13:26:44Z",
-  "pushed_at": "2018-08-06T13:26:41Z",
+  "updated_at": "2018-08-08T15:24:13Z",
+  "pushed_at": "2018-08-08T14:25:39Z",
   "homepage": null,
-  "size": 2410,
-  "stargazers_count": 230,
+  "size": 2425,
+  "stargazers_count": 231,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -73,7 +73,7 @@
     "stolinski": 5,
     "jacoahmad": 6,
     "Totemika": 8,
-    "wesbos": 88
+    "wesbos": 89
   },
   "languages": {
     "JavaScript": {
@@ -85,7 +85,7 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-08-06T18:44:54.295Z",
+  "fetched_at": "2018-08-08T15:54:18.652Z",
   "pulls_url": "https://api.github.com/repos/wesbos/Syntax/pulls{/number}",
   "pulls_authors": [
     "avclark",

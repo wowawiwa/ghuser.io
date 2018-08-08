@@ -10,8 +10,8 @@
   "url": "https://api.github.com/repos/crazy-max/docker-artifactory",
   "languages_url": "https://api.github.com/repos/crazy-max/docker-artifactory/languages",
   "created_at": "2017-12-26T20:35:05Z",
-  "updated_at": "2018-07-06T16:29:09Z",
-  "pushed_at": "2018-07-01T16:34:12Z",
+  "updated_at": "2018-08-08T09:31:17Z",
+  "pushed_at": "2018-08-08T09:31:16Z",
   "homepage": "",
   "size": 18,
   "stargazers_count": 7,
@@ -27,7 +27,7 @@
   },
   "default_branch": "master",
   "contributors": {
-    "crazy-max": 37
+    "crazy-max": 38
   },
   "languages": {
     "Shell": {
@@ -35,7 +35,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "fetched_at": "2018-08-08T15:54:18.652Z",
   "pulls_url": "https://api.github.com/repos/crazy-max/docker-artifactory/pulls{/number}",
   "pulls_authors": []
 }

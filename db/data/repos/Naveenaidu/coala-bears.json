@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/Naveenaidu/coala-bears",
   "languages_url": "https://api.github.com/repos/Naveenaidu/coala-bears/languages",
   "created_at": "2018-02-15T10:55:46Z",
-  "updated_at": "2018-07-24T13:10:35Z",
-  "pushed_at": "2018-07-24T13:10:21Z",
+  "updated_at": "2018-08-08T13:10:59Z",
+  "pushed_at": "2018-08-08T15:50:47Z",
   "homepage": "https://coala.io/",
-  "size": 2229,
+  "size": 2253,
   "stargazers_count": 1,
   "language": "Python",
   "mirror_url": null,
@@ -66,7 +66,7 @@
     "Redridge": 2,
     "sims1253": 2,
     "nishant-mor": 2,
-    "pareksha": 3,
+    "pareksha": 5,
     "harshhx17": 3,
     "khanchi97": 3,
     "shreyans800755": 3,
@@ -81,7 +81,7 @@
     "chriscoyfish": 3,
     "Udayan12167": 3,
     "tushar-rishav": 3,
-    "kriti21": 4,
+    "kriti21": 6,
     "nvzard": 4,
     "RJ722": 4,
     "userzimmermann": 4,
@@ -92,7 +92,7 @@
     "ravinimmi": 4,
     "RaiVaibhav": 5,
     "nemaniarjun": 5,
-    "MacBox7": 5,
+    "MacBox7": 6,
     "mridubhatnagar": 5,
     "dracarys09": 5,
     "Ana06": 5,
@@ -125,7 +125,7 @@
     "AbdealiJK": 97,
     "Adrianzatreanu": 118,
     "AsnelChristian": 120,
-    "jayvdb": 143,
+    "jayvdb": 147,
     "sils": 164,
     "abishekvashok": 1,
     "BrainBuzzer": 1,
@@ -223,11 +223,16 @@
     "SiddharthKumar02": 1,
     "tylfin": 1,
     "vedantc98": 1,
-    "yashtrivedi96": 1
+    "yashtrivedi96": 1,
+    "osuchovski": 1,
+    "sinscary": 1,
+    "sladyn98": 1,
+    "vddesai1998": 1,
+    "Karna98": 1
   },
   "languages": {
     "Python": {
-      "bytes": 1093092,
+      "bytes": 1120377,
       "color": "#3572A5"
     },
     "C": {
@@ -235,7 +240,7 @@
       "color": "#555555"
     },
     "Shell": {
-      "bytes": 9693,
+      "bytes": 10001,
       "color": "#89e051"
     },
     "Batchfile": {
@@ -279,7 +284,7 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-07-25T22:48:16.001Z",
+  "fetched_at": "2018-08-08T15:54:18.652Z",
   "pulls_url": "https://api.github.com/repos/Naveenaidu/coala-bears/pulls{/number}",
   "pulls_authors": []
 }

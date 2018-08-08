@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/vuejs/awesome-vue",
   "languages_url": "https://api.github.com/repos/vuejs/awesome-vue/languages",
   "created_at": "2015-10-20T00:16:14Z",
-  "updated_at": "2018-08-08T03:55:28Z",
-  "pushed_at": "2018-08-07T10:58:55Z",
+  "updated_at": "2018-08-08T15:47:42Z",
+  "pushed_at": "2018-08-08T13:56:33Z",
   "homepage": "",
-  "size": 3014,
-  "stargazers_count": 36044,
+  "size": 2932,
+  "stargazers_count": 36082,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -531,7 +531,7 @@
     "tangjinzhou": 2
   },
   "languages": {},
-  "fetched_at": "2018-08-08T04:19:32.786Z",
+  "fetched_at": "2018-08-08T15:54:18.652Z",
   "pulls_url": "https://api.github.com/repos/vuejs/awesome-vue/pulls{/number}",
   "pulls_authors": [
     "mengdu",
@@ -1836,6 +1836,7 @@
     "bradstewart",
     "fergaldoyle",
     "tratotui",
-    "mustardamus"
+    "mustardamus",
+    "PxyUp"
   ]
 }

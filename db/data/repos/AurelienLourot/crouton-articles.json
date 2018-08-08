@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/AurelienLourot/crouton-articles",
   "languages_url": "https://api.github.com/repos/AurelienLourot/crouton-articles/languages",
   "created_at": "2016-02-09T17:45:44Z",
-  "updated_at": "2018-08-07T18:32:25Z",
-  "pushed_at": "2018-08-07T18:32:24Z",
+  "updated_at": "2018-08-08T05:42:51Z",
+  "pushed_at": "2018-08-08T05:42:50Z",
   "homepage": "",
-  "size": 20,
+  "size": 21,
   "stargazers_count": 2,
   "language": null,
   "mirror_url": null,
@@ -28,7 +28,7 @@
   "default_branch": "master",
   "contributors": {
     "knickum": 1,
-    "AurelienLourot": 7
+    "AurelienLourot": 9
   },
   "languages": {},
   "settings": {
@@ -38,7 +38,7 @@
       "Chrome OS"
     ]
   },
-  "fetched_at": "2018-08-07T18:46:12.707Z",
+  "fetched_at": "2018-08-08T15:54:18.652Z",
   "pulls_url": "https://api.github.com/repos/AurelienLourot/crouton-articles/pulls{/number}",
   "pulls_authors": [
     "knickum"

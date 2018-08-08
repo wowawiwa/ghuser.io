@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/cockroachdb/cockroach",
   "languages_url": "https://api.github.com/repos/cockroachdb/cockroach/languages",
   "created_at": "2014-02-06T00:18:47Z",
-  "updated_at": "2018-08-08T02:51:02Z",
-  "pushed_at": "2018-08-08T04:10:18Z",
+  "updated_at": "2018-08-08T15:07:08Z",
+  "pushed_at": "2018-08-08T15:55:14Z",
   "homepage": "https://www.cockroachlabs.com",
-  "size": 1031558,
-  "stargazers_count": 13964,
+  "size": 1031609,
+  "stargazers_count": 13969,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -137,13 +137,13 @@
     "jordanlewis": 837,
     "spencerkimball": 895,
     "dt": 999,
-    "andreimatei": 899,
+    "andreimatei": 900,
     "a-robinson": 1061,
     "benesch": 1197,
     "nvanbenschoten": 1463,
     "bdarnell": 1517,
-    "RaduBerinde": 1743,
-    "knz": 1873,
+    "RaduBerinde": 1748,
+    "knz": 1876,
     "petermattis": 3072,
     "tschottdorf": 2785,
     "tamird": 3212,
@@ -259,11 +259,11 @@
   },
   "languages": {
     "Go": {
-      "bytes": 19405546,
+      "bytes": 19414428,
       "color": "#375eab"
     },
     "TypeScript": {
-      "bytes": 865853,
+      "bytes": 867683,
       "color": "#2b7489"
     },
     "C++": {
@@ -347,7 +347,7 @@
       "color": "#4d41b1"
     }
   },
-  "fetched_at": "2018-08-08T04:19:32.786Z",
+  "fetched_at": "2018-08-08T15:54:18.652Z",
   "pulls_url": "https://api.github.com/repos/cockroachdb/cockroach/pulls{/number}",
   "pulls_authors": [
     "danhhz",

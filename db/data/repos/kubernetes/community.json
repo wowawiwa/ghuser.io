@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/kubernetes/community",
   "languages_url": "https://api.github.com/repos/kubernetes/community/languages",
   "created_at": "2016-05-03T03:36:05Z",
-  "updated_at": "2018-08-08T01:29:07Z",
-  "pushed_at": "2018-08-07T23:49:13Z",
+  "updated_at": "2018-08-08T15:17:58Z",
+  "pushed_at": "2018-08-08T15:17:37Z",
   "homepage": "",
   "size": 30234,
-  "stargazers_count": 2288,
+  "stargazers_count": 2295,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -68,7 +68,7 @@
     "eosrei": 9,
     "justaugustus": 10,
     "apelisse": 12,
-    "andrewsykim": 11,
+    "andrewsykim": 13,
     "shyamjvs": 10,
     "bsalamat": 11,
     "verult": 10,
@@ -148,7 +148,7 @@
     "cblecker": 135,
     "bgrant0607": 170,
     "k8s-merge-robot": 714,
-    "k8s-ci-robot": 596,
+    "k8s-ci-robot": 597,
     "resouer": 19,
     "chrislovecnm": 17,
     "dims": 16,
@@ -456,7 +456,7 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-08T04:19:32.786Z",
+  "fetched_at": "2018-08-08T15:54:18.652Z",
   "pulls_url": "https://api.github.com/repos/kubernetes/community/pulls{/number}",
   "pulls_authors": [
     "castrojo",
@@ -1038,6 +1038,7 @@
     "DFFlanders",
     "yifan-gu",
     "simonswine",
-    "lukemarsden"
+    "lukemarsden",
+    "WanLinghao"
   ]
 }

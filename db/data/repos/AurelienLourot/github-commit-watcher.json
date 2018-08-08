@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/AurelienLourot/github-commit-watcher",
   "languages_url": "https://api.github.com/repos/AurelienLourot/github-commit-watcher/languages",
   "created_at": "2015-07-05T09:07:14Z",
-  "updated_at": "2018-07-04T11:09:28Z",
-  "pushed_at": "2018-07-04T11:09:27Z",
-  "homepage": "http://lourot.com/gicowa/",
-  "size": 139,
+  "updated_at": "2018-08-08T14:33:58Z",
+  "pushed_at": "2018-08-08T14:33:25Z",
+  "homepage": "http://a.ghuser.io/gicowa/",
+  "size": 141,
   "stargazers_count": 13,
   "language": "Python",
   "mirror_url": null,
@@ -28,15 +28,15 @@
   "default_branch": "master",
   "contributors": {
     "cassiodoroVicinetti": 1,
-    "AurelienLourot": 98
+    "AurelienLourot": 99
   },
   "languages": {
     "Python": {
-      "bytes": 33761,
+      "bytes": 33758,
       "color": "#3572A5"
     },
     "Shell": {
-      "bytes": 1626,
+      "bytes": 1684,
       "color": "#89e051"
     }
   },
@@ -48,7 +48,7 @@
       "Travis CI"
     ]
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "fetched_at": "2018-08-08T15:54:18.652Z",
   "pulls_url": "https://api.github.com/repos/AurelienLourot/github-commit-watcher/pulls{/number}",
   "pulls_authors": [
     "cassiodoroVicinetti"

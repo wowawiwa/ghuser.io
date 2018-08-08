@@ -10,8 +10,8 @@
   "url": "https://api.github.com/repos/aryaminus/nazar",
   "languages_url": "https://api.github.com/repos/aryaminus/nazar/languages",
   "created_at": "2018-02-20T14:28:00Z",
-  "updated_at": "2018-07-30T13:36:58Z",
-  "pushed_at": "2018-07-30T14:18:24Z",
+  "updated_at": "2018-08-08T15:17:11Z",
+  "pushed_at": "2018-08-08T15:17:08Z",
   "homepage": "https://play.google.com/store/apps/details?id=com.speks.nazar",
   "size": 85235,
   "stargazers_count": 6,
@@ -27,11 +27,11 @@
   },
   "default_branch": "master",
   "contributors": {
-    "aryaminus": 137
+    "aryaminus": 139
   },
   "languages": {
     "JavaScript": {
-      "bytes": 42823,
+      "bytes": 42850,
       "color": "#f1e05a"
     },
     "Objective-C": {
@@ -47,7 +47,7 @@
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-07-30T16:17:21.729Z",
+  "fetched_at": "2018-08-08T15:54:18.652Z",
   "pulls_url": "https://api.github.com/repos/aryaminus/nazar/pulls{/number}",
   "pulls_authors": []
 }

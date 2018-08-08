@@ -80,7 +80,7 @@
     "numberZero": 37,
     "juhdanad": 37,
     "SpeedProg": 44,
-    "lhofhansl": 60,
+    "lhofhansl": 61,
     "sofar": 53,
     "proller": 65,
     "Ekdohibs": 58,
@@ -336,10 +336,10 @@
   "url": "https://api.github.com/repos/minetest/minetest",
   "languages_url": "https://api.github.com/repos/minetest/minetest/languages",
   "created_at": "2011-08-07T13:48:36Z",
-  "updated_at": "2018-08-08T04:03:00Z",
-  "pushed_at": "2018-08-08T03:57:06Z",
+  "updated_at": "2018-08-08T13:53:31Z",
+  "pushed_at": "2018-08-08T15:51:08Z",
   "homepage": "http://minetest.net/",
-  "size": 58835,
+  "size": 58834,
   "stargazers_count": 3380,
   "language": "C++",
   "mirror_url": null,
@@ -374,7 +374,7 @@
   },
   "languages": {
     "C++": {
-      "bytes": 5078712,
+      "bytes": 5078763,
       "color": "#f34b7d"
     },
     "C": {
@@ -414,7 +414,7 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-08-08T04:19:32.786Z",
+  "fetched_at": "2018-08-08T15:54:18.652Z",
   "pulls_url": "https://api.github.com/repos/minetest/minetest/pulls{/number}",
   "pulls_authors": [
     "hecktest",

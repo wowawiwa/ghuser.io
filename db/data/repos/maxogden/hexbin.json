@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/maxogden/hexbin",
   "languages_url": "https://api.github.com/repos/maxogden/hexbin/languages",
   "created_at": "2014-12-05T19:56:33Z",
-  "updated_at": "2018-08-01T19:49:05Z",
-  "pushed_at": "2018-08-01T19:59:51Z",
+  "updated_at": "2018-08-08T05:03:54Z",
+  "pushed_at": "2018-08-08T05:03:52Z",
   "homepage": "http://hexb.in",
-  "size": 28444,
+  "size": 29959,
   "stargazers_count": 380,
   "language": "JavaScript",
   "mirror_url": null,
@@ -130,16 +130,17 @@
     "sbglasius": 8,
     "hash-bang": 14,
     "danfinlay": 34,
-    "pkq": 51,
+    "pkq": 52,
     "jnny": 33,
     "maxogden": 124,
     "juniperlsimonis": 3,
     "hongyuanjia": 1,
     "kemitchell": 1,
     "kalendar": 1,
-    "jmgirard": 1
+    "jmgirard": 1,
+    "slowkow": 1
   },
-  "fetched_at": "2018-08-01T20:16:09.053Z",
+  "fetched_at": "2018-08-08T15:54:18.652Z",
   "pulls_url": "https://api.github.com/repos/maxogden/hexbin/pulls{/number}",
   "pulls_authors": [
     "HasseNasse",
@@ -269,6 +270,7 @@
     "girliemac",
     "joshhartigan",
     "chrisdickinson",
-    "christian-fei"
+    "christian-fei",
+    "slowkow"
   ]
 }

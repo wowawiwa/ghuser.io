@@ -35,7 +35,7 @@
     "gmpreussner": 10,
     "idlewan": 10,
     "runvnc": 10,
-    "timotheecour": 30,
+    "timotheecour": 31,
     "RedBeard0531": 11,
     "andreaferretti": 11,
     "jfhg": 13,
@@ -43,7 +43,7 @@
     "discoloda": 11,
     "alehander42": 12,
     "euantorano": 13,
-    "ehmry": 14,
+    "ehmry": 15,
     "jcosborn": 14,
     "Amrykid": 13,
     "skyfex": 15,
@@ -69,7 +69,7 @@
     "rokups": 25,
     "oprypin": 26,
     "ReneSac": 27,
-    "LemonBoy": 38,
+    "LemonBoy": 39,
     "cooldome": 34,
     "avsej": 30,
     "Parashurama": 31,
@@ -100,8 +100,8 @@
     "gradha": 310,
     "def-": 334,
     "zah": 532,
-    "dom96": 1317,
-    "Araq": 6460,
+    "dom96": 1318,
+    "Araq": 6464,
     "Jeff-Ciesielski": 7,
     "petermora": 6,
     "Veladus": 6,
@@ -143,7 +143,7 @@
     "GrundleTrundle": 3,
     "J3RN": 3,
     "kosz78": 3,
-    "mratsim": 3,
+    "mratsim": 4,
     "mgee": 3,
     "Matt14916": 3,
     "manveru": 3,
@@ -359,11 +359,11 @@
   "url": "https://api.github.com/repos/nim-lang/Nim",
   "languages_url": "https://api.github.com/repos/nim-lang/Nim/languages",
   "created_at": "2010-08-16T20:38:58Z",
-  "updated_at": "2018-08-08T03:18:37Z",
-  "pushed_at": "2018-08-08T01:52:25Z",
+  "updated_at": "2018-08-08T15:49:48Z",
+  "pushed_at": "2018-08-08T15:52:28Z",
   "homepage": "https://nim-lang.org/",
-  "size": 69866,
-  "stargazers_count": 5277,
+  "size": 69892,
+  "stargazers_count": 5288,
   "language": "Nim",
   "mirror_url": null,
   "archived": false,
@@ -397,7 +397,7 @@
   },
   "languages": {
     "Nim": {
-      "bytes": 8307531,
+      "bytes": 8309970,
       "color": "#37775b"
     },
     "C": {
@@ -437,7 +437,7 @@
       "color": "#C1F12E"
     },
     "Shell": {
-      "bytes": 4459,
+      "bytes": 4936,
       "color": "#89e051"
     },
     "JavaScript": {
@@ -445,7 +445,7 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-08T04:19:32.786Z",
+  "fetched_at": "2018-08-08T15:54:18.652Z",
   "pulls_url": "https://api.github.com/repos/nim-lang/Nim/pulls{/number}",
   "pulls_authors": [
     "michael72",
@@ -913,6 +913,7 @@
     "ddlsmurf",
     "futoase",
     "takano32",
-    "manveru"
+    "manveru",
+    "iffy"
   ]
 }

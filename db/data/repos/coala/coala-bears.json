@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/coala/coala-bears",
   "languages_url": "https://api.github.com/repos/coala/coala-bears/languages",
   "created_at": "2016-02-14T09:25:11Z",
-  "updated_at": "2018-08-07T12:57:01Z",
-  "pushed_at": "2018-08-07T15:27:12Z",
+  "updated_at": "2018-08-08T15:32:05Z",
+  "pushed_at": "2018-08-08T15:51:34Z",
   "homepage": "https://coala.io/",
   "size": 2257,
-  "stargazers_count": 202,
+  "stargazers_count": 203,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -125,7 +125,7 @@
     "jarifibrahim": 6,
     "satwikkansal": 7,
     "nkprince007": 7,
-    "anctartica": 8,
+    "anctartica": 9,
     "virresh": 8,
     "Techievena": 8,
     "vivek425ster": 8,
@@ -252,7 +252,7 @@
   },
   "languages": {
     "Python": {
-      "bytes": 1120377,
+      "bytes": 1120737,
       "color": "#3572A5"
     },
     "C": {
@@ -304,7 +304,7 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-07T18:46:12.707Z",
+  "fetched_at": "2018-08-08T15:54:18.652Z",
   "pulls_url": "https://api.github.com/repos/coala/coala-bears/pulls{/number}",
   "pulls_authors": [
     "jayvdb",
@@ -615,6 +615,7 @@
     "mayank-agarwal-96",
     "aditigupta96",
     "ravinimmi",
-    "siddhanjay"
+    "siddhanjay",
+    "Naveenaidu"
   ]
 }
