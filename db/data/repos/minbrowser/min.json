@@ -42,7 +42,7 @@
     "burnoutberni": 5,
     "BlueManCZ": 6,
     "revolter": 8,
-    "PalmerAL": 925,
+    "PalmerAL": 928,
     "slemony": 2
   },
   "name": "min",
@@ -55,11 +55,11 @@
   "url": "https://api.github.com/repos/minbrowser/min",
   "languages_url": "https://api.github.com/repos/minbrowser/min/languages",
   "created_at": "2015-10-31T21:59:49Z",
-  "updated_at": "2018-08-07T12:33:37Z",
-  "pushed_at": "2018-08-02T22:51:51Z",
+  "updated_at": "2018-08-08T02:34:25Z",
+  "pushed_at": "2018-08-08T02:34:22Z",
   "homepage": "https://minbrowser.github.io/min",
-  "size": 147228,
-  "stargazers_count": 2528,
+  "size": 147233,
+  "stargazers_count": 2529,
   "language": "HTML",
   "mirror_url": null,
   "archived": false,
@@ -93,19 +93,19 @@
   },
   "languages": {
     "HTML": {
-      "bytes": 16838501,
+      "bytes": 16838590,
       "color": "#e34c26"
     },
     "JavaScript": {
-      "bytes": 428327,
+      "bytes": 429676,
       "color": "#f1e05a"
     },
     "CSS": {
-      "bytes": 161919,
+      "bytes": 161944,
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-08-07T18:46:12.707Z",
+  "fetched_at": "2018-08-08T04:19:32.786Z",
   "pulls_url": "https://api.github.com/repos/minbrowser/min/pulls{/number}",
   "pulls_authors": [
     "slemony",

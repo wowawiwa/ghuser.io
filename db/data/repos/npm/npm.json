@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/npm/npm",
   "languages_url": "https://api.github.com/repos/npm/npm/languages",
   "created_at": "2009-09-29T17:21:24Z",
-  "updated_at": "2018-08-07T16:17:13Z",
+  "updated_at": "2018-08-08T03:24:05Z",
   "pushed_at": "2018-07-12T22:40:04Z",
   "homepage": "http://npm.community/",
   "size": 47202,
-  "stargazers_count": 16953,
+  "stargazers_count": 16954,
   "language": null,
   "mirror_url": null,
   "archived": true,
@@ -509,7 +509,7 @@
     "roblourens": 1,
     "bitsol": 1
   },
-  "fetched_at": "2018-08-07T18:46:12.707Z",
+  "fetched_at": "2018-08-08T04:19:32.786Z",
   "pulls_url": "https://api.github.com/repos/npm/npm/pulls{/number}",
   "pulls_authors": [
     "zkat",

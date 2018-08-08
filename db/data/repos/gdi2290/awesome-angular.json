@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/gdi2290/awesome-angular",
   "languages_url": "https://api.github.com/repos/gdi2290/awesome-angular/languages",
   "created_at": "2015-09-01T05:12:10Z",
-  "updated_at": "2018-08-07T15:15:11Z",
-  "pushed_at": "2018-08-04T06:02:19Z",
+  "updated_at": "2018-08-08T00:26:51Z",
+  "pushed_at": "2018-08-07T19:55:02Z",
   "homepage": "https://tipe.io",
   "size": 668,
-  "stargazers_count": 5855,
+  "stargazers_count": 5857,
   "language": "HTML",
   "mirror_url": null,
   "archived": false,
@@ -218,7 +218,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-07T18:46:12.707Z",
+  "fetched_at": "2018-08-08T04:19:32.786Z",
   "pulls_url": "https://api.github.com/repos/gdi2290/awesome-angular/pulls{/number}",
   "pulls_authors": [
     "rjoydip",
@@ -401,6 +401,7 @@
     "gdi2290",
     "jimthedev",
     "kasperpeulen",
-    "andresaraujo"
+    "andresaraujo",
+    "guilhermewaess"
   ]
 }

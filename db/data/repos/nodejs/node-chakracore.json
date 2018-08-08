@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/nodejs/node-chakracore",
   "languages_url": "https://api.github.com/repos/nodejs/node-chakracore/languages",
   "created_at": "2015-11-25T19:09:26Z",
-  "updated_at": "2018-08-07T18:04:50Z",
-  "pushed_at": "2018-08-07T18:05:18Z",
+  "updated_at": "2018-08-07T19:38:17Z",
+  "pushed_at": "2018-08-07T19:38:43Z",
   "homepage": "",
-  "size": 395408,
+  "size": 395659,
   "stargazers_count": 1575,
   "language": "JavaScript",
   "mirror_url": null,
@@ -566,7 +566,7 @@
     "Cellule": 4,
     "antsmartian": 4
   },
-  "fetched_at": "2018-08-07T18:46:12.707Z",
+  "fetched_at": "2018-08-08T04:19:32.786Z",
   "pulls_url": "https://api.github.com/repos/nodejs/node-chakracore/pulls{/number}",
   "pulls_authors": [
     "kfarnung",

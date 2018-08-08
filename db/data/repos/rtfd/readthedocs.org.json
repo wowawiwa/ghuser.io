@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/rtfd/readthedocs.org",
   "languages_url": "https://api.github.com/repos/rtfd/readthedocs.org/languages",
   "created_at": "2010-08-16T19:18:06Z",
-  "updated_at": "2018-08-07T09:46:46Z",
-  "pushed_at": "2018-08-07T17:54:34Z",
+  "updated_at": "2018-08-08T03:16:21Z",
+  "pushed_at": "2018-08-08T01:12:31Z",
   "homepage": "https://readthedocs.org/",
-  "size": 51430,
-  "stargazers_count": 4536,
+  "size": 51440,
+  "stargazers_count": 4538,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -387,7 +387,7 @@
     "mlncn": 2,
     "hbetts": 5
   },
-  "fetched_at": "2018-08-07T18:46:12.707Z",
+  "fetched_at": "2018-08-08T04:19:32.786Z",
   "pulls_url": "https://api.github.com/repos/rtfd/readthedocs.org/pulls{/number}",
   "pulls_authors": [
     "stsewd",
@@ -766,6 +766,7 @@
     "PaulMcMillan",
     "jacobb",
     "jasongrlicky",
-    "wapcaplet"
+    "wapcaplet",
+    "nijel"
   ]
 }

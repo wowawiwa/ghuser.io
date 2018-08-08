@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/multiformats/rust-multihash",
   "languages_url": "https://api.github.com/repos/multiformats/rust-multihash/languages",
   "created_at": "2015-12-28T14:06:19Z",
-  "updated_at": "2018-07-12T11:01:02Z",
+  "updated_at": "2018-08-07T23:27:02Z",
   "pushed_at": "2018-05-17T15:36:54Z",
   "homepage": "https://github.com/multiformats/multihash",
   "size": 2401,
-  "stargazers_count": 33,
+  "stargazers_count": 32,
   "language": "Rust",
   "mirror_url": null,
   "archived": false,
@@ -65,7 +65,7 @@
     "tomaka": 4,
     "dignifiedquire": 30
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "fetched_at": "2018-08-08T04:19:32.786Z",
   "pulls_url": "https://api.github.com/repos/multiformats/rust-multihash/pulls{/number}",
   "pulls_authors": [
     "hobofan",
