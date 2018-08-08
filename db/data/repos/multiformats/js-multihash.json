@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/multiformats/js-multihash",
   "languages_url": "https://api.github.com/repos/multiformats/js-multihash/languages",
   "created_at": "2014-05-22T22:10:15Z",
-  "updated_at": "2018-08-05T15:27:55Z",
-  "pushed_at": "2018-06-26T11:36:37Z",
+  "updated_at": "2018-08-08T16:46:16Z",
+  "pushed_at": "2018-08-08T16:46:28Z",
   "homepage": "https://github.com/multiformats/multihash",
-  "size": 6258,
+  "size": 6263,
   "stargazers_count": 63,
   "language": "JavaScript",
   "mirror_url": null,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 35371,
+      "bytes": 35392,
       "color": "#f1e05a"
     },
     "Groovy": {
@@ -71,9 +71,10 @@
     "RichardLitt": 5,
     "dignifiedquire": 8,
     "jbenet": 11,
-    "diasdavid": 58
+    "diasdavid": 61,
+    "vasco-santos": 1
   },
-  "fetched_at": "2018-08-06T06:12:02.455Z",
+  "fetched_at": "2018-08-08T19:30:39.036Z",
   "pulls_url": "https://api.github.com/repos/multiformats/js-multihash/pulls{/number}",
   "pulls_authors": [
     "VictorBjelkholm",
@@ -94,6 +95,7 @@
     "nginnever",
     "btrask",
     "Fil",
-    "williamcotton"
+    "williamcotton",
+    "vasco-santos"
   ]
 }

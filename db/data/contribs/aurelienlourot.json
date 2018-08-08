@@ -69,13 +69,13 @@
     "AurelienLourot/github-contribs": {
       "full_name": "AurelienLourot/github-contribs",
       "name": "github-contribs",
-      "stargazers_count": 22,
-      "popularity": 2.3243213587049825,
+      "stargazers_count": 21,
+      "popularity": 2.3032349516115587,
       "percentage": 100,
       "maturity": 2.0845073675966073,
       "total_commits_count": 52,
       "activity": 5,
-      "total_score": 46.358156474472935,
+      "total_score": 46.020773960978154,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -466,6 +466,19 @@
       "total_commits_count": 70,
       "activity": 1.5782947191491514,
       "total_score": 6.538888833511212,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "AurelienLourot/chainrule-demonstration": {
+      "full_name": "AurelienLourot/chainrule-demonstration",
+      "name": "chainrule-demonstration",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 5,
+      "total_score": 5,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

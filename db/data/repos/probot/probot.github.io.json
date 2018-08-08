@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/probot/probot.github.io",
   "languages_url": "https://api.github.com/repos/probot/probot.github.io/languages",
   "created_at": "2017-07-03T21:18:03Z",
-  "updated_at": "2018-08-07T20:34:11Z",
-  "pushed_at": "2018-08-08T03:22:21Z",
+  "updated_at": "2018-08-08T17:35:27Z",
+  "pushed_at": "2018-08-08T17:35:28Z",
   "homepage": "https://probot.github.io",
-  "size": 4975,
+  "size": 4997,
   "stargazers_count": 30,
   "language": "HTML",
   "mirror_url": null,
@@ -83,17 +83,19 @@
     "j-f1": 11,
     "z0al": 15,
     "koddsson": 16,
-    "JasonEtco": 27,
+    "JasonEtco": 28,
     "hiimbex": 46,
-    "bkeepers": 510,
+    "bkeepers": 512,
     "SvanBoxel": 5,
     "zeke": 3,
     "boyney123": 3,
-    "RichardLitt": 9
+    "RichardLitt": 9,
+    "kentaro-m": 2,
+    "abhijeetps": 4
   },
   "languages": {
     "HTML": {
-      "bytes": 42897424,
+      "bytes": 42897691,
       "color": "#e34c26"
     },
     "CSS": {
@@ -105,7 +107,7 @@
       "color": "#f1e05a"
     },
     "Ruby": {
-      "bytes": 4101,
+      "bytes": 4125,
       "color": "#701516"
     },
     "Shell": {
@@ -113,7 +115,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-08T04:19:32.786Z",
+  "fetched_at": "2018-08-08T19:30:39.036Z",
   "pulls_url": "https://api.github.com/repos/probot/probot.github.io/pulls{/number}",
   "pulls_authors": [
     "abhijeetps",

@@ -1707,13 +1707,13 @@
     "boto/boto": {
       "full_name": "boto/boto",
       "name": "boto",
-      "stargazers_count": 6159,
-      "popularity": 4.789485825053344,
+      "stargazers_count": 6160,
+      "popularity": 4.789556343431464,
       "percentage": 0.020863759649488837,
       "maturity": 4.678713233621913,
       "total_commits_count": 4793,
       "activity": 5,
-      "total_score": 28.738874410946668,
+      "total_score": 28.73908615734723,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -2110,13 +2110,13 @@
     "nodejs/node-v0.x-archive": {
       "full_name": "nodejs/node-v0.x-archive",
       "name": "node-v0.x-archive",
-      "stargazers_count": 35782,
+      "stargazers_count": 35781,
       "popularity": 5,
       "percentage": 0,
       "maturity": 0,
       "total_commits_count": 2,
-      "activity": 1.5788665031458415,
-      "total_score": 16.578866503145843,
+      "activity": 1.574202021560918,
+      "total_score": 16.574202021560918,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
