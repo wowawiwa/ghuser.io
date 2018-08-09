@@ -74,7 +74,7 @@
     "dunn": 10,
     "abh": 10,
     "felicianotech": 11,
-    "regisphilibert": 13,
+    "regisphilibert": 14,
     "scottcwilson": 11,
     "owenwaller": 12,
     "vbatoufflet": 14,
@@ -462,8 +462,8 @@
   "url": "https://api.github.com/repos/gohugoio/hugoDocs",
   "languages_url": "https://api.github.com/repos/gohugoio/hugoDocs/languages",
   "created_at": "2017-06-14T07:52:37Z",
-  "updated_at": "2018-08-08T16:45:41Z",
-  "pushed_at": "2018-08-08T18:44:39Z",
+  "updated_at": "2018-08-09T16:23:47Z",
+  "pushed_at": "2018-08-09T16:23:42Z",
   "homepage": "",
   "size": 115617,
   "stargazers_count": 165,
@@ -516,7 +516,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-09T03:27:59.051Z",
+  "fetched_at": "2018-08-09T16:35:43.594Z",
   "pulls_url": "https://api.github.com/repos/gohugoio/hugoDocs/pulls{/number}",
   "pulls_authors": [
     "brentybh",

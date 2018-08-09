@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/elastic/beats",
   "languages_url": "https://api.github.com/repos/elastic/beats/languages",
   "created_at": "2014-02-05T19:01:02Z",
-  "updated_at": "2018-08-09T02:41:04Z",
-  "pushed_at": "2018-08-09T03:11:14Z",
+  "updated_at": "2018-08-09T16:19:56Z",
+  "pushed_at": "2018-08-09T15:19:37Z",
   "homepage": "https://www.elastic.co/products/beats",
-  "size": 87577,
-  "stargazers_count": 5952,
+  "size": 88182,
+  "stargazers_count": 5961,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -68,7 +68,7 @@
     "ShinJJang": 2,
     "emirozer": 4,
     "mariosnikolaou": 2,
-    "ycombinator": 18,
+    "ycombinator": 19,
     "jsoref": 3,
     "andrewvc": 11,
     "jalvz": 4,
@@ -135,18 +135,18 @@
     "martinscholz83": 23,
     "simitt": 36,
     "cyrilleverrier": 45,
-    "jsoriano": 78,
+    "jsoriano": 79,
     "vjsamuel": 69,
     "kvch": 74,
     "ph": 83,
     "adriansr": 97,
     "exekias": 150,
-    "dedemorton": 510,
-    "andrewkroh": 780,
+    "dedemorton": 513,
+    "andrewkroh": 781,
     "urso": 811,
     "monicasarbu": 892,
     "ruflin": 1567,
-    "tsg": 1675,
+    "tsg": 1676,
     "mike-the-automator": 3,
     "ctindel": 2,
     "fassisrosa": 2,
@@ -335,15 +335,18 @@
     "herver": 1,
     "strawgate": 1,
     "supertopoz": 1,
-    "ppanagiotis": 1
+    "ppanagiotis": 1,
+    "danmx": 1,
+    "ggnanasekaran77": 1,
+    "brianwaskiewicz": 1
   },
   "languages": {
     "Go": {
-      "bytes": 6267923,
+      "bytes": 6301864,
       "color": "#375eab"
     },
     "Python": {
-      "bytes": 689451,
+      "bytes": 694231,
       "color": "#3572A5"
     },
     "Objective-C": {
@@ -395,7 +398,7 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-08-09T03:27:59.051Z",
+  "fetched_at": "2018-08-09T16:35:43.594Z",
   "pulls_url": "https://api.github.com/repos/elastic/beats/pulls{/number}",
   "pulls_authors": [
     "andrewkroh",

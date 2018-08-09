@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/sindresorhus/awesome",
   "languages_url": "https://api.github.com/repos/sindresorhus/awesome/languages",
   "created_at": "2014-07-11T13:42:37Z",
-  "updated_at": "2018-08-09T03:14:26Z",
-  "pushed_at": "2018-08-08T20:15:57Z",
+  "updated_at": "2018-08-09T15:18:40Z",
+  "pushed_at": "2018-08-09T16:16:16Z",
   "homepage": "",
   "size": 612,
-  "stargazers_count": 90321,
+  "stargazers_count": 90351,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -355,7 +355,7 @@
     "TheKitty": 1
   },
   "languages": {},
-  "fetched_at": "2018-08-09T03:27:59.051Z",
+  "fetched_at": "2018-08-09T16:35:43.594Z",
   "pulls_url": "https://api.github.com/repos/sindresorhus/awesome/pulls{/number}",
   "pulls_authors": [
     "mayurc137",
@@ -1212,6 +1212,8 @@
     "necenzurat",
     "dimlev",
     "skyrocknroll",
-    "jusdepatate"
+    "jusdepatate",
+    "kusma",
+    "Retia-Adolf"
   ]
 }

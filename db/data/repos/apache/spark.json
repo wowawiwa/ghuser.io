@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/apache/spark",
   "languages_url": "https://api.github.com/repos/apache/spark/languages",
   "created_at": "2014-02-25T08:00:08Z",
-  "updated_at": "2018-08-09T02:14:25Z",
-  "pushed_at": "2018-08-09T02:33:51Z",
+  "updated_at": "2018-08-09T16:30:12Z",
+  "pushed_at": "2018-08-09T16:25:08Z",
   "homepage": null,
-  "size": 279007,
-  "stargazers_count": 18349,
+  "size": 279066,
+  "stargazers_count": 18350,
   "language": "Scala",
   "mirror_url": null,
   "archived": false,
@@ -112,14 +112,14 @@
     "sryza": 92,
     "adrian-wang": 94,
     "stephenh": 110,
-    "kiszk": 111,
+    "kiszk": 113,
     "zhengruifeng": 105,
     "brkyvz": 111,
     "kayousterhout": 124,
     "chenghao-intel": 118,
     "maropu": 130,
     "hvanhovell": 125,
-    "ueshin": 142,
+    "ueshin": 143,
     "andrewor14": 136,
     "sarutak": 143,
     "holdenk": 151,
@@ -137,14 +137,14 @@
     "dongjoon-hyun": 300,
     "mengxr": 338,
     "vanzin": 344,
-    "viirya": 349,
+    "viirya": 350,
     "HyukjinKwon": 370,
     "gatorsmile": 375,
     "liancheng": 376,
     "tdas": 560,
     "zsxwing": 474,
     "JoshRosen": 511,
-    "cloud-fan": 581,
+    "cloud-fan": 582,
     "pwendell": 857,
     "mateiz": 1588,
     "rxin": 1454,
@@ -193,7 +193,7 @@
     "junyangq": 16,
     "yaooqinn": 16,
     "markgrover": 16,
-    "srowen": 25,
+    "srowen": 26,
     "willb": 16,
     "pxinghao": 16,
     "heary-cao": 16,
@@ -335,7 +335,7 @@
     "ksonj": 5,
     "luogankun": 5,
     "zapletal-martin": 5,
-    "maryannxue": 16,
+    "maryannxue": 17,
     "chutong88": 5,
     "eatoncys": 6,
     "anantasty": 5,
@@ -388,15 +388,15 @@
   },
   "languages": {
     "Scala": {
-      "bytes": 26946385,
+      "bytes": 26949425,
       "color": "#c22d40"
     },
     "Java": {
-      "bytes": 3371479,
+      "bytes": 3371911,
       "color": "#b07219"
     },
     "Python": {
-      "bytes": 2714595,
+      "bytes": 2714598,
       "color": "#3572A5"
     },
     "HiveQL": {
@@ -468,7 +468,7 @@
       "color": "#555555"
     }
   },
-  "fetched_at": "2018-08-09T03:27:59.051Z",
+  "fetched_at": "2018-08-09T16:35:43.594Z",
   "pulls_url": "https://api.github.com/repos/apache/spark/pulls{/number}",
   "pulls_authors": [
     "techaddict",
@@ -2750,6 +2750,7 @@
     "anitatailor",
     "kimballa",
     "xoltar",
-    "xuejianbest"
+    "xuejianbest",
+    "LuGuangWang"
   ]
 }

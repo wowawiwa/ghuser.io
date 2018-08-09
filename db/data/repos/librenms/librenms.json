@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/librenms/librenms",
   "languages_url": "https://api.github.com/repos/librenms/librenms/languages",
   "created_at": "2013-10-28T01:37:13Z",
-  "updated_at": "2018-08-08T21:43:19Z",
-  "pushed_at": "2018-08-08T21:43:17Z",
+  "updated_at": "2018-08-09T09:05:50Z",
+  "pushed_at": "2018-08-09T14:38:17Z",
   "homepage": "http://www.librenms.org/",
   "size": 132509,
-  "stargazers_count": 1115,
+  "stargazers_count": 1118,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -464,7 +464,7 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-08-09T03:27:59.051Z",
+  "fetched_at": "2018-08-09T16:35:43.594Z",
   "pulls_url": "https://api.github.com/repos/librenms/librenms/pulls{/number}",
   "pulls_authors": [
     "eastmane",
@@ -974,6 +974,7 @@
     "timdufrane",
     "paravoid",
     "pandom",
-    "bradpeczka"
+    "bradpeczka",
+    "willhseitz"
   ]
 }

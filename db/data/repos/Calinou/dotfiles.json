@@ -1,7 +1,7 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
   "contributors": {
-    "Calinou": 39
+    "Calinou": 40
   },
   "name": "dotfiles",
   "full_name": "Calinou/dotfiles",
@@ -13,10 +13,10 @@
   "url": "https://api.github.com/repos/Calinou/dotfiles",
   "languages_url": "https://api.github.com/repos/Calinou/dotfiles/languages",
   "created_at": "2018-02-07T19:04:12Z",
-  "updated_at": "2018-07-21T18:25:03Z",
-  "pushed_at": "2018-07-21T18:25:01Z",
+  "updated_at": "2018-08-09T12:47:47Z",
+  "pushed_at": "2018-08-09T12:47:45Z",
   "homepage": null,
-  "size": 205,
+  "size": 206,
   "stargazers_count": 1,
   "language": "Vim script",
   "mirror_url": null,
@@ -39,7 +39,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-07-22T09:08:36.263Z",
+  "fetched_at": "2018-08-09T16:35:43.594Z",
   "pulls_url": "https://api.github.com/repos/Calinou/dotfiles/pulls{/number}",
   "pulls_authors": []
 }

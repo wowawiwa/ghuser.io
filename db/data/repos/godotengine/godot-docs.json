@@ -93,7 +93,7 @@
     "eska014": 15,
     "Griatch": 17,
     "Noshyaar": 27,
-    "NathanLovato": 92,
+    "NathanLovato": 93,
     "YeldhamDev": 31,
     "StraToN": 45,
     "skyace65": 42,
@@ -276,7 +276,8 @@
     "arrowgamer": 1,
     "isaacremnant": 1,
     "ntfwc": 2,
-    "f8122dac": 1
+    "f8122dac": 1,
+    "lawsonry": 2
   },
   "name": "godot-docs",
   "full_name": "godotengine/godot-docs",
@@ -288,10 +289,10 @@
   "url": "https://api.github.com/repos/godotengine/godot-docs",
   "languages_url": "https://api.github.com/repos/godotengine/godot-docs/languages",
   "created_at": "2015-12-12T15:02:06Z",
-  "updated_at": "2018-08-08T22:43:16Z",
-  "pushed_at": "2018-08-08T12:50:11Z",
+  "updated_at": "2018-08-09T07:21:04Z",
+  "pushed_at": "2018-08-09T15:39:40Z",
   "homepage": "http://docs.godotengine.org",
-  "size": 289614,
+  "size": 289608,
   "stargazers_count": 362,
   "language": "Python",
   "mirror_url": null,
@@ -348,7 +349,7 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-08-09T03:27:59.051Z",
+  "fetched_at": "2018-08-09T16:35:43.594Z",
   "pulls_url": "https://api.github.com/repos/godotengine/godot-docs/pulls{/number}",
   "pulls_authors": [
     "vurpo",
@@ -719,6 +720,7 @@
     "flurick",
     "gravitystorm",
     "est31",
-    "adolson"
+    "adolson",
+    "jhch3"
   ]
 }

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/Roshanjossey/first-contributions",
   "languages_url": "https://api.github.com/repos/Roshanjossey/first-contributions/languages",
   "created_at": "2016-09-20T14:35:09Z",
-  "updated_at": "2018-08-09T02:13:56Z",
-  "pushed_at": "2018-08-09T02:03:56Z",
+  "updated_at": "2018-08-09T16:17:54Z",
+  "pushed_at": "2018-08-09T15:35:46Z",
   "homepage": "https://roshanjossey.github.io/first-contributions/",
-  "size": 28661,
-  "stargazers_count": 2627,
+  "size": 29427,
+  "stargazers_count": 2637,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -127,7 +127,7 @@
     "launganik": 28,
     "Ashleyt28": 34,
     "mippzon": 54,
-    "Roshanjossey": 7060,
+    "Roshanjossey": 7067,
     "invalid-email-address": 14,
     "rglc12": 8,
     "hrishi7": 4,
@@ -459,18 +459,18 @@
     "0xCC00FFEE": 1,
     "kholood-ea": 2,
     "aar0nsky": 2,
-    "arshadkazmi42": 4,
+    "arshadkazmi42": 6,
     "rahuls321": 2,
     "howelloneill": 2,
     "OtacilioN": 2
   },
   "languages": {
     "JavaScript": {
-      "bytes": 33437,
+      "bytes": 34941,
       "color": "#f1e05a"
     },
     "CSS": {
-      "bytes": 3569,
+      "bytes": 3939,
       "color": "#563d7c"
     },
     "HTML": {
@@ -478,7 +478,7 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-08-09T03:27:59.051Z",
+  "fetched_at": "2018-08-09T16:35:43.594Z",
   "pulls_url": "https://api.github.com/repos/Roshanjossey/first-contributions/pulls{/number}",
   "pulls_authors": [
     "ShadrachJ",
@@ -5814,6 +5814,13 @@
     "Muphi",
     "Funplings",
     "eonder",
-    "sushrut-raina"
+    "sushrut-raina",
+    "apoorvateli",
+    "caiothizio",
+    "humayuntanwar",
+    "wompowe",
+    "dtran007",
+    "kuneho-yellow",
+    "roncrisostomo"
   ]
 }

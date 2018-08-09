@@ -1,7 +1,7 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
   "contributors": {
-    "mischnic": 3,
+    "mischnic": 5,
     "zhaozg": 1,
     "bcampbell": 6,
     "parro-it": 1,
@@ -28,7 +28,7 @@
     "fclairamb": 7,
     "emersion": 9,
     "cody271": 25,
-    "andlabs": 3437
+    "andlabs": 3441
   },
   "name": "libui",
   "full_name": "andlabs/libui",
@@ -40,10 +40,10 @@
   "url": "https://api.github.com/repos/andlabs/libui",
   "languages_url": "https://api.github.com/repos/andlabs/libui/languages",
   "created_at": "2015-04-17T00:35:54Z",
-  "updated_at": "2018-08-09T01:45:15Z",
-  "pushed_at": "2018-08-09T02:20:54Z",
+  "updated_at": "2018-08-09T09:17:02Z",
+  "pushed_at": "2018-08-09T14:42:49Z",
   "homepage": "",
-  "size": 5556,
+  "size": 5559,
   "stargazers_count": 7488,
   "language": "C",
   "mirror_url": null,
@@ -58,15 +58,15 @@
   "default_branch": "master",
   "languages": {
     "C": {
-      "bytes": 622780,
+      "bytes": 623123,
       "color": "#555555"
     },
     "C++": {
-      "bytes": 460186,
+      "bytes": 460736,
       "color": "#f34b7d"
     },
     "Objective-C": {
-      "bytes": 360072,
+      "bytes": 360190,
       "color": "#438eff"
     },
     "CMake": {
@@ -82,7 +82,7 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-08-09T03:27:59.051Z",
+  "fetched_at": "2018-08-09T16:35:43.594Z",
   "pulls_url": "https://api.github.com/repos/andlabs/libui/pulls{/number}",
   "pulls_authors": [
     "mischnic",

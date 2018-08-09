@@ -410,7 +410,8 @@
     "TGRCdev": 2,
     "wcb88": 2,
     "Ertain": 3,
-    "goodyttoor": 2
+    "goodyttoor": 2,
+    "martindzejky": 6
   },
   "name": "godot",
   "full_name": "godotengine/godot",
@@ -422,11 +423,11 @@
   "url": "https://api.github.com/repos/godotengine/godot",
   "languages_url": "https://api.github.com/repos/godotengine/godot/languages",
   "created_at": "2014-01-04T16:05:36Z",
-  "updated_at": "2018-08-09T02:39:47Z",
-  "pushed_at": "2018-08-09T00:26:30Z",
+  "updated_at": "2018-08-09T14:02:44Z",
+  "pushed_at": "2018-08-09T14:54:04Z",
   "homepage": "https://godotengine.org",
   "size": 255324,
-  "stargazers_count": 16122,
+  "stargazers_count": 16124,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -504,7 +505,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-09T03:27:59.051Z",
+  "fetched_at": "2018-08-09T16:35:43.594Z",
   "pulls_url": "https://api.github.com/repos/godotengine/godot/pulls{/number}",
   "pulls_authors": [
     "Calinou",
@@ -1380,6 +1381,7 @@
     "TiZ-EX1",
     "codecat",
     "rafalcieslak",
-    "fdb"
+    "fdb",
+    "tomasantunes"
   ]
 }

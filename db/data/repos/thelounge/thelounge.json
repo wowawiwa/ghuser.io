@@ -129,11 +129,11 @@
   "url": "https://api.github.com/repos/thelounge/thelounge",
   "languages_url": "https://api.github.com/repos/thelounge/thelounge/languages",
   "created_at": "2016-02-09T03:16:03Z",
-  "updated_at": "2018-08-08T15:16:06Z",
+  "updated_at": "2018-08-09T07:39:32Z",
   "pushed_at": "2018-08-08T00:13:23Z",
   "homepage": "https://thelounge.chat",
   "size": 11307,
-  "stargazers_count": 2123,
+  "stargazers_count": 2125,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -187,7 +187,7 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-08-08T15:54:18.652Z",
+  "fetched_at": "2018-08-09T16:35:43.594Z",
   "pulls_url": "https://api.github.com/repos/thelounge/thelounge/pulls{/number}",
   "pulls_authors": [
     "renovate[bot]",

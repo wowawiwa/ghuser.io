@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/RichardLitt/ships-log",
   "languages_url": "https://api.github.com/repos/RichardLitt/ships-log/languages",
   "created_at": "2017-03-12T17:43:49Z",
-  "updated_at": "2018-07-17T22:04:29Z",
-  "pushed_at": "2018-07-17T22:05:41Z",
+  "updated_at": "2018-08-09T15:38:20Z",
+  "pushed_at": "2018-08-09T15:38:22Z",
   "homepage": "",
-  "size": 153,
+  "size": 160,
   "stargazers_count": 3,
   "language": "JavaScript",
   "mirror_url": null,
@@ -28,16 +28,16 @@
   "default_branch": "master",
   "languages": {
     "JavaScript": {
-      "bytes": 9907,
+      "bytes": 10613,
       "color": "#f1e05a"
     }
   },
   "contributors": {
     "greenkeeperio-bot": 6,
-    "greenkeeper[bot]": 9,
-    "RichardLitt": 75
+    "greenkeeper[bot]": 11,
+    "RichardLitt": 78
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "fetched_at": "2018-08-09T16:35:43.594Z",
   "pulls_url": "https://api.github.com/repos/RichardLitt/ships-log/pulls{/number}",
   "pulls_authors": [
     "greenkeeper[bot]"
