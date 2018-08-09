@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/mdub/clamp",
   "languages_url": "https://api.github.com/repos/mdub/clamp/languages",
   "created_at": "2010-10-29T11:36:06Z",
-  "updated_at": "2018-08-03T14:17:12Z",
-  "pushed_at": "2018-07-14T06:40:25Z",
+  "updated_at": "2018-08-08T22:56:32Z",
+  "pushed_at": "2018-08-08T22:56:39Z",
   "homepage": "",
-  "size": 461,
+  "size": 439,
   "stargazers_count": 342,
   "language": "Ruby",
   "mirror_url": null,
@@ -28,7 +28,7 @@
   "default_branch": "master",
   "languages": {
     "Ruby": {
-      "bytes": 81517,
+      "bytes": 83243,
       "color": "#701516"
     }
   },
@@ -47,9 +47,9 @@
     "tstrachota": 5,
     "kke": 7,
     "jordansissel": 13,
-    "mdub": 352
+    "mdub": 355
   },
-  "fetched_at": "2018-08-03T14:53:41.930Z",
+  "fetched_at": "2018-08-09T03:27:59.051Z",
   "pulls_url": "https://api.github.com/repos/mdub/clamp/pulls{/number}",
   "pulls_authors": [
     "mdub",

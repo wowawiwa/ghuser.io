@@ -10,20 +10,27 @@
   "url": "https://api.github.com/repos/amio/badgen",
   "languages_url": "https://api.github.com/repos/amio/badgen/languages",
   "created_at": "2018-06-23T12:03:51Z",
-  "updated_at": "2018-08-08T01:00:46Z",
-  "pushed_at": "2018-08-06T11:29:40Z",
+  "updated_at": "2018-08-09T02:15:50Z",
+  "pushed_at": "2018-08-09T02:15:49Z",
   "homepage": "",
-  "size": 121,
+  "size": 123,
   "stargazers_count": 301,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
-  "license": null,
+  "license": {
+    "key": "isc",
+    "name": "ISC License",
+    "spdx_id": "ISC",
+    "url": "https://api.github.com/licenses/isc",
+    "node_id": "MDc6TGljZW5zZTEw"
+  },
   "default_branch": "master",
   "contributors": {
     "wei": 1,
     "amio": 150,
-    "dependabot-bot": 2
+    "dependabot-bot": 2,
+    "jackmu95": 1
   },
   "languages": {
     "JavaScript": {
@@ -31,11 +38,12 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-08T04:19:32.786Z",
+  "fetched_at": "2018-08-09T03:27:59.051Z",
   "pulls_url": "https://api.github.com/repos/amio/badgen/pulls{/number}",
   "pulls_authors": [
     "dependabot[bot]",
     "wei",
-    "amio"
+    "amio",
+    "jackmu95"
   ]
 }

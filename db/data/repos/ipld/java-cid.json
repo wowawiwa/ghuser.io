@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/ipld/java-cid",
   "languages_url": "https://api.github.com/repos/ipld/java-cid/languages",
   "created_at": "2016-12-11T23:36:20Z",
-  "updated_at": "2018-06-03T16:39:06Z",
-  "pushed_at": "2017-09-04T21:27:33Z",
+  "updated_at": "2018-08-08T21:00:59Z",
+  "pushed_at": "2018-08-08T21:00:57Z",
   "homepage": null,
-  "size": 339,
+  "size": 340,
   "stargazers_count": 7,
   "language": "Java",
   "mirror_url": null,
@@ -55,9 +55,10 @@
   "contributors": {
     "RichardLitt": 1,
     "celeduc": 2,
-    "ianopolous": 9
+    "ianopolous": 9,
+    "tdiesler": 1
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "fetched_at": "2018-08-09T03:27:59.051Z",
   "pulls_url": "https://api.github.com/repos/ipld/java-cid/pulls{/number}",
   "pulls_authors": [
     "tdiesler",

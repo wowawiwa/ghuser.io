@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/zeit/next.js",
   "languages_url": "https://api.github.com/repos/zeit/next.js/languages",
   "created_at": "2016-10-05T23:32:51Z",
-  "updated_at": "2018-08-08T15:11:26Z",
-  "pushed_at": "2018-08-08T15:37:57Z",
+  "updated_at": "2018-08-09T01:06:43Z",
+  "pushed_at": "2018-08-09T03:09:23Z",
   "homepage": "https://nextjs.org",
-  "size": 7447,
-  "stargazers_count": 27869,
+  "size": 7450,
+  "stargazers_count": 27878,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -136,7 +136,7 @@
     "jaydenseric": 5,
     "cncolder": 5,
     "lfades": 6,
-    "HaNdTriX": 8,
+    "HaNdTriX": 10,
     "ptomasroos": 6,
     "giuseppeg": 6,
     "timoxley": 6,
@@ -544,7 +544,7 @@
     "HeyHugo": 1,
     "kalabro": 1
   },
-  "fetched_at": "2018-08-08T15:54:18.652Z",
+  "fetched_at": "2018-08-09T03:27:59.051Z",
   "pulls_url": "https://api.github.com/repos/zeit/next.js/pulls{/number}",
   "pulls_authors": [
     "connor-baer",
@@ -1209,6 +1209,7 @@
     "latentflip",
     "jisaacks",
     "paulgrock",
-    "jpadilla"
+    "jpadilla",
+    "sahalsajjad"
   ]
 }

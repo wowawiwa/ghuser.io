@@ -10,8 +10,8 @@
   "url": "https://api.github.com/repos/ipfs/go-ipfs-addr",
   "languages_url": "https://api.github.com/repos/ipfs/go-ipfs-addr/languages",
   "created_at": "2017-10-24T13:59:43Z",
-  "updated_at": "2018-07-21T03:04:27Z",
-  "pushed_at": "2018-07-21T03:04:26Z",
+  "updated_at": "2018-08-09T02:15:32Z",
+  "pushed_at": "2018-08-09T02:15:40Z",
   "homepage": null,
   "size": 45,
   "stargazers_count": 4,
@@ -64,9 +64,10 @@
     "Kubuxu": 2,
     "lgierth": 2,
     "whyrusleeping": 20,
-    "Stebalien": 24
+    "Stebalien": 25,
+    "vyzo": 3
   },
-  "fetched_at": "2018-07-21T08:12:16.618Z",
+  "fetched_at": "2018-08-09T03:27:59.051Z",
   "pulls_url": "https://api.github.com/repos/ipfs/go-ipfs-addr/pulls{/number}",
   "pulls_authors": [
     "Stebalien"

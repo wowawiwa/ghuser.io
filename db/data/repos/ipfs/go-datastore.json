@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/ipfs/go-datastore",
   "languages_url": "https://api.github.com/repos/ipfs/go-datastore/languages",
   "created_at": "2014-01-19T18:56:13Z",
-  "updated_at": "2018-08-07T16:58:02Z",
-  "pushed_at": "2018-08-07T17:37:16Z",
+  "updated_at": "2018-08-08T21:11:55Z",
+  "pushed_at": "2018-08-08T15:37:24Z",
   "homepage": null,
   "size": 1072,
-  "stargazers_count": 59,
+  "stargazers_count": 60,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -73,7 +73,7 @@
     "whyrusleeping": 49,
     "jbenet": 56
   },
-  "fetched_at": "2018-08-07T18:46:12.707Z",
+  "fetched_at": "2018-08-09T03:27:59.051Z",
   "pulls_url": "https://api.github.com/repos/ipfs/go-datastore/pulls{/number}",
   "pulls_authors": [
     "Stebalien",

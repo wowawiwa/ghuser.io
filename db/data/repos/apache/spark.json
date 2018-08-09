@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/apache/spark",
   "languages_url": "https://api.github.com/repos/apache/spark/languages",
   "created_at": "2014-02-25T08:00:08Z",
-  "updated_at": "2018-08-08T15:05:30Z",
-  "pushed_at": "2018-08-08T15:39:31Z",
+  "updated_at": "2018-08-09T02:14:25Z",
+  "pushed_at": "2018-08-09T02:33:51Z",
   "homepage": null,
-  "size": 278979,
-  "stargazers_count": 18346,
+  "size": 279007,
+  "stargazers_count": 18349,
   "language": "Scala",
   "mirror_url": null,
   "archived": false,
@@ -119,7 +119,7 @@
     "chenghao-intel": 118,
     "maropu": 130,
     "hvanhovell": 125,
-    "ueshin": 141,
+    "ueshin": 142,
     "andrewor14": 136,
     "sarutak": 143,
     "holdenk": 151,
@@ -388,7 +388,7 @@
   },
   "languages": {
     "Scala": {
-      "bytes": 26945542,
+      "bytes": 26946385,
       "color": "#c22d40"
     },
     "Java": {
@@ -468,7 +468,7 @@
       "color": "#555555"
     }
   },
-  "fetched_at": "2018-08-08T15:54:18.652Z",
+  "fetched_at": "2018-08-09T03:27:59.051Z",
   "pulls_url": "https://api.github.com/repos/apache/spark/pulls{/number}",
   "pulls_authors": [
     "techaddict",
@@ -2749,6 +2749,7 @@
     "puravaggarwal",
     "anitatailor",
     "kimballa",
-    "xoltar"
+    "xoltar",
+    "xuejianbest"
   ]
 }

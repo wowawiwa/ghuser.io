@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/elastic/kibana",
   "languages_url": "https://api.github.com/repos/elastic/kibana/languages",
   "created_at": "2013-01-26T04:00:59Z",
-  "updated_at": "2018-08-08T15:41:52Z",
-  "pushed_at": "2018-08-08T15:42:28Z",
+  "updated_at": "2018-08-08T23:00:40Z",
+  "pushed_at": "2018-08-09T01:39:51Z",
   "homepage": "https://www.elastic.co/products/kibana",
-  "size": 436577,
+  "size": 436803,
   "stargazers_count": 9832,
   "language": "JavaScript",
   "mirror_url": null,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 18265802,
+      "bytes": 18278565,
       "color": "#f1e05a"
     },
     "TypeScript": {
@@ -60,7 +60,7 @@
       "color": "#e34c26"
     },
     "CSS": {
-      "bytes": 432798,
+      "bytes": 433477,
       "color": "#563d7c"
     },
     "Shell": {
@@ -85,7 +85,7 @@
     "dadoonet": 2,
     "javanna": 2,
     "maksim-tolo": 4,
-    "mistic": 4,
+    "mistic": 5,
     "markwalkom": 3,
     "dlumbrer": 3,
     "johtani": 4,
@@ -139,7 +139,7 @@
     "justinkambic": 18,
     "azasypkin": 24,
     "snide": 22,
-    "jgowdyelastic": 53,
+    "jgowdyelastic": 54,
     "kkirsche": 18,
     "peteharverson": 30,
     "trevan": 24,
@@ -351,7 +351,7 @@
     "dedemorton": 1,
     "sunui": 1
   },
-  "fetched_at": "2018-08-08T15:54:18.652Z",
+  "fetched_at": "2018-08-09T03:27:59.051Z",
   "pulls_url": "https://api.github.com/repos/elastic/kibana/pulls{/number}",
   "pulls_authors": [
     "nreese",
@@ -978,6 +978,7 @@
     "taysu",
     "errordeveloper",
     "saez0pub",
-    "WillAbides"
+    "WillAbides",
+    "heyitsmdr"
   ]
 }

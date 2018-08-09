@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/getredash/redash",
   "languages_url": "https://api.github.com/repos/getredash/redash/languages",
   "created_at": "2013-10-28T13:19:39Z",
-  "updated_at": "2018-08-08T07:15:15Z",
-  "pushed_at": "2018-08-07T15:02:25Z",
+  "updated_at": "2018-08-09T03:31:10Z",
+  "pushed_at": "2018-08-09T03:01:03Z",
   "homepage": "http://redash.io/",
   "size": 11338,
-  "stargazers_count": 9664,
+  "stargazers_count": 9668,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -280,7 +280,7 @@
     "matsumo": 1,
     "maxv": 1
   },
-  "fetched_at": "2018-08-08T15:54:18.652Z",
+  "fetched_at": "2018-08-09T03:27:59.051Z",
   "pulls_url": "https://api.github.com/repos/getredash/redash/pulls{/number}",
   "pulls_authors": [
     "arikfr",
@@ -612,6 +612,7 @@
     "shayelkin",
     "jeremi",
     "christophervalles",
-    "yosit"
+    "yosit",
+    "combineads"
   ]
 }

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/moby/moby",
   "languages_url": "https://api.github.com/repos/moby/moby/languages",
   "created_at": "2013-01-18T18:10:57Z",
-  "updated_at": "2018-08-08T15:09:02Z",
-  "pushed_at": "2018-08-08T15:45:39Z",
+  "updated_at": "2018-08-09T02:43:00Z",
+  "pushed_at": "2018-08-09T00:30:45Z",
   "homepage": "https://mobyproject.org/",
-  "size": 137466,
-  "stargazers_count": 49852,
+  "size": 137525,
+  "stargazers_count": 49859,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "Go": {
-      "bytes": 7209165,
+      "bytes": 7210401,
       "color": "#375eab"
     },
     "Shell": {
-      "bytes": 125080,
+      "bytes": 125081,
       "color": "#89e051"
     },
     "PowerShell": {
@@ -141,7 +141,7 @@
     "jamtur01": 438,
     "rhvgoyal": 95,
     "ahmetb": 98,
-    "AkihiroSuda": 205,
+    "AkihiroSuda": 206,
     "kolyshkin": 111,
     "anusha-ragunathan": 168,
     "darstahl": 101,
@@ -160,7 +160,7 @@
     "sdurrheimer": 190,
     "shykes": 1251,
     "duglin": 411,
-    "tiborvass": 939,
+    "tiborvass": 941,
     "aaronlehmann": 341,
     "unclejack": 487,
     "SvenDowideit": 751,
@@ -187,7 +187,7 @@
     "vmarmol": 24,
     "ipbabble": 22,
     "aidanhs": 20,
-    "andrewhsu": 20,
+    "andrewhsu": 21,
     "clnperez": 20,
     "daehyeok": 20,
     "dsissitka": 20,
@@ -540,7 +540,7 @@
     "stevvooe": 65,
     "RenaudWasTaken": 5
   },
-  "fetched_at": "2018-08-08T15:54:18.652Z",
+  "fetched_at": "2018-08-09T03:27:59.051Z",
   "pulls_url": "https://api.github.com/repos/moby/moby/pulls{/number}",
   "pulls_authors": [
     "dperny",

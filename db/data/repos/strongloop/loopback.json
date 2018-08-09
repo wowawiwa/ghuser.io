@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/strongloop/loopback",
   "languages_url": "https://api.github.com/repos/strongloop/loopback/languages",
   "created_at": "2013-04-09T16:02:18Z",
-  "updated_at": "2018-08-08T15:29:30Z",
-  "pushed_at": "2018-08-08T15:23:19Z",
+  "updated_at": "2018-08-09T00:25:58Z",
+  "pushed_at": "2018-08-08T22:17:15Z",
   "homepage": "http://loopback.io",
-  "size": 8325,
-  "stargazers_count": 11446,
+  "size": 8371,
+  "stargazers_count": 11447,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -108,7 +108,7 @@
     "karlmikko": 2,
     "sumitha": 2,
     "dallonf": 2,
-    "virkt25": 4,
+    "virkt25": 7,
     "zbarbuto": 3,
     "lehni": 3,
     "rashmihunt": 3,
@@ -166,11 +166,12 @@
     "ryanxwelch": 1,
     "ssh24": 1,
     "wolrajhti": 1,
-    "seabaylea": 5
+    "seabaylea": 5,
+    "tomleah": 1
   },
   "languages": {
     "JavaScript": {
-      "bytes": 990640,
+      "bytes": 991992,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -178,7 +179,7 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-08-08T15:54:18.652Z",
+  "fetched_at": "2018-08-09T03:27:59.051Z",
   "pulls_url": "https://api.github.com/repos/strongloop/loopback/pulls{/number}",
   "pulls_authors": [
     "ivanschwarz",

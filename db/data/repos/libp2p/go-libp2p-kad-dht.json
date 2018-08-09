@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/libp2p/go-libp2p-kad-dht",
   "languages_url": "https://api.github.com/repos/libp2p/go-libp2p-kad-dht/languages",
   "created_at": "2016-08-21T18:40:35Z",
-  "updated_at": "2018-08-08T10:10:56Z",
-  "pushed_at": "2018-08-08T09:17:41Z",
+  "updated_at": "2018-08-09T03:09:48Z",
+  "pushed_at": "2018-08-09T02:21:16Z",
   "homepage": "",
-  "size": 1065,
-  "stargazers_count": 108,
+  "size": 1066,
+  "stargazers_count": 110,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "Go": {
-      "bytes": 143746,
+      "bytes": 143498,
       "color": "#375eab"
     },
     "Makefile": {
-      "bytes": 414,
+      "bytes": 381,
       "color": "#427819"
     },
     "Groovy": {
@@ -87,7 +87,7 @@
     "rht": 7,
     "dirkmc": 8,
     "Kubuxu": 16,
-    "Stebalien": 90,
+    "Stebalien": 92,
     "jbenet": 163,
     "whyrusleeping": 289,
     "zaibon": 1,
@@ -95,7 +95,7 @@
     "vyzo": 7,
     "gpestana": 2
   },
-  "fetched_at": "2018-08-08T15:54:18.652Z",
+  "fetched_at": "2018-08-09T03:27:59.051Z",
   "pulls_url": "https://api.github.com/repos/libp2p/go-libp2p-kad-dht/pulls{/number}",
   "pulls_authors": [
     "marten-seemann",

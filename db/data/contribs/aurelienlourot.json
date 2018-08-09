@@ -1,6 +1,19 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
   "repos": {
+    "AurelienLourot/AurelienLourot.github.io": {
+      "full_name": "AurelienLourot/AurelienLourot.github.io",
+      "name": "AurelienLourot.github.io",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 3.0739847489453496,
+      "total_commits_count": 158,
+      "activity": 5,
+      "total_score": 11.1479694978907,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
     "AurelienLourot/crouton-articles": {
       "full_name": "AurelienLourot/crouton-articles",
       "name": "crouton-articles",
@@ -45,11 +58,11 @@
       "name": "ghuser.io",
       "stargazers_count": 31,
       "popularity": 2.478605454390306,
-      "percentage": 98.76543209876543,
-      "maturity": 3.4552069423877794,
-      "total_commits_count": 324,
+      "percentage": 98.77300613496932,
+      "maturity": 3.4582535707339677,
+      "total_commits_count": 326,
       "activity": 5,
-      "total_score": 51.170300279624485,
+      "total_score": 51.17883403248493,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -225,13 +238,13 @@
     "dnschneid/crouton": {
       "full_name": "dnschneid/crouton",
       "name": "crouton",
-      "stargazers_count": 6712,
-      "popularity": 4.8268327982214645,
+      "stargazers_count": 6713,
+      "popularity": 4.8268975062617665,
       "percentage": 0.06246096189881324,
       "maturity": 4.195166931334593,
       "total_commits_count": 1601,
       "activity": 5,
-      "total_score": 27.910025777868796,
+      "total_score": 27.91022042741414,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -329,13 +342,13 @@
     "jordansissel/xdotool": {
       "full_name": "jordansissel/xdotool",
       "name": "xdotool",
-      "stargazers_count": 668,
-      "popularity": 3.8242300234466313,
+      "stargazers_count": 669,
+      "popularity": 3.8248805545565183,
       "percentage": 0.5474452554744526,
       "maturity": 3.707685172474404,
       "total_commits_count": 548,
-      "activity": 5,
-      "total_score": 24.16022277097195,
+      "activity": 2.920623929102135,
+      "total_score": 22.0828445903258,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -394,13 +407,13 @@
     "tianshanghong/awesome-anki": {
       "full_name": "tianshanghong/awesome-anki",
       "name": "awesome-anki",
-      "stargazers_count": 35,
-      "popularity": 2.532793353021433,
+      "stargazers_count": 36,
+      "popularity": 2.5453460937604104,
       "percentage": 37.5,
       "maturity": 0,
       "total_commits_count": 24,
       "activity": 5,
-      "total_score": 24.945747655043782,
+      "total_score": 25.044600488363233,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

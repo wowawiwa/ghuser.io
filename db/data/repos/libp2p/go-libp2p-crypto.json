@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/libp2p/go-libp2p-crypto",
   "languages_url": "https://api.github.com/repos/libp2p/go-libp2p-crypto/languages",
   "created_at": "2016-04-11T23:38:41Z",
-  "updated_at": "2018-07-27T05:10:51Z",
-  "pushed_at": "2018-07-27T05:10:49Z",
+  "updated_at": "2018-08-09T01:12:11Z",
+  "pushed_at": "2018-08-09T01:12:13Z",
   "homepage": "",
-  "size": 97,
+  "size": 105,
   "stargazers_count": 21,
   "language": "Go",
   "mirror_url": null,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "Go": {
-      "bytes": 24467,
+      "bytes": 24453,
       "color": "#375eab"
     },
     "Makefile": {
-      "bytes": 354,
+      "bytes": 405,
       "color": "#427819"
     }
   },
@@ -68,13 +68,14 @@
     "Coderlane": 4,
     "RichardLitt": 4,
     "Kubuxu": 5,
-    "Stebalien": 10,
+    "Stebalien": 12,
     "lgierth": 6,
     "kevina": 7,
     "whyrusleeping": 29,
-    "dignifiedquire": 1
+    "dignifiedquire": 1,
+    "vyzo": 4
   },
-  "fetched_at": "2018-07-27T17:48:38.221Z",
+  "fetched_at": "2018-08-09T03:27:59.051Z",
   "pulls_url": "https://api.github.com/repos/libp2p/go-libp2p-crypto/pulls{/number}",
   "pulls_authors": [
     "adam-hanna",

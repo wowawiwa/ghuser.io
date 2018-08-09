@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/diasdavid/awesome-hacking-spots",
   "languages_url": "https://api.github.com/repos/diasdavid/awesome-hacking-spots/languages",
   "created_at": "2016-01-10T12:31:42Z",
-  "updated_at": "2018-08-06T14:37:01Z",
-  "pushed_at": "2018-08-02T18:59:06Z",
+  "updated_at": "2018-08-08T21:06:19Z",
+  "pushed_at": "2018-08-08T21:06:18Z",
   "homepage": "",
-  "size": 267,
+  "size": 289,
   "stargazers_count": 634,
   "language": null,
   "mirror_url": null,
@@ -92,9 +92,10 @@
     "nikolenkoanton92": 16,
     "RichardLitt": 25,
     "diasdavid": 30,
-    "al2699": 1
+    "al2699": 1,
+    "johnsardine": 1
   },
-  "fetched_at": "2018-08-06T18:44:54.295Z",
+  "fetched_at": "2018-08-09T03:27:59.051Z",
   "pulls_url": "https://api.github.com/repos/diasdavid/awesome-hacking-spots/pulls{/number}",
   "pulls_authors": [
     "rgllm",
@@ -166,6 +167,7 @@
     "nicola",
     "developit",
     "whyrusleeping",
-    "AnthonyTsang"
+    "AnthonyTsang",
+    "johnsardine"
   ]
 }

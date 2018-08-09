@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/nodejs/node",
   "languages_url": "https://api.github.com/repos/nodejs/node/languages",
   "created_at": "2014-11-26T19:57:11Z",
-  "updated_at": "2018-08-08T15:48:37Z",
-  "pushed_at": "2018-08-08T14:30:44Z",
+  "updated_at": "2018-08-09T02:58:31Z",
+  "pushed_at": "2018-08-09T00:52:15Z",
   "homepage": "https://nodejs.org",
-  "size": 399375,
-  "stargazers_count": 52093,
+  "size": 399505,
+  "stargazers_count": 52104,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 6755998,
+      "bytes": 6755622,
       "color": "#f1e05a"
     },
     "C++": {
-      "bytes": 2464135,
+      "bytes": 2464066,
       "color": "#f34b7d"
     },
     "Python": {
@@ -151,7 +151,7 @@
     "miksago": 45,
     "edsadr": 46,
     "vkurchatkin": 46,
-    "devsnek": 54,
+    "devsnek": 55,
     "seishun": 48,
     "watilde": 48,
     "maclover7": 68,
@@ -170,7 +170,7 @@
     "silverwind": 89,
     "refack": 91,
     "AndreasMadsen": 103,
-    "tniessen": 116,
+    "tniessen": 118,
     "ofrobots": 117,
     "mhdawson": 122,
     "felixge": 124,
@@ -185,7 +185,7 @@
     "TooTallNate": 197,
     "joyeecheung": 224,
     "targos": 279,
-    "vsemozhetbyt": 275,
+    "vsemozhetbyt": 276,
     "tjfontaine": 332,
     "BridgeAR": 325,
     "mscdex": 318,
@@ -195,9 +195,9 @@
     "cjihrig": 385,
     "jasnell": 497,
     "piscisaureus": 598,
-    "addaleax": 662,
+    "addaleax": 664,
     "indutny": 755,
-    "Trott": 1306,
+    "Trott": 1308,
     "isaacs": 1647,
     "bnoordhuis": 2138,
     "ry": 3021,
@@ -221,7 +221,7 @@
     "trentm": 16,
     "davidmarkclements": 15,
     "DrPizza": 15,
-    "richardlau": 15,
+    "richardlau": 16,
     "eljefedelrodeodeljefe": 15,
     "tj": 15,
     "MoonBall": 13,
@@ -570,7 +570,7 @@
     "kenny-y": 3,
     "antsmartian": 4
   },
-  "fetched_at": "2018-08-08T15:54:18.652Z",
+  "fetched_at": "2018-08-09T03:27:59.051Z",
   "pulls_url": "https://api.github.com/repos/nodejs/node/pulls{/number}",
   "pulls_authors": [
     "mmarchini",
@@ -2766,6 +2766,7 @@
     "xjamundx",
     "maxogden",
     "oygen87",
-    "mhamwala"
+    "mhamwala",
+    "kylef"
   ]
 }

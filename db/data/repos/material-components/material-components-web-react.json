@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/material-components/material-components-web-react",
   "languages_url": "https://api.github.com/repos/material-components/material-components-web-react/languages",
   "created_at": "2018-03-06T19:42:24Z",
-  "updated_at": "2018-08-08T19:24:45Z",
-  "pushed_at": "2018-08-08T18:18:23Z",
+  "updated_at": "2018-08-08T21:02:52Z",
+  "pushed_at": "2018-08-08T22:19:10Z",
   "homepage": "",
-  "size": 2396,
+  "size": 2171,
   "stargazers_count": 560,
   "language": "JavaScript",
   "mirror_url": null,
@@ -59,14 +59,14 @@
     "patrickrodee": 5,
     "lynnjepsen": 11,
     "williamernest": 25,
-    "moog16": 72,
-    "simsim0709": 1,
+    "moog16": 74,
+    "simsim0709": 2,
     "wesleyabbey": 1,
     "ockham": 1
   },
   "languages": {
     "JavaScript": {
-      "bytes": 235471,
+      "bytes": 236221,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -86,7 +86,7 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-08T19:30:39.036Z",
+  "fetched_at": "2018-08-09T03:27:59.051Z",
   "pulls_url": "https://api.github.com/repos/material-components/material-components-web-react/pulls{/number}",
   "pulls_authors": [
     "moog16",

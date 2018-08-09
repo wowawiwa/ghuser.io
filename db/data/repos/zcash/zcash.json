@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/zcash/zcash",
   "languages_url": "https://api.github.com/repos/zcash/zcash/languages",
   "created_at": "2014-11-22T03:13:10Z",
-  "updated_at": "2018-08-08T14:39:41Z",
-  "pushed_at": "2018-08-08T14:39:28Z",
+  "updated_at": "2018-08-09T00:13:26Z",
+  "pushed_at": "2018-08-09T00:13:15Z",
   "homepage": "https://z.cash/",
-  "size": 64255,
+  "size": 64305,
   "stargazers_count": 3781,
   "language": "C++",
   "mirror_url": null,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "C++": {
-      "bytes": 5534397,
+      "bytes": 5534652,
       "color": "#f34b7d"
     },
     "Python": {
-      "bytes": 712188,
+      "bytes": 712968,
       "color": "#3572A5"
     },
     "C": {
@@ -153,7 +153,7 @@
     "codler": 10,
     "wizeman": 10,
     "wtogami": 12,
-    "Eirik0": 34,
+    "Eirik0": 36,
     "MarcoFalke": 13,
     "dgenr8": 13,
     "dexX7": 13,
@@ -193,7 +193,7 @@
     "sipa": 966,
     "str4d": 804,
     "laanwj": 2818,
-    "zkbot": 392,
+    "zkbot": 393,
     "Michagogo": 24,
     "roybadami": 5,
     "vinniefalco": 5,
@@ -459,7 +459,7 @@
     "rex4539": 1,
     "pejvan": 2
   },
-  "fetched_at": "2018-08-08T15:54:18.652Z",
+  "fetched_at": "2018-08-09T03:27:59.051Z",
   "pulls_url": "https://api.github.com/repos/zcash/zcash/pulls{/number}",
   "pulls_authors": [
     "leto",
@@ -563,6 +563,7 @@
     "loxal",
     "mattherman",
     "jzbz",
-    "eliteraspberries"
+    "eliteraspberries",
+    "zancas"
   ]
 }

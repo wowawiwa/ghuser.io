@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/multiformats/java-multibase",
   "languages_url": "https://api.github.com/repos/multiformats/java-multibase/languages",
   "created_at": "2016-12-11T16:18:32Z",
-  "updated_at": "2018-04-10T11:00:03Z",
-  "pushed_at": "2018-07-17T18:28:03Z",
+  "updated_at": "2018-08-08T20:00:54Z",
+  "pushed_at": "2018-08-08T20:00:53Z",
   "homepage": null,
-  "size": 327,
+  "size": 329,
   "stargazers_count": 5,
   "language": "Java",
   "mirror_url": null,
@@ -56,9 +56,10 @@
     "RichardLitt": 1,
     "ianopolous": 3,
     "sic2": 4,
-    "celeduc": 4
+    "celeduc": 4,
+    "tdiesler": 2
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "fetched_at": "2018-08-09T03:27:59.051Z",
   "pulls_url": "https://api.github.com/repos/multiformats/java-multibase/pulls{/number}",
   "pulls_authors": [
     "tdiesler",

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/libp2p/go-libp2p",
   "languages_url": "https://api.github.com/repos/libp2p/go-libp2p/languages",
   "created_at": "2015-09-30T23:24:32Z",
-  "updated_at": "2018-08-08T15:17:25Z",
-  "pushed_at": "2018-08-06T21:52:32Z",
+  "updated_at": "2018-08-09T02:46:09Z",
+  "pushed_at": "2018-08-09T02:20:29Z",
   "homepage": "",
-  "size": 8134,
-  "stargazers_count": 1546,
+  "size": 8151,
+  "stargazers_count": 1547,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -52,7 +52,7 @@
       "color": "#375eab"
     },
     "Makefile": {
-      "bytes": 359,
+      "bytes": 343,
       "color": "#427819"
     },
     "Groovy": {
@@ -104,7 +104,7 @@
     "diasdavid": 17,
     "lgierth": 21,
     "avive": 26,
-    "Stebalien": 72,
+    "Stebalien": 75,
     "jbenet": 125,
     "whyrusleeping": 248,
     "qidu": 1,
@@ -112,7 +112,7 @@
     "vyzo": 9,
     "gpestana": 1
   },
-  "fetched_at": "2018-08-08T15:54:18.652Z",
+  "fetched_at": "2018-08-09T03:27:59.051Z",
   "pulls_url": "https://api.github.com/repos/libp2p/go-libp2p/pulls{/number}",
   "pulls_authors": [
     "gpestana",

@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/multiformats/java-multiaddr",
   "languages_url": "https://api.github.com/repos/multiformats/java-multiaddr/languages",
   "created_at": "2016-10-09T16:43:54Z",
-  "updated_at": "2018-06-28T08:45:26Z",
-  "pushed_at": "2018-06-24T14:20:36Z",
+  "updated_at": "2018-08-08T19:58:44Z",
+  "pushed_at": "2018-08-08T19:58:42Z",
   "homepage": null,
-  "size": 366,
+  "size": 367,
   "stargazers_count": 8,
   "language": "Java",
   "mirror_url": null,
@@ -56,9 +56,10 @@
     "gjeanmart": 1,
     "RichardLitt": 2,
     "celeduc": 6,
-    "ianopolous": 8
+    "ianopolous": 8,
+    "tdiesler": 1
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "fetched_at": "2018-08-09T03:27:59.051Z",
   "pulls_url": "https://api.github.com/repos/multiformats/java-multiaddr/pulls{/number}",
   "pulls_authors": [
     "tdiesler",

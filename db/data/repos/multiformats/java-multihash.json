@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/multiformats/java-multihash",
   "languages_url": "https://api.github.com/repos/multiformats/java-multihash/languages",
   "created_at": "2016-10-09T15:58:48Z",
-  "updated_at": "2018-05-26T00:50:59Z",
-  "pushed_at": "2018-07-17T18:28:50Z",
+  "updated_at": "2018-08-08T20:01:42Z",
+  "pushed_at": "2018-08-08T20:01:40Z",
   "homepage": null,
-  "size": 351,
+  "size": 353,
   "stargazers_count": 14,
   "language": "Java",
   "mirror_url": null,
@@ -56,9 +56,10 @@
     "sic2": 3,
     "RichardLitt": 3,
     "ianopolous": 7,
-    "celeduc": 30
+    "celeduc": 30,
+    "tdiesler": 3
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "fetched_at": "2018-08-09T03:27:59.051Z",
   "pulls_url": "https://api.github.com/repos/multiformats/java-multihash/pulls{/number}",
   "pulls_authors": [
     "tdiesler",
