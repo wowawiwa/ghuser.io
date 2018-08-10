@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/nodejs/node",
   "languages_url": "https://api.github.com/repos/nodejs/node/languages",
   "created_at": "2014-11-26T19:57:11Z",
-  "updated_at": "2018-08-09T16:13:21Z",
-  "pushed_at": "2018-08-09T15:45:21Z",
+  "updated_at": "2018-08-10T04:23:48Z",
+  "pushed_at": "2018-08-10T03:46:03Z",
   "homepage": "https://nodejs.org",
-  "size": 399581,
-  "stargazers_count": 52124,
+  "size": 399822,
+  "stargazers_count": 52134,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 6754433,
+      "bytes": 6756769,
       "color": "#f1e05a"
     },
     "C++": {
-      "bytes": 2464083,
+      "bytes": 2464085,
       "color": "#f34b7d"
     },
     "Python": {
@@ -68,7 +68,7 @@
       "color": "#e34c26"
     },
     "Makefile": {
-      "bytes": 43162,
+      "bytes": 42909,
       "color": "#427819"
     },
     "DTrace": {
@@ -190,10 +190,10 @@
     "BridgeAR": 328,
     "mscdex": 318,
     "rvagg": 320,
-    "danbev": 337,
+    "danbev": 338,
     "trevnorris": 363,
     "cjihrig": 385,
-    "jasnell": 498,
+    "jasnell": 500,
     "piscisaureus": 598,
     "addaleax": 664,
     "indutny": 755,
@@ -571,7 +571,7 @@
     "antsmartian": 4,
     "jquynh": 5
   },
-  "fetched_at": "2018-08-09T16:35:43.594Z",
+  "fetched_at": "2018-08-10T04:33:54.319Z",
   "pulls_url": "https://api.github.com/repos/nodejs/node/pulls{/number}",
   "pulls_authors": [
     "mmarchini",

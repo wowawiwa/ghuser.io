@@ -19,11 +19,11 @@
   "url": "https://api.github.com/repos/nbedos/termtosvg",
   "languages_url": "https://api.github.com/repos/nbedos/termtosvg/languages",
   "created_at": "2018-06-09T13:52:09Z",
-  "updated_at": "2018-08-09T15:13:59Z",
-  "pushed_at": "2018-08-05T20:39:06Z",
+  "updated_at": "2018-08-10T03:50:44Z",
+  "pushed_at": "2018-08-09T20:55:36Z",
   "homepage": "https://nbedos.github.io/termtosvg/",
   "size": 639,
-  "stargazers_count": 6216,
+  "stargazers_count": 6225,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -45,7 +45,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-09T16:35:43.594Z",
+  "fetched_at": "2018-08-10T04:33:54.319Z",
   "pulls_url": "https://api.github.com/repos/nbedos/termtosvg/pulls{/number}",
   "pulls_authors": [
     "Rondom",
@@ -62,6 +62,7 @@
     "Razikus",
     "cmpt376edits",
     "simos",
-    "jwilk"
+    "jwilk",
+    "nnist"
   ]
 }

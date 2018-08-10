@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/github/linguist",
   "languages_url": "https://api.github.com/repos/github/linguist/languages",
   "created_at": "2011-05-09T22:53:13Z",
-  "updated_at": "2018-08-09T12:54:12Z",
+  "updated_at": "2018-08-09T18:31:48Z",
   "pushed_at": "2018-08-09T06:18:28Z",
   "homepage": "",
   "size": 34301,
-  "stargazers_count": 5934,
+  "stargazers_count": 5935,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -502,7 +502,7 @@
     "tenderlove": 1,
     "AlexFence": 1
   },
-  "fetched_at": "2018-08-09T16:35:43.594Z",
+  "fetched_at": "2018-08-10T04:33:54.319Z",
   "pulls_url": "https://api.github.com/repos/github/linguist/pulls{/number}",
   "pulls_authors": [
     "smola",

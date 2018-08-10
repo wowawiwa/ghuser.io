@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/rails/rails",
   "languages_url": "https://api.github.com/repos/rails/rails/languages",
   "created_at": "2008-04-11T02:19:47Z",
-  "updated_at": "2018-08-09T14:06:04Z",
-  "pushed_at": "2018-08-09T16:12:10Z",
+  "updated_at": "2018-08-10T04:01:07Z",
+  "pushed_at": "2018-08-10T03:37:41Z",
   "homepage": "https://rubyonrails.org",
-  "size": 165158,
-  "stargazers_count": 40485,
+  "size": 165163,
+  "stargazers_count": 40489,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "Ruby": {
-      "bytes": 11980982,
+      "bytes": 11981208,
       "color": "#701516"
     },
     "HTML": {
@@ -128,13 +128,13 @@
     "fcheung": 149,
     "yhirano55": 147,
     "smartinez87": 148,
-    "yahonda": 150,
+    "yahonda": 151,
     "lukaszx0": 154,
     "claudiob": 260,
     "bogdanvlviv": 191,
     "arthurnn": 384,
-    "robin850": 278,
-    "georgeclaghorn": 333,
+    "robin850": 280,
+    "georgeclaghorn": 335,
     "sikachu": 208,
     "zzak": 443,
     "mikel": 238,
@@ -170,7 +170,7 @@
     "carlosantoniodasilva": 1449,
     "lifo": 993,
     "josh": 1109,
-    "kamipo": 1547,
+    "kamipo": 1548,
     "josevalim": 2574,
     "fxn": 2197,
     "rafaelfranca": 5708,
@@ -290,7 +290,7 @@
     "route": 17,
     "Erol": 17,
     "evanfarrar": 17,
-    "mohitnatoo": 17,
+    "mohitnatoo": 18,
     "cllns": 17,
     "yaroslav": 17,
     "thewoolleyman": 16,
@@ -464,7 +464,7 @@
     "bdewater": 15,
     "ptoomey3": 8
   },
-  "fetched_at": "2018-08-09T16:35:43.594Z",
+  "fetched_at": "2018-08-10T04:33:54.319Z",
   "pulls_url": "https://api.github.com/repos/rails/rails/pulls{/number}",
   "pulls_authors": [
     "Ana06",
@@ -5232,6 +5232,7 @@
     "marsuboss",
     "seratch",
     "eric-hemasystems",
-    "jasonroelofs"
+    "jasonroelofs",
+    "CristopherVidalMachado"
   ]
 }

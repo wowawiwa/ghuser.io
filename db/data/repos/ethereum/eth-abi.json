@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/ethereum/eth-abi",
   "languages_url": "https://api.github.com/repos/ethereum/eth-abi/languages",
   "created_at": "2016-02-19T20:18:56Z",
-  "updated_at": "2018-07-31T09:27:45Z",
-  "pushed_at": "2018-07-30T18:59:50Z",
+  "updated_at": "2018-08-09T22:07:34Z",
+  "pushed_at": "2018-08-09T22:07:32Z",
   "homepage": null,
-  "size": 557,
+  "size": 581,
   "stargazers_count": 53,
   "language": "Python",
   "mirror_url": null,
@@ -52,11 +52,12 @@
     "dylanjw": 6,
     "carver": 39,
     "pipermerriam": 53,
-    "davesque": 128
+    "davesque": 135,
+    "tristan": 1
   },
   "languages": {
     "Python": {
-      "bytes": 154965,
+      "bytes": 156867,
       "color": "#3572A5"
     },
     "Makefile": {
@@ -68,7 +69,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-07-31T15:31:47.919Z",
+  "fetched_at": "2018-08-10T04:33:54.319Z",
   "pulls_url": "https://api.github.com/repos/ethereum/eth-abi/pulls{/number}",
   "pulls_authors": [
     "davesque",
@@ -78,6 +79,7 @@
     "tintinweb",
     "movermeyer",
     "pipermerriam",
-    "ericssonaxel"
+    "ericssonaxel",
+    "tristan"
   ]
 }

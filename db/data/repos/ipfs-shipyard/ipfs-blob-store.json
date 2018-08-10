@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/ipfs-shipyard/ipfs-blob-store",
   "languages_url": "https://api.github.com/repos/ipfs-shipyard/ipfs-blob-store/languages",
   "created_at": "2015-06-02T17:46:07Z",
-  "updated_at": "2018-07-30T06:53:37Z",
-  "pushed_at": "2018-07-19T21:47:27Z",
+  "updated_at": "2018-08-09T18:06:18Z",
+  "pushed_at": "2018-08-09T18:11:33Z",
   "homepage": "",
-  "size": 1681,
+  "size": 1685,
   "stargazers_count": 39,
   "language": "JavaScript",
   "mirror_url": null,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 4720,
+      "bytes": 3931,
       "color": "#f1e05a"
     },
     "Groovy": {
@@ -57,7 +57,7 @@
     }
   },
   "contributors": {
-    "achingbrain": 2,
+    "achingbrain": 3,
     "dignifiedquire": 1,
     "RichardLitt": 1,
     "noffle": 1,
@@ -65,7 +65,7 @@
     "travisperson": 7,
     "diasdavid": 40
   },
-  "fetched_at": "2018-07-30T08:17:52.801Z",
+  "fetched_at": "2018-08-10T04:33:54.319Z",
   "pulls_url": "https://api.github.com/repos/ipfs-shipyard/ipfs-blob-store/pulls{/number}",
   "pulls_authors": [
     "achingbrain",

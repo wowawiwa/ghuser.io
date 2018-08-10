@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/deanoemcke/thegreatsuspender",
   "languages_url": "https://api.github.com/repos/deanoemcke/thegreatsuspender/languages",
   "created_at": "2012-09-12T00:41:30Z",
-  "updated_at": "2018-08-09T03:52:30Z",
-  "pushed_at": "2018-08-09T01:18:21Z",
+  "updated_at": "2018-08-10T00:36:09Z",
+  "pushed_at": "2018-08-09T20:52:08Z",
   "homepage": "https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg/",
-  "size": 5673,
-  "stargazers_count": 1769,
+  "size": 5690,
+  "stargazers_count": 1770,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -28,11 +28,11 @@
   "default_branch": "master",
   "languages": {
     "JavaScript": {
-      "bytes": 677067,
+      "bytes": 677260,
       "color": "#f1e05a"
     },
     "HTML": {
-      "bytes": 29300,
+      "bytes": 29259,
       "color": "#e34c26"
     },
     "CSS": {
@@ -64,10 +64,10 @@
     "mariospr": 16,
     "greduan": 23,
     "liamjohnston": 67,
-    "deanoemcke": 556,
+    "deanoemcke": 561,
     "hermanho": 3
   },
-  "fetched_at": "2018-08-09T16:35:43.594Z",
+  "fetched_at": "2018-08-10T04:33:54.319Z",
   "pulls_url": "https://api.github.com/repos/deanoemcke/thegreatsuspender/pulls{/number}",
   "pulls_authors": [
     "liamjohnston",

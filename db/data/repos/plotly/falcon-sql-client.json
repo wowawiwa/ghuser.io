@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/plotly/falcon-sql-client",
   "languages_url": "https://api.github.com/repos/plotly/falcon-sql-client/languages",
   "created_at": "2016-05-12T01:03:48Z",
-  "updated_at": "2018-08-08T23:41:58Z",
-  "pushed_at": "2018-08-09T00:11:06Z",
+  "updated_at": "2018-08-09T23:55:58Z",
+  "pushed_at": "2018-08-09T23:56:28Z",
   "homepage": "https://plot.ly/free-sql-client-download/",
-  "size": 12375,
-  "stargazers_count": 566,
+  "size": 12381,
+  "stargazers_count": 565,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 734743,
+      "bytes": 744805,
       "color": "#f1e05a"
     },
     "CSS": {
@@ -73,7 +73,7 @@
     }
   },
   "contributors": {
-    "briandennis": 29,
+    "briandennis": 39,
     "alvaroabascar": 1,
     "mperreux": 1,
     "bpostlethwaite": 1,
@@ -85,13 +85,13 @@
     "rmoestl": 57,
     "tarzzz": 180,
     "chriddyp": 265,
-    "n-riesco": 318,
+    "n-riesco": 319,
     "alexandresobolevski": 497,
-    "mfix22": 45,
-    "jakedex": 15,
+    "mfix22": 61,
+    "jakedex": 16,
     "nicolaskruchten": 1
   },
-  "fetched_at": "2018-08-09T03:27:59.051Z",
+  "fetched_at": "2018-08-10T04:33:54.319Z",
   "pulls_url": "https://api.github.com/repos/plotly/falcon-sql-client/pulls{/number}",
   "pulls_authors": [
     "briandennis",

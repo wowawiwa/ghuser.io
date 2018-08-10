@@ -30,13 +30,13 @@
     "coala/coala": {
       "full_name": "coala/coala",
       "name": "coala",
-      "stargazers_count": 2341,
-      "popularity": 4.36927350358979,
+      "stargazers_count": 2344,
+      "popularity": 4.36982991101588,
       "percentage": 0.04927322000492732,
       "maturity": 4.605865087585323,
       "total_commits_count": 4059,
       "activity": 5,
-      "total_score": 27.34753814863855,
+      "total_score": 27.349210934994932,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -60,9 +60,9 @@
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
-      "total_commits_count": 5,
-      "activity": 1.3766461002416963,
-      "total_score": 1.3766461002416963,
+      "total_commits_count": 7,
+      "activity": 5,
+      "total_score": 5,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -128,6 +128,19 @@
       "total_commits_count": 246,
       "activity": 5,
       "total_score": 19.819920625828765,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Naveenaidu/articles": {
+      "full_name": "Naveenaidu/articles",
+      "name": "articles",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 3,
+      "activity": 5,
+      "total_score": 5,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

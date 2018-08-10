@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/zeit/next.js",
   "languages_url": "https://api.github.com/repos/zeit/next.js/languages",
   "created_at": "2016-10-05T23:32:51Z",
-  "updated_at": "2018-08-09T15:40:01Z",
-  "pushed_at": "2018-08-09T08:28:47Z",
+  "updated_at": "2018-08-10T04:35:33Z",
+  "pushed_at": "2018-08-09T22:32:23Z",
   "homepage": "https://nextjs.org",
   "size": 7457,
-  "stargazers_count": 27894,
+  "stargazers_count": 27913,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 352623,
+      "bytes": 354833,
       "color": "#f1e05a"
     },
     "TypeScript": {
@@ -102,7 +102,7 @@
     "evenchange4": 3,
     "klyburke": 3,
     "DevSpeak": 3,
-    "tim-phillips": 3,
+    "tim-phillips": 4,
     "wesbos": 3,
     "shalzz": 3,
     "sarovin": 3,
@@ -136,7 +136,7 @@
     "jaydenseric": 5,
     "cncolder": 5,
     "lfades": 6,
-    "HaNdTriX": 10,
+    "HaNdTriX": 11,
     "ptomasroos": 6,
     "giuseppeg": 6,
     "timoxley": 6,
@@ -546,7 +546,7 @@
     "martyla": 1,
     "sahalsajjad": 1
   },
-  "fetched_at": "2018-08-09T16:35:43.594Z",
+  "fetched_at": "2018-08-10T04:33:54.319Z",
   "pulls_url": "https://api.github.com/repos/zeit/next.js/pulls{/number}",
   "pulls_authors": [
     "connor-baer",
@@ -1212,6 +1212,7 @@
     "jisaacks",
     "paulgrock",
     "jpadilla",
-    "sahalsajjad"
+    "sahalsajjad",
+    "allpwrfulroot"
   ]
 }

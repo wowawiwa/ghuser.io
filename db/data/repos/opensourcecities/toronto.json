@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/opensourcecities/toronto",
   "languages_url": "https://api.github.com/repos/opensourcecities/toronto/languages",
   "created_at": "2017-04-30T19:07:45Z",
-  "updated_at": "2018-07-29T21:54:18Z",
-  "pushed_at": "2018-07-29T21:57:21Z",
+  "updated_at": "2018-08-09T20:52:32Z",
+  "pushed_at": "2018-08-09T21:30:17Z",
   "homepage": "https://opensourcecities.github.io/toronto/",
-  "size": 6793,
+  "size": 6820,
   "stargazers_count": 33,
   "language": "Shell",
   "mirror_url": null,
@@ -57,7 +57,7 @@
     }
   },
   "contributors": {
-    "RichardLitt": 1,
+    "RichardLitt": 4,
     "zachgoldstein": 1,
     "mbonsma": 1,
     "acabunoc": 1,
@@ -68,7 +68,7 @@
     "dxnn": 5,
     "khos2ow": 14
   },
-  "fetched_at": "2018-07-29T22:07:46.447Z",
+  "fetched_at": "2018-08-10T04:33:54.319Z",
   "pulls_url": "https://api.github.com/repos/opensourcecities/toronto/pulls{/number}",
   "pulls_authors": [
     "khos2ow",

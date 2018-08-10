@@ -99,7 +99,7 @@
     "mmcc": 117,
     "misteroneill": 101,
     "dmlap": 121,
-    "gkatsev": 564,
+    "gkatsev": 565,
     "heff": 1299,
     "squarebracket": 2,
     "OshinKaramian": 2,
@@ -326,11 +326,11 @@
   "url": "https://api.github.com/repos/videojs/video.js",
   "languages_url": "https://api.github.com/repos/videojs/video.js/languages",
   "created_at": "2010-05-14T18:45:10Z",
-  "updated_at": "2018-08-09T14:21:15Z",
-  "pushed_at": "2018-08-07T19:42:31Z",
+  "updated_at": "2018-08-10T03:57:35Z",
+  "pushed_at": "2018-08-09T21:59:20Z",
   "homepage": "www.videojs.com",
-  "size": 117755,
-  "stargazers_count": 22141,
+  "size": 117919,
+  "stargazers_count": 22143,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -380,7 +380,7 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-08-09T16:35:43.594Z",
+  "fetched_at": "2018-08-10T04:33:54.319Z",
   "pulls_url": "https://api.github.com/repos/videojs/video.js/pulls{/number}",
   "pulls_authors": [
     "greenkeeper[bot]",
