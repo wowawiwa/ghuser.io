@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/Rhilip/PT-help/languages",
   "pulls_url": "https://api.github.com/repos/Rhilip/PT-help/pulls{/number}",
   "created_at": "2017-08-27T14:22:52Z",
-  "updated_at": "2018-08-08T22:23:34Z",
-  "pushed_at": "2018-08-09T13:18:50Z",
+  "updated_at": "2018-08-10T14:14:02Z",
+  "pushed_at": "2018-08-10T14:14:00Z",
   "homepage": null,
-  "size": 5243,
+  "size": 5250,
   "stargazers_count": 46,
   "language": "Python",
   "mirror_url": null,
@@ -29,7 +29,8 @@
   "default_branch": "master",
   "contributors": {
     "tongyifan": 1,
-    "Rhilip": 300
+    "Rhilip": 301,
+    "wei": 1
   },
   "pulls_authors": [
     "wei",
@@ -37,9 +38,9 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 47329,
+      "bytes": 47792,
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-08-09T16:35:43.594Z"
+  "fetched_at": "2018-08-10T16:47:20.072Z"
 }

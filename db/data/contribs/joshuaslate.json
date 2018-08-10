@@ -1,0 +1,139 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "postlight/headless-wp-starter": {
+      "full_name": "postlight/headless-wp-starter",
+      "name": "headless-wp-starter",
+      "stargazers_count": 1847,
+      "popularity": 4.266294308833656,
+      "percentage": 0,
+      "maturity": 2.859669179921282,
+      "total_commits_count": 112,
+      "activity": 5,
+      "total_score": 23.518221286343532,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "joshuaslate/node-yelp-api": {
+      "full_name": "joshuaslate/node-yelp-api",
+      "name": "node-yelp-api",
+      "stargazers_count": 4,
+      "popularity": 1.49139952161816,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 11,
+      "activity": 5,
+      "total_score": 28.86239234589056,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "joshuaslate/node-tax-api": {
+      "full_name": "joshuaslate/node-tax-api",
+      "name": "node-tax-api",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 8,
+      "activity": 5,
+      "total_score": 5,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "joshuaslate/type-cacheable": {
+      "full_name": "joshuaslate/type-cacheable",
+      "name": "type-cacheable",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 14,
+      "activity": 5,
+      "total_score": 21.662851527087042,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "joshuaslate/mkrn-starter": {
+      "full_name": "joshuaslate/mkrn-starter",
+      "name": "mkrn-starter",
+      "stargazers_count": 45,
+      "popularity": 2.64447758948869,
+      "percentage": 96.875,
+      "maturity": 0,
+      "total_commits_count": 32,
+      "activity": 1.4609902926485518,
+      "total_score": 42.69831270373781,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "joshuaslate/mern-starter": {
+      "full_name": "joshuaslate/mern-starter",
+      "name": "mern-starter",
+      "stargazers_count": 379,
+      "popularity": 3.5776457556780956,
+      "percentage": 85.71428571428571,
+      "maturity": 1.9607586681802867,
+      "total_commits_count": 49,
+      "activity": 1.3830106232316348,
+      "total_score": 55.9026607898967,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "fabiorphp/cachego": {
+      "full_name": "fabiorphp/cachego",
+      "name": "cachego",
+      "stargazers_count": 93,
+      "popularity": 2.964298676410496,
+      "percentage": 4,
+      "maturity": 0,
+      "total_commits_count": 25,
+      "activity": 1.8408114830210747,
+      "total_score": 12.27514282398602,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "dmeents/format-lambda-body": {
+      "full_name": "dmeents/format-lambda-body",
+      "name": "format-lambda-body",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 4,
+      "maturity": 0,
+      "total_commits_count": 25,
+      "activity": 1.1045259054373728,
+      "total_score": 1.1045259054373728,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "joshuaslate/saas-tutorial": {
+      "full_name": "joshuaslate/saas-tutorial",
+      "name": "saas-tutorial",
+      "stargazers_count": 81,
+      "popularity": 2.9036715559398876,
+      "percentage": 95.23809523809524,
+      "maturity": 0,
+      "total_commits_count": 21,
+      "activity": 0.8854682085026777,
+      "total_score": 45.54670214034,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "quilljs/quill": {
+      "full_name": "quilljs/quill",
+      "name": "quill",
+      "stargazers_count": 19197,
+      "popularity": 5,
+      "percentage": 0.019704433497536946,
+      "maturity": 4.703744384509359,
+      "total_commits_count": 5075,
+      "activity": 5,
+      "total_score": 29.420296650792118,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "postlight",
+    "quilljs"
+  ]
+}

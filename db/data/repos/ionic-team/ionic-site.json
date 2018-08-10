@@ -99,7 +99,7 @@
     "drewrygh": 462,
     "bensperry": 507,
     "mlynch": 811,
-    "perrygovier": 1374,
+    "perrygovier": 1376,
     "Ionitron": 3811,
     "dsiddy": 2,
     "ltm": 3,
@@ -290,10 +290,10 @@
   "url": "https://api.github.com/repos/ionic-team/ionic-site",
   "languages_url": "https://api.github.com/repos/ionic-team/ionic-site/languages",
   "created_at": "2013-09-30T16:22:20Z",
-  "updated_at": "2018-08-07T18:50:42Z",
-  "pushed_at": "2018-08-07T18:50:32Z",
+  "updated_at": "2018-08-10T15:53:53Z",
+  "pushed_at": "2018-08-10T15:53:45Z",
   "homepage": "https://ionicframework.com",
-  "size": 1248667,
+  "size": 1250618,
   "stargazers_count": 359,
   "language": "JavaScript",
   "mirror_url": null,
@@ -328,15 +328,15 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 6841557,
+      "bytes": 6841620,
       "color": "#f1e05a"
     },
     "CSS": {
-      "bytes": 5083260,
+      "bytes": 5086435,
       "color": "#563d7c"
     },
     "HTML": {
-      "bytes": 1367520,
+      "bytes": 1387479,
       "color": "#e34c26"
     },
     "TypeScript": {
@@ -352,7 +352,7 @@
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-08-08T04:19:32.786Z",
+  "fetched_at": "2018-08-10T16:47:20.072Z",
   "pulls_url": "https://api.github.com/repos/ionic-team/ionic-site/pulls{/number}",
   "pulls_authors": [
     "aniketkudale",
@@ -751,6 +751,7 @@
     "imcotton",
     "hugo",
     "yankedev",
-    "rodyhaddad"
+    "rodyhaddad",
+    "genebustam"
   ]
 }

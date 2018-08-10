@@ -298,7 +298,8 @@
     "dvigneshwer": 1,
     "listochkin": 1,
     "aka-demik": 1,
-    "munckymagik": 1
+    "munckymagik": 1,
+    "wolf4ood": 1
   },
   "name": "rust-www",
   "full_name": "rust-lang/rust-www",
@@ -310,11 +311,11 @@
   "url": "https://api.github.com/repos/rust-lang/rust-www",
   "languages_url": "https://api.github.com/repos/rust-lang/rust-www/languages",
   "created_at": "2011-08-31T16:42:32Z",
-  "updated_at": "2018-08-02T15:40:29Z",
-  "pushed_at": "2018-08-02T15:49:15Z",
+  "updated_at": "2018-08-10T15:52:43Z",
+  "pushed_at": "2018-08-10T10:45:18Z",
   "homepage": "https://www.rust-lang.org",
-  "size": 15618,
-  "stargazers_count": 122,
+  "size": 15619,
+  "stargazers_count": 123,
   "language": "HTML",
   "mirror_url": null,
   "archived": false,
@@ -372,7 +373,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-02T16:33:34.881Z",
+  "fetched_at": "2018-08-10T16:47:20.072Z",
   "pulls_url": "https://api.github.com/repos/rust-lang/rust-www/pulls{/number}",
   "pulls_authors": [
     "pmarks",
@@ -716,6 +717,8 @@
     "recrack",
     "catamorphism",
     "mcpherrinm",
-    "dustinlacewell"
+    "dustinlacewell",
+    "moraveyo",
+    "nicholaswyoung"
   ]
 }

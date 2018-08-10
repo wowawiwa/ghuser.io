@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/ipfs/interface-ipfs-core",
   "languages_url": "https://api.github.com/repos/ipfs/interface-ipfs-core/languages",
   "created_at": "2016-05-11T10:30:47Z",
-  "updated_at": "2018-08-09T09:26:21Z",
-  "pushed_at": "2018-08-09T11:51:28Z",
+  "updated_at": "2018-08-10T12:37:31Z",
+  "pushed_at": "2018-08-10T12:37:29Z",
   "homepage": null,
-  "size": 15806,
+  "size": 15808,
   "stargazers_count": 112,
   "language": "JavaScript",
   "mirror_url": null,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 240297,
+      "bytes": 247019,
       "color": "#f1e05a"
     },
     "Groovy": {
@@ -72,7 +72,7 @@
     "vith": 1,
     "kenshyx": 1,
     "PascalPrecht": 4,
-    "vasco-santos": 2,
+    "vasco-santos": 3,
     "kevinsimper": 2,
     "MichaelMure": 2,
     "enricomarino": 2,
@@ -93,12 +93,12 @@
     "hacdias": 17,
     "greenkeeperio-bot": 16,
     "dignifiedquire": 18,
-    "alanshaw": 87,
+    "alanshaw": 90,
     "diasdavid": 421,
     "vutsalsinghal": 1,
     "negamaxi": 1
   },
-  "fetched_at": "2018-08-09T16:35:43.594Z",
+  "fetched_at": "2018-08-10T16:47:20.072Z",
   "pulls_url": "https://api.github.com/repos/ipfs/interface-ipfs-core/pulls{/number}",
   "pulls_authors": [
     "achingbrain",
@@ -145,6 +145,7 @@
     "AdamStone",
     "RichardLitt",
     "noffle",
-    "nginnever"
+    "nginnever",
+    "dordille"
   ]
 }

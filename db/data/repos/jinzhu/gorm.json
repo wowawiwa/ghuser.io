@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/jinzhu/gorm",
   "languages_url": "https://api.github.com/repos/jinzhu/gorm/languages",
   "created_at": "2013-10-25T08:31:38Z",
-  "updated_at": "2018-08-10T03:53:08Z",
+  "updated_at": "2018-08-10T16:31:37Z",
   "pushed_at": "2018-08-08T10:57:26Z",
   "homepage": "http://gorm.io",
   "size": 4674,
-  "stargazers_count": 9852,
+  "stargazers_count": 9860,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -184,7 +184,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-10T04:33:54.319Z",
+  "fetched_at": "2018-08-10T16:47:20.072Z",
   "pulls_url": "https://api.github.com/repos/jinzhu/gorm/pulls{/number}",
   "pulls_authors": [
     "mtfelian",

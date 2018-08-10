@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/elastic/beats",
   "languages_url": "https://api.github.com/repos/elastic/beats/languages",
   "created_at": "2014-02-05T19:01:02Z",
-  "updated_at": "2018-08-10T01:45:55Z",
-  "pushed_at": "2018-08-09T23:54:39Z",
+  "updated_at": "2018-08-10T12:20:08Z",
+  "pushed_at": "2018-08-10T14:42:52Z",
   "homepage": "https://www.elastic.co/products/beats",
-  "size": 88182,
-  "stargazers_count": 5962,
+  "size": 88200,
+  "stargazers_count": 5965,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -135,7 +135,7 @@
     "martinscholz83": 23,
     "simitt": 36,
     "cyrilleverrier": 45,
-    "jsoriano": 79,
+    "jsoriano": 80,
     "vjsamuel": 69,
     "kvch": 74,
     "ph": 83,
@@ -145,7 +145,7 @@
     "andrewkroh": 781,
     "urso": 811,
     "monicasarbu": 892,
-    "ruflin": 1567,
+    "ruflin": 1568,
     "tsg": 1676,
     "mike-the-automator": 3,
     "ctindel": 2,
@@ -398,7 +398,7 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-08-10T04:33:54.319Z",
+  "fetched_at": "2018-08-10T16:47:20.072Z",
   "pulls_url": "https://api.github.com/repos/elastic/beats/pulls{/number}",
   "pulls_authors": [
     "andrewkroh",
@@ -822,6 +822,7 @@
     "lmars",
     "sandfox",
     "sumory",
-    "danhermann"
+    "danhermann",
+    "mheck136"
   ]
 }

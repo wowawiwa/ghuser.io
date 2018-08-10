@@ -289,11 +289,11 @@
   "url": "https://api.github.com/repos/godotengine/godot-docs",
   "languages_url": "https://api.github.com/repos/godotengine/godot-docs/languages",
   "created_at": "2015-12-12T15:02:06Z",
-  "updated_at": "2018-08-09T07:21:04Z",
-  "pushed_at": "2018-08-09T15:39:40Z",
+  "updated_at": "2018-08-10T15:44:25Z",
+  "pushed_at": "2018-08-09T21:14:27Z",
   "homepage": "http://docs.godotengine.org",
   "size": 289608,
-  "stargazers_count": 362,
+  "stargazers_count": 364,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -349,7 +349,7 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-08-09T16:35:43.594Z",
+  "fetched_at": "2018-08-10T16:47:20.072Z",
   "pulls_url": "https://api.github.com/repos/godotengine/godot-docs/pulls{/number}",
   "pulls_authors": [
     "vurpo",
@@ -721,6 +721,7 @@
     "gravitystorm",
     "est31",
     "adolson",
-    "jhch3"
+    "jhch3",
+    "Husky110"
   ]
 }

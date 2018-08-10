@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/chentsulin/awesome-graphql",
   "languages_url": "https://api.github.com/repos/chentsulin/awesome-graphql/languages",
   "created_at": "2015-07-12T10:53:26Z",
-  "updated_at": "2018-08-10T00:16:33Z",
-  "pushed_at": "2018-07-25T03:06:52Z",
+  "updated_at": "2018-08-10T16:38:51Z",
+  "pushed_at": "2018-08-10T05:19:16Z",
   "homepage": "",
   "size": 488,
-  "stargazers_count": 7858,
+  "stargazers_count": 7864,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -222,7 +222,7 @@
     "leinue": 1
   },
   "languages": {},
-  "fetched_at": "2018-08-10T04:33:54.319Z",
+  "fetched_at": "2018-08-10T16:47:20.072Z",
   "pulls_url": "https://api.github.com/repos/chentsulin/awesome-graphql/pulls{/number}",
   "pulls_authors": [
     "dostu",
@@ -496,6 +496,7 @@
     "vierja",
     "skevy",
     "tmc",
-    "pdziok"
+    "pdziok",
+    "vektah"
   ]
 }

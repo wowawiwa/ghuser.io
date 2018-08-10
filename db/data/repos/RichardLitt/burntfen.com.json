@@ -10,8 +10,8 @@
   "url": "https://api.github.com/repos/RichardLitt/burntfen.com",
   "languages_url": "https://api.github.com/repos/RichardLitt/burntfen.com/languages",
   "created_at": "2012-04-08T19:21:44Z",
-  "updated_at": "2018-08-06T15:17:41Z",
-  "pushed_at": "2018-08-06T15:17:37Z",
+  "updated_at": "2018-08-10T16:10:32Z",
+  "pushed_at": "2018-08-10T16:10:30Z",
   "homepage": "https://burntfen.com",
   "size": 323718,
   "stargazers_count": 3,
@@ -22,7 +22,7 @@
   "default_branch": "master",
   "languages": {
     "HTML": {
-      "bytes": 368317,
+      "bytes": 368319,
       "color": "#e34c26"
     },
     "CSS": {
@@ -58,9 +58,9 @@
     "carolinux": 1,
     "VernL": 1,
     "plusjade": 1,
-    "RichardLitt": 825
+    "RichardLitt": 827
   },
-  "fetched_at": "2018-08-06T18:44:54.295Z",
+  "fetched_at": "2018-08-10T16:47:20.072Z",
   "pulls_url": "https://api.github.com/repos/RichardLitt/burntfen.com/pulls{/number}",
   "pulls_authors": [
     "fossabot",

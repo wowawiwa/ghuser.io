@@ -82,7 +82,7 @@
     "daneden/animate.css": {
       "full_name": "daneden/animate.css",
       "name": "animate.css",
-      "stargazers_count": 53370,
+      "stargazers_count": 53383,
       "popularity": 5,
       "percentage": 2.6490066225165565,
       "maturity": 3.4202026784141966,
@@ -251,13 +251,13 @@
     "sqlmapproject/sqlmap": {
       "full_name": "sqlmapproject/sqlmap",
       "name": "sqlmap",
-      "stargazers_count": 12012,
+      "stargazers_count": 12016,
       "popularity": 5,
       "percentage": 0,
-      "maturity": 4.904831712588422,
-      "total_commits_count": 8040,
+      "maturity": 4.904940271288057,
+      "total_commits_count": 8042,
       "activity": 5,
-      "total_score": 29.809663425176844,
+      "total_score": 29.809880542576114,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -823,13 +823,13 @@
     "Anupam-dagar/awesome-first-timers": {
       "full_name": "Anupam-dagar/awesome-first-timers",
       "name": "awesome-first-timers",
-      "stargazers_count": 286,
-      "popularity": 3.455036292252844,
+      "stargazers_count": 287,
+      "popularity": 3.4565569327965666,
       "percentage": 2.857142857142857,
       "maturity": 3.132390384985706,
       "total_commits_count": 175,
-      "activity": 2.115192287341964,
-      "total_score": 20.02838112833725,
+      "activity": 2.0915256697671873,
+      "total_score": 20.009841241738453,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -1077,6 +1077,19 @@
       "total_commits_count": 18,
       "activity": 5,
       "total_score": 26.15610435364042,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "jamesgeorge007/ghstats-cli": {
+      "full_name": "jamesgeorge007/ghstats-cli",
+      "name": "ghstats-cli",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 20,
+      "activity": 5,
+      "total_score": 5,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/okgrow/react-native-copilot",
   "languages_url": "https://api.github.com/repos/okgrow/react-native-copilot/languages",
   "created_at": "2017-10-06T17:32:03Z",
-  "updated_at": "2018-08-10T01:51:16Z",
-  "pushed_at": "2018-08-06T14:39:08Z",
+  "updated_at": "2018-08-10T14:28:36Z",
+  "pushed_at": "2018-08-10T14:28:35Z",
   "homepage": "",
-  "size": 289,
+  "size": 294,
   "stargazers_count": 435,
   "language": "JavaScript",
   "mirror_url": null,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 44522,
+      "bytes": 46591,
       "color": "#f1e05a"
     }
   },
@@ -61,11 +61,11 @@
     "prayuditb": 2,
     "danielang": 3,
     "arrygoo": 4,
-    "mohebifar": 53,
+    "mohebifar": 60,
     "naffiq": 2,
     "klapperkopp": 1
   },
-  "fetched_at": "2018-08-10T04:33:54.319Z",
+  "fetched_at": "2018-08-10T16:47:20.072Z",
   "pulls_url": "https://api.github.com/repos/okgrow/react-native-copilot/pulls{/number}",
   "pulls_authors": [
     "fmonsalvo",

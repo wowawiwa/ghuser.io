@@ -10,8 +10,8 @@
   "url": "https://api.github.com/repos/splitrb/split",
   "languages_url": "https://api.github.com/repos/splitrb/split/languages",
   "created_at": "2011-05-14T18:05:47Z",
-  "updated_at": "2018-08-09T13:21:33Z",
-  "pushed_at": "2018-08-09T12:56:51Z",
+  "updated_at": "2018-08-10T09:36:44Z",
+  "pushed_at": "2018-08-10T09:36:19Z",
   "homepage": "https://libraries.io/rubygems/split",
   "size": 980,
   "stargazers_count": 2157,
@@ -189,7 +189,7 @@
     "pfeiffer": 2,
     "michaelwebb76": 1
   },
-  "fetched_at": "2018-08-09T16:35:43.594Z",
+  "fetched_at": "2018-08-10T16:47:20.072Z",
   "pulls_url": "https://api.github.com/repos/splitrb/split/pulls{/number}",
   "pulls_authors": [
     "rnitta",
@@ -339,6 +339,7 @@
     "elisehuard",
     "matthewford",
     "pfeiffer",
-    "michaelwebb76"
+    "michaelwebb76",
+    "PatrickMcGrath29"
   ]
 }

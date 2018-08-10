@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/probot/probot",
   "languages_url": "https://api.github.com/repos/probot/probot/languages",
   "created_at": "2016-09-16T20:56:13Z",
-  "updated_at": "2018-08-10T03:42:07Z",
-  "pushed_at": "2018-08-10T03:55:26Z",
+  "updated_at": "2018-08-10T15:26:47Z",
+  "pushed_at": "2018-08-10T13:46:15Z",
   "homepage": "https://probot.github.io",
-  "size": 1694,
-  "stargazers_count": 3033,
+  "size": 1709,
+  "stargazers_count": 3035,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "TypeScript": {
-      "bytes": 57585,
+      "bytes": 58172,
       "color": "#2b7489"
     },
     "JavaScript": {
-      "bytes": 26773,
+      "bytes": 27334,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -115,7 +115,7 @@
     "zeke": 3,
     "hakusaro": 3,
     "jonico": 3,
-    "tcbyrd": 5,
+    "tcbyrd": 6,
     "stkent": 4,
     "aps120797": 5,
     "boneskull": 5,
@@ -136,7 +136,7 @@
     "mousavian": 1,
     "tommilligan": 2
   },
-  "fetched_at": "2018-08-10T04:33:54.319Z",
+  "fetched_at": "2018-08-10T16:47:20.072Z",
   "pulls_url": "https://api.github.com/repos/probot/probot/pulls{/number}",
   "pulls_authors": [
     "JasonEtco",

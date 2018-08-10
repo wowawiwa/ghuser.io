@@ -97,10 +97,10 @@
     "noahcampbell": 115,
     "moorereason": 158,
     "digitalcraftsman": 286,
-    "anthonyfok": 428,
+    "anthonyfok": 429,
     "spf13": 625,
     "rdwatters": 686,
-    "bep": 2457,
+    "bep": 2458,
     "asifm": 4,
     "bmon": 4,
     "betaveros": 4,
@@ -450,7 +450,8 @@
     "Hanzei": 2,
     "idealhack": 2,
     "marcanuy": 2,
-    "aapeliv": 2
+    "aapeliv": 2,
+    "divinerites": 2
   },
   "name": "hugoDocs",
   "full_name": "gohugoio/hugoDocs",
@@ -462,10 +463,10 @@
   "url": "https://api.github.com/repos/gohugoio/hugoDocs",
   "languages_url": "https://api.github.com/repos/gohugoio/hugoDocs/languages",
   "created_at": "2017-06-14T07:52:37Z",
-  "updated_at": "2018-08-09T16:23:47Z",
-  "pushed_at": "2018-08-09T16:23:42Z",
+  "updated_at": "2018-08-10T14:33:57Z",
+  "pushed_at": "2018-08-10T14:33:52Z",
   "homepage": "",
-  "size": 115617,
+  "size": 119103,
   "stargazers_count": 165,
   "language": "HTML",
   "mirror_url": null,
@@ -516,7 +517,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-09T16:35:43.594Z",
+  "fetched_at": "2018-08-10T16:47:20.072Z",
   "pulls_url": "https://api.github.com/repos/gohugoio/hugoDocs/pulls{/number}",
   "pulls_authors": [
     "brentybh",

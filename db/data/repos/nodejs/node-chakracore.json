@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/nodejs/node-chakracore",
   "languages_url": "https://api.github.com/repos/nodejs/node-chakracore/languages",
   "created_at": "2015-11-25T19:09:26Z",
-  "updated_at": "2018-08-09T16:29:50Z",
-  "pushed_at": "2018-08-09T16:30:47Z",
+  "updated_at": "2018-08-10T15:59:10Z",
+  "pushed_at": "2018-08-10T16:00:06Z",
   "homepage": "",
-  "size": 396663,
-  "stargazers_count": 1575,
+  "size": 396727,
+  "stargazers_count": 1576,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 6795524,
+      "bytes": 6796671,
       "color": "#f1e05a"
     },
     "C++": {
-      "bytes": 2594972,
+      "bytes": 2594991,
       "color": "#f34b7d"
     },
     "Python": {
@@ -68,7 +68,7 @@
       "color": "#e34c26"
     },
     "Makefile": {
-      "bytes": 43242,
+      "bytes": 43172,
       "color": "#427819"
     },
     "DTrace": {
@@ -168,7 +168,7 @@
     "refack": 91,
     "AndreasMadsen": 103,
     "kunalspathak": 141,
-    "tniessen": 118,
+    "tniessen": 119,
     "ofrobots": 117,
     "mhdawson": 122,
     "felixge": 124,
@@ -182,18 +182,18 @@
     "MylesBorins": 185,
     "apapirovski": 192,
     "TooTallNate": 197,
-    "chakrabot": 590,
+    "chakrabot": 591,
     "joyeecheung": 224,
     "targos": 279,
     "vsemozhetbyt": 276,
     "tjfontaine": 332,
-    "BridgeAR": 325,
+    "BridgeAR": 328,
     "mscdex": 318,
     "rvagg": 320,
-    "danbev": 338,
+    "danbev": 342,
     "trevnorris": 363,
     "cjihrig": 386,
-    "jasnell": 499,
+    "jasnell": 502,
     "piscisaureus": 598,
     "addaleax": 665,
     "indutny": 755,
@@ -508,7 +508,7 @@
     "kof": 3,
     "osukaa": 3,
     "PatrickHeneise": 3,
-    "pleath": 4,
+    "pleath": 5,
     "focusaurus": 3,
     "ramsgoli": 3,
     "reid": 3,
@@ -567,7 +567,7 @@
     "antsmartian": 4,
     "jquynh": 5
   },
-  "fetched_at": "2018-08-09T16:35:43.594Z",
+  "fetched_at": "2018-08-10T16:47:20.072Z",
   "pulls_url": "https://api.github.com/repos/nodejs/node-chakracore/pulls{/number}",
   "pulls_authors": [
     "kfarnung",

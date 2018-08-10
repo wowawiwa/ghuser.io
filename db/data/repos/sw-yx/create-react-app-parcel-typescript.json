@@ -10,18 +10,18 @@
   "url": "https://api.github.com/repos/sw-yx/create-react-app-parcel-typescript",
   "languages_url": "https://api.github.com/repos/sw-yx/create-react-app-parcel-typescript/languages",
   "created_at": "2018-06-02T17:12:45Z",
-  "updated_at": "2018-08-08T04:03:44Z",
-  "pushed_at": "2018-06-02T20:37:09Z",
+  "updated_at": "2018-08-10T09:23:56Z",
+  "pushed_at": "2018-08-10T09:23:54Z",
   "homepage": null,
-  "size": 182,
-  "stargazers_count": 25,
+  "size": 186,
+  "stargazers_count": 24,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
   "license": null,
   "default_branch": "master",
   "contributors": {
-    "sw-yx": 1,
+    "sw-yx": 2,
     "tsiq-swyx": 59
   },
   "languages": {
@@ -42,7 +42,7 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-08-08T04:19:32.786Z",
+  "fetched_at": "2018-08-10T16:47:20.072Z",
   "pulls_url": "https://api.github.com/repos/sw-yx/create-react-app-parcel-typescript/pulls{/number}",
   "pulls_authors": []
 }

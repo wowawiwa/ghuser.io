@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/semantic-release/semantic-release",
   "languages_url": "https://api.github.com/repos/semantic-release/semantic-release/languages",
   "created_at": "2014-09-15T16:18:28Z",
-  "updated_at": "2018-08-10T02:14:32Z",
-  "pushed_at": "2018-08-09T14:46:54Z",
+  "updated_at": "2018-08-10T16:47:13Z",
+  "pushed_at": "2018-08-10T16:47:26Z",
   "homepage": "https://semantic-release.gitbook.io",
-  "size": 1124,
-  "stargazers_count": 4892,
+  "size": 1130,
+  "stargazers_count": 4899,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 206086,
+      "bytes": 205596,
       "color": "#f1e05a"
     }
   },
@@ -106,11 +106,11 @@
     "greenkeeperio-bot": 28,
     "greenkeeper[bot]": 58,
     "boennemann": 98,
-    "pvdlg": 183,
+    "pvdlg": 184,
     "carlos-cubas": 1,
     "hbetts": 1
   },
-  "fetched_at": "2018-08-10T04:33:54.319Z",
+  "fetched_at": "2018-08-10T16:47:20.072Z",
   "pulls_url": "https://api.github.com/repos/semantic-release/semantic-release/pulls{/number}",
   "pulls_authors": [
     "greenkeeper[bot]",
