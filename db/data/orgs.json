@@ -3398,6 +3398,50 @@
       "created_at": "2014-12-19T17:09:08Z",
       "updated_at": "2018-08-06T22:39:08Z",
       "type": "Organization"
+    },
+    "worktips": {
+      "login": "worktips",
+      "url": "https://api.github.com/orgs/worktips",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/38406257?v=4",
+      "name": "Worktips",
+      "is_verified": false,
+      "html_url": "https://github.com/worktips",
+      "created_at": "2018-04-15T18:33:01Z",
+      "updated_at": "2018-05-25T16:25:50Z",
+      "type": "Organization"
+    },
+    "jsdelivr": {
+      "login": "jsdelivr",
+      "url": "https://api.github.com/orgs/jsdelivr",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6191378?v=4",
+      "name": "jsDelivr",
+      "is_verified": false,
+      "html_url": "https://github.com/jsdelivr",
+      "created_at": "2013-12-15T17:32:41Z",
+      "updated_at": "2017-11-27T18:05:25Z",
+      "type": "Organization"
+    },
+    "torworld": {
+      "login": "torworld",
+      "url": "https://api.github.com/orgs/torworld",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/22480666?v=4",
+      "name": "TorWorld",
+      "is_verified": false,
+      "html_url": "https://github.com/torworld",
+      "created_at": "2016-09-27T18:03:13Z",
+      "updated_at": "2017-12-13T06:53:55Z",
+      "type": "Organization"
+    },
+    "mail-in-a-box": {
+      "login": "mail-in-a-box",
+      "url": "https://api.github.com/orgs/mail-in-a-box",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/8107370?v=4",
+      "name": "Mail-in-a-Box",
+      "is_verified": false,
+      "html_url": "https://github.com/mail-in-a-box",
+      "created_at": "2014-07-08T21:30:45Z",
+      "updated_at": "2016-07-01T20:49:11Z",
+      "type": "Organization"
     }
   }
 }

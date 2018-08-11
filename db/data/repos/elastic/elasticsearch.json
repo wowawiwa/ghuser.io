@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/elastic/elasticsearch",
   "languages_url": "https://api.github.com/repos/elastic/elasticsearch/languages",
   "created_at": "2010-02-08T13:20:56Z",
-  "updated_at": "2018-08-11T05:20:33Z",
-  "pushed_at": "2018-08-11T03:49:39Z",
+  "updated_at": "2018-08-11T13:07:38Z",
+  "pushed_at": "2018-08-11T07:06:15Z",
   "homepage": "https://www.elastic.co/products/elasticsearch",
   "size": 501858,
-  "stargazers_count": 33384,
+  "stargazers_count": 33387,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -469,7 +469,7 @@
     "benwtrent": 6,
     "andrershov": 2
   },
-  "fetched_at": "2018-08-11T06:30:09.580Z",
+  "fetched_at": "2018-08-11T14:08:16.487Z",
   "pulls_url": "https://api.github.com/repos/elastic/elasticsearch/pulls{/number}",
   "pulls_authors": [
     "benwtrent",

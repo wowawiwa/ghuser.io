@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/cython/cython",
   "languages_url": "https://api.github.com/repos/cython/cython/languages",
   "created_at": "2010-11-21T07:44:20Z",
-  "updated_at": "2018-08-10T22:11:24Z",
-  "pushed_at": "2018-08-10T18:08:10Z",
+  "updated_at": "2018-08-11T14:05:49Z",
+  "pushed_at": "2018-08-11T14:05:42Z",
   "homepage": "http://cython.org",
-  "size": 51711,
-  "stargazers_count": 3359,
+  "size": 51834,
+  "stargazers_count": 3360,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "Python": {
-      "bytes": 5791019,
+      "bytes": 5801333,
       "color": "#3572A5"
     },
     "C": {
-      "bytes": 622054,
+      "bytes": 622292,
       "color": "#555555"
     },
     "C++": {
@@ -184,7 +184,7 @@
     "dalcinl": 339,
     "markflorisson": 543,
     "robertwb": 2655,
-    "scoder": 8079,
+    "scoder": 8104,
     "invalid-email-address": 49,
     "adityapb": 2,
     "andreabedini": 2,
@@ -276,12 +276,12 @@
     "jelmer": 1,
     "jkleckner": 1,
     "jochenvdv": 1,
-    "jakirkham": 2,
+    "jakirkham": 8,
     "stump": 1,
     "tarsius": 1,
     "jvkersch": 1,
     "josiahcarlson": 1,
-    "smartsammler": 1,
+    "smartsammler": 8,
     "Xarthisius": 1,
     "navytux": 1,
     "mlhetland": 1,
@@ -308,7 +308,7 @@
     "takluyver": 1,
     "uranusjr": 1,
     "ulido": 1,
-    "vallsv": 1,
+    "vallsv": 10,
     "videlec": 1,
     "vbraun": 1,
     "wjwithagen": 1,
@@ -329,9 +329,10 @@
     "ambv": 1,
     "realead": 2,
     "aguinet": 2,
-    "orivej": 1
+    "orivej": 1,
+    "gabrieldemarmiesse": 4
   },
-  "fetched_at": "2018-08-11T06:30:09.580Z",
+  "fetched_at": "2018-08-11T14:08:16.487Z",
   "pulls_url": "https://api.github.com/repos/cython/cython/pulls{/number}",
   "pulls_authors": [
     "jakirkham",

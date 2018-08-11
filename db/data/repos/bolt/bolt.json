@@ -93,13 +93,13 @@
     "richardhinkamp": 94,
     "pvankouteren": 114,
     "Pinpickle": 103,
-    "SahAssar": 183,
+    "SahAssar": 184,
     "tobias2k": 207,
     "rixbeck": 297,
     "CarsonF": 1070,
     "rossriley": 2706,
     "rarila": 3687,
-    "bobdenotter": 6079,
+    "bobdenotter": 6085,
     "GawainLynch": 7555,
     "chubakur": 4,
     "jirimedved": 3,
@@ -250,7 +250,8 @@
     "znegva": 1,
     "kibax": 1,
     "stryxx": 1,
-    "laurens94": 1
+    "laurens94": 1,
+    "bmfp": 4
   },
   "name": "bolt",
   "full_name": "bolt/bolt",
@@ -262,10 +263,10 @@
   "url": "https://api.github.com/repos/bolt/bolt",
   "languages_url": "https://api.github.com/repos/bolt/bolt/languages",
   "created_at": "2012-06-14T16:07:54Z",
-  "updated_at": "2018-08-10T14:17:04Z",
-  "pushed_at": "2018-08-10T11:28:45Z",
+  "updated_at": "2018-08-11T09:38:39Z",
+  "pushed_at": "2018-08-11T11:34:40Z",
   "homepage": "",
-  "size": 78628,
+  "size": 78629,
   "stargazers_count": 3737,
   "language": "PHP",
   "mirror_url": null,
@@ -300,7 +301,7 @@
   },
   "languages": {
     "PHP": {
-      "bytes": 3192469,
+      "bytes": 3192664,
       "color": "#4F5D95"
     },
     "JavaScript": {
@@ -308,7 +309,7 @@
       "color": "#f1e05a"
     },
     "HTML": {
-      "bytes": 404824,
+      "bytes": 404835,
       "color": "#e34c26"
     },
     "CSS": {
@@ -320,7 +321,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-10T16:47:20.072Z",
+  "fetched_at": "2018-08-11T14:08:16.487Z",
   "pulls_url": "https://api.github.com/repos/bolt/bolt/pulls{/number}",
   "pulls_authors": [
     "bobdenotter",
