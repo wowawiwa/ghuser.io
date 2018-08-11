@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "react-suspense-starter",
+  "full_name": "palmerhq/react-suspense-starter",
+  "owner": "palmerhq",
+  "private": false,
+  "html_url": "https://github.com/palmerhq/react-suspense-starter",
+  "description": "Experiment with React Suspense right meow.",
+  "fork": false,
+  "url": "https://api.github.com/repos/palmerhq/react-suspense-starter",
+  "languages_url": "https://api.github.com/repos/palmerhq/react-suspense-starter/languages",
+  "pulls_url": "https://api.github.com/repos/palmerhq/react-suspense-starter/pulls{/number}",
+  "created_at": "2018-07-27T20:28:32Z",
+  "updated_at": "2018-08-11T03:11:56Z",
+  "pushed_at": "2018-08-10T20:04:38Z",
+  "homepage": null,
+  "size": 362,
+  "stargazers_count": 37,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "palmerhq",
+    "id": 10245696,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwMjQ1Njk2",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/10245696?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/palmerhq",
+    "html_url": "https://github.com/palmerhq",
+    "followers_url": "https://api.github.com/users/palmerhq/followers",
+    "following_url": "https://api.github.com/users/palmerhq/following{/other_user}",
+    "gists_url": "https://api.github.com/users/palmerhq/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/palmerhq/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/palmerhq/subscriptions",
+    "organizations_url": "https://api.github.com/users/palmerhq/orgs",
+    "repos_url": "https://api.github.com/users/palmerhq/repos",
+    "events_url": "https://api.github.com/users/palmerhq/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/palmerhq/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jaredpalmer": 5
+  },
+  "pulls_authors": [
+    "sw-yx"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1038,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 149,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-08-11T06:30:09.580Z"
+}

@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/ipfs/go-ipfs-routing",
   "languages_url": "https://api.github.com/repos/ipfs/go-ipfs-routing/languages",
   "created_at": "2018-02-14T16:53:35Z",
-  "updated_at": "2018-08-09T02:16:54Z",
-  "pushed_at": "2018-08-09T02:17:04Z",
+  "updated_at": "2018-08-11T01:03:56Z",
+  "pushed_at": "2018-08-11T01:03:55Z",
   "homepage": null,
-  "size": 1210,
+  "size": 1211,
   "stargazers_count": 4,
   "language": "Go",
   "mirror_url": null,
@@ -58,7 +58,7 @@
   },
   "contributors": {
     "keks": 1,
-    "kevina": 1,
+    "kevina": 2,
     "MichaelMure": 1,
     "tv42": 1,
     "heems": 1,
@@ -82,10 +82,11 @@
     "whyrusleeping": 250,
     "vyzo": 1
   },
-  "fetched_at": "2018-08-09T03:27:59.051Z",
+  "fetched_at": "2018-08-11T06:30:09.580Z",
   "pulls_url": "https://api.github.com/repos/ipfs/go-ipfs-routing/pulls{/number}",
   "pulls_authors": [
     "Stebalien",
-    "hsanjuan"
+    "hsanjuan",
+    "kevina"
   ]
 }

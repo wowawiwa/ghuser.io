@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/lyft/gostats",
   "languages_url": "https://api.github.com/repos/lyft/gostats/languages",
   "created_at": "2016-12-27T22:01:18Z",
-  "updated_at": "2018-08-07T22:33:46Z",
+  "updated_at": "2018-08-10T19:22:20Z",
   "pushed_at": "2018-08-08T02:58:51Z",
   "homepage": null,
   "size": 55,
-  "stargazers_count": 20,
+  "stargazers_count": 21,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -71,7 +71,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-08T04:19:32.786Z",
+  "fetched_at": "2018-08-11T06:30:09.580Z",
   "pulls_url": "https://api.github.com/repos/lyft/gostats/pulls{/number}",
   "pulls_authors": [
     "jsedgwick",

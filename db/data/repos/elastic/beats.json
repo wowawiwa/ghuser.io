@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/elastic/beats",
   "languages_url": "https://api.github.com/repos/elastic/beats/languages",
   "created_at": "2014-02-05T19:01:02Z",
-  "updated_at": "2018-08-10T12:20:08Z",
-  "pushed_at": "2018-08-10T14:42:52Z",
+  "updated_at": "2018-08-11T04:42:55Z",
+  "pushed_at": "2018-08-11T03:53:06Z",
   "homepage": "https://www.elastic.co/products/beats",
   "size": 88200,
-  "stargazers_count": 5965,
+  "stargazers_count": 5967,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -398,7 +398,7 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-08-10T16:47:20.072Z",
+  "fetched_at": "2018-08-11T06:30:09.580Z",
   "pulls_url": "https://api.github.com/repos/elastic/beats/pulls{/number}",
   "pulls_authors": [
     "andrewkroh",

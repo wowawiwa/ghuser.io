@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/ipfs/go-ipfs",
   "languages_url": "https://api.github.com/repos/ipfs/go-ipfs/languages",
   "created_at": "2014-06-26T08:14:34Z",
-  "updated_at": "2018-08-10T14:29:23Z",
-  "pushed_at": "2018-08-10T11:40:41Z",
+  "updated_at": "2018-08-11T05:21:19Z",
+  "pushed_at": "2018-08-11T01:45:29Z",
   "homepage": "https://ipfs.io",
-  "size": 31576,
-  "stargazers_count": 6235,
+  "size": 31597,
+  "stargazers_count": 6239,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "Go": {
-      "bytes": 1075410,
+      "bytes": 1053893,
       "color": "#375eab"
     },
     "Shell": {
@@ -56,7 +56,7 @@
       "color": "#89e051"
     },
     "Makefile": {
-      "bytes": 18538,
+      "bytes": 18531,
       "color": "#427819"
     },
     "Groovy": {
@@ -170,13 +170,13 @@
     "RichardLitt": 130,
     "cryptix": 139,
     "kevina": 167,
-    "magik6k": 222,
-    "Stebalien": 300,
+    "magik6k": 229,
+    "Stebalien": 302,
     "chriscool": 249,
     "Kubuxu": 403,
     "mappum": 530,
     "jbenet": 1869,
-    "whyrusleeping": 2663,
+    "whyrusleeping": 2664,
     "vyzo": 25,
     "erde74": 2,
     "Aaron1011": 1,
@@ -252,7 +252,7 @@
     "achingbrain": 1,
     "seidtgeist": 3
   },
-  "fetched_at": "2018-08-10T16:47:20.072Z",
+  "fetched_at": "2018-08-11T06:30:09.580Z",
   "pulls_url": "https://api.github.com/repos/ipfs/go-ipfs/pulls{/number}",
   "pulls_authors": [
     "marten-seemann",
@@ -508,6 +508,7 @@
     "toqueteos",
     "Aaron1011",
     "sqs",
-    "alextoombs"
+    "alextoombs",
+    "johnelliott"
   ]
 }

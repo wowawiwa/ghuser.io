@@ -88,13 +88,13 @@
     "paulloz": 10,
     "Bonfi96": 9,
     "vnen": 11,
-    "Calinou": 19,
+    "Calinou": 20,
     "KellyThomas": 14,
     "eska014": 15,
     "Griatch": 17,
     "Noshyaar": 27,
-    "NathanLovato": 93,
-    "YeldhamDev": 31,
+    "NathanLovato": 99,
+    "YeldhamDev": 33,
     "StraToN": 45,
     "skyace65": 42,
     "reduz": 63,
@@ -272,7 +272,7 @@
     "kavika13": 1,
     "rcorre": 1,
     "EIREXE": 1,
-    "FeralBytes": 2,
+    "FeralBytes": 5,
     "arrowgamer": 1,
     "isaacremnant": 1,
     "ntfwc": 2,
@@ -289,10 +289,10 @@
   "url": "https://api.github.com/repos/godotengine/godot-docs",
   "languages_url": "https://api.github.com/repos/godotengine/godot-docs/languages",
   "created_at": "2015-12-12T15:02:06Z",
-  "updated_at": "2018-08-10T15:44:25Z",
-  "pushed_at": "2018-08-09T21:14:27Z",
+  "updated_at": "2018-08-11T05:26:07Z",
+  "pushed_at": "2018-08-11T05:26:03Z",
   "homepage": "http://docs.godotengine.org",
-  "size": 289608,
+  "size": 289632,
   "stargazers_count": 364,
   "language": "Python",
   "mirror_url": null,
@@ -349,7 +349,7 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-08-10T16:47:20.072Z",
+  "fetched_at": "2018-08-11T06:30:09.580Z",
   "pulls_url": "https://api.github.com/repos/godotengine/godot-docs/pulls{/number}",
   "pulls_authors": [
     "vurpo",
@@ -722,6 +722,8 @@
     "est31",
     "adolson",
     "jhch3",
-    "Husky110"
+    "Husky110",
+    "aswinmohanme",
+    "R3ality"
   ]
 }

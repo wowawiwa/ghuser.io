@@ -1,0 +1,70 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "heroku-model-deploy",
+  "full_name": "LDSSA/heroku-model-deploy",
+  "owner": "LDSSA",
+  "private": false,
+  "html_url": "https://github.com/LDSSA/heroku-model-deploy",
+  "description": "Deploy a scikit model using heroku and Flask",
+  "fork": false,
+  "url": "https://api.github.com/repos/LDSSA/heroku-model-deploy",
+  "languages_url": "https://api.github.com/repos/LDSSA/heroku-model-deploy/languages",
+  "pulls_url": "https://api.github.com/repos/LDSSA/heroku-model-deploy/pulls{/number}",
+  "created_at": "2017-12-10T17:54:10Z",
+  "updated_at": "2018-06-23T06:07:13Z",
+  "pushed_at": "2018-08-10T19:33:34Z",
+  "homepage": null,
+  "size": 78,
+  "stargazers_count": 2,
+  "language": "Jupyter Notebook",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "LDSSA",
+    "id": 25723571,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI1NzIzNTcx",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/25723571?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/LDSSA",
+    "html_url": "https://github.com/LDSSA",
+    "followers_url": "https://api.github.com/users/LDSSA/followers",
+    "following_url": "https://api.github.com/users/LDSSA/following{/other_user}",
+    "gists_url": "https://api.github.com/users/LDSSA/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/LDSSA/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/LDSSA/subscriptions",
+    "organizations_url": "https://api.github.com/users/LDSSA/orgs",
+    "repos_url": "https://api.github.com/users/LDSSA/repos",
+    "events_url": "https://api.github.com/users/LDSSA/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/LDSSA/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "borfast": 1,
+    "hershaw": 37
+  },
+  "pulls_authors": [
+    "manugarri",
+    "ricarthor",
+    "borfast"
+  ],
+  "languages": {
+    "Jupyter Notebook": {
+      "bytes": 57348,
+      "color": "#DA5B0B"
+    },
+    "Python": {
+      "bytes": 2916,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-11T06:30:09.580Z"
+}

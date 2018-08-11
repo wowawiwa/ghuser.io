@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/Chalarangelo/30-seconds-of-code",
   "languages_url": "https://api.github.com/repos/Chalarangelo/30-seconds-of-code/languages",
   "created_at": "2017-11-29T17:35:03Z",
-  "updated_at": "2018-08-10T16:09:32Z",
-  "pushed_at": "2018-08-10T07:50:08Z",
+  "updated_at": "2018-08-11T03:48:03Z",
+  "pushed_at": "2018-08-10T19:56:46Z",
   "homepage": "https://30secondsofcode.org/",
-  "size": 10298,
-  "stargazers_count": 21322,
+  "size": 10308,
+  "stargazers_count": 21325,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -125,7 +125,7 @@
     "atomiks": 160,
     "flxwu": 205,
     "fejes713": 239,
-    "30secondsofcode": 489,
+    "30secondsofcode": 490,
     "Chalarangelo": 1423,
     "itaditya": 1,
     "brettapeters": 1,
@@ -153,7 +153,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 271496,
+      "bytes": 271498,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -169,7 +169,7 @@
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-08-10T16:47:20.072Z",
+  "fetched_at": "2018-08-11T06:30:09.580Z",
   "pulls_url": "https://api.github.com/repos/Chalarangelo/30-seconds-of-code/pulls{/number}",
   "pulls_authors": [
     "Chalarangelo",

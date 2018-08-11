@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/octokit/routes",
   "languages_url": "https://api.github.com/repos/octokit/routes/languages",
   "created_at": "2018-03-07T20:20:54Z",
-  "updated_at": "2018-08-09T07:45:54Z",
-  "pushed_at": "2018-08-09T08:07:10Z",
+  "updated_at": "2018-08-10T17:13:18Z",
+  "pushed_at": "2018-08-10T21:28:34Z",
   "homepage": "https://octokit.github.io/routes",
-  "size": 6854,
+  "size": 6429,
   "stargazers_count": 24,
   "language": "JavaScript",
   "mirror_url": null,
@@ -52,7 +52,7 @@
     "aryannarora": 5,
     "knrt10": 5,
     "greenkeeper[bot]": 7,
-    "octokitbot": 25,
+    "octokitbot": 26,
     "gr2m": 230
   },
   "languages": {
@@ -61,7 +61,7 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-09T16:35:43.594Z",
+  "fetched_at": "2018-08-11T06:30:09.580Z",
   "pulls_url": "https://api.github.com/repos/octokit/routes/pulls{/number}",
   "pulls_authors": [
     "octokitbot",

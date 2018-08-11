@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/coala/coala",
   "languages_url": "https://api.github.com/repos/coala/coala/languages",
   "created_at": "2014-05-15T11:35:34Z",
-  "updated_at": "2018-08-10T13:45:33Z",
-  "pushed_at": "2018-08-10T15:43:07Z",
+  "updated_at": "2018-08-11T05:31:12Z",
+  "pushed_at": "2018-08-11T05:30:54Z",
   "homepage": "https://coala.io/",
-  "size": 13572,
-  "stargazers_count": 2346,
+  "size": 13576,
+  "stargazers_count": 2348,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -92,7 +92,7 @@
     "nishant-mor": 4,
     "shivanipoddariiith": 4,
     "RaiVaibhav": 10,
-    "li-boxuan": 6,
+    "li-boxuan": 7,
     "nityeshaga": 5,
     "thisch": 5,
     "netman92": 5,
@@ -118,7 +118,7 @@
     "refeed": 8,
     "mrtes": 9,
     "arush0311": 9,
-    "pareksha": 16,
+    "pareksha": 17,
     "WJCode": 11,
     "palash25": 12,
     "alphadose": 12,
@@ -306,7 +306,7 @@
     "Skogsfrae": 1,
     "Monal5031": 1,
     "yukiisbored": 1,
-    "nalinbhardwaj": 1,
+    "nalinbhardwaj": 2,
     "Naveenaidu": 2,
     "Nickatak": 1,
     "nikssardana": 1,
@@ -459,7 +459,7 @@
   },
   "languages": {
     "Python": {
-      "bytes": 1444781,
+      "bytes": 1446378,
       "color": "#3572A5"
     },
     "Batchfile": {
@@ -475,7 +475,7 @@
       "color": "#555555"
     }
   },
-  "fetched_at": "2018-08-10T16:47:20.072Z",
+  "fetched_at": "2018-08-11T06:30:09.580Z",
   "pulls_url": "https://api.github.com/repos/coala/coala/pulls{/number}",
   "pulls_authors": [
     "shashwatmishra76",

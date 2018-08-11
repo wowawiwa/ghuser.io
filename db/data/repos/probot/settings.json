@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/probot/settings",
   "languages_url": "https://api.github.com/repos/probot/settings/languages",
   "created_at": "2017-01-22T17:33:36Z",
-  "updated_at": "2018-08-10T08:14:50Z",
-  "pushed_at": "2018-08-07T18:16:30Z",
+  "updated_at": "2018-08-11T00:10:37Z",
+  "pushed_at": "2018-08-11T00:10:47Z",
   "homepage": "https://github.com/apps/settings",
-  "size": 229,
-  "stargazers_count": 226,
+  "size": 227,
+  "stargazers_count": 227,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -60,13 +60,13 @@
     "JasonEtco": 3,
     "pholleran": 3,
     "greenkeeperio-bot": 3,
-    "jwsloan": 9,
+    "jwsloan": 10,
     "greenkeeper[bot]": 19,
     "bkeepers": 72
   },
   "languages": {
     "JavaScript": {
-      "bytes": 23062,
+      "bytes": 23054,
       "color": "#f1e05a"
     },
     "Shell": {
@@ -74,7 +74,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-10T16:47:20.072Z",
+  "fetched_at": "2018-08-11T06:30:09.580Z",
   "pulls_url": "https://api.github.com/repos/probot/settings/pulls{/number}",
   "pulls_authors": [
     "jwsloan",
