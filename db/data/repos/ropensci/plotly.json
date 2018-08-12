@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/ropensci/plotly",
   "languages_url": "https://api.github.com/repos/ropensci/plotly/languages",
   "created_at": "2013-11-21T05:56:51Z",
-  "updated_at": "2018-08-11T21:46:07Z",
+  "updated_at": "2018-08-12T12:33:27Z",
   "pushed_at": "2018-07-26T16:42:49Z",
   "homepage": "https://plotly-book.cpsievert.me",
   "size": 84391,
-  "stargazers_count": 1295,
+  "stargazers_count": 1297,
   "language": "R",
   "mirror_url": null,
   "archived": false,
@@ -86,7 +86,7 @@
     "mkcor": 202,
     "cpsievert": 2044
   },
-  "fetched_at": "2018-08-12T04:56:28.350Z",
+  "fetched_at": "2018-08-12T17:48:20.581Z",
   "pulls_url": "https://api.github.com/repos/ropensci/plotly/pulls{/number}",
   "pulls_authors": [
     "Shians",

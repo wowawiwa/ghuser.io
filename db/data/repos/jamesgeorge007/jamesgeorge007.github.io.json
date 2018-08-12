@@ -10,41 +10,35 @@
   "url": "https://api.github.com/repos/jamesgeorge007/Personal-Website",
   "languages_url": "https://api.github.com/repos/jamesgeorge007/Personal-Website/languages",
   "created_at": "2018-03-30T12:23:31Z",
-  "updated_at": "2018-08-04T15:05:40Z",
-  "pushed_at": "2018-08-04T15:05:39Z",
+  "updated_at": "2018-08-12T15:58:40Z",
+  "pushed_at": "2018-08-12T15:58:39Z",
   "homepage": "",
-  "size": 5691,
+  "size": 6319,
   "stargazers_count": 6,
-  "language": "JavaScript",
+  "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
-  "license": {
-    "key": "gpl-3.0",
-    "name": "GNU General Public License v3.0",
-    "spdx_id": "GPL-3.0",
-    "url": "https://api.github.com/licenses/gpl-3.0",
-    "node_id": "MDc6TGljZW5zZTk="
-  },
+  "license": null,
   "default_branch": "master",
   "contributors": {
-    "jamesgeorge007": 49
+    "jamesgeorge007": 61
   },
   "languages": {
-    "JavaScript": {
-      "bytes": 67917,
-      "color": "#f1e05a"
-    },
-    "CSS": {
-      "bytes": 15626,
-      "color": "#563d7c"
+    "TypeScript": {
+      "bytes": 8135,
+      "color": "#2b7489"
     },
     "HTML": {
-      "bytes": 7799,
+      "bytes": 1724,
       "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 889,
+      "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-08-05T05:49:31.694Z",
-  "pulls_url": "https://api.github.com/repos/jamesgeorge007/jamesgeorge007.github.io/pulls{/number}",
+  "fetched_at": "2018-08-12T17:48:20.581Z",
+  "pulls_url": "https://api.github.com/repos/jamesgeorge007/Personal-Website/pulls{/number}",
   "pulls_authors": [
     "SamHez"
   ]

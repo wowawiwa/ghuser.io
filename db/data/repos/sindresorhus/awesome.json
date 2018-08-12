@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/sindresorhus/awesome",
   "languages_url": "https://api.github.com/repos/sindresorhus/awesome/languages",
   "created_at": "2014-07-11T13:42:37Z",
-  "updated_at": "2018-08-12T03:52:51Z",
-  "pushed_at": "2018-08-11T13:16:43Z",
+  "updated_at": "2018-08-12T17:26:47Z",
+  "pushed_at": "2018-08-12T14:40:55Z",
   "homepage": "",
   "size": 628,
-  "stargazers_count": 90493,
+  "stargazers_count": 90525,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -357,7 +357,7 @@
     "markusschanta": 1
   },
   "languages": {},
-  "fetched_at": "2018-08-12T04:56:28.350Z",
+  "fetched_at": "2018-08-12T17:48:20.581Z",
   "pulls_url": "https://api.github.com/repos/sindresorhus/awesome/pulls{/number}",
   "pulls_authors": [
     "mayurc137",
@@ -1217,6 +1217,7 @@
     "jusdepatate",
     "kusma",
     "Retia-Adolf",
-    "brunocascio"
+    "brunocascio",
+    "wujunze"
   ]
 }

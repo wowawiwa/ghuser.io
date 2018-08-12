@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/howtographql/howtographql",
   "languages_url": "https://api.github.com/repos/howtographql/howtographql/languages",
   "created_at": "2017-06-06T21:30:25Z",
-  "updated_at": "2018-08-12T04:55:31Z",
+  "updated_at": "2018-08-12T14:02:35Z",
   "pushed_at": "2018-08-11T08:04:40Z",
   "homepage": "https://www.howtographql.com/",
   "size": 6422,
-  "stargazers_count": 3661,
+  "stargazers_count": 3663,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -252,7 +252,7 @@
     "gabrielruss": 1,
     "swcarlosrj": 34
   },
-  "fetched_at": "2018-08-12T04:56:28.350Z",
+  "fetched_at": "2018-08-12T17:48:20.581Z",
   "pulls_url": "https://api.github.com/repos/howtographql/howtographql/pulls{/number}",
   "pulls_authors": [
     "kenrogers",

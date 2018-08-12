@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/appbaseio/abc/languages",
   "pulls_url": "https://api.github.com/repos/appbaseio/abc/pulls{/number}",
   "created_at": "2017-05-26T06:22:41Z",
-  "updated_at": "2018-08-07T12:21:46Z",
-  "pushed_at": "2018-08-07T16:52:20Z",
+  "updated_at": "2018-08-12T06:20:57Z",
+  "pushed_at": "2018-08-10T08:58:11Z",
   "homepage": "https://medium.appbase.io/abc-import-import-your-mongodb-sql-json-csv-data-into-elasticsearch-a202cafafc0d",
   "size": 27430,
-  "stargazers_count": 116,
+  "stargazers_count": 117,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -73,5 +73,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-07T18:46:12.707Z"
+  "fetched_at": "2018-08-12T17:48:20.581Z"
 }

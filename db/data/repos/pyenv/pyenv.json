@@ -195,7 +195,7 @@
     "kpot": 1,
     "m-o-e": 1,
     "raimon49": 1,
-    "rhymes": 1,
+    "rhymes": 2,
     "takeru": 1,
     "wmoxam": 1,
     "woosley": 1
@@ -210,11 +210,11 @@
   "url": "https://api.github.com/repos/pyenv/pyenv",
   "languages_url": "https://api.github.com/repos/pyenv/pyenv/languages",
   "created_at": "2012-08-31T06:57:52Z",
-  "updated_at": "2018-08-12T04:39:13Z",
-  "pushed_at": "2018-08-11T18:43:21Z",
+  "updated_at": "2018-08-12T17:42:02Z",
+  "pushed_at": "2018-08-12T12:33:03Z",
   "homepage": null,
-  "size": 3249,
-  "stargazers_count": 12103,
+  "size": 3258,
+  "stargazers_count": 12106,
   "language": "Shell",
   "mirror_url": null,
   "archived": false,
@@ -268,7 +268,7 @@
       "color": "#199f4b"
     }
   },
-  "fetched_at": "2018-08-12T04:56:28.350Z",
+  "fetched_at": "2018-08-12T17:48:20.581Z",
   "pulls_url": "https://api.github.com/repos/pyenv/pyenv/pulls{/number}",
   "pulls_authors": [
     "bdowling",

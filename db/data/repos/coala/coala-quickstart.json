@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/coala/coala-quickstart",
   "languages_url": "https://api.github.com/repos/coala/coala-quickstart/languages",
   "created_at": "2016-03-01T15:55:10Z",
-  "updated_at": "2018-08-12T01:19:12Z",
-  "pushed_at": "2018-08-12T01:21:20Z",
+  "updated_at": "2018-08-12T16:50:55Z",
+  "pushed_at": "2018-08-12T17:40:09Z",
   "homepage": "",
-  "size": 234,
+  "size": 257,
   "stargazers_count": 33,
   "language": "Python",
   "mirror_url": null,
@@ -76,7 +76,7 @@
     "Adrianzatreanu": 3,
     "jayvdb": 20,
     "sils": 11,
-    "ishanSrt": 20,
+    "ishanSrt": 24,
     "adtac": 23,
     "satwikkansal": 46,
     "Wert1996": 1,
@@ -84,7 +84,7 @@
   },
   "languages": {
     "Python": {
-      "bytes": 251050,
+      "bytes": 316879,
       "color": "#3572A5"
     },
     "Batchfile": {
@@ -96,7 +96,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-12T04:56:28.350Z",
+  "fetched_at": "2018-08-12T17:48:20.581Z",
   "pulls_url": "https://api.github.com/repos/coala/coala-quickstart/pulls{/number}",
   "pulls_authors": [
     "jayvdb",

@@ -3453,6 +3453,278 @@
       "created_at": "2016-06-21T15:05:48Z",
       "updated_at": "2018-02-15T15:12:37Z",
       "type": "Organization"
+    },
+    "electron": {
+      "login": "electron",
+      "url": "https://api.github.com/orgs/electron",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/13409222?v=4",
+      "name": "Electron",
+      "is_verified": true,
+      "html_url": "https://github.com/electron",
+      "created_at": "2015-07-19T23:17:47Z",
+      "updated_at": "2018-07-17T04:18:15Z",
+      "type": "Organization"
+    },
+    "SynkoDevelopers": {
+      "login": "SynkoDevelopers",
+      "url": "https://api.github.com/orgs/SynkoDevelopers",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/24530637?v=4",
+      "name": "Synko Developers",
+      "is_verified": false,
+      "html_url": "https://github.com/SynkoDevelopers",
+      "created_at": "2016-12-12T19:08:11Z",
+      "updated_at": "2018-07-29T04:37:41Z",
+      "type": "Organization"
+    },
+    "DesenvolvimentoDeBots": {
+      "login": "DesenvolvimentoDeBots",
+      "url": "https://api.github.com/orgs/DesenvolvimentoDeBots",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/25568953?v=4",
+      "name": "Desenvolvimento de Bots",
+      "is_verified": false,
+      "html_url": "https://github.com/DesenvolvimentoDeBots",
+      "created_at": "2017-02-05T17:49:06Z",
+      "updated_at": "2018-08-11T22:00:16Z",
+      "type": "Organization"
+    },
+    "CuboHub": {
+      "login": "CuboHub",
+      "url": "https://api.github.com/orgs/CuboHub",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/30417775?v=4",
+      "name": "CuboHub",
+      "is_verified": false,
+      "html_url": "https://github.com/CuboHub",
+      "created_at": "2017-07-24T18:53:19Z",
+      "updated_at": "2018-03-13T17:10:57Z",
+      "type": "Organization"
+    },
+    "TiagoDanin-Forks": {
+      "login": "TiagoDanin-Forks",
+      "url": "https://api.github.com/orgs/TiagoDanin-Forks",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/31831840?v=4",
+      "name": "TiagoDanin",
+      "is_verified": false,
+      "html_url": "https://github.com/TiagoDanin-Forks",
+      "created_at": "2017-09-10T22:36:51Z",
+      "updated_at": "2017-11-24T15:38:45Z",
+      "type": "Organization"
+    },
+    "jus": {
+      "login": "jus",
+      "url": "https://api.github.com/orgs/jus",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/25749135?v=4",
+      "name": "",
+      "is_verified": false,
+      "html_url": "https://github.com/jus",
+      "created_at": "2017-02-13T16:42:04Z",
+      "updated_at": "2017-02-15T17:34:55Z",
+      "type": "Organization"
+    },
+    "nice-registry": {
+      "login": "nice-registry",
+      "url": "https://api.github.com/orgs/nice-registry",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/25260192?v=4",
+      "name": "",
+      "is_verified": false,
+      "html_url": "https://github.com/nice-registry",
+      "created_at": "2017-01-21T04:32:43Z",
+      "updated_at": "2018-04-14T04:09:45Z",
+      "type": "Organization"
+    },
+    "Programeiros": {
+      "login": "Programeiros",
+      "url": "https://api.github.com/orgs/Programeiros",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/22352431?v=4",
+      "name": "Programeiros",
+      "is_verified": false,
+      "html_url": "https://github.com/Programeiros",
+      "created_at": "2016-09-21T17:48:52Z",
+      "updated_at": "2018-05-16T03:06:29Z",
+      "type": "Organization"
+    },
+    "listatelegram": {
+      "login": "listatelegram",
+      "url": "https://api.github.com/orgs/listatelegram",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/18494273?v=4",
+      "name": "",
+      "is_verified": false,
+      "html_url": "https://github.com/listatelegram",
+      "created_at": "2016-04-16T03:33:16Z",
+      "updated_at": "2016-06-08T21:17:17Z",
+      "type": "Organization"
+    },
+    "devtranslate": {
+      "login": "devtranslate",
+      "url": "https://api.github.com/orgs/devtranslate",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/26178127?v=4",
+      "name": "DevTranslate",
+      "is_verified": false,
+      "html_url": "https://github.com/devtranslate",
+      "created_at": "2017-03-04T03:39:21Z",
+      "updated_at": "2018-03-17T00:20:15Z",
+      "type": "Organization"
+    },
+    "IonicBrazil": {
+      "login": "IonicBrazil",
+      "url": "https://api.github.com/orgs/IonicBrazil",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/12193166?v=4",
+      "name": "IonicBrazil",
+      "is_verified": false,
+      "html_url": "https://github.com/IonicBrazil",
+      "created_at": "2015-05-01T00:33:33Z",
+      "updated_at": "2017-01-11T20:39:37Z",
+      "type": "Organization"
+    },
+    "CybrosLNMIIT": {
+      "login": "CybrosLNMIIT",
+      "url": "https://api.github.com/orgs/CybrosLNMIIT",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/20933917?v=4",
+      "name": "",
+      "is_verified": false,
+      "html_url": "https://github.com/CybrosLNMIIT",
+      "created_at": "2016-08-09T18:49:31Z",
+      "updated_at": "2016-08-27T14:07:58Z",
+      "type": "Organization"
+    },
+    "HackerSpaceMaringa": {
+      "login": "HackerSpaceMaringa",
+      "url": "https://api.github.com/orgs/HackerSpaceMaringa",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/5607368?v=4",
+      "name": "HackerSpace Maringá",
+      "is_verified": false,
+      "html_url": "https://github.com/HackerSpaceMaringa",
+      "created_at": "2013-10-03T22:59:48Z",
+      "updated_at": "2016-10-08T17:30:47Z",
+      "type": "Organization"
+    },
+    "tealinuxos": {
+      "login": "tealinuxos",
+      "url": "https://api.github.com/orgs/tealinuxos",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/4330068?v=4",
+      "name": "TeaLinuxOS",
+      "is_verified": false,
+      "html_url": "https://github.com/tealinuxos",
+      "created_at": "2013-05-03T09:44:36Z",
+      "updated_at": "2016-12-20T17:00:26Z",
+      "type": "Organization"
+    },
+    "Discord-Sharders": {
+      "login": "Discord-Sharders",
+      "url": "https://api.github.com/orgs/Discord-Sharders",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/31293490?v=4",
+      "name": "",
+      "is_verified": false,
+      "html_url": "https://github.com/Discord-Sharders",
+      "created_at": "2017-08-23T21:48:39Z",
+      "updated_at": "2018-08-02T04:30:42Z",
+      "type": "Organization"
+    },
+    "lenguaje-latino": {
+      "login": "lenguaje-latino",
+      "url": "https://api.github.com/orgs/lenguaje-latino",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/19155845?v=4",
+      "name": "lenguaje-latino",
+      "is_verified": false,
+      "html_url": "https://github.com/lenguaje-latino",
+      "created_at": "2016-05-02T19:05:21Z",
+      "updated_at": "2016-11-01T03:10:05Z",
+      "type": "Organization"
+    },
+    "pwrtelegram": {
+      "login": "pwrtelegram",
+      "url": "https://api.github.com/orgs/pwrtelegram",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/18580943?v=4",
+      "name": "PWRTelegram ",
+      "is_verified": false,
+      "html_url": "https://github.com/pwrtelegram",
+      "created_at": "2016-04-20T18:25:25Z",
+      "updated_at": "2016-09-15T08:19:53Z",
+      "type": "Organization"
+    },
+    "PyGithub": {
+      "login": "PyGithub",
+      "url": "https://api.github.com/orgs/PyGithub",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/11288996?v=4",
+      "is_verified": false,
+      "html_url": "https://github.com/PyGithub",
+      "created_at": "2015-03-03T07:41:07Z",
+      "updated_at": "2016-06-19T18:27:53Z",
+      "type": "Organization"
+    },
+    "openschoolbr": {
+      "login": "openschoolbr",
+      "url": "https://api.github.com/orgs/openschoolbr",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/30663962?v=4",
+      "name": "Open School Brasil",
+      "is_verified": false,
+      "html_url": "https://github.com/openschoolbr",
+      "created_at": "2017-08-02T16:15:20Z",
+      "updated_at": "2017-08-07T12:13:16Z",
+      "type": "Organization"
+    },
+    "brazil-it-groups": {
+      "login": "brazil-it-groups",
+      "url": "https://api.github.com/orgs/brazil-it-groups",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/20580546?v=4",
+      "is_verified": false,
+      "html_url": "https://github.com/brazil-it-groups",
+      "created_at": "2016-07-21T14:15:33Z",
+      "updated_at": "2017-06-22T00:33:59Z",
+      "type": "Organization"
+    },
+    "group-butler": {
+      "login": "group-butler",
+      "url": "https://api.github.com/orgs/group-butler",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/40149356?v=4",
+      "name": "Group Butler Bot",
+      "is_verified": false,
+      "html_url": "https://github.com/group-butler",
+      "created_at": "2018-06-10T19:05:15Z",
+      "updated_at": "2018-07-29T04:52:53Z",
+      "type": "Organization"
+    },
+    "Bambooir": {
+      "login": "Bambooir",
+      "url": "https://api.github.com/orgs/Bambooir",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/24588557?v=4",
+      "is_verified": false,
+      "html_url": "https://github.com/Bambooir",
+      "created_at": "2016-12-15T13:09:36Z",
+      "updated_at": "2016-12-15T13:09:36Z",
+      "type": "Organization"
+    },
+    "python-telegram-bot": {
+      "login": "python-telegram-bot",
+      "url": "https://api.github.com/orgs/python-telegram-bot",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/16178365?v=4",
+      "name": "",
+      "is_verified": false,
+      "html_url": "https://github.com/python-telegram-bot",
+      "created_at": "2015-12-06T16:42:34Z",
+      "updated_at": "2018-08-04T04:18:49Z",
+      "type": "Organization"
+    },
+    "ShareX": {
+      "login": "ShareX",
+      "url": "https://api.github.com/orgs/ShareX",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/5548736?v=4",
+      "name": "",
+      "is_verified": true,
+      "html_url": "https://github.com/ShareX",
+      "created_at": "2013-09-26T10:27:37Z",
+      "updated_at": "2016-04-19T22:15:34Z",
+      "type": "Organization"
+    },
+    "SEEDTEAM": {
+      "login": "SEEDTEAM",
+      "url": "https://api.github.com/orgs/SEEDTEAM",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/16178090?v=4",
+      "name": "Seed Team",
+      "is_verified": false,
+      "html_url": "https://github.com/SEEDTEAM",
+      "created_at": "2015-12-06T16:13:52Z",
+      "updated_at": "2016-07-18T14:04:08Z",
+      "type": "Organization"
     }
   }
 }

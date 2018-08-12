@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/samselikoff/ember-cli-mirage",
   "languages_url": "https://api.github.com/repos/samselikoff/ember-cli-mirage/languages",
   "created_at": "2015-01-28T22:08:26Z",
-  "updated_at": "2018-08-10T22:00:44Z",
-  "pushed_at": "2018-08-10T22:01:07Z",
+  "updated_at": "2018-08-12T13:06:24Z",
+  "pushed_at": "2018-08-12T13:06:22Z",
   "homepage": "http://ember-cli-mirage.com/",
-  "size": 8305,
+  "size": 8307,
   "stargazers_count": 803,
   "language": "JavaScript",
   "mirror_url": null,
@@ -126,7 +126,7 @@
     "Turbo87": 24,
     "cibernox": 21,
     "bekzod": 33,
-    "samselikoff": 713,
+    "samselikoff": 715,
     "invalid-email-address": 3,
     "jeloba": 2,
     "renpinto": 2,
@@ -173,7 +173,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 949944,
+      "bytes": 951949,
       "color": "#f1e05a"
     },
     "Perl": {
@@ -193,7 +193,7 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-08-11T06:30:09.580Z",
+  "fetched_at": "2018-08-12T17:48:20.581Z",
   "pulls_url": "https://api.github.com/repos/samselikoff/ember-cli-mirage/pulls{/number}",
   "pulls_authors": [
     "samselikoff",

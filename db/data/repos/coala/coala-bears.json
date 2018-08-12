@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/coala/coala-bears",
   "languages_url": "https://api.github.com/repos/coala/coala-bears/languages",
   "created_at": "2016-02-14T09:25:11Z",
-  "updated_at": "2018-08-11T17:24:20Z",
-  "pushed_at": "2018-08-11T17:24:01Z",
+  "updated_at": "2018-08-12T16:32:35Z",
+  "pushed_at": "2018-08-12T16:32:19Z",
   "homepage": "https://coala.io/",
-  "size": 2268,
+  "size": 2281,
   "stargazers_count": 204,
   "language": "Python",
   "mirror_url": null,
@@ -125,7 +125,7 @@
     "jarifibrahim": 6,
     "satwikkansal": 7,
     "nkprince007": 7,
-    "anctartica": 9,
+    "anctartica": 12,
     "virresh": 8,
     "Techievena": 8,
     "vivek425ster": 8,
@@ -254,7 +254,7 @@
   },
   "languages": {
     "Python": {
-      "bytes": 1133925,
+      "bytes": 1147588,
       "color": "#3572A5"
     },
     "C": {
@@ -262,8 +262,12 @@
       "color": "#555555"
     },
     "Shell": {
-      "bytes": 10001,
+      "bytes": 10036,
       "color": "#89e051"
+    },
+    "Gherkin": {
+      "bytes": 6275,
+      "color": "#5B2063"
     },
     "Batchfile": {
       "bytes": 1842,
@@ -306,7 +310,7 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-12T04:56:28.350Z",
+  "fetched_at": "2018-08-12T17:48:20.581Z",
   "pulls_url": "https://api.github.com/repos/coala/coala-bears/pulls{/number}",
   "pulls_authors": [
     "jayvdb",

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/AurelienLourot/ghuser.io",
   "languages_url": "https://api.github.com/repos/AurelienLourot/ghuser.io/languages",
   "created_at": "2018-06-19T11:36:58Z",
-  "updated_at": "2018-08-11T15:10:31Z",
-  "pushed_at": "2018-08-11T15:10:35Z",
+  "updated_at": "2018-08-12T15:19:16Z",
+  "pushed_at": "2018-08-12T05:08:07Z",
   "homepage": "https://ghuser.io",
-  "size": 25228,
-  "stargazers_count": 32,
+  "size": 25345,
+  "stargazers_count": 33,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -27,7 +27,7 @@
   },
   "default_branch": "master",
   "contributors": {
-    "AurelienLourot": 330,
+    "AurelienLourot": 331,
     "brillout": 4
   },
   "settings": {
@@ -62,7 +62,7 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-08-12T04:56:28.350Z",
+  "fetched_at": "2018-08-12T17:48:20.581Z",
   "pulls_url": "https://api.github.com/repos/AurelienLourot/ghuser.io/pulls{/number}",
   "pulls_authors": [
     "AurelienLourot",

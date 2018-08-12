@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/facebook/react",
   "languages_url": "https://api.github.com/repos/facebook/react/languages",
   "created_at": "2013-05-24T16:15:54Z",
-  "updated_at": "2018-08-12T04:17:34Z",
-  "pushed_at": "2018-08-12T00:07:57Z",
+  "updated_at": "2018-08-12T17:48:13Z",
+  "pushed_at": "2018-08-12T17:22:06Z",
   "homepage": "https://reactjs.org",
-  "size": 137553,
-  "stargazers_count": 108566,
+  "size": 137556,
+  "stargazers_count": 108584,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -62,7 +62,7 @@
     "jbaiter": 5,
     "keito": 5,
     "clayallsopp": 5,
-    "philipp-spiess": 9,
+    "philipp-spiess": 10,
     "brigand": 6,
     "aaronabramov": 5,
     "jontewks": 6,
@@ -504,7 +504,8 @@
     "acusti": 1,
     "jegtnes": 1,
     "clarkdo": 2,
-    "alexrohleder": 1
+    "alexrohleder": 1,
+    "motiz88": 2
   },
   "languages": {
     "JavaScript": {
@@ -548,7 +549,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-12T04:56:28.350Z",
+  "fetched_at": "2018-08-12T17:48:20.581Z",
   "pulls_url": "https://api.github.com/repos/facebook/react/pulls{/number}",
   "pulls_authors": [
     "gaearon",
@@ -2586,6 +2587,7 @@
     "chroman",
     "seratch",
     "SamanShafigh",
-    "alexrohleder"
+    "alexrohleder",
+    "davidblnc"
   ]
 }
