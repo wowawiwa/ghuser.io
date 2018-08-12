@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/zeit/next.js",
   "languages_url": "https://api.github.com/repos/zeit/next.js/languages",
   "created_at": "2016-10-05T23:32:51Z",
-  "updated_at": "2018-08-11T14:00:26Z",
-  "pushed_at": "2018-08-11T14:14:28Z",
+  "updated_at": "2018-08-12T04:21:57Z",
+  "pushed_at": "2018-08-12T02:39:49Z",
   "homepage": "https://nextjs.org",
-  "size": 7333,
-  "stargazers_count": 27947,
+  "size": 7344,
+  "stargazers_count": 27954,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 354933,
+      "bytes": 355644,
       "color": "#f1e05a"
     },
     "TypeScript": {
@@ -150,7 +150,7 @@
     "sedubois": 11,
     "yhirano55": 13,
     "kpdecker": 13,
-    "oliviertassinari": 16,
+    "oliviertassinari": 17,
     "sergiodxa": 18,
     "brikou": 20,
     "leo": 28,
@@ -470,7 +470,7 @@
     "tmeasday": 1,
     "tmcw": 1,
     "wereHamster": 1,
-    "Tomekmularczyk": 10,
+    "Tomekmularczyk": 11,
     "cheshirecode": 1,
     "trevordmiller": 1,
     "tryggvigy": 1,
@@ -546,7 +546,7 @@
     "martyla": 1,
     "sahalsajjad": 1
   },
-  "fetched_at": "2018-08-11T14:32:15.121Z",
+  "fetched_at": "2018-08-12T04:56:28.350Z",
   "pulls_url": "https://api.github.com/repos/zeit/next.js/pulls{/number}",
   "pulls_authors": [
     "connor-baer",
@@ -1214,6 +1214,7 @@
     "jpadilla",
     "sahalsajjad",
     "allpwrfulroot",
-    "dav-is"
+    "dav-is",
+    "aarongervais"
   ]
 }

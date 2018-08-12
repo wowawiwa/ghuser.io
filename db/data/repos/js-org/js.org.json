@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/js-org/js.org",
   "languages_url": "https://api.github.com/repos/js-org/js.org/languages",
   "created_at": "2015-04-08T01:43:18Z",
-  "updated_at": "2018-08-11T04:03:27Z",
-  "pushed_at": "2018-08-10T20:59:21Z",
+  "updated_at": "2018-08-12T01:47:11Z",
+  "pushed_at": "2018-08-12T04:29:34Z",
   "homepage": "https://js.org",
-  "size": 2762,
-  "stargazers_count": 1821,
+  "size": 2888,
+  "stargazers_count": 1822,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -141,7 +141,7 @@
     "tannerlinsley": 15,
     "pakastin": 15,
     "egoist": 16,
-    "indus": 1846,
+    "indus": 1849,
     "ccrraaiigg": 3,
     "danieljuarezp": 3,
     "dhruvdutt": 3,
@@ -493,15 +493,17 @@
     "ChandZhang": 1,
     "haxzie": 2,
     "8tentaculos": 1,
-    "bojand": 1
+    "bojand": 1,
+    "1ocalhost": 1,
+    "adamshurson": 1
   },
   "languages": {
     "JavaScript": {
-      "bytes": 83092,
+      "bytes": 83210,
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-11T06:30:09.580Z",
+  "fetched_at": "2018-08-12T04:56:28.350Z",
   "pulls_url": "https://api.github.com/repos/js-org/js.org/pulls{/number}",
   "pulls_authors": [
     "ChandZhang",
@@ -1857,6 +1859,10 @@
     "Ni55aN",
     "bojand",
     "tricoder42",
-    "adamshurson"
+    "adamshurson",
+    "zhaomenghuan",
+    "diegomura",
+    "1ocalhost",
+    "fairymeee"
   ]
 }

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/nodejs/node",
   "languages_url": "https://api.github.com/repos/nodejs/node/languages",
   "created_at": "2014-11-26T19:57:11Z",
-  "updated_at": "2018-08-11T14:32:55Z",
-  "pushed_at": "2018-08-11T14:21:46Z",
+  "updated_at": "2018-08-12T04:45:00Z",
+  "pushed_at": "2018-08-12T04:44:13Z",
   "homepage": "https://nodejs.org",
-  "size": 400136,
-  "stargazers_count": 52168,
+  "size": 400075,
+  "stargazers_count": 52179,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 6758297,
+      "bytes": 6763919,
       "color": "#f1e05a"
     },
     "C++": {
-      "bytes": 2460096,
+      "bytes": 2465068,
       "color": "#f34b7d"
     },
     "Python": {
@@ -68,7 +68,7 @@
       "color": "#e34c26"
     },
     "Makefile": {
-      "bytes": 43084,
+      "bytes": 43195,
       "color": "#427819"
     },
     "DTrace": {
@@ -154,7 +154,7 @@
     "devsnek": 55,
     "seishun": 48,
     "watilde": 48,
-    "maclover7": 68,
+    "maclover7": 70,
     "fhinkel": 51,
     "gabrielschulhof": 59,
     "yorkie": 57,
@@ -190,10 +190,10 @@
     "BridgeAR": 328,
     "mscdex": 318,
     "rvagg": 320,
-    "danbev": 342,
+    "danbev": 343,
     "trevnorris": 363,
     "cjihrig": 385,
-    "jasnell": 502,
+    "jasnell": 505,
     "piscisaureus": 598,
     "addaleax": 664,
     "indutny": 755,
@@ -253,7 +253,7 @@
     "KryDos": 10,
     "shobhitchittora": 10,
     "agl": 9,
-    "bcoe": 9,
+    "bcoe": 10,
     "jscissr": 9,
     "jBarz": 9,
     "pmq20": 9,
@@ -573,7 +573,7 @@
     "oyyd": 3,
     "tlhunter": 3
   },
-  "fetched_at": "2018-08-11T14:32:15.121Z",
+  "fetched_at": "2018-08-12T04:56:28.350Z",
   "pulls_url": "https://api.github.com/repos/nodejs/node/pulls{/number}",
   "pulls_authors": [
     "mmarchini",
@@ -2771,6 +2771,7 @@
     "oygen87",
     "mhamwala",
     "kylef",
-    "thw0rted"
+    "thw0rted",
+    "wchargin"
   ]
 }
