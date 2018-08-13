@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/jamesgeorge007/Personal-Website",
   "languages_url": "https://api.github.com/repos/jamesgeorge007/Personal-Website/languages",
   "created_at": "2018-03-30T12:23:31Z",
-  "updated_at": "2018-08-12T15:58:40Z",
-  "pushed_at": "2018-08-12T15:58:39Z",
+  "updated_at": "2018-08-13T13:23:01Z",
+  "pushed_at": "2018-08-13T13:22:59Z",
   "homepage": "",
-  "size": 6319,
+  "size": 6432,
   "stargazers_count": 6,
   "language": "TypeScript",
   "mirror_url": null,
@@ -21,11 +21,11 @@
   "license": null,
   "default_branch": "master",
   "contributors": {
-    "jamesgeorge007": 61
+    "jamesgeorge007": 62
   },
   "languages": {
     "TypeScript": {
-      "bytes": 8135,
+      "bytes": 8143,
       "color": "#2b7489"
     },
     "HTML": {
@@ -37,7 +37,7 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-08-12T17:48:20.581Z",
+  "fetched_at": "2018-08-13T15:42:49.251Z",
   "pulls_url": "https://api.github.com/repos/jamesgeorge007/Personal-Website/pulls{/number}",
   "pulls_authors": [
     "SamHez"

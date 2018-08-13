@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/libp2p/js-libp2p",
   "languages_url": "https://api.github.com/repos/libp2p/js-libp2p/languages",
   "created_at": "2015-07-23T21:05:43Z",
-  "updated_at": "2018-08-11T11:08:56Z",
-  "pushed_at": "2018-08-11T11:08:54Z",
+  "updated_at": "2018-08-13T13:11:24Z",
+  "pushed_at": "2018-08-13T13:11:26Z",
   "homepage": "https://libp2p.io",
-  "size": 6075,
+  "size": 6077,
   "stargazers_count": 631,
   "language": "JavaScript",
   "mirror_url": null,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 108776,
+      "bytes": 109725,
       "color": "#f1e05a"
     },
     "Groovy": {
@@ -59,7 +59,7 @@
   "contributors": {
     "hugomrdias": 1,
     "joaosantos15": 1,
-    "vmx": 1,
+    "vmx": 2,
     "Florian-Merle": 1,
     "fsdiogo": 1,
     "soenkehahn": 1,
@@ -76,7 +76,7 @@
     "rasmuserik": 1,
     "chrisbratlien": 1,
     "mayerwin": 1,
-    "jacobheun": 5,
+    "jacobheun": 6,
     "fiatjaf": 2,
     "VictorBjelkholm": 2,
     "Elvenisboy": 2,
@@ -86,10 +86,10 @@
     "greenkeeperio-bot": 6,
     "pgte": 7,
     "dignifiedquire": 7,
-    "alanshaw": 8,
+    "alanshaw": 9,
     "diasdavid": 238
   },
-  "fetched_at": "2018-08-11T14:32:15.121Z",
+  "fetched_at": "2018-08-13T13:13:40.598Z",
   "pulls_url": "https://api.github.com/repos/libp2p/js-libp2p/pulls{/number}",
   "pulls_authors": [
     "jacobheun",

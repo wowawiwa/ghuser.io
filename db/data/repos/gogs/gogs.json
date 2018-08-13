@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/gogs/gogs",
   "languages_url": "https://api.github.com/repos/gogs/gogs/languages",
   "created_at": "2014-02-12T01:57:08Z",
-  "updated_at": "2018-08-13T04:07:15Z",
-  "pushed_at": "2018-08-07T20:09:35Z",
+  "updated_at": "2018-08-13T13:16:42Z",
+  "pushed_at": "2018-08-13T13:12:22Z",
   "homepage": "https://gogs.io",
   "size": 146946,
-  "stargazers_count": 26527,
+  "stargazers_count": 26537,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -166,7 +166,7 @@
     "kmadel": 2,
     "lafriks": 2,
     "Eriner": 2,
-    "alimy": 2,
+    "alimy": 3,
     "edef1c": 2,
     "rbukovansky": 2,
     "master-d": 2,
@@ -434,11 +434,13 @@
     "zhuharev": 1,
     "solo12zw74": 1,
     "vongola12324": 1,
-    "j20": 1
+    "j20": 1,
+    "geekcomb": 1,
+    "chromium1337": 1
   },
   "languages": {
     "Go": {
-      "bytes": 1134029,
+      "bytes": 1134287,
       "color": "#375eab"
     },
     "CSS": {
@@ -450,23 +452,23 @@
       "color": "#f1e05a"
     },
     "Shell": {
-      "bytes": 18193,
+      "bytes": 18206,
       "color": "#89e051"
     },
     "Makefile": {
       "bytes": 2073,
       "color": "#427819"
     },
+    "Dockerfile": {
+      "bytes": 1104,
+      "color": "#0db7ed"
+    },
     "Batchfile": {
       "bytes": 932,
       "color": "#C1F12E"
-    },
-    "Dockerfile": {
-      "bytes": 908,
-      "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-13T04:49:08.507Z",
+  "fetched_at": "2018-08-13T13:13:40.598Z",
   "pulls_url": "https://api.github.com/repos/gogs/gogs/pulls{/number}",
   "pulls_authors": [
     "chromium1337",

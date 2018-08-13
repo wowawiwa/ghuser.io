@@ -10,8 +10,8 @@
   "url": "https://api.github.com/repos/livegrep/livegrep",
   "languages_url": "https://api.github.com/repos/livegrep/livegrep/languages",
   "created_at": "2013-02-10T00:19:18Z",
-  "updated_at": "2018-08-09T05:14:23Z",
-  "pushed_at": "2018-08-08T03:10:26Z",
+  "updated_at": "2018-08-13T16:15:58Z",
+  "pushed_at": "2018-08-13T16:15:59Z",
   "homepage": "",
   "size": 8490,
   "stargazers_count": 466,
@@ -52,7 +52,7 @@
       "color": "#f34b7d"
     },
     "Python": {
-      "bytes": 181259,
+      "bytes": 181271,
       "color": "#3572A5"
     },
     "Go": {
@@ -101,11 +101,11 @@
     "tpcwang": 17,
     "brandon-rhodes": 54,
     "jboning": 66,
-    "nelhage": 1007,
+    "nelhage": 1010,
     "fowles": 2,
     "ains-stripe": 2
   },
-  "fetched_at": "2018-08-09T16:35:43.594Z",
+  "fetched_at": "2018-08-13T16:24:56.635Z",
   "pulls_url": "https://api.github.com/repos/livegrep/livegrep/pulls{/number}",
   "pulls_authors": [
     "ains-stripe",

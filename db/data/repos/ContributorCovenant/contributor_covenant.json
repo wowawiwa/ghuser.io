@@ -10,8 +10,8 @@
   "url": "https://api.github.com/repos/ContributorCovenant/contributor_covenant",
   "languages_url": "https://api.github.com/repos/ContributorCovenant/contributor_covenant/languages",
   "created_at": "2014-01-30T00:56:37Z",
-  "updated_at": "2018-08-11T10:20:48Z",
-  "pushed_at": "2018-07-19T07:12:09Z",
+  "updated_at": "2018-08-13T15:20:40Z",
+  "pushed_at": "2018-08-13T15:20:39Z",
   "homepage": "http://www.contributor-covenant.org/",
   "size": 6330,
   "stargazers_count": 660,
@@ -303,7 +303,7 @@
     "joscormir": 1,
     "tieguy": 2
   },
-  "fetched_at": "2018-08-11T14:32:15.121Z",
+  "fetched_at": "2018-08-13T15:42:49.251Z",
   "pulls_url": "https://api.github.com/repos/ContributorCovenant/contributor_covenant/pulls{/number}",
   "pulls_authors": [
     "tieguy",
@@ -614,6 +614,7 @@
     "kerrizor",
     "jbrains",
     "btford",
-    "phinze"
+    "phinze",
+    "camilleroux"
   ]
 }

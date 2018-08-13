@@ -13,7 +13,7 @@
     "hi-ogawa": 11,
     "kurikaesu": 11,
     "masoudbh3": 11,
-    "ibrahn": 21,
+    "ibrahn": 22,
     "ShyRed": 12,
     "n-pigeon": 12,
     "DmitriySalnikov": 12,
@@ -57,7 +57,7 @@
     "Max-Might": 37,
     "Ovnuniarchos": 34,
     "AlexHolly": 36,
-    "Calinou": 47,
+    "Calinou": 50,
     "kubecz3k": 46,
     "willnationsdev": 43,
     "NathanWarden": 42,
@@ -65,7 +65,7 @@
     "Zylann": 46,
     "bruvzg": 48,
     "J08nY": 48,
-    "Chaosus": 55,
+    "Chaosus": 56,
     "touilleMan": 50,
     "hurikhan": 66,
     "leezh": 56,
@@ -74,20 +74,20 @@
     "MarianoGnu": 79,
     "sanikoyes": 68,
     "Geequlim": 69,
-    "SaracenOne": 82,
+    "SaracenOne": 83,
     "tagcup": 69,
     "AndreaCatania": 83,
     "endragor": 74,
-    "YeldhamDev": 78,
+    "YeldhamDev": 80,
     "punto-": 121,
     "BastiaanOlij": 93,
-    "groud": 142,
+    "groud": 143,
     "toger5": 101,
     "hpvb": 156,
     "poke1024": 118,
-    "marcelofg55": 135,
+    "marcelofg55": 136,
     "marynate": 118,
-    "karroffel": 269,
+    "karroffel": 270,
     "bojidar-bg": 130,
     "eska014": 156,
     "Faless": 171,
@@ -99,7 +99,7 @@
     "Hinsbart": 303,
     "neikeq": 351,
     "volzhs": 295,
-    "akien-mga": 4691,
+    "akien-mga": 4705,
     "reduz": 2813,
     "cbscribe": 39,
     "Spooner": 16,
@@ -108,7 +108,7 @@
     "KidRigger": 9,
     "cart": 9,
     "capnm": 9,
-    "dragmz": 15,
+    "dragmz": 16,
     "QuLogic": 8,
     "MattUV": 8,
     "ricpelo": 8,
@@ -190,7 +190,7 @@
     "quabug": 4,
     "samuelgrigolato": 4,
     "AlexHoratio": 4,
-    "swarnimarun": 6,
+    "swarnimarun": 7,
     "bdero": 4,
     "henriquelalves": 4,
     "aaronfranke": 8,
@@ -278,7 +278,7 @@
     "larsonjj": 2,
     "Jellonator": 2,
     "Felbo": 2,
-    "ronchaine": 2,
+    "ronchaine": 3,
     "jarfil": 2,
     "Jason0214": 2,
     "jfaust": 2,
@@ -412,7 +412,8 @@
     "Ertain": 3,
     "goodyttoor": 2,
     "martindzejky": 6,
-    "Overblob": 3
+    "Overblob": 3,
+    "Tunous": 2
   },
   "name": "godot",
   "full_name": "godotengine/godot",
@@ -424,11 +425,11 @@
   "url": "https://api.github.com/repos/godotengine/godot",
   "languages_url": "https://api.github.com/repos/godotengine/godot/languages",
   "created_at": "2014-01-04T16:05:36Z",
-  "updated_at": "2018-08-13T04:13:10Z",
-  "pushed_at": "2018-08-13T03:37:34Z",
+  "updated_at": "2018-08-13T12:24:55Z",
+  "pushed_at": "2018-08-13T12:18:36Z",
   "homepage": "https://godotengine.org",
-  "size": 255980,
-  "stargazers_count": 16157,
+  "size": 256217,
+  "stargazers_count": 16163,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -462,7 +463,7 @@
   },
   "languages": {
     "C++": {
-      "bytes": 21324925,
+      "bytes": 21180025,
       "color": "#f34b7d"
     },
     "Java": {
@@ -470,7 +471,7 @@
       "color": "#b07219"
     },
     "Python": {
-      "bytes": 332071,
+      "bytes": 332096,
       "color": "#3572A5"
     },
     "C#": {
@@ -506,7 +507,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-13T04:49:08.507Z",
+  "fetched_at": "2018-08-13T13:13:40.598Z",
   "pulls_url": "https://api.github.com/repos/godotengine/godot/pulls{/number}",
   "pulls_authors": [
     "Calinou",
@@ -1392,6 +1393,7 @@
     "rileylyman",
     "kripken",
     "codingHahn",
-    "RevenantX"
+    "RevenantX",
+    "Teashrock"
   ]
 }

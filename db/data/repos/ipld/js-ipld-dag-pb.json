@@ -10,8 +10,8 @@
   "url": "https://api.github.com/repos/ipld/js-ipld-dag-pb",
   "languages_url": "https://api.github.com/repos/ipld/js-ipld-dag-pb/languages",
   "created_at": "2016-09-30T06:51:36Z",
-  "updated_at": "2018-08-12T15:16:46Z",
-  "pushed_at": "2018-08-07T12:11:40Z",
+  "updated_at": "2018-08-13T15:10:18Z",
+  "pushed_at": "2018-08-13T15:10:26Z",
   "homepage": null,
   "size": 86665,
   "stargazers_count": 29,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 48403,
+      "bytes": 48248,
       "color": "#f1e05a"
     },
     "Groovy": {
@@ -57,7 +57,7 @@
     }
   },
   "contributors": {
-    "achingbrain": 2,
+    "achingbrain": 3,
     "ya7ya": 1,
     "AdamStone": 1,
     "atvanguard": 1,
@@ -76,12 +76,12 @@
     "fsdiogo": 5,
     "nginnever": 10,
     "dignifiedquire": 18,
-    "vmx": 20,
+    "vmx": 22,
     "vijayee": 35,
     "diasdavid": 159,
     "olizilla": 1
   },
-  "fetched_at": "2018-08-12T17:48:20.581Z",
+  "fetched_at": "2018-08-13T15:42:49.251Z",
   "pulls_url": "https://api.github.com/repos/ipld/js-ipld-dag-pb/pulls{/number}",
   "pulls_authors": [
     "achingbrain",

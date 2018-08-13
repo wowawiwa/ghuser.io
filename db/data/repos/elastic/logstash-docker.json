@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/elastic/logstash-docker",
   "languages_url": "https://api.github.com/repos/elastic/logstash-docker/languages",
   "created_at": "2016-10-04T04:16:54Z",
-  "updated_at": "2018-08-13T04:17:05Z",
+  "updated_at": "2018-08-13T06:24:13Z",
   "pushed_at": "2018-08-13T02:41:54Z",
   "homepage": null,
   "size": 139,
-  "stargazers_count": 197,
+  "stargazers_count": 198,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -77,7 +77,7 @@
     "dliappis": 18,
     "jarpy": 143
   },
-  "fetched_at": "2018-08-13T04:49:08.507Z",
+  "fetched_at": "2018-08-13T13:13:40.598Z",
   "pulls_url": "https://api.github.com/repos/elastic/logstash-docker/pulls{/number}",
   "pulls_authors": [
     "Conky5",

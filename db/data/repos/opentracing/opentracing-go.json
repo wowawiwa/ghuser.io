@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/opentracing/opentracing-go",
   "languages_url": "https://api.github.com/repos/opentracing/opentracing-go/languages",
   "created_at": "2015-11-26T04:52:54Z",
-  "updated_at": "2018-08-09T14:48:36Z",
+  "updated_at": "2018-08-13T15:17:15Z",
   "pushed_at": "2018-06-06T20:41:49Z",
   "homepage": "http://opentracing.io",
   "size": 370,
-  "stargazers_count": 1290,
+  "stargazers_count": 1292,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -92,7 +92,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-09T16:35:43.594Z",
+  "fetched_at": "2018-08-13T15:42:49.251Z",
   "pulls_url": "https://api.github.com/repos/opentracing/opentracing-go/pulls{/number}",
   "pulls_authors": [
     "jcchavezs",
