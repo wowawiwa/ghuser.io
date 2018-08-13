@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/whyrusleeping/gx",
   "languages_url": "https://api.github.com/repos/whyrusleeping/gx/languages",
   "created_at": "2015-06-09T22:26:48Z",
-  "updated_at": "2018-08-12T05:51:33Z",
-  "pushed_at": "2018-08-10T17:20:11Z",
+  "updated_at": "2018-08-13T03:57:53Z",
+  "pushed_at": "2018-08-13T03:54:36Z",
   "homepage": null,
-  "size": 4431,
-  "stargazers_count": 1560,
+  "size": 4433,
+  "stargazers_count": 1561,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -28,11 +28,11 @@
   "default_branch": "master",
   "languages": {
     "Go": {
-      "bytes": 79082,
+      "bytes": 78991,
       "color": "#375eab"
     },
     "Shell": {
-      "bytes": 25888,
+      "bytes": 26187,
       "color": "#89e051"
     },
     "Makefile": {
@@ -51,7 +51,7 @@
     "RichardLitt": 2,
     "gingerhot": 2,
     "hsanjuan": 2,
-    "Stebalien": 3,
+    "Stebalien": 4,
     "slang800": 3,
     "Kubuxu": 4,
     "lgierth": 4,
@@ -59,9 +59,10 @@
     "djdv": 6,
     "noffle": 7,
     "chriscool": 8,
-    "whyrusleeping": 233
+    "whyrusleeping": 233,
+    "schomatis": 1
   },
-  "fetched_at": "2018-08-12T17:48:20.581Z",
+  "fetched_at": "2018-08-13T04:49:08.507Z",
   "pulls_url": "https://api.github.com/repos/whyrusleeping/gx/pulls{/number}",
   "pulls_authors": [
     "Stebalien",

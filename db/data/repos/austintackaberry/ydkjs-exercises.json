@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/austintackaberry/ydkjs-exercises",
   "languages_url": "https://api.github.com/repos/austintackaberry/ydkjs-exercises/languages",
   "created_at": "2018-03-20T23:22:10Z",
-  "updated_at": "2018-08-11T16:08:19Z",
-  "pushed_at": "2018-08-11T18:12:18Z",
+  "updated_at": "2018-08-13T01:26:46Z",
+  "pushed_at": "2018-08-13T01:26:53Z",
   "homepage": null,
-  "size": 1001,
+  "size": 1018,
   "stargazers_count": 58,
   "language": "JavaScript",
   "mirror_url": null,
@@ -42,13 +42,13 @@
     "jarrodyellets": 5,
     "kevinYCKim33": 18,
     "nikrb": 29,
-    "austintackaberry": 119,
+    "austintackaberry": 128,
     "radotreyes": 20,
     "oliverJurgen": 6
   },
   "languages": {
     "JavaScript": {
-      "bytes": 182536,
+      "bytes": 207471,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -60,7 +60,7 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-08-12T04:56:28.350Z",
+  "fetched_at": "2018-08-13T04:49:08.507Z",
   "pulls_url": "https://api.github.com/repos/austintackaberry/ydkjs-exercises/pulls{/number}",
   "pulls_authors": [
     "oliverJurgen",

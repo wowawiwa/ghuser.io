@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/js-org/js.org",
   "languages_url": "https://api.github.com/repos/js-org/js.org/languages",
   "created_at": "2015-04-08T01:43:18Z",
-  "updated_at": "2018-08-12T11:08:22Z",
-  "pushed_at": "2018-08-12T16:11:13Z",
+  "updated_at": "2018-08-12T23:49:00Z",
+  "pushed_at": "2018-08-12T18:34:52Z",
   "homepage": "https://js.org",
-  "size": 2888,
-  "stargazers_count": 1823,
+  "size": 2963,
+  "stargazers_count": 1825,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -141,7 +141,7 @@
     "tannerlinsley": 15,
     "pakastin": 15,
     "egoist": 16,
-    "indus": 1849,
+    "indus": 1851,
     "ccrraaiigg": 3,
     "danieljuarezp": 3,
     "dhruvdutt": 3,
@@ -441,7 +441,7 @@
     "brandonmerritt": 1,
     "BrandonDyer64": 1,
     "bguiz": 1,
-    "ninbryan": 1,
+    "ninbryan": 2,
     "bdwain": 1,
     "ByteCommander": 1,
     "creimers": 1,
@@ -499,11 +499,11 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 83210,
+      "bytes": 83283,
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-12T17:48:20.581Z",
+  "fetched_at": "2018-08-13T04:49:08.507Z",
   "pulls_url": "https://api.github.com/repos/js-org/js.org/pulls{/number}",
   "pulls_authors": [
     "ChandZhang",

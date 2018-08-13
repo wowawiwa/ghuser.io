@@ -10,8 +10,8 @@
   "url": "https://api.github.com/repos/mad-hacks/madhacks-webapp",
   "languages_url": "https://api.github.com/repos/mad-hacks/madhacks-webapp/languages",
   "created_at": "2018-07-12T16:11:29Z",
-  "updated_at": "2018-08-11T10:43:05Z",
-  "pushed_at": "2018-08-11T10:43:03Z",
+  "updated_at": "2018-08-13T04:44:44Z",
+  "pushed_at": "2018-08-13T04:44:43Z",
   "homepage": null,
   "size": 1576,
   "stargazers_count": 1,
@@ -42,22 +42,22 @@
   },
   "contributors": {
     "ajomadlabs": 7,
-    "jamesgeorge007": 53,
+    "jamesgeorge007": 56,
     "jamesjose03": 29,
     "scriptonist": 1,
-    "alanmathew333": 2
+    "alanmathew333": 3
   },
   "languages": {
     "Vue": {
-      "bytes": 57819,
+      "bytes": 58238,
       "color": "#2c3e50"
     },
     "CSS": {
-      "bytes": 43556,
+      "bytes": 44035,
       "color": "#563d7c"
     },
     "JavaScript": {
-      "bytes": 29993,
+      "bytes": 31003,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -73,7 +73,7 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-11T14:08:16.487Z",
+  "fetched_at": "2018-08-13T04:49:08.507Z",
   "pulls_url": "https://api.github.com/repos/mad-hacks/madhacks-webapp/pulls{/number}",
   "pulls_authors": [
     "alanmathew333",

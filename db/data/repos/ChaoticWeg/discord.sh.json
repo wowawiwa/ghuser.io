@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "discord.sh",
+  "full_name": "ChaoticWeg/discord.sh",
+  "owner": "ChaoticWeg",
+  "private": false,
+  "html_url": "https://github.com/ChaoticWeg/discord.sh",
+  "description": "Write-only command-line Discord integration written in 100% Bash script",
+  "fork": false,
+  "url": "https://api.github.com/repos/ChaoticWeg/discord.sh",
+  "languages_url": "https://api.github.com/repos/ChaoticWeg/discord.sh/languages",
+  "pulls_url": "https://api.github.com/repos/ChaoticWeg/discord.sh/pulls{/number}",
+  "created_at": "2018-08-12T05:36:13Z",
+  "updated_at": "2018-08-13T02:15:09Z",
+  "pushed_at": "2018-08-13T02:15:08Z",
+  "homepage": "",
+  "size": 4,
+  "stargazers_count": 1,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ChaoticWeg": 7
+  },
+  "pulls_authors": [
+    "NurdTurd"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 2301,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-08-13T04:49:08.507Z"
+}

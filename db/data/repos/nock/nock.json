@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/nock/nock",
   "languages_url": "https://api.github.com/repos/nock/nock/languages",
   "created_at": "2011-09-22T10:08:03Z",
-  "updated_at": "2018-08-12T12:25:55Z",
-  "pushed_at": "2018-08-12T17:12:57Z",
+  "updated_at": "2018-08-13T04:40:22Z",
+  "pushed_at": "2018-08-13T04:40:16Z",
   "homepage": "",
-  "size": 3496,
-  "stargazers_count": 6710,
+  "size": 3499,
+  "stargazers_count": 6711,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 313745,
+      "bytes": 313740,
       "color": "#f1e05a"
     }
   },
@@ -235,9 +235,10 @@
     "yinrong": 1,
     "jlilja": 1,
     "bloof-bb": 2,
-    "timrogers": 1
+    "timrogers": 1,
+    "griffinmyers": 1
   },
-  "fetched_at": "2018-08-12T17:48:20.581Z",
+  "fetched_at": "2018-08-13T04:49:08.507Z",
   "pulls_url": "https://api.github.com/repos/nock/nock/pulls{/number}",
   "pulls_authors": [
     "griffinmyers",

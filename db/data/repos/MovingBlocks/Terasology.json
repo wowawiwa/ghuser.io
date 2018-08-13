@@ -66,7 +66,7 @@
     "portokaliu": 22,
     "dkambersky": 26,
     "unknown0perator": 25,
-    "ar0ne": 48,
+    "ar0ne": 51,
     "shartte": 26,
     "iojw": 27,
     "pollend": 31,
@@ -206,10 +206,10 @@
   "url": "https://api.github.com/repos/MovingBlocks/Terasology",
   "languages_url": "https://api.github.com/repos/MovingBlocks/Terasology/languages",
   "created_at": "2011-03-04T03:49:19Z",
-  "updated_at": "2018-08-12T13:40:37Z",
-  "pushed_at": "2018-08-11T14:37:08Z",
+  "updated_at": "2018-08-13T02:48:19Z",
+  "pushed_at": "2018-08-13T02:48:12Z",
   "homepage": "http://terasology.org",
-  "size": 286171,
+  "size": 286297,
   "stargazers_count": 2398,
   "language": "Java",
   "mirror_url": null,
@@ -244,7 +244,7 @@
   },
   "languages": {
     "Java": {
-      "bytes": 8476341,
+      "bytes": 8495691,
       "color": "#b07219"
     },
     "GLSL": {
@@ -264,7 +264,7 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-08-12T17:48:20.581Z",
+  "fetched_at": "2018-08-13T04:49:08.507Z",
   "pulls_url": "https://api.github.com/repos/MovingBlocks/Terasology/pulls{/number}",
   "pulls_authors": [
     "TheFlash98",
