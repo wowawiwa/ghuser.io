@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/crazy-max/docker-jetbrains-license-server",
   "languages_url": "https://api.github.com/repos/crazy-max/docker-jetbrains-license-server/languages",
   "created_at": "2018-02-01T10:57:47Z",
-  "updated_at": "2018-08-11T14:18:25Z",
+  "updated_at": "2018-08-13T05:22:58Z",
   "pushed_at": "2018-07-30T14:28:59Z",
   "homepage": "",
   "size": 139,
-  "stargazers_count": 72,
+  "stargazers_count": 73,
   "language": "Shell",
   "mirror_url": null,
   "archived": false,
@@ -40,7 +40,7 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-12T04:56:28.350Z",
+  "fetched_at": "2018-08-13T07:52:54.319Z",
   "pulls_url": "https://api.github.com/repos/crazy-max/docker-jetbrains-license-server/pulls{/number}",
   "pulls_authors": [
     "josefroselinfonova"

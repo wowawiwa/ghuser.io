@@ -1,0 +1,86 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "Watt3r/TwitchTurtle": {
+      "full_name": "Watt3r/TwitchTurtle",
+      "name": "TwitchTurtle",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 8,
+      "activity": 5,
+      "total_score": 5,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "turtlecoin/box-turtle": {
+      "full_name": "turtlecoin/box-turtle",
+      "name": "box-turtle",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 52.38095238095238,
+      "maturity": 1.323873088726792,
+      "total_commits_count": 42,
+      "activity": 5,
+      "total_score": 17.863661101798616,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "turtlecoin/turtlecoin-docs": {
+      "full_name": "turtlecoin/turtlecoin-docs",
+      "name": "turtlecoin-docs",
+      "stargazers_count": 19,
+      "popularity": 2.2577174475727126,
+      "percentage": 0.32948929159802304,
+      "maturity": 3.755395660331858,
+      "total_commits_count": 607,
+      "activity": 5,
+      "total_score": 19.380649847297654,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "turtlecoin/turtleturtle.org": {
+      "full_name": "turtlecoin/turtleturtle.org",
+      "name": "turtleturtle.org",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 1.5625,
+      "maturity": 2.3837461708665604,
+      "total_commits_count": 64,
+      "activity": 5,
+      "total_score": 9.76749234173312,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "turtlecoin/paper-turtle": {
+      "full_name": "turtlecoin/paper-turtle",
+      "name": "paper-turtle",
+      "stargazers_count": 5,
+      "popularity": 1.6128219920330789,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 15,
+      "activity": 2.035303834021492,
+      "total_score": 6.873769810120729,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Watt3r/paper-turtle": {
+      "full_name": "Watt3r/paper-turtle",
+      "name": "paper-turtle",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 18.75,
+      "maturity": 0,
+      "total_commits_count": 16,
+      "activity": 1.3990668122287575,
+      "total_score": 7.061832760887245,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "turtlecoin"
+  ]
+}
