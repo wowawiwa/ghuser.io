@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/cdnjs/cdnjs",
   "languages_url": "https://api.github.com/repos/cdnjs/cdnjs/languages",
   "created_at": "2011-02-25T05:53:47Z",
-  "updated_at": "2018-08-14T05:52:49Z",
-  "pushed_at": "2018-08-14T03:30:59Z",
+  "updated_at": "2018-08-14T18:03:09Z",
+  "pushed_at": "2018-08-14T18:02:20Z",
   "homepage": "https://cdnjs.com",
-  "size": 7059144,
+  "size": 7061592,
   "stargazers_count": 6551,
   "language": null,
   "mirror_url": null,
@@ -47,7 +47,7 @@
     "site_admin": false
   },
   "contributors": {
-    "PeterBot": 27661,
+    "PeterBot": 27666,
     "PeterDaveHello": 18261,
     "thomasdavis": 1356,
     "ryankirkman": 975,
@@ -448,7 +448,7 @@
     "lmccart": 9
   },
   "languages": {},
-  "fetched_at": "2018-08-14T05:56:33.282Z",
+  "fetched_at": "2018-08-14T18:05:54.150Z",
   "pulls_url": "https://api.github.com/repos/cdnjs/cdnjs/pulls{/number}",
   "pulls_authors": [
     "DominikTo",

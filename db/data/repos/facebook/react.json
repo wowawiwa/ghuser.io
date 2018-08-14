@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/facebook/react",
   "languages_url": "https://api.github.com/repos/facebook/react/languages",
   "created_at": "2013-05-24T16:15:54Z",
-  "updated_at": "2018-08-14T05:56:51Z",
-  "pushed_at": "2018-08-14T05:31:37Z",
+  "updated_at": "2018-08-14T17:49:51Z",
+  "pushed_at": "2018-08-14T17:36:58Z",
   "homepage": "https://reactjs.org",
-  "size": 137562,
-  "stargazers_count": 108692,
+  "size": 137568,
+  "stargazers_count": 108745,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -133,7 +133,7 @@
     "flarnie": 67,
     "syranide": 77,
     "yungsters": 114,
-    "nhunzaker": 84,
+    "nhunzaker": 85,
     "benjamn": 140,
     "subtleGradient": 115,
     "jeffmo": 111,
@@ -248,7 +248,7 @@
     "plievone": 3,
     "pieterv": 3,
     "piperchester": 3,
-    "raunofreiberg": 5,
+    "raunofreiberg": 7,
     "rwoodnz": 3,
     "sambev": 3,
     "shaneosullivan": 3,
@@ -505,11 +505,12 @@
     "jegtnes": 1,
     "clarkdo": 2,
     "alexrohleder": 1,
-    "motiz88": 2
+    "motiz88": 2,
+    "alexkirsz": 1
   },
   "languages": {
     "JavaScript": {
-      "bytes": 1979372,
+      "bytes": 1982147,
       "color": "#f1e05a"
     },
     "C++": {
@@ -529,7 +530,7 @@
       "color": "#244776"
     },
     "CSS": {
-      "bytes": 9651,
+      "bytes": 10559,
       "color": "#563d7c"
     },
     "Shell": {
@@ -549,7 +550,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-14T05:56:33.282Z",
+  "fetched_at": "2018-08-14T17:59:53.989Z",
   "pulls_url": "https://api.github.com/repos/facebook/react/pulls{/number}",
   "pulls_authors": [
     "gaearon",
@@ -2590,6 +2591,9 @@
     "alexrohleder",
     "davidblnc",
     "ryanflorence",
-    "lucasrainett"
+    "lucasrainett",
+    "Kachulio1",
+    "aseem191",
+    "IvanSakhman"
   ]
 }

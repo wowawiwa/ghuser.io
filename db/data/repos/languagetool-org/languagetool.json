@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/languagetool-org/languagetool/languages",
   "pulls_url": "https://api.github.com/repos/languagetool-org/languagetool/pulls{/number}",
   "created_at": "2013-08-08T16:37:22Z",
-  "updated_at": "2018-08-14T05:29:15Z",
-  "pushed_at": "2018-08-13T20:06:16Z",
+  "updated_at": "2018-08-14T17:05:01Z",
+  "pushed_at": "2018-08-14T14:46:33Z",
   "homepage": "https://languagetool.org",
-  "size": 532835,
-  "stargazers_count": 2175,
+  "size": 532851,
+  "stargazers_count": 2179,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -91,7 +91,7 @@
     "philippwiesemann": 3,
     "rob144": 3,
     "reza1615": 3,
-    "fabrichter": 4,
+    "fabrichter": 5,
     "xavivars": 4,
     "sbbic": 4,
     "evlEeena": 4,
@@ -104,7 +104,7 @@
     "gensitu": 6,
     "stweil": 7,
     "Shugyousha": 8,
-    "marcoagpinto": 11,
+    "marcoagpinto": 12,
     "InnovativeInventor": 12,
     "Mailaender": 13,
     "MatheusPoletto": 18,
@@ -120,17 +120,17 @@
     "pminos": 130,
     "FredKruse": 196,
     "gulp21": 200,
-    "MikeUnwalla": 275,
+    "MikeUnwalla": 279,
     "arysin": 398,
     "baarsrj": 447,
-    "janschreiber": 941,
+    "janschreiber": 945,
     "yakovru": 973,
     "f-knorr": 1678,
     "TiagoSantos81": 1982,
     "dpelle": 2497,
     "milekpl": 3319,
     "jaumeortola": 3662,
-    "danielnaber": 8420
+    "danielnaber": 8421
   },
   "pulls_authors": [
     "NikaBan",
@@ -246,7 +246,7 @@
   ],
   "languages": {
     "Java": {
-      "bytes": 5846625,
+      "bytes": 5854901,
       "color": "#b07219"
     },
     "HTML": {
@@ -290,5 +290,5 @@
       "color": "#f0a9f0"
     }
   },
-  "fetched_at": "2018-08-14T05:56:33.282Z"
+  "fetched_at": "2018-08-14T18:01:46.732Z"
 }

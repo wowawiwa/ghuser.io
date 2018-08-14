@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/npm/npm-expansions",
   "languages_url": "https://api.github.com/repos/npm/npm-expansions/languages",
   "created_at": "2014-09-17T20:54:09Z",
-  "updated_at": "2018-08-13T17:49:29Z",
-  "pushed_at": "2018-08-13T14:17:58Z",
+  "updated_at": "2018-08-14T14:21:23Z",
+  "pushed_at": "2018-08-14T08:02:23Z",
   "homepage": "http://npm.im/npm-expansions",
   "size": 795,
-  "stargazers_count": 834,
+  "stargazers_count": 835,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -483,7 +483,7 @@
     "nicisnothere": 2,
     "robert-lawrence": 1
   },
-  "fetched_at": "2018-08-14T05:56:33.282Z",
+  "fetched_at": "2018-08-14T18:04:16.065Z",
   "pulls_url": "https://api.github.com/repos/npm/npm-expansions/pulls{/number}",
   "pulls_authors": [
     "Just4Ease",
@@ -1802,6 +1802,7 @@
     "smzr",
     "TimothyJones",
     "jtjlehi",
-    "Riddlerat"
+    "Riddlerat",
+    "Afa-Juste"
   ]
 }

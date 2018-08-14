@@ -4,7 +4,7 @@
     "6502": 1,
     "jovial": 6,
     "Vindaar": 7,
-    "hlaaftana": 7,
+    "hlaaftana": 8,
     "kaushalmodi": 8,
     "loloiccl": 7,
     "enthus1ast": 7,
@@ -35,7 +35,7 @@
     "gmpreussner": 10,
     "idlewan": 10,
     "runvnc": 10,
-    "timotheecour": 33,
+    "timotheecour": 34,
     "RedBeard0531": 11,
     "andreaferretti": 11,
     "jfhg": 13,
@@ -100,7 +100,7 @@
     "gradha": 310,
     "def-": 334,
     "zah": 532,
-    "dom96": 1319,
+    "dom96": 1321,
     "Araq": 6464,
     "Jeff-Ciesielski": 7,
     "petermora": 6,
@@ -116,7 +116,7 @@
     "survivorm": 5,
     "Leu-Gim": 5,
     "philip-wernersbach": 5,
-    "alaviss": 6,
+    "alaviss": 7,
     "dumndummer": 5,
     "pyloor": 5,
     "PMunch": 5,
@@ -350,7 +350,7 @@
     "zacharycarter": 1,
     "gavares": 1,
     "naveenarun": 1,
-    "drslump": 1,
+    "drslump": 2,
     "bearcage": 1
   },
   "name": "Nim",
@@ -363,11 +363,11 @@
   "url": "https://api.github.com/repos/nim-lang/Nim",
   "languages_url": "https://api.github.com/repos/nim-lang/Nim/languages",
   "created_at": "2010-08-16T20:38:58Z",
-  "updated_at": "2018-08-14T03:20:45Z",
-  "pushed_at": "2018-08-14T05:34:10Z",
+  "updated_at": "2018-08-14T16:58:04Z",
+  "pushed_at": "2018-08-14T17:41:18Z",
   "homepage": "https://nim-lang.org/",
-  "size": 70273,
-  "stargazers_count": 5320,
+  "size": 70214,
+  "stargazers_count": 5325,
   "language": "Nim",
   "mirror_url": null,
   "archived": false,
@@ -401,7 +401,7 @@
   },
   "languages": {
     "Nim": {
-      "bytes": 8313884,
+      "bytes": 8318263,
       "color": "#37775b"
     },
     "C": {
@@ -449,7 +449,7 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-14T05:56:33.282Z",
+  "fetched_at": "2018-08-14T18:00:09.497Z",
   "pulls_url": "https://api.github.com/repos/nim-lang/Nim/pulls{/number}",
   "pulls_authors": [
     "michael72",

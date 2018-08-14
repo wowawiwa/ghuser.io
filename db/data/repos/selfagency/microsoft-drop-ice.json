@@ -10,8 +10,8 @@
   "url": "https://api.github.com/repos/selfagency/microsoft-drop-ice",
   "languages_url": "https://api.github.com/repos/selfagency/microsoft-drop-ice/languages",
   "created_at": "2018-06-19T18:11:02Z",
-  "updated_at": "2018-08-06T05:32:12Z",
-  "pushed_at": "2018-08-03T04:55:21Z",
+  "updated_at": "2018-08-14T17:17:33Z",
+  "pushed_at": "2018-08-14T17:17:32Z",
   "homepage": "",
   "size": 821,
   "stargazers_count": 539,
@@ -120,7 +120,7 @@
     "alichtman": 2,
     "bernard-lin": 2,
     "jamiebuilds": 8,
-    "selfagency": 374,
+    "selfagency": 378,
     "agalasso": 2,
     "nthall": 2,
     "interpeix": 2,
@@ -312,10 +312,15 @@
     "Tao-Quixote": 1,
     "tienpham94": 1,
     "corvalanlara": 1,
-    "misacorn": 1
+    "misacorn": 1,
+    "albacoretuna": 2,
+    "arnoFleming": 1,
+    "david4096": 1,
+    "qq729556278": 1,
+    "MatthewKush": 1
   },
   "languages": {},
-  "fetched_at": "2018-08-06T06:12:02.455Z",
+  "fetched_at": "2018-08-14T17:59:11.551Z",
   "pulls_url": "https://api.github.com/repos/selfagency/microsoft-drop-ice/pulls{/number}",
   "pulls_authors": [
     "MatthewKush",
@@ -622,6 +627,7 @@
     "joshuacook",
     "aphid",
     "quavmo",
-    "nicksahler"
+    "nicksahler",
+    "albacoretuna"
   ]
 }

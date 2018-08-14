@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/angular/angular.js",
   "languages_url": "https://api.github.com/repos/angular/angular.js/languages",
   "created_at": "2010-01-06T00:34:37Z",
-  "updated_at": "2018-08-14T05:52:20Z",
-  "pushed_at": "2018-08-08T19:12:40Z",
+  "updated_at": "2018-08-14T16:45:03Z",
+  "pushed_at": "2018-08-14T15:57:23Z",
   "homepage": "https://angularjs.org",
   "size": 98788,
-  "stargazers_count": 58917,
+  "stargazers_count": 58920,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -501,7 +501,7 @@
     "greggunner": 4,
     "patreeceeo": 2
   },
-  "fetched_at": "2018-08-14T05:56:33.282Z",
+  "fetched_at": "2018-08-14T18:04:15.373Z",
   "pulls_url": "https://api.github.com/repos/angular/angular.js/pulls{/number}",
   "pulls_authors": [
     "john-mantas",
@@ -3532,6 +3532,7 @@
     "elfgoh",
     "esprehn",
     "aornelas",
-    "bolu"
+    "bolu",
+    "jell0wed"
   ]
 }

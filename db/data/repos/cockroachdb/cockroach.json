@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/cockroachdb/cockroach",
   "languages_url": "https://api.github.com/repos/cockroachdb/cockroach/languages",
   "created_at": "2014-02-06T00:18:47Z",
-  "updated_at": "2018-08-14T05:09:45Z",
-  "pushed_at": "2018-08-14T05:09:09Z",
+  "updated_at": "2018-08-14T17:41:01Z",
+  "pushed_at": "2018-08-14T17:54:35Z",
   "homepage": "https://www.cockroachlabs.com",
-  "size": 1033193,
-  "stargazers_count": 14007,
+  "size": 1033413,
+  "stargazers_count": 14008,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -89,7 +89,7 @@
     "guanqun": 9,
     "yananzhi": 14,
     "xiaoyulei": 10,
-    "yuzefovich": 30,
+    "yuzefovich": 31,
     "lhirata": 19,
     "thundercw": 11,
     "joezxy": 14,
@@ -122,30 +122,30 @@
     "rytaft": 134,
     "lego": 122,
     "andybons": 105,
-    "asubiotto": 188,
+    "asubiotto": 189,
     "vilterp": 225,
-    "justinj": 347,
+    "justinj": 348,
     "andy-kimball": 293,
     "kkaneda": 429,
     "couchand": 380,
     "mrtracy": 607,
     "mjibson": 677,
     "danhhz": 719,
-    "BramGruneir": 747,
+    "BramGruneir": 748,
     "mberhault": 736,
-    "vivekmenezes": 833,
-    "jordanlewis": 845,
+    "vivekmenezes": 834,
+    "jordanlewis": 846,
     "spencerkimball": 895,
-    "dt": 1000,
+    "dt": 1002,
     "andreimatei": 903,
     "a-robinson": 1063,
     "benesch": 1207,
     "nvanbenschoten": 1470,
-    "bdarnell": 1521,
+    "bdarnell": 1522,
     "RaduBerinde": 1759,
-    "knz": 1886,
+    "knz": 1891,
     "petermattis": 3077,
-    "tschottdorf": 2786,
+    "tschottdorf": 2791,
     "tamird": 3212,
     "maxlang": 96,
     "craig[bot]": 57,
@@ -259,7 +259,7 @@
   },
   "languages": {
     "Go": {
-      "bytes": 19589571,
+      "bytes": 19630517,
       "color": "#375eab"
     },
     "TypeScript": {
@@ -271,7 +271,7 @@
       "color": "#f34b7d"
     },
     "Yacc": {
-      "bytes": 238780,
+      "bytes": 238129,
       "color": "#4B6C4B"
     },
     "Shell": {
@@ -279,7 +279,7 @@
       "color": "#89e051"
     },
     "Tcl": {
-      "bytes": 76764,
+      "bytes": 77074,
       "color": "#e4cc98"
     },
     "Makefile": {
@@ -347,7 +347,7 @@
       "color": "#4d41b1"
     }
   },
-  "fetched_at": "2018-08-14T05:56:33.282Z",
+  "fetched_at": "2018-08-14T18:00:50.999Z",
   "pulls_url": "https://api.github.com/repos/cockroachdb/cockroach/pulls{/number}",
   "pulls_authors": [
     "danhhz",

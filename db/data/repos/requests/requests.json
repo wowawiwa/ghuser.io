@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/requests/requests/languages",
   "pulls_url": "https://api.github.com/repos/requests/requests/pulls{/number}",
   "created_at": "2011-02-13T18:38:17Z",
-  "updated_at": "2018-08-14T04:46:31Z",
-  "pushed_at": "2018-08-13T19:11:50Z",
+  "updated_at": "2018-08-14T16:38:45Z",
+  "pushed_at": "2018-08-14T11:31:48Z",
   "homepage": "http://python-requests.org",
   "size": 9719,
-  "stargazers_count": 34057,
+  "stargazers_count": 34064,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -464,7 +464,8 @@
     "pborreli": 1,
     "nakajima": 1,
     "neogenix": 1,
-    "kalefranz": 1
+    "kalefranz": 1,
+    "markshannon": 1
   },
   "pulls_authors": [
     "nateprewitt",
@@ -1337,5 +1338,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-14T05:56:33.282Z"
+  "fetched_at": "2018-08-14T18:01:50.547Z"
 }

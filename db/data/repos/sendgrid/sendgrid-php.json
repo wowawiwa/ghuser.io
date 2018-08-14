@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/sendgrid/sendgrid-php",
   "languages_url": "https://api.github.com/repos/sendgrid/sendgrid-php/languages",
   "created_at": "2012-02-03T22:09:28Z",
-  "updated_at": "2018-08-13T22:25:00Z",
-  "pushed_at": "2018-08-13T22:24:56Z",
+  "updated_at": "2018-08-14T16:56:25Z",
+  "pushed_at": "2018-08-14T16:33:28Z",
   "homepage": "https://sendgrid.com",
-  "size": 3486,
+  "size": 3511,
   "stargazers_count": 862,
   "language": "PHP",
   "mirror_url": null,
@@ -140,17 +140,18 @@
     "eddiezane": 60,
     "pxgamer": 75,
     "motdotla": 123,
-    "thinkingserious": 381,
+    "thinkingserious": 386,
     "moismailzai": 2,
-    "hjmsw": 5,
+    "hjmsw": 6,
     "martijnmelchers": 8,
     "af4ro": 2,
     "apcro": 1,
-    "davcpas1234": 3
+    "davcpas1234": 3,
+    "stianpr": 1
   },
   "languages": {
     "PHP": {
-      "bytes": 335349,
+      "bytes": 346521,
       "color": "#4F5D95"
     },
     "Shell": {
@@ -162,7 +163,7 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-14T05:56:33.282Z",
+  "fetched_at": "2018-08-14T17:59:22.615Z",
   "pulls_url": "https://api.github.com/repos/sendgrid/sendgrid-php/pulls{/number}",
   "pulls_authors": [
     "af4ro",

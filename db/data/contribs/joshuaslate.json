@@ -4,13 +4,13 @@
     "postlight/headless-wp-starter": {
       "full_name": "postlight/headless-wp-starter",
       "name": "headless-wp-starter",
-      "stargazers_count": 1856,
-      "popularity": 4.268406411967761,
+      "stargazers_count": 1857,
+      "popularity": 4.268640457287075,
       "percentage": 0,
       "maturity": 2.859669179921282,
       "total_commits_count": 112,
       "activity": 5,
-      "total_score": 23.524557595745847,
+      "total_score": 23.52525973170379,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -69,13 +69,13 @@
     "joshuaslate/mern-starter": {
       "full_name": "joshuaslate/mern-starter",
       "name": "mern-starter",
-      "stargazers_count": 380,
-      "popularity": 3.578792862769264,
+      "stargazers_count": 382,
+      "popularity": 3.5810780271691054,
       "percentage": 85.71428571428571,
       "maturity": 1.9607586681802867,
       "total_commits_count": 49,
-      "activity": 1.3748245581156997,
-      "total_score": 55.91069809649872,
+      "activity": 1.3714236386895564,
+      "total_score": 55.93961593072748,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -121,7 +121,7 @@
     "quilljs/quill": {
       "full_name": "quilljs/quill",
       "name": "quill",
-      "stargazers_count": 19231,
+      "stargazers_count": 19243,
       "popularity": 5,
       "percentage": 0.019696671262556628,
       "maturity": 4.703916857066306,

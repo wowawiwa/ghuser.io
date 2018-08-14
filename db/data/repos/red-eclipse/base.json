@@ -42,11 +42,11 @@
   "url": "https://api.github.com/repos/red-eclipse/base",
   "languages_url": "https://api.github.com/repos/red-eclipse/base/languages",
   "created_at": "2015-02-04T08:14:20Z",
-  "updated_at": "2018-08-11T10:39:32Z",
+  "updated_at": "2018-08-14T12:23:03Z",
   "pushed_at": "2018-08-11T10:39:31Z",
   "homepage": "https://redeclipse.net/",
   "size": 35087,
-  "stargazers_count": 170,
+  "stargazers_count": 169,
   "language": "C",
   "mirror_url": null,
   "archived": false,
@@ -114,7 +114,7 @@
       "color": "#6866fb"
     }
   },
-  "fetched_at": "2018-08-11T14:08:16.487Z",
+  "fetched_at": "2018-08-14T18:00:05.120Z",
   "pulls_url": "https://api.github.com/repos/red-eclipse/base/pulls{/number}",
   "pulls_authors": [
     "molexted",

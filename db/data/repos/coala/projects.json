@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/coala/projects",
   "languages_url": "https://api.github.com/repos/coala/projects/languages",
   "created_at": "2017-01-17T09:35:47Z",
-  "updated_at": "2018-08-14T01:46:42Z",
-  "pushed_at": "2018-08-14T01:46:40Z",
+  "updated_at": "2018-08-14T15:11:18Z",
+  "pushed_at": "2018-08-14T15:11:15Z",
   "homepage": "https://projects.coala.io/",
-  "size": 760,
+  "size": 764,
   "stargazers_count": 61,
   "language": "HTML",
   "mirror_url": null,
@@ -99,7 +99,7 @@
     "prashantxc": 2,
     "manankalra": 2,
     "li-boxuan": 3,
-    "ishanSrt": 2,
+    "ishanSrt": 3,
     "riouwa": 2,
     "anshumanv": 2,
     "Mariatta": 2,
@@ -128,7 +128,7 @@
     "adhikasp": 5,
     "dracarys09": 5,
     "arnab1896": 5,
-    "RJ722": 8,
+    "RJ722": 9,
     "yash-nisar": 6,
     "nkprince007": 7,
     "myint": 7,
@@ -147,7 +147,8 @@
     "RaiVaibhav": 2,
     "sks444": 1,
     "Utkarsh1308": 2,
-    "anctartica": 1
+    "anctartica": 1,
+    "nvzard": 1
   },
   "languages": {
     "HTML": {
@@ -175,7 +176,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-14T05:56:33.282Z",
+  "fetched_at": "2018-08-14T18:01:02.961Z",
   "pulls_url": "https://api.github.com/repos/coala/projects/pulls{/number}",
   "pulls_authors": [
     "virresh",
@@ -307,6 +308,7 @@
     "RaiVaibhav",
     "pareksha",
     "anctartica",
-    "srivama"
+    "srivama",
+    "nvzard"
   ]
 }
