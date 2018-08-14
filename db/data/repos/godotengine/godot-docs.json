@@ -272,7 +272,7 @@
     "kavika13": 1,
     "rcorre": 1,
     "EIREXE": 1,
-    "FeralBytes": 5,
+    "FeralBytes": 6,
     "arrowgamer": 1,
     "isaacremnant": 1,
     "ntfwc": 2,
@@ -289,10 +289,10 @@
   "url": "https://api.github.com/repos/godotengine/godot-docs",
   "languages_url": "https://api.github.com/repos/godotengine/godot-docs/languages",
   "created_at": "2015-12-12T15:02:06Z",
-  "updated_at": "2018-08-13T01:51:44Z",
-  "pushed_at": "2018-08-11T23:38:35Z",
+  "updated_at": "2018-08-13T20:40:03Z",
+  "pushed_at": "2018-08-13T20:39:57Z",
   "homepage": "http://docs.godotengine.org",
-  "size": 289628,
+  "size": 289629,
   "stargazers_count": 365,
   "language": "Python",
   "mirror_url": null,
@@ -349,7 +349,7 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-08-13T04:49:08.507Z",
+  "fetched_at": "2018-08-14T05:56:33.282Z",
   "pulls_url": "https://api.github.com/repos/godotengine/godot-docs/pulls{/number}",
   "pulls_authors": [
     "vurpo",

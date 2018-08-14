@@ -13,7 +13,8 @@
     "wujysh": 13,
     "DNLHC": 15,
     "hackjutsu": 328,
-    "ImgBotApp": 1
+    "ImgBotApp": 1,
+    "baybatu": 2
   },
   "name": "Lepton",
   "full_name": "hackjutsu/Lepton",
@@ -25,11 +26,11 @@
   "url": "https://api.github.com/repos/hackjutsu/Lepton",
   "languages_url": "https://api.github.com/repos/hackjutsu/Lepton/languages",
   "created_at": "2016-12-30T22:29:25Z",
-  "updated_at": "2018-08-13T08:19:19Z",
-  "pushed_at": "2018-08-12T10:16:57Z",
+  "updated_at": "2018-08-14T05:01:35Z",
+  "pushed_at": "2018-08-14T05:20:11Z",
   "homepage": "http://hackjutsu.com/Lepton",
   "size": 31251,
-  "stargazers_count": 3816,
+  "stargazers_count": 3818,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -43,7 +44,7 @@
   "default_branch": "master",
   "languages": {
     "JavaScript": {
-      "bytes": 149174,
+      "bytes": 149318,
       "color": "#f1e05a"
     },
     "CSS": {
@@ -55,7 +56,7 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-08-13T13:13:40.598Z",
+  "fetched_at": "2018-08-14T05:56:33.282Z",
   "pulls_url": "https://api.github.com/repos/hackjutsu/Lepton/pulls{/number}",
   "pulls_authors": [
     "imgbot[bot]",

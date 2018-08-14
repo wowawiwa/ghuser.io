@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/ant-design/ant-design-pro",
   "languages_url": "https://api.github.com/repos/ant-design/ant-design-pro/languages",
   "created_at": "2017-08-25T10:40:44Z",
-  "updated_at": "2018-08-13T12:40:36Z",
-  "pushed_at": "2018-08-13T10:27:29Z",
+  "updated_at": "2018-08-14T05:51:08Z",
+  "pushed_at": "2018-08-14T04:31:19Z",
   "homepage": "http://pro.ant.design/",
-  "size": 26922,
-  "stargazers_count": 11363,
+  "size": 26937,
+  "stargazers_count": 11373,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -126,7 +126,8 @@
     "KJlmfe": 3,
     "cipchk": 1,
     "chenyunchen": 1,
-    "iwizy": 3
+    "iwizy": 3,
+    "jeffhtli": 1
   },
   "languages": {
     "JavaScript": {
@@ -146,7 +147,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-13T13:13:40.598Z",
+  "fetched_at": "2018-08-14T05:56:33.282Z",
   "pulls_url": "https://api.github.com/repos/ant-design/ant-design-pro/pulls{/number}",
   "pulls_authors": [
     "Puuuudding",
@@ -280,6 +281,7 @@
     "liumin1128",
     "focus0802",
     "qq645381995",
-    "plantvsbirds"
+    "plantvsbirds",
+    "jeffhtli"
   ]
 }

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/ipfs/awesome-ipfs",
   "languages_url": "https://api.github.com/repos/ipfs/awesome-ipfs/languages",
   "created_at": "2015-10-14T17:29:46Z",
-  "updated_at": "2018-08-12T13:02:37Z",
-  "pushed_at": "2018-08-10T04:08:18Z",
+  "updated_at": "2018-08-13T22:59:55Z",
+  "pushed_at": "2018-08-14T00:10:01Z",
   "homepage": "https://awesome.ipfs.io/",
   "size": 2909,
-  "stargazers_count": 1571,
+  "stargazers_count": 1572,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -135,7 +135,7 @@
     "luizirber": 1,
     "satazor": 1
   },
-  "fetched_at": "2018-08-12T17:48:20.581Z",
+  "fetched_at": "2018-08-14T05:56:33.282Z",
   "pulls_url": "https://api.github.com/repos/ipfs/awesome-ipfs/pulls{/number}",
   "pulls_authors": [
     "hacdias",
@@ -215,6 +215,7 @@
     "cryptix",
     "sindresorhus",
     "pors",
-    "zachdeibert"
+    "zachdeibert",
+    "clehner"
   ]
 }

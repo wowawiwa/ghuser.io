@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/wikimedia/mediawiki-extensions/languages",
   "pulls_url": "https://api.github.com/repos/wikimedia/mediawiki-extensions/pulls{/number}",
   "created_at": "2012-11-01T19:03:08Z",
-  "updated_at": "2018-08-13T12:57:29Z",
-  "pushed_at": "2018-08-13T12:57:14Z",
+  "updated_at": "2018-08-14T03:25:11Z",
+  "pushed_at": "2018-08-14T03:24:55Z",
   "homepage": "https://gerrit.wikimedia.org",
-  "size": 122297,
+  "size": 121832,
   "stargazers_count": 46,
   "language": "Python",
   "mirror_url": null,
@@ -42,9 +42,9 @@
     "site_admin": false
   },
   "contributors": {
-    "translatewiki": 110091,
-    "legoktm": 4486,
-    "umherirrender": 3742,
+    "translatewiki": 110182,
+    "legoktm": 4488,
+    "umherirrender": 3743,
     "JeroenDeDauw": 2912,
     "siebrand": 2431,
     "demon": 2110,
@@ -58,7 +58,7 @@
     "addshore": 905,
     "atdt": 905,
     "WikidataBuilder": 846,
-    "paladox": 799,
+    "paladox": 800,
     "mary-kate": 787,
     "edg2s": 782,
     "jdlrobson": 782,
@@ -94,7 +94,7 @@
     "tgr": 308,
     "awjrichards-zz": 272,
     "MarcoAurelioWM": 244,
-    "lucaswerkmeister": 242,
+    "lucaswerkmeister": 243,
     "Jayprakash-SE": 239,
     "pastakhov": 230,
     "shirayuki": 227,
@@ -106,7 +106,7 @@
     "UltrasonicNXT": 178,
     "phuedx": 178,
     "Krenair": 178,
-    "bawolff": 173,
+    "bawolff": 174,
     "WMDE-Fisch": 172,
     "mooeypoo": 164,
     "ricordisamoa": 162,
@@ -324,5 +324,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-13T13:13:40.598Z"
+  "fetched_at": "2018-08-14T05:56:33.282Z"
 }

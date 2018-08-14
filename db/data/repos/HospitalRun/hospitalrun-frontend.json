@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/HospitalRun/hospitalrun-frontend",
   "languages_url": "https://api.github.com/repos/HospitalRun/hospitalrun-frontend/languages",
   "created_at": "2014-03-28T20:04:58Z",
-  "updated_at": "2018-08-13T10:35:33Z",
-  "pushed_at": "2018-08-12T14:09:13Z",
+  "updated_at": "2018-08-14T06:11:44Z",
+  "pushed_at": "2018-08-14T06:11:40Z",
   "homepage": "http://hospitalrun.io/",
-  "size": 337547,
+  "size": 337550,
   "stargazers_count": 4284,
   "language": "JavaScript",
   "mirror_url": null,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 2862213,
+      "bytes": 2862228,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -161,7 +161,7 @@
     "baoqchau": 9,
     "adeolabadmus": 10,
     "gmanou": 14,
-    "MatthewDorner": 22,
+    "MatthewDorner": 23,
     "btecu": 20,
     "taras": 23,
     "mkly": 28,
@@ -203,7 +203,7 @@
     "Lily418": 14,
     "omoabobade": 1
   },
-  "fetched_at": "2018-08-13T13:13:40.598Z",
+  "fetched_at": "2018-08-14T06:33:24.744Z",
   "pulls_url": "https://api.github.com/repos/HospitalRun/hospitalrun-frontend/pulls{/number}",
   "pulls_authors": [
     "stukalin",

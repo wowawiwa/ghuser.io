@@ -1,6 +1,19 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
   "repos": {
+    "NurdTurd/Testing": {
+      "full_name": "NurdTurd/Testing",
+      "name": "Testing",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 2.6654334850844252,
+      "total_commits_count": 86,
+      "activity": 5,
+      "total_score": 10.33086697016885,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
     "ORelio/Minecraft-Console-Client": {
       "full_name": "ORelio/Minecraft-Console-Client",
       "name": "Minecraft-Console-Client",
@@ -43,13 +56,13 @@
     "pi-hole/pi-hole": {
       "full_name": "pi-hole/pi-hole",
       "name": "pi-hole",
-      "stargazers_count": 9591,
-      "popularity": 4.981862224010914,
+      "stargazers_count": 9602,
+      "popularity": 4.982360081344336,
       "percentage": 0,
       "maturity": 4.533355669016343,
       "total_commits_count": 3441,
       "activity": 5,
-      "total_score": 29.01229801006543,
+      "total_score": 29.013791582065693,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -69,7 +82,7 @@
     "Kickball/awesome-selfhosted": {
       "full_name": "Kickball/awesome-selfhosted",
       "name": "awesome-selfhosted",
-      "stargazers_count": 25162,
+      "stargazers_count": 25177,
       "popularity": 5,
       "percentage": 0.045599635202918376,
       "maturity": 4.33480043908,
@@ -238,7 +251,7 @@
     "ripienaar/free-for-dev": {
       "full_name": "ripienaar/free-for-dev",
       "name": "free-for-dev",
-      "stargazers_count": 18918,
+      "stargazers_count": 18919,
       "popularity": 5,
       "percentage": 0.07199424046076314,
       "maturity": 4.131780332452292,
@@ -251,26 +264,26 @@
     "mail-in-a-box/mailinabox": {
       "full_name": "mail-in-a-box/mailinabox",
       "name": "mailinabox",
-      "stargazers_count": 7356,
-      "popularity": 4.86662766989688,
+      "stargazers_count": 7355,
+      "popularity": 4.866568619169022,
       "percentage": 0.20270270270270271,
       "maturity": 4.16012884866826,
       "total_commits_count": 1480,
       "activity": 5,
-      "total_score": 28.04838292265282,
+      "total_score": 28.04820421440277,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "ChaoticWeg/discord.sh": {
       "full_name": "ChaoticWeg/discord.sh",
       "name": "discord.sh",
-      "stargazers_count": 2,
-      "popularity": 1.0414282204429401,
-      "percentage": 0,
+      "stargazers_count": 3,
+      "popularity": 1.3222565221025262,
+      "percentage": 18.75,
       "maturity": 0,
-      "total_commits_count": 7,
+      "total_commits_count": 16,
       "activity": 5,
-      "total_score": 8.12428466132882,
+      "total_score": 12.189769838932486,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/electron/electron/languages",
   "pulls_url": "https://api.github.com/repos/electron/electron/pulls{/number}",
   "created_at": "2013-04-12T01:47:36Z",
-  "updated_at": "2018-08-13T13:19:16Z",
-  "pushed_at": "2018-08-13T11:09:26Z",
+  "updated_at": "2018-08-14T05:56:03Z",
+  "pushed_at": "2018-08-14T03:34:47Z",
   "homepage": "https://electronjs.org",
-  "size": 40536,
-  "stargazers_count": 63306,
+  "size": 40557,
+  "stargazers_count": 63329,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -133,9 +133,9 @@
     "tarruda": 74,
     "tinydew4": 92,
     "gerhardberger": 95,
-    "jkleinsc": 232,
+    "jkleinsc": 235,
     "nornagon": 142,
-    "ckerr": 210,
+    "ckerr": 211,
     "brenca": 184,
     "paulcbetts": 245,
     "felixrieseberg": 252,
@@ -143,10 +143,10 @@
     "hokein": 267,
     "preco21": 347,
     "alexeykuzmin": 320,
-    "codebytere": 398,
+    "codebytere": 399,
     "MarshallOfSound": 399,
     "zeke": 593,
-    "deepak1556": 687,
+    "deepak1556": 688,
     "kevinsawicki": 2998,
     "zcbenz": 8220,
     "maxogden": 167,
@@ -1423,7 +1423,8 @@
     "probablycorey",
     "shama",
     "mcolyer",
-    "orderedlist"
+    "orderedlist",
+    "roller-bot"
   ],
   "languages": {
     "C++": {
@@ -1471,5 +1472,5 @@
       "color": "#012456"
     }
   },
-  "fetched_at": "2018-08-13T13:13:40.598Z"
+  "fetched_at": "2018-08-14T05:56:33.282Z"
 }

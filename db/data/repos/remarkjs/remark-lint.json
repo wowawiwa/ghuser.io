@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/remarkjs/remark-lint",
   "languages_url": "https://api.github.com/repos/remarkjs/remark-lint/languages",
   "created_at": "2015-05-05T19:38:58Z",
-  "updated_at": "2018-08-13T13:23:45Z",
-  "pushed_at": "2018-06-04T14:21:47Z",
+  "updated_at": "2018-08-13T21:41:11Z",
+  "pushed_at": "2018-08-13T21:41:09Z",
   "homepage": "https://remark.js.org",
-  "size": 1389,
+  "size": 1375,
   "stargazers_count": 382,
   "language": "JavaScript",
   "mirror_url": null,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 180384,
+      "bytes": 180410,
       "color": "#f1e05a"
     }
   },
@@ -75,9 +75,9 @@
     "rhysd": 2,
     "zcei": 2,
     "greenkeeperio-bot": 4,
-    "wooorm": 267
+    "wooorm": 270
   },
-  "fetched_at": "2018-08-13T15:42:49.251Z",
+  "fetched_at": "2018-08-14T05:56:33.282Z",
   "pulls_url": "https://api.github.com/repos/remarkjs/remark-lint/pulls{/number}",
   "pulls_authors": [
     "Planeshifter",

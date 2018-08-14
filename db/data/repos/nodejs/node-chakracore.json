@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/nodejs/node-chakracore",
   "languages_url": "https://api.github.com/repos/nodejs/node-chakracore/languages",
   "created_at": "2015-11-25T19:09:26Z",
-  "updated_at": "2018-08-13T01:26:53Z",
-  "pushed_at": "2018-08-11T11:00:35Z",
+  "updated_at": "2018-08-13T21:14:22Z",
+  "pushed_at": "2018-08-13T18:05:29Z",
   "homepage": "",
-  "size": 397096,
-  "stargazers_count": 1577,
+  "size": 396015,
+  "stargazers_count": 1576,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,19 +48,19 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 6796671,
+      "bytes": 6801910,
       "color": "#f1e05a"
     },
     "C++": {
-      "bytes": 2594991,
+      "bytes": 2596698,
       "color": "#f34b7d"
     },
     "Python": {
-      "bytes": 1472113,
+      "bytes": 1977232,
       "color": "#3572A5"
     },
     "C": {
-      "bytes": 427290,
+      "bytes": 433226,
       "color": "#555555"
     },
     "HTML": {
@@ -68,7 +68,7 @@
       "color": "#e34c26"
     },
     "Makefile": {
-      "bytes": 43172,
+      "bytes": 43280,
       "color": "#427819"
     },
     "DTrace": {
@@ -80,7 +80,7 @@
       "color": "#C1F12E"
     },
     "Shell": {
-      "bytes": 20382,
+      "bytes": 26934,
       "color": "#89e051"
     },
     "Roff": {
@@ -147,7 +147,7 @@
     "devsnek": 55,
     "seishun": 48,
     "watilde": 48,
-    "maclover7": 68,
+    "maclover7": 70,
     "fhinkel": 51,
     "gabrielschulhof": 60,
     "boingoing": 64,
@@ -168,7 +168,7 @@
     "refack": 91,
     "AndreasMadsen": 103,
     "kunalspathak": 141,
-    "tniessen": 119,
+    "tniessen": 122,
     "ofrobots": 117,
     "mhdawson": 122,
     "felixge": 124,
@@ -180,24 +180,24 @@
     "koichik": 157,
     "kfarnung": 198,
     "MylesBorins": 185,
-    "apapirovski": 192,
+    "apapirovski": 194,
     "TooTallNate": 197,
-    "chakrabot": 591,
+    "chakrabot": 594,
     "joyeecheung": 224,
     "targos": 279,
-    "vsemozhetbyt": 276,
+    "vsemozhetbyt": 277,
     "tjfontaine": 332,
-    "BridgeAR": 328,
+    "BridgeAR": 330,
     "mscdex": 318,
     "rvagg": 320,
-    "danbev": 342,
+    "danbev": 344,
     "trevnorris": 363,
     "cjihrig": 386,
-    "jasnell": 502,
+    "jasnell": 508,
     "piscisaureus": 598,
-    "addaleax": 665,
+    "addaleax": 669,
     "indutny": 755,
-    "Trott": 1308,
+    "Trott": 1313,
     "isaacs": 1647,
     "bnoordhuis": 2138,
     "ry": 3021,
@@ -246,7 +246,7 @@
     "julianduque": 12,
     "maasencioh": 12,
     "bajtos": 12,
-    "sethbrenith": 19,
+    "sethbrenith": 20,
     "AdriVanHoudt": 11,
     "arturgvieira": 11,
     "juggernaut451": 11,
@@ -266,7 +266,7 @@
     "shobhitchittora": 10,
     "agl": 9,
     "aruneshchandra": 9,
-    "bcoe": 9,
+    "bcoe": 10,
     "jscissr": 9,
     "jBarz": 9,
     "pmq20": 9,
@@ -555,7 +555,7 @@
     "anandsuresh": 2,
     "aconbere": 2,
     "tcare": 3,
-    "lundibundi": 4,
+    "lundibundi": 5,
     "rubys": 17,
     "aneeshdk": 6,
     "irinayat-MS": 9,
@@ -565,9 +565,11 @@
     "rajatd": 6,
     "Cellule": 4,
     "antsmartian": 4,
-    "jquynh": 5
+    "jquynh": 5,
+    "oyyd": 3,
+    "tlhunter": 3
   },
-  "fetched_at": "2018-08-13T04:49:08.507Z",
+  "fetched_at": "2018-08-14T05:56:33.282Z",
   "pulls_url": "https://api.github.com/repos/nodejs/node-chakracore/pulls{/number}",
   "pulls_authors": [
     "kfarnung",

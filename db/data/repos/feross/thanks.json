@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/feross/thanks",
   "languages_url": "https://api.github.com/repos/feross/thanks/languages",
   "created_at": "2018-02-07T06:48:13Z",
-  "updated_at": "2018-08-12T04:26:24Z",
-  "pushed_at": "2018-08-09T22:09:18Z",
+  "updated_at": "2018-08-14T00:52:25Z",
+  "pushed_at": "2018-08-13T12:19:51Z",
   "homepage": "",
   "size": 250,
-  "stargazers_count": 1931,
+  "stargazers_count": 1932,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -90,7 +90,7 @@
     "amitmerchant1990": 1,
     "sergeylukin": 1
   },
-  "fetched_at": "2018-08-12T04:56:28.350Z",
+  "fetched_at": "2018-08-14T05:56:33.282Z",
   "pulls_url": "https://api.github.com/repos/feross/thanks/pulls{/number}",
   "pulls_authors": [
     "greenkeeper[bot]",
@@ -162,6 +162,7 @@
     "keithamus",
     "jogold",
     "mxstbr",
-    "balupton"
+    "balupton",
+    "LitoMore"
   ]
 }

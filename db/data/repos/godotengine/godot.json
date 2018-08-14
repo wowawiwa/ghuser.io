@@ -7,7 +7,7 @@
     "dbsGen": 10,
     "jonyrock": 12,
     "supagu": 11,
-    "mysticfall": 11,
+    "mysticfall": 12,
     "binbitten": 11,
     "m4nu3lf": 11,
     "hi-ogawa": 11,
@@ -83,11 +83,11 @@
     "BastiaanOlij": 93,
     "groud": 143,
     "toger5": 101,
-    "hpvb": 156,
+    "hpvb": 157,
     "poke1024": 118,
-    "marcelofg55": 136,
+    "marcelofg55": 137,
     "marynate": 118,
-    "karroffel": 270,
+    "karroffel": 272,
     "bojidar-bg": 130,
     "eska014": 156,
     "Faless": 171,
@@ -97,9 +97,9 @@
     "Noshyaar": 363,
     "RandomShaper": 199,
     "Hinsbart": 303,
-    "neikeq": 351,
-    "volzhs": 295,
-    "akien-mga": 4705,
+    "neikeq": 352,
+    "volzhs": 296,
+    "akien-mga": 4712,
     "reduz": 2813,
     "cbscribe": 39,
     "Spooner": 16,
@@ -413,7 +413,8 @@
     "goodyttoor": 2,
     "martindzejky": 6,
     "Overblob": 3,
-    "Tunous": 2
+    "Tunous": 2,
+    "pulkomandy": 1
   },
   "name": "godot",
   "full_name": "godotengine/godot",
@@ -425,11 +426,11 @@
   "url": "https://api.github.com/repos/godotengine/godot",
   "languages_url": "https://api.github.com/repos/godotengine/godot/languages",
   "created_at": "2014-01-04T16:05:36Z",
-  "updated_at": "2018-08-13T12:24:55Z",
-  "pushed_at": "2018-08-13T12:18:36Z",
+  "updated_at": "2018-08-13T20:37:45Z",
+  "pushed_at": "2018-08-14T04:35:59Z",
   "homepage": "https://godotengine.org",
-  "size": 256217,
-  "stargazers_count": 16163,
+  "size": 256252,
+  "stargazers_count": 16172,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -463,7 +464,7 @@
   },
   "languages": {
     "C++": {
-      "bytes": 21180025,
+      "bytes": 21174594,
       "color": "#f34b7d"
     },
     "Java": {
@@ -471,11 +472,11 @@
       "color": "#b07219"
     },
     "Python": {
-      "bytes": 332096,
+      "bytes": 335747,
       "color": "#3572A5"
     },
     "C#": {
-      "bytes": 210398,
+      "bytes": 210587,
       "color": "#178600"
     },
     "Objective-C++": {
@@ -507,7 +508,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-13T13:13:40.598Z",
+  "fetched_at": "2018-08-14T05:56:33.282Z",
   "pulls_url": "https://api.github.com/repos/godotengine/godot/pulls{/number}",
   "pulls_authors": [
     "Calinou",

@@ -11,27 +11,38 @@
   "languages_url": "https://api.github.com/repos/ChaoticWeg/discord.sh/languages",
   "pulls_url": "https://api.github.com/repos/ChaoticWeg/discord.sh/pulls{/number}",
   "created_at": "2018-08-12T05:36:13Z",
-  "updated_at": "2018-08-13T09:03:43Z",
-  "pushed_at": "2018-08-13T02:15:08Z",
+  "updated_at": "2018-08-14T02:53:06Z",
+  "pushed_at": "2018-08-14T02:53:03Z",
   "homepage": "",
-  "size": 4,
-  "stargazers_count": 2,
+  "size": 27,
+  "stargazers_count": 3,
   "language": "Shell",
   "mirror_url": null,
   "archived": false,
-  "license": null,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
   "default_branch": "master",
   "contributors": {
-    "ChaoticWeg": 7
+    "ChaoticWeg": 13,
+    "NurdTurd": 3
   },
   "pulls_authors": [
     "NurdTurd"
   ],
   "languages": {
     "Shell": {
-      "bytes": 2301,
+      "bytes": 3138,
       "color": "#89e051"
+    },
+    "Dockerfile": {
+      "bytes": 670,
+      "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-13T13:13:40.598Z"
+  "fetched_at": "2018-08-14T05:56:33.282Z"
 }

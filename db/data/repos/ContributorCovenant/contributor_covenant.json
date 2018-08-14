@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/ContributorCovenant/contributor_covenant",
   "languages_url": "https://api.github.com/repos/ContributorCovenant/contributor_covenant/languages",
   "created_at": "2014-01-30T00:56:37Z",
-  "updated_at": "2018-08-13T15:20:40Z",
-  "pushed_at": "2018-08-13T15:20:39Z",
+  "updated_at": "2018-08-14T01:35:31Z",
+  "pushed_at": "2018-08-13T21:56:35Z",
   "homepage": "http://www.contributor-covenant.org/",
-  "size": 6330,
-  "stargazers_count": 660,
+  "size": 6341,
+  "stargazers_count": 661,
   "language": "CSS",
   "mirror_url": null,
   "archived": false,
@@ -156,7 +156,7 @@
     "brunogirin": 11,
     "thomasoss": 17,
     "eigerva": 78,
-    "CoralineAda": 482,
+    "CoralineAda": 484,
     "marcker": 2,
     "vsanthanam": 2,
     "cupakromer": 1,
@@ -301,9 +301,11 @@
     "shrut1996": 1,
     "wuworkshop": 1,
     "joscormir": 1,
-    "tieguy": 2
+    "tieguy": 2,
+    "camilleroux": 1,
+    "roblarsen": 1
   },
-  "fetched_at": "2018-08-13T15:42:49.251Z",
+  "fetched_at": "2018-08-14T05:56:33.282Z",
   "pulls_url": "https://api.github.com/repos/ContributorCovenant/contributor_covenant/pulls{/number}",
   "pulls_authors": [
     "tieguy",
@@ -615,6 +617,7 @@
     "jbrains",
     "btford",
     "phinze",
-    "camilleroux"
+    "camilleroux",
+    "roblarsen"
   ]
 }

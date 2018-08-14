@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/requests/requests/languages",
   "pulls_url": "https://api.github.com/repos/requests/requests/pulls{/number}",
   "created_at": "2011-02-13T18:38:17Z",
-  "updated_at": "2018-08-13T12:34:31Z",
-  "pushed_at": "2018-08-12T03:35:00Z",
+  "updated_at": "2018-08-14T04:46:31Z",
+  "pushed_at": "2018-08-13T19:11:50Z",
   "homepage": "http://python-requests.org",
-  "size": 9718,
-  "stargazers_count": 34041,
+  "size": 9719,
+  "stargazers_count": 34057,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -144,7 +144,7 @@
     "dpursehouse": 31,
     "BraulioVM": 43,
     "slingamn": 45,
-    "nateprewitt": 99,
+    "nateprewitt": 100,
     "sigmavirus24": 317,
     "Lukasa": 610,
     "kennethreitz": 2888,
@@ -463,7 +463,8 @@
     "ondrowan": 1,
     "pborreli": 1,
     "nakajima": 1,
-    "neogenix": 1
+    "neogenix": 1,
+    "kalefranz": 1
   },
   "pulls_authors": [
     "nateprewitt",
@@ -1319,11 +1320,12 @@
     "Aramgutang",
     "jlmurphy",
     "flaper87",
-    "digitalxero"
+    "digitalxero",
+    "BoboTiG"
   ],
   "languages": {
     "Python": {
-      "bytes": 316367,
+      "bytes": 316533,
       "color": "#3572A5"
     },
     "PowerShell": {
@@ -1335,5 +1337,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-13T13:13:40.598Z"
+  "fetched_at": "2018-08-14T05:56:33.282Z"
 }

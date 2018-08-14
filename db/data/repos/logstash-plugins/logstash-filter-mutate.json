@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/logstash-plugins/logstash-filter-mutate",
   "languages_url": "https://api.github.com/repos/logstash-plugins/logstash-filter-mutate/languages",
   "created_at": "2014-10-07T14:46:56Z",
-  "updated_at": "2018-05-01T20:35:27Z",
-  "pushed_at": "2018-05-01T21:18:31Z",
+  "updated_at": "2018-08-13T21:34:48Z",
+  "pushed_at": "2018-08-13T21:34:45Z",
   "homepage": null,
-  "size": 136,
+  "size": 139,
   "stargazers_count": 10,
   "language": "Ruby",
   "mirror_url": null,
@@ -76,9 +76,10 @@
     "untergeek": 6,
     "colinsurprenant": 7,
     "guyboertje": 8,
-    "ph": 42
+    "ph": 42,
+    "JP77Github": 1
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "fetched_at": "2018-08-14T05:56:33.282Z",
   "pulls_url": "https://api.github.com/repos/logstash-plugins/logstash-filter-mutate/pulls{/number}",
   "pulls_authors": [
     "yaauie",
@@ -111,6 +112,7 @@
     "untergeek",
     "doubret",
     "theNewFlesh",
-    "adamw-linadm"
+    "adamw-linadm",
+    "JP77Github"
   ]
 }

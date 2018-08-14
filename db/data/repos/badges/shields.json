@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/badges/shields",
   "languages_url": "https://api.github.com/repos/badges/shields/languages",
   "created_at": "2013-01-30T07:41:54Z",
-  "updated_at": "2018-08-13T09:38:23Z",
-  "pushed_at": "2018-08-13T07:49:40Z",
+  "updated_at": "2018-08-14T05:28:10Z",
+  "pushed_at": "2018-08-14T05:46:56Z",
   "homepage": "https://shields.io",
-  "size": 9588,
-  "stargazers_count": 6019,
+  "size": 9764,
+  "stargazers_count": 6023,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -301,7 +301,7 @@
     "brianquinlan": 1,
     "HansBrende": 1,
     "alerque": 1,
-    "dependabot[bot]": 26
+    "dependabot[bot]": 29
   },
   "languages": {
     "JavaScript": {
@@ -329,7 +329,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-13T13:13:40.598Z",
+  "fetched_at": "2018-08-14T05:56:33.282Z",
   "pulls_url": "https://api.github.com/repos/badges/shields/pulls{/number}",
   "pulls_authors": [
     "dependabot[bot]",

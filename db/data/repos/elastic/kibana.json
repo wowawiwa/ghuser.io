@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/elastic/kibana",
   "languages_url": "https://api.github.com/repos/elastic/kibana/languages",
   "created_at": "2013-01-26T04:00:59Z",
-  "updated_at": "2018-08-13T12:08:57Z",
-  "pushed_at": "2018-08-13T13:14:34Z",
+  "updated_at": "2018-08-14T05:41:49Z",
+  "pushed_at": "2018-08-14T05:39:58Z",
   "homepage": "https://www.elastic.co/products/kibana",
-  "size": 437312,
-  "stargazers_count": 9860,
+  "size": 437695,
+  "stargazers_count": 9864,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,19 +48,19 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 18303877,
+      "bytes": 18308350,
       "color": "#f1e05a"
     },
     "TypeScript": {
-      "bytes": 980323,
+      "bytes": 981981,
       "color": "#2b7489"
     },
     "HTML": {
-      "bytes": 835049,
+      "bytes": 835110,
       "color": "#e34c26"
     },
     "CSS": {
-      "bytes": 449050,
+      "bytes": 448171,
       "color": "#563d7c"
     },
     "Shell": {
@@ -148,15 +148,15 @@
     "scampi": 23,
     "clintongormley": 25,
     "nyurik": 27,
-    "archanid": 30,
+    "archanid": 31,
     "sqren": 44,
     "weltenwort": 39,
     "bmcconaghy": 41,
     "jimmyjones2": 36,
-    "debadair": 48,
+    "debadair": 49,
     "lcawl": 102,
     "chrisronline": 72,
-    "kobelb": 86,
+    "kobelb": 87,
     "kimjoar": 95,
     "tylersmalley": 128,
     "tsullivan": 135,
@@ -172,7 +172,7 @@
     "ycombinator": 330,
     "epixa": 395,
     "lukasolson": 461,
-    "jbudz": 464,
+    "jbudz": 465,
     "cjcenizal": 475,
     "Bargs": 567,
     "bleskes": 515,
@@ -180,7 +180,7 @@
     "rashidkpc": 1001,
     "stormpython": 1190,
     "w33ble": 1612,
-    "spalger": 4231,
+    "spalger": 4232,
     "ajebasingh": 2,
     "nellicus": 2,
     "formgeist": 6,
@@ -350,10 +350,11 @@
     "maryia-lapata": 2,
     "dedemorton": 1,
     "sunui": 1,
-    "joshdover": 1,
-    "pavel06081991": 1
+    "joshdover": 2,
+    "pavel06081991": 1,
+    "going-confetti": 1
   },
-  "fetched_at": "2018-08-13T13:13:40.598Z",
+  "fetched_at": "2018-08-14T05:56:33.282Z",
   "pulls_url": "https://api.github.com/repos/elastic/kibana/pulls{/number}",
   "pulls_authors": [
     "nreese",
@@ -981,6 +982,7 @@
     "errordeveloper",
     "saez0pub",
     "WillAbides",
-    "heyitsmdr"
+    "heyitsmdr",
+    "bgaddis56"
   ]
 }

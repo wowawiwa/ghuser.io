@@ -34,7 +34,7 @@
     "TheConnMan": 10,
     "leefaus": 10,
     "DonSinDRom": 8,
-    "vynmera": 26,
+    "vynmera": 28,
     "danischreiber": 9,
     "soonahn": 10,
     "rockhouse": 10,
@@ -93,7 +93,7 @@
     "gdelavald": 124,
     "Sing-Li": 251,
     "geekgonecrazy": 360,
-    "ggazzo": 441,
+    "ggazzo": 443,
     "graywolf336": 435,
     "MartinSchoeler": 599,
     "karlprieb": 604,
@@ -382,7 +382,9 @@
     "HappyTobi": 1,
     "soundstorm": 1,
     "rockbruno": 2,
-    "crazy-max": 1
+    "crazy-max": 1,
+    "Atisom": 1,
+    "glstewart17": 1
   },
   "name": "Rocket.Chat",
   "full_name": "RocketChat/Rocket.Chat",
@@ -394,11 +396,11 @@
   "url": "https://api.github.com/repos/RocketChat/Rocket.Chat",
   "languages_url": "https://api.github.com/repos/RocketChat/Rocket.Chat/languages",
   "created_at": "2015-05-19T07:36:09Z",
-  "updated_at": "2018-08-13T12:43:41Z",
-  "pushed_at": "2018-08-13T12:52:43Z",
+  "updated_at": "2018-08-14T05:19:57Z",
+  "pushed_at": "2018-08-14T05:09:21Z",
   "homepage": "https://rocket.chat/",
-  "size": 76227,
-  "stargazers_count": 19380,
+  "size": 76052,
+  "stargazers_count": 19398,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -432,15 +434,15 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 3913653,
+      "bytes": 3916239,
       "color": "#f1e05a"
     },
     "HTML": {
-      "bytes": 407167,
+      "bytes": 407029,
       "color": "#e34c26"
     },
     "CSS": {
-      "bytes": 386423,
+      "bytes": 386537,
       "color": "#563d7c"
     },
     "CoffeeScript": {
@@ -472,7 +474,7 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-08-13T13:13:40.598Z",
+  "fetched_at": "2018-08-14T05:56:33.282Z",
   "pulls_url": "https://api.github.com/repos/RocketChat/Rocket.Chat/pulls{/number}",
   "pulls_authors": [
     "TheReal1604",
@@ -1122,6 +1124,7 @@
     "gitter-badger",
     "filipealva",
     "madguy02",
-    "jakob-lundberg"
+    "jakob-lundberg",
+    "Atisom"
   ]
 }

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/airbnb/javascript",
   "languages_url": "https://api.github.com/repos/airbnb/javascript/languages",
   "created_at": "2012-11-01T23:13:50Z",
-  "updated_at": "2018-08-13T12:56:25Z",
-  "pushed_at": "2018-08-13T07:57:50Z",
+  "updated_at": "2018-08-14T05:47:24Z",
+  "pushed_at": "2018-08-13T20:40:05Z",
   "homepage": null,
-  "size": 2736,
-  "stargazers_count": 74585,
+  "size": 2756,
+  "stargazers_count": 74616,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -146,7 +146,7 @@
     "justjake": 70,
     "lencioni": 59,
     "hshoff": 296,
-    "ljharb": 508,
+    "ljharb": 511,
     "ajacksified": 4,
     "horaceko": 2,
     "aaronjensen": 1,
@@ -456,7 +456,7 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-13T13:13:40.598Z",
+  "fetched_at": "2018-08-14T05:56:33.282Z",
   "pulls_url": "https://api.github.com/repos/airbnb/javascript/pulls{/number}",
   "pulls_authors": [
     "pschreibs85",
@@ -1160,6 +1160,7 @@
     "reissbaker",
     "danielchangNYC",
     "schalivendri",
-    "xyzdata"
+    "xyzdata",
+    "wsabransky"
   ]
 }

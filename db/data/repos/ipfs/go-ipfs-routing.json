@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/ipfs/go-ipfs-routing",
   "languages_url": "https://api.github.com/repos/ipfs/go-ipfs-routing/languages",
   "created_at": "2018-02-14T16:53:35Z",
-  "updated_at": "2018-08-11T01:03:56Z",
-  "pushed_at": "2018-08-11T01:03:55Z",
+  "updated_at": "2018-08-13T22:26:15Z",
+  "pushed_at": "2018-08-13T22:30:00Z",
   "homepage": null,
-  "size": 1211,
+  "size": 1213,
   "stargazers_count": 4,
   "language": "Go",
   "mirror_url": null,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "Go": {
-      "bytes": 17248,
+      "bytes": 17149,
       "color": "#375eab"
     },
     "Makefile": {
@@ -77,12 +77,12 @@
     "rht": 8,
     "Kubuxu": 11,
     "hsanjuan": 13,
-    "Stebalien": 35,
+    "Stebalien": 37,
     "jbenet": 177,
     "whyrusleeping": 250,
     "vyzo": 1
   },
-  "fetched_at": "2018-08-11T06:30:09.580Z",
+  "fetched_at": "2018-08-14T05:56:33.282Z",
   "pulls_url": "https://api.github.com/repos/ipfs/go-ipfs-routing/pulls{/number}",
   "pulls_authors": [
     "Stebalien",

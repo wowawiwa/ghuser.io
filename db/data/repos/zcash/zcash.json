@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/zcash/zcash",
   "languages_url": "https://api.github.com/repos/zcash/zcash/languages",
   "created_at": "2014-11-22T03:13:10Z",
-  "updated_at": "2018-08-13T11:09:01Z",
+  "updated_at": "2018-08-14T05:43:28Z",
   "pushed_at": "2018-08-13T15:36:24Z",
   "homepage": "https://z.cash/",
-  "size": 64246,
-  "stargazers_count": 3788,
+  "size": 64374,
+  "stargazers_count": 3791,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -459,7 +459,7 @@
     "rex4539": 1,
     "pejvan": 2
   },
-  "fetched_at": "2018-08-13T15:42:49.251Z",
+  "fetched_at": "2018-08-14T05:56:33.282Z",
   "pulls_url": "https://api.github.com/repos/zcash/zcash/pulls{/number}",
   "pulls_authors": [
     "leto",
