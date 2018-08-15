@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/rtfd/readthedocs.org",
   "languages_url": "https://api.github.com/repos/rtfd/readthedocs.org/languages",
   "created_at": "2010-08-16T19:18:06Z",
-  "updated_at": "2018-08-15T03:36:19Z",
-  "pushed_at": "2018-08-14T21:53:43Z",
+  "updated_at": "2018-08-15T15:48:27Z",
+  "pushed_at": "2018-08-15T15:48:12Z",
   "homepage": "https://readthedocs.org/",
-  "size": 51525,
-  "stargazers_count": 4556,
+  "size": 51524,
+  "stargazers_count": 4557,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -56,7 +56,7 @@
       "color": "#f1e05a"
     },
     "HTML": {
-      "bytes": 192798,
+      "bytes": 192826,
       "color": "#e34c26"
     },
     "CSS": {
@@ -156,7 +156,7 @@
     "rajujha373": 16,
     "ewjoachim": 16,
     "jMyles": 24,
-    "xrmx": 18,
+    "xrmx": 19,
     "Turbo87": 19,
     "wapcaplet": 19,
     "safwanrahman": 20,
@@ -172,9 +172,9 @@
     "bobbygrace": 162,
     "coleifer": 140,
     "davidfischer": 280,
-    "humitos": 246,
+    "humitos": 248,
     "gregmuellegger": 277,
-    "stsewd": 387,
+    "stsewd": 388,
     "agjohnson": 791,
     "ericholscher": 5489,
     "ajatprabha": 2,
@@ -390,7 +390,7 @@
     "nijel": 2,
     "trein": 1
   },
-  "fetched_at": "2018-08-15T05:35:10.245Z",
+  "fetched_at": "2018-08-15T16:08:02.540Z",
   "pulls_url": "https://api.github.com/repos/rtfd/readthedocs.org/pulls{/number}",
   "pulls_authors": [
     "stsewd",

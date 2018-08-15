@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/openSUSE/zypper/languages",
   "pulls_url": "https://api.github.com/repos/openSUSE/zypper/pulls{/number}",
   "created_at": "2011-07-29T10:21:40Z",
-  "updated_at": "2018-08-14T16:23:57Z",
-  "pushed_at": "2018-08-14T16:24:45Z",
+  "updated_at": "2018-08-15T12:00:54Z",
+  "pushed_at": "2018-08-15T12:00:52Z",
   "homepage": "http://en.opensuse.org/Portal:Zypper",
-  "size": 443261,
+  "size": 443326,
   "stargazers_count": 122,
   "language": "C++",
   "mirror_url": null,
@@ -106,7 +106,7 @@
     "MikhailKasimov": 4,
     "cnzhx": 4,
     "ramaxlo": 4,
-    "stanislav-brabec": 4,
+    "stanislav-brabec": 13,
     "Fisiu": 5,
     "cho2": 5,
     "embar-": 5,
@@ -114,7 +114,7 @@
     "aschnell": 5,
     "huftis": 6,
     "medwinz": 6,
-    "coolo": 6,
+    "coolo": 7,
     "princeofgiri": 8,
     "rmsolucoeseminformatica": 9,
     "marguerite": 11,
@@ -129,7 +129,7 @@
     "super7ramp": 28,
     "bzeller": 32,
     "belphegor-belbel": 34,
-    "scootergrisen": 34,
+    "scootergrisen": 35,
     "tgoettlicher": 43,
     "alexminton": 46,
     "asdil12": 52,
@@ -137,9 +137,9 @@
     "elchevive": 63,
     "jreidinger": 87,
     "dmacvicar": 88,
-    "mvidner": 91,
+    "mvidner": 92,
     "opensuse-i18n": 786,
-    "mlandres": 1203
+    "mlandres": 1251
   },
   "pulls_authors": [
     "bzeller",
@@ -203,5 +203,5 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-08-14T18:01:48.440Z"
+  "fetched_at": "2018-08-15T16:06:32.480Z"
 }

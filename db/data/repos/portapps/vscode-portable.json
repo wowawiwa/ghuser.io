@@ -10,8 +10,8 @@
   "url": "https://api.github.com/repos/portapps/vscode-portable",
   "languages_url": "https://api.github.com/repos/portapps/vscode-portable/languages",
   "created_at": "2018-05-30T19:23:09Z",
-  "updated_at": "2018-07-21T08:15:41Z",
-  "pushed_at": "2018-06-21T20:16:33Z",
+  "updated_at": "2018-08-15T11:30:31Z",
+  "pushed_at": "2018-08-15T15:09:35Z",
   "homepage": "https://portapps.github.io/app/vscode-portable",
   "size": 43,
   "stargazers_count": 4,
@@ -47,7 +47,7 @@
     "site_admin": false
   },
   "contributors": {
-    "crazy-max": 6
+    "crazy-max": 8
   },
   "languages": {
     "Go": {
@@ -55,7 +55,7 @@
       "color": "#375eab"
     }
   },
-  "fetched_at": "2018-07-21T14:55:33.499Z",
+  "fetched_at": "2018-08-15T16:05:04.589Z",
   "pulls_url": "https://api.github.com/repos/portapps/vscode-portable/pulls{/number}",
   "pulls_authors": []
 }

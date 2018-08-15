@@ -417,8 +417,8 @@
   "url": "https://api.github.com/repos/symfony/symfony-docs",
   "languages_url": "https://api.github.com/repos/symfony/symfony-docs/languages",
   "created_at": "2010-02-17T08:43:51Z",
-  "updated_at": "2018-08-14T10:09:49Z",
-  "pushed_at": "2018-08-14T16:56:25Z",
+  "updated_at": "2018-08-15T14:11:05Z",
+  "pushed_at": "2018-08-15T14:03:44Z",
   "homepage": "https://symfony.com/doc",
   "size": 48678,
   "stargazers_count": 1472,
@@ -485,7 +485,7 @@
       "color": "#5c7611"
     }
   },
-  "fetched_at": "2018-08-14T17:59:59.468Z",
+  "fetched_at": "2018-08-15T16:04:39.916Z",
   "pulls_url": "https://api.github.com/repos/symfony/symfony-docs/pulls{/number}",
   "pulls_authors": [
     "xabbuh",
@@ -2561,6 +2561,8 @@
     "sensorario",
     "ahinkle",
     "vindby23",
-    "apirec"
+    "apirec",
+    "martixy",
+    "ThamiSadouk"
   ]
 }

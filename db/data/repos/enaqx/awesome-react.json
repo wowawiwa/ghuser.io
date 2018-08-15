@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/enaqx/awesome-react",
   "languages_url": "https://api.github.com/repos/enaqx/awesome-react/languages",
   "created_at": "2014-08-06T05:31:44Z",
-  "updated_at": "2018-08-15T05:12:22Z",
-  "pushed_at": "2018-08-14T07:36:08Z",
+  "updated_at": "2018-08-15T15:15:35Z",
+  "pushed_at": "2018-08-15T14:49:23Z",
   "homepage": "",
-  "size": 2126,
-  "stargazers_count": 27111,
+  "size": 2165,
+  "stargazers_count": 27120,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -453,10 +453,12 @@
     "HendrixString": 1,
     "VovanR": 1,
     "jpmonette": 1,
-    "piyushimraw": 1
+    "piyushimraw": 1,
+    "begincalendar": 1,
+    "noccer": 1
   },
   "languages": {},
-  "fetched_at": "2018-08-15T05:32:13.179Z",
+  "fetched_at": "2018-08-15T16:04:33.977Z",
   "pulls_url": "https://api.github.com/repos/enaqx/awesome-react/pulls{/number}",
   "pulls_authors": [
     "VovanR",
@@ -1060,6 +1062,8 @@
     "xeodou",
     "princed",
     "jpmonette",
-    "piyushimraw"
+    "piyushimraw",
+    "noccer",
+    "begincalendar"
   ]
 }

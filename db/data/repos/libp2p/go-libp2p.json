@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/libp2p/go-libp2p",
   "languages_url": "https://api.github.com/repos/libp2p/go-libp2p/languages",
   "created_at": "2015-09-30T23:24:32Z",
-  "updated_at": "2018-08-14T08:24:27Z",
-  "pushed_at": "2018-08-13T23:54:48Z",
+  "updated_at": "2018-08-15T10:44:54Z",
+  "pushed_at": "2018-08-15T10:39:44Z",
   "homepage": "",
   "size": 8156,
-  "stargazers_count": 1551,
+  "stargazers_count": 1553,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -112,7 +112,7 @@
     "vyzo": 9,
     "gpestana": 1
   },
-  "fetched_at": "2018-08-14T18:03:48.587Z",
+  "fetched_at": "2018-08-15T16:08:46.860Z",
   "pulls_url": "https://api.github.com/repos/libp2p/go-libp2p/pulls{/number}",
   "pulls_authors": [
     "gpestana",
@@ -165,6 +165,8 @@
     "ReadmeCritic",
     "dignifiedquire",
     "tilgovi",
-    "wemeetagain"
+    "wemeetagain",
+    "cannium",
+    "kishansagathiya"
   ]
 }

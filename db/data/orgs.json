@@ -4455,6 +4455,39 @@
       "created_at": "2017-01-16T23:05:14Z",
       "updated_at": "2017-01-16T23:05:14Z",
       "type": "Organization"
+    },
+    "ibm-full-stack": {
+      "login": "ibm-full-stack",
+      "url": "https://api.github.com/orgs/ibm-full-stack",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/42174225?v=4",
+      "name": "IBM - Full Stack - June 25th",
+      "is_verified": false,
+      "html_url": "https://github.com/ibm-full-stack",
+      "created_at": "2018-08-07T10:56:29Z",
+      "updated_at": "2018-08-08T14:17:58Z",
+      "type": "Organization"
+    },
+    "zenodo": {
+      "login": "zenodo",
+      "url": "https://api.github.com/orgs/zenodo",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/2675345?v=4",
+      "name": "Zenodo",
+      "is_verified": false,
+      "html_url": "https://github.com/zenodo",
+      "created_at": "2012-10-29T12:47:54Z",
+      "updated_at": "2017-06-13T19:01:52Z",
+      "type": "Organization"
+    },
+    "DigiCred": {
+      "login": "DigiCred",
+      "url": "https://api.github.com/orgs/DigiCred",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/22852755?v=4",
+      "name": "DigiCred Technologies",
+      "is_verified": false,
+      "html_url": "https://github.com/DigiCred",
+      "created_at": "2016-10-15T09:11:03Z",
+      "updated_at": "2017-04-15T08:24:10Z",
+      "type": "Organization"
     }
   }
 }

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/canjs/canjs",
   "languages_url": "https://api.github.com/repos/canjs/canjs/languages",
   "created_at": "2012-01-20T17:57:21Z",
-  "updated_at": "2018-08-15T02:37:24Z",
-  "pushed_at": "2018-08-14T21:39:35Z",
+  "updated_at": "2018-08-15T15:26:29Z",
+  "pushed_at": "2018-08-15T15:50:19Z",
   "homepage": "https://canjs.com/",
-  "size": 106639,
-  "stargazers_count": 1670,
+  "size": 106658,
+  "stargazers_count": 1671,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -125,7 +125,7 @@
     "BigAB": 27,
     "iamnoah": 24,
     "greenkeeperio-bot": 30,
-    "greenkeeper[bot]": 40,
+    "greenkeeper[bot]": 46,
     "arijo": 36,
     "polgfred": 46,
     "thecountofzero": 41,
@@ -139,10 +139,10 @@
     "ccummings": 169,
     "joe-crick": 146,
     "imjoshdean": 218,
-    "phillipskevin": 445,
+    "phillipskevin": 456,
     "andykant": 314,
     "matthewp": 374,
-    "chasenlehara": 467,
+    "chasenlehara": 471,
     "amcdnl": 590,
     "moschel": 745,
     "daffl": 1531,
@@ -213,7 +213,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 569325,
+      "bytes": 569551,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -229,7 +229,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-15T05:34:41.724Z",
+  "fetched_at": "2018-08-15T16:07:28.931Z",
   "pulls_url": "https://api.github.com/repos/canjs/canjs/pulls{/number}",
   "pulls_authors": [
     "chasenlehara",

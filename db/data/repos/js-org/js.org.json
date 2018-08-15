@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/js-org/js.org",
   "languages_url": "https://api.github.com/repos/js-org/js.org/languages",
   "created_at": "2015-04-08T01:43:18Z",
-  "updated_at": "2018-08-13T06:58:34Z",
-  "pushed_at": "2018-08-13T06:43:12Z",
+  "updated_at": "2018-08-15T14:49:06Z",
+  "pushed_at": "2018-08-15T14:49:03Z",
   "homepage": "https://js.org",
-  "size": 2963,
-  "stargazers_count": 1826,
+  "size": 3356,
+  "stargazers_count": 1827,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -135,13 +135,13 @@
     "KDiaCodes": 7,
     "arguiot": 7,
     "caxvis": 7,
-    "TristianK3604": 7,
+    "TristianK3604": 9,
     "cchamberlain": 9,
     "Kikobeats": 11,
     "tannerlinsley": 15,
-    "pakastin": 15,
+    "pakastin": 16,
     "egoist": 16,
-    "indus": 1851,
+    "indus": 1858,
     "ccrraaiigg": 3,
     "danieljuarezp": 3,
     "dhruvdutt": 3,
@@ -244,7 +244,7 @@
     "FardinDaDev": 2,
     "f": 2,
     "FezVrasta": 2,
-    "Fidelxyz": 3,
+    "Fidelxyz": 5,
     "fmoliveira": 2,
     "fptavares": 2,
     "Floffah": 2,
@@ -495,15 +495,17 @@
     "8tentaculos": 1,
     "bojand": 1,
     "1ocalhost": 1,
-    "adamshurson": 1
+    "adamshurson": 1,
+    "fairymeee": 4,
+    "zhaomenghuan": 2
   },
   "languages": {
     "JavaScript": {
-      "bytes": 83283,
+      "bytes": 83348,
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-13T13:13:40.598Z",
+  "fetched_at": "2018-08-15T16:10:45.466Z",
   "pulls_url": "https://api.github.com/repos/js-org/js.org/pulls{/number}",
   "pulls_authors": [
     "ChandZhang",
@@ -1865,6 +1867,7 @@
     "1ocalhost",
     "fairymeee",
     "natsuozawa",
-    "yysun"
+    "yysun",
+    "takefumi-yoshii"
   ]
 }

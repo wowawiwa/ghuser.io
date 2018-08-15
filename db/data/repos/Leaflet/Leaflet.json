@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/Leaflet/Leaflet",
   "languages_url": "https://api.github.com/repos/Leaflet/Leaflet/languages",
   "created_at": "2010-09-22T16:57:44Z",
-  "updated_at": "2018-08-15T03:51:57Z",
-  "pushed_at": "2018-08-14T19:04:42Z",
+  "updated_at": "2018-08-15T15:18:33Z",
+  "pushed_at": "2018-08-15T08:28:17Z",
   "homepage": "https://leafletjs.com",
-  "size": 47185,
-  "stargazers_count": 22417,
+  "size": 47186,
+  "stargazers_count": 22424,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -163,7 +163,7 @@
     "perliedman": 126,
     "yohanboniface": 208,
     "danzel": 301,
-    "IvanSanchez": 389,
+    "IvanSanchez": 390,
     "mourner": 3595,
     "aratcliffe": 3,
     "alejo90": 3,
@@ -457,7 +457,7 @@
     "Malvoz": 2,
     "helbling": 1
   },
-  "fetched_at": "2018-08-15T05:35:31.689Z",
+  "fetched_at": "2018-08-15T16:08:27.145Z",
   "pulls_url": "https://api.github.com/repos/Leaflet/Leaflet/pulls{/number}",
   "pulls_authors": [
     "matkoniecz",
@@ -1325,6 +1325,7 @@
     "Miroff",
     "maxogden",
     "helbling",
-    "Malvoz"
+    "Malvoz",
+    "zstadler"
   ]
 }

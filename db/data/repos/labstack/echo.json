@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/labstack/echo",
   "languages_url": "https://api.github.com/repos/labstack/echo/languages",
   "created_at": "2015-03-01T17:43:01Z",
-  "updated_at": "2018-08-15T04:21:57Z",
-  "pushed_at": "2018-08-08T09:08:14Z",
+  "updated_at": "2018-08-15T14:35:36Z",
+  "pushed_at": "2018-08-15T14:35:28Z",
   "homepage": "https://echo.labstack.com",
-  "size": 5088,
-  "stargazers_count": 11268,
+  "size": 5083,
+  "stargazers_count": 11272,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -155,11 +155,12 @@
     "kesuskim": 3,
     "philippgille": 1,
     "andofcourse": 1,
-    "alexandrestein": 5
+    "alexandrestein": 5,
+    "mweglarz": 1
   },
   "languages": {
     "Go": {
-      "bytes": 233597,
+      "bytes": 234519,
       "color": "#375eab"
     },
     "Makefile": {
@@ -171,7 +172,7 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-08-15T05:32:59.118Z",
+  "fetched_at": "2018-08-15T16:05:28.627Z",
   "pulls_url": "https://api.github.com/repos/labstack/echo/pulls{/number}",
   "pulls_authors": [
     "andofcourse",
@@ -394,6 +395,7 @@
     "louis-paul",
     "jbub",
     "alfg",
-    "mre"
+    "mre",
+    "mweglarz"
   ]
 }

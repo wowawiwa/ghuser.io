@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/coala/gh-board/languages",
   "pulls_url": "https://api.github.com/repos/coala/gh-board/pulls{/number}",
   "created_at": "2017-11-18T02:13:10Z",
-  "updated_at": "2018-08-10T09:35:26Z",
-  "pushed_at": "2018-08-13T07:15:10Z",
+  "updated_at": "2018-08-15T14:27:40Z",
+  "pushed_at": "2018-08-15T14:44:52Z",
   "homepage": "https://coala-gh-board.netlify.com/",
-  "size": 34045,
+  "size": 39354,
   "stargazers_count": 10,
   "language": "JavaScript",
   "mirror_url": null,
@@ -59,7 +59,7 @@
     "blazeu": 11,
     "greenkeeper[bot]": 22,
     "mathieudutour": 27,
-    "li-boxuan": 37,
+    "li-boxuan": 38,
     "philschatz": 418
   },
   "pulls_authors": [
@@ -94,5 +94,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-13T13:13:40.598Z"
+  "fetched_at": "2018-08-15T16:06:19.159Z"
 }

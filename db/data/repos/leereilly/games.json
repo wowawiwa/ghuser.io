@@ -146,18 +146,18 @@
   "url": "https://api.github.com/repos/leereilly/games",
   "languages_url": "https://api.github.com/repos/leereilly/games/languages",
   "created_at": "2012-01-05T19:48:55Z",
-  "updated_at": "2018-08-15T03:30:20Z",
-  "pushed_at": "2018-08-13T15:28:00Z",
+  "updated_at": "2018-08-15T15:56:28Z",
+  "pushed_at": "2018-08-15T08:20:42Z",
   "homepage": "",
   "size": 411,
-  "stargazers_count": 11270,
+  "stargazers_count": 11272,
   "language": null,
   "mirror_url": null,
   "archived": false,
   "license": null,
   "default_branch": "master",
   "languages": {},
-  "fetched_at": "2018-08-15T05:32:28.715Z",
+  "fetched_at": "2018-08-15T16:04:50.569Z",
   "pulls_url": "https://api.github.com/repos/leereilly/games/pulls{/number}",
   "pulls_authors": [
     "gkaklas",
@@ -389,6 +389,7 @@
     "rogerzanoni",
     "lcodes",
     "Chandu",
-    "testman42"
+    "testman42",
+    "nafanz"
   ]
 }

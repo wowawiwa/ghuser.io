@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/ftpgrab/docker",
   "languages_url": "https://api.github.com/repos/ftpgrab/docker/languages",
   "created_at": "2017-10-14T13:46:56Z",
-  "updated_at": "2018-06-29T19:48:50Z",
-  "pushed_at": "2018-05-25T13:01:22Z",
+  "updated_at": "2018-08-15T12:54:48Z",
+  "pushed_at": "2018-08-15T12:55:09Z",
   "homepage": null,
-  "size": 18,
+  "size": 22,
   "stargazers_count": 5,
   "language": "Shell",
   "mirror_url": null,
@@ -47,15 +47,19 @@
     "site_admin": false
   },
   "contributors": {
-    "crazy-max": 21
+    "crazy-max": 24
   },
   "languages": {
     "Shell": {
       "bytes": 2712,
       "color": "#89e051"
+    },
+    "Dockerfile": {
+      "bytes": 1223,
+      "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "fetched_at": "2018-08-15T16:05:07.798Z",
   "pulls_url": "https://api.github.com/repos/ftpgrab/docker/pulls{/number}",
   "pulls_authors": []
 }

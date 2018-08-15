@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/ipfs/ipget",
   "languages_url": "https://api.github.com/repos/ipfs/ipget/languages",
   "created_at": "2015-09-25T06:02:08Z",
-  "updated_at": "2018-08-11T16:27:35Z",
+  "updated_at": "2018-08-15T10:16:56Z",
   "pushed_at": "2018-07-09T09:41:45Z",
   "homepage": "",
   "size": 2046,
-  "stargazers_count": 93,
+  "stargazers_count": 94,
   "language": "Shell",
   "mirror_url": null,
   "archived": false,
@@ -69,7 +69,7 @@
     "whyrusleeping": 3,
     "noffle": 87
   },
-  "fetched_at": "2018-08-12T04:56:28.350Z",
+  "fetched_at": "2018-08-15T16:08:51.465Z",
   "pulls_url": "https://api.github.com/repos/ipfs/ipget/pulls{/number}",
   "pulls_authors": [
     "djdv",

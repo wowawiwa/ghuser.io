@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/remarkjs/remark",
   "languages_url": "https://api.github.com/repos/remarkjs/remark/languages",
   "created_at": "2014-07-28T19:35:14Z",
-  "updated_at": "2018-08-14T10:41:34Z",
-  "pushed_at": "2018-08-14T01:14:09Z",
+  "updated_at": "2018-08-15T15:04:16Z",
+  "pushed_at": "2018-08-15T15:04:12Z",
   "homepage": "https://remark.js.org",
-  "size": 11011,
+  "size": 11014,
   "stargazers_count": 1643,
   "language": "JavaScript",
   "mirror_url": null,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 163811,
+      "bytes": 163805,
       "color": "#f1e05a"
     }
   },
@@ -116,10 +116,10 @@
     "ChrisWren": 7,
     "eush77": 9,
     "chjj": 445,
-    "wooorm": 998,
+    "wooorm": 1004,
     "Hamms": 1
   },
-  "fetched_at": "2018-08-14T18:03:28.333Z",
+  "fetched_at": "2018-08-15T16:08:23.582Z",
   "pulls_url": "https://api.github.com/repos/remarkjs/remark/pulls{/number}",
   "pulls_authors": [
     "arobase-che",
