@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/PyGithub/PyGithub/languages",
   "pulls_url": "https://api.github.com/repos/PyGithub/PyGithub/pulls{/number}",
   "created_at": "2012-02-25T12:53:47Z",
-  "updated_at": "2018-08-13T23:15:12Z",
-  "pushed_at": "2018-08-13T21:33:56Z",
+  "updated_at": "2018-08-15T03:39:15Z",
+  "pushed_at": "2018-08-15T04:07:10Z",
   "homepage": "http://pygithub.readthedocs.io/",
-  "size": 11205,
+  "size": 11198,
   "stargazers_count": 1977,
   "language": "Python",
   "mirror_url": null,
@@ -142,7 +142,7 @@
     "thialfihar": 7,
     "jzelinskie": 63,
     "enix223": 11,
-    "s-t-e-v-e-n-k": 11,
+    "s-t-e-v-e-n-k": 13,
     "martinqt": 18,
     "jayfk": 37,
     "sfdye": 45,
@@ -183,7 +183,8 @@
     "namratachaudhary": 1,
     "nurupo": 1,
     "per1234": 1,
-    "sechastain": 1
+    "sechastain": 1,
+    "JPWKU": 1
   },
   "pulls_authors": [
     "allevin",
@@ -418,7 +419,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 1187787,
+      "bytes": 1225220,
       "color": "#3572A5"
     },
     "Shell": {
@@ -426,5 +427,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-14T05:56:33.282Z"
+  "fetched_at": "2018-08-15T05:37:28.269Z"
 }

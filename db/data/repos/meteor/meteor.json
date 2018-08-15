@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/meteor/meteor",
   "languages_url": "https://api.github.com/repos/meteor/meteor/languages",
   "created_at": "2012-01-19T01:58:17Z",
-  "updated_at": "2018-08-14T12:24:25Z",
-  "pushed_at": "2018-08-13T23:06:53Z",
+  "updated_at": "2018-08-15T03:22:38Z",
+  "pushed_at": "2018-08-15T01:14:31Z",
   "homepage": "https://www.meteor.com",
-  "size": 76201,
-  "stargazers_count": 40134,
+  "size": 76253,
+  "stargazers_count": 40138,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -481,7 +481,7 @@
     "dwebcat": 19,
     "chrishearn": 1
   },
-  "fetched_at": "2018-08-14T18:04:17.703Z",
+  "fetched_at": "2018-08-15T05:36:12.215Z",
   "pulls_url": "https://api.github.com/repos/meteor/meteor/pulls{/number}",
   "pulls_authors": [
     "jamesmillerburgess",
@@ -1207,6 +1207,7 @@
     "hswolff",
     "davemo",
     "edward",
-    "debergalis"
+    "debergalis",
+    "gchallen"
   ]
 }

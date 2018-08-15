@@ -463,11 +463,11 @@
   "url": "https://api.github.com/repos/gohugoio/hugoDocs",
   "languages_url": "https://api.github.com/repos/gohugoio/hugoDocs/languages",
   "created_at": "2017-06-14T07:52:37Z",
-  "updated_at": "2018-08-14T14:50:32Z",
-  "pushed_at": "2018-08-14T14:50:27Z",
+  "updated_at": "2018-08-15T02:52:26Z",
+  "pushed_at": "2018-08-14T22:39:32Z",
   "homepage": "",
   "size": 119127,
-  "stargazers_count": 173,
+  "stargazers_count": 175,
   "language": "HTML",
   "mirror_url": null,
   "archived": false,
@@ -517,7 +517,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-14T18:00:05.793Z",
+  "fetched_at": "2018-08-15T05:32:23.128Z",
   "pulls_url": "https://api.github.com/repos/gohugoio/hugoDocs/pulls{/number}",
   "pulls_authors": [
     "brentybh",
@@ -730,6 +730,7 @@
     "lolindrath",
     "blankoworld",
     "alihusnainarshad",
-    "khos2ow"
+    "khos2ow",
+    "funkydan2"
   ]
 }

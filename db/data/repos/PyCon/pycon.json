@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/PyCon/pycon",
   "languages_url": "https://api.github.com/repos/PyCon/pycon/languages",
   "created_at": "2013-06-04T13:54:18Z",
-  "updated_at": "2018-08-10T19:46:12Z",
+  "updated_at": "2018-08-14T18:40:22Z",
   "pushed_at": "2018-07-24T18:51:27Z",
   "homepage": "",
   "size": 28260,
-  "stargazers_count": 98,
+  "stargazers_count": 99,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -111,7 +111,7 @@
     "lukeman": 247,
     "dpoirier": 326
   },
-  "fetched_at": "2018-08-11T06:30:09.580Z",
+  "fetched_at": "2018-08-15T05:32:03.809Z",
   "pulls_url": "https://api.github.com/repos/PyCon/pycon/pulls{/number}",
   "pulls_authors": [
     "ejodlowska",

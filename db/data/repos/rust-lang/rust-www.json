@@ -122,7 +122,7 @@
     "Aaronepower": 1,
     "aalvarado": 1,
     "afshinm": 1,
-    "aidanhs": 1,
+    "aidanhs": 2,
     "evectant": 1,
     "durka": 1,
     "alex": 1,
@@ -300,7 +300,8 @@
     "aka-demik": 1,
     "munckymagik": 1,
     "wolf4ood": 1,
-    "joshtriplett": 1
+    "joshtriplett": 1,
+    "tomprince": 1
   },
   "name": "rust-www",
   "full_name": "rust-lang/rust-www",
@@ -312,10 +313,10 @@
   "url": "https://api.github.com/repos/rust-lang/rust-www",
   "languages_url": "https://api.github.com/repos/rust-lang/rust-www/languages",
   "created_at": "2011-08-31T16:42:32Z",
-  "updated_at": "2018-08-13T18:01:17Z",
-  "pushed_at": "2018-08-14T03:27:54Z",
+  "updated_at": "2018-08-14T18:01:51Z",
+  "pushed_at": "2018-08-14T21:09:35Z",
   "homepage": "https://www.rust-lang.org",
-  "size": 15621,
+  "size": 15625,
   "stargazers_count": 123,
   "language": "HTML",
   "mirror_url": null,
@@ -374,7 +375,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-14T05:56:33.282Z",
+  "fetched_at": "2018-08-15T05:32:26.699Z",
   "pulls_url": "https://api.github.com/repos/rust-lang/rust-www/pulls{/number}",
   "pulls_authors": [
     "pmarks",
@@ -723,6 +724,9 @@
     "nicholaswyoung",
     "tomprince",
     "joshtriplett",
-    "krircc"
+    "krircc",
+    "rafael-grisotto-movile",
+    "the-wendell",
+    "nwyoung"
   ]
 }

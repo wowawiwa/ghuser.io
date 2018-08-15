@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/elastic/kibana",
   "languages_url": "https://api.github.com/repos/elastic/kibana/languages",
   "created_at": "2013-01-26T04:00:59Z",
-  "updated_at": "2018-08-14T17:57:15Z",
-  "pushed_at": "2018-08-14T17:56:41Z",
+  "updated_at": "2018-08-15T05:22:04Z",
+  "pushed_at": "2018-08-15T05:22:12Z",
   "homepage": "https://www.elastic.co/products/kibana",
-  "size": 437745,
-  "stargazers_count": 9868,
+  "size": 437983,
+  "stargazers_count": 9869,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,19 +48,19 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 18276202,
+      "bytes": 18295500,
       "color": "#f1e05a"
     },
     "TypeScript": {
-      "bytes": 1041078,
+      "bytes": 1040984,
       "color": "#2b7489"
     },
     "HTML": {
-      "bytes": 835162,
+      "bytes": 835134,
       "color": "#e34c26"
     },
     "CSS": {
-      "bytes": 427413,
+      "bytes": 421643,
       "color": "#563d7c"
     },
     "Shell": {
@@ -138,9 +138,9 @@
     "gchaps": 22,
     "justinkambic": 18,
     "azasypkin": 26,
-    "snide": 24,
+    "snide": 25,
     "jgowdyelastic": 54,
-    "kkirsche": 18,
+    "kkirsche": 13,
     "peteharverson": 32,
     "trevan": 24,
     "pickypg": 23,
@@ -172,7 +172,7 @@
     "ycombinator": 330,
     "epixa": 395,
     "lukasolson": 461,
-    "jbudz": 465,
+    "jbudz": 466,
     "cjcenizal": 475,
     "Bargs": 567,
     "bleskes": 515,
@@ -180,7 +180,7 @@
     "rashidkpc": 1001,
     "stormpython": 1190,
     "w33ble": 1612,
-    "spalger": 4233,
+    "spalger": 4235,
     "ajebasingh": 2,
     "nellicus": 2,
     "formgeist": 6,
@@ -346,7 +346,7 @@
     "exekias": 1,
     "pjhampton": 1,
     "simitt": 2,
-    "cchaos": 2,
+    "cchaos": 3,
     "maryia-lapata": 2,
     "dedemorton": 1,
     "sunui": 1,
@@ -354,7 +354,7 @@
     "pavel06081991": 1,
     "going-confetti": 1
   },
-  "fetched_at": "2018-08-14T18:02:16.295Z",
+  "fetched_at": "2018-08-15T05:34:20.206Z",
   "pulls_url": "https://api.github.com/repos/elastic/kibana/pulls{/number}",
   "pulls_authors": [
     "nreese",

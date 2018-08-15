@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/DennisYurichev/RE-for-beginners/languages",
   "pulls_url": "https://api.github.com/repos/DennisYurichev/RE-for-beginners/pulls{/number}",
   "created_at": "2013-03-14T19:35:38Z",
-  "updated_at": "2018-08-14T03:05:59Z",
-  "pushed_at": "2018-08-12T00:44:01Z",
+  "updated_at": "2018-08-15T02:14:35Z",
+  "pushed_at": "2018-08-15T00:11:57Z",
   "homepage": "http://beginners.re",
-  "size": 38994,
-  "stargazers_count": 6250,
+  "size": 38988,
+  "stargazers_count": 6252,
   "language": "TeX",
   "mirror_url": null,
   "archived": false,
@@ -93,7 +93,7 @@
     "pinkrab": 108,
     "DSiekmeier": 127,
     "mremy": 217,
-    "DennisYurichev": 1534
+    "DennisYurichev": 1536
   },
   "pulls_authors": [
     "goto-vlad",
@@ -170,7 +170,7 @@
   ],
   "languages": {
     "TeX": {
-      "bytes": 5928531,
+      "bytes": 5928696,
       "color": "#3D6117"
     },
     "Assembly": {
@@ -202,5 +202,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-14T05:56:33.282Z"
+  "fetched_at": "2018-08-15T05:33:54.939Z"
 }

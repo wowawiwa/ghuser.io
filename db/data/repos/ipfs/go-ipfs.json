@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/ipfs/go-ipfs",
   "languages_url": "https://api.github.com/repos/ipfs/go-ipfs/languages",
   "created_at": "2014-06-26T08:14:34Z",
-  "updated_at": "2018-08-14T15:58:35Z",
-  "pushed_at": "2018-08-14T11:16:11Z",
+  "updated_at": "2018-08-15T02:01:16Z",
+  "pushed_at": "2018-08-14T22:34:30Z",
   "homepage": "https://ipfs.io",
-  "size": 31776,
-  "stargazers_count": 6273,
+  "size": 31775,
+  "stargazers_count": 6277,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "Go": {
-      "bytes": 1053357,
+      "bytes": 1053306,
       "color": "#375eab"
     },
     "Shell": {
@@ -163,7 +163,7 @@
     "MichaelMure": 29,
     "noffle": 40,
     "wking": 38,
-    "hsanjuan": 72,
+    "hsanjuan": 73,
     "tv42": 68,
     "rht": 92,
     "lgierth": 123,
@@ -171,7 +171,7 @@
     "cryptix": 139,
     "kevina": 169,
     "magik6k": 230,
-    "Stebalien": 309,
+    "Stebalien": 310,
     "chriscool": 249,
     "Kubuxu": 403,
     "mappum": 530,
@@ -252,7 +252,7 @@
     "achingbrain": 1,
     "seidtgeist": 3
   },
-  "fetched_at": "2018-08-14T18:03:42.752Z",
+  "fetched_at": "2018-08-15T05:35:42.224Z",
   "pulls_url": "https://api.github.com/repos/ipfs/go-ipfs/pulls{/number}",
   "pulls_authors": [
     "marten-seemann",

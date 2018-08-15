@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/Watt3r/TwitchTurtle/languages",
   "pulls_url": "https://api.github.com/repos/Watt3r/TwitchTurtle/pulls{/number}",
   "created_at": "2018-08-03T15:56:59Z",
-  "updated_at": "2018-08-14T04:38:50Z",
-  "pushed_at": "2018-08-14T04:38:49Z",
+  "updated_at": "2018-08-15T04:49:53Z",
+  "pushed_at": "2018-08-15T04:49:52Z",
   "homepage": "https://twitchturtle.com/",
-  "size": 7350,
+  "size": 7364,
   "stargazers_count": 1,
   "language": "Python",
   "mirror_url": null,
@@ -28,14 +28,14 @@
   },
   "default_branch": "master",
   "contributors": {
-    "Watt3r": 10
+    "Watt3r": 18
   },
   "pulls_authors": [
     "Watt3r"
   ],
   "languages": {
     "Python": {
-      "bytes": 56644,
+      "bytes": 55176,
       "color": "#3572A5"
     },
     "JavaScript": {
@@ -47,5 +47,5 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-08-14T05:56:33.282Z"
+  "fetched_at": "2018-08-15T05:37:33.706Z"
 }

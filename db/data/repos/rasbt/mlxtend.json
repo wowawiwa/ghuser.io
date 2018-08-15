@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/rasbt/mlxtend",
   "languages_url": "https://api.github.com/repos/rasbt/mlxtend/languages",
   "created_at": "2014-08-14T01:56:16Z",
-  "updated_at": "2018-08-13T17:19:10Z",
-  "pushed_at": "2018-08-01T04:15:37Z",
+  "updated_at": "2018-08-15T01:04:12Z",
+  "pushed_at": "2018-08-14T18:19:28Z",
   "homepage": "http://rasbt.github.io/mlxtend/",
-  "size": 52962,
-  "stargazers_count": 1649,
+  "size": 52979,
+  "stargazers_count": 1650,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -64,13 +64,13 @@
     "JJLWHarrison": 9,
     "reiinakano": 13,
     "jrbourbeau": 18,
-    "rasbt": 611,
+    "rasbt": 439,
     "olivertomic": 1,
     "FlorisHoogenboom": 4
   },
   "languages": {
     "Python": {
-      "bytes": 685431,
+      "bytes": 685450,
       "color": "#3572A5"
     },
     "TeX": {
@@ -82,7 +82,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-14T05:56:33.282Z",
+  "fetched_at": "2018-08-15T05:34:46.241Z",
   "pulls_url": "https://api.github.com/repos/rasbt/mlxtend/pulls{/number}",
   "pulls_authors": [
     "rasbt",

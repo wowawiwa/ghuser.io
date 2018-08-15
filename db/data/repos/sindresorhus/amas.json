@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/sindresorhus/amas",
   "languages_url": "https://api.github.com/repos/sindresorhus/amas/languages",
   "created_at": "2015-07-04T11:11:08Z",
-  "updated_at": "2018-08-14T17:50:57Z",
-  "pushed_at": "2018-08-14T17:37:47Z",
+  "updated_at": "2018-08-14T20:16:52Z",
+  "pushed_at": "2018-08-14T18:35:42Z",
   "homepage": "",
-  "size": 220,
-  "stargazers_count": 989,
+  "size": 216,
+  "stargazers_count": 991,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -179,9 +179,10 @@
     "unbug": 1,
     "woliveiras": 1,
     "YoginthS": 1,
-    "zachleat": 1
+    "zachleat": 1,
+    "aspittel": 1
   },
-  "fetched_at": "2018-08-14T18:04:06.932Z",
+  "fetched_at": "2018-08-15T05:36:01.798Z",
   "pulls_url": "https://api.github.com/repos/sindresorhus/amas/pulls{/number}",
   "pulls_authors": [
     "posquit0",

@@ -1,0 +1,72 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "orbit-db-cli",
+  "full_name": "orbitdb/orbit-db-cli",
+  "owner": "orbitdb",
+  "private": false,
+  "html_url": "https://github.com/orbitdb/orbit-db-cli",
+  "description": "CLI for orbit-db",
+  "fork": false,
+  "url": "https://api.github.com/repos/orbitdb/orbit-db-cli",
+  "languages_url": "https://api.github.com/repos/orbitdb/orbit-db-cli/languages",
+  "pulls_url": "https://api.github.com/repos/orbitdb/orbit-db-cli/pulls{/number}",
+  "created_at": "2017-08-21T12:35:51Z",
+  "updated_at": "2018-08-14T18:04:55Z",
+  "pushed_at": "2018-08-14T18:04:53Z",
+  "homepage": "",
+  "size": 337,
+  "stargazers_count": 29,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "orbitdb",
+    "id": 25079463,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI1MDc5NDYz",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/25079463?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/orbitdb",
+    "html_url": "https://github.com/orbitdb",
+    "followers_url": "https://api.github.com/users/orbitdb/followers",
+    "following_url": "https://api.github.com/users/orbitdb/following{/other_user}",
+    "gists_url": "https://api.github.com/users/orbitdb/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/orbitdb/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/orbitdb/subscriptions",
+    "organizations_url": "https://api.github.com/users/orbitdb/orgs",
+    "repos_url": "https://api.github.com/users/orbitdb/repos",
+    "events_url": "https://api.github.com/users/orbitdb/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/orbitdb/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "RichardLitt": 1,
+    "dset0x": 1,
+    "prabodhmeshram": 5,
+    "haadcode": 62
+  },
+  "pulls_authors": [
+    "haadcode",
+    "dset0x",
+    "prabodhmeshram"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 70430,
+      "color": "#f1e05a"
+    },
+    "Makefile": {
+      "bytes": 146,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-08-15T05:36:52.667Z"
+}

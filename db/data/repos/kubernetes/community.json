@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/kubernetes/community",
   "languages_url": "https://api.github.com/repos/kubernetes/community/languages",
   "created_at": "2016-05-03T03:36:05Z",
-  "updated_at": "2018-08-14T16:50:13Z",
-  "pushed_at": "2018-08-14T16:41:42Z",
+  "updated_at": "2018-08-15T03:15:16Z",
+  "pushed_at": "2018-08-15T03:24:33Z",
   "homepage": "",
-  "size": 30321,
-  "stargazers_count": 2324,
+  "size": 30329,
+  "stargazers_count": 2326,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -148,7 +148,7 @@
     "cblecker": 138,
     "bgrant0607": 170,
     "k8s-merge-robot": 714,
-    "k8s-ci-robot": 612,
+    "k8s-ci-robot": 614,
     "resouer": 19,
     "chrislovecnm": 17,
     "dims": 16,
@@ -437,7 +437,8 @@
     "pbarker": 2,
     "oicheryl": 1,
     "NickrenREN": 2,
-    "ameukam": 1
+    "ameukam": 1,
+    "webwurst": 2
   },
   "languages": {
     "Go": {
@@ -457,7 +458,7 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-14T18:02:56.371Z",
+  "fetched_at": "2018-08-15T05:34:59.474Z",
   "pulls_url": "https://api.github.com/repos/kubernetes/community/pulls{/number}",
   "pulls_authors": [
     "castrojo",
@@ -1043,6 +1044,7 @@
     "WanLinghao",
     "wangxy518",
     "gochist",
-    "randomvariable"
+    "randomvariable",
+    "jordanbuchman"
   ]
 }

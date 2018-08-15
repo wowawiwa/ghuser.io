@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/ampproject/amphtml",
   "languages_url": "https://api.github.com/repos/ampproject/amphtml/languages",
   "created_at": "2015-09-01T22:10:53Z",
-  "updated_at": "2018-08-14T17:57:27Z",
-  "pushed_at": "2018-08-14T17:57:53Z",
+  "updated_at": "2018-08-14T23:33:08Z",
+  "pushed_at": "2018-08-15T05:08:39Z",
   "homepage": "https://www.ampproject.org",
-  "size": 495056,
+  "size": 495076,
   "stargazers_count": 11850,
   "language": "JavaScript",
   "mirror_url": null,
@@ -90,7 +90,7 @@
     "bobcassels": 11,
     "kentbrew": 13,
     "sebastianbenz": 13,
-    "sparhami": 24,
+    "sparhami": 25,
     "ithinkihaveacat": 15,
     "shawnbuso": 14,
     "tiendt": 15,
@@ -130,7 +130,7 @@
     "cvializ": 136,
     "bradfrizzell": 140,
     "keithwrightbos": 160,
-    "cathyxz": 170,
+    "cathyxz": 171,
     "mkhatib": 188,
     "Meggin": 166,
     "bpaduch": 184,
@@ -140,13 +140,13 @@
     "powdercloud": 261,
     "aghassemi": 283,
     "choumx": 325,
-    "lannka": 330,
-    "zhouyx": 331,
+    "lannka": 331,
+    "zhouyx": 332,
     "jridgewell": 424,
     "rsimha": 410,
     "erwinmombay": 705,
     "cramforce": 1132,
-    "dvoytenko": 1119,
+    "dvoytenko": 1120,
     "jmadler": 31,
     "warrengm": 5,
     "yunabe": 5,
@@ -192,7 +192,7 @@
     "Spark-NF": 4,
     "querymetrics": 3,
     "nbeloglazov": 3,
-    "OmriKeret": 3,
+    "OmriKeret": 4,
     "CrazySquirrel": 3,
     "amplesample": 3,
     "timhaines": 3,
@@ -490,15 +490,15 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 12101137,
+      "bytes": 12115726,
       "color": "#f1e05a"
     },
     "HTML": {
-      "bytes": 1331683,
+      "bytes": 1331797,
       "color": "#e34c26"
     },
     "CSS": {
-      "bytes": 341714,
+      "bytes": 339159,
       "color": "#563d7c"
     },
     "Python": {
@@ -522,7 +522,7 @@
       "color": "#375eab"
     }
   },
-  "fetched_at": "2018-08-14T18:02:04.792Z",
+  "fetched_at": "2018-08-15T05:34:08.344Z",
   "pulls_url": "https://api.github.com/repos/ampproject/amphtml/pulls{/number}",
   "pulls_authors": [
     "keithwrightbos",

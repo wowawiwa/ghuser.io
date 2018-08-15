@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/apollographql/apollo-client",
   "languages_url": "https://api.github.com/repos/apollographql/apollo-client/languages",
   "created_at": "2016-02-26T20:25:00Z",
-  "updated_at": "2018-08-14T17:06:49Z",
-  "pushed_at": "2018-08-14T17:34:16Z",
+  "updated_at": "2018-08-15T00:11:36Z",
+  "pushed_at": "2018-08-15T01:59:29Z",
   "homepage": "https://www.apollographql.com/client/",
-  "size": 10540,
-  "stargazers_count": 8255,
+  "size": 10551,
+  "stargazers_count": 8261,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -141,7 +141,7 @@
     "peggyrayzis": 94,
     "hwillson": 415,
     "calebmer": 140,
-    "renovate[bot]": 167,
+    "renovate[bot]": 168,
     "renovate-bot": 195,
     "jbaxleyiii": 200,
     "Poincare": 345,
@@ -374,7 +374,7 @@
   },
   "languages": {
     "TypeScript": {
-      "bytes": 977910,
+      "bytes": 977780,
       "color": "#2b7489"
     },
     "JavaScript": {
@@ -386,7 +386,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-14T18:05:25.702Z",
+  "fetched_at": "2018-08-15T05:37:11.017Z",
   "pulls_url": "https://api.github.com/repos/apollographql/apollo-client/pulls{/number}",
   "pulls_authors": [
     "hwillson",
@@ -828,6 +828,7 @@
     "toolness",
     "ffxsam",
     "kamaltmo",
-    "msreekm"
+    "msreekm",
+    "pschreibs85"
   ]
 }

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/phpmyadmin/phpmyadmin",
   "languages_url": "https://api.github.com/repos/phpmyadmin/phpmyadmin/languages",
   "created_at": "2012-01-19T13:21:52Z",
-  "updated_at": "2018-08-14T09:56:50Z",
-  "pushed_at": "2018-08-14T16:52:05Z",
+  "updated_at": "2018-08-15T05:23:47Z",
+  "pushed_at": "2018-08-15T04:40:44Z",
   "homepage": "https://www.phpmyadmin.net/",
-  "size": 558212,
-  "stargazers_count": 3274,
+  "size": 558232,
+  "stargazers_count": 3278,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -132,7 +132,7 @@
     "lordark666": 623,
     "Tithugues": 755,
     "mehboobbugti": 726,
-    "mauriciofauth": 989,
+    "mauriciofauth": 993,
     "Abdullah-h10": 806,
     "derrabus": 845,
     "alexukf": 918,
@@ -169,7 +169,7 @@
     "inter981": 44,
     "dhananjay92": 44,
     "udinmx": 43,
-    "williamdes": 42,
+    "williamdes": 44,
     "tmtisfree": 41,
     "duw": 37,
     "eloisalgado": 36,
@@ -239,7 +239,7 @@
     "hjortholm": 11,
     "whitepiegon": 11,
     "aswaniprakash": 10,
-    "dancaragea": 21,
+    "dancaragea": 22,
     "endelwar": 10,
     "damterroba": 10,
     "trebmuh": 10,
@@ -333,11 +333,11 @@
     "lfcd85": 5,
     "danielmiloca": 5,
     "ossguy": 5,
-    "popcorner": 9
+    "popcorner": 10
   },
   "languages": {
     "PHP": {
-      "bytes": 7249923,
+      "bytes": 7233964,
       "color": "#4F5D95"
     },
     "JavaScript": {
@@ -361,7 +361,7 @@
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-08-14T17:59:16.173Z",
+  "fetched_at": "2018-08-15T05:31:36.572Z",
   "pulls_url": "https://api.github.com/repos/phpmyadmin/phpmyadmin/pulls{/number}",
   "pulls_authors": [
     "troglodyne",

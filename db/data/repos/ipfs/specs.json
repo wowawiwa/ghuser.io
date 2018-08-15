@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/ipfs/specs",
   "languages_url": "https://api.github.com/repos/ipfs/specs/languages",
   "created_at": "2015-03-11T14:47:16Z",
-  "updated_at": "2018-07-31T19:02:19Z",
+  "updated_at": "2018-08-15T03:53:35Z",
   "pushed_at": "2018-07-27T10:26:14Z",
   "homepage": "https://ipfs.io",
   "size": 13728,
-  "stargazers_count": 654,
+  "stargazers_count": 655,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -87,7 +87,7 @@
     "diasdavid": 73,
     "b5": 1
   },
-  "fetched_at": "2018-08-01T10:42:25.848Z",
+  "fetched_at": "2018-08-15T05:35:41.667Z",
   "pulls_url": "https://api.github.com/repos/ipfs/specs/pulls{/number}",
   "pulls_authors": [
     "vasco-santos",

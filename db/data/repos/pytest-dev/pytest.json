@@ -11,8 +11,8 @@
   "languages_url": "https://api.github.com/repos/pytest-dev/pytest/languages",
   "pulls_url": "https://api.github.com/repos/pytest-dev/pytest/pulls{/number}",
   "created_at": "2015-06-15T20:28:27Z",
-  "updated_at": "2018-08-14T13:22:51Z",
-  "pushed_at": "2018-08-14T13:22:47Z",
+  "updated_at": "2018-08-15T01:45:50Z",
+  "pushed_at": "2018-08-15T01:37:15Z",
   "homepage": "http://pytest.org/",
   "size": 13213,
   "stargazers_count": 2900,
@@ -762,7 +762,8 @@
     "curzona",
     "punya",
     "mgeier",
-    "esiegerman"
+    "esiegerman",
+    "sankt-petersbug"
   ],
   "languages": {
     "Python": {
@@ -774,5 +775,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-08-14T18:01:57.582Z"
+  "fetched_at": "2018-08-15T05:34:02.711Z"
 }

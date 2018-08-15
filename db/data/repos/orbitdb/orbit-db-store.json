@@ -1,0 +1,72 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "orbit-db-store",
+  "full_name": "orbitdb/orbit-db-store",
+  "owner": "orbitdb",
+  "private": false,
+  "html_url": "https://github.com/orbitdb/orbit-db-store",
+  "description": "Base class for orbit-db data stores",
+  "fork": false,
+  "url": "https://api.github.com/repos/orbitdb/orbit-db-store",
+  "languages_url": "https://api.github.com/repos/orbitdb/orbit-db-store/languages",
+  "pulls_url": "https://api.github.com/repos/orbitdb/orbit-db-store/pulls{/number}",
+  "created_at": "2016-05-07T08:11:20Z",
+  "updated_at": "2018-08-14T18:08:08Z",
+  "pushed_at": "2018-08-14T18:08:06Z",
+  "homepage": null,
+  "size": 108,
+  "stargazers_count": 13,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "orbitdb",
+    "id": 25079463,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI1MDc5NDYz",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/25079463?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/orbitdb",
+    "html_url": "https://github.com/orbitdb",
+    "followers_url": "https://api.github.com/users/orbitdb/followers",
+    "following_url": "https://api.github.com/users/orbitdb/following{/other_user}",
+    "gists_url": "https://api.github.com/users/orbitdb/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/orbitdb/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/orbitdb/subscriptions",
+    "organizations_url": "https://api.github.com/users/orbitdb/orgs",
+    "repos_url": "https://api.github.com/users/orbitdb/repos",
+    "events_url": "https://api.github.com/users/orbitdb/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/orbitdb/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "RichardLitt": 1,
+    "wouldgo": 2,
+    "greenkeeperio-bot": 5,
+    "haadcode": 141
+  },
+  "pulls_authors": [
+    "mistakia",
+    "wouldgo",
+    "crazybuster",
+    "keisuke-kanao",
+    "haadcode",
+    "coyotespike",
+    "greenkeeperio-bot"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 21346,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-08-15T05:36:52.244Z"
+}

@@ -19,11 +19,11 @@
       "name": "probot.github.io",
       "stargazers_count": 31,
       "popularity": 2.478605454390306,
-      "percentage": 0.6468305304010349,
-      "maturity": 3.8668993017425373,
-      "total_commits_count": 773,
+      "percentage": 0.6459948320413437,
+      "maturity": 3.8674913066298933,
+      "total_commits_count": 774,
       "activity": 5,
-      "total_score": 20.378035865149357,
+      "total_score": 20.378950597277438,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -58,24 +58,24 @@
       "name": "firekylin",
       "stargazers_count": 1499,
       "popularity": 4.175579890060944,
-      "percentage": 3.3266129032258065,
-      "maturity": 3.98041870176349,
-      "total_commits_count": 992,
+      "percentage": 3.323262839879154,
+      "maturity": 3.980874606344315,
+      "total_commits_count": 993,
       "activity": 5,
-      "total_score": 27.293347006004314,
+      "total_score": 27.292440315737668,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "probot/probot": {
       "full_name": "probot/probot",
       "name": "probot",
-      "stargazers_count": 3049,
-      "popularity": 4.484068298311394,
+      "stargazers_count": 3053,
+      "popularity": 4.484637846254646,
       "percentage": 0.1179245283018868,
       "maturity": 3.90920121094019,
       "total_commits_count": 848,
       "activity": 5,
-      "total_score": 26.339348929878298,
+      "total_score": 26.341066304985485,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -108,7 +108,7 @@
     "gogs/gogs": {
       "full_name": "gogs/gogs",
       "name": "gogs",
-      "stargazers_count": 26554,
+      "stargazers_count": 26557,
       "popularity": 5,
       "percentage": 0.02044153720359771,
       "maturity": 4.687666025832948,
@@ -160,13 +160,13 @@
     "xuexb/github-bot": {
       "full_name": "xuexb/github-bot",
       "name": "github-bot",
-      "stargazers_count": 271,
-      "popularity": 3.4315636583694564,
+      "stargazers_count": 272,
+      "popularity": 3.4331685918158708,
       "percentage": 1.694915254237288,
       "maturity": 2.2827606132375395,
       "total_commits_count": 59,
-      "activity": 1.3502233162049522,
-      "total_score": 16.96654276454777,
+      "activity": 1.3475795904691643,
+      "total_score": 16.969067468554673,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -273,12 +273,26 @@
       "total_score": 19.920236882279774,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
+    },
+    "EventSource/eventsource": {
+      "full_name": "EventSource/eventsource",
+      "name": "eventsource",
+      "stargazers_count": 311,
+      "popularity": 3.4915408422859904,
+      "percentage": 0,
+      "maturity": 3.294213028619176,
+      "total_commits_count": 236,
+      "activity": 5,
+      "total_score": 22.06304858409632,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
     }
   },
   "organizations": [
     "probot",
     "firekylin",
     "gogs",
-    "dowjones"
+    "dowjones",
+    "EventSource"
   ]
 }
