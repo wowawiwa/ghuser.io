@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/pouchdb/pouchdb",
   "languages_url": "https://api.github.com/repos/pouchdb/pouchdb/languages",
   "created_at": "2010-06-10T18:34:24Z",
-  "updated_at": "2018-08-15T15:09:18Z",
+  "updated_at": "2018-08-16T03:10:31Z",
   "pushed_at": "2018-08-14T10:53:30Z",
   "homepage": "https://pouchdb.com/",
   "size": 118839,
-  "stargazers_count": 10909,
+  "stargazers_count": 10912,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -355,7 +355,7 @@
     "reconbot": 2,
     "Blafy": 1
   },
-  "fetched_at": "2018-08-15T16:09:11.223Z",
+  "fetched_at": "2018-08-16T04:53:38.065Z",
   "pulls_url": "https://api.github.com/repos/pouchdb/pouchdb/pulls{/number}",
   "pulls_authors": [
     "greenkeeper[bot]",

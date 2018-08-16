@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/typetools/checker-framework/languages",
   "pulls_url": "https://api.github.com/repos/typetools/checker-framework/pulls{/number}",
   "created_at": "2015-07-03T11:09:17Z",
-  "updated_at": "2018-08-15T03:54:17Z",
-  "pushed_at": "2018-08-15T04:15:30Z",
+  "updated_at": "2018-08-16T03:24:34Z",
+  "pushed_at": "2018-08-16T03:53:25Z",
   "homepage": "http://checkerframework.org/",
-  "size": 197795,
-  "stargazers_count": 406,
+  "size": 197830,
+  "stargazers_count": 405,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -77,7 +77,7 @@
     "twlogger": 2,
     "trask": 2,
     "msridhar": 3,
-    "lazaroclapp": 4,
+    "lazaroclapp": 5,
     "kanha95": 3,
     "Jianchu": 3,
     "ashishrana160796": 4,
@@ -114,7 +114,7 @@
     "JonathanBurke": 510,
     "smillst": 1022,
     "wmdietl": 2839,
-    "mernst": 3730
+    "mernst": 3731
   },
   "pulls_authors": [
     "mernst",
@@ -182,7 +182,7 @@
   ],
   "languages": {
     "Java": {
-      "bytes": 19566866,
+      "bytes": 19568737,
       "color": "#b07219"
     },
     "TeX": {
@@ -206,5 +206,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-08-15T05:33:48.538Z"
+  "fetched_at": "2018-08-16T04:51:19.919Z"
 }

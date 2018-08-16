@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/wikimedia/mediawiki-extensions/languages",
   "pulls_url": "https://api.github.com/repos/wikimedia/mediawiki-extensions/pulls{/number}",
   "created_at": "2012-11-01T19:03:08Z",
-  "updated_at": "2018-08-15T16:05:47Z",
-  "pushed_at": "2018-08-15T16:05:32Z",
+  "updated_at": "2018-08-16T02:33:17Z",
+  "pushed_at": "2018-08-16T02:33:02Z",
   "homepage": "https://gerrit.wikimedia.org",
-  "size": 122157,
+  "size": 121674,
   "stargazers_count": 46,
   "language": "Python",
   "mirror_url": null,
@@ -42,14 +42,14 @@
     "site_admin": false
   },
   "contributors": {
-    "translatewiki": 110245,
-    "legoktm": 4493,
+    "translatewiki": 110298,
+    "legoktm": 4494,
     "umherirrender": 3746,
     "JeroenDeDauw": 2912,
     "siebrand": 2431,
     "demon": 2110,
-    "yaronkoren": 1683,
-    "reedy": 1554,
+    "yaronkoren": 1684,
+    "reedy": 1555,
     "hashar": 1537,
     "santhoshtr": 1232,
     "Ladsgroup": 1027,
@@ -58,8 +58,8 @@
     "addshore": 906,
     "atdt": 905,
     "WikidataBuilder": 846,
-    "paladox": 800,
-    "mary-kate": 787,
+    "paladox": 801,
+    "mary-kate": 788,
     "edg2s": 782,
     "jdlrobson": 782,
     "tobijat": 766,
@@ -117,7 +117,7 @@
     "kartikm": 157,
     "prtksxna": 154,
     "Tpt": 149,
-    "Pl217": 152,
+    "Pl217": 159,
     "AndrewGreen": 144,
     "joakin": 142,
     "cscott": 140,
@@ -324,5 +324,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-15T16:06:45.039Z"
+  "fetched_at": "2018-08-16T04:51:36.613Z"
 }

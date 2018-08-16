@@ -426,11 +426,11 @@
   "url": "https://api.github.com/repos/composer/composer",
   "languages_url": "https://api.github.com/repos/composer/composer/languages",
   "created_at": "2011-06-08T08:53:00Z",
-  "updated_at": "2018-08-15T15:39:17Z",
+  "updated_at": "2018-08-16T03:35:24Z",
   "pushed_at": "2018-08-15T11:03:22Z",
   "homepage": "https://getcomposer.org/",
   "size": 12927,
-  "stargazers_count": 15679,
+  "stargazers_count": 15681,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -472,7 +472,7 @@
       "color": "#878787"
     }
   },
-  "fetched_at": "2018-08-15T16:04:41.087Z",
+  "fetched_at": "2018-08-16T04:49:49.822Z",
   "pulls_url": "https://api.github.com/repos/composer/composer/pulls{/number}",
   "pulls_authors": [
     "shalvah",

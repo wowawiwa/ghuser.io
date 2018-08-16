@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/kubernetes/community",
   "languages_url": "https://api.github.com/repos/kubernetes/community/languages",
   "created_at": "2016-05-03T03:36:05Z",
-  "updated_at": "2018-08-15T12:07:42Z",
-  "pushed_at": "2018-08-15T15:02:12Z",
+  "updated_at": "2018-08-16T04:31:36Z",
+  "pushed_at": "2018-08-16T04:08:54Z",
   "homepage": "",
-  "size": 30343,
-  "stargazers_count": 2329,
+  "size": 30349,
+  "stargazers_count": 2332,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -99,7 +99,7 @@
     "wackxu": 15,
     "eparis": 18,
     "epc": 15,
-    "soltysh": 18,
+    "soltysh": 19,
     "jdumars": 26,
     "brendandburns": 22,
     "kow3ns": 18,
@@ -148,7 +148,7 @@
     "cblecker": 138,
     "bgrant0607": 170,
     "k8s-merge-robot": 714,
-    "k8s-ci-robot": 615,
+    "k8s-ci-robot": 618,
     "resouer": 19,
     "chrislovecnm": 17,
     "dims": 16,
@@ -433,7 +433,7 @@
     "cofyc": 3,
     "xilabao": 3,
     "colemickens": 1,
-    "d-nishi": 2,
+    "d-nishi": 3,
     "pbarker": 2,
     "oicheryl": 1,
     "NickrenREN": 2,
@@ -458,7 +458,7 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-15T16:07:50.700Z",
+  "fetched_at": "2018-08-16T04:52:32.376Z",
   "pulls_url": "https://api.github.com/repos/kubernetes/community/pulls{/number}",
   "pulls_authors": [
     "castrojo",
@@ -1046,6 +1046,7 @@
     "gochist",
     "randomvariable",
     "jordanbuchman",
-    "MIBc"
+    "MIBc",
+    "figo"
   ]
 }

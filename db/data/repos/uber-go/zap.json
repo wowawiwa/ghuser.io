@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/uber-go/zap",
   "languages_url": "https://api.github.com/repos/uber-go/zap/languages",
   "created_at": "2016-02-18T19:52:56Z",
-  "updated_at": "2018-08-15T16:02:34Z",
+  "updated_at": "2018-08-16T04:46:15Z",
   "pushed_at": "2018-08-14T18:34:20Z",
   "homepage": "https://godoc.org/go.uber.org/zap",
   "size": 925,
-  "stargazers_count": 4524,
+  "stargazers_count": 4605,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -110,7 +110,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-15T16:05:24.932Z",
+  "fetched_at": "2018-08-16T04:50:25.717Z",
   "pulls_url": "https://api.github.com/repos/uber-go/zap/pulls{/number}",
   "pulls_authors": [
     "mh-park",

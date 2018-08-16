@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/jruby/jruby",
   "languages_url": "https://api.github.com/repos/jruby/jruby/languages",
   "created_at": "2009-04-05T03:54:35Z",
-  "updated_at": "2018-08-15T08:59:44Z",
-  "pushed_at": "2018-08-14T19:51:22Z",
+  "updated_at": "2018-08-16T00:12:01Z",
+  "pushed_at": "2018-08-16T00:11:54Z",
   "homepage": "http://www.jruby.org",
-  "size": 225399,
-  "stargazers_count": 3166,
+  "size": 225405,
+  "stargazers_count": 3167,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "Ruby": {
-      "bytes": 20432379,
+      "bytes": 20432329,
       "color": "#701516"
     },
     "Java": {
-      "bytes": 14071222,
+      "bytes": 14071893,
       "color": "#b07219"
     },
     "C": {
@@ -212,7 +212,7 @@
     "eregon": 3705,
     "enebo": 5330,
     "chrisseaton": 6750,
-    "headius": 11158,
+    "headius": 11164,
     "ajuckel": 5,
     "whwilder": 5,
     "cky": 4,
@@ -466,7 +466,7 @@
     "igorbonadio": 1,
     "shseah601": 3
   },
-  "fetched_at": "2018-08-15T16:06:52.700Z",
+  "fetched_at": "2018-08-16T04:51:43.256Z",
   "pulls_url": "https://api.github.com/repos/jruby/jruby/pulls{/number}",
   "pulls_authors": [
     "ChrisBr",

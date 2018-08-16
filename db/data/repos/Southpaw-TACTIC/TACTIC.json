@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/Southpaw-TACTIC/TACTIC/languages",
   "pulls_url": "https://api.github.com/repos/Southpaw-TACTIC/TACTIC/pulls{/number}",
   "created_at": "2013-09-10T00:06:41Z",
-  "updated_at": "2018-08-06T17:21:44Z",
-  "pushed_at": "2018-08-06T17:21:42Z",
+  "updated_at": "2018-08-15T23:31:14Z",
+  "pushed_at": "2018-08-15T23:31:11Z",
   "homepage": "",
-  "size": 156321,
+  "size": 156323,
   "stargazers_count": 169,
   "language": "Python",
   "mirror_url": null,
@@ -62,7 +62,7 @@
     "JMenech": 4,
     "dMalikSpaw": 4,
     "MagicRedDeer": 5,
-    "roonjoot": 6,
+    "roonjoot": 8,
     "JiachenYu15": 6,
     "alberttam": 10,
     "pranoyde": 27,
@@ -114,11 +114,11 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 19950766,
+      "bytes": 19951055,
       "color": "#3572A5"
     },
     "JavaScript": {
-      "bytes": 13333724,
+      "bytes": 13333761,
       "color": "#f1e05a"
     },
     "CSS": {
@@ -150,5 +150,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-08-13T13:13:40.598Z"
+  "fetched_at": "2018-08-16T04:51:34.243Z"
 }

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/apache/spark",
   "languages_url": "https://api.github.com/repos/apache/spark/languages",
   "created_at": "2014-02-25T08:00:08Z",
-  "updated_at": "2018-08-15T15:48:28Z",
-  "pushed_at": "2018-08-15T16:07:18Z",
+  "updated_at": "2018-08-16T04:31:25Z",
+  "pushed_at": "2018-08-16T02:22:01Z",
   "homepage": null,
-  "size": 279502,
-  "stargazers_count": 18404,
+  "size": 279531,
+  "stargazers_count": 18408,
   "language": "Scala",
   "mirror_url": null,
   "archived": false,
@@ -96,7 +96,7 @@
     "CodingCat": 68,
     "markhamstra": 75,
     "jey": 68,
-    "jiangxb1987": 79,
+    "jiangxb1987": 80,
     "woggle": 72,
     "dennybritz": 85,
     "wangyum": 79,
@@ -136,7 +136,7 @@
     "yanboliang": 289,
     "dongjoon-hyun": 301,
     "mengxr": 338,
-    "vanzin": 344,
+    "vanzin": 345,
     "viirya": 353,
     "HyukjinKwon": 371,
     "gatorsmile": 376,
@@ -157,7 +157,7 @@
     "Lewuathe": 26,
     "harishreedharan": 25,
     "weiqingy": 25,
-    "steveloughran": 25,
+    "steveloughran": 26,
     "harveyfeng": 25,
     "jianpingjwang": 25,
     "aray": 24,
@@ -385,11 +385,12 @@
     "phalodi": 4,
     "shahidki31": 4,
     "arunmahadevan": 5,
-    "Fokko": 4
+    "Fokko": 4,
+    "ifilonenko": 4
   },
   "languages": {
     "Scala": {
-      "bytes": 27031711,
+      "bytes": 27045701,
       "color": "#c22d40"
     },
     "Java": {
@@ -409,7 +410,7 @@
       "color": "#198CE7"
     },
     "Shell": {
-      "bytes": 189258,
+      "bytes": 189988,
       "color": "#89e051"
     },
     "PLpgSQL": {
@@ -469,7 +470,7 @@
       "color": "#555555"
     }
   },
-  "fetched_at": "2018-08-15T16:07:39.134Z",
+  "fetched_at": "2018-08-16T04:52:22.320Z",
   "pulls_url": "https://api.github.com/repos/apache/spark/pulls{/number}",
   "pulls_authors": [
     "techaddict",
@@ -2756,6 +2757,8 @@
     "seratch",
     "yuliyaZharnosek",
     "yueguoguo",
-    "normanmaurer"
+    "normanmaurer",
+    "KraFusion",
+    "raofu"
   ]
 }

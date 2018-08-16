@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/pypa/python-packaging-user-guide/languages",
   "pulls_url": "https://api.github.com/repos/pypa/python-packaging-user-guide/pulls{/number}",
   "created_at": "2014-01-15T05:37:10Z",
-  "updated_at": "2018-08-15T06:45:01Z",
-  "pushed_at": "2018-08-15T01:26:30Z",
+  "updated_at": "2018-08-16T02:40:15Z",
+  "pushed_at": "2018-08-15T17:59:17Z",
   "homepage": "http://packaging.python.org",
-  "size": 2585,
-  "stargazers_count": 672,
+  "size": 2593,
+  "stargazers_count": 674,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -139,7 +139,7 @@
     "cjrh": 10,
     "msabramo": 14,
     "cjerdonek": 14,
-    "theacodes": 45,
+    "theacodes": 46,
     "ncoghlan": 100,
     "qwcode": 433,
     "andportnoy": 1,
@@ -331,7 +331,8 @@
     "g2p",
     "vsajip",
     "alexjeffburke",
-    "streeter"
+    "streeter",
+    "Great-Li-Xin"
   ],
   "languages": {
     "Python": {
@@ -343,5 +344,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-08-15T16:06:32.839Z"
+  "fetched_at": "2018-08-16T04:51:26.442Z"
 }

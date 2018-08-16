@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/sdmg15/Best-websites-a-programmer-should-visit",
   "languages_url": "https://api.github.com/repos/sdmg15/Best-websites-a-programmer-should-visit/languages",
   "created_at": "2017-03-05T20:25:17Z",
-  "updated_at": "2018-08-15T13:06:03Z",
-  "pushed_at": "2018-08-06T03:53:42Z",
+  "updated_at": "2018-08-16T04:08:04Z",
+  "pushed_at": "2018-08-16T04:07:53Z",
   "homepage": "",
   "size": 752,
-  "stargazers_count": 22397,
+  "stargazers_count": 22402,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -126,7 +126,7 @@
     "lalitmee": 27,
     "rachmadaniHaryono": 36,
     "ityler": 43,
-    "sdmg15": 400,
+    "sdmg15": 401,
     "itaditya": 1,
     "gtmills": 1,
     "joelhandwell": 1,
@@ -145,10 +145,11 @@
     "stephanlindauer": 1,
     "msumeet": 1,
     "santosomar": 1,
-    "loidsemus": 2
+    "loidsemus": 2,
+    "abhiank": 1
   },
   "languages": {},
-  "fetched_at": "2018-08-15T16:05:55.918Z",
+  "fetched_at": "2018-08-16T04:50:54.005Z",
   "pulls_url": "https://api.github.com/repos/sdmg15/Best-websites-a-programmer-should-visit/pulls{/number}",
   "pulls_authors": [
     "santosomar",
@@ -332,6 +333,7 @@
     "jakubbogucki",
     "alexcp",
     "ecunal",
-    "mguida22"
+    "mguida22",
+    "abhiank"
   ]
 }

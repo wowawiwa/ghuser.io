@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/brooklynjs/brooklynjs.github.io",
   "languages_url": "https://api.github.com/repos/brooklynjs/brooklynjs.github.io/languages",
   "created_at": "2013-10-31T13:13:10Z",
-  "updated_at": "2018-08-14T20:55:17Z",
-  "pushed_at": "2018-08-14T20:55:15Z",
+  "updated_at": "2018-08-15T22:47:26Z",
+  "pushed_at": "2018-08-15T22:47:24Z",
   "homepage": "http://brooklynjs.com",
-  "size": 3043,
-  "stargazers_count": 159,
+  "size": 3047,
+  "stargazers_count": 160,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -52,7 +52,7 @@
       "color": "#f1e05a"
     },
     "HTML": {
-      "bytes": 23575,
+      "bytes": 23567,
       "color": "#e34c26"
     },
     "CSS": {
@@ -132,10 +132,10 @@
     "brianloveswords": 31,
     "paladique": 71,
     "kosamari": 84,
-    "willmanduffy": 92,
+    "willmanduffy": 93,
     "jed": 239
   },
-  "fetched_at": "2018-08-15T05:35:58.641Z",
+  "fetched_at": "2018-08-16T04:53:33.012Z",
   "pulls_url": "https://api.github.com/repos/brooklynjs/brooklynjs.github.io/pulls{/number}",
   "pulls_authors": [
     "kosamari",

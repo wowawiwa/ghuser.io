@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/sendgrid/docs",
   "languages_url": "https://api.github.com/repos/sendgrid/docs/languages",
   "created_at": "2012-06-15T20:17:12Z",
-  "updated_at": "2018-08-14T20:50:34Z",
-  "pushed_at": "2018-08-15T05:28:24Z",
+  "updated_at": "2018-08-15T20:15:34Z",
+  "pushed_at": "2018-08-15T22:09:17Z",
   "homepage": "https://github.com/sendgrid/docs/issues/3728",
-  "size": 183216,
+  "size": 183469,
   "stargazers_count": 114,
   "language": "HTML",
   "mirror_url": null,
@@ -143,7 +143,7 @@
     "Zaftula": 285,
     "imathis": 412,
     "Whatthefoxsays": 728,
-    "ksigler7": 1215,
+    "ksigler7": 1222,
     "eschallock": 1879,
     "brandonmwest": 1338,
     "mbernier": 2227,
@@ -443,7 +443,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-15T05:31:41.563Z",
+  "fetched_at": "2018-08-16T04:49:15.231Z",
   "pulls_url": "https://api.github.com/repos/sendgrid/docs/pulls{/number}",
   "pulls_authors": [
     "ksigler7",

@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/librenms/librenms",
   "languages_url": "https://api.github.com/repos/librenms/librenms/languages",
   "created_at": "2013-10-28T01:37:13Z",
-  "updated_at": "2018-08-15T01:11:23Z",
-  "pushed_at": "2018-08-15T01:11:15Z",
+  "updated_at": "2018-08-15T20:50:20Z",
+  "pushed_at": "2018-08-16T02:17:12Z",
   "homepage": "http://www.librenms.org/",
-  "size": 132713,
+  "size": 132905,
   "stargazers_count": 1121,
   "language": "PHP",
   "mirror_url": null,
@@ -58,7 +58,7 @@
     "willjones": 11,
     "KFleshman": 9,
     "mourner": 9,
-    "PipoCanaja": 16,
+    "PipoCanaja": 17,
     "svennd": 10,
     "Olen": 10,
     "rockyluke": 10,
@@ -378,7 +378,7 @@
     "putnam": 1,
     "c-po": 1,
     "christopherlakey": 1,
-    "metavrs": 1,
+    "metavrs": 2,
     "crazy-max": 2,
     "dacechavez": 1,
     "davidediger": 1,
@@ -408,11 +408,12 @@
     "siegsters": 2,
     "MHammett": 2,
     "gs-kamnas": 2,
-    "eastmane": 1
+    "eastmane": 1,
+    "DreadnaughtSec": 1
   },
   "languages": {
     "PHP": {
-      "bytes": 6780864,
+      "bytes": 6783588,
       "color": "#4F5D95"
     },
     "JavaScript": {
@@ -464,7 +465,7 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-08-15T05:32:49.537Z",
+  "fetched_at": "2018-08-16T04:50:19.198Z",
   "pulls_url": "https://api.github.com/repos/librenms/librenms/pulls{/number}",
   "pulls_authors": [
     "eastmane",
@@ -977,6 +978,8 @@
     "bradpeczka",
     "willhseitz",
     "cppmonkey",
-    "dupondje"
+    "dupondje",
+    "DreadnaughtSec",
+    "Evil2000"
   ]
 }

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/elastic/kibana",
   "languages_url": "https://api.github.com/repos/elastic/kibana/languages",
   "created_at": "2013-01-26T04:00:59Z",
-  "updated_at": "2018-08-15T15:42:45Z",
-  "pushed_at": "2018-08-15T16:05:52Z",
+  "updated_at": "2018-08-16T01:28:55Z",
+  "pushed_at": "2018-08-16T03:18:55Z",
   "homepage": "https://www.elastic.co/products/kibana",
-  "size": 438093,
-  "stargazers_count": 9876,
+  "size": 438717,
+  "stargazers_count": 9878,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,15 +48,15 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 18324236,
+      "bytes": 18330269,
       "color": "#f1e05a"
     },
     "TypeScript": {
-      "bytes": 1013108,
+      "bytes": 1014906,
       "color": "#2b7489"
     },
     "HTML": {
-      "bytes": 835134,
+      "bytes": 835138,
       "color": "#e34c26"
     },
     "CSS": {
@@ -137,9 +137,9 @@
     "PopradiArpad": 12,
     "gchaps": 22,
     "justinkambic": 18,
-    "azasypkin": 26,
-    "snide": 25,
-    "jgowdyelastic": 54,
+    "azasypkin": 27,
+    "snide": 27,
+    "jgowdyelastic": 55,
     "kkirsche": 13,
     "peteharverson": 33,
     "trevan": 24,
@@ -153,12 +153,12 @@
     "weltenwort": 39,
     "bmcconaghy": 41,
     "jimmyjones2": 36,
-    "debadair": 49,
+    "debadair": 50,
     "lcawl": 102,
     "chrisronline": 72,
     "kobelb": 87,
     "kimjoar": 95,
-    "tylersmalley": 128,
+    "tylersmalley": 129,
     "tsullivan": 135,
     "bevacqua": 161,
     "thomasneirynck": 182,
@@ -172,15 +172,15 @@
     "ycombinator": 330,
     "epixa": 395,
     "lukasolson": 461,
-    "jbudz": 466,
-    "cjcenizal": 476,
+    "jbudz": 467,
+    "cjcenizal": 477,
     "Bargs": 567,
     "bleskes": 515,
     "simianhacker": 665,
     "rashidkpc": 1001,
     "stormpython": 1190,
     "w33ble": 1612,
-    "spalger": 4236,
+    "spalger": 4237,
     "ajebasingh": 2,
     "nellicus": 2,
     "formgeist": 6,
@@ -354,7 +354,7 @@
     "pavel06081991": 1,
     "going-confetti": 1
   },
-  "fetched_at": "2018-08-15T16:07:02.654Z",
+  "fetched_at": "2018-08-16T04:51:51.098Z",
   "pulls_url": "https://api.github.com/repos/elastic/kibana/pulls{/number}",
   "pulls_authors": [
     "nreese",
@@ -984,6 +984,7 @@
     "WillAbides",
     "heyitsmdr",
     "bgaddis56",
-    "scottis"
+    "scottis",
+    "jswidler"
   ]
 }
