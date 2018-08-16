@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/logstash-plugins/logstash-output-kafka",
   "languages_url": "https://api.github.com/repos/logstash-plugins/logstash-output-kafka/languages",
   "created_at": "2014-09-16T20:52:31Z",
-  "updated_at": "2018-08-06T06:09:57Z",
+  "updated_at": "2018-08-16T08:50:56Z",
   "pushed_at": "2018-08-03T06:50:36Z",
   "homepage": "",
   "size": 271,
-  "stargazers_count": 56,
+  "stargazers_count": 57,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -79,7 +79,7 @@
     "suyograo": 30,
     "ph": 39
   },
-  "fetched_at": "2018-08-06T06:12:02.455Z",
+  "fetched_at": "2018-08-16T19:18:25.020Z",
   "pulls_url": "https://api.github.com/repos/logstash-plugins/logstash-output-kafka/pulls{/number}",
   "pulls_authors": [
     "sandep-amit",

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/WeblateOrg/weblate/languages",
   "pulls_url": "https://api.github.com/repos/WeblateOrg/weblate/pulls{/number}",
   "created_at": "2012-02-27T09:33:29Z",
-  "updated_at": "2018-08-15T23:00:30Z",
-  "pushed_at": "2018-08-15T16:16:44Z",
+  "updated_at": "2018-08-16T18:42:20Z",
+  "pushed_at": "2018-08-16T18:42:17Z",
   "homepage": "https://weblate.org/",
-  "size": 154983,
-  "stargazers_count": 1103,
+  "size": 154998,
+  "stargazers_count": 1104,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -65,7 +65,7 @@
     "madmuffin1": 9,
     "stefanor": 8,
     "Freso": 9,
-    "weblate": 1442,
+    "weblate": 1443,
     "Xuacu": 10,
     "ptrsk": 10,
     "mv-santos": 10,
@@ -147,7 +147,7 @@
     "ruleant": 502,
     "BouRock": 760,
     "franconian": 1120,
-    "nijel": 15589,
+    "nijel": 15593,
     "lukakama": 12,
     "pjcaldeira": 7,
     "glensc": 7,
@@ -293,7 +293,7 @@
     "SirAnthony": 2,
     "RockyTDR": 2,
     "dotar": 2,
-    "TylerRupert": 2,
+    "TylerRupert": 3,
     "verdulo": 2,
     "shirayuki": 2,
     "advocatux": 2,
@@ -371,7 +371,8 @@
     "alcalyn": 1,
     "juliozuppa": 1,
     "fln": 1,
-    "Riko01": 1
+    "Riko01": 1,
+    "aarli": 1
   },
   "pulls_authors": [
     "nijel",
@@ -504,7 +505,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 2433498,
+      "bytes": 2433757,
       "color": "#3572A5"
     },
     "JavaScript": {
@@ -536,5 +537,5 @@
       "color": "#4F5D95"
     }
   },
-  "fetched_at": "2018-08-16T04:51:24.683Z"
+  "fetched_at": "2018-08-16T19:18:03.285Z"
 }

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/postcss/postcss-custom-properties",
   "languages_url": "https://api.github.com/repos/postcss/postcss-custom-properties/languages",
   "created_at": "2014-07-29T05:48:21Z",
-  "updated_at": "2018-08-13T12:54:49Z",
+  "updated_at": "2018-08-16T05:30:42Z",
   "pushed_at": "2018-08-13T12:54:48Z",
   "homepage": "",
-  "size": 132,
-  "stargazers_count": 288,
+  "size": 123,
+  "stargazers_count": 289,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -74,7 +74,7 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-13T13:13:40.598Z",
+  "fetched_at": "2018-08-16T19:17:23.258Z",
   "pulls_url": "https://api.github.com/repos/postcss/postcss-custom-properties/pulls{/number}",
   "pulls_authors": [
     "halmos",

@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/AdguardTeam/AdguardFilters/languages",
   "pulls_url": "https://api.github.com/repos/AdguardTeam/AdguardFilters/pulls{/number}",
   "created_at": "2014-08-05T09:12:41Z",
-  "updated_at": "2018-08-15T21:11:11Z",
-  "pushed_at": "2018-08-15T21:11:09Z",
+  "updated_at": "2018-08-16T19:14:55Z",
+  "pushed_at": "2018-08-16T19:14:53Z",
   "homepage": "https://adguard.com/",
-  "size": 91953,
+  "size": 91492,
   "stargazers_count": 223,
   "language": "Python",
   "mirror_url": null,
@@ -57,9 +57,9 @@
     "adguard": 94,
     "ameshkov": 254,
     "theseanl": 2161,
-    "AdamWr": 4664,
-    "BlazDT": 4807,
-    "Alex-302": 19638
+    "AdamWr": 4678,
+    "BlazDT": 4814,
+    "Alex-302": 19659
   },
   "pulls_authors": [
     "adranger",
@@ -86,7 +86,8 @@
     "umetzu",
     "Bluscream",
     "aypetrov",
-    "Aokromes"
+    "Aokromes",
+    "kadirgun"
   ],
   "languages": {
     "Python": {
@@ -94,5 +95,5 @@
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-08-16T04:51:17.779Z"
+  "fetched_at": "2018-08-16T19:17:54.582Z"
 }

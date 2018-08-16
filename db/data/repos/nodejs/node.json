@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/nodejs/node",
   "languages_url": "https://api.github.com/repos/nodejs/node/languages",
   "created_at": "2014-11-26T19:57:11Z",
-  "updated_at": "2018-08-16T04:41:21Z",
-  "pushed_at": "2018-08-16T04:45:30Z",
+  "updated_at": "2018-08-16T18:08:17Z",
+  "pushed_at": "2018-08-16T18:57:45Z",
   "homepage": "https://nodejs.org",
-  "size": 401994,
-  "stargazers_count": 52286,
+  "size": 401852,
+  "stargazers_count": 52300,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 6771249,
+      "bytes": 6772202,
       "color": "#f1e05a"
     },
     "C++": {
-      "bytes": 2471887,
+      "bytes": 2471684,
       "color": "#f34b7d"
     },
     "Python": {
@@ -151,7 +151,7 @@
     "miksago": 45,
     "edsadr": 46,
     "vkurchatkin": 46,
-    "devsnek": 55,
+    "devsnek": 56,
     "seishun": 48,
     "watilde": 48,
     "maclover7": 71,
@@ -189,10 +189,10 @@
     "tjfontaine": 332,
     "BridgeAR": 338,
     "mscdex": 318,
-    "rvagg": 323,
+    "rvagg": 324,
     "danbev": 343,
     "trevnorris": 363,
-    "cjihrig": 385,
+    "cjihrig": 386,
     "jasnell": 512,
     "piscisaureus": 598,
     "addaleax": 668,
@@ -574,7 +574,7 @@
     "tlhunter": 3,
     "Maledong": 5
   },
-  "fetched_at": "2018-08-16T04:52:34.278Z",
+  "fetched_at": "2018-08-16T19:19:22.020Z",
   "pulls_url": "https://api.github.com/repos/nodejs/node/pulls{/number}",
   "pulls_authors": [
     "mmarchini",
@@ -2775,6 +2775,7 @@
     "thw0rted",
     "wchargin",
     "csabapalfi",
-    "Drieger"
+    "Drieger",
+    "andreasg123"
   ]
 }

@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/AurelienLourot/AurelienLourot.github.io/languages",
   "pulls_url": "https://api.github.com/repos/AurelienLourot/AurelienLourot.github.io/pulls{/number}",
   "created_at": "2016-01-16T18:18:35Z",
-  "updated_at": "2018-08-15T09:30:39Z",
-  "pushed_at": "2018-08-15T09:30:37Z",
+  "updated_at": "2018-08-16T16:22:09Z",
+  "pushed_at": "2018-08-16T16:22:08Z",
   "homepage": "",
-  "size": 3944,
+  "size": 4193,
   "stargazers_count": 1,
   "language": "HTML",
   "mirror_url": null,
@@ -22,7 +22,7 @@
   "license": null,
   "default_branch": "master",
   "contributors": {
-    "AurelienLourot": 212
+    "AurelienLourot": 214
   },
   "pulls_authors": [],
   "languages": {
@@ -31,7 +31,7 @@
       "color": "#e34c26"
     },
     "CSS": {
-      "bytes": 9866,
+      "bytes": 9874,
       "color": "#563d7c"
     },
     "JavaScript": {
@@ -51,5 +51,5 @@
       "CSS Grids"
     ]
   },
-  "fetched_at": "2018-08-15T16:04:14.398Z"
+  "fetched_at": "2018-08-16T19:15:44.072Z"
 }

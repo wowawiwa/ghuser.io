@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/facebook/react",
   "languages_url": "https://api.github.com/repos/facebook/react/languages",
   "created_at": "2013-05-24T16:15:54Z",
-  "updated_at": "2018-08-16T04:44:38Z",
-  "pushed_at": "2018-08-16T04:35:54Z",
+  "updated_at": "2018-08-16T19:15:58Z",
+  "pushed_at": "2018-08-16T17:48:14Z",
   "homepage": "https://reactjs.org",
-  "size": 137620,
-  "stargazers_count": 108847,
+  "size": 137649,
+  "stargazers_count": 108896,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -142,8 +142,8 @@
     "chenglou": 222,
     "petehunt": 332,
     "bvaughn": 280,
-    "acdlite": 441,
-    "sebmarkbage": 644,
+    "acdlite": 444,
+    "sebmarkbage": 645,
     "zpao": 1776,
     "gaearon": 942,
     "sophiebits": 1232,
@@ -159,7 +159,7 @@
     "orta": 5,
     "rricard": 5,
     "jddxf": 6,
-    "elas7": 6,
+    "elas7": 8,
     "hramos": 5,
     "kentcdodds": 5,
     "af": 4,
@@ -248,7 +248,7 @@
     "plievone": 3,
     "pieterv": 3,
     "piperchester": 3,
-    "raunofreiberg": 7,
+    "raunofreiberg": 8,
     "rwoodnz": 3,
     "sambev": 3,
     "shaneosullivan": 3,
@@ -506,11 +506,12 @@
     "clarkdo": 2,
     "alexrohleder": 1,
     "motiz88": 3,
-    "alexkirsz": 1
+    "alexkirsz": 1,
+    "getaaron": 1
   },
   "languages": {
     "JavaScript": {
-      "bytes": 1978715,
+      "bytes": 1987285,
       "color": "#f1e05a"
     },
     "C++": {
@@ -550,7 +551,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-16T04:49:43.355Z",
+  "fetched_at": "2018-08-16T19:16:04.998Z",
   "pulls_url": "https://api.github.com/repos/facebook/react/pulls{/number}",
   "pulls_authors": [
     "gaearon",

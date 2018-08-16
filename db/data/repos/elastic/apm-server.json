@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/elastic/apm-server",
   "languages_url": "https://api.github.com/repos/elastic/apm-server/languages",
   "created_at": "2017-08-03T16:03:34Z",
-  "updated_at": "2018-08-15T22:47:13Z",
-  "pushed_at": "2018-08-15T22:47:12Z",
+  "updated_at": "2018-08-16T12:34:06Z",
+  "pushed_at": "2018-08-16T18:01:20Z",
   "homepage": "https://www.elastic.co/guide/en/apm/server/current/index.html",
-  "size": 10761,
+  "size": 10764,
   "stargazers_count": 382,
   "language": "Go",
   "mirror_url": null,
@@ -69,7 +69,8 @@
     "graphaelli": 97,
     "jalvz": 139,
     "simitt": 178,
-    "debadair": 2
+    "debadair": 2,
+    "jasonrhodes": 1
   },
   "languages": {
     "Go": {
@@ -97,7 +98,7 @@
       "color": "#012456"
     }
   },
-  "fetched_at": "2018-08-16T04:52:34.183Z",
+  "fetched_at": "2018-08-16T19:19:21.913Z",
   "pulls_url": "https://api.github.com/repos/elastic/apm-server/pulls{/number}",
   "pulls_authors": [
     "simitt",
@@ -129,6 +130,7 @@
     "crackerplace",
     "urso",
     "OmgImAlexis",
-    "debadair"
+    "debadair",
+    "jasonrhodes"
   ]
 }

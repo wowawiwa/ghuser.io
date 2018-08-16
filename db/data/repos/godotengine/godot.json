@@ -55,17 +55,17 @@
     "ianb96": 29,
     "StraToN": 33,
     "Max-Might": 37,
-    "Ovnuniarchos": 34,
+    "Ovnuniarchos": 35,
     "AlexHolly": 37,
     "Calinou": 54,
     "kubecz3k": 46,
-    "willnationsdev": 47,
+    "willnationsdev": 48,
     "NathanWarden": 42,
     "adolson": 46,
     "Zylann": 47,
     "bruvzg": 48,
     "J08nY": 48,
-    "Chaosus": 60,
+    "Chaosus": 61,
     "touilleMan": 50,
     "hurikhan": 66,
     "leezh": 56,
@@ -80,14 +80,14 @@
     "endragor": 74,
     "YeldhamDev": 82,
     "punto-": 121,
-    "BastiaanOlij": 93,
+    "BastiaanOlij": 94,
     "groud": 145,
     "toger5": 101,
     "hpvb": 160,
     "poke1024": 118,
     "marcelofg55": 138,
     "marynate": 118,
-    "karroffel": 273,
+    "karroffel": 274,
     "bojidar-bg": 130,
     "eska014": 156,
     "Faless": 171,
@@ -99,8 +99,8 @@
     "Hinsbart": 303,
     "neikeq": 356,
     "volzhs": 297,
-    "akien-mga": 4764,
-    "reduz": 2821,
+    "akien-mga": 4779,
+    "reduz": 2822,
     "cbscribe": 39,
     "Spooner": 16,
     "NathanLovato": 12,
@@ -415,10 +415,11 @@
     "Overblob": 3,
     "Tunous": 2,
     "pulkomandy": 1,
-    "gotnospirit": 2,
+    "gotnospirit": 3,
     "ttencate": 3,
     "oisincar": 2,
-    "malbach": 2
+    "malbach": 2,
+    "DualMatrix": 2
   },
   "name": "godot",
   "full_name": "godotengine/godot",
@@ -430,11 +431,11 @@
   "url": "https://api.github.com/repos/godotengine/godot",
   "languages_url": "https://api.github.com/repos/godotengine/godot/languages",
   "created_at": "2014-01-04T16:05:36Z",
-  "updated_at": "2018-08-16T04:03:11Z",
-  "pushed_at": "2018-08-16T04:23:51Z",
+  "updated_at": "2018-08-16T19:06:23Z",
+  "pushed_at": "2018-08-16T18:50:07Z",
   "homepage": "https://godotengine.org",
-  "size": 257061,
-  "stargazers_count": 16202,
+  "size": 257282,
+  "stargazers_count": 16209,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -468,7 +469,7 @@
   },
   "languages": {
     "C++": {
-      "bytes": 21224173,
+      "bytes": 21228170,
       "color": "#f34b7d"
     },
     "Java": {
@@ -512,7 +513,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-16T04:49:47.595Z",
+  "fetched_at": "2018-08-16T19:16:09.800Z",
   "pulls_url": "https://api.github.com/repos/godotengine/godot/pulls{/number}",
   "pulls_authors": [
     "Calinou",
@@ -1400,6 +1401,7 @@
     "codingHahn",
     "RevenantX",
     "Teashrock",
-    "char0xff"
+    "char0xff",
+    "natrim"
   ]
 }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/requests/requests-oauthlib/languages",
   "pulls_url": "https://api.github.com/repos/requests/requests-oauthlib/pulls{/number}",
   "created_at": "2012-11-23T10:19:44Z",
-  "updated_at": "2018-08-13T13:00:55Z",
-  "pushed_at": "2018-08-12T10:19:38Z",
+  "updated_at": "2018-08-16T05:37:30Z",
+  "pushed_at": "2018-08-14T08:12:31Z",
   "homepage": "https://requests-oauthlib.readthedocs.org/",
   "size": 355,
-  "stargazers_count": 910,
+  "stargazers_count": 911,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -237,7 +237,8 @@
     "warunsl",
     "matthewlmcclure",
     "sa2ajj",
-    "kracekumar"
+    "kracekumar",
+    "DmitryPaschenko"
   ],
   "languages": {
     "Python": {
@@ -245,5 +246,5 @@
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-08-13T13:13:40.598Z"
+  "fetched_at": "2018-08-16T19:18:18.647Z"
 }

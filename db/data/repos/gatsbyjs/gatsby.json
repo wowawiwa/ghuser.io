@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/gatsbyjs/gatsby",
   "languages_url": "https://api.github.com/repos/gatsbyjs/gatsby/languages",
   "created_at": "2015-05-21T22:43:05Z",
-  "updated_at": "2018-08-16T04:32:19Z",
-  "pushed_at": "2018-08-16T01:11:46Z",
+  "updated_at": "2018-08-16T19:04:04Z",
+  "pushed_at": "2018-08-16T16:16:47Z",
   "homepage": "https://www.gatsbyjs.org",
-  "size": 372688,
-  "stargazers_count": 24556,
+  "size": 372787,
+  "stargazers_count": 24588,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -143,10 +143,10 @@
     "calcsam": 74,
     "ryanditjia": 58,
     "jquense": 114,
-    "fk": 170,
-    "pieh": 302,
+    "fk": 172,
+    "pieh": 309,
     "shannonbux": 153,
-    "m-allanson": 677,
+    "m-allanson": 683,
     "KyleAMathews": 4495,
     "thebigredgeek": 6,
     "mathieudutour": 4,
@@ -390,7 +390,7 @@
     "andykenward": 1,
     "amslezak": 1,
     "angeloashmore": 1,
-    "Moocar": 6,
+    "Moocar": 8,
     "Strangehill": 1,
     "Bartekus": 1,
     "zabute": 1,
@@ -479,7 +479,7 @@
     "daniel-simpson": 1,
     "dan-weaver": 1,
     "danawoodman": 1,
-    "danielberndt": 1,
+    "danielberndt": 2,
     "daaain": 1,
     "danielbh": 1,
     "ProphetDaniel": 1,
@@ -574,7 +574,7 @@
     "glauberfc": 1,
     "nhc": 1,
     "jamezrin": 1,
-    "web-flow": 1030,
+    "web-flow": 1032,
     "robinpyon": 1,
     "martimarkov": 1,
     "cmsbased": 1,
@@ -662,7 +662,7 @@
     "mgechev": 1,
     "ManuelHaag": 1,
     "tylermenezes": 1,
-    "XHMM": 1,
+    "XHMM": 2,
     "sudodoki": 1,
     "smartindupont": 1,
     "tvthatsme": 1,
@@ -1074,15 +1074,16 @@
     "FeNoMeNa": 1,
     "Koen87": 1,
     "haroldhues": 1,
-    "Manoz": 1,
+    "Manoz": 2,
     "tmccombs": 1,
     "KevinIngolfsland": 1,
     "adarshlilha": 1,
-    "horacioh": 1
+    "horacioh": 1,
+    "iamhitarth": 1
   },
   "languages": {
     "JavaScript": {
-      "bytes": 1467919,
+      "bytes": 1471849,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -1102,7 +1103,7 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-16T04:54:44.646Z",
+  "fetched_at": "2018-08-16T19:19:45.302Z",
   "pulls_url": "https://api.github.com/repos/gatsbyjs/gatsby/pulls{/number}",
   "pulls_authors": [
     "shannonbux",
@@ -2257,6 +2258,7 @@
     "tmccombs",
     "FeNoMeNa",
     "KevinIngolfsland",
-    "davidbailey00"
+    "davidbailey00",
+    "greenhamsam"
   ]
 }

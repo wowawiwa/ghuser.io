@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/elastic/curator",
   "languages_url": "https://api.github.com/repos/elastic/curator/languages",
   "created_at": "2013-08-20T05:45:34Z",
-  "updated_at": "2018-08-16T04:36:02Z",
-  "pushed_at": "2018-06-05T12:56:20Z",
+  "updated_at": "2018-08-16T11:20:34Z",
+  "pushed_at": "2018-08-16T10:17:22Z",
   "homepage": "",
   "size": 2718,
-  "stargazers_count": 2047,
+  "stargazers_count": 2049,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -135,7 +135,7 @@
     "HonzaKral": 34,
     "untergeek": 715
   },
-  "fetched_at": "2018-08-16T04:51:52.379Z",
+  "fetched_at": "2018-08-16T19:18:35.408Z",
   "pulls_url": "https://api.github.com/repos/elastic/curator/pulls{/number}",
   "pulls_authors": [
     "untergeek",
@@ -258,6 +258,7 @@
     "zothar",
     "benjaminws",
     "LeftyBC",
-    "edgeofnite"
+    "edgeofnite",
+    "raynigon"
   ]
 }

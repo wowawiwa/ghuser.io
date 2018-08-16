@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/bcit-ci/CodeIgniter",
   "languages_url": "https://api.github.com/repos/bcit-ci/CodeIgniter/languages",
   "created_at": "2011-08-19T13:34:00Z",
-  "updated_at": "2018-08-16T03:02:28Z",
-  "pushed_at": "2018-08-15T15:30:44Z",
+  "updated_at": "2018-08-16T08:11:07Z",
+  "pushed_at": "2018-08-16T14:57:13Z",
   "homepage": "https://codeigniter.com/",
   "size": 51293,
-  "stargazers_count": 16423,
+  "stargazers_count": 16426,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -437,7 +437,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-16T04:55:15.838Z",
+  "fetched_at": "2018-08-16T19:20:22.276Z",
   "pulls_url": "https://api.github.com/repos/bcit-ci/CodeIgniter/pulls{/number}",
   "pulls_authors": [
     "it-can",
@@ -1606,6 +1606,7 @@
     "dhrrgn",
     "michaeljdennis",
     "benedmunds",
-    "frankdejonge"
+    "frankdejonge",
+    "mfigueroa"
   ]
 }
