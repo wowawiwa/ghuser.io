@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/phpmyadmin/phpmyadmin",
   "languages_url": "https://api.github.com/repos/phpmyadmin/phpmyadmin/languages",
   "created_at": "2012-01-19T13:21:52Z",
-  "updated_at": "2018-08-16T22:15:06Z",
-  "pushed_at": "2018-08-16T19:16:21Z",
+  "updated_at": "2018-08-17T13:49:34Z",
+  "pushed_at": "2018-08-17T13:49:20Z",
   "homepage": "https://www.phpmyadmin.net/",
-  "size": 557920,
+  "size": 558062,
   "stargazers_count": 3287,
   "language": "PHP",
   "mirror_url": null,
@@ -111,7 +111,7 @@
     "SvenErik1968": 243,
     "tyronx": 273,
     "JoaoTMDias": 252,
-    "ibennetch": 447,
+    "ibennetch": 449,
     "domenk": 271,
     "wedi": 282,
     "thilinaa": 341,
@@ -349,7 +349,7 @@
       "color": "#e34c26"
     },
     "Shell": {
-      "bytes": 27777,
+      "bytes": 29776,
       "color": "#89e051"
     },
     "CSS": {
@@ -361,7 +361,7 @@
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-08-17T05:00:44.453Z",
+  "fetched_at": "2018-08-17T14:53:59.522Z",
   "pulls_url": "https://api.github.com/repos/phpmyadmin/phpmyadmin/pulls{/number}",
   "pulls_authors": [
     "troglodyne",
