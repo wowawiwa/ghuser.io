@@ -3755,6 +3755,72 @@
       "created_at": "2018-02-14T03:48:59Z",
       "updated_at": "2018-02-14T04:16:45Z",
       "type": "Organization"
+    },
+    "infinum": {
+      "login": "infinum",
+      "url": "https://api.github.com/orgs/infinum",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/97652?v=4",
+      "name": "Infinum",
+      "is_verified": false,
+      "html_url": "https://github.com/infinum",
+      "created_at": "2009-06-21T23:57:40Z",
+      "updated_at": "2018-07-25T21:21:15Z",
+      "type": "Organization"
+    },
+    "mina-deploy": {
+      "login": "mina-deploy",
+      "url": "https://api.github.com/orgs/mina-deploy",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/7380912?v=4",
+      "name": "",
+      "is_verified": false,
+      "html_url": "https://github.com/mina-deploy",
+      "created_at": "2014-04-23T06:02:24Z",
+      "updated_at": "2017-07-14T10:00:57Z",
+      "type": "Organization"
+    },
+    "rocketjob": {
+      "login": "rocketjob",
+      "url": "https://api.github.com/orgs/rocketjob",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/13289898?v=4",
+      "name": "rocketjob",
+      "is_verified": false,
+      "html_url": "https://github.com/rocketjob",
+      "created_at": "2015-07-11T15:21:24Z",
+      "updated_at": "2016-04-21T21:31:21Z",
+      "type": "Organization"
+    },
+    "rubyzg": {
+      "login": "rubyzg",
+      "url": "https://api.github.com/orgs/rubyzg",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/5940501?v=4",
+      "name": "Ruby Zagreb",
+      "is_verified": false,
+      "html_url": "https://github.com/rubyzg",
+      "created_at": "2013-11-14T16:01:31Z",
+      "updated_at": "2018-03-16T18:46:59Z",
+      "type": "Organization"
+    },
+    "tinfoil": {
+      "login": "tinfoil",
+      "url": "https://api.github.com/orgs/tinfoil",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1316472?v=4",
+      "name": "Tinfoil Security",
+      "is_verified": false,
+      "html_url": "https://github.com/tinfoil",
+      "created_at": "2012-01-09T21:15:05Z",
+      "updated_at": "2018-07-22T09:56:55Z",
+      "type": "Organization"
+    },
+    "stormpath": {
+      "login": "stormpath",
+      "url": "https://api.github.com/orgs/stormpath",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1377453?v=4",
+      "name": "Stormpath",
+      "is_verified": false,
+      "html_url": "https://github.com/stormpath",
+      "created_at": "2012-01-25T00:26:09Z",
+      "updated_at": "2018-03-28T23:30:11Z",
+      "type": "Organization"
     }
   }
 }
