@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "zoe.js.org",
+  "full_name": "jorgegonzalez/zoe.js.org",
+  "owner": "jorgegonzalez",
+  "private": false,
+  "html_url": "https://github.com/jorgegonzalez/zoe.js.org",
+  "description": "🌀 Website for Zoe",
+  "fork": false,
+  "url": "https://api.github.com/repos/jorgegonzalez/zoe.js.org",
+  "languages_url": "https://api.github.com/repos/jorgegonzalez/zoe.js.org/languages",
+  "pulls_url": "https://api.github.com/repos/jorgegonzalez/zoe.js.org/pulls{/number}",
+  "created_at": "2018-07-24T18:22:45Z",
+  "updated_at": "2018-08-16T04:28:50Z",
+  "pushed_at": "2018-08-16T04:28:48Z",
+  "homepage": "https://zoe.js.org",
+  "size": 1098,
+  "stargazers_count": 2,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jorgegonzalez": 10,
+    "azdanov": 13
+  },
+  "pulls_authors": [
+    "azdanov"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 117934,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 10955,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-08-17T12:34:57.533Z"
+}

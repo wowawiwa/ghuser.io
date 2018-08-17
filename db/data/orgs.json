@@ -3645,6 +3645,94 @@
       "created_at": "2017-03-02T20:17:27Z",
       "updated_at": "2017-03-06T18:23:44Z",
       "type": "Organization"
+    },
+    "DinoDashboard": {
+      "login": "DinoDashboard",
+      "url": "https://api.github.com/orgs/DinoDashboard",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/37633290?v=4",
+      "name": "Dino Dashboard",
+      "is_verified": false,
+      "html_url": "https://github.com/DinoDashboard",
+      "created_at": "2018-03-21T17:53:50Z",
+      "updated_at": "2018-04-15T02:33:57Z",
+      "type": "Organization"
+    },
+    "codemix": {
+      "login": "codemix",
+      "url": "https://api.github.com/orgs/codemix",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/4009461?v=4",
+      "name": "codemix",
+      "is_verified": false,
+      "html_url": "https://github.com/codemix",
+      "created_at": "2013-03-29T23:06:57Z",
+      "updated_at": "2018-08-02T14:23:00Z",
+      "type": "Organization"
+    },
+    "BuildingXwithJS": {
+      "login": "BuildingXwithJS",
+      "url": "https://api.github.com/orgs/BuildingXwithJS",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/31953545?v=4",
+      "name": "Building X with JS",
+      "is_verified": false,
+      "html_url": "https://github.com/BuildingXwithJS",
+      "created_at": "2017-09-14T08:53:13Z",
+      "updated_at": "2017-09-14T09:02:10Z",
+      "type": "Organization"
+    },
+    "openexchangerates": {
+      "login": "openexchangerates",
+      "url": "https://api.github.com/orgs/openexchangerates",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/8118621?v=4",
+      "name": "Open Exchange Rates",
+      "is_verified": false,
+      "html_url": "https://github.com/openexchangerates",
+      "created_at": "2014-07-09T22:01:32Z",
+      "updated_at": "2018-08-07T04:28:32Z",
+      "type": "Organization"
+    },
+    "Project-WARMIND": {
+      "login": "Project-WARMIND",
+      "url": "https://api.github.com/orgs/Project-WARMIND",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/38759353?v=4",
+      "name": "Project WARMIND",
+      "is_verified": false,
+      "html_url": "https://github.com/Project-WARMIND",
+      "created_at": "2018-04-26T13:55:21Z",
+      "updated_at": "2018-05-07T20:49:14Z",
+      "type": "Organization"
+    },
+    "Magisk-Modules-Repo": {
+      "login": "Magisk-Modules-Repo",
+      "url": "https://api.github.com/orgs/Magisk-Modules-Repo",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/21679027?v=4",
+      "name": "",
+      "is_verified": false,
+      "html_url": "https://github.com/Magisk-Modules-Repo",
+      "created_at": "2016-09-01T13:54:37Z",
+      "updated_at": "2018-01-19T16:25:41Z",
+      "type": "Organization"
+    },
+    "hak5": {
+      "login": "hak5",
+      "url": "https://api.github.com/orgs/hak5",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/9473275?v=4",
+      "name": "Hak5",
+      "is_verified": false,
+      "html_url": "https://github.com/hak5",
+      "created_at": "2014-10-31T01:55:18Z",
+      "updated_at": "2018-08-07T01:16:48Z",
+      "type": "Organization"
+    },
+    "wifiphisher": {
+      "login": "wifiphisher",
+      "url": "https://api.github.com/orgs/wifiphisher",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/25661467?v=4",
+      "name": "Wifiphisher",
+      "is_verified": false,
+      "html_url": "https://github.com/wifiphisher",
+      "created_at": "2017-02-09T11:07:42Z",
+      "updated_at": "2017-11-15T07:34:54Z",
+      "type": "Organization"
     }
   }
 }
