@@ -417,9 +417,9 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "src-d/engine": {
-      "full_name": "src-d/engine",
-      "name": "engine",
+    "src-d/jgit-spark-connector": {
+      "full_name": "src-d/jgit-spark-connector",
+      "name": "jgit-spark-connector",
       "stargazers_count": 68,
       "popularity": 2.8267615505705566,
       "percentage": 0,
