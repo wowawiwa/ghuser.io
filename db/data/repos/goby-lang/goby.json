@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/goby-lang/goby",
   "languages_url": "https://api.github.com/repos/goby-lang/goby/languages",
   "created_at": "2017-02-08T09:23:33Z",
-  "updated_at": "2018-08-15T04:47:34Z",
-  "pushed_at": "2018-08-15T04:41:54Z",
+  "updated_at": "2018-08-17T02:18:00Z",
+  "pushed_at": "2018-08-17T04:43:12Z",
   "homepage": "http://goby-lang.org",
-  "size": 5910,
+  "size": 5908,
   "stargazers_count": 2734,
   "language": "Go",
   "mirror_url": null,
@@ -74,13 +74,13 @@
     "ear7h": 58,
     "Maxwell-Alexius": 78,
     "saveriomiroddi": 106,
-    "hachi8833": 211,
+    "hachi8833": 214,
     "st0012": 1311,
     "salbertson": 1
   },
   "languages": {
     "Go": {
-      "bytes": 1048853,
+      "bytes": 1050090,
       "color": "#375eab"
     },
     "Ruby": {
@@ -100,7 +100,7 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-15T05:32:58.458Z",
+  "fetched_at": "2018-08-17T05:02:20.685Z",
   "pulls_url": "https://api.github.com/repos/goby-lang/goby/pulls{/number}",
   "pulls_authors": [
     "salbertson",

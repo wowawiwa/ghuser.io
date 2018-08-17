@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/sevntu-checkstyle/sevntu.checkstyle/languages",
   "pulls_url": "https://api.github.com/repos/sevntu-checkstyle/sevntu.checkstyle/pulls{/number}",
   "created_at": "2010-06-28T20:11:14Z",
-  "updated_at": "2018-08-04T08:06:05Z",
-  "pushed_at": "2018-08-04T08:06:02Z",
+  "updated_at": "2018-08-17T04:51:30Z",
+  "pushed_at": "2018-08-17T05:01:51Z",
   "homepage": "http://sevntu-checkstyle.github.com/sevntu.checkstyle/",
-  "size": 164553,
+  "size": 164554,
   "stargazers_count": 155,
   "language": "Java",
   "mirror_url": null,
@@ -80,7 +80,7 @@
     "alexkravin": 67,
     "daniilyar": 82,
     "rnveach": 152,
-    "romani": 338
+    "romani": 340
   },
   "pulls_authors": [
     "valfirst",
@@ -140,9 +140,9 @@
       "color": "#b07219"
     },
     "Shell": {
-      "bytes": 33012,
+      "bytes": 33683,
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-13T13:13:40.598Z"
+  "fetched_at": "2018-08-17T05:03:18.666Z"
 }

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/elastic/elasticsearch",
   "languages_url": "https://api.github.com/repos/elastic/elasticsearch/languages",
   "created_at": "2010-02-08T13:20:56Z",
-  "updated_at": "2018-08-16T18:41:13Z",
-  "pushed_at": "2018-08-16T19:15:20Z",
+  "updated_at": "2018-08-17T04:07:52Z",
+  "pushed_at": "2018-08-17T04:51:19Z",
   "homepage": "https://www.elastic.co/products/elasticsearch",
-  "size": 502671,
-  "stargazers_count": 33528,
+  "size": 502740,
+  "stargazers_count": 33538,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "Java": {
-      "bytes": 68892115,
+      "bytes": 68886977,
       "color": "#b07219"
     },
     "Groovy": {
@@ -136,7 +136,7 @@
     "simianhacker": 79,
     "mrsolo": 39,
     "andyb-elastic": 54,
-    "jtibshirani": 46,
+    "jtibshirani": 47,
     "albertzaharovits": 42,
     "c-a-m": 42,
     "hendrikmuhs": 42,
@@ -179,7 +179,7 @@
     "imotov": 659,
     "tlrx": 690,
     "cbuescher": 990,
-    "jaymode": 812,
+    "jaymode": 813,
     "spinscale": 872,
     "rmuir": 1256,
     "clintongormley": 1088,
@@ -189,7 +189,7 @@
     "rjernst": 1804,
     "nik9000": 1637,
     "javanna": 1876,
-    "jasontedor": 2143,
+    "jasontedor": 2144,
     "martijnvg": 2123,
     "s1monw": 3104,
     "kimchy": 4781,
@@ -470,7 +470,7 @@
     "andrershov": 2,
     "edsavage": 5
   },
-  "fetched_at": "2018-08-16T19:18:27.191Z",
+  "fetched_at": "2018-08-17T05:03:46.938Z",
   "pulls_url": "https://api.github.com/repos/elastic/elasticsearch/pulls{/number}",
   "pulls_authors": [
     "benwtrent",

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/atom/atom/languages",
   "pulls_url": "https://api.github.com/repos/atom/atom/pulls{/number}",
   "created_at": "2012-01-20T18:18:21Z",
-  "updated_at": "2018-08-16T19:00:18Z",
-  "pushed_at": "2018-08-16T18:26:23Z",
+  "updated_at": "2018-08-17T02:56:55Z",
+  "pushed_at": "2018-08-16T19:54:06Z",
   "homepage": "https://atom.io",
   "size": 301312,
-  "stargazers_count": 46011,
+  "stargazers_count": 46014,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -1273,5 +1273,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-16T19:20:09.840Z"
+  "fetched_at": "2018-08-17T05:05:32.805Z"
 }

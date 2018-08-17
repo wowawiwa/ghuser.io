@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/remy/mit-license",
   "languages_url": "https://api.github.com/repos/remy/mit-license/languages",
   "created_at": "2011-10-16T14:21:34Z",
-  "updated_at": "2018-08-16T19:10:04Z",
-  "pushed_at": "2018-08-16T15:02:39Z",
+  "updated_at": "2018-08-16T19:27:44Z",
+  "pushed_at": "2018-08-16T19:27:39Z",
   "homepage": "mit-license.org",
-  "size": 4835,
+  "size": 4836,
   "stargazers_count": 1719,
   "language": "CSS",
   "mirror_url": null,
@@ -121,7 +121,7 @@
     "dehnavi": 5,
     "Dev-Dipesh": 5,
     "pborreli": 5,
-    "squanto": 319,
+    "squanto": 320,
     "kolobus": 6,
     "raphaelbastide": 8,
     "kirb": 7,
@@ -452,7 +452,8 @@
     "DanielArthurUK": 1,
     "Darnley": 1,
     "imalliar": 1,
-    "claudiosanches": 2
+    "claudiosanches": 2,
+    "pxgamer": 2
   },
   "languages": {
     "CSS": {
@@ -468,7 +469,7 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-16T19:20:17.525Z",
+  "fetched_at": "2018-08-17T05:05:40.081Z",
   "pulls_url": "https://api.github.com/repos/remy/mit-license/pulls{/number}",
   "pulls_authors": [
     "claudiosanches",

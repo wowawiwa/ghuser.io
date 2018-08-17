@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/probot/unfurl",
   "languages_url": "https://api.github.com/repos/probot/unfurl/languages",
   "created_at": "2017-10-26T05:24:49Z",
-  "updated_at": "2018-08-11T21:56:54Z",
-  "pushed_at": "2018-08-08T21:55:02Z",
+  "updated_at": "2018-08-16T22:05:08Z",
+  "pushed_at": "2018-08-13T17:26:08Z",
   "homepage": "https://probot.github.io/apps/unfurl-links/",
-  "size": 101,
-  "stargazers_count": 37,
+  "size": 102,
+  "stargazers_count": 38,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -61,7 +61,7 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-12T04:56:28.350Z",
+  "fetched_at": "2018-08-17T05:04:16.555Z",
   "pulls_url": "https://api.github.com/repos/probot/unfurl/pulls{/number}",
   "pulls_authors": [
     "hiimbex",

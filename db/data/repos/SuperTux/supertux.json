@@ -1,7 +1,7 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
   "contributors": {
-    "Grumbel": 1708,
+    "Grumbel": 1709,
     "tobbi": 1097,
     "MatzeB": 672,
     "Hume2": 522,
@@ -79,10 +79,10 @@
   "url": "https://api.github.com/repos/SuperTux/supertux",
   "languages_url": "https://api.github.com/repos/SuperTux/supertux/languages",
   "created_at": "2013-11-23T21:40:12Z",
-  "updated_at": "2018-08-16T19:02:57Z",
-  "pushed_at": "2018-08-16T19:02:52Z",
+  "updated_at": "2018-08-16T22:05:06Z",
+  "pushed_at": "2018-08-16T22:05:00Z",
   "homepage": "https://supertux.org",
-  "size": 357658,
+  "size": 357673,
   "stargazers_count": 653,
   "language": "C++",
   "mirror_url": null,
@@ -117,7 +117,7 @@
   },
   "languages": {
     "C++": {
-      "bytes": 2760983,
+      "bytes": 2761445,
       "color": "#f34b7d"
     },
     "Scheme": {
@@ -169,7 +169,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-16T19:16:23.665Z",
+  "fetched_at": "2018-08-17T05:01:45.242Z",
   "pulls_url": "https://api.github.com/repos/SuperTux/supertux/pulls{/number}",
   "pulls_authors": [
     "g--o",

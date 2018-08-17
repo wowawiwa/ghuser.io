@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/elastic/kibana",
   "languages_url": "https://api.github.com/repos/elastic/kibana/languages",
   "created_at": "2013-01-26T04:00:59Z",
-  "updated_at": "2018-08-16T19:16:25Z",
-  "pushed_at": "2018-08-16T19:16:39Z",
+  "updated_at": "2018-08-17T04:33:43Z",
+  "pushed_at": "2018-08-17T04:34:55Z",
   "homepage": "https://www.elastic.co/products/kibana",
-  "size": 442589,
-  "stargazers_count": 9886,
+  "size": 446598,
+  "stargazers_count": 9887,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 18355548,
+      "bytes": 18349020,
       "color": "#f1e05a"
     },
     "TypeScript": {
-      "bytes": 1014906,
+      "bytes": 889799,
       "color": "#2b7489"
     },
     "HTML": {
@@ -60,7 +60,7 @@
       "color": "#e34c26"
     },
     "CSS": {
-      "bytes": 423107,
+      "bytes": 424733,
       "color": "#563d7c"
     },
     "Shell": {
@@ -123,7 +123,7 @@
     "rasroh": 9,
     "bhavyarm": 8,
     "gmoskovicz": 8,
-    "liza-mae": 14,
+    "liza-mae": 15,
     "markharwood": 9,
     "drej82": 9,
     "grouma": 16,
@@ -148,7 +148,7 @@
     "scampi": 23,
     "clintongormley": 25,
     "nyurik": 27,
-    "archanid": 33,
+    "archanid": 34,
     "sqren": 44,
     "weltenwort": 39,
     "bmcconaghy": 44,
@@ -180,7 +180,7 @@
     "rashidkpc": 1001,
     "stormpython": 1190,
     "w33ble": 1612,
-    "spalger": 4238,
+    "spalger": 4239,
     "ajebasingh": 2,
     "nellicus": 2,
     "formgeist": 6,
@@ -346,7 +346,7 @@
     "exekias": 1,
     "pjhampton": 1,
     "simitt": 2,
-    "cchaos": 3,
+    "cchaos": 5,
     "maryia-lapata": 2,
     "dedemorton": 1,
     "sunui": 1,
@@ -354,7 +354,7 @@
     "pavel06081991": 1,
     "going-confetti": 1
   },
-  "fetched_at": "2018-08-16T19:18:33.970Z",
+  "fetched_at": "2018-08-17T05:03:54.072Z",
   "pulls_url": "https://api.github.com/repos/elastic/kibana/pulls{/number}",
   "pulls_authors": [
     "nreese",
