@@ -65,7 +65,7 @@
     "Zylann": 47,
     "bruvzg": 48,
     "J08nY": 48,
-    "Chaosus": 61,
+    "Chaosus": 62,
     "touilleMan": 50,
     "hurikhan": 66,
     "leezh": 56,
@@ -99,7 +99,7 @@
     "Hinsbart": 303,
     "neikeq": 356,
     "volzhs": 297,
-    "akien-mga": 4781,
+    "akien-mga": 4784,
     "reduz": 2823,
     "cbscribe": 39,
     "Spooner": 16,
@@ -431,11 +431,11 @@
   "url": "https://api.github.com/repos/godotengine/godot",
   "languages_url": "https://api.github.com/repos/godotengine/godot/languages",
   "created_at": "2014-01-04T16:05:36Z",
-  "updated_at": "2018-08-17T04:35:25Z",
-  "pushed_at": "2018-08-17T00:27:24Z",
+  "updated_at": "2018-08-17T09:54:38Z",
+  "pushed_at": "2018-08-17T11:52:21Z",
   "homepage": "https://godotengine.org",
-  "size": 257294,
-  "stargazers_count": 16212,
+  "size": 257287,
+  "stargazers_count": 16215,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -469,7 +469,7 @@
   },
   "languages": {
     "C++": {
-      "bytes": 21228725,
+      "bytes": 21229405,
       "color": "#f34b7d"
     },
     "Java": {
@@ -477,7 +477,7 @@
       "color": "#b07219"
     },
     "Python": {
-      "bytes": 335746,
+      "bytes": 335916,
       "color": "#3572A5"
     },
     "C#": {
@@ -513,7 +513,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-17T05:01:32.584Z",
+  "fetched_at": "2018-08-17T11:57:24.846Z",
   "pulls_url": "https://api.github.com/repos/godotengine/godot/pulls{/number}",
   "pulls_authors": [
     "Calinou",
@@ -1402,6 +1402,7 @@
     "RevenantX",
     "Teashrock",
     "char0xff",
-    "natrim"
+    "natrim",
+    "quendera"
   ]
 }

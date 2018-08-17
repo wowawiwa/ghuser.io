@@ -10,8 +10,8 @@
   "url": "https://api.github.com/repos/coala/coala-quickstart",
   "languages_url": "https://api.github.com/repos/coala/coala-quickstart/languages",
   "created_at": "2016-03-01T15:55:10Z",
-  "updated_at": "2018-08-16T19:17:32Z",
-  "pushed_at": "2018-08-16T19:38:07Z",
+  "updated_at": "2018-08-17T11:50:25Z",
+  "pushed_at": "2018-08-17T11:52:33Z",
   "homepage": "",
   "size": 278,
   "stargazers_count": 34,
@@ -74,18 +74,19 @@
     "hemangsk": 3,
     "Abhisek-": 3,
     "Adrianzatreanu": 3,
-    "jayvdb": 20,
+    "jayvdb": 21,
     "sils": 11,
     "ishanSrt": 30,
     "adtac": 23,
     "satwikkansal": 47,
     "Wert1996": 1,
     "sladyn98": 1,
-    "Naveenaidu": 1
+    "Naveenaidu": 1,
+    "ahphoo": 1
   },
   "languages": {
     "Python": {
-      "bytes": 358288,
+      "bytes": 361564,
       "color": "#3572A5"
     },
     "Batchfile": {
@@ -97,7 +98,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-17T05:02:37.445Z",
+  "fetched_at": "2018-08-17T11:58:33.723Z",
   "pulls_url": "https://api.github.com/repos/coala/coala-quickstart/pulls{/number}",
   "pulls_authors": [
     "jayvdb",
@@ -145,6 +146,7 @@
     "laxmena",
     "sladyn98",
     "Naveenaidu",
-    "rishabhgarg25699"
+    "rishabhgarg25699",
+    "ahphoo"
   ]
 }

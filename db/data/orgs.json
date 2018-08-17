@@ -3579,6 +3579,72 @@
       "created_at": "2009-09-26T08:22:18Z",
       "updated_at": "2017-12-20T15:50:52Z",
       "type": "Organization"
+    },
+    "Microsoft": {
+      "login": "Microsoft",
+      "url": "https://api.github.com/orgs/Microsoft",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/6154722?v=4",
+      "name": "Microsoft",
+      "is_verified": true,
+      "html_url": "https://github.com/Microsoft",
+      "created_at": "2013-12-10T19:06:48Z",
+      "updated_at": "2018-08-08T16:48:53Z",
+      "type": "Organization"
+    },
+    "palantir": {
+      "login": "palantir",
+      "url": "https://api.github.com/orgs/palantir",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/303157?v=4",
+      "name": "Palantir Technologies",
+      "is_verified": true,
+      "html_url": "https://github.com/palantir",
+      "created_at": "2010-06-11T21:47:13Z",
+      "updated_at": "2018-08-16T23:54:58Z",
+      "type": "Organization"
+    },
+    "milligram": {
+      "login": "milligram",
+      "url": "https://api.github.com/orgs/milligram",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/16243913?v=4",
+      "name": "Milligram",
+      "is_verified": false,
+      "html_url": "https://github.com/milligram",
+      "created_at": "2015-12-10T17:02:51Z",
+      "updated_at": "2017-10-28T12:02:53Z",
+      "type": "Organization"
+    },
+    "DefinitelyTyped": {
+      "login": "DefinitelyTyped",
+      "url": "https://api.github.com/orgs/DefinitelyTyped",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3637556?v=4",
+      "name": "DefinitelyTyped",
+      "is_verified": false,
+      "html_url": "https://github.com/DefinitelyTyped",
+      "created_at": "2013-02-19T14:22:02Z",
+      "updated_at": "2016-10-21T04:54:37Z",
+      "type": "Organization"
+    },
+    "IdentityModel": {
+      "login": "IdentityModel",
+      "url": "https://api.github.com/orgs/IdentityModel",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/10657636?v=4",
+      "name": "",
+      "is_verified": false,
+      "html_url": "https://github.com/IdentityModel",
+      "created_at": "2015-01-22T17:45:18Z",
+      "updated_at": "2017-12-12T11:11:12Z",
+      "type": "Organization"
+    },
+    "GodotNativeTools": {
+      "login": "GodotNativeTools",
+      "url": "https://api.github.com/orgs/GodotNativeTools",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/26149847?v=4",
+      "name": "",
+      "is_verified": false,
+      "html_url": "https://github.com/GodotNativeTools",
+      "created_at": "2017-03-02T20:17:27Z",
+      "updated_at": "2017-03-06T18:23:44Z",
+      "type": "Organization"
     }
   }
 }

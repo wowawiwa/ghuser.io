@@ -1,0 +1,59 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "barrelsby",
+  "full_name": "bencoveney/barrelsby",
+  "owner": "bencoveney",
+  "private": false,
+  "html_url": "https://github.com/bencoveney/barrelsby",
+  "description": "Automatic TypeScript barrels (index.ts files) for your entire code base",
+  "fork": false,
+  "url": "https://api.github.com/repos/bencoveney/barrelsby",
+  "languages_url": "https://api.github.com/repos/bencoveney/barrelsby/languages",
+  "pulls_url": "https://api.github.com/repos/bencoveney/barrelsby/pulls{/number}",
+  "created_at": "2017-02-16T19:40:54Z",
+  "updated_at": "2018-08-09T23:12:38Z",
+  "pushed_at": "2018-06-29T07:11:21Z",
+  "homepage": "",
+  "size": 377,
+  "stargazers_count": 48,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "markuseckstein": 1,
+    "nozzlegear": 1,
+    "MrAntix": 3,
+    "greenkeeper[bot]": 19,
+    "bencoveney": 89
+  },
+  "pulls_authors": [
+    "greenkeeper[bot]",
+    "bencoveney",
+    "MrAntix",
+    "markuseckstein",
+    "nozzlegear"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 55631,
+      "color": "#2b7489"
+    },
+    "JavaScript": {
+      "bytes": 686,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 28,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-08-17T11:56:59.320Z"
+}

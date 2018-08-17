@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/pandas-dev/pandas",
   "languages_url": "https://api.github.com/repos/pandas-dev/pandas/languages",
   "created_at": "2010-08-24T01:37:33Z",
-  "updated_at": "2018-08-17T04:18:35Z",
-  "pushed_at": "2018-08-17T04:03:03Z",
+  "updated_at": "2018-08-17T11:21:40Z",
+  "pushed_at": "2018-08-17T11:54:21Z",
   "homepage": "http://pandas.pydata.org",
-  "size": 129496,
-  "stargazers_count": 15597,
+  "size": 129501,
+  "stargazers_count": 15603,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "Python": {
-      "bytes": 13831668,
+      "bytes": 13833152,
       "color": "#3572A5"
     },
     "HTML": {
@@ -60,7 +60,7 @@
       "color": "#555555"
     },
     "Shell": {
-      "bytes": 25930,
+      "bytes": 26869,
       "color": "#89e051"
     },
     "C++": {
@@ -178,10 +178,10 @@
     "adamklein": 327,
     "jbrockmendel": 381,
     "gfyoung": 324,
-    "TomAugspurger": 430,
+    "TomAugspurger": 431,
     "sinhrks": 405,
     "cpcloud": 606,
-    "jorisvandenbossche": 814,
+    "jorisvandenbossche": 815,
     "y-p": 943,
     "jreback": 4684,
     "wesm": 3127,
@@ -312,7 +312,7 @@
     "deniederhut": 3,
     "fvia": 3,
     "math-and-data": 3,
-    "ginggs": 5,
+    "ginggs": 6,
     "GGordonGordon": 3,
     "gpoulin": 3,
     "hammadmashkoor": 3,
@@ -501,7 +501,7 @@
     "realead": 4,
     "DZPM": 2
   },
-  "fetched_at": "2018-08-17T05:01:17.700Z",
+  "fetched_at": "2018-08-17T11:57:11.084Z",
   "pulls_url": "https://api.github.com/repos/pandas-dev/pandas/pulls{/number}",
   "pulls_authors": [
     "WillAyd",
@@ -2225,6 +2225,7 @@
     "Moons08",
     "yeojin-dev",
     "newinh",
-    "megabyde"
+    "megabyde",
+    "Hann"
   ]
 }

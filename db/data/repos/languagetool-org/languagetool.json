@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/languagetool-org/languagetool/languages",
   "pulls_url": "https://api.github.com/repos/languagetool-org/languagetool/pulls{/number}",
   "created_at": "2013-08-08T16:37:22Z",
-  "updated_at": "2018-08-16T22:16:05Z",
-  "pushed_at": "2018-08-17T03:47:59Z",
+  "updated_at": "2018-08-17T11:25:14Z",
+  "pushed_at": "2018-08-17T10:32:50Z",
   "homepage": "https://languagetool.org",
-  "size": 532857,
-  "stargazers_count": 2186,
+  "size": 533118,
+  "stargazers_count": 2188,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -104,8 +104,8 @@
     "gensitu": 6,
     "stweil": 7,
     "Shugyousha": 8,
-    "marcoagpinto": 12,
-    "InnovativeInventor": 12,
+    "marcoagpinto": 13,
+    "InnovativeInventor": 14,
     "Mailaender": 13,
     "MatheusPoletto": 18,
     "nopepper": 20,
@@ -120,7 +120,7 @@
     "pminos": 130,
     "FredKruse": 197,
     "gulp21": 200,
-    "MikeUnwalla": 280,
+    "MikeUnwalla": 283,
     "arysin": 398,
     "baarsrj": 447,
     "janschreiber": 946,
@@ -258,7 +258,7 @@
       "color": "#3572A5"
     },
     "Shell": {
-      "bytes": 83462,
+      "bytes": 83486,
       "color": "#89e051"
     },
     "Perl": {
@@ -290,5 +290,5 @@
       "color": "#f0a9f0"
     }
   },
-  "fetched_at": "2018-08-17T05:03:25.067Z"
+  "fetched_at": "2018-08-17T11:59:24.228Z"
 }

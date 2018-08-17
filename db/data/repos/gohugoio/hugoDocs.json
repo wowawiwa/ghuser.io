@@ -100,7 +100,7 @@
     "anthonyfok": 429,
     "spf13": 625,
     "rdwatters": 686,
-    "bep": 2461,
+    "bep": 2468,
     "asifm": 4,
     "bmon": 4,
     "betaveros": 4,
@@ -463,10 +463,10 @@
   "url": "https://api.github.com/repos/gohugoio/hugoDocs",
   "languages_url": "https://api.github.com/repos/gohugoio/hugoDocs/languages",
   "created_at": "2017-06-14T07:52:37Z",
-  "updated_at": "2018-08-17T01:59:02Z",
-  "pushed_at": "2018-08-14T22:39:32Z",
+  "updated_at": "2018-08-17T09:53:12Z",
+  "pushed_at": "2018-08-17T09:53:06Z",
   "homepage": "",
-  "size": 119127,
+  "size": 119320,
   "stargazers_count": 178,
   "language": "HTML",
   "mirror_url": null,
@@ -517,7 +517,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-17T05:01:38.072Z",
+  "fetched_at": "2018-08-17T11:57:30.378Z",
   "pulls_url": "https://api.github.com/repos/gohugoio/hugoDocs/pulls{/number}",
   "pulls_authors": [
     "brentybh",
@@ -731,6 +731,7 @@
     "blankoworld",
     "alihusnainarshad",
     "khos2ow",
-    "funkydan2"
+    "funkydan2",
+    "hipe"
   ]
 }

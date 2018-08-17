@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/turtlecoin/box-turtle/languages",
   "pulls_url": "https://api.github.com/repos/turtlecoin/box-turtle/pulls{/number}",
   "created_at": "2018-06-18T02:46:27Z",
-  "updated_at": "2018-08-16T21:07:59Z",
-  "pushed_at": "2018-08-17T03:34:03Z",
+  "updated_at": "2018-08-17T07:28:52Z",
+  "pushed_at": "2018-08-17T07:28:51Z",
   "homepage": "http://community.turtlecoin.lol",
-  "size": 1659,
+  "size": 1663,
   "stargazers_count": 3,
   "language": "JavaScript",
   "mirror_url": null,
@@ -45,7 +45,7 @@
     "LucasObe": 1,
     "ZedPea": 6,
     "RocksteadyTC": 13,
-    "Watt3r": 29
+    "Watt3r": 30
   },
   "pulls_authors": [
     "Watt3r",
@@ -55,7 +55,7 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 12031,
+      "bytes": 12143,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -63,9 +63,9 @@
       "color": "#e34c26"
     },
     "Batchfile": {
-      "bytes": 710,
+      "bytes": 726,
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-08-17T05:05:38.513Z"
+  "fetched_at": "2018-08-17T12:02:10.793Z"
 }

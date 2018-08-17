@@ -11,8 +11,8 @@
   "languages_url": "https://api.github.com/repos/yast/yast-translations/languages",
   "pulls_url": "https://api.github.com/repos/yast/yast-translations/pulls{/number}",
   "created_at": "2016-08-30T09:05:04Z",
-  "updated_at": "2018-08-15T17:01:39Z",
-  "pushed_at": "2018-08-15T17:01:36Z",
+  "updated_at": "2018-08-17T11:36:13Z",
+  "pushed_at": "2018-08-17T11:36:10Z",
   "homepage": null,
   "size": 302989,
   "stargazers_count": 9,
@@ -106,7 +106,7 @@
     "impcjc": 14,
     "Wantoyek": 14,
     "lslezak": 16,
-    "cb400f": 15,
+    "cb400f": 16,
     "medwinz": 17,
     "xixirei": 19,
     "pan93412": 23,
@@ -136,7 +136,7 @@
     "andriykopanytsia": 244,
     "Gianvacca": 253,
     "stanislav-brabec": 358,
-    "scootergrisen": 380,
+    "scootergrisen": 383,
     "elchevive": 394,
     "Christine-G": 461,
     "freekdk": 689,
@@ -162,7 +162,8 @@
     "jumpseat11": 1,
     "qiangzhao": 1,
     "dymek": 1,
-    "wantoyo": 1
+    "wantoyo": 1,
+    "shin-chan": 2
   },
   "pulls_authors": [
     "kernevil",
@@ -187,5 +188,5 @@
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-08-16T04:51:21.105Z"
+  "fetched_at": "2018-08-17T11:59:19.856Z"
 }

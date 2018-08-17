@@ -10,8 +10,8 @@
   "url": "https://api.github.com/repos/DiSiqueira/UltraSlackBot",
   "languages_url": "https://api.github.com/repos/DiSiqueira/UltraSlackBot/languages",
   "created_at": "2018-04-26T18:13:45Z",
-  "updated_at": "2018-08-15T20:22:49Z",
-  "pushed_at": "2018-08-15T20:22:46Z",
+  "updated_at": "2018-08-17T11:52:24Z",
+  "pushed_at": "2018-08-17T11:52:22Z",
   "homepage": null,
   "size": 110,
   "stargazers_count": 3,
@@ -27,11 +27,11 @@
   },
   "default_branch": "master",
   "contributors": {
-    "DiSiqueira": 48
+    "DiSiqueira": 50
   },
   "languages": {
     "Go": {
-      "bytes": 73982,
+      "bytes": 77045,
       "color": "#375eab"
     },
     "Shell": {
@@ -47,7 +47,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-16T04:50:23.334Z",
+  "fetched_at": "2018-08-17T11:58:10.296Z",
   "pulls_url": "https://api.github.com/repos/DiSiqueira/UltraSlackBot/pulls{/number}",
   "pulls_authors": [
     "vmcarvalho"
