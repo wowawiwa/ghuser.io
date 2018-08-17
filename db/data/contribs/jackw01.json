@@ -1,0 +1,110 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "sindresorhus/pretty-ms": {
+      "full_name": "sindresorhus/pretty-ms",
+      "name": "pretty-ms",
+      "stargazers_count": 324,
+      "popularity": 3.509376034573457,
+      "percentage": 0,
+      "maturity": 1.8529702602724436,
+      "total_commits_count": 47,
+      "activity": 5,
+      "total_score": 19.23406862426526,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "jonschlinkert/window-size": {
+      "full_name": "jonschlinkert/window-size",
+      "name": "window-size",
+      "stargazers_count": 59,
+      "popularity": 2.764215153768394,
+      "percentage": 2.380952380952381,
+      "maturity": 1.323873088726792,
+      "total_commits_count": 42,
+      "activity": 5,
+      "total_score": 16.7959820434966,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "jackw01/Triangulator": {
+      "full_name": "jackw01/Triangulator",
+      "name": "Triangulator",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 21,
+      "activity": 2.991454678922482,
+      "total_score": 2.991454678922482,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "jackw01/MicroMonitor": {
+      "full_name": "jackw01/MicroMonitor",
+      "name": "MicroMonitor",
+      "stargazers_count": 12,
+      "popularity": 2.045361715305606,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 4,
+      "activity": 2.166770322689307,
+      "total_score": 34.89255776757901,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "jackw01/arduino-pid-autotuner": {
+      "full_name": "jackw01/arduino-pid-autotuner",
+      "name": "arduino-pid-autotuner",
+      "stargazers_count": 22,
+      "popularity": 2.3243213587049825,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 6,
+      "activity": 1.2715695203826578,
+      "total_score": 38.460711259662375,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "jackw01/led-ring-clock": {
+      "full_name": "jackw01/led-ring-clock",
+      "name": "led-ring-clock",
+      "stargazers_count": 5,
+      "popularity": 1.6128219920330789,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 7,
+      "activity": 1.2454117734729517,
+      "total_score": 27.050563646002214,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "jackw01/cura-aqua-dark-theme": {
+      "full_name": "jackw01/cura-aqua-dark-theme",
+      "name": "cura-aqua-dark-theme",
+      "stargazers_count": 3,
+      "popularity": 1.3222565221025262,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 4,
+      "activity": 1.2190747363801302,
+      "total_score": 22.37517909002055,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "jackw01/raspi-python-st7735": {
+      "full_name": "jackw01/raspi-python-st7735",
+      "name": "raspi-python-st7735",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 0.9804972324664565,
+      "total_score": 17.643348759553497,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": []
+}
