@@ -417,11 +417,11 @@
   "url": "https://api.github.com/repos/symfony/symfony-docs",
   "languages_url": "https://api.github.com/repos/symfony/symfony-docs/languages",
   "created_at": "2010-02-17T08:43:51Z",
-  "updated_at": "2018-08-17T11:35:16Z",
-  "pushed_at": "2018-08-17T11:24:34Z",
+  "updated_at": "2018-08-18T00:59:04Z",
+  "pushed_at": "2018-08-17T19:12:23Z",
   "homepage": "https://symfony.com/doc",
-  "size": 48678,
-  "stargazers_count": 1472,
+  "size": 48696,
+  "stargazers_count": 1473,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -485,7 +485,7 @@
       "color": "#5c7611"
     }
   },
-  "fetched_at": "2018-08-17T11:57:26.194Z",
+  "fetched_at": "2018-08-18T09:18:35.613Z",
   "pulls_url": "https://api.github.com/repos/symfony/symfony-docs/pulls{/number}",
   "pulls_authors": [
     "xabbuh",
@@ -2565,6 +2565,7 @@
     "martixy",
     "ThamiSadouk",
     "Oipnet",
-    "Gun5m0k3"
+    "Gun5m0k3",
+    "tleneveu"
   ]
 }

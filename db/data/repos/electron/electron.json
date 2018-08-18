@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/electron/electron/languages",
   "pulls_url": "https://api.github.com/repos/electron/electron/pulls{/number}",
   "created_at": "2013-04-12T01:47:36Z",
-  "updated_at": "2018-08-17T11:53:18Z",
-  "pushed_at": "2018-08-17T08:35:19Z",
+  "updated_at": "2018-08-18T09:01:44Z",
+  "pushed_at": "2018-08-18T07:54:03Z",
   "homepage": "https://electronjs.org",
-  "size": 41314,
-  "stargazers_count": 63446,
+  "size": 41481,
+  "stargazers_count": 63475,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -122,7 +122,7 @@
     "bbondy": 40,
     "sethlu": 44,
     "vanessayuenn": 68,
-    "electron-bot": 52,
+    "electron-bot": 56,
     "joshaber": 56,
     "juturu": 56,
     "poiru": 77,
@@ -135,16 +135,16 @@
     "gerhardberger": 95,
     "jkleinsc": 245,
     "nornagon": 146,
-    "ckerr": 215,
+    "ckerr": 216,
     "brenca": 184,
     "paulcbetts": 245,
     "felixrieseberg": 252,
     "aroben": 280,
     "hokein": 267,
     "preco21": 347,
-    "alexeykuzmin": 323,
-    "codebytere": 406,
-    "MarshallOfSound": 412,
+    "alexeykuzmin": 324,
+    "codebytere": 409,
+    "MarshallOfSound": 420,
     "zeke": 593,
     "deepak1556": 689,
     "kevinsawicki": 2998,
@@ -343,7 +343,7 @@
     "pra85": 2,
     "rafaelstz": 2,
     "rahatarmanahmed": 2,
-    "robinwassen": 2,
+    "robinwassen": 4,
     "roramirez": 2,
     "saghul": 2,
     "sitdh": 2,
@@ -1426,7 +1426,9 @@
     "orderedlist",
     "roller-bot",
     "paulius005",
-    "aasharmaMS"
+    "aasharmaMS",
+    "andersk",
+    "keerthi16"
   ],
   "languages": {
     "C++": {
@@ -1434,7 +1436,7 @@
       "color": "#f34b7d"
     },
     "JavaScript": {
-      "bytes": 974675,
+      "bytes": 975967,
       "color": "#f1e05a"
     },
     "Objective-C++": {
@@ -1442,7 +1444,7 @@
       "color": "#6866fb"
     },
     "Python": {
-      "bytes": 305313,
+      "bytes": 307637,
       "color": "#3572A5"
     },
     "Objective-C": {
@@ -1474,5 +1476,5 @@
       "color": "#012456"
     }
   },
-  "fetched_at": "2018-08-17T12:01:52.446Z"
+  "fetched_at": "2018-08-18T09:22:27.787Z"
 }

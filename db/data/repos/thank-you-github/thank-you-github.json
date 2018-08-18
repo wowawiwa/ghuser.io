@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/thank-you-github/thank-you-github",
   "languages_url": "https://api.github.com/repos/thank-you-github/thank-you-github/languages",
   "created_at": "2016-01-15T16:40:23Z",
-  "updated_at": "2018-08-17T11:34:20Z",
-  "pushed_at": "2018-08-15T13:11:11Z",
+  "updated_at": "2018-08-18T05:33:41Z",
+  "pushed_at": "2018-08-18T07:20:45Z",
   "homepage": null,
-  "size": 1779,
-  "stargazers_count": 1826,
+  "size": 1852,
+  "stargazers_count": 1827,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -120,7 +120,7 @@
     "silentninja": 2,
     "nemesiscodex": 2,
     "teruteru128": 4,
-    "fxn": 2114,
+    "fxn": 2115,
     "thank-you-github": 44,
     "ad-m": 1,
     "CodeMaxx": 1,
@@ -289,7 +289,7 @@
     "wtser": 1
   },
   "languages": {},
-  "fetched_at": "2018-08-17T11:56:36.224Z",
+  "fetched_at": "2018-08-18T09:17:25.500Z",
   "pulls_url": "https://api.github.com/repos/thank-you-github/thank-you-github/pulls{/number}",
   "pulls_authors": [
     "farukterzioglu",
@@ -2526,6 +2526,7 @@
     "sadfuzzy",
     "josegonzalez",
     "iluvsnail",
-    "rdrsadhu"
+    "rdrsadhu",
+    "sabique"
   ]
 }

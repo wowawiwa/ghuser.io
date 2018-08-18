@@ -1,0 +1,81 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "paste",
+  "full_name": "jkcclemens/paste",
+  "owner": "jkcclemens",
+  "private": false,
+  "html_url": "https://github.com/jkcclemens/paste",
+  "description": "A sensible, modern pastebin.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jkcclemens/paste",
+  "languages_url": "https://api.github.com/repos/jkcclemens/paste/languages",
+  "pulls_url": "https://api.github.com/repos/jkcclemens/paste/pulls{/number}",
+  "created_at": "2018-04-13T04:33:23Z",
+  "updated_at": "2018-08-17T18:12:54Z",
+  "pushed_at": "2018-08-17T18:12:53Z",
+  "homepage": "https://paste.gg/",
+  "size": 4777,
+  "stargazers_count": 137,
+  "language": "Rust",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "hawkfalcon": 1,
+    "Zarthus": 1,
+    "kashike": 2,
+    "AKPWebDesign": 2,
+    "lol768": 4,
+    "jkcclemens": 498
+  },
+  "pulls_authors": [
+    "kashike",
+    "lol768",
+    "hawkfalcon",
+    "jkcclemens",
+    "AKPWebDesign",
+    "Zarthus"
+  ],
+  "languages": {
+    "Rust": {
+      "bytes": 256996,
+      "color": "#dea584"
+    },
+    "JavaScript": {
+      "bytes": 26264,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 10368,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 3103,
+      "color": "#89e051"
+    },
+    "PLpgSQL": {
+      "bytes": 3079,
+      "color": "#ccc"
+    },
+    "Dockerfile": {
+      "bytes": 1424,
+      "color": "#0db7ed"
+    },
+    "Ruby": {
+      "bytes": 1031,
+      "color": "#701516"
+    },
+    "PLSQL": {
+      "bytes": 109,
+      "color": "#dad8d8"
+    }
+  },
+  "fetched_at": "2018-08-18T09:17:09.054Z"
+}

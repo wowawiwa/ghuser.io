@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/probot/stale",
   "languages_url": "https://api.github.com/repos/probot/stale/languages",
   "created_at": "2017-03-13T13:21:06Z",
-  "updated_at": "2018-08-15T20:47:11Z",
-  "pushed_at": "2018-08-11T00:11:36Z",
+  "updated_at": "2018-08-17T22:39:00Z",
+  "pushed_at": "2018-08-17T22:38:58Z",
   "homepage": "https://probot.github.io/apps/stale/",
-  "size": 250,
-  "stargazers_count": 489,
+  "size": 259,
+  "stargazers_count": 490,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 21346,
+      "bytes": 21397,
       "color": "#f1e05a"
     }
   },
@@ -64,17 +64,18 @@
     "lee-dohm": 1,
     "rafaelfranca": 1,
     "kytrinyx": 1,
-    "hiimbex": 2,
+    "hiimbex": 3,
     "AshanthaLahiru": 2,
     "greenkeeper[bot]": 2,
     "hoverduck": 2,
-    "johlju": 4,
+    "johlju": 5,
     "RichardLitt": 5,
     "tcbyrd": 5,
-    "bkeepers": 117,
-    "cduez": 1
+    "bkeepers": 120,
+    "cduez": 1,
+    "ragurney": 1
   },
-  "fetched_at": "2018-08-16T04:50:51.221Z",
+  "fetched_at": "2018-08-18T09:19:42.028Z",
   "pulls_url": "https://api.github.com/repos/probot/stale/pulls{/number}",
   "pulls_authors": [
     "cduez",

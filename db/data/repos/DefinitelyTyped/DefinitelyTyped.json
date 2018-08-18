@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/DefinitelyTyped/DefinitelyTyped/languages",
   "pulls_url": "https://api.github.com/repos/DefinitelyTyped/DefinitelyTyped/pulls{/number}",
   "created_at": "2012-10-05T16:39:45Z",
-  "updated_at": "2018-08-17T11:41:27Z",
-  "pushed_at": "2018-08-17T11:02:33Z",
+  "updated_at": "2018-08-18T06:24:27Z",
+  "pushed_at": "2018-08-18T07:18:18Z",
   "homepage": "http://definitelytyped.org/",
-  "size": 347604,
-  "stargazers_count": 16971,
+  "size": 347670,
+  "stargazers_count": 16975,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -97,13 +97,13 @@
     "Nemo157": 50,
     "fullflavedave": 55,
     "pspeter3": 60,
-    "denisname": 52,
+    "denisname": 57,
     "AJamesPhillips": 54,
     "niikoo": 66,
     "plantain-00": 58,
     "NoHomey": 58,
     "JoshuaKGoldberg": 60,
-    "Flarna": 69,
+    "Flarna": 70,
     "DomiR": 54,
     "pelotom": 60,
     "miniak": 60,
@@ -150,7 +150,7 @@
     "andy-ms": 1455,
     "minestarks": 640,
     "aozgaa": 481,
-    "uniqueiniquity": 441,
+    "uniqueiniquity": 461,
     "rbuckton": 335,
     "armanio123": 327,
     "yuit": 198,
@@ -375,7 +375,7 @@
     "bioball": 14,
     "danielearwicker": 14,
     "DavidKDeutsch": 14,
-    "ElizabethSamuel-MSFT": 14,
+    "ElizabethSamuel-MSFT": 21,
     "grahammendick": 14,
     "smrq": 14,
     "icopp": 14,
@@ -8817,11 +8817,14 @@
     "eNepper",
     "apisarev",
     "k33g",
-    "marcinnajder"
+    "marcinnajder",
+    "arcanis",
+    "probablyup",
+    "olefrank"
   ],
   "languages": {
     "TypeScript": {
-      "bytes": 24840777,
+      "bytes": 24848725,
       "color": "#2b7489"
     },
     "JavaScript": {
@@ -8833,5 +8836,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-17T11:57:04.302Z"
+  "fetched_at": "2018-08-18T09:18:18.705Z"
 }

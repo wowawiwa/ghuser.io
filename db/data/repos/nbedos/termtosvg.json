@@ -8,7 +8,7 @@
     "nbedos": 104,
     "lkylych": 1,
     "Rondom": 1,
-    "nnist": 2
+    "nnist": 3
   },
   "name": "termtosvg",
   "full_name": "nbedos/termtosvg",
@@ -20,11 +20,11 @@
   "url": "https://api.github.com/repos/nbedos/termtosvg",
   "languages_url": "https://api.github.com/repos/nbedos/termtosvg/languages",
   "created_at": "2018-06-09T13:52:09Z",
-  "updated_at": "2018-08-17T11:25:22Z",
-  "pushed_at": "2018-08-16T14:07:27Z",
+  "updated_at": "2018-08-18T08:29:19Z",
+  "pushed_at": "2018-08-17T21:25:33Z",
   "homepage": "https://nbedos.github.io/termtosvg/",
-  "size": 657,
-  "stargazers_count": 6349,
+  "size": 630,
+  "stargazers_count": 6357,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -38,7 +38,7 @@
   "default_branch": "develop",
   "languages": {
     "Python": {
-      "bytes": 81685,
+      "bytes": 83363,
       "color": "#3572A5"
     },
     "Makefile": {
@@ -46,7 +46,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-17T11:57:24.602Z",
+  "fetched_at": "2018-08-18T09:18:34.215Z",
   "pulls_url": "https://api.github.com/repos/nbedos/termtosvg/pulls{/number}",
   "pulls_authors": [
     "Rondom",

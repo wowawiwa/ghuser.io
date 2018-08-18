@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/ChrisRM/material-theme-jetbrains/languages",
   "pulls_url": "https://api.github.com/repos/ChrisRM/material-theme-jetbrains/pulls{/number}",
   "created_at": "2015-09-23T07:15:04Z",
-  "updated_at": "2018-08-17T07:24:12Z",
-  "pushed_at": "2018-08-16T05:56:17Z",
+  "updated_at": "2018-08-18T09:17:27Z",
+  "pushed_at": "2018-08-17T20:32:38Z",
   "homepage": null,
-  "size": 129933,
-  "stargazers_count": 6106,
+  "size": 130068,
+  "stargazers_count": 6108,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -61,7 +61,7 @@
     "mjdetullio": 11,
     "denofevil": 15,
     "ChrisRM": 104,
-    "mallowigi": 1642
+    "mallowigi": 1647
   },
   "pulls_authors": [
     "amwill04",
@@ -113,7 +113,7 @@
   ],
   "languages": {
     "Java": {
-      "bytes": 1029919,
+      "bytes": 1029899,
       "color": "#b07219"
     },
     "CSS": {
@@ -125,5 +125,5 @@
       "color": "#F18E33"
     }
   },
-  "fetched_at": "2018-08-17T12:35:03.341Z"
+  "fetched_at": "2018-08-18T09:18:13.125Z"
 }

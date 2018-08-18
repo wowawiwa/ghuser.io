@@ -206,11 +206,11 @@
   "url": "https://api.github.com/repos/zeit/hyper",
   "languages_url": "https://api.github.com/repos/zeit/hyper/languages",
   "created_at": "2016-07-01T06:01:21Z",
-  "updated_at": "2018-08-17T11:30:10Z",
-  "pushed_at": "2018-08-16T21:05:44Z",
+  "updated_at": "2018-08-18T08:50:41Z",
+  "pushed_at": "2018-08-17T13:04:56Z",
   "homepage": "https://hyper.is",
   "size": 5760,
-  "stargazers_count": 25062,
+  "stargazers_count": 25076,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -260,7 +260,7 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-08-17T11:57:35.358Z",
+  "fetched_at": "2018-08-18T09:18:44.561Z",
   "pulls_url": "https://api.github.com/repos/zeit/hyper/pulls{/number}",
   "pulls_authors": [
     "pierreneter",

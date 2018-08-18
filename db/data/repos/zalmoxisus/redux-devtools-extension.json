@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/zalmoxisus/redux-devtools-extension",
   "languages_url": "https://api.github.com/repos/zalmoxisus/redux-devtools-extension/languages",
   "created_at": "2015-10-24T14:10:38Z",
-  "updated_at": "2018-08-17T10:44:54Z",
+  "updated_at": "2018-08-18T05:23:52Z",
   "pushed_at": "2018-07-19T06:11:31Z",
   "homepage": "http://extension.remotedev.io",
   "size": 10807,
-  "stargazers_count": 7020,
+  "stargazers_count": 7024,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -85,7 +85,7 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-08-17T11:59:44.449Z",
+  "fetched_at": "2018-08-18T09:20:31.025Z",
   "pulls_url": "https://api.github.com/repos/zalmoxisus/redux-devtools-extension/pulls{/number}",
   "pulls_authors": [
     "viko16",

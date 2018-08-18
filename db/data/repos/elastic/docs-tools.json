@@ -1,0 +1,74 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "docs-tools",
+  "full_name": "elastic/docs-tools",
+  "owner": "elastic",
+  "private": false,
+  "html_url": "https://github.com/elastic/docs-tools",
+  "description": "A place to put documentation tooling",
+  "fork": false,
+  "url": "https://api.github.com/repos/elastic/docs-tools",
+  "languages_url": "https://api.github.com/repos/elastic/docs-tools/languages",
+  "pulls_url": "https://api.github.com/repos/elastic/docs-tools/pulls{/number}",
+  "created_at": "2016-11-16T17:31:19Z",
+  "updated_at": "2018-08-17T18:56:57Z",
+  "pushed_at": "2018-08-17T11:42:56Z",
+  "homepage": null,
+  "size": 83,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "elastic",
+    "id": 6764390,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjY3NjQzOTA=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/6764390?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/elastic",
+    "html_url": "https://github.com/elastic",
+    "followers_url": "https://api.github.com/users/elastic/followers",
+    "following_url": "https://api.github.com/users/elastic/following{/other_user}",
+    "gists_url": "https://api.github.com/users/elastic/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/elastic/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/elastic/subscriptions",
+    "organizations_url": "https://api.github.com/users/elastic/orgs",
+    "repos_url": "https://api.github.com/users/elastic/repos",
+    "events_url": "https://api.github.com/users/elastic/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/elastic/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "karenzone": 1,
+    "jordansissel": 11,
+    "jsvd": 16
+  },
+  "pulls_authors": [
+    "jsvd",
+    "karenzone",
+    "dedemorton",
+    "jordansissel"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 16735,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 1904,
+      "color": "#89e051"
+    },
+    "Groovy": {
+      "bytes": 1494,
+      "color": "#e69f56"
+    },
+    "HTML": {
+      "bytes": 698,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-08-18T09:20:34.653Z"
+}

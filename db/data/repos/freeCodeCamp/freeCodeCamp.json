@@ -96,7 +96,7 @@
     "erictleung": 231,
     "BerkeleyTrue": 306,
     "benmcmahon100": 298,
-    "Bouncey": 253,
+    "Bouncey": 254,
     "raisedadead": 476,
     "terakilobyte": 658,
     "sahat": 1261,
@@ -390,7 +390,9 @@
     "caravinci": 45,
     "AmDji": 1,
     "Nirajn2311": 2,
-    "bgrgndzz": 1
+    "bgrgndzz": 1,
+    "darthmeme": 30,
+    "xorcat": 2
   },
   "name": "freeCodeCamp",
   "full_name": "freeCodeCamp/freeCodeCamp",
@@ -402,11 +404,11 @@
   "url": "https://api.github.com/repos/freeCodeCamp/freeCodeCamp",
   "languages_url": "https://api.github.com/repos/freeCodeCamp/freeCodeCamp/languages",
   "created_at": "2014-12-24T17:49:19Z",
-  "updated_at": "2018-08-17T10:52:15Z",
-  "pushed_at": "2018-08-15T10:05:05Z",
+  "updated_at": "2018-08-18T08:51:06Z",
+  "pushed_at": "2018-08-17T15:41:13Z",
   "homepage": "",
-  "size": 35682,
-  "stargazers_count": 293525,
+  "size": 35621,
+  "stargazers_count": 293535,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -440,7 +442,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 544239,
+      "bytes": 544315,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -452,7 +454,7 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-08-17T11:57:30.924Z",
+  "fetched_at": "2018-08-18T09:18:40.127Z",
   "pulls_url": "https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls{/number}",
   "pulls_authors": [
     "raisedadead",

@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/dwyl/dwyl-site",
   "languages_url": "https://api.github.com/repos/dwyl/dwyl-site/languages",
   "created_at": "2015-05-13T14:43:31Z",
-  "updated_at": "2018-08-16T22:11:01Z",
-  "pushed_at": "2018-08-16T22:11:04Z",
+  "updated_at": "2018-08-17T23:53:52Z",
+  "pushed_at": "2018-08-17T23:53:56Z",
   "homepage": "http://www.dwyl.com",
-  "size": 58286,
+  "size": 58229,
   "stargazers_count": 27,
   "language": "HTML",
   "mirror_url": null,
@@ -63,7 +63,7 @@
     "mantagen": 14,
     "rub1e": 19,
     "ZooeyMiller": 18,
-    "nelsonic": 29,
+    "nelsonic": 37,
     "hdrdavies": 38,
     "markwf": 55,
     "finnhodgkin": 77,
@@ -74,19 +74,19 @@
   },
   "languages": {
     "HTML": {
-      "bytes": 363170,
+      "bytes": 378119,
       "color": "#e34c26"
     },
     "JavaScript": {
-      "bytes": 6730,
+      "bytes": 7058,
       "color": "#f1e05a"
     },
     "CSS": {
-      "bytes": 4783,
+      "bytes": 4804,
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-08-17T05:05:00.090Z",
+  "fetched_at": "2018-08-18T09:21:59.363Z",
   "pulls_url": "https://api.github.com/repos/dwyl/dwyl-site/pulls{/number}",
   "pulls_authors": [
     "rub1e",

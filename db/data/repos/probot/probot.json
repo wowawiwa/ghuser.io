@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/probot/probot",
   "languages_url": "https://api.github.com/repos/probot/probot/languages",
   "created_at": "2016-09-16T20:56:13Z",
-  "updated_at": "2018-08-17T11:10:47Z",
-  "pushed_at": "2018-08-17T04:59:49Z",
+  "updated_at": "2018-08-18T06:48:52Z",
+  "pushed_at": "2018-08-18T05:36:45Z",
   "homepage": "https://probot.github.io",
-  "size": 1729,
-  "stargazers_count": 3069,
+  "size": 1719,
+  "stargazers_count": 3075,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "TypeScript": {
-      "bytes": 58172,
+      "bytes": 58163,
       "color": "#2b7489"
     },
     "JavaScript": {
-      "bytes": 27334,
+      "bytes": 27322,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -69,7 +69,7 @@
     "mdelagrange": 1,
     "gimenete": 1,
     "brntbeer": 1,
-    "BPScott": 4,
+    "BPScott": 6,
     "peterennis": 1,
     "szeck87": 1,
     "giansalex": 1,
@@ -126,18 +126,18 @@
     "gr2m": 13,
     "lee-dohm": 15,
     "mcolyer": 21,
-    "greenkeeper[bot]": 25,
+    "greenkeeper[bot]": 26,
     "seemakamath": 23,
     "JasonEtco": 36,
     "hiimbex": 43,
-    "bkeepers": 551,
+    "bkeepers": 552,
     "gjtorikian": 1,
     "kentaro-m": 3,
     "mousavian": 1,
     "tommilligan": 2,
     "sallycsy": 1
   },
-  "fetched_at": "2018-08-17T11:58:39.084Z",
+  "fetched_at": "2018-08-18T09:19:38.616Z",
   "pulls_url": "https://api.github.com/repos/probot/probot/pulls{/number}",
   "pulls_authors": [
     "JasonEtco",

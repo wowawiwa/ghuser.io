@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/google/skylark",
   "languages_url": "https://api.github.com/repos/google/skylark/languages",
   "created_at": "2017-10-02T14:05:01Z",
-  "updated_at": "2018-08-17T04:23:48Z",
+  "updated_at": "2018-08-18T03:13:37Z",
   "pushed_at": "2018-08-10T17:44:17Z",
   "homepage": "",
   "size": 1848,
-  "stargazers_count": 1073,
+  "stargazers_count": 1074,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -68,7 +68,7 @@
       "color": "#375eab"
     }
   },
-  "fetched_at": "2018-08-17T05:02:18.439Z",
+  "fetched_at": "2018-08-18T09:19:17.796Z",
   "pulls_url": "https://api.github.com/repos/google/skylark/pulls{/number}",
   "pulls_authors": [
     "nicks",

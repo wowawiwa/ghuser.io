@@ -76,8 +76,8 @@
     "Rogier-5": 29,
     "CiaranG": 29,
     "MirceaKitsune": 31,
-    "HybridDog": 36,
-    "numberZero": 37,
+    "HybridDog": 37,
+    "numberZero": 38,
     "juhdanad": 38,
     "SpeedProg": 44,
     "lhofhansl": 61,
@@ -337,10 +337,10 @@
   "url": "https://api.github.com/repos/minetest/minetest",
   "languages_url": "https://api.github.com/repos/minetest/minetest/languages",
   "created_at": "2011-08-07T13:48:36Z",
-  "updated_at": "2018-08-17T12:21:24Z",
-  "pushed_at": "2018-08-17T08:00:06Z",
+  "updated_at": "2018-08-18T09:00:26Z",
+  "pushed_at": "2018-08-18T09:00:07Z",
   "homepage": "http://minetest.net/",
-  "size": 59052,
+  "size": 58921,
   "stargazers_count": 3390,
   "language": "C++",
   "mirror_url": null,
@@ -375,7 +375,7 @@
   },
   "languages": {
     "C++": {
-      "bytes": 5079976,
+      "bytes": 5079728,
       "color": "#f34b7d"
     },
     "C": {
@@ -383,7 +383,7 @@
       "color": "#555555"
     },
     "Lua": {
-      "bytes": 516237,
+      "bytes": 516542,
       "color": "#000080"
     },
     "CMake": {
@@ -415,7 +415,7 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-08-17T12:35:31.916Z",
+  "fetched_at": "2018-08-18T09:18:41.875Z",
   "pulls_url": "https://api.github.com/repos/minetest/minetest/pulls{/number}",
   "pulls_authors": [
     "hecktest",

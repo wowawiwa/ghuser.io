@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/facebook/react",
   "languages_url": "https://api.github.com/repos/facebook/react/languages",
   "created_at": "2013-05-24T16:15:54Z",
-  "updated_at": "2018-08-17T11:42:30Z",
-  "pushed_at": "2018-08-17T01:30:35Z",
+  "updated_at": "2018-08-18T09:01:41Z",
+  "pushed_at": "2018-08-18T06:34:14Z",
   "homepage": "https://reactjs.org",
-  "size": 137653,
-  "stargazers_count": 108949,
+  "size": 137686,
+  "stargazers_count": 109002,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -129,11 +129,11 @@
     "trueadm": 58,
     "cpojer": 65,
     "koba04": 59,
-    "aweary": 67,
+    "aweary": 68,
     "flarnie": 67,
     "syranide": 77,
     "yungsters": 114,
-    "nhunzaker": 86,
+    "nhunzaker": 87,
     "benjamn": 140,
     "subtleGradient": 115,
     "jeffmo": 111,
@@ -141,11 +141,11 @@
     "vjeux": 207,
     "chenglou": 222,
     "petehunt": 332,
-    "bvaughn": 280,
+    "bvaughn": 282,
     "acdlite": 444,
     "sebmarkbage": 645,
     "zpao": 1776,
-    "gaearon": 943,
+    "gaearon": 945,
     "sophiebits": 1232,
     "leebyron": 10,
     "puradox": 8,
@@ -511,7 +511,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 1987285,
+      "bytes": 2033216,
       "color": "#f1e05a"
     },
     "C++": {
@@ -551,7 +551,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-17T11:57:20.033Z",
+  "fetched_at": "2018-08-18T09:18:30.286Z",
   "pulls_url": "https://api.github.com/repos/facebook/react/pulls{/number}",
   "pulls_authors": [
     "gaearon",
@@ -2597,6 +2597,7 @@
     "aseem191",
     "IvanSakhman",
     "RuudBurger",
-    "kartiklad"
+    "kartiklad",
+    "web2033"
   ]
 }

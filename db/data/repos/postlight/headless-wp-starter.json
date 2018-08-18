@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/postlight/headless-wp-starter/languages",
   "pulls_url": "https://api.github.com/repos/postlight/headless-wp-starter/pulls{/number}",
   "created_at": "2017-07-31T21:44:54Z",
-  "updated_at": "2018-08-17T11:54:04Z",
-  "pushed_at": "2018-08-10T12:13:01Z",
+  "updated_at": "2018-08-18T06:16:56Z",
+  "pushed_at": "2018-08-18T04:22:03Z",
   "homepage": "https://trackchanges.postlight.com/introducing-postlights-wordpress-react-starter-kit-a61e2633c48c",
   "size": 5475,
-  "stargazers_count": 1874,
+  "stargazers_count": 1877,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -76,7 +76,8 @@
     "johhansantana",
     "kevboh",
     "george-haddad",
-    "lex111"
+    "lex111",
+    "andrewriveraj"
   ],
   "languages": {
     "PHP": {
@@ -96,5 +97,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-17T12:00:27.668Z"
+  "fetched_at": "2018-08-18T09:20:58.021Z"
 }

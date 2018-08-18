@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/Novik/ruTorrent",
   "languages_url": "https://api.github.com/repos/Novik/ruTorrent/languages",
   "created_at": "2014-08-22T09:14:45Z",
-  "updated_at": "2018-08-17T13:06:14Z",
-  "pushed_at": "2018-08-06T14:11:31Z",
+  "updated_at": "2018-08-18T06:54:24Z",
+  "pushed_at": "2018-08-18T06:54:21Z",
   "homepage": "",
-  "size": 16236,
-  "stargazers_count": 1095,
+  "size": 16234,
+  "stargazers_count": 1096,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -45,7 +45,7 @@
     "domdorn": 1,
     "jkdf2": 1,
     "allixx": 1,
-    "gromez": 1,
+    "gromez": 2,
     "nicissimo97": 1,
     "strayge": 1,
     "Whovian9369": 1,
@@ -80,7 +80,7 @@
     "barricas": 2,
     "robines": 2,
     "enoch85": 2,
-    "hollanbm": 2,
+    "hollanbm": 4,
     "RobbieL811": 2,
     "fbarriga": 2,
     "DarioRugani": 2,
@@ -88,12 +88,12 @@
     "dolohow": 2,
     "Moodkiller": 2,
     "Flucons": 2,
-    "crazy-max": 2,
+    "crazy-max": 3,
     "byte916": 2,
     "DipSwitch": 2,
     "daredev": 2,
     "Kcchouette": 3,
-    "jamesdb": 3,
+    "jamesdb": 4,
     "isaactolstoi": 3,
     "VJean-dev": 3,
     "exrat": 3,
@@ -108,12 +108,12 @@
     "Alex131089": 5,
     "m-hume": 7,
     "zinglau": 8,
-    "R1kk3r": 8,
+    "R1kk3r": 11,
     "xombiemp": 8,
     "davorb": 8,
     "Arakmar": 9,
     "Windkracht8": 12,
-    "alexcoe": 13,
+    "alexcoe": 15,
     "pfactum": 17,
     "akashgupta02": 17,
     "AceP1983": 19,
@@ -121,11 +121,13 @@
     "mewsf": 30,
     "nicobubulle": 35,
     "dmrom00": 43,
-    "rtorrentuser": 60,
+    "rtorrentuser": 94,
     "Micdu70": 61,
-    "Novik": 1108,
+    "Novik": 1363,
     "ranirahn": 1,
-    "mickkael": 2
+    "mickkael": 2,
+    "minibombardo": 1,
+    "invalid-email-address": 19
   },
   "languages": {
     "JavaScript": {
@@ -149,7 +151,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-17T13:19:48.042Z",
+  "fetched_at": "2018-08-18T09:19:05.730Z",
   "pulls_url": "https://api.github.com/repos/Novik/ruTorrent/pulls{/number}",
   "pulls_authors": [
     "mickkael",
@@ -261,6 +263,7 @@
     "ArthurJam",
     "iamxerc",
     "carlosjdelgado",
-    "klusark"
+    "klusark",
+    "minibombardo"
   ]
 }

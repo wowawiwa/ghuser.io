@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/pmd/pmd",
   "languages_url": "https://api.github.com/repos/pmd/pmd/languages",
   "created_at": "2012-07-11T18:03:00Z",
-  "updated_at": "2018-08-17T08:51:04Z",
-  "pushed_at": "2018-08-17T08:50:58Z",
+  "updated_at": "2018-08-17T18:47:51Z",
+  "pushed_at": "2018-08-17T18:47:47Z",
   "homepage": "https://pmd.github.io",
-  "size": 247697,
+  "size": 247771,
   "stargazers_count": 1731,
   "language": "Java",
   "mirror_url": null,
@@ -140,13 +140,13 @@
     "JosephAllen": 65,
     "akshatbahety": 74,
     "rsoesemann": 74,
-    "pmd-bot": 77,
+    "pmd-bot": 79,
     "WinterGrascph": 91,
     "sturton": 118,
     "sergeygorbaty": 293,
     "jsotuyod": 1077,
-    "oowekyala": 1034,
-    "adangel": 3176,
+    "oowekyala": 1042,
+    "adangel": 3181,
     "ashishrana160796": 1,
     "AustinShalit": 1,
     "ishanSrt": 1,
@@ -159,11 +159,12 @@
     "mrfyda": 1,
     "jordillachmrf": 2,
     "cobratbq": 1,
-    "ardaasln": 1
+    "ardaasln": 1,
+    "vovkss": 6
   },
   "languages": {
     "Java": {
-      "bytes": 5936510,
+      "bytes": 5944553,
       "color": "#b07219"
     },
     "Apex": {
@@ -243,7 +244,7 @@
       "color": "#2b7489"
     }
   },
-  "fetched_at": "2018-08-17T11:58:34.208Z",
+  "fetched_at": "2018-08-18T09:19:34.691Z",
   "pulls_url": "https://api.github.com/repos/pmd/pmd/pulls{/number}",
   "pulls_authors": [
     "djydewang",

@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/azdanov/azdanov.github.io/languages",
   "pulls_url": "https://api.github.com/repos/azdanov/azdanov.github.io/pulls{/number}",
   "created_at": "2017-07-13T21:09:34Z",
-  "updated_at": "2018-08-17T10:05:59Z",
-  "pushed_at": "2018-08-17T10:06:00Z",
+  "updated_at": "2018-08-18T09:16:21Z",
+  "pushed_at": "2018-08-18T09:16:20Z",
   "homepage": "https://azdanov.js.org/",
-  "size": 12526,
+  "size": 12698,
   "stargazers_count": 2,
   "language": "TypeScript",
   "mirror_url": null,
@@ -30,7 +30,7 @@
   "contributors": {
     "codacy-badger": 1,
     "semantic-release-bot": 13,
-    "azdanov": 590
+    "azdanov": 601
   },
   "pulls_authors": [
     "codacy-badger",
@@ -38,17 +38,17 @@
   ],
   "languages": {
     "TypeScript": {
-      "bytes": 81841,
+      "bytes": 82522,
       "color": "#2b7489"
     },
     "CSS": {
-      "bytes": 53814,
+      "bytes": 54138,
       "color": "#563d7c"
     },
     "JavaScript": {
-      "bytes": 5910,
+      "bytes": 6007,
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-17T12:34:57.436Z"
+  "fetched_at": "2018-08-18T09:18:08.069Z"
 }

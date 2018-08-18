@@ -54,7 +54,7 @@
     "flaviogrossi": 12,
     "lucasvanhalst": 12,
     "danielbush": 12,
-    "tassoevan": 29,
+    "tassoevan": 30,
     "c0dzilla": 14,
     "ramrami": 18,
     "toxicgumbo": 13,
@@ -81,12 +81,12 @@
     "timkinnane": 47,
     "fduraibi": 45,
     "AlecTroemel": 47,
-    "Hudell": 54,
+    "Hudell": 57,
     "Kiran-Rao": 47,
     "luisfn": 52,
     "rcaferati": 63,
     "pkgodara": 77,
-    "MarcosSpessatto": 82,
+    "MarcosSpessatto": 83,
     "alexbrazier": 106,
     "nishimaki10": 125,
     "gmsecrieru": 137,
@@ -94,13 +94,13 @@
     "Sing-Li": 251,
     "geekgonecrazy": 361,
     "ggazzo": 445,
-    "graywolf336": 435,
+    "graywolf336": 436,
     "MartinSchoeler": 599,
     "karlprieb": 604,
     "marceloschmidt": 1208,
-    "sampaiodiego": 1304,
+    "sampaiodiego": 1305,
     "engelgabriel": 3244,
-    "rodrigok": 3869,
+    "rodrigok": 3871,
     "saplla": 16,
     "mnt": 11,
     "Huljo": 10,
@@ -397,11 +397,11 @@
   "url": "https://api.github.com/repos/RocketChat/Rocket.Chat",
   "languages_url": "https://api.github.com/repos/RocketChat/Rocket.Chat/languages",
   "created_at": "2015-05-19T07:36:09Z",
-  "updated_at": "2018-08-17T11:57:18Z",
-  "pushed_at": "2018-08-17T11:57:34Z",
+  "updated_at": "2018-08-18T08:50:44Z",
+  "pushed_at": "2018-08-17T23:23:36Z",
   "homepage": "https://rocket.chat/",
-  "size": 76636,
-  "stargazers_count": 19444,
+  "size": 76727,
+  "stargazers_count": 19457,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -435,15 +435,15 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 3924108,
+      "bytes": 3929787,
       "color": "#f1e05a"
     },
     "HTML": {
-      "bytes": 407201,
+      "bytes": 407414,
       "color": "#e34c26"
     },
     "CSS": {
-      "bytes": 386538,
+      "bytes": 386563,
       "color": "#563d7c"
     },
     "CoffeeScript": {
@@ -451,7 +451,7 @@
       "color": "#244776"
     },
     "Shell": {
-      "bytes": 28430,
+      "bytes": 28214,
       "color": "#89e051"
     },
     "Ruby": {
@@ -475,7 +475,7 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-08-17T11:57:42.025Z",
+  "fetched_at": "2018-08-18T09:18:49.569Z",
   "pulls_url": "https://api.github.com/repos/RocketChat/Rocket.Chat/pulls{/number}",
   "pulls_authors": [
     "TheReal1604",
