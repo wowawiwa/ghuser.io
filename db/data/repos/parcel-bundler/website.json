@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/parcel-bundler/website",
   "languages_url": "https://api.github.com/repos/parcel-bundler/website/languages",
   "created_at": "2017-10-23T01:24:40Z",
-  "updated_at": "2018-08-17T23:03:39Z",
-  "pushed_at": "2018-08-17T23:03:37Z",
+  "updated_at": "2018-08-18T15:10:16Z",
+  "pushed_at": "2018-08-18T15:10:14Z",
   "homepage": "https://parceljs.org",
-  "size": 4980,
+  "size": 4983,
   "stargazers_count": 93,
   "language": "HTML",
   "mirror_url": null,
@@ -129,7 +129,8 @@
     "oskarkunik": 1,
     "pravdomil": 1,
     "jepser": 1,
-    "hirasso": 2
+    "hirasso": 2,
+    "starkwang": 1
   },
   "languages": {
     "HTML": {
@@ -149,7 +150,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-18T09:22:08.266Z",
+  "fetched_at": "2018-08-18T20:09:44.974Z",
   "pulls_url": "https://api.github.com/repos/parcel-bundler/website/pulls{/number}",
   "pulls_authors": [
     "DanielRuf",

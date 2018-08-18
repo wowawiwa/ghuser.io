@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/moby/moby",
   "languages_url": "https://api.github.com/repos/moby/moby/languages",
   "created_at": "2013-01-18T18:10:57Z",
-  "updated_at": "2018-08-18T06:16:38Z",
+  "updated_at": "2018-08-18T19:41:07Z",
   "pushed_at": "2018-08-18T04:41:16Z",
   "homepage": "https://mobyproject.org/",
   "size": 137672,
-  "stargazers_count": 49996,
+  "stargazers_count": 49997,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -540,7 +540,7 @@
     "stevvooe": 65,
     "RenaudWasTaken": 5
   },
-  "fetched_at": "2018-08-18T09:18:23.886Z",
+  "fetched_at": "2018-08-18T20:05:57.261Z",
   "pulls_url": "https://api.github.com/repos/moby/moby/pulls{/number}",
   "pulls_authors": [
     "dperny",

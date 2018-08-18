@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/wikimedia/mediawiki-extensions/languages",
   "pulls_url": "https://api.github.com/repos/wikimedia/mediawiki-extensions/pulls{/number}",
   "created_at": "2012-11-01T19:03:08Z",
-  "updated_at": "2018-08-18T08:10:46Z",
-  "pushed_at": "2018-08-18T08:10:30Z",
+  "updated_at": "2018-08-18T17:53:47Z",
+  "pushed_at": "2018-08-18T17:53:32Z",
   "homepage": "https://gerrit.wikimedia.org",
-  "size": 122212,
+  "size": 122530,
   "stargazers_count": 46,
   "language": "Python",
   "mirror_url": null,
@@ -42,9 +42,9 @@
     "site_admin": false
   },
   "contributors": {
-    "translatewiki": 110403,
+    "translatewiki": 110426,
     "legoktm": 4512,
-    "umherirrender": 3751,
+    "umherirrender": 3755,
     "JeroenDeDauw": 2912,
     "siebrand": 2431,
     "demon": 2110,
@@ -117,7 +117,7 @@
     "kartikm": 157,
     "prtksxna": 154,
     "Tpt": 150,
-    "Pl217": 165,
+    "Pl217": 166,
     "AndrewGreen": 144,
     "joakin": 142,
     "cscott": 140,
@@ -125,7 +125,7 @@
     "Glaisher": 135,
     "nomoa": 135,
     "gi11es": 134,
-    "zoranzoki21": 139,
+    "zoranzoki21": 142,
     "rmoen": 123,
     "johl": 120,
     "soldag": 119,
@@ -324,5 +324,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-18T09:20:27.041Z"
+  "fetched_at": "2018-08-18T20:08:04.246Z"
 }

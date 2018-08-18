@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/nodejs/node",
   "languages_url": "https://api.github.com/repos/nodejs/node/languages",
   "created_at": "2014-11-26T19:57:11Z",
-  "updated_at": "2018-08-18T08:23:38Z",
-  "pushed_at": "2018-08-18T08:22:22Z",
+  "updated_at": "2018-08-18T20:04:04Z",
+  "pushed_at": "2018-08-18T20:02:50Z",
   "homepage": "https://nodejs.org",
-  "size": 402145,
-  "stargazers_count": 52347,
+  "size": 402191,
+  "stargazers_count": 52367,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 6773559,
+      "bytes": 6775867,
       "color": "#f1e05a"
     },
     "C++": {
-      "bytes": 2475891,
+      "bytes": 2480563,
       "color": "#f34b7d"
     },
     "Python": {
@@ -175,7 +175,7 @@
     "mhdawson": 122,
     "felixge": 124,
     "thefourtheye": 137,
-    "TimothyGu": 141,
+    "TimothyGu": 142,
     "sam-github": 142,
     "evanlucas": 148,
     "Fishrock123": 149,
@@ -183,7 +183,7 @@
     "MylesBorins": 185,
     "apapirovski": 193,
     "TooTallNate": 197,
-    "joyeecheung": 228,
+    "joyeecheung": 230,
     "targos": 279,
     "vsemozhetbyt": 278,
     "tjfontaine": 332,
@@ -193,7 +193,7 @@
     "danbev": 343,
     "trevnorris": 363,
     "cjihrig": 386,
-    "jasnell": 514,
+    "jasnell": 515,
     "piscisaureus": 598,
     "addaleax": 668,
     "indutny": 755,
@@ -574,7 +574,7 @@
     "tlhunter": 3,
     "Maledong": 5
   },
-  "fetched_at": "2018-08-18T09:21:29.983Z",
+  "fetched_at": "2018-08-18T20:09:07.121Z",
   "pulls_url": "https://api.github.com/repos/nodejs/node/pulls{/number}",
   "pulls_authors": [
     "mmarchini",

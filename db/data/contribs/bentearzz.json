@@ -1,6 +1,32 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
   "repos": {
+    "BenTearzz/MobilePayAlerts": {
+      "full_name": "BenTearzz/MobilePayAlerts",
+      "name": "MobilePayAlerts",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 15,
+      "activity": 5,
+      "total_score": 5,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "BenTearzz/FirefoxDiscordPresence": {
+      "full_name": "BenTearzz/FirefoxDiscordPresence",
+      "name": "FirefoxDiscordPresence",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 14,
+      "activity": 5,
+      "total_score": 5,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
     "BenTearzz/TwitchInteractiveLove2D": {
       "full_name": "BenTearzz/TwitchInteractiveLove2D",
       "name": "TwitchInteractiveLove2D",

@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/skyfielders/astronomy-notebooks",
   "languages_url": "https://api.github.com/repos/skyfielders/astronomy-notebooks/languages",
   "created_at": "2012-12-02T21:58:26Z",
-  "updated_at": "2018-08-17T10:37:59Z",
-  "pushed_at": "2018-08-17T10:37:56Z",
+  "updated_at": "2018-08-18T18:42:30Z",
+  "pushed_at": "2018-08-18T18:42:28Z",
   "homepage": null,
-  "size": 3998,
+  "size": 4006,
   "stargazers_count": 56,
   "language": "Jupyter Notebook",
   "mirror_url": null,
@@ -48,16 +48,16 @@
   },
   "languages": {
     "Jupyter Notebook": {
-      "bytes": 2367370,
+      "bytes": 1807550,
       "color": "#DA5B0B"
+    },
+    "JavaScript": {
+      "bytes": 6388,
+      "color": "#f1e05a"
     },
     "Python": {
       "bytes": 5148,
       "color": "#3572A5"
-    },
-    "JavaScript": {
-      "bytes": 4796,
-      "color": "#f1e05a"
     },
     "HTML": {
       "bytes": 2255,
@@ -82,9 +82,9 @@
     "aisipos": 4,
     "james-prior": 16,
     "velociraptors": 31,
-    "brandon-rhodes": 151
+    "brandon-rhodes": 153
   },
-  "fetched_at": "2018-08-17T11:57:06.143Z",
+  "fetched_at": "2018-08-18T20:05:53.527Z",
   "pulls_url": "https://api.github.com/repos/skyfielders/astronomy-notebooks/pulls{/number}",
   "pulls_authors": [
     "JoshPaterson",

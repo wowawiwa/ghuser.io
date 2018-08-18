@@ -69,13 +69,13 @@
     "probot/probot": {
       "full_name": "probot/probot",
       "name": "probot",
-      "stargazers_count": 3075,
-      "popularity": 4.487757078307971,
+      "stargazers_count": 3076,
+      "popularity": 4.487898330661774,
       "percentage": 0.11737089201877934,
       "maturity": 3.911345615720705,
       "total_commits_count": 852,
       "activity": 5,
-      "total_score": 26.35443763305312,
+      "total_score": 26.35486354537345,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -108,7 +108,7 @@
     "gogs/gogs": {
       "full_name": "gogs/gogs",
       "name": "gogs",
-      "stargazers_count": 26606,
+      "stargazers_count": 26610,
       "popularity": 5,
       "percentage": 0.02042483660130719,
       "maturity": 4.688023904362173,

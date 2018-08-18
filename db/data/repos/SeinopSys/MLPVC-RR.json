@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/SeinopSys/MLPVC-RR/languages",
   "pulls_url": "https://api.github.com/repos/SeinopSys/MLPVC-RR/pulls{/number}",
   "created_at": "2015-07-05T19:23:23Z",
-  "updated_at": "2018-08-17T21:01:13Z",
-  "pushed_at": "2018-08-17T21:01:11Z",
+  "updated_at": "2018-08-18T11:11:46Z",
+  "pushed_at": "2018-08-18T11:11:44Z",
   "homepage": "https://mlpvector.club/",
-  "size": 28459,
+  "size": 28519,
   "stargazers_count": 7,
   "language": "PHP",
   "mirror_url": null,
@@ -28,7 +28,7 @@
   },
   "default_branch": "master",
   "contributors": {
-    "SeinopSys": 2912
+    "SeinopSys": 2914
   },
   "pulls_authors": [
     "SeinopSys"
@@ -39,11 +39,11 @@
       "color": "#4F5D95"
     },
     "JavaScript": {
-      "bytes": 449821,
+      "bytes": 449825,
       "color": "#f1e05a"
     },
     "CSS": {
-      "bytes": 147687,
+      "bytes": 147723,
       "color": "#563d7c"
     },
     "HTML": {
@@ -59,5 +59,5 @@
       "color": "#dc566d"
     }
   },
-  "fetched_at": "2018-08-18T09:22:01.280Z"
+  "fetched_at": "2018-08-18T20:09:36.844Z"
 }

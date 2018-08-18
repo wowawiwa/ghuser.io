@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/jkcclemens/paste/languages",
   "pulls_url": "https://api.github.com/repos/jkcclemens/paste/pulls{/number}",
   "created_at": "2018-04-13T04:33:23Z",
-  "updated_at": "2018-08-17T18:12:54Z",
-  "pushed_at": "2018-08-17T18:12:53Z",
+  "updated_at": "2018-08-18T18:55:59Z",
+  "pushed_at": "2018-08-18T18:55:58Z",
   "homepage": "https://paste.gg/",
-  "size": 4777,
+  "size": 4895,
   "stargazers_count": 137,
   "language": "Rust",
   "mirror_url": null,
@@ -33,7 +33,7 @@
     "kashike": 2,
     "AKPWebDesign": 2,
     "lol768": 4,
-    "jkcclemens": 498
+    "jkcclemens": 504
   },
   "pulls_authors": [
     "kashike",
@@ -45,7 +45,7 @@
   ],
   "languages": {
     "Rust": {
-      "bytes": 256996,
+      "bytes": 260457,
       "color": "#dea584"
     },
     "JavaScript": {
@@ -53,7 +53,7 @@
       "color": "#f1e05a"
     },
     "CSS": {
-      "bytes": 10368,
+      "bytes": 10426,
       "color": "#563d7c"
     },
     "Shell": {
@@ -77,5 +77,5 @@
       "color": "#dad8d8"
     }
   },
-  "fetched_at": "2018-08-18T09:17:09.054Z"
+  "fetched_at": "2018-08-18T20:04:42.402Z"
 }
