@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/openSUSE/zypper/languages",
   "pulls_url": "https://api.github.com/repos/openSUSE/zypper/pulls{/number}",
   "created_at": "2011-07-29T10:21:40Z",
-  "updated_at": "2018-08-16T12:20:15Z",
-  "pushed_at": "2018-08-16T12:20:12Z",
+  "updated_at": "2018-08-19T11:02:24Z",
+  "pushed_at": "2018-08-19T11:02:20Z",
   "homepage": "http://en.opensuse.org/Portal:Zypper",
-  "size": 443327,
+  "size": 443507,
   "stargazers_count": 122,
   "language": "C++",
   "mirror_url": null,
@@ -97,7 +97,7 @@
     "Soulofdestiny": 2,
     "javierllorente": 3,
     "xixirei": 3,
-    "Legisign": 3,
+    "Legisign": 4,
     "wsxy162": 3,
     "vmoutoussamy": 3,
     "honyczek": 3,
@@ -203,5 +203,5 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-08-16T19:18:05.854Z"
+  "fetched_at": "2018-08-19T18:20:18.526Z"
 }

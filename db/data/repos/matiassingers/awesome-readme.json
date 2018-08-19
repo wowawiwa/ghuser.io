@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/matiassingers/awesome-readme",
   "languages_url": "https://api.github.com/repos/matiassingers/awesome-readme/languages",
   "created_at": "2015-01-19T06:15:03Z",
-  "updated_at": "2018-08-18T18:09:09Z",
-  "pushed_at": "2018-08-10T23:20:30Z",
+  "updated_at": "2018-08-19T11:50:47Z",
+  "pushed_at": "2018-08-19T11:57:33Z",
   "homepage": null,
   "size": 113,
-  "stargazers_count": 2933,
+  "stargazers_count": 2935,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -60,7 +60,7 @@
     "waldyrious": 1,
     "sr6033": 1
   },
-  "fetched_at": "2018-08-18T20:09:41.008Z",
+  "fetched_at": "2018-08-19T18:17:28.536Z",
   "pulls_url": "https://api.github.com/repos/matiassingers/awesome-readme/pulls{/number}",
   "pulls_authors": [
     "jhabdas",
@@ -116,6 +116,7 @@
     "igorantun",
     "makotot",
     "aimeos",
-    "sergey48k"
+    "sergey48k",
+    "alichtman"
   ]
 }

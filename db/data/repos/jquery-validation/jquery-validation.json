@@ -188,7 +188,9 @@
     "wozzo": 1,
     "stefanb": 1,
     "lopezcjf": 1,
-    "magware": 1
+    "magware": 1,
+    "ajaysinghj8": 1,
+    "Hookyns": 1
   },
   "name": "jquery-validation",
   "full_name": "jquery-validation/jquery-validation",
@@ -200,10 +202,10 @@
   "url": "https://api.github.com/repos/jquery-validation/jquery-validation",
   "languages_url": "https://api.github.com/repos/jquery-validation/jquery-validation/languages",
   "created_at": "2010-05-05T13:40:20Z",
-  "updated_at": "2018-08-19T05:27:17Z",
-  "pushed_at": "2018-08-13T08:54:46Z",
+  "updated_at": "2018-08-19T12:31:16Z",
+  "pushed_at": "2018-08-19T12:31:09Z",
   "homepage": "https://jqueryvalidation.org/",
-  "size": 7661,
+  "size": 7647,
   "stargazers_count": 8923,
   "language": "JavaScript",
   "mirror_url": null,
@@ -238,7 +240,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 481084,
+      "bytes": 481216,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -246,7 +248,7 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-08-19T07:32:11.111Z",
+  "fetched_at": "2018-08-19T18:18:50.625Z",
   "pulls_url": "https://api.github.com/repos/jquery-validation/jquery-validation/pulls{/number}",
   "pulls_authors": [
     "Hookyns",

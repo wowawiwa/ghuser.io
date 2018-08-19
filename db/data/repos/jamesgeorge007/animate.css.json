@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/jamesgeorge007/animate.css",
   "languages_url": "https://api.github.com/repos/jamesgeorge007/animate.css/languages",
   "created_at": "2018-02-25T06:25:16Z",
-  "updated_at": "2018-07-21T15:16:47Z",
-  "pushed_at": "2018-07-21T15:16:42Z",
+  "updated_at": "2018-08-19T13:13:29Z",
+  "pushed_at": "2018-08-19T13:13:15Z",
   "homepage": "http://daneden.github.io/animate.css",
-  "size": 671,
+  "size": 725,
   "stargazers_count": 1,
   "language": "CSS",
   "mirror_url": null,
@@ -28,7 +28,7 @@
   "default_branch": "master",
   "contributors": {
     "Calerme": 1,
-    "WarenGonzaga": 1,
+    "WarenGonzaga": 2,
     "m1guelpf": 1,
     "zhufengpeixun": 1,
     "PeterDaveHello": 1,
@@ -113,19 +113,22 @@
     "procodeing": 8,
     "woneob": 10,
     "suissa": 42,
-    "daneden": 100
+    "daneden": 101,
+    "marcysutton": 1
   },
   "languages": {
     "CSS": {
-      "bytes": 24512,
+      "bytes": 24820,
       "color": "#563d7c"
     },
     "JavaScript": {
-      "bytes": 2571,
+      "bytes": 2595,
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-07-22T16:49:45.098Z",
+  "fetched_at": "2018-08-19T18:20:00.660Z",
   "pulls_url": "https://api.github.com/repos/jamesgeorge007/animate.css/pulls{/number}",
-  "pulls_authors": []
+  "pulls_authors": [
+    "jamesgeorge007"
+  ]
 }

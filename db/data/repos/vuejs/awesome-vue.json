@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/vuejs/awesome-vue",
   "languages_url": "https://api.github.com/repos/vuejs/awesome-vue/languages",
   "created_at": "2015-10-20T00:16:14Z",
-  "updated_at": "2018-08-19T06:29:14Z",
-  "pushed_at": "2018-08-15T21:07:05Z",
+  "updated_at": "2018-08-19T16:55:18Z",
+  "pushed_at": "2018-08-19T08:43:21Z",
   "homepage": "",
   "size": 3114,
-  "stargazers_count": 36472,
+  "stargazers_count": 36486,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -532,10 +532,11 @@
     "PNKBizz": 2,
     "alexiscolin": 1,
     "mengdu": 2,
-    "manju16832003": 2
+    "manju16832003": 2,
+    "darthmeme": 1
   },
   "languages": {},
-  "fetched_at": "2018-08-19T07:31:51.662Z",
+  "fetched_at": "2018-08-19T18:18:32.335Z",
   "pulls_url": "https://api.github.com/repos/vuejs/awesome-vue/pulls{/number}",
   "pulls_authors": [
     "mengdu",
@@ -1848,6 +1849,7 @@
     "Lt0",
     "alexiscolin",
     "manju16832003",
-    "jonobr1"
+    "jonobr1",
+    "manjufy"
   ]
 }

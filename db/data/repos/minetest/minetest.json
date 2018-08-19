@@ -98,7 +98,7 @@
     "ShadowNinja": 262,
     "est31": 278,
     "kwolekr": 461,
-    "paramat": 423,
+    "paramat": 424,
     "nerzhul": 519,
     "celeron55": 1724,
     "kilbith": 44,
@@ -337,11 +337,11 @@
   "url": "https://api.github.com/repos/minetest/minetest",
   "languages_url": "https://api.github.com/repos/minetest/minetest/languages",
   "created_at": "2011-08-07T13:48:36Z",
-  "updated_at": "2018-08-18T20:43:31Z",
-  "pushed_at": "2018-08-19T00:15:44Z",
+  "updated_at": "2018-08-19T18:04:42Z",
+  "pushed_at": "2018-08-19T18:04:18Z",
   "homepage": "http://minetest.net/",
   "size": 58924,
-  "stargazers_count": 3389,
+  "stargazers_count": 3392,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -415,7 +415,7 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-08-19T07:32:02.789Z",
+  "fetched_at": "2018-08-19T18:18:42.424Z",
   "pulls_url": "https://api.github.com/repos/minetest/minetest/pulls{/number}",
   "pulls_authors": [
     "hecktest",

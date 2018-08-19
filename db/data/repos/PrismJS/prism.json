@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/PrismJS/prism",
   "languages_url": "https://api.github.com/repos/PrismJS/prism/languages",
   "created_at": "2012-07-10T19:47:14Z",
-  "updated_at": "2018-08-18T20:05:04Z",
-  "pushed_at": "2018-08-18T20:04:52Z",
+  "updated_at": "2018-08-19T16:18:11Z",
+  "pushed_at": "2018-08-19T17:54:20Z",
   "homepage": "http://prismjs.com",
-  "size": 4919,
+  "size": 4945,
   "stargazers_count": 5620,
   "language": "JavaScript",
   "mirror_url": null,
@@ -48,15 +48,15 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 407814,
+      "bytes": 408102,
       "color": "#f1e05a"
     },
     "HTML": {
-      "bytes": 134024,
+      "bytes": 134063,
       "color": "#e34c26"
     },
     "CSS": {
-      "bytes": 36685,
+      "bytes": 36686,
       "color": "#563d7c"
     },
     "C": {
@@ -163,7 +163,7 @@
     "wayward710": 9,
     "Conaclos": 9,
     "westonganger": 12,
-    "valtlai": 11,
+    "valtlai": 12,
     "ravinggenius": 11,
     "tshedor": 14,
     "mAAdhaTTah": 27,
@@ -278,10 +278,11 @@
     "ZhouHansen": 1,
     "Shivang44": 1,
     "jcubic": 1,
-    "RunDevelopment": 2,
-    "vizjerai": 1
+    "RunDevelopment": 11,
+    "vizjerai": 1,
+    "tomayac": 1
   },
-  "fetched_at": "2018-08-18T20:05:53.265Z",
+  "fetched_at": "2018-08-19T18:18:21.835Z",
   "pulls_url": "https://api.github.com/repos/PrismJS/prism/pulls{/number}",
   "pulls_authors": [
     "RunDevelopment",

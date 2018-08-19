@@ -53,6 +53,19 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
+    "p-society/meta": {
+      "full_name": "p-society/meta",
+      "name": "meta",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 5,
+      "total_score": 5,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
     "palash25/awesome-campus-ambassadors": {
       "full_name": "palash25/awesome-campus-ambassadors",
       "name": "awesome-campus-ambassadors",
@@ -238,11 +251,11 @@
     "nodejs/node": {
       "full_name": "nodejs/node",
       "name": "node",
-      "stargazers_count": 52382,
+      "stargazers_count": 52401,
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,
-      "total_commits_count": 20810,
+      "total_commits_count": 20812,
       "activity": 5,
       "total_score": 30,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
@@ -264,13 +277,13 @@
     "ethereum/web3.py": {
       "full_name": "ethereum/web3.py",
       "name": "web3.py",
-      "stargazers_count": 997,
-      "popularity": 3.9983420248278216,
+      "stargazers_count": 998,
+      "popularity": 3.998777800989034,
       "percentage": 0.06234413965087282,
       "maturity": 4.19600072384617,
       "total_commits_count": 1604,
       "activity": 5,
-      "total_score": 25.419433037339623,
+      "total_score": 25.42074389767494,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -394,7 +407,7 @@
     "sdmg15/Best-websites-a-programmer-should-visit": {
       "full_name": "sdmg15/Best-websites-a-programmer-should-visit",
       "name": "Best-websites-a-programmer-should-visit",
-      "stargazers_count": 22414,
+      "stargazers_count": 22419,
       "popularity": 5,
       "percentage": 0.14184397163120568,
       "maturity": 3.8246230059037236,
@@ -459,13 +472,13 @@
     "OpenGenus/cosmos": {
       "full_name": "OpenGenus/cosmos",
       "name": "cosmos",
-      "stargazers_count": 9526,
-      "popularity": 4.978908632088759,
+      "stargazers_count": 9530,
+      "popularity": 4.979090972775303,
       "percentage": 0.05593623269472801,
       "maturity": 4.853673080200397,
       "total_commits_count": 7151,
       "activity": 5,
-      "total_score": 29.68027723760241,
+      "total_score": 29.680825585590682,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

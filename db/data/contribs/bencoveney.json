@@ -121,13 +121,13 @@
     "Microsoft/vscode-docs": {
       "full_name": "Microsoft/vscode-docs",
       "name": "vscode-docs",
-      "stargazers_count": 1442,
-      "popularity": 4.158733204118839,
+      "stargazers_count": 1441,
+      "popularity": 4.158431736326214,
       "percentage": 0.0135666802333469,
       "maturity": 4.866905438520862,
       "total_commits_count": 7371,
       "activity": 5,
-      "total_score": 27.21734511586053,
+      "total_score": 27.21644018079343,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -186,13 +186,13 @@
     "palantir/tslint": {
       "full_name": "palantir/tslint",
       "name": "tslint",
-      "stargazers_count": 3784,
-      "popularity": 4.577886908921858,
+      "stargazers_count": 3786,
+      "popularity": 4.578116445399777,
       "percentage": 0.20458265139116202,
       "maturity": 4.382688774979947,
       "total_commits_count": 2444,
       "activity": 5,
-      "total_score": 27.620790588132962,
+      "total_score": 27.621485302260282,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -238,7 +238,7 @@
     "DefinitelyTyped/DefinitelyTyped": {
       "full_name": "DefinitelyTyped/DefinitelyTyped",
       "name": "DefinitelyTyped",
-      "stargazers_count": 16982,
+      "stargazers_count": 16987,
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,

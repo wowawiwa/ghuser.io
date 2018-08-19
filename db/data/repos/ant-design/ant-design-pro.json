@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/ant-design/ant-design-pro",
   "languages_url": "https://api.github.com/repos/ant-design/ant-design-pro/languages",
   "created_at": "2017-08-25T10:40:44Z",
-  "updated_at": "2018-08-19T06:09:42Z",
-  "pushed_at": "2018-08-19T06:09:38Z",
+  "updated_at": "2018-08-19T10:15:18Z",
+  "pushed_at": "2018-08-19T15:46:28Z",
   "homepage": "http://pro.ant.design/",
-  "size": 26349,
-  "stargazers_count": 11474,
+  "size": 26350,
+  "stargazers_count": 11478,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -118,7 +118,7 @@
     "ddcat1115": 82,
     "chenshuai2144": 112,
     "nikogu": 142,
-    "afc163": 328,
+    "afc163": 329,
     "lfarroco": 1,
     "eruca": 1,
     "gentlecoder": 1,
@@ -132,7 +132,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 332898,
+      "bytes": 332905,
       "color": "#f1e05a"
     },
     "CSS": {
@@ -148,7 +148,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-19T07:35:19.952Z",
+  "fetched_at": "2018-08-19T18:21:58.190Z",
   "pulls_url": "https://api.github.com/repos/ant-design/ant-design-pro/pulls{/number}",
   "pulls_authors": [
     "Puuuudding",
