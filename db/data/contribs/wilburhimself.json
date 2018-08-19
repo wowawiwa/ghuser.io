@@ -112,7 +112,7 @@
       "popularity": 4.817346580693998,
       "percentage": 0,
       "maturity": 5,
-      "total_commits_count": 54313,
+      "total_commits_count": 54321,
       "activity": 5,
       "total_score": 29.452039742081993,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
@@ -121,7 +121,7 @@
     "EbookFoundation/free-programming-books": {
       "full_name": "EbookFoundation/free-programming-books",
       "name": "free-programming-books",
-      "stargazers_count": 110040,
+      "stargazers_count": 110064,
       "popularity": 5,
       "percentage": 0,
       "maturity": 4.586304937751339,
@@ -225,7 +225,7 @@
     "bcit-ci/CodeIgniter": {
       "full_name": "bcit-ci/CodeIgniter",
       "name": "CodeIgniter",
-      "stargazers_count": 16429,
+      "stargazers_count": 16428,
       "popularity": 5,
       "percentage": 0,
       "maturity": 4.886197458714948,

@@ -263,11 +263,11 @@
   "url": "https://api.github.com/repos/bolt/bolt",
   "languages_url": "https://api.github.com/repos/bolt/bolt/languages",
   "created_at": "2012-06-14T16:07:54Z",
-  "updated_at": "2018-08-17T23:47:38Z",
-  "pushed_at": "2018-08-18T09:05:57Z",
+  "updated_at": "2018-08-19T05:47:08Z",
+  "pushed_at": "2018-08-18T13:53:19Z",
   "homepage": "",
-  "size": 79085,
-  "stargazers_count": 3744,
+  "size": 79193,
+  "stargazers_count": 3743,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -321,7 +321,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-18T09:18:47.624Z",
+  "fetched_at": "2018-08-19T07:32:08.912Z",
   "pulls_url": "https://api.github.com/repos/bolt/bolt/pulls{/number}",
   "pulls_authors": [
     "bobdenotter",

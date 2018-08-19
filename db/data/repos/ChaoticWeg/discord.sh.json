@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/ChaoticWeg/discord.sh/languages",
   "pulls_url": "https://api.github.com/repos/ChaoticWeg/discord.sh/pulls{/number}",
   "created_at": "2018-08-12T05:36:13Z",
-  "updated_at": "2018-08-18T18:44:02Z",
-  "pushed_at": "2018-08-18T14:06:34Z",
+  "updated_at": "2018-08-19T03:12:57Z",
+  "pushed_at": "2018-08-19T03:12:55Z",
   "homepage": "https://chaoticweg.cc/discord.sh/",
-  "size": 153,
-  "stargazers_count": 18,
+  "size": 166,
+  "stargazers_count": 21,
   "language": "Shell",
   "mirror_url": null,
   "archived": false,
@@ -28,15 +28,15 @@
   },
   "default_branch": "master",
   "contributors": {
-    "ChaoticWeg": 56,
-    "NurdTurd": 35
+    "ChaoticWeg": 60,
+    "NurdTurd": 38
   },
   "pulls_authors": [
     "NurdTurd"
   ],
   "languages": {
     "Shell": {
-      "bytes": 12174,
+      "bytes": 13253,
       "color": "#89e051"
     },
     "Makefile": {
@@ -44,5 +44,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-18T20:09:01.518Z"
+  "fetched_at": "2018-08-19T07:34:45.010Z"
 }

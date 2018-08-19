@@ -53,18 +53,18 @@
   "url": "https://api.github.com/repos/coinpride/CryptoList",
   "languages_url": "https://api.github.com/repos/coinpride/CryptoList/languages",
   "created_at": "2017-09-07T15:38:09Z",
-  "updated_at": "2018-08-16T16:50:32Z",
-  "pushed_at": "2018-08-14T11:18:14Z",
+  "updated_at": "2018-08-19T05:54:45Z",
+  "pushed_at": "2018-08-18T21:19:27Z",
   "homepage": "",
   "size": 1504,
-  "stargazers_count": 2541,
+  "stargazers_count": 2542,
   "language": null,
   "mirror_url": null,
   "archived": false,
   "license": null,
   "default_branch": "master",
   "languages": {},
-  "fetched_at": "2018-08-16T19:16:18.110Z",
+  "fetched_at": "2018-08-19T07:32:01.356Z",
   "pulls_url": "https://api.github.com/repos/coinpride/CryptoList/pulls{/number}",
   "pulls_authors": [
     "ErikThiart",
@@ -192,6 +192,7 @@
     "Casinelli",
     "cherrywins",
     "stemberamichal",
-    "lovincyrus"
+    "lovincyrus",
+    "d-pike"
   ]
 }

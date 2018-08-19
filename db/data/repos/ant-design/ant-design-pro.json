@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/ant-design/ant-design-pro",
   "languages_url": "https://api.github.com/repos/ant-design/ant-design-pro/languages",
   "created_at": "2017-08-25T10:40:44Z",
-  "updated_at": "2018-08-18T13:00:06Z",
-  "pushed_at": "2018-08-18T04:03:15Z",
+  "updated_at": "2018-08-19T06:09:42Z",
+  "pushed_at": "2018-08-19T06:09:38Z",
   "homepage": "http://pro.ant.design/",
-  "size": 26332,
-  "stargazers_count": 11471,
+  "size": 26349,
+  "stargazers_count": 11474,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -114,7 +114,7 @@
     "AlanWei": 5,
     "valleykid": 6,
     "WhatAKitty": 11,
-    "yoyo837": 17,
+    "yoyo837": 22,
     "ddcat1115": 82,
     "chenshuai2144": 112,
     "nikogu": 142,
@@ -123,15 +123,16 @@
     "eruca": 1,
     "gentlecoder": 1,
     "jaredleechn": 3,
-    "KJlmfe": 3,
+    "KJlmfe": 4,
     "cipchk": 1,
     "chenyunchen": 1,
     "iwizy": 3,
-    "jeffhtli": 1
+    "jeffhtli": 1,
+    "rohrbachan": 1
   },
   "languages": {
     "JavaScript": {
-      "bytes": 332488,
+      "bytes": 332898,
       "color": "#f1e05a"
     },
     "CSS": {
@@ -147,7 +148,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-18T20:09:34.539Z",
+  "fetched_at": "2018-08-19T07:35:19.952Z",
   "pulls_url": "https://api.github.com/repos/ant-design/ant-design-pro/pulls{/number}",
   "pulls_authors": [
     "Puuuudding",
