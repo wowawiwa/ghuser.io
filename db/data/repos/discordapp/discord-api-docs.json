@@ -11,8 +11,8 @@
   "languages_url": "https://api.github.com/repos/discordapp/discord-api-docs/languages",
   "pulls_url": "https://api.github.com/repos/discordapp/discord-api-docs/pulls{/number}",
   "created_at": "2016-03-29T17:11:53Z",
-  "updated_at": "2018-08-19T21:18:00Z",
-  "pushed_at": "2018-08-18T08:03:58Z",
+  "updated_at": "2018-08-20T11:33:06Z",
+  "pushed_at": "2018-08-20T11:33:04Z",
   "homepage": "",
   "size": 34430,
   "stargazers_count": 1014,
@@ -151,7 +151,8 @@
     "ikkerens": 1,
     "skippi": 1,
     "kashike": 1,
-    "theGordHoard": 1
+    "theGordHoard": 1,
+    "qaisjp": 1
   },
   "pulls_authors": [
     "qaisjp",
@@ -297,5 +298,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-20T04:37:49.596Z"
+  "fetched_at": "2018-08-20T12:19:39.857Z"
 }

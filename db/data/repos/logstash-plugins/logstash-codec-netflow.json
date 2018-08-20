@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/logstash-plugins/logstash-codec-netflow",
   "languages_url": "https://api.github.com/repos/logstash-plugins/logstash-codec-netflow/languages",
   "created_at": "2014-09-30T12:16:06Z",
-  "updated_at": "2018-08-19T08:32:43Z",
-  "pushed_at": "2018-08-19T08:32:41Z",
+  "updated_at": "2018-08-20T06:32:47Z",
+  "pushed_at": "2018-08-20T06:32:45Z",
   "homepage": null,
   "size": 316,
-  "stargazers_count": 66,
+  "stargazers_count": 67,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "Ruby": {
-      "bytes": 158285,
+      "bytes": 158286,
       "color": "#701516"
     },
     "Python": {
@@ -63,7 +63,7 @@
   "contributors": {
     "robcowart": 1,
     "kesslerm": 1,
-    "abeeson": 2,
+    "abeeson": 3,
     "advt": 1,
     "andrewvc": 1,
     "jakelandis": 1,
@@ -84,7 +84,7 @@
     "ph": 40,
     "jorritfolmer": 77
   },
-  "fetched_at": "2018-08-19T18:20:38.596Z",
+  "fetched_at": "2018-08-20T12:18:03.808Z",
   "pulls_url": "https://api.github.com/repos/logstash-plugins/logstash-codec-netflow/pulls{/number}",
   "pulls_authors": [
     "jorritfolmer",

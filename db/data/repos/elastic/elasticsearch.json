@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/elastic/elasticsearch",
   "languages_url": "https://api.github.com/repos/elastic/elasticsearch/languages",
   "created_at": "2010-02-08T13:20:56Z",
-  "updated_at": "2018-08-20T04:30:11Z",
-  "pushed_at": "2018-08-20T02:23:17Z",
+  "updated_at": "2018-08-20T10:47:13Z",
+  "pushed_at": "2018-08-20T12:10:27Z",
   "homepage": "https://www.elastic.co/products/elasticsearch",
-  "size": 503606,
-  "stargazers_count": 33586,
+  "size": 503706,
+  "stargazers_count": 33594,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "Java": {
-      "bytes": 68925882,
+      "bytes": 68926513,
       "color": "#b07219"
     },
     "Groovy": {
-      "bytes": 421864,
+      "bytes": 420271,
       "color": "#e69f56"
     },
     "Shell": {
@@ -93,7 +93,7 @@
     }
   },
   "contributors": {
-    "bizybot": 19,
+    "bizybot": 20,
     "tsullivan": 103,
     "ppf2": 12,
     "eskibars": 15,
@@ -119,7 +119,7 @@
     "ycombinator": 67,
     "vladimirdolzhenko": 23,
     "romseygeek": 21,
-    "atorok": 40,
+    "atorok": 42,
     "nlalevee": 18,
     "mayya-sharipova": 24,
     "spalger": 26,
@@ -174,13 +174,13 @@
     "ywelsch": 498,
     "lcawl": 465,
     "uboness": 456,
-    "colings86": 677,
+    "colings86": 678,
     "dakrone": 720,
     "imotov": 660,
     "tlrx": 690,
     "cbuescher": 990,
     "jaymode": 813,
-    "spinscale": 873,
+    "spinscale": 874,
     "rmuir": 1256,
     "clintongormley": 1088,
     "bleskes": 1094,
@@ -334,7 +334,7 @@
     "NDevox": 3,
     "andrejserafim": 3,
     "gameldar": 3,
-    "rationull": 5,
+    "rationull": 6,
     "Nomadzy": 2,
     "atecle": 2,
     "alexbrasetvik": 2,
@@ -470,7 +470,7 @@
     "andrershov": 3,
     "edsavage": 5
   },
-  "fetched_at": "2018-08-20T04:36:21.896Z",
+  "fetched_at": "2018-08-20T12:18:00.651Z",
   "pulls_url": "https://api.github.com/repos/elastic/elasticsearch/pulls{/number}",
   "pulls_authors": [
     "benwtrent",
@@ -2295,6 +2295,7 @@
     "edgeman",
     "delvedor",
     "C0FFEEC0FFEE",
-    "chernecov"
+    "chernecov",
+    "iverase"
   ]
 }

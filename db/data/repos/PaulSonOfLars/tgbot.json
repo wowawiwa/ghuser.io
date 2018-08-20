@@ -1,0 +1,71 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tgbot",
+  "full_name": "PaulSonOfLars/tgbot",
+  "owner": "PaulSonOfLars",
+  "private": false,
+  "html_url": "https://github.com/PaulSonOfLars/tgbot",
+  "description": "Modular telegram group management bot",
+  "fork": false,
+  "url": "https://api.github.com/repos/PaulSonOfLars/tgbot",
+  "languages_url": "https://api.github.com/repos/PaulSonOfLars/tgbot/languages",
+  "pulls_url": "https://api.github.com/repos/PaulSonOfLars/tgbot/pulls{/number}",
+  "created_at": "2017-07-31T18:44:57Z",
+  "updated_at": "2018-08-20T07:10:38Z",
+  "pushed_at": "2018-08-15T23:32:42Z",
+  "homepage": "",
+  "size": 688,
+  "stargazers_count": 71,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "1maverick1": 1,
+    "skittles9823": 1,
+    "anirudhgupta109": 1,
+    "ATechnoHazard": 1,
+    "Rohk25": 1,
+    "MSF-Jarvis": 1,
+    "julianodorneles": 2,
+    "TermoZour": 3,
+    "PaulSonOfLars": 473
+  },
+  "pulls_authors": [
+    "D30N",
+    "SpEcHiDe",
+    "iMusynx",
+    "kbprashant",
+    "julianodorneles",
+    "shanuflash",
+    "ATechnoHazard",
+    "AyraHikari",
+    "Shabier",
+    "garciaw",
+    "deletescape",
+    "1maverick1",
+    "merothh",
+    "anirudhgupta109",
+    "ghost",
+    "SanchithHegde",
+    "skittles9823",
+    "TermoZour",
+    "krypticallusion",
+    "Rohk25",
+    "MSF-Jarvis"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 319118,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-20T12:16:19.715Z"
+}

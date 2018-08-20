@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/WeblateOrg/weblate/languages",
   "pulls_url": "https://api.github.com/repos/WeblateOrg/weblate/pulls{/number}",
   "created_at": "2012-02-27T09:33:29Z",
-  "updated_at": "2018-08-19T20:13:10Z",
-  "pushed_at": "2018-08-20T02:41:57Z",
+  "updated_at": "2018-08-20T09:47:10Z",
+  "pushed_at": "2018-08-20T10:54:32Z",
   "homepage": "https://weblate.org/",
-  "size": 154997,
+  "size": 155086,
   "stargazers_count": 1111,
   "language": "Python",
   "mirror_url": null,
@@ -147,7 +147,7 @@
     "ruleant": 502,
     "BouRock": 760,
     "franconian": 1120,
-    "nijel": 15594,
+    "nijel": 15606,
     "lukakama": 12,
     "pjcaldeira": 7,
     "glensc": 7,
@@ -505,7 +505,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 2435066,
+      "bytes": 2438116,
       "color": "#3572A5"
     },
     "JavaScript": {
@@ -513,7 +513,7 @@
       "color": "#f1e05a"
     },
     "HTML": {
-      "bytes": 276144,
+      "bytes": 276667,
       "color": "#e34c26"
     },
     "CSS": {
@@ -537,5 +537,5 @@
       "color": "#4F5D95"
     }
   },
-  "fetched_at": "2018-08-20T04:36:02.310Z"
+  "fetched_at": "2018-08-20T12:17:38.756Z"
 }

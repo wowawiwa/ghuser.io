@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/wikimedia/pywikibot/languages",
   "pulls_url": "https://api.github.com/repos/wikimedia/pywikibot/pulls{/number}",
   "created_at": "2013-06-19T16:18:45Z",
-  "updated_at": "2018-08-19T21:18:27Z",
-  "pushed_at": "2018-08-19T21:18:26Z",
+  "updated_at": "2018-08-20T06:19:48Z",
+  "pushed_at": "2018-08-20T06:19:45Z",
   "homepage": "https://doc.wikimedia.org/pywikibot/",
-  "size": 40738,
+  "size": 40742,
   "stargazers_count": 244,
   "language": "Python",
   "mirror_url": null,
@@ -140,7 +140,7 @@
     "dvorapa": 77,
     "matejsuchanek": 106,
     "Ladsgroup": 125,
-    "translatewiki": 132,
+    "translatewiki": 133,
     "ricordisamoa": 134,
     "legoktm": 210,
     "5j9": 311,
@@ -232,5 +232,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-08-20T04:35:53.700Z"
+  "fetched_at": "2018-08-20T12:17:29.606Z"
 }

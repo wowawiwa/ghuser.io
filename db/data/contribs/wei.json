@@ -69,13 +69,13 @@
     "probot/probot": {
       "full_name": "probot/probot",
       "name": "probot",
-      "stargazers_count": 3078,
-      "popularity": 4.488180697618942,
+      "stargazers_count": 3081,
+      "popularity": 4.488603904125997,
       "percentage": 0.11723329425556858,
       "maturity": 3.911880066557476,
       "total_commits_count": 853,
       "activity": 5,
-      "total_score": 26.356703573063275,
+      "total_score": 26.357979642390525,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -108,7 +108,7 @@
     "gogs/gogs": {
       "full_name": "gogs/gogs",
       "name": "gogs",
-      "stargazers_count": 26622,
+      "stargazers_count": 26633,
       "popularity": 5,
       "percentage": 0.02042483660130719,
       "maturity": 4.688023904362173,
@@ -277,13 +277,13 @@
     "EventSource/eventsource": {
       "full_name": "EventSource/eventsource",
       "name": "eventsource",
-      "stargazers_count": 312,
-      "popularity": 3.4929390871978834,
+      "stargazers_count": 313,
+      "popularity": 3.4943328447947692,
       "percentage": 0,
       "maturity": 3.294213028619176,
       "total_commits_count": 236,
       "activity": 5,
-      "total_score": 22.067243318832002,
+      "total_score": 22.07142459162266,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

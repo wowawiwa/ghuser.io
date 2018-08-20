@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/js-org/js.org",
   "languages_url": "https://api.github.com/repos/js-org/js.org/languages",
   "created_at": "2015-04-08T01:43:18Z",
-  "updated_at": "2018-08-20T04:26:18Z",
-  "pushed_at": "2018-08-20T03:44:26Z",
+  "updated_at": "2018-08-20T10:14:58Z",
+  "pushed_at": "2018-08-20T12:00:00Z",
   "homepage": "https://js.org",
-  "size": 2827,
-  "stargazers_count": 1838,
+  "size": 2927,
+  "stargazers_count": 1840,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -141,7 +141,7 @@
     "tannerlinsley": 15,
     "pakastin": 16,
     "egoist": 16,
-    "indus": 1866,
+    "indus": 1869,
     "ccrraaiigg": 3,
     "danieljuarezp": 3,
     "dhruvdutt": 3,
@@ -500,15 +500,16 @@
     "zhaomenghuan": 2,
     "QuantumlyTangled": 3,
     "OrdinaryJellyfish": 9,
-    "troch": 2
+    "troch": 2,
+    "bestony": 1
   },
   "languages": {
     "JavaScript": {
-      "bytes": 83570,
+      "bytes": 83693,
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-20T04:33:57.054Z",
+  "fetched_at": "2018-08-20T12:14:59.073Z",
   "pulls_url": "https://api.github.com/repos/js-org/js.org/pulls{/number}",
   "pulls_authors": [
     "ChandZhang",
@@ -1878,6 +1879,7 @@
     "OrdinaryJellyfish",
     "bestony",
     "iqbalfasri",
-    "bachors"
+    "bachors",
+    "mauris"
   ]
 }

@@ -56,16 +56,16 @@
     "StraToN": 33,
     "Max-Might": 37,
     "Ovnuniarchos": 35,
-    "AlexHolly": 37,
+    "AlexHolly": 38,
     "Calinou": 56,
     "kubecz3k": 46,
     "willnationsdev": 48,
     "NathanWarden": 42,
     "adolson": 46,
-    "Zylann": 47,
+    "Zylann": 48,
     "bruvzg": 48,
     "J08nY": 48,
-    "Chaosus": 64,
+    "Chaosus": 66,
     "touilleMan": 50,
     "hurikhan": 66,
     "leezh": 56,
@@ -83,7 +83,7 @@
     "BastiaanOlij": 94,
     "groud": 145,
     "toger5": 101,
-    "hpvb": 163,
+    "hpvb": 164,
     "poke1024": 118,
     "marcelofg55": 138,
     "marynate": 118,
@@ -99,7 +99,7 @@
     "Hinsbart": 303,
     "neikeq": 358,
     "volzhs": 297,
-    "akien-mga": 4806,
+    "akien-mga": 4816,
     "reduz": 2823,
     "cbscribe": 39,
     "Spooner": 16,
@@ -108,7 +108,7 @@
     "KidRigger": 9,
     "cart": 9,
     "capnm": 9,
-    "dragmz": 19,
+    "dragmz": 20,
     "QuLogic": 8,
     "MattUV": 8,
     "ricpelo": 8,
@@ -431,11 +431,11 @@
   "url": "https://api.github.com/repos/godotengine/godot",
   "languages_url": "https://api.github.com/repos/godotengine/godot/languages",
   "created_at": "2014-01-04T16:05:36Z",
-  "updated_at": "2018-08-20T04:06:16Z",
-  "pushed_at": "2018-08-20T03:29:47Z",
+  "updated_at": "2018-08-20T12:11:16Z",
+  "pushed_at": "2018-08-20T11:56:43Z",
   "homepage": "https://godotengine.org",
-  "size": 257430,
-  "stargazers_count": 16254,
+  "size": 257474,
+  "stargazers_count": 16258,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -469,7 +469,7 @@
   },
   "languages": {
     "C++": {
-      "bytes": 21230811,
+      "bytes": 21235491,
       "color": "#f34b7d"
     },
     "Java": {
@@ -477,7 +477,7 @@
       "color": "#b07219"
     },
     "Python": {
-      "bytes": 336166,
+      "bytes": 336215,
       "color": "#3572A5"
     },
     "C#": {
@@ -513,7 +513,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-20T04:34:22.000Z",
+  "fetched_at": "2018-08-20T12:15:28.937Z",
   "pulls_url": "https://api.github.com/repos/godotengine/godot/pulls{/number}",
   "pulls_authors": [
     "Calinou",
@@ -1406,6 +1406,7 @@
     "quendera",
     "neonsoup",
     "pgruenbacher",
-    "JPTeasdale"
+    "JPTeasdale",
+    "jmca"
   ]
 }
