@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/Netflix/chaosmonkey",
   "languages_url": "https://api.github.com/repos/Netflix/chaosmonkey/languages",
   "created_at": "2016-10-18T22:36:41Z",
-  "updated_at": "2018-08-19T15:42:40Z",
+  "updated_at": "2018-08-20T02:41:37Z",
   "pushed_at": "2018-08-08T16:59:55Z",
   "homepage": null,
   "size": 1935,
-  "stargazers_count": 4747,
+  "stargazers_count": 4749,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -77,7 +77,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-19T18:19:18.241Z",
+  "fetched_at": "2018-08-20T04:35:05.291Z",
   "pulls_url": "https://api.github.com/repos/Netflix/chaosmonkey/pulls{/number}",
   "pulls_authors": [
     "lorin",

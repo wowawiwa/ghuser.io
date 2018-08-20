@@ -108,13 +108,13 @@
     "elastic/logstash": {
       "full_name": "elastic/logstash",
       "name": "logstash",
-      "stargazers_count": 9271,
-      "popularity": 4.967123507296724,
+      "stargazers_count": 9273,
+      "popularity": 4.9672171950973105,
       "percentage": 45.111615136683774,
       "maturity": 4.922751308532443,
       "total_commits_count": 8377,
       "activity": 5,
-      "total_score": 58.87661845863587,
+      "total_score": 58.87744895507803,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -420,7 +420,7 @@
     "elastic/elasticsearch": {
       "full_name": "elastic/elasticsearch",
       "name": "elasticsearch",
-      "stargazers_count": 33572,
+      "stargazers_count": 33586,
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,
@@ -1304,13 +1304,13 @@
     "elastic/kibana": {
       "full_name": "elastic/kibana",
       "name": "kibana",
-      "stargazers_count": 9904,
-      "popularity": 4.995810252770426,
+      "stargazers_count": 9906,
+      "popularity": 4.995897952709598,
       "percentage": 0.0686641697877653,
       "maturity": 5,
       "total_commits_count": 16020,
       "activity": 5,
-      "total_score": 30.032025069556354,
+      "total_score": 30.032288952213527,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -1499,7 +1499,7 @@
     "moby/moby": {
       "full_name": "moby/moby",
       "name": "moby",
-      "stargazers_count": 50001,
+      "stargazers_count": 50004,
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,
@@ -2123,13 +2123,13 @@
     "nodejs/node-v0.x-archive": {
       "full_name": "nodejs/node-v0.x-archive",
       "name": "node-v0.x-archive",
-      "stargazers_count": 35767,
+      "stargazers_count": 35766,
       "popularity": 5,
       "percentage": 0,
       "maturity": 0,
       "total_commits_count": 2,
-      "activity": 1.5312712301850988,
-      "total_score": 16.531271230185098,
+      "activity": 1.525790223123058,
+      "total_score": 16.525790223123057,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -2747,13 +2747,13 @@
     "elastic/beats": {
       "full_name": "elastic/beats",
       "name": "beats",
-      "stargazers_count": 6003,
-      "popularity": 4.778342314860032,
+      "stargazers_count": 6004,
+      "popularity": 4.778414665921831,
       "percentage": 0.026263952724885097,
       "maturity": 4.881124666131117,
       "total_commits_count": 7615,
       "activity": 5,
-      "total_score": 29.11359103720823,
+      "total_score": 29.113808337422864,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

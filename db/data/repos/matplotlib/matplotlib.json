@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/matplotlib/matplotlib/languages",
   "pulls_url": "https://api.github.com/repos/matplotlib/matplotlib/pulls{/number}",
   "created_at": "2011-02-19T03:17:12Z",
-  "updated_at": "2018-08-19T16:53:34Z",
-  "pushed_at": "2018-08-19T16:52:53Z",
+  "updated_at": "2018-08-20T03:17:49Z",
+  "pushed_at": "2018-08-20T03:52:29Z",
   "homepage": "http://matplotlib.org/",
-  "size": 332924,
-  "stargazers_count": 7761,
+  "size": 333036,
+  "stargazers_count": 7762,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -124,23 +124,23 @@
     "phobson": 246,
     "tonysyu": 162,
     "timhoffm": 248,
-    "cgohlke": 166,
+    "cgohlke": 167,
     "pelson": 488,
     "astraw": 272,
     "WeatherGod": 580,
-    "jklymak": 650,
+    "jklymak": 653,
     "dopplershift": 420,
     "jkseppan": 403,
     "leejjoon": 426,
     "ddale": 442,
     "NelleV": 724,
     "dstansby": 754,
-    "QuLogic": 790,
+    "QuLogic": 792,
     "jenshnielsen": 855,
-    "anntzer": 1044,
+    "anntzer": 1045,
     "efiring": 1767,
     "jdh2358": 2145,
-    "tacaswell": 3952,
+    "tacaswell": 3954,
     "mdboom": 3915,
     "esvhd": 16,
     "gstorer": 14,
@@ -1467,11 +1467,12 @@
     "radford",
     "fgb",
     "adamjstewart",
-    "pjk645"
+    "pjk645",
+    "pclove1"
   ],
   "languages": {
     "Python": {
-      "bytes": 6360982,
+      "bytes": 6361551,
       "color": "#3572A5"
     },
     "C++": {
@@ -1483,7 +1484,7 @@
       "color": "#DA5B0B"
     },
     "Objective-C": {
-      "bytes": 81391,
+      "bytes": 80971,
       "color": "#438eff"
     },
     "JavaScript": {
@@ -1515,5 +1516,5 @@
       "color": "#3D6117"
     }
   },
-  "fetched_at": "2018-08-19T18:20:25.501Z"
+  "fetched_at": "2018-08-20T04:36:11.065Z"
 }

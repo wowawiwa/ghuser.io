@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/python/mypy/languages",
   "pulls_url": "https://api.github.com/repos/python/mypy/pulls{/number}",
   "created_at": "2012-12-07T13:30:23Z",
-  "updated_at": "2018-08-19T00:55:00Z",
-  "pushed_at": "2018-08-19T02:42:36Z",
+  "updated_at": "2018-08-19T23:52:16Z",
+  "pushed_at": "2018-08-20T01:23:40Z",
   "homepage": "http://www.mypy-lang.org/",
   "size": 27559,
-  "stargazers_count": 4370,
+  "stargazers_count": 4372,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -493,7 +493,8 @@
     "Stebalien",
     "gennad",
     "ashleyh",
-    "VadimPushtaev"
+    "VadimPushtaev",
+    "izquierdo"
   ],
   "languages": {
     "Python": {
@@ -521,5 +522,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-19T07:35:12.076Z"
+  "fetched_at": "2018-08-20T04:37:36.820Z"
 }

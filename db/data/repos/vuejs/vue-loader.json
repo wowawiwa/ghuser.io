@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/vuejs/vue-loader/languages",
   "pulls_url": "https://api.github.com/repos/vuejs/vue-loader/pulls{/number}",
   "created_at": "2014-10-02T00:05:07Z",
-  "updated_at": "2018-08-19T17:04:34Z",
-  "pushed_at": "2018-08-18T15:17:50Z",
+  "updated_at": "2018-08-20T04:20:54Z",
+  "pushed_at": "2018-08-20T00:43:02Z",
   "homepage": "",
-  "size": 3307,
-  "stargazers_count": 3396,
+  "size": 3420,
+  "stargazers_count": 3398,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -70,7 +70,7 @@
     "mrv1k": 2,
     "clarkdo": 2,
     "Jinjiang": 30,
-    "yyx990803": 172,
+    "yyx990803": 176,
     "sharkykh": 1
   },
   "pulls_authors": [
@@ -311,5 +311,5 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-08-19T18:17:45.732Z"
+  "fetched_at": "2018-08-20T04:33:31.028Z"
 }

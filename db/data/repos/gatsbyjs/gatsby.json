@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/gatsbyjs/gatsby",
   "languages_url": "https://api.github.com/repos/gatsbyjs/gatsby/languages",
   "created_at": "2015-05-21T22:43:05Z",
-  "updated_at": "2018-08-19T18:15:23Z",
-  "pushed_at": "2018-08-19T14:58:47Z",
+  "updated_at": "2018-08-20T04:32:23Z",
+  "pushed_at": "2018-08-20T04:32:12Z",
   "homepage": "https://www.gatsbyjs.org",
   "size": 372888,
-  "stargazers_count": 24677,
+  "stargazers_count": 24691,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -144,7 +144,7 @@
     "ryanditjia": 59,
     "jquense": 115,
     "fk": 172,
-    "pieh": 323,
+    "pieh": 326,
     "shannonbux": 154,
     "m-allanson": 688,
     "KyleAMathews": 4500,
@@ -1084,10 +1084,12 @@
     "t1mmen": 1,
     "johncmunson": 1,
     "pczernitzki": 2,
-    "azdanov": 1,
+    "azdanov": 2,
     "OliverRadini": 2,
     "faintbit": 19,
-    "rrs94": 1
+    "rrs94": 1,
+    "HusseinMorsy": 1,
+    "baukevanderlaan": 1
   },
   "languages": {
     "JavaScript": {
@@ -1111,7 +1113,7 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-19T18:18:10.373Z",
+  "fetched_at": "2018-08-20T04:33:55.986Z",
   "pulls_url": "https://api.github.com/repos/gatsbyjs/gatsby/pulls{/number}",
   "pulls_authors": [
     "shannonbux",
@@ -2276,6 +2278,7 @@
     "MayerMediaCo",
     "HusseinMorsy",
     "rrs94",
-    "baukevanderlaan"
+    "baukevanderlaan",
+    "kylecesmat"
   ]
 }

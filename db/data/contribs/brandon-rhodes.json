@@ -45,11 +45,11 @@
       "name": "prism",
       "stargazers_count": 5620,
       "popularity": 4.749705849018884,
-      "percentage": 0.04144218814753419,
-      "maturity": 4.377052284916107,
-      "total_commits_count": 2413,
+      "percentage": 0.041425020712510356,
+      "maturity": 4.377235253639284,
+      "total_commits_count": 2414,
       "activity": 5,
-      "total_score": 28.02881108333613,
+      "total_score": 28.02916642054783,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -394,7 +394,7 @@
     "pandas-dev/pandas": {
       "full_name": "pandas-dev/pandas",
       "name": "pandas",
-      "stargazers_count": 15632,
+      "stargazers_count": 15640,
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,
@@ -446,7 +446,7 @@
     "aosabook/500lines": {
       "full_name": "aosabook/500lines",
       "name": "500lines",
-      "stargazers_count": 19497,
+      "stargazers_count": 19501,
       "popularity": 5,
       "percentage": 4.516806722689076,
       "maturity": 4.451384329661518,
@@ -524,7 +524,7 @@
     "moby/moby": {
       "full_name": "moby/moby",
       "name": "moby",
-      "stargazers_count": 50001,
+      "stargazers_count": 50004,
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,

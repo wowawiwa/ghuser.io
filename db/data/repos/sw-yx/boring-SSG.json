@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "boring-SSG",
+  "full_name": "sw-yx/boring-SSG",
+  "owner": "sw-yx",
+  "private": false,
+  "html_url": "https://github.com/sw-yx/boring-SSG",
+  "description": "a proof of concept static site generator with React, Reach Router and Parcel",
+  "fork": false,
+  "url": "https://api.github.com/repos/sw-yx/boring-SSG",
+  "languages_url": "https://api.github.com/repos/sw-yx/boring-SSG/languages",
+  "pulls_url": "https://api.github.com/repos/sw-yx/boring-SSG/pulls{/number}",
+  "created_at": "2018-06-30T15:47:25Z",
+  "updated_at": "2018-08-20T02:48:55Z",
+  "pushed_at": "2018-07-03T21:18:55Z",
+  "homepage": "https://boring-ssg.netlify.com",
+  "size": 1370,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "sw-yx": 3,
+    "tsiq-swyx": 48
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 26541,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 1907,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 1732,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-08-20T04:37:54.595Z"
+}

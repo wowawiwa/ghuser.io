@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/wikimedia/mediawiki-extensions/languages",
   "pulls_url": "https://api.github.com/repos/wikimedia/mediawiki-extensions/pulls{/number}",
   "created_at": "2012-11-01T19:03:08Z",
-  "updated_at": "2018-08-19T18:18:26Z",
-  "pushed_at": "2018-08-19T18:18:11Z",
+  "updated_at": "2018-08-20T04:19:36Z",
+  "pushed_at": "2018-08-20T04:19:21Z",
   "homepage": "https://gerrit.wikimedia.org",
-  "size": 121607,
+  "size": 122412,
   "stargazers_count": 46,
   "language": "Python",
   "mirror_url": null,
@@ -42,9 +42,9 @@
     "site_admin": false
   },
   "contributors": {
-    "translatewiki": 110444,
-    "legoktm": 4512,
-    "umherirrender": 3757,
+    "translatewiki": 110494,
+    "legoktm": 4530,
+    "umherirrender": 3767,
     "JeroenDeDauw": 2912,
     "siebrand": 2431,
     "demon": 2110,
@@ -93,7 +93,7 @@
     "MarkTraceur": 338,
     "tgr": 308,
     "awjrichards-zz": 272,
-    "MarcoAurelioWM": 248,
+    "MarcoAurelioWM": 250,
     "lucaswerkmeister": 245,
     "Jayprakash-SE": 239,
     "pastakhov": 230,
@@ -137,7 +137,7 @@
     "tstarling": 99,
     "trevorparscal": 97,
     "tosfos": 97,
-    "brion": 95,
+    "brion": 96,
     "werdnum": 93,
     "ryan-lane": 92,
     "niedzielski": 95,
@@ -196,7 +196,7 @@
     "IoannisKydonis": 32,
     "nilesh-c": 32,
     "divadsn": 31,
-    "Daimona": 31,
+    "Daimona": 32,
     "phoenix303": 30,
     "mepps": 30,
     "SPQRobin": 30,
@@ -324,5 +324,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-19T18:20:28.270Z"
+  "fetched_at": "2018-08-20T04:36:13.822Z"
 }

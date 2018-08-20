@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/portapps/discord-ptb-portable",
   "languages_url": "https://api.github.com/repos/portapps/discord-ptb-portable/languages",
   "created_at": "2017-07-20T18:29:32Z",
-  "updated_at": "2018-07-28T18:02:33Z",
-  "pushed_at": "2018-05-27T21:55:29Z",
+  "updated_at": "2018-08-19T21:13:22Z",
+  "pushed_at": "2018-08-19T21:13:21Z",
   "homepage": "https://portapps.github.io/app/discord-ptb-portable",
-  "size": 187,
+  "size": 185,
   "stargazers_count": 4,
   "language": "Go",
   "mirror_url": null,
@@ -47,7 +47,7 @@
     "site_admin": false
   },
   "contributors": {
-    "crazy-max": 57
+    "crazy-max": 59
   },
   "languages": {
     "Go": {
@@ -55,7 +55,7 @@
       "color": "#375eab"
     }
   },
-  "fetched_at": "2018-07-29T00:23:03.240Z",
+  "fetched_at": "2018-08-20T04:34:45.707Z",
   "pulls_url": "https://api.github.com/repos/portapps/discord-ptb-portable/pulls{/number}",
   "pulls_authors": []
 }

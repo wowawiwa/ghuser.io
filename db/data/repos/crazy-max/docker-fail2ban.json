@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/crazy-max/docker-fail2ban/languages",
   "pulls_url": "https://api.github.com/repos/crazy-max/docker-fail2ban/pulls{/number}",
   "created_at": "2018-04-24T19:14:31Z",
-  "updated_at": "2018-08-18T23:56:22Z",
-  "pushed_at": "2018-07-28T00:15:46Z",
+  "updated_at": "2018-08-19T18:41:00Z",
+  "pushed_at": "2018-08-19T18:48:18Z",
   "homepage": null,
-  "size": 92,
+  "size": 96,
   "stargazers_count": 2,
   "language": "Shell",
   "mirror_url": null,
@@ -28,7 +28,7 @@
   },
   "default_branch": "master",
   "contributors": {
-    "crazy-max": 10
+    "crazy-max": 11
   },
   "pulls_authors": [],
   "languages": {
@@ -37,9 +37,9 @@
       "color": "#89e051"
     },
     "Dockerfile": {
-      "bytes": 1278,
+      "bytes": 1287,
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-19T07:32:20.823Z"
+  "fetched_at": "2018-08-20T04:34:46.673Z"
 }
