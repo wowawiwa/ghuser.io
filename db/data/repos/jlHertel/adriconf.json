@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/jlHertel/adriconf",
   "languages_url": "https://api.github.com/repos/jlHertel/adriconf/languages",
   "created_at": "2018-01-04T14:20:51Z",
-  "updated_at": "2018-08-16T15:52:57Z",
-  "pushed_at": "2018-08-09T13:54:29Z",
+  "updated_at": "2018-08-20T13:48:13Z",
+  "pushed_at": "2018-08-20T13:48:11Z",
   "homepage": null,
-  "size": 162,
+  "size": 165,
   "stargazers_count": 50,
   "language": "C++",
   "mirror_url": null,
@@ -32,19 +32,23 @@
     "ChristophHaag": 1,
     "gerddie": 1,
     "velurimithun": 17,
-    "jlHertel": 95
+    "jlHertel": 96
   },
   "languages": {
     "C++": {
-      "bytes": 119640,
+      "bytes": 119912,
       "color": "#f34b7d"
     },
     "CMake": {
-      "bytes": 3714,
+      "bytes": 3733,
       "color": "#ccc"
+    },
+    "C": {
+      "bytes": 199,
+      "color": "#555555"
     }
   },
-  "fetched_at": "2018-08-16T19:16:33.788Z",
+  "fetched_at": "2018-08-20T16:12:32.462Z",
   "pulls_url": "https://api.github.com/repos/jlHertel/adriconf/pulls{/number}",
   "pulls_authors": [
     "Calinou",

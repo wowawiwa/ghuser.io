@@ -61,8 +61,8 @@
       "percentage": 39.50617283950617,
       "maturity": 3.088450563344869,
       "total_commits_count": 162,
-      "activity": 2.145740768200606,
-      "total_score": 43.943409557722035,
+      "activity": 2.137683891484952,
+      "total_score": 43.935352681006385,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -433,13 +433,13 @@
     "gdi2290/awesome-angular": {
       "full_name": "gdi2290/awesome-angular",
       "name": "awesome-angular",
-      "stargazers_count": 5886,
-      "popularity": 4.769792934791195,
+      "stargazers_count": 5887,
+      "popularity": 4.769866724121699,
       "percentage": 0.20833333333333334,
       "maturity": 3.6452872934319496,
       "total_commits_count": 480,
       "activity": 5,
-      "total_score": 26.72913528322141,
+      "total_score": 26.72935864967396,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

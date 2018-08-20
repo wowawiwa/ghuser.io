@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/elastic/kibana",
   "languages_url": "https://api.github.com/repos/elastic/kibana/languages",
   "created_at": "2013-01-26T04:00:59Z",
-  "updated_at": "2018-08-20T03:25:57Z",
-  "pushed_at": "2018-08-20T00:04:32Z",
+  "updated_at": "2018-08-20T14:36:52Z",
+  "pushed_at": "2018-08-20T16:00:20Z",
   "homepage": "https://www.elastic.co/products/kibana",
-  "size": 446751,
+  "size": 446867,
   "stargazers_count": 9906,
   "language": "JavaScript",
   "mirror_url": null,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 18371154,
+      "bytes": 18370899,
       "color": "#f1e05a"
     },
     "TypeScript": {
-      "bytes": 897819,
+      "bytes": 899283,
       "color": "#2b7489"
     },
     "HTML": {
@@ -137,7 +137,7 @@
     "PopradiArpad": 12,
     "gchaps": 23,
     "justinkambic": 18,
-    "azasypkin": 27,
+    "azasypkin": 28,
     "snide": 28,
     "jgowdyelastic": 57,
     "kkirsche": 13,
@@ -209,7 +209,7 @@
     "TrumanDu": 2,
     "ck-lee": 2,
     "derickson": 2,
-    "aaronjcaldwell": 1,
+    "aaronjcaldwell": 2,
     "alexfrancoeur": 2,
     "spinscale": 1,
     "axw": 1,
@@ -342,7 +342,7 @@
     "yankouskia": 7,
     "ruflin": 4,
     "hendrikmuhs": 1,
-    "LeanidShutau": 3,
+    "LeanidShutau": 4,
     "exekias": 1,
     "pjhampton": 1,
     "simitt": 2,
@@ -355,7 +355,7 @@
     "going-confetti": 1,
     "scottis": 1
   },
-  "fetched_at": "2018-08-20T04:36:28.848Z",
+  "fetched_at": "2018-08-20T16:14:36.642Z",
   "pulls_url": "https://api.github.com/repos/elastic/kibana/pulls{/number}",
   "pulls_authors": [
     "nreese",

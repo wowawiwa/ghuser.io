@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/sb2nov/mac-setup",
   "languages_url": "https://api.github.com/repos/sb2nov/mac-setup/languages",
   "created_at": "2013-07-01T14:57:31Z",
-  "updated_at": "2018-08-20T01:29:57Z",
-  "pushed_at": "2018-06-09T09:51:30Z",
+  "updated_at": "2018-08-20T14:21:57Z",
+  "pushed_at": "2018-08-20T14:21:56Z",
   "homepage": "http://sourabhbajaj.com/mac-setup/",
-  "size": 8896,
+  "size": 8925,
   "stargazers_count": 5055,
   "language": "Shell",
   "mirror_url": null,
@@ -97,7 +97,8 @@
     "Kyslik": 15,
     "nicolashery": 33,
     "sb2nov": 68,
-    "simeg": 116
+    "simeg": 116,
+    "TamarIS": 1
   },
   "languages": {
     "Shell": {
@@ -121,7 +122,7 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-08-20T04:33:10.077Z",
+  "fetched_at": "2018-08-20T16:10:54.134Z",
   "pulls_url": "https://api.github.com/repos/sb2nov/mac-setup/pulls{/number}",
   "pulls_authors": [
     "Beasta",
@@ -203,6 +204,7 @@
     "Falkirks",
     "pgilad",
     "Frederick-S",
-    "bitdeli-chef"
+    "bitdeli-chef",
+    "TamarIS"
   ]
 }

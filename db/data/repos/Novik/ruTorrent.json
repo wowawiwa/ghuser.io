@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/Novik/ruTorrent",
   "languages_url": "https://api.github.com/repos/Novik/ruTorrent/languages",
   "created_at": "2014-08-22T09:14:45Z",
-  "updated_at": "2018-08-19T09:33:28Z",
-  "pushed_at": "2018-08-18T06:54:21Z",
+  "updated_at": "2018-08-20T14:28:07Z",
+  "pushed_at": "2018-08-20T14:28:04Z",
   "homepage": "",
-  "size": 16234,
+  "size": 16233,
   "stargazers_count": 1097,
   "language": "JavaScript",
   "mirror_url": null,
@@ -123,11 +123,12 @@
     "dmrom00": 43,
     "rtorrentuser": 94,
     "Micdu70": 61,
-    "Novik": 1363,
+    "Novik": 1364,
     "ranirahn": 1,
-    "mickkael": 2,
+    "mickkael": 3,
     "minibombardo": 1,
-    "invalid-email-address": 19
+    "invalid-email-address": 19,
+    "nirosa": 2
   },
   "languages": {
     "JavaScript": {
@@ -151,7 +152,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-19T18:19:06.009Z",
+  "fetched_at": "2018-08-20T16:12:44.032Z",
   "pulls_url": "https://api.github.com/repos/Novik/ruTorrent/pulls{/number}",
   "pulls_authors": [
     "mickkael",
