@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/gatsbyjs/gatsby",
   "languages_url": "https://api.github.com/repos/gatsbyjs/gatsby/languages",
   "created_at": "2015-05-21T22:43:05Z",
-  "updated_at": "2018-08-20T12:02:40Z",
-  "pushed_at": "2018-08-20T04:32:12Z",
+  "updated_at": "2018-08-21T01:26:12Z",
+  "pushed_at": "2018-08-21T01:29:52Z",
   "homepage": "https://www.gatsbyjs.org",
-  "size": 372887,
-  "stargazers_count": 24703,
+  "size": 373015,
+  "stargazers_count": 24726,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -109,12 +109,12 @@
     "ThatOtherPerson": 13,
     "slorber": 8,
     "fson": 8,
-    "kkemple": 27,
+    "kkemple": 30,
     "Undistraction": 9,
     "alampros": 9,
     "scottnonnenberg": 9,
     "ChristopherBiscardi": 9,
-    "resir014": 11,
+    "resir014": 12,
     "szimek": 11,
     "DSchau": 10,
     "kripod": 12,
@@ -128,7 +128,7 @@
     "fabien0102": 13,
     "gesposito": 14,
     "docwhat": 14,
-    "jlengstorf": 53,
+    "jlengstorf": 56,
     "tsriram": 21,
     "Khaledgarbaya": 19,
     "jbolda": 19,
@@ -140,15 +140,15 @@
     "0x80": 29,
     "LeKoArts": 37,
     "sebastienfi": 50,
-    "calcsam": 81,
+    "calcsam": 84,
     "ryanditjia": 59,
     "jquense": 115,
-    "fk": 172,
-    "pieh": 326,
-    "shannonbux": 154,
+    "fk": 175,
+    "pieh": 330,
+    "shannonbux": 156,
     "m-allanson": 688,
-    "KyleAMathews": 4500,
-    "thebigredgeek": 6,
+    "KyleAMathews": 4509,
+    "thebigredgeek": 7,
     "mathieudutour": 4,
     "wuweiweiwu": 5,
     "adarshp": 3,
@@ -536,7 +536,7 @@
     "Firthir": 1,
     "DanArpoika": 1,
     "stoutlabs": 1,
-    "mattbag": 2,
+    "mattbag": 3,
     "jsjoeio": 2,
     "fusepilot": 2,
     "tryzniak": 8,
@@ -546,7 +546,7 @@
     "thefifthisa": 3,
     "emanueleperuffo": 2,
     "shobhitchittora": 3,
-    "anantoghosh": 2,
+    "anantoghosh": 3,
     "janosh": 6,
     "hellobrian": 1,
     "charlescatta": 1,
@@ -574,7 +574,7 @@
     "glauberfc": 1,
     "nhc": 1,
     "jamezrin": 1,
-    "web-flow": 1038,
+    "web-flow": 1042,
     "robinpyon": 1,
     "martimarkov": 1,
     "cmsbased": 1,
@@ -1089,11 +1089,15 @@
     "faintbit": 19,
     "rrs94": 1,
     "HusseinMorsy": 1,
-    "baukevanderlaan": 1
+    "baukevanderlaan": 1,
+    "davidbailey00": 1,
+    "rase-": 1,
+    "kylecesmat": 1,
+    "kartiklad": 2
   },
   "languages": {
     "JavaScript": {
-      "bytes": 1486474,
+      "bytes": 1489678,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -1101,7 +1105,7 @@
       "color": "#e34c26"
     },
     "CSS": {
-      "bytes": 55330,
+      "bytes": 54460,
       "color": "#563d7c"
     },
     "Shell": {
@@ -1113,7 +1117,7 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-20T12:14:58.121Z",
+  "fetched_at": "2018-08-21T02:22:52.816Z",
   "pulls_url": "https://api.github.com/repos/gatsbyjs/gatsby/pulls{/number}",
   "pulls_authors": [
     "shannonbux",
@@ -2279,6 +2283,9 @@
     "HusseinMorsy",
     "rrs94",
     "baukevanderlaan",
-    "kylecesmat"
+    "kylecesmat",
+    "rase-",
+    "sparklesam",
+    "nayres"
   ]
 }

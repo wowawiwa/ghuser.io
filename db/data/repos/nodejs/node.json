@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/nodejs/node",
   "languages_url": "https://api.github.com/repos/nodejs/node/languages",
   "created_at": "2014-11-26T19:57:11Z",
-  "updated_at": "2018-08-20T12:14:20Z",
-  "pushed_at": "2018-08-20T11:47:53Z",
+  "updated_at": "2018-08-21T02:18:24Z",
+  "pushed_at": "2018-08-21T02:14:18Z",
   "homepage": "https://nodejs.org",
-  "size": 402729,
-  "stargazers_count": 52434,
+  "size": 402897,
+  "stargazers_count": 52452,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,15 +48,15 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 6779222,
+      "bytes": 6779415,
       "color": "#f1e05a"
     },
     "C++": {
-      "bytes": 2481315,
+      "bytes": 2485387,
       "color": "#f34b7d"
     },
     "Python": {
-      "bytes": 1970106,
+      "bytes": 1970078,
       "color": "#3572A5"
     },
     "C": {
@@ -68,7 +68,7 @@
       "color": "#e34c26"
     },
     "Makefile": {
-      "bytes": 43242,
+      "bytes": 43254,
       "color": "#427819"
     },
     "DTrace": {
@@ -187,17 +187,17 @@
     "targos": 279,
     "vsemozhetbyt": 280,
     "tjfontaine": 332,
-    "BridgeAR": 342,
+    "BridgeAR": 343,
     "mscdex": 318,
     "rvagg": 324,
-    "danbev": 345,
+    "danbev": 347,
     "trevnorris": 363,
-    "cjihrig": 386,
+    "cjihrig": 389,
     "jasnell": 519,
     "piscisaureus": 598,
     "addaleax": 668,
     "indutny": 755,
-    "Trott": 1320,
+    "Trott": 1323,
     "isaacs": 1647,
     "bnoordhuis": 2138,
     "ry": 3021,
@@ -308,7 +308,7 @@
     "timoxley": 6,
     "williamkapke": 6,
     "Flarna": 7,
-    "ak239": 7,
+    "ak239": 8,
     "adammw": 5,
     "gromnitsky": 5,
     "zertosh": 5,
@@ -574,7 +574,7 @@
     "tlhunter": 3,
     "Maledong": 5
   },
-  "fetched_at": "2018-08-20T12:19:02.518Z",
+  "fetched_at": "2018-08-21T02:26:28.969Z",
   "pulls_url": "https://api.github.com/repos/nodejs/node/pulls{/number}",
   "pulls_authors": [
     "mmarchini",
@@ -2778,6 +2778,7 @@
     "Drieger",
     "andreasg123",
     "rickyes",
-    "diprudnikov"
+    "diprudnikov",
+    "ratracegrad"
   ]
 }

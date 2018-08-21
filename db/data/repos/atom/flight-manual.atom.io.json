@@ -75,7 +75,7 @@
     "platy11": 3,
     "jasonrudolph": 6,
     "chris579": 3,
-    "maxbrunsfeld": 5,
+    "maxbrunsfeld": 16,
     "matthewwithanm": 3,
     "dcarral": 3,
     "dasilvacontin": 3,
@@ -133,7 +133,9 @@
     "efritzley": 1,
     "ewirch": 1,
     "kanhua": 1,
-    "vitopepito": 1
+    "vitopepito": 1,
+    "queerviolet": 3,
+    "link2xt": 1
   },
   "name": "flight-manual.atom.io",
   "full_name": "atom/flight-manual.atom.io",
@@ -145,10 +147,10 @@
   "url": "https://api.github.com/repos/atom/flight-manual.atom.io",
   "languages_url": "https://api.github.com/repos/atom/flight-manual.atom.io/languages",
   "created_at": "2014-10-09T18:34:02Z",
-  "updated_at": "2018-08-15T17:45:25Z",
-  "pushed_at": "2018-08-15T00:04:29Z",
+  "updated_at": "2018-08-20T23:56:55Z",
+  "pushed_at": "2018-08-21T00:00:41Z",
   "homepage": "http://flight-manual.atom.io",
-  "size": 40225,
+  "size": 40356,
   "stargazers_count": 302,
   "language": "CSS",
   "mirror_url": null,
@@ -207,7 +209,7 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-08-16T04:50:05.179Z",
+  "fetched_at": "2018-08-21T02:23:37.039Z",
   "pulls_url": "https://api.github.com/repos/atom/flight-manual.atom.io/pulls{/number}",
   "pulls_authors": [
     "vidyutgharpure",
@@ -378,6 +380,7 @@
     "skalnik",
     "postcasio",
     "pborreli",
-    "schacon"
+    "schacon",
+    "bresgen"
   ]
 }

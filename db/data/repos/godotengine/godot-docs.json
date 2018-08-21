@@ -100,7 +100,7 @@
     "reduz": 63,
     "her001": 66,
     "mhilbrunner": 296,
-    "akien-mga": 522,
+    "akien-mga": 523,
     "comradekingu": 2,
     "SuperWig": 2,
     "swarnimarun": 2,
@@ -289,10 +289,10 @@
   "url": "https://api.github.com/repos/godotengine/godot-docs",
   "languages_url": "https://api.github.com/repos/godotengine/godot-docs/languages",
   "created_at": "2015-12-12T15:02:06Z",
-  "updated_at": "2018-08-20T08:30:17Z",
-  "pushed_at": "2018-08-20T08:30:12Z",
+  "updated_at": "2018-08-21T01:18:54Z",
+  "pushed_at": "2018-08-20T22:38:04Z",
   "homepage": "http://docs.godotengine.org",
-  "size": 291659,
+  "size": 291752,
   "stargazers_count": 367,
   "language": "Python",
   "mirror_url": null,
@@ -349,7 +349,7 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-08-20T12:15:27.382Z",
+  "fetched_at": "2018-08-21T02:23:18.730Z",
   "pulls_url": "https://api.github.com/repos/godotengine/godot-docs/pulls{/number}",
   "pulls_authors": [
     "vurpo",

@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/coala/projects",
   "languages_url": "https://api.github.com/repos/coala/projects/languages",
   "created_at": "2017-01-17T09:35:47Z",
-  "updated_at": "2018-08-20T13:55:53Z",
-  "pushed_at": "2018-08-20T14:41:31Z",
+  "updated_at": "2018-08-20T21:43:59Z",
+  "pushed_at": "2018-08-20T21:43:57Z",
   "homepage": "https://projects.coala.io/",
-  "size": 770,
+  "size": 773,
   "stargazers_count": 62,
   "language": "HTML",
   "mirror_url": null,
@@ -48,7 +48,7 @@
   },
   "contributors": {
     "amit2020cs": 1,
-    "yzgyyang": 1,
+    "yzgyyang": 2,
     "kriti21": 3,
     "devshiva619": 1,
     "refactormyself": 1,
@@ -176,7 +176,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-20T16:13:19.240Z",
+  "fetched_at": "2018-08-21T02:24:28.037Z",
   "pulls_url": "https://api.github.com/repos/coala/projects/pulls{/number}",
   "pulls_authors": [
     "virresh",

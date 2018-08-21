@@ -100,7 +100,7 @@
     "lukesampson": 339,
     "brandon93s": 102,
     "sestegra": 198,
-    "r15ch13": 2953,
+    "r15ch13": 2959,
     "benplm": 2,
     "nightscape": 2,
     "lahcim8": 4,
@@ -195,7 +195,8 @@
     "RayoGundead": 1,
     "xeijin": 3,
     "Retia-Adolf": 7,
-    "pakonda": 5
+    "pakonda": 6,
+    "flavio20002": 1
   },
   "name": "scoop-extras",
   "full_name": "lukesampson/scoop-extras",
@@ -207,10 +208,10 @@
   "url": "https://api.github.com/repos/lukesampson/scoop-extras",
   "languages_url": "https://api.github.com/repos/lukesampson/scoop-extras/languages",
   "created_at": "2013-08-06T03:27:50Z",
-  "updated_at": "2018-08-20T11:01:53Z",
-  "pushed_at": "2018-08-20T11:01:49Z",
+  "updated_at": "2018-08-21T01:01:55Z",
+  "pushed_at": "2018-08-21T01:01:52Z",
   "homepage": null,
-  "size": 2778,
+  "size": 2784,
   "stargazers_count": 268,
   "language": "PowerShell",
   "mirror_url": null,
@@ -223,7 +224,7 @@
       "color": "#012456"
     }
   },
-  "fetched_at": "2018-08-20T12:15:30.402Z",
+  "fetched_at": "2018-08-21T02:23:20.488Z",
   "pulls_url": "https://api.github.com/repos/lukesampson/scoop-extras/pulls{/number}",
   "pulls_authors": [
     "se35710",
@@ -438,6 +439,7 @@
     "ustsv",
     "xeijin",
     "Retia-Adolf",
-    "pakonda"
+    "pakonda",
+    "flavio20002"
   ]
 }

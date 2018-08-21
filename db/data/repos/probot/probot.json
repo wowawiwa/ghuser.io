@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/probot/probot",
   "languages_url": "https://api.github.com/repos/probot/probot/languages",
   "created_at": "2016-09-16T20:56:13Z",
-  "updated_at": "2018-08-20T11:06:19Z",
-  "pushed_at": "2018-08-20T07:58:14Z",
+  "updated_at": "2018-08-20T20:06:29Z",
+  "pushed_at": "2018-08-20T21:00:31Z",
   "homepage": "https://probot.github.io",
-  "size": 1719,
-  "stargazers_count": 3081,
+  "size": 1722,
+  "stargazers_count": 3085,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "TypeScript": {
-      "bytes": 58163,
+      "bytes": 58924,
       "color": "#2b7489"
     },
     "JavaScript": {
-      "bytes": 27322,
+      "bytes": 26584,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -135,9 +135,10 @@
     "kentaro-m": 3,
     "mousavian": 1,
     "tommilligan": 2,
-    "sallycsy": 1
+    "sallycsy": 1,
+    "yawningphantom": 1
   },
-  "fetched_at": "2018-08-20T12:16:53.979Z",
+  "fetched_at": "2018-08-21T02:24:32.667Z",
   "pulls_url": "https://api.github.com/repos/probot/probot/pulls{/number}",
   "pulls_authors": [
     "JasonEtco",
@@ -222,6 +223,7 @@
     "mcolyer",
     "seemakamath",
     "benbalter",
-    "yawningphantom"
+    "yawningphantom",
+    "karol-majewski"
   ]
 }

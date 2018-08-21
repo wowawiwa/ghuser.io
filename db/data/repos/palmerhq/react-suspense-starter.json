@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/palmerhq/react-suspense-starter/languages",
   "pulls_url": "https://api.github.com/repos/palmerhq/react-suspense-starter/pulls{/number}",
   "created_at": "2018-07-27T20:28:32Z",
-  "updated_at": "2018-08-20T11:13:02Z",
-  "pushed_at": "2018-08-18T15:33:15Z",
+  "updated_at": "2018-08-20T21:15:52Z",
+  "pushed_at": "2018-08-20T14:07:53Z",
   "homepage": null,
-  "size": 372,
-  "stargazers_count": 161,
+  "size": 375,
+  "stargazers_count": 167,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -42,7 +42,7 @@
     "site_admin": false
   },
   "contributors": {
-    "jaredpalmer": 6,
+    "jaredpalmer": 8,
     "sw-yx": 1,
     "mwarger": 1
   },
@@ -52,7 +52,7 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 1038,
+      "bytes": 1279,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -60,5 +60,5 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-08-20T12:19:56.583Z"
+  "fetched_at": "2018-08-21T02:27:19.355Z"
 }

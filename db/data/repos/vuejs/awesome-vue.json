@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/vuejs/awesome-vue",
   "languages_url": "https://api.github.com/repos/vuejs/awesome-vue/languages",
   "created_at": "2015-10-20T00:16:14Z",
-  "updated_at": "2018-08-20T11:52:21Z",
-  "pushed_at": "2018-08-20T10:38:25Z",
+  "updated_at": "2018-08-21T02:13:05Z",
+  "pushed_at": "2018-08-20T17:53:56Z",
   "homepage": "",
-  "size": 3114,
-  "stargazers_count": 36516,
+  "size": 3382,
+  "stargazers_count": 36539,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -171,7 +171,7 @@
     "raniesantos": 3,
     "richardtallent": 3,
     "tangram-js": 3,
-    "vchaptsev": 3,
+    "vchaptsev": 4,
     "denkata": 3,
     "devjin0617": 3,
     "fireyy": 3,
@@ -524,7 +524,7 @@
     "kavalcante": 2,
     "NetCZ": 2,
     "Vaibhav-Yadav-1998": 3,
-    "arnedesmedt": 1,
+    "arnedesmedt": 2,
     "14nrv": 1,
     "Astray-git": 2,
     "zeknoss": 1,
@@ -533,10 +533,13 @@
     "alexiscolin": 1,
     "mengdu": 2,
     "manju16832003": 2,
-    "darthmeme": 1
+    "darthmeme": 1,
+    "guanzo": 2,
+    "Lt0": 2,
+    "IPRIT": 1
   },
   "languages": {},
-  "fetched_at": "2018-08-20T12:15:24.212Z",
+  "fetched_at": "2018-08-21T02:23:15.974Z",
   "pulls_url": "https://api.github.com/repos/vuejs/awesome-vue/pulls{/number}",
   "pulls_authors": [
     "mengdu",
@@ -1852,6 +1855,7 @@
     "jonobr1",
     "manjufy",
     "yanthems",
-    "RamdhasUeikattan"
+    "RamdhasUeikattan",
+    "IPRIT"
   ]
 }

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/Shopify/sarama",
   "languages_url": "https://api.github.com/repos/Shopify/sarama/languages",
   "created_at": "2013-07-05T18:52:38Z",
-  "updated_at": "2018-08-20T09:44:42Z",
-  "pushed_at": "2018-08-18T10:30:04Z",
+  "updated_at": "2018-08-20T21:33:52Z",
+  "pushed_at": "2018-08-20T17:21:00Z",
   "homepage": "https://shopify.github.io/sarama",
-  "size": 2191,
-  "stargazers_count": 3294,
+  "size": 2192,
+  "stargazers_count": 3296,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -127,7 +127,7 @@
     "mimaison": 4,
     "kruftmeister": 4,
     "aybabtme": 4,
-    "bai": 5,
+    "bai": 6,
     "uovobw": 5,
     "rtreffer": 6,
     "epsniff": 6,
@@ -138,7 +138,7 @@
     "slaunay": 13,
     "aaronkavlie-wf": 13,
     "horkhe": 30,
-    "wladh": 31,
+    "wladh": 34,
     "burke": 69,
     "wvanbergen": 160,
     "eapache": 516,
@@ -147,7 +147,7 @@
   },
   "languages": {
     "Go": {
-      "bytes": 734616,
+      "bytes": 738102,
       "color": "#375eab"
     },
     "Shell": {
@@ -159,7 +159,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-20T12:16:35.668Z",
+  "fetched_at": "2018-08-21T02:24:15.990Z",
   "pulls_url": "https://api.github.com/repos/Shopify/sarama/pulls{/number}",
   "pulls_authors": [
     "andy2046",

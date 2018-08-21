@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/GoogleCloudPlatform/nodejs-docs-samples/languages",
   "pulls_url": "https://api.github.com/repos/GoogleCloudPlatform/nodejs-docs-samples/pulls{/number}",
   "created_at": "2015-05-04T23:26:38Z",
-  "updated_at": "2018-08-20T12:12:58Z",
-  "pushed_at": "2018-08-18T00:18:36Z",
+  "updated_at": "2018-08-20T20:22:59Z",
+  "pushed_at": "2018-08-21T01:50:01Z",
   "homepage": "https://cloud.google.com/nodejs",
-  "size": 13832,
+  "size": 13831,
   "stargazers_count": 1139,
   "language": "JavaScript",
   "mirror_url": null,
@@ -107,7 +107,7 @@
     "lesv": 1,
     "dhermes": 1,
     "jterrace": 1,
-    "averikitsch": 2,
+    "averikitsch": 3,
     "glaforge": 2,
     "llatif": 2,
     "ptone": 2,
@@ -137,7 +137,7 @@
     "fhinkel": 24,
     "marcacohen": 29,
     "gguuss": 30,
-    "ace-n": 88,
+    "ace-n": 89,
     "jmdobry": 255
   },
   "pulls_authors": [
@@ -255,7 +255,7 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 499730,
+      "bytes": 500384,
       "color": "#f1e05a"
     },
     "Shell": {
@@ -263,7 +263,7 @@
       "color": "#89e051"
     },
     "HTML": {
-      "bytes": 3622,
+      "bytes": 3582,
       "color": "#e34c26"
     },
     "Dockerfile": {
@@ -275,9 +275,9 @@
       "color": "#012456"
     },
     "CSS": {
-      "bytes": 1417,
+      "bytes": 1437,
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-08-20T12:14:30.073Z"
+  "fetched_at": "2018-08-21T02:22:25.364Z"
 }

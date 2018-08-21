@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/DefinitelyTyped/DefinitelyTyped/languages",
   "pulls_url": "https://api.github.com/repos/DefinitelyTyped/DefinitelyTyped/pulls{/number}",
   "created_at": "2012-10-05T16:39:45Z",
-  "updated_at": "2018-08-20T11:08:38Z",
-  "pushed_at": "2018-08-20T10:55:56Z",
+  "updated_at": "2018-08-21T02:03:31Z",
+  "pushed_at": "2018-08-20T23:46:13Z",
   "homepage": "http://definitelytyped.org/",
-  "size": 347818,
-  "stargazers_count": 16999,
+  "size": 347856,
+  "stargazers_count": 17008,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -62,7 +62,7 @@
     "pjmagee": 42,
     "danmarshall": 41,
     "konne": 41,
-    "alloy": 213,
+    "alloy": 215,
     "aj-r": 51,
     "mohsen1": 34,
     "Aaronphy": 41,
@@ -150,7 +150,7 @@
     "andy-ms": 1458,
     "minestarks": 640,
     "aozgaa": 481,
-    "uniqueiniquity": 461,
+    "uniqueiniquity": 467,
     "rbuckton": 335,
     "armanio123": 327,
     "yuit": 198,
@@ -8827,11 +8827,18 @@
     "DenisFrezzato",
     "simmons8616",
     "jKelio",
-    "mvdam"
+    "mvdam",
+    "xiaodeaux",
+    "leandropls",
+    "rosinbum",
+    "artonio",
+    "yuricodes",
+    "denl95",
+    "skrall"
   ],
   "languages": {
     "TypeScript": {
-      "bytes": 24847006,
+      "bytes": 24851141,
       "color": "#2b7489"
     },
     "JavaScript": {
@@ -8843,5 +8850,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-20T12:15:09.335Z"
+  "fetched_at": "2018-08-21T02:23:02.736Z"
 }

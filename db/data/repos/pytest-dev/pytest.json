@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/pytest-dev/pytest/languages",
   "pulls_url": "https://api.github.com/repos/pytest-dev/pytest/pulls{/number}",
   "created_at": "2015-06-15T20:28:27Z",
-  "updated_at": "2018-08-20T07:30:32Z",
-  "pushed_at": "2018-08-20T10:26:41Z",
+  "updated_at": "2018-08-20T23:10:39Z",
+  "pushed_at": "2018-08-20T23:01:52Z",
   "homepage": "http://pytest.org/",
-  "size": 13293,
-  "stargazers_count": 2929,
+  "size": 13311,
+  "stargazers_count": 2933,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -134,7 +134,7 @@
     "Turbo87": 25,
     "blueyed": 28,
     "jeffreyrack": 30,
-    "asottile": 48,
+    "asottile": 49,
     "feuillemorte": 43,
     "kalekundert": 43,
     "jurko-gospodnetic": 41,
@@ -145,8 +145,8 @@
     "The-Compiler": 153,
     "flub": 202,
     "benjaminp": 226,
-    "RonnyPfannschmidt": 867,
-    "nicoddemus": 1818,
+    "RonnyPfannschmidt": 868,
+    "nicoddemus": 1820,
     "hpk42": 2205,
     "invalid-email-address": 1036,
     "alanbato": 5,
@@ -770,7 +770,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 1700505,
+      "bytes": 1702090,
       "color": "#3572A5"
     },
     "Batchfile": {
@@ -778,5 +778,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-08-20T12:17:49.426Z"
+  "fetched_at": "2018-08-21T02:25:24.278Z"
 }

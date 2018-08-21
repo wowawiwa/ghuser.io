@@ -82,7 +82,7 @@
     "daneden/animate.css": {
       "full_name": "daneden/animate.css",
       "name": "animate.css",
-      "stargazers_count": 53611,
+      "stargazers_count": 53626,
       "popularity": 5,
       "percentage": 2.6490066225165565,
       "maturity": 3.4202026784141966,
@@ -251,13 +251,13 @@
     "sqlmapproject/sqlmap": {
       "full_name": "sqlmapproject/sqlmap",
       "name": "sqlmap",
-      "stargazers_count": 12074,
+      "stargazers_count": 12075,
       "popularity": 5,
       "percentage": 0,
-      "maturity": 4.9051030584745625,
-      "total_commits_count": 8045,
+      "maturity": 4.905265784666189,
+      "total_commits_count": 8048,
       "activity": 5,
-      "total_score": 29.810206116949125,
+      "total_score": 29.810531569332376,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

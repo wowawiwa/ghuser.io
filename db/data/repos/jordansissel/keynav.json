@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/jordansissel/keynav",
   "languages_url": "https://api.github.com/repos/jordansissel/keynav/languages",
   "created_at": "2011-02-16T03:03:22Z",
-  "updated_at": "2018-08-17T07:49:48Z",
-  "pushed_at": "2018-06-14T07:27:32Z",
+  "updated_at": "2018-08-21T01:09:37Z",
+  "pushed_at": "2018-08-21T01:09:32Z",
   "homepage": "",
-  "size": 194,
-  "stargazers_count": 150,
+  "size": 240,
+  "stargazers_count": 151,
   "language": "C",
   "mirror_url": null,
   "archived": false,
@@ -28,25 +28,35 @@
   "default_branch": "master",
   "languages": {
     "C": {
-      "bytes": 53498,
+      "bytes": 56923,
       "color": "#555555"
     },
     "Makefile": {
-      "bytes": 1695,
+      "bytes": 2234,
       "color": "#427819"
     },
     "Shell": {
-      "bytes": 576,
+      "bytes": 845,
       "color": "#89e051"
     }
   },
   "contributors": {
     "lilydjwg": 1,
     "KoFish": 2,
-    "aszlig": 7,
-    "jordansissel": 182
+    "aszlig": 8,
+    "jordansissel": 182,
+    "AlexDaniel": 1,
+    "SRGOM": 1,
+    "daboross": 1,
+    "dkasak": 1,
+    "shouya": 1,
+    "marekjm": 4,
+    "seletskiy": 5,
+    "fidian": 7,
+    "mgsloan": 12,
+    "yjftsjthsd-g": 18
   },
-  "fetched_at": "2018-08-17T11:59:45.643Z",
+  "fetched_at": "2018-08-21T02:25:32.159Z",
   "pulls_url": "https://api.github.com/repos/jordansissel/keynav/pulls{/number}",
   "pulls_authors": [
     "taigrr",

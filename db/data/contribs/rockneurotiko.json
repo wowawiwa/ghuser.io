@@ -407,13 +407,13 @@
     "telegram-rs/telegram-bot": {
       "full_name": "telegram-rs/telegram-bot",
       "name": "telegram-bot",
-      "stargazers_count": 182,
-      "popularity": 3.2579575173842867,
+      "stargazers_count": 183,
+      "popularity": 3.260349012983671,
       "percentage": 1.095890410958904,
       "maturity": 3.513752755084247,
       "total_commits_count": 365,
       "activity": 5,
-      "total_score": 22.265525434661033,
+      "total_score": 22.273040627681564,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -511,13 +511,13 @@
     "python/mypy": {
       "full_name": "python/mypy",
       "name": "mypy",
-      "stargazers_count": 4373,
-      "popularity": 4.640729174465916,
+      "stargazers_count": 4376,
+      "popularity": 4.641027071735779,
       "percentage": 0.3550821127385708,
       "maturity": 4.829047397538816,
       "total_commits_count": 6759,
       "activity": 5,
-      "total_score": 28.794501508064574,
+      "total_score": 28.79540895101312,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

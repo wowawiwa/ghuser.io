@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/phpmyadmin/localized_docs/languages",
   "pulls_url": "https://api.github.com/repos/phpmyadmin/localized_docs/pulls{/number}",
   "created_at": "2012-02-05T09:17:51Z",
-  "updated_at": "2018-08-18T18:35:57Z",
-  "pushed_at": "2018-08-18T18:35:55Z",
+  "updated_at": "2018-08-20T18:41:20Z",
+  "pushed_at": "2018-08-20T18:41:18Z",
   "homepage": "https://hosted.weblate.org/projects/phpmyadmin/documentation/",
-  "size": 258366,
+  "size": 258397,
   "stargazers_count": 61,
   "language": "Makefile",
   "mirror_url": null,
@@ -52,7 +52,7 @@
     "phpmyadmin-bot": 155,
     "mjaning": 125,
     "lem9": 114,
-    "mauriciofauth": 108,
+    "mauriciofauth": 109,
     "Rytiss": 73,
     "roccivic": 42,
     "dannybeckett": 41,
@@ -316,5 +316,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-18T20:07:47.618Z"
+  "fetched_at": "2018-08-21T02:25:08.671Z"
 }
