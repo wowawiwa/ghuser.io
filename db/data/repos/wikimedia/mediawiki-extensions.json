@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/wikimedia/mediawiki-extensions/languages",
   "pulls_url": "https://api.github.com/repos/wikimedia/mediawiki-extensions/pulls{/number}",
   "created_at": "2012-11-01T19:03:08Z",
-  "updated_at": "2018-08-21T00:37:56Z",
-  "pushed_at": "2018-08-21T00:37:40Z",
+  "updated_at": "2018-08-21T10:45:56Z",
+  "pushed_at": "2018-08-21T10:45:41Z",
   "homepage": "https://gerrit.wikimedia.org",
-  "size": 122728,
+  "size": 121920,
   "stargazers_count": 46,
   "language": "Python",
   "mirror_url": null,
@@ -43,7 +43,7 @@
   },
   "contributors": {
     "translatewiki": 110542,
-    "legoktm": 4537,
+    "legoktm": 4540,
     "umherirrender": 3776,
     "JeroenDeDauw": 2912,
     "siebrand": 2431,
@@ -54,7 +54,7 @@
     "santhoshtr": 1232,
     "Ladsgroup": 1028,
     "Nikerabbit": 934,
-    "thiemowmde": 913,
+    "thiemowmde": 915,
     "addshore": 909,
     "atdt": 905,
     "WikidataBuilder": 846,
@@ -324,5 +324,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-21T02:25:25.994Z"
+  "fetched_at": "2018-08-21T11:31:46.276Z"
 }

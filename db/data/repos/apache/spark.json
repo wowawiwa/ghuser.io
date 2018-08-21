@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/apache/spark",
   "languages_url": "https://api.github.com/repos/apache/spark/languages",
   "created_at": "2014-02-25T08:00:08Z",
-  "updated_at": "2018-08-21T01:17:36Z",
-  "pushed_at": "2018-08-21T02:24:16Z",
+  "updated_at": "2018-08-21T11:16:02Z",
+  "pushed_at": "2018-08-21T11:14:23Z",
   "homepage": null,
-  "size": 279798,
-  "stargazers_count": 18456,
+  "size": 279820,
+  "stargazers_count": 18465,
   "language": "Scala",
   "mirror_url": null,
   "archived": false,
@@ -96,7 +96,7 @@
     "CodingCat": 68,
     "markhamstra": 75,
     "jey": 68,
-    "jiangxb1987": 80,
+    "jiangxb1987": 81,
     "woggle": 72,
     "dennybritz": 85,
     "wangyum": 79,
@@ -390,11 +390,11 @@
   },
   "languages": {
     "Scala": {
-      "bytes": 27090278,
+      "bytes": 27095400,
       "color": "#c22d40"
     },
     "Java": {
-      "bytes": 3374606,
+      "bytes": 3376444,
       "color": "#b07219"
     },
     "Python": {
@@ -470,7 +470,7 @@
       "color": "#555555"
     }
   },
-  "fetched_at": "2018-08-21T02:26:15.526Z",
+  "fetched_at": "2018-08-21T11:32:37.841Z",
   "pulls_url": "https://api.github.com/repos/apache/spark/pulls{/number}",
   "pulls_authors": [
     "techaddict",
@@ -2762,6 +2762,7 @@
     "raofu",
     "speful",
     "LuciferYang",
-    "AndrewKL"
+    "AndrewKL",
+    "hn5092"
   ]
 }

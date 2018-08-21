@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/pandas-dev/pandas",
   "languages_url": "https://api.github.com/repos/pandas-dev/pandas/languages",
   "created_at": "2010-08-24T01:37:33Z",
-  "updated_at": "2018-08-21T01:26:49Z",
-  "pushed_at": "2018-08-21T02:06:15Z",
+  "updated_at": "2018-08-21T10:15:35Z",
+  "pushed_at": "2018-08-21T10:57:54Z",
   "homepage": "http://pandas.pydata.org",
-  "size": 129676,
-  "stargazers_count": 15644,
+  "size": 129686,
+  "stargazers_count": 15650,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "Python": {
-      "bytes": 13862620,
+      "bytes": 13862977,
       "color": "#3572A5"
     },
     "HTML": {
@@ -177,7 +177,7 @@
     "changhiskhan": 250,
     "adamklein": 327,
     "jbrockmendel": 383,
-    "gfyoung": 326,
+    "gfyoung": 327,
     "TomAugspurger": 434,
     "sinhrks": 405,
     "cpcloud": 606,
@@ -501,7 +501,7 @@
     "realead": 4,
     "DZPM": 2
   },
-  "fetched_at": "2018-08-21T02:23:06.794Z",
+  "fetched_at": "2018-08-21T11:29:17.889Z",
   "pulls_url": "https://api.github.com/repos/pandas-dev/pandas/pulls{/number}",
   "pulls_authors": [
     "WillAyd",
@@ -2232,6 +2232,8 @@
     "mikapfl",
     "H0R5E",
     "webartifex",
-    "bengineer19"
+    "bengineer19",
+    "gshiba",
+    "mariuspot"
   ]
 }

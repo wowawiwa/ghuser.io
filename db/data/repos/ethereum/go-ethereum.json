@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/ethereum/go-ethereum",
   "languages_url": "https://api.github.com/repos/ethereum/go-ethereum/languages",
   "created_at": "2013-12-26T13:05:46Z",
-  "updated_at": "2018-08-21T02:19:28Z",
-  "pushed_at": "2018-08-20T23:20:29Z",
+  "updated_at": "2018-08-21T11:12:52Z",
+  "pushed_at": "2018-08-21T10:36:39Z",
   "homepage": "https://geth.ethereum.org",
-  "size": 97194,
-  "stargazers_count": 20130,
+  "size": 95986,
+  "stargazers_count": 20146,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -124,7 +124,7 @@
     "jimenezrick": 12,
     "lmars": 17,
     "janos": 29,
-    "nonsense": 36,
+    "nonsense": 38,
     "gballet": 30,
     "egonelbre": 19,
     "cubedro": 32,
@@ -136,7 +136,7 @@
     "wanderer": 43,
     "gavofyork": 44,
     "bas-vk": 71,
-    "holiman": 92,
+    "holiman": 93,
     "zsfelfoldi": 113,
     "Gustav-Simonsson": 161,
     "maran": 219,
@@ -145,7 +145,7 @@
     "zelig": 360,
     "tgerring": 569,
     "fjl": 1002,
-    "karalabe": 1612,
+    "karalabe": 1615,
     "obscuren": 3951,
     "duckized": 28,
     "arboreum": 6,
@@ -368,11 +368,12 @@
     "YaoZengzeng": 1,
     "jeffprestes": 1,
     "Sasuke1964": 1,
-    "AdityaSripal": 1
+    "AdityaSripal": 1,
+    "pierreneter": 1
   },
   "languages": {
     "Go": {
-      "bytes": 9289766,
+      "bytes": 9287916,
       "color": "#375eab"
     },
     "C": {
@@ -440,7 +441,7 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-08-21T02:24:16.814Z",
+  "fetched_at": "2018-08-21T11:30:34.369Z",
   "pulls_url": "https://api.github.com/repos/ethereum/go-ethereum/pulls{/number}",
   "pulls_authors": [
     "Mistra",
@@ -942,6 +943,8 @@
     "Sasuke1964",
     "DenzelEtherio",
     "jwasinger",
-    "AdityaSripal"
+    "AdityaSripal",
+    "pierreneter",
+    "eosclassicteam"
   ]
 }

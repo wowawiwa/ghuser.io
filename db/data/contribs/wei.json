@@ -56,26 +56,26 @@
     "firekylin/firekylin": {
       "full_name": "firekylin/firekylin",
       "name": "firekylin",
-      "stargazers_count": 1500,
-      "popularity": 4.175869690208166,
+      "stargazers_count": 1502,
+      "popularity": 4.176448711005233,
       "percentage": 3.323262839879154,
       "maturity": 3.980874606344315,
       "total_commits_count": 993,
       "activity": 5,
-      "total_score": 27.29343491684717,
+      "total_score": 27.295422130217162,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "probot/probot": {
       "full_name": "probot/probot",
       "name": "probot",
-      "stargazers_count": 3085,
-      "popularity": 4.4891675387181635,
+      "stargazers_count": 3087,
+      "popularity": 4.489449081940996,
       "percentage": 0.117096018735363,
       "maturity": 3.91241386049745,
       "total_commits_count": 854,
       "activity": 5,
-      "total_score": 26.36066661115798,
+      "total_score": 26.361515526613243,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -108,7 +108,7 @@
     "gogs/gogs": {
       "full_name": "gogs/gogs",
       "name": "gogs",
-      "stargazers_count": 26643,
+      "stargazers_count": 26651,
       "popularity": 5,
       "percentage": 0.02042483660130719,
       "maturity": 4.688023904362173,
@@ -277,13 +277,13 @@
     "EventSource/eventsource": {
       "full_name": "EventSource/eventsource",
       "name": "eventsource",
-      "stargazers_count": 315,
-      "popularity": 3.4971070126076857,
+      "stargazers_count": 317,
+      "popularity": 3.499863572127496,
       "percentage": 0,
       "maturity": 3.294213028619176,
       "total_commits_count": 236,
       "activity": 5,
-      "total_score": 22.07974709506141,
+      "total_score": 22.08801677362084,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

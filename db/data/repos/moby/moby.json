@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/moby/moby",
   "languages_url": "https://api.github.com/repos/moby/moby/languages",
   "created_at": "2013-01-18T18:10:57Z",
-  "updated_at": "2018-08-21T01:16:20Z",
-  "pushed_at": "2018-08-21T02:07:54Z",
+  "updated_at": "2018-08-21T10:32:03Z",
+  "pushed_at": "2018-08-21T09:37:29Z",
   "homepage": "https://mobyproject.org/",
-  "size": 137988,
-  "stargazers_count": 50015,
+  "size": 137995,
+  "stargazers_count": 50028,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "Go": {
-      "bytes": 7269668,
+      "bytes": 7273660,
       "color": "#375eab"
     },
     "Shell": {
@@ -176,8 +176,8 @@
     "tianon": 801,
     "LK4D4": 1369,
     "cpuguy83": 1484,
-    "thaJeztah": 2620,
-    "jhowardmsft": 711,
+    "thaJeztah": 2622,
+    "jhowardmsft": 712,
     "creack": 1257,
     "vieux": 1833,
     "crosbymichael": 2078,
@@ -540,7 +540,7 @@
     "stevvooe": 65,
     "RenaudWasTaken": 5
   },
-  "fetched_at": "2018-08-21T02:23:07.743Z",
+  "fetched_at": "2018-08-21T11:29:18.855Z",
   "pulls_url": "https://api.github.com/repos/moby/moby/pulls{/number}",
   "pulls_authors": [
     "dperny",

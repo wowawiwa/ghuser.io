@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/sqlmapproject/sqlmap",
   "languages_url": "https://api.github.com/repos/sqlmapproject/sqlmap/languages",
   "created_at": "2012-06-26T09:52:15Z",
-  "updated_at": "2018-08-20T20:12:55Z",
+  "updated_at": "2018-08-21T11:28:40Z",
   "pushed_at": "2018-08-20T17:44:38Z",
   "homepage": "http://sqlmap.org",
   "size": 62102,
-  "stargazers_count": 12075,
+  "stargazers_count": 12081,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -141,7 +141,7 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-08-21T02:24:48.411Z",
+  "fetched_at": "2018-08-21T11:31:09.166Z",
   "pulls_url": "https://api.github.com/repos/sqlmapproject/sqlmap/pulls{/number}",
   "pulls_authors": [
     "stasinopoulos",

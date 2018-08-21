@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/netlify/netlify-cms/languages",
   "pulls_url": "https://api.github.com/repos/netlify/netlify-cms/pulls{/number}",
   "created_at": "2015-01-20T05:47:47Z",
-  "updated_at": "2018-08-21T01:59:02Z",
-  "pushed_at": "2018-08-20T21:25:34Z",
+  "updated_at": "2018-08-21T08:33:19Z",
+  "pushed_at": "2018-08-21T04:45:22Z",
   "homepage": "https://www.netlifycms.org",
   "size": 21021,
-  "stargazers_count": 6076,
+  "stargazers_count": 6078,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -363,7 +363,8 @@
     "cdschroeder",
     "jorear81",
     "kurtgcollins",
-    "cory-wc"
+    "cory-wc",
+    "eduplessis"
   ],
   "languages": {
     "JavaScript": {
@@ -379,5 +380,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-08-21T02:24:24.524Z"
+  "fetched_at": "2018-08-21T11:30:42.316Z"
 }

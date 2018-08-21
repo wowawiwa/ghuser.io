@@ -289,11 +289,11 @@
   "url": "https://api.github.com/repos/lukesampson/scoop",
   "languages_url": "https://api.github.com/repos/lukesampson/scoop/languages",
   "created_at": "2013-05-11T03:52:15Z",
-  "updated_at": "2018-08-21T01:07:04Z",
+  "updated_at": "2018-08-21T10:14:01Z",
   "pushed_at": "2018-08-21T01:00:21Z",
   "homepage": "https://scoop.sh",
   "size": 6398,
-  "stargazers_count": 4641,
+  "stargazers_count": 4643,
   "language": "PowerShell",
   "mirror_url": null,
   "archived": false,
@@ -315,7 +315,7 @@
       "color": "#178600"
     }
   },
-  "fetched_at": "2018-08-21T02:23:20.244Z",
+  "fetched_at": "2018-08-21T11:29:32.008Z",
   "pulls_url": "https://api.github.com/repos/lukesampson/scoop/pulls{/number}",
   "pulls_authors": [
     "leonyu",

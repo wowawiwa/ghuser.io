@@ -44,7 +44,7 @@
     "zmwangx": 4,
     "pbrisbin": 4,
     "sindresorhus": 76,
-    "mafredri": 94,
+    "mafredri": 95,
     "mortnod": 1
   },
   "name": "pure",
@@ -57,11 +57,11 @@
   "url": "https://api.github.com/repos/sindresorhus/pure",
   "languages_url": "https://api.github.com/repos/sindresorhus/pure/languages",
   "created_at": "2012-09-20T18:14:58Z",
-  "updated_at": "2018-08-21T00:57:23Z",
-  "pushed_at": "2018-08-20T12:18:05Z",
+  "updated_at": "2018-08-21T10:09:31Z",
+  "pushed_at": "2018-08-21T08:40:44Z",
   "homepage": "",
-  "size": 576,
-  "stargazers_count": 5551,
+  "size": 567,
+  "stargazers_count": 5555,
   "language": "Shell",
   "mirror_url": null,
   "archived": false,
@@ -75,11 +75,11 @@
   "default_branch": "master",
   "languages": {
     "Shell": {
-      "bytes": 36545,
+      "bytes": 36306,
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-21T02:23:26.678Z",
+  "fetched_at": "2018-08-21T11:29:37.882Z",
   "pulls_url": "https://api.github.com/repos/sindresorhus/pure/pulls{/number}",
   "pulls_authors": [
     "MatrixManAtYrService",
