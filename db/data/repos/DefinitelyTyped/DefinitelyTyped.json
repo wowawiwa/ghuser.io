@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/DefinitelyTyped/DefinitelyTyped/languages",
   "pulls_url": "https://api.github.com/repos/DefinitelyTyped/DefinitelyTyped/pulls{/number}",
   "created_at": "2012-10-05T16:39:45Z",
-  "updated_at": "2018-08-21T09:45:39Z",
-  "pushed_at": "2018-08-21T11:21:03Z",
+  "updated_at": "2018-08-21T20:58:56Z",
+  "pushed_at": "2018-08-21T21:30:36Z",
   "homepage": "http://definitelytyped.org/",
-  "size": 347856,
-  "stargazers_count": 17014,
+  "size": 349535,
+  "stargazers_count": 17021,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -143,7 +143,7 @@
     "BendingBender": 202,
     "Igorbek": 310,
     "leonard-thieu": 246,
-    "DanielRosenwasser": 1076,
+    "DanielRosenwasser": 1087,
     "borisyankov": 717,
     "chrootsu": 407,
     "vvakame": 4297,
@@ -235,7 +235,7 @@
     "Strate": 23,
     "joscha": 23,
     "geoffreak": 23,
-    "Rick-Kirkham": 23,
+    "Rick-Kirkham": 24,
     "cwmoo740": 23,
     "jbaldwin": 23,
     "KonstantinKai": 23,
@@ -375,7 +375,7 @@
     "bioball": 14,
     "danielearwicker": 14,
     "DavidKDeutsch": 14,
-    "ElizabethSamuel-MSFT": 21,
+    "ElizabethSamuel-MSFT": 25,
     "grahammendick": 14,
     "smrq": 14,
     "icopp": 14,
@@ -8840,11 +8840,18 @@
     "GuillaumeAmat",
     "ClaasBrueggemann",
     "kevinschoonover",
-    "Gregroam"
+    "Gregroam",
+    "TarogStar",
+    "BradleyHill",
+    "ltlombardi",
+    "simonihmig",
+    "tobold",
+    "tenorok",
+    "mistic100"
   ],
   "languages": {
     "TypeScript": {
-      "bytes": 24851141,
+      "bytes": 24857506,
       "color": "#2b7489"
     },
     "JavaScript": {
@@ -8856,5 +8863,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-21T11:29:13.196Z"
+  "fetched_at": "2018-08-21T21:45:49.365Z"
 }

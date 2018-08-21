@@ -84,7 +84,7 @@
     "jmontane": 52,
     "pskosinski": 43,
     "nijel": 43,
-    "bisqwit": 62,
+    "bisqwit": 63,
     "techtonik": 56,
     "oakes": 64,
     "joonas": 65,
@@ -99,7 +99,7 @@
     "seanlinsley": 299,
     "rohitpaulk": 214,
     "tuxayo": 213,
-    "Changaco": 4958,
+    "Changaco": 4963,
     "chadwhitacre": 5013,
     "trinary": 5,
     "andersjohansson": 3,
@@ -270,7 +270,7 @@
     "Anne017": 1,
     "BoFFire": 6,
     "pmanijak": 1,
-    "CrafterSvK": 2
+    "CrafterSvK": 3
   },
   "name": "liberapay.com",
   "full_name": "liberapay/liberapay.com",
@@ -282,11 +282,11 @@
   "url": "https://api.github.com/repos/liberapay/liberapay.com",
   "languages_url": "https://api.github.com/repos/liberapay/liberapay.com/languages",
   "created_at": "2015-05-22T14:03:52Z",
-  "updated_at": "2018-08-21T10:36:59Z",
-  "pushed_at": "2018-08-21T07:39:17Z",
+  "updated_at": "2018-08-21T15:41:51Z",
+  "pushed_at": "2018-08-21T13:18:40Z",
   "homepage": "https://liberapay.com/",
-  "size": 49091,
-  "stargazers_count": 465,
+  "size": 47582,
+  "stargazers_count": 466,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -314,7 +314,7 @@
   },
   "languages": {
     "Python": {
-      "bytes": 774551,
+      "bytes": 774808,
       "color": "#3572A5"
     },
     "PLpgSQL": {
@@ -350,7 +350,7 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-21T11:29:41.600Z",
+  "fetched_at": "2018-08-21T21:46:19.878Z",
   "pulls_url": "https://api.github.com/repos/liberapay/liberapay.com/pulls{/number}",
   "pulls_authors": [
     "jorgesumle",

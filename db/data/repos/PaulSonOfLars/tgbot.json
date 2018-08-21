@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/PaulSonOfLars/tgbot/languages",
   "pulls_url": "https://api.github.com/repos/PaulSonOfLars/tgbot/pulls{/number}",
   "created_at": "2017-07-31T18:44:57Z",
-  "updated_at": "2018-08-20T07:10:38Z",
-  "pushed_at": "2018-08-15T23:32:42Z",
+  "updated_at": "2018-08-21T18:44:35Z",
+  "pushed_at": "2018-08-21T15:46:59Z",
   "homepage": "",
-  "size": 688,
-  "stargazers_count": 71,
+  "size": 693,
+  "stargazers_count": 73,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -31,10 +31,10 @@
     "1maverick1": 1,
     "skittles9823": 1,
     "anirudhgupta109": 1,
-    "ATechnoHazard": 1,
+    "ATechnoHazard": 2,
     "Rohk25": 1,
     "MSF-Jarvis": 1,
-    "julianodorneles": 2,
+    "julianodorneles": 3,
     "TermoZour": 3,
     "PaulSonOfLars": 473
   },
@@ -63,9 +63,9 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 319118,
+      "bytes": 320016,
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-08-20T12:16:19.715Z"
+  "fetched_at": "2018-08-21T21:46:53.747Z"
 }

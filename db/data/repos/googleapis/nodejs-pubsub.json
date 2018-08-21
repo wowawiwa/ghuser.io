@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/googleapis/nodejs-pubsub/languages",
   "pulls_url": "https://api.github.com/repos/googleapis/nodejs-pubsub/pulls{/number}",
   "created_at": "2017-07-26T20:50:19Z",
-  "updated_at": "2018-08-20T23:13:15Z",
-  "pushed_at": "2018-08-18T04:36:26Z",
+  "updated_at": "2018-08-21T16:53:32Z",
+  "pushed_at": "2018-08-21T16:53:30Z",
   "homepage": "https://cloud.google.com/pubsub/",
-  "size": 1911,
+  "size": 1913,
   "stargazers_count": 60,
   "language": "JavaScript",
   "mirror_url": null,
@@ -74,7 +74,7 @@
     "ace-n": 6,
     "alexander-fenster": 10,
     "greenkeeper[bot]": 11,
-    "JustinBeckwith": 18,
+    "JustinBeckwith": 19,
     "renovate[bot]": 24,
     "stephenplusplus": 42,
     "jmdobry": 44,
@@ -108,7 +108,7 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 558229,
+      "bytes": 557145,
       "color": "#f1e05a"
     },
     "Python": {
@@ -116,5 +116,5 @@
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-08-21T02:22:21.687Z"
+  "fetched_at": "2018-08-21T21:45:06.274Z"
 }

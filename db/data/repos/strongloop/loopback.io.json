@@ -10,8 +10,8 @@
   "url": "https://api.github.com/repos/strongloop/loopback.io",
   "languages_url": "https://api.github.com/repos/strongloop/loopback.io/languages",
   "created_at": "2014-01-28T18:00:00Z",
-  "updated_at": "2018-08-20T21:13:29Z",
-  "pushed_at": "2018-08-20T21:13:26Z",
+  "updated_at": "2018-08-21T21:18:35Z",
+  "pushed_at": "2018-08-21T21:18:33Z",
   "homepage": "http://loopback.io",
   "size": 64505,
   "stargazers_count": 148,
@@ -145,7 +145,7 @@
     "dhmlau": 30,
     "virkt25": 34,
     "bajtos": 44,
-    "slnode": 159,
+    "slnode": 160,
     "crandmck": 576,
     "itaditya": 1,
     "asnov": 1,
@@ -238,7 +238,7 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-08-21T02:24:35.475Z",
+  "fetched_at": "2018-08-21T21:47:30.678Z",
   "pulls_url": "https://api.github.com/repos/strongloop/loopback.io/pulls{/number}",
   "pulls_authors": [
     "CNSKnight",
@@ -429,6 +429,7 @@
     "altsang",
     "rosshj",
     "crwhite21",
-    "manojchandrashekar"
+    "manojchandrashekar",
+    "DOSarrest"
   ]
 }

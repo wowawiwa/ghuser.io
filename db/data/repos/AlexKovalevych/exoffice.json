@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "exoffice",
+  "full_name": "AlexKovalevych/exoffice",
+  "owner": "AlexKovalevych",
+  "private": false,
+  "html_url": "https://github.com/AlexKovalevych/exoffice",
+  "description": "Library to parse common excel formats (xls, xlsx, csv)",
+  "fork": false,
+  "url": "https://api.github.com/repos/AlexKovalevych/exoffice",
+  "languages_url": "https://api.github.com/repos/AlexKovalevych/exoffice/languages",
+  "pulls_url": "https://api.github.com/repos/AlexKovalevych/exoffice/pulls{/number}",
+  "created_at": "2016-11-26T13:25:06Z",
+  "updated_at": "2018-08-21T16:22:39Z",
+  "pushed_at": "2018-08-21T16:22:37Z",
+  "homepage": "",
+  "size": 526,
+  "stargazers_count": 15,
+  "language": "Elixir",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "CharlesOkwuagwu": 1,
+    "AlexKovalevych": 12
+  },
+  "pulls_authors": [
+    "rockneurotiko",
+    "tetiana12345678",
+    "AlexKovalevych",
+    "CharlesOkwuagwu"
+  ],
+  "languages": {
+    "Elixir": {
+      "bytes": 53753,
+      "color": "#6e4a7e"
+    }
+  },
+  "fetched_at": "2018-08-21T21:49:55.102Z"
+}

@@ -1,21 +1,21 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "name": "jgit-spark-connector",
-  "full_name": "src-d/jgit-spark-connector",
+  "name": "engine",
+  "full_name": "src-d/engine",
   "owner": "src-d",
   "private": false,
-  "html_url": "https://github.com/src-d/jgit-spark-connector",
-  "description": "jgit-spark-connector is a library for running scalable data retrieval pipelines that process any number of Git repositories for source code analysis.",
+  "html_url": "https://github.com/src-d/engine",
+  "description": "source{d} engine",
   "fork": false,
-  "url": "https://api.github.com/repos/src-d/jgit-spark-connector",
-  "languages_url": "https://api.github.com/repos/src-d/jgit-spark-connector/languages",
-  "created_at": "2017-08-03T10:55:44Z",
-  "updated_at": "2018-08-21T08:27:36Z",
-  "pushed_at": "2018-08-21T08:30:42Z",
+  "url": "https://api.github.com/repos/src-d/engine",
+  "languages_url": "https://api.github.com/repos/src-d/engine/languages",
+  "created_at": "2018-08-16T06:07:24Z",
+  "updated_at": "2018-08-21T16:05:40Z",
+  "pushed_at": "2018-08-21T17:25:57Z",
   "homepage": "",
-  "size": 8945,
-  "stargazers_count": 68,
-  "language": "Scala",
+  "size": 3614,
+  "stargazers_count": 2,
+  "language": "Go",
   "mirror_url": null,
   "archived": false,
   "license": {
@@ -64,36 +64,25 @@
     "bzz": 44,
     "ajnavarro": 66,
     "mcarmonaa": 84,
-    "erizocosmico": 152
+    "erizocosmico": 152,
+    "campoy": 8
   },
   "languages": {
-    "Scala": {
-      "bytes": 235347,
-      "color": "#c22d40"
-    },
-    "Python": {
-      "bytes": 38750,
-      "color": "#3572A5"
-    },
-    "Shell": {
-      "bytes": 21298,
-      "color": "#89e051"
-    },
-    "Jupyter Notebook": {
-      "bytes": 10658,
-      "color": "#DA5B0B"
-    },
-    "Makefile": {
-      "bytes": 5265,
-      "color": "#427819"
+    "Go": {
+      "bytes": 30431,
+      "color": "#375eab"
     },
     "Dockerfile": {
-      "bytes": 2065,
+      "bytes": 627,
       "color": "#0db7ed"
+    },
+    "Makefile": {
+      "bytes": 162,
+      "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-21T11:32:41.094Z",
-  "pulls_url": "https://api.github.com/repos/src-d/jgit-spark-connector/pulls{/number}",
+  "fetched_at": "2018-08-21T21:49:19.657Z",
+  "pulls_url": "https://api.github.com/repos/src-d/engine/pulls{/number}",
   "pulls_authors": [
     "eiso",
     "manugarri",

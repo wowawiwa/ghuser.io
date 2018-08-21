@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/django/django/languages",
   "pulls_url": "https://api.github.com/repos/django/django/pulls{/number}",
   "created_at": "2012-04-28T02:47:18Z",
-  "updated_at": "2018-08-21T11:05:08Z",
-  "pushed_at": "2018-08-21T00:22:54Z",
+  "updated_at": "2018-08-21T21:46:30Z",
+  "pushed_at": "2018-08-21T20:37:31Z",
   "homepage": "https://www.djangoproject.com/",
   "size": 179641,
-  "stargazers_count": 35872,
+  "stargazers_count": 35889,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -79,7 +79,7 @@
     "dracos": 16,
     "scop": 18,
     "mattrobenolt": 16,
-    "srinivasreddy": 20,
+    "srinivasreddy": 21,
     "carltongibson": 20,
     "czpython": 21,
     "wrwrwr": 21,
@@ -123,7 +123,7 @@
     "ikelly": 93,
     "MarkusH": 134,
     "brosner": 150,
-    "jdufresne": 157,
+    "jdufresne": 158,
     "bmispelon": 160,
     "loic": 180,
     "jphalip": 194,
@@ -144,11 +144,11 @@
     "jezdez": 895,
     "jacobian": 893,
     "aaugustin": 1384,
-    "claudep": 1559,
+    "claudep": 1560,
     "freakboy3742": 1740,
     "malcolmt": 1872,
     "adrianholovaty": 2802,
-    "timgraham": 3232,
+    "timgraham": 3233,
     "dstufft": 20,
     "dbrgn": 12,
     "inglesp": 11,
@@ -370,7 +370,7 @@
     "koirikivi": 3,
     "Naddiseo": 3,
     "renskiy": 3,
-    "math-a3k": 4,
+    "math-a3k": 5,
     "sww": 3,
     "ssangervasi": 3,
     "sjoerdjob": 3,
@@ -3284,11 +3284,12 @@
     "wildanupam",
     "htkuan",
     "nilsfr",
-    "danpalmer"
+    "danpalmer",
+    "fmichea"
   ],
   "languages": {
     "Python": {
-      "bytes": 12685583,
+      "bytes": 12684632,
       "color": "#3572A5"
     },
     "JavaScript": {
@@ -3316,5 +3317,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-21T11:31:44.309Z"
+  "fetched_at": "2018-08-21T21:48:19.926Z"
 }

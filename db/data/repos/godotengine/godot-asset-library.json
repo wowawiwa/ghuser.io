@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/godotengine/godot-asset-library",
   "languages_url": "https://api.github.com/repos/godotengine/godot-asset-library/languages",
   "created_at": "2016-04-16T14:20:38Z",
-  "updated_at": "2018-08-20T01:40:49Z",
-  "pushed_at": "2018-08-01T12:19:59Z",
+  "updated_at": "2018-08-21T19:36:56Z",
+  "pushed_at": "2018-08-21T19:36:54Z",
   "homepage": "https://godotengine.org",
-  "size": 925,
+  "size": 931,
   "stargazers_count": 59,
   "language": "PHP",
   "mirror_url": null,
@@ -56,15 +56,15 @@
     "alketii": 4,
     "TomWor": 7,
     "merumelu": 12,
-    "bojidar-bg": 82
+    "bojidar-bg": 83
   },
   "languages": {
     "PHP": {
-      "bytes": 100751,
+      "bytes": 101169,
       "color": "#4F5D95"
     },
     "HTML": {
-      "bytes": 66731,
+      "bytes": 67746,
       "color": "#e34c26"
     },
     "CSS": {
@@ -72,7 +72,7 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-08-20T04:34:42.207Z",
+  "fetched_at": "2018-08-21T21:46:30.032Z",
   "pulls_url": "https://api.github.com/repos/godotengine/godot-asset-library/pulls{/number}",
   "pulls_authors": [
     "Calinou",

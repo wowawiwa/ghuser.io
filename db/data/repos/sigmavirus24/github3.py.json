@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/sigmavirus24/github3.py/languages",
   "pulls_url": "https://api.github.com/repos/sigmavirus24/github3.py/pulls{/number}",
   "created_at": "2012-03-13T19:58:53Z",
-  "updated_at": "2018-08-19T13:06:04Z",
-  "pushed_at": "2018-08-19T13:06:02Z",
+  "updated_at": "2018-08-21T21:08:17Z",
+  "pushed_at": "2018-08-21T21:08:19Z",
   "homepage": "https://github3.readthedocs.io",
-  "size": 52353,
+  "size": 52385,
   "stargazers_count": 816,
   "language": "Python",
   "mirror_url": null,
@@ -127,7 +127,7 @@
     "bgilbert": 26,
     "esacteksab": 65,
     "itsmemattchung": 131,
-    "sigmavirus24": 2383,
+    "sigmavirus24": 2385,
     "aroig": 1,
     "adamchainz": 1,
     "alexwlchan": 1,
@@ -296,7 +296,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 1086364,
+      "bytes": 1108974,
       "color": "#3572A5"
     },
     "Jupyter Notebook": {
@@ -308,5 +308,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-19T18:20:26.374Z"
+  "fetched_at": "2018-08-21T21:48:19.824Z"
 }

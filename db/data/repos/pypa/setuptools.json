@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/pypa/setuptools/languages",
   "pulls_url": "https://api.github.com/repos/pypa/setuptools/pulls{/number}",
   "created_at": "2016-03-29T14:02:33Z",
-  "updated_at": "2018-08-17T18:50:59Z",
-  "pushed_at": "2018-08-17T18:51:07Z",
+  "updated_at": "2018-08-21T15:10:31Z",
+  "pushed_at": "2018-08-21T16:48:29Z",
   "homepage": "https://pypi.python.org/pypi/setuptools",
-  "size": 34212,
+  "size": 34255,
   "stargazers_count": 612,
   "language": "Python",
   "mirror_url": null,
@@ -144,10 +144,10 @@
     "stefanholek": 47,
     "Arfrever": 48,
     "JGoutin": 52,
-    "benoit-pierre": 64,
+    "benoit-pierre": 65,
     "ptthiem": 74,
     "tarekziade": 81,
-    "jaraco": 3693,
+    "jaraco": 3704,
     "invalid-email-address": 277,
     "ianw": 2,
     "Zelgius": 2,
@@ -235,7 +235,8 @@
     "rutsky": 1,
     "goal": 1,
     "DYFeng": 1,
-    "expobrain": 3
+    "expobrain": 3,
+    "pfmoore": 3
   },
   "pulls_authors": [
     "benoit-pierre",
@@ -395,11 +396,12 @@
     "totoroliu",
     "ncoghlan",
     "ri0t",
-    "embray"
+    "embray",
+    "pfmoore"
   ],
   "languages": {
     "Python": {
-      "bytes": 857767,
+      "bytes": 859560,
       "color": "#3572A5"
     },
     "C": {
@@ -415,5 +417,5 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-08-18T09:20:21.704Z"
+  "fetched_at": "2018-08-21T21:48:15.111Z"
 }

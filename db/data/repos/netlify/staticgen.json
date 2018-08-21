@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/netlify/staticgen/languages",
   "pulls_url": "https://api.github.com/repos/netlify/staticgen/pulls{/number}",
   "created_at": "2014-04-25T19:15:38Z",
-  "updated_at": "2018-08-20T16:03:50Z",
-  "pushed_at": "2018-08-19T02:39:18Z",
+  "updated_at": "2018-08-21T21:17:53Z",
+  "pushed_at": "2018-08-21T21:17:51Z",
   "homepage": "http://www.staticgen.com",
-  "size": 5267,
+  "size": 5517,
   "stargazers_count": 1759,
   "language": "JavaScript",
   "mirror_url": null,
@@ -146,7 +146,7 @@
     "alexchopin": 7,
     "bdougie": 30,
     "eliwilliamson": 22,
-    "erquhart": 34,
+    "erquhart": 37,
     "biilmann": 275,
     "gilbitron": 2,
     "WillsB3": 2,
@@ -207,7 +207,7 @@
     "koistya": 1,
     "kylemac": 1,
     "leowzukw": 1,
-    "leonstafford": 1,
+    "leonstafford": 2,
     "leo": 1,
     "vicancy": 1,
     "lutzroeder": 1,
@@ -234,7 +234,7 @@
     "brainfoolong": 1,
     "EnigmaCurry": 1,
     "RyanZim": 1,
-    "sake92": 1,
+    "sake92": 2,
     "calcsam": 1,
     "sepandhaghighi": 1,
     "ArmorDarks": 1,
@@ -245,7 +245,7 @@
     "sunainapai": 1,
     "thgh": 1,
     "ThomOrlo": 1,
-    "dziudek": 1,
+    "dziudek": 2,
     "sparanoid": 1,
     "glukki": 1,
     "jahy": 1,
@@ -270,7 +270,17 @@
     "staticcharge": 1,
     "svlasov": 1,
     "underr": 1,
-    "OrdinaryJellyfish": 2
+    "OrdinaryJellyfish": 2,
+    "noraj": 1,
+    "zeroby0": 1,
+    "gnumanx": 1,
+    "honzajavorek": 1,
+    "jnrdt": 1,
+    "Manvel": 1,
+    "mottosso": 1,
+    "mortenson": 1,
+    "TomasVotruba": 1,
+    "wkallhof": 1
   },
   "pulls_authors": [
     "leonstafford",
@@ -541,9 +551,9 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 36390,
+      "bytes": 36746,
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-21T02:22:22.577Z"
+  "fetched_at": "2018-08-21T21:45:07.338Z"
 }
