@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/PyCQA/pydocstyle/languages",
   "pulls_url": "https://api.github.com/repos/PyCQA/pydocstyle/pulls{/number}",
   "created_at": "2012-01-31T17:18:23Z",
-  "updated_at": "2018-08-17T12:31:10Z",
-  "pushed_at": "2018-07-27T03:07:09Z",
+  "updated_at": "2018-08-22T08:15:17Z",
+  "pushed_at": "2018-08-19T18:06:06Z",
   "homepage": "http://pydocstyle.org",
   "size": 671,
-  "stargazers_count": 448,
+  "stargazers_count": 449,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -148,7 +148,8 @@
     "papisz",
     "bboe",
     "cyli",
-    "zyluo"
+    "zyluo",
+    "scop"
   ],
   "languages": {
     "Python": {
@@ -156,5 +157,5 @@
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-08-18T09:20:24.993Z"
+  "fetched_at": "2018-08-22T17:12:24.010Z"
 }

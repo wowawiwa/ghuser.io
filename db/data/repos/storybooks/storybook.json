@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/storybooks/storybook",
   "languages_url": "https://api.github.com/repos/storybooks/storybook/languages",
   "created_at": "2016-03-18T04:23:44Z",
-  "updated_at": "2018-08-22T06:48:41Z",
-  "pushed_at": "2018-08-22T06:54:48Z",
+  "updated_at": "2018-08-22T17:06:52Z",
+  "pushed_at": "2018-08-22T17:13:02Z",
   "homepage": "https://storybook.js.org",
-  "size": 113479,
-  "stargazers_count": 27399,
+  "size": 113713,
+  "stargazers_count": 27447,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -140,7 +140,7 @@
     "danielduan": 310,
     "tmeasday": 199,
     "roonyh": 219,
-    "igor-dv": 674,
+    "igor-dv": 676,
     "shilman": 812,
     "mnmtanish": 808,
     "ndelangen": 1605,
@@ -463,7 +463,7 @@
     "adekbadek": 1,
     "jmiazga": 5,
     "JalilArfaoui": 1,
-    "pksunkara": 7,
+    "pksunkara": 8,
     "brycemhammond": 1,
     "camel-floss": 4,
     "libetl": 3,
@@ -522,7 +522,7 @@
       "color": "#d4bec1"
     }
   },
-  "fetched_at": "2018-08-22T06:57:23.679Z",
+  "fetched_at": "2018-08-22T17:14:19.180Z",
   "pulls_url": "https://api.github.com/repos/storybooks/storybook/pulls{/number}",
   "pulls_authors": [
     "jcgertig",
@@ -1022,6 +1022,8 @@
     "pahans",
     "martinmacko47",
     "466023746",
-    "FreddyFY"
+    "FreddyFY",
+    "marshallmick007",
+    "michaelduminy"
   ]
 }

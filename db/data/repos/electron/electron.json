@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/electron/electron/languages",
   "pulls_url": "https://api.github.com/repos/electron/electron/pulls{/number}",
   "created_at": "2013-04-12T01:47:36Z",
-  "updated_at": "2018-08-22T06:57:24Z",
-  "pushed_at": "2018-08-22T05:13:53Z",
+  "updated_at": "2018-08-22T16:50:51Z",
+  "pushed_at": "2018-08-22T16:57:18Z",
   "homepage": "https://electronjs.org",
-  "size": 41662,
-  "stargazers_count": 63600,
+  "size": 41694,
+  "stargazers_count": 63618,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -133,9 +133,9 @@
     "tarruda": 74,
     "tinydew4": 92,
     "gerhardberger": 95,
-    "jkleinsc": 245,
+    "jkleinsc": 246,
     "nornagon": 147,
-    "ckerr": 217,
+    "ckerr": 218,
     "brenca": 185,
     "paulcbetts": 245,
     "felixrieseberg": 252,
@@ -1441,7 +1441,7 @@
       "color": "#f34b7d"
     },
     "JavaScript": {
-      "bytes": 977611,
+      "bytes": 977653,
       "color": "#f1e05a"
     },
     "Objective-C++": {
@@ -1449,7 +1449,7 @@
       "color": "#6866fb"
     },
     "Python": {
-      "bytes": 309935,
+      "bytes": 310480,
       "color": "#3572A5"
     },
     "Objective-C": {
@@ -1481,5 +1481,5 @@
       "color": "#012456"
     }
   },
-  "fetched_at": "2018-08-22T06:57:40.874Z"
+  "fetched_at": "2018-08-22T17:14:36.781Z"
 }

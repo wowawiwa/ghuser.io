@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/elastic/kibana",
   "languages_url": "https://api.github.com/repos/elastic/kibana/languages",
   "created_at": "2013-01-26T04:00:59Z",
-  "updated_at": "2018-08-22T01:36:59Z",
-  "pushed_at": "2018-08-22T06:36:07Z",
+  "updated_at": "2018-08-22T16:58:15Z",
+  "pushed_at": "2018-08-22T17:01:10Z",
   "homepage": "https://www.elastic.co/products/kibana",
-  "size": 446847,
-  "stargazers_count": 9921,
+  "size": 447018,
+  "stargazers_count": 9925,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,15 +48,15 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 18388177,
+      "bytes": 18409058,
       "color": "#f1e05a"
     },
     "TypeScript": {
-      "bytes": 899305,
+      "bytes": 901760,
       "color": "#2b7489"
     },
     "HTML": {
-      "bytes": 835393,
+      "bytes": 835390,
       "color": "#e34c26"
     },
     "CSS": {
@@ -123,7 +123,7 @@
     "rasroh": 9,
     "bhavyarm": 8,
     "gmoskovicz": 8,
-    "liza-mae": 15,
+    "liza-mae": 16,
     "markharwood": 9,
     "drej82": 9,
     "grouma": 16,
@@ -149,7 +149,7 @@
     "clintongormley": 25,
     "nyurik": 27,
     "archanid": 35,
-    "sqren": 45,
+    "sqren": 46,
     "weltenwort": 39,
     "bmcconaghy": 45,
     "jimmyjones2": 36,
@@ -167,7 +167,7 @@
     "panda01": 323,
     "BigFunger": 339,
     "Stacey-Gammon": 271,
-    "ppisljar": 277,
+    "ppisljar": 278,
     "LeeDr": 323,
     "ycombinator": 330,
     "epixa": 395,
@@ -191,7 +191,7 @@
     "izeye": 2,
     "kellyemurphy": 2,
     "markov00": 7,
-    "marius-dr": 2,
+    "marius-dr": 3,
     "martijnvg": 2,
     "mcascallares": 2,
     "mikeolivieri": 2,
@@ -342,7 +342,7 @@
     "yankouskia": 7,
     "ruflin": 4,
     "hendrikmuhs": 1,
-    "LeanidShutau": 4,
+    "LeanidShutau": 5,
     "exekias": 1,
     "pjhampton": 1,
     "simitt": 2,
@@ -354,9 +354,10 @@
     "pavel06081991": 1,
     "going-confetti": 1,
     "scottis": 1,
-    "jasonrhodes": 1
+    "jasonrhodes": 1,
+    "rshen91": 1
   },
-  "fetched_at": "2018-08-22T06:55:42.429Z",
+  "fetched_at": "2018-08-22T17:12:42.921Z",
   "pulls_url": "https://api.github.com/repos/elastic/kibana/pulls{/number}",
   "pulls_authors": [
     "nreese",

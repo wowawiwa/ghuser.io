@@ -100,7 +100,7 @@
     "igorw": 117,
     "alcohol": 292,
     "naderman": 525,
-    "Seldaek": 4268,
+    "Seldaek": 4271,
     "ntoniazzi": 13,
     "maximcherny": 7,
     "msiebeneicher": 7,
@@ -426,11 +426,11 @@
   "url": "https://api.github.com/repos/composer/composer",
   "languages_url": "https://api.github.com/repos/composer/composer/languages",
   "created_at": "2011-06-08T08:53:00Z",
-  "updated_at": "2018-08-22T00:16:42Z",
-  "pushed_at": "2018-08-21T15:05:55Z",
+  "updated_at": "2018-08-22T16:59:37Z",
+  "pushed_at": "2018-08-22T07:58:01Z",
   "homepage": "https://getcomposer.org/",
-  "size": 12946,
-  "stargazers_count": 15756,
+  "size": 12938,
+  "stargazers_count": 15766,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -464,7 +464,7 @@
   },
   "languages": {
     "PHP": {
-      "bytes": 5406473,
+      "bytes": 5404688,
       "color": "#4F5D95"
     },
     "Hack": {
@@ -472,7 +472,7 @@
       "color": "#878787"
     }
   },
-  "fetched_at": "2018-08-22T06:52:55.856Z",
+  "fetched_at": "2018-08-22T17:10:14.862Z",
   "pulls_url": "https://api.github.com/repos/composer/composer/pulls{/number}",
   "pulls_authors": [
     "shalvah",

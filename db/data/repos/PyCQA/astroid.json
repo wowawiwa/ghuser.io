@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/PyCQA/astroid/languages",
   "pulls_url": "https://api.github.com/repos/PyCQA/astroid/pulls{/number}",
   "created_at": "2015-12-08T21:12:00Z",
-  "updated_at": "2018-08-21T09:07:01Z",
-  "pushed_at": "2018-08-21T09:06:59Z",
+  "updated_at": "2018-08-22T08:32:34Z",
+  "pushed_at": "2018-08-22T08:32:31Z",
   "homepage": null,
-  "size": 13301,
+  "size": 13350,
   "stargazers_count": 159,
   "language": "Python",
   "mirror_url": null,
@@ -105,7 +105,7 @@
     "ceridwen": 50,
     "shlomme": 66,
     "brycepg": 70,
-    "PCManticore": 799
+    "PCManticore": 800
   },
   "pulls_authors": [
     "nickdrozd",
@@ -153,7 +153,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 1175914,
+      "bytes": 1176186,
       "color": "#3572A5"
     },
     "Makefile": {
@@ -165,5 +165,5 @@
       "color": "#012456"
     }
   },
-  "fetched_at": "2018-08-21T11:31:44.789Z"
+  "fetched_at": "2018-08-22T17:12:24.744Z"
 }

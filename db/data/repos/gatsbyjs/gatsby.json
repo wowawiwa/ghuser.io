@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/gatsbyjs/gatsby",
   "languages_url": "https://api.github.com/repos/gatsbyjs/gatsby/languages",
   "created_at": "2015-05-21T22:43:05Z",
-  "updated_at": "2018-08-22T06:30:20Z",
-  "pushed_at": "2018-08-22T05:14:23Z",
+  "updated_at": "2018-08-22T16:50:51Z",
+  "pushed_at": "2018-08-22T17:04:20Z",
   "homepage": "https://www.gatsbyjs.org",
-  "size": 373020,
-  "stargazers_count": 24763,
+  "size": 373372,
+  "stargazers_count": 24784,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -144,7 +144,7 @@
     "ryanditjia": 59,
     "jquense": 115,
     "fk": 175,
-    "pieh": 330,
+    "pieh": 331,
     "shannonbux": 156,
     "m-allanson": 688,
     "KyleAMathews": 4513,
@@ -1093,7 +1093,8 @@
     "davidbailey00": 1,
     "rase-": 1,
     "kylecesmat": 1,
-    "kartiklad": 2
+    "kartiklad": 2,
+    "arrkiin": 1
   },
   "languages": {
     "JavaScript": {
@@ -1117,7 +1118,7 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-22T06:52:23.449Z",
+  "fetched_at": "2018-08-22T17:09:41.826Z",
   "pulls_url": "https://api.github.com/repos/gatsbyjs/gatsby/pulls{/number}",
   "pulls_authors": [
     "shannonbux",
@@ -2289,6 +2290,10 @@
     "nayres",
     "alexkirsz",
     "ksigler7",
-    "jserrao"
+    "jserrao",
+    "dbrookes",
+    "arrkiin",
+    "mattes3",
+    "markza"
   ]
 }

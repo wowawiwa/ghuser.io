@@ -7,10 +7,10 @@
       "stargazers_count": 241,
       "popularity": 3.380431232430878,
       "percentage": 0,
-      "maturity": 3.105880505784522,
-      "total_commits_count": 167,
+      "maturity": 3.1092840956183023,
+      "total_commits_count": 168,
       "activity": 5,
-      "total_score": 21.353054708861677,
+      "total_score": 21.359861888529238,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -95,13 +95,13 @@
     "netlify/netlify-cms": {
       "full_name": "netlify/netlify-cms",
       "name": "netlify-cms",
-      "stargazers_count": 6086,
-      "popularity": 4.7843068076503705,
-      "percentage": 0.05649717514124294,
-      "maturity": 4.239807424581231,
-      "total_commits_count": 1770,
+      "stargazers_count": 6096,
+      "popularity": 4.785019923330118,
+      "percentage": 0.05646527385657821,
+      "maturity": 4.240058374884085,
+      "total_commits_count": 1771,
       "activity": 5,
-      "total_score": 27.867674248666937,
+      "total_score": 27.870300889607925,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/facebook/create-react-app",
   "languages_url": "https://api.github.com/repos/facebook/create-react-app/languages",
   "created_at": "2016-07-17T14:55:11Z",
-  "updated_at": "2018-08-22T06:00:47Z",
-  "pushed_at": "2018-08-21T11:03:44Z",
+  "updated_at": "2018-08-22T17:04:12Z",
+  "pushed_at": "2018-08-22T16:35:25Z",
   "homepage": null,
   "size": 5718,
-  "stargazers_count": 54107,
+  "stargazers_count": 54141,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -64,7 +64,7 @@
     "Zaccc123": 2,
     "luftywiranda13": 2,
     "davidascher": 2,
-    "pmadar": 2,
+    "pmadar": 1,
     "geowarin": 2,
     "kellyrmilligan": 2,
     "chyipin": 2,
@@ -533,7 +533,8 @@
     "frenzzy": 1,
     "Ashleyotero": 1,
     "j-f1": 1,
-    "IIIIllllIIIIllllIIIIllllIIIIllllIIIIll": 1
+    "IIIIllllIIIIllllIIIIllllIIIIllllIIIIll": 1,
+    "acdlite": 1
   },
   "languages": {
     "JavaScript": {
@@ -557,7 +558,7 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-08-22T06:52:47.606Z",
+  "fetched_at": "2018-08-22T17:10:07.443Z",
   "pulls_url": "https://api.github.com/repos/facebook/create-react-app/pulls{/number}",
   "pulls_authors": [
     "Terbiy",
@@ -1493,6 +1494,8 @@
     "gautier-lefebvre",
     "thejohnfreeman",
     "alex-pex",
-    "Alexandre-T"
+    "Alexandre-T",
+    "sebslomski",
+    "nikgraf"
   ]
 }

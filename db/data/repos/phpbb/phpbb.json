@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/phpbb/phpbb",
   "languages_url": "https://api.github.com/repos/phpbb/phpbb/languages",
   "created_at": "2010-03-01T22:33:17Z",
-  "updated_at": "2018-08-21T16:17:26Z",
+  "updated_at": "2018-08-22T08:06:23Z",
   "pushed_at": "2018-08-21T19:29:36Z",
   "homepage": "http://www.phpbb.com",
   "size": 63685,
-  "stargazers_count": 1131,
+  "stargazers_count": 1132,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -248,7 +248,7 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-08-21T21:45:13.877Z",
+  "fetched_at": "2018-08-22T17:09:17.860Z",
   "pulls_url": "https://api.github.com/repos/phpbb/phpbb/pulls{/number}",
   "pulls_authors": [
     "marc1706",
