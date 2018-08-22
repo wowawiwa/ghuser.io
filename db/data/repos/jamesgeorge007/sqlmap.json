@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/jamesgeorge007/sqlmap",
   "languages_url": "https://api.github.com/repos/jamesgeorge007/sqlmap/languages",
   "created_at": "2018-03-05T13:04:14Z",
-  "updated_at": "2018-05-05T04:11:38Z",
-  "pushed_at": "2018-05-05T04:11:25Z",
+  "updated_at": "2018-08-22T05:34:37Z",
+  "pushed_at": "2018-08-22T05:34:21Z",
   "homepage": "http://sqlmap.org",
-  "size": 61655,
+  "size": 62103,
   "stargazers_count": 1,
   "language": "Python",
   "mirror_url": null,
@@ -90,11 +90,15 @@
     "Meatballs1": 19,
     "guinslym": 20,
     "inquisb": 1816,
-    "stamparm": 5987
+    "stamparm": 6093,
+    "stasinopoulos": 1,
+    "GermanAizek": 1,
+    "cnotin": 1,
+    "kxcode": 1
   },
   "languages": {
     "Python": {
-      "bytes": 1685943,
+      "bytes": 1699614,
       "color": "#3572A5"
     },
     "C": {
@@ -102,7 +106,7 @@
       "color": "#555555"
     },
     "Shell": {
-      "bytes": 9794,
+      "bytes": 10351,
       "color": "#89e051"
     },
     "C++": {
@@ -118,7 +122,7 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-07-22T16:49:45.098Z",
+  "fetched_at": "2018-08-22T06:54:43.257Z",
   "pulls_url": "https://api.github.com/repos/jamesgeorge007/sqlmap/pulls{/number}",
   "pulls_authors": [
     "jamesgeorge007"

@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "OdarGM/OdarBot": {
+      "full_name": "OdarGM/OdarBot",
+      "name": "OdarBot",
+      "stargazers_count": 3,
+      "popularity": 1.3222565221025262,
+      "percentage": 98.85057471264368,
+      "maturity": 3.3463242774463398,
+      "total_commits_count": 261,
+      "activity": 5,
+      "total_score": 32.65117434775916,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "OdarArmy/odararmy.github.io": {
+      "full_name": "OdarArmy/odararmy.github.io",
+      "name": "odararmy.github.io",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 10,
+      "activity": 5,
+      "total_score": 21.662851527087042,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "OdarArmy/EasyDiscordPresence": {
+      "full_name": "OdarArmy/EasyDiscordPresence",
+      "name": "EasyDiscordPresence",
+      "stargazers_count": 4,
+      "popularity": 1.49139952161816,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 11,
+      "activity": 5,
+      "total_score": 28.86239234589056,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "js-org/js.org": {
+      "full_name": "js-org/js.org",
+      "name": "js.org",
+      "stargazers_count": 1843,
+      "popularity": 4.265352289085705,
+      "percentage": 0,
+      "maturity": 4.4663897166152555,
+      "total_commits_count": 2955,
+      "activity": 5,
+      "total_score": 26.728836300487625,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "OdarArmy",
+    "js-org"
+  ]
+}

@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/kubernetes/community",
   "languages_url": "https://api.github.com/repos/kubernetes/community/languages",
   "created_at": "2016-05-03T03:36:05Z",
-  "updated_at": "2018-08-21T21:46:58Z",
-  "pushed_at": "2018-08-21T21:46:41Z",
+  "updated_at": "2018-08-22T01:26:12Z",
+  "pushed_at": "2018-08-22T00:25:29Z",
   "homepage": "",
-  "size": 30468,
+  "size": 30482,
   "stargazers_count": 2362,
   "language": "Go",
   "mirror_url": null,
@@ -135,7 +135,7 @@
     "ihmccreery": 36,
     "vishh": 45,
     "derekwaynecarr": 52,
-    "spiffxp": 73,
+    "spiffxp": 74,
     "jbeda": 55,
     "guineveresaenger": 56,
     "pwittrock": 90,
@@ -148,7 +148,7 @@
     "cblecker": 140,
     "bgrant0607": 170,
     "k8s-merge-robot": 714,
-    "k8s-ci-robot": 639,
+    "k8s-ci-robot": 641,
     "resouer": 19,
     "chrislovecnm": 17,
     "dims": 16,
@@ -462,7 +462,7 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-21T21:49:29.574Z",
+  "fetched_at": "2018-08-22T06:56:34.771Z",
   "pulls_url": "https://api.github.com/repos/kubernetes/community/pulls{/number}",
   "pulls_authors": [
     "castrojo",
@@ -1053,6 +1053,7 @@
     "MIBc",
     "figo",
     "JuleeB1",
-    "shavidissa"
+    "shavidissa",
+    "paulangton"
   ]
 }

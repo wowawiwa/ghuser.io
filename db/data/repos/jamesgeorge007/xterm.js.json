@@ -10,8 +10,8 @@
   "url": "https://api.github.com/repos/jamesgeorge007/xterm.js",
   "languages_url": "https://api.github.com/repos/jamesgeorge007/xterm.js/languages",
   "created_at": "2018-03-04T09:22:44Z",
-  "updated_at": "2018-03-04T09:22:58Z",
-  "pushed_at": "2018-02-28T15:47:26Z",
+  "updated_at": "2018-08-22T06:15:06Z",
+  "pushed_at": "2018-08-22T06:14:39Z",
   "homepage": "https://xtermjs.org/",
   "size": 4189,
   "stargazers_count": 1,
@@ -64,7 +64,7 @@
     "warpdesign": 1,
     "wavebeem": 1,
     "MartinWangIBM": 1,
-    "billchurch": 1,
+    "billchurch": 2,
     "budde377": 1,
     "arcanis": 1,
     "bottleofwater": 1,
@@ -78,10 +78,10 @@
     "noseglid": 1,
     "chani": 1,
     "dgriffen": 2,
-    "ficristo": 2,
+    "ficristo": 3,
     "exsilium": 2,
     "ricktbaker": 2,
-    "dcylabs": 2,
+    "dcylabs": 7,
     "Lixire": 2,
     "deviantony": 2,
     "coderaiser": 2,
@@ -98,48 +98,65 @@
     "staticfloat": 4,
     "ayapi": 4,
     "mentos1386": 4,
-    "chabou": 5,
+    "chabou": 6,
     "vincentwoo": 5,
     "tmyt": 5,
-    "saamalik": 6,
+    "saamalik": 18,
     "joaomoreno": 6,
     "LucianBuzzo": 6,
     "blink1073": 9,
-    "akalipetis": 10,
-    "mofux": 11,
+    "akalipetis": 16,
+    "mofux": 14,
     "AndrienkoAleksandr": 13,
-    "TDaglis": 17,
-    "nikonso": 19,
-    "jerch": 24,
-    "FGasper": 38,
-    "npezza93": 47,
-    "chjj": 55,
-    "parisk": 294,
-    "Tyriar": 890
+    "TDaglis": 25,
+    "nikonso": 21,
+    "jerch": 25,
+    "FGasper": 44,
+    "npezza93": 49,
+    "chjj": 61,
+    "parisk": 474,
+    "Tyriar": 1359,
+    "felixse": 1,
+    "jonaustin": 1,
+    "JonKohler": 2,
+    "tmpfs": 2,
+    "pengx17": 2,
+    "princjef": 3,
+    "LinusU": 3,
+    "7PH": 4,
+    "vsinha": 4,
+    "pro-src": 6,
+    "bgw": 29
   },
   "languages": {
     "TypeScript": {
-      "bytes": 542469,
+      "bytes": 733315,
       "color": "#2b7489"
     },
     "JavaScript": {
-      "bytes": 20909,
+      "bytes": 4856,
       "color": "#f1e05a"
     },
-    "HTML": {
-      "bytes": 9740,
-      "color": "#e34c26"
-    },
     "CSS": {
-      "bytes": 4144,
+      "bytes": 4192,
       "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 3933,
+      "color": "#e34c26"
     },
     "Shell": {
       "bytes": 1186,
       "color": "#89e051"
+    },
+    "Dockerfile": {
+      "bytes": 565,
+      "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-07-22T16:49:45.098Z",
+  "fetched_at": "2018-08-22T06:54:51.187Z",
   "pulls_url": "https://api.github.com/repos/jamesgeorge007/xterm.js/pulls{/number}",
-  "pulls_authors": []
+  "pulls_authors": [
+    "jamesgeorge007"
+  ]
 }

@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/wikimedia/mediawiki-extensions/languages",
   "pulls_url": "https://api.github.com/repos/wikimedia/mediawiki-extensions/pulls{/number}",
   "created_at": "2012-11-01T19:03:08Z",
-  "updated_at": "2018-08-21T21:41:47Z",
-  "pushed_at": "2018-08-21T21:41:29Z",
+  "updated_at": "2018-08-22T06:35:55Z",
+  "pushed_at": "2018-08-22T06:35:38Z",
   "homepage": "https://gerrit.wikimedia.org",
-  "size": 122536,
+  "size": 121947,
   "stargazers_count": 46,
   "language": "Python",
   "mirror_url": null,
@@ -43,12 +43,12 @@
   },
   "contributors": {
     "translatewiki": 110581,
-    "legoktm": 4541,
-    "umherirrender": 3779,
+    "legoktm": 4552,
+    "umherirrender": 3789,
     "JeroenDeDauw": 2912,
     "siebrand": 2431,
     "demon": 2110,
-    "yaronkoren": 1691,
+    "yaronkoren": 1694,
     "reedy": 1557,
     "hashar": 1538,
     "santhoshtr": 1232,
@@ -61,7 +61,7 @@
     "paladox": 801,
     "mary-kate": 790,
     "edg2s": 783,
-    "jdlrobson": 784,
+    "jdlrobson": 785,
     "tobijat": 766,
     "amire80": 718,
     "gwicke": 668,
@@ -132,7 +132,7 @@
     "Seb35": 110,
     "mdew192837": 110,
     "Sophivorus": 110,
-    "Volker-E": 104,
+    "Volker-E": 105,
     "tonythomas01": 99,
     "tstarling": 99,
     "trevorparscal": 97,
@@ -325,5 +325,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-21T21:48:22.495Z"
+  "fetched_at": "2018-08-22T06:55:24.693Z"
 }

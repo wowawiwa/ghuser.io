@@ -82,13 +82,13 @@
     "brillout/awesome-react-components": {
       "full_name": "brillout/awesome-react-components",
       "name": "awesome-react-components",
-      "stargazers_count": 15070,
+      "stargazers_count": 15076,
       "popularity": 5,
       "percentage": 28.7292817679558,
       "maturity": 3.151262104260103,
       "total_commits_count": 181,
-      "activity": 3.348446776843094,
-      "total_score": 43.325004134534566,
+      "activity": 3.257141063276171,
+      "total_score": 43.23369842096765,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -394,7 +394,7 @@
     "enaqx/awesome-react": {
       "full_name": "enaqx/awesome-react",
       "name": "awesome-react",
-      "stargazers_count": 27241,
+      "stargazers_count": 27253,
       "popularity": 5,
       "percentage": 0.06333122229259025,
       "maturity": 4.189003044200371,
@@ -407,7 +407,7 @@
     "facebook/create-react-app": {
       "full_name": "facebook/create-react-app",
       "name": "create-react-app",
-      "stargazers_count": 54083,
+      "stargazers_count": 54107,
       "popularity": 5,
       "percentage": 0,
       "maturity": 4.172320583551287,
@@ -420,7 +420,7 @@
     "facebook/react": {
       "full_name": "facebook/react",
       "name": "react",
-      "stargazers_count": 109271,
+      "stargazers_count": 109302,
       "popularity": 5,
       "percentage": 0,
       "maturity": 4.964914743369527,
@@ -498,7 +498,7 @@
     "sindresorhus/awesome": {
       "full_name": "sindresorhus/awesome",
       "name": "awesome",
-      "stargazers_count": 91053,
+      "stargazers_count": 91065,
       "popularity": 5,
       "percentage": 0.14084507042253522,
       "maturity": 3.827875677949528,
@@ -537,7 +537,7 @@
     "vuejs/awesome-vue": {
       "full_name": "vuejs/awesome-vue",
       "name": "awesome-vue",
-      "stargazers_count": 36581,
+      "stargazers_count": 36599,
       "popularity": 5,
       "percentage": 0,
       "maturity": 4.15497161549602,
@@ -552,11 +552,11 @@
       "name": "ghuser.io",
       "stargazers_count": 43,
       "popularity": 2.6243210916459527,
-      "percentage": 0.9876543209876543,
-      "maturity": 3.5641476769352116,
-      "total_commits_count": 405,
+      "percentage": 0.9852216748768473,
+      "maturity": 3.5653355741634494,
+      "total_commits_count": 406,
       "activity": 5,
-      "total_score": 20.338208497365294,
+      "total_score": 20.339754366037145,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

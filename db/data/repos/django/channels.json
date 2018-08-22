@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/django/channels",
   "languages_url": "https://api.github.com/repos/django/channels/languages",
   "created_at": "2015-06-03T17:16:20Z",
-  "updated_at": "2018-08-21T15:32:37Z",
+  "updated_at": "2018-08-22T04:46:45Z",
   "pushed_at": "2018-08-20T19:51:16Z",
   "homepage": "https://channels.readthedocs.io",
   "size": 1687,
-  "stargazers_count": 3219,
+  "stargazers_count": 3220,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -220,7 +220,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-21T21:50:11.850Z",
+  "fetched_at": "2018-08-22T06:57:18.368Z",
   "pulls_url": "https://api.github.com/repos/django/channels/pulls{/number}",
   "pulls_authors": [
     "jacky15",

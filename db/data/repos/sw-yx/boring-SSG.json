@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/sw-yx/boring-SSG/languages",
   "pulls_url": "https://api.github.com/repos/sw-yx/boring-SSG/pulls{/number}",
   "created_at": "2018-06-30T15:47:25Z",
-  "updated_at": "2018-08-20T02:48:55Z",
-  "pushed_at": "2018-07-03T21:18:55Z",
+  "updated_at": "2018-08-22T03:29:43Z",
+  "pushed_at": "2018-08-22T03:29:41Z",
   "homepage": "https://boring-ssg.netlify.com",
-  "size": 1370,
+  "size": 1372,
   "stargazers_count": 1,
   "language": "JavaScript",
   "mirror_url": null,
@@ -23,12 +23,15 @@
   "default_branch": "master",
   "contributors": {
     "sw-yx": 3,
-    "tsiq-swyx": 48
+    "tsiq-swyx": 48,
+    "vitordino": 1
   },
-  "pulls_authors": [],
+  "pulls_authors": [
+    "vitordino"
+  ],
   "languages": {
     "JavaScript": {
-      "bytes": 26541,
+      "bytes": 26551,
       "color": "#f1e05a"
     },
     "CSS": {
@@ -40,5 +43,5 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-08-20T04:37:54.595Z"
+  "fetched_at": "2018-08-22T06:57:21.223Z"
 }

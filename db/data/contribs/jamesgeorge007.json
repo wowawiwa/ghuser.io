@@ -82,7 +82,7 @@
     "daneden/animate.css": {
       "full_name": "daneden/animate.css",
       "name": "animate.css",
-      "stargazers_count": 53646,
+      "stargazers_count": 53657,
       "popularity": 5,
       "percentage": 2.6490066225165565,
       "maturity": 3.4202026784141966,
@@ -251,7 +251,7 @@
     "sqlmapproject/sqlmap": {
       "full_name": "sqlmapproject/sqlmap",
       "name": "sqlmap",
-      "stargazers_count": 12083,
+      "stargazers_count": 12084,
       "popularity": 5,
       "percentage": 0,
       "maturity": 4.905265784666189,
@@ -293,10 +293,10 @@
       "stargazers_count": 6,
       "popularity": 1.7076084983408428,
       "percentage": 100,
-      "maturity": 2.4346992151481284,
-      "total_commits_count": 67,
+      "maturity": 2.450436471736861,
+      "total_commits_count": 68,
       "activity": 5,
-      "total_score": 37.19113440374974,
+      "total_score": 37.22260891692721,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -521,19 +521,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "jamesgeorge007/Swallow": {
-      "full_name": "jamesgeorge007/Swallow",
-      "name": "Swallow",
-      "stargazers_count": 2,
-      "popularity": 1.0414282204429401,
-      "percentage": 100,
-      "maturity": 0,
-      "total_commits_count": 6,
-      "activity": 1.9738569916500937,
-      "total_score": 18.636708518737137,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "jamesgeorge007/course-sales-app": {
       "full_name": "jamesgeorge007/course-sales-app",
       "name": "course-sales-app",
@@ -565,11 +552,11 @@
       "name": "Spectra",
       "stargazers_count": 1,
       "popularity": 0,
-      "percentage": 33.333333333333336,
+      "percentage": 16.666666666666668,
       "maturity": 0,
-      "total_commits_count": 6,
-      "activity": 1.8724014430187461,
-      "total_score": 1.8724014430187461,
+      "total_commits_count": 12,
+      "activity": 5,
+      "total_score": 5,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -937,16 +924,16 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "jamesgeorge007/Poll-App-in-Django": {
-      "full_name": "jamesgeorge007/Poll-App-in-Django",
-      "name": "Poll-App-in-Django",
+    "jamesgeorge007/Poll-App": {
+      "full_name": "jamesgeorge007/Poll-App",
+      "name": "Poll-App",
       "stargazers_count": 3,
       "popularity": 1.3222565221025262,
       "percentage": 100,
       "maturity": 0,
-      "total_commits_count": 6,
-      "activity": 1.4716900092644778,
-      "total_score": 22.627794362904897,
+      "total_commits_count": 8,
+      "activity": 5,
+      "total_score": 26.15610435364042,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -957,9 +944,9 @@
       "popularity": 1.49139952161816,
       "percentage": 100,
       "maturity": 0,
-      "total_commits_count": 7,
-      "activity": 1.4432477992106918,
-      "total_score": 25.30564014510125,
+      "total_commits_count": 8,
+      "activity": 5,
+      "total_score": 28.86239234589056,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

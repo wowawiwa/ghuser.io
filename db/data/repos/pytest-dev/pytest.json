@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/pytest-dev/pytest/languages",
   "pulls_url": "https://api.github.com/repos/pytest-dev/pytest/pulls{/number}",
   "created_at": "2015-06-15T20:28:27Z",
-  "updated_at": "2018-08-21T12:56:34Z",
-  "pushed_at": "2018-08-20T23:01:52Z",
+  "updated_at": "2018-08-22T05:16:57Z",
+  "pushed_at": "2018-08-22T06:30:43Z",
   "homepage": "http://pytest.org/",
-  "size": 13311,
-  "stargazers_count": 2935,
+  "size": 13314,
+  "stargazers_count": 2936,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -63,7 +63,7 @@
     "RedBeardCode": 4,
     "embray": 4,
     "magopian": 6,
-    "Sup3rGeo": 14,
+    "Sup3rGeo": 22,
     "hroncok": 5,
     "tadeu": 5,
     "will133": 6,
@@ -145,8 +145,8 @@
     "The-Compiler": 153,
     "flub": 202,
     "benjaminp": 226,
-    "RonnyPfannschmidt": 868,
-    "nicoddemus": 1820,
+    "RonnyPfannschmidt": 870,
+    "nicoddemus": 1823,
     "hpk42": 2205,
     "invalid-email-address": 1036,
     "alanbato": 5,
@@ -403,8 +403,9 @@
     "tigeraniya": 1,
     "okken": 1,
     "anowlcalledjosh": 1,
-    "sankt-petersbug": 6,
-    "wimglenn": 2
+    "sankt-petersbug": 7,
+    "wimglenn": 2,
+    "natanlao": 2
   },
   "pulls_authors": [
     "rustyhowell",
@@ -766,11 +767,12 @@
     "mgeier",
     "esiegerman",
     "sankt-petersbug",
-    "wimglenn"
+    "wimglenn",
+    "natanlao"
   ],
   "languages": {
     "Python": {
-      "bytes": 1702090,
+      "bytes": 1705506,
       "color": "#3572A5"
     },
     "Batchfile": {
@@ -778,5 +780,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-08-21T21:48:20.884Z"
+  "fetched_at": "2018-08-22T06:55:22.890Z"
 }

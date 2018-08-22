@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/jfrog/artifactory-user-plugins",
   "languages_url": "https://api.github.com/repos/jfrog/artifactory-user-plugins/languages",
   "created_at": "2011-10-14T07:20:20Z",
-  "updated_at": "2018-08-20T23:52:03Z",
-  "pushed_at": "2018-08-20T23:52:01Z",
+  "updated_at": "2018-08-21T23:07:59Z",
+  "pushed_at": "2018-08-21T23:07:57Z",
   "homepage": "http://wiki.jfrog.org/confluence/display/RTF/User+Plugins",
-  "size": 23438,
+  "size": 23440,
   "stargazers_count": 149,
   "language": "Groovy",
   "mirror_url": null,
@@ -90,13 +90,13 @@
     "aaronsrhodes": 33,
     "jbaruch": 39,
     "jainishshah17": 45,
-    "elioengcomp": 122,
+    "elioengcomp": 123,
     "DarthFennec": 265,
     "AlexanderDenk-EE": 4
   },
   "languages": {
     "Groovy": {
-      "bytes": 1167355,
+      "bytes": 1166516,
       "color": "#e69f56"
     },
     "Java": {
@@ -104,7 +104,7 @@
       "color": "#b07219"
     }
   },
-  "fetched_at": "2018-08-21T02:22:46.087Z",
+  "fetched_at": "2018-08-22T06:52:16.707Z",
   "pulls_url": "https://api.github.com/repos/jfrog/artifactory-user-plugins/pulls{/number}",
   "pulls_authors": [
     "AlexanderDenk-EE",

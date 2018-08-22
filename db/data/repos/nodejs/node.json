@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/nodejs/node",
   "languages_url": "https://api.github.com/repos/nodejs/node/languages",
   "created_at": "2014-11-26T19:57:11Z",
-  "updated_at": "2018-08-21T21:37:36Z",
-  "pushed_at": "2018-08-21T21:29:49Z",
+  "updated_at": "2018-08-22T05:40:11Z",
+  "pushed_at": "2018-08-22T06:12:46Z",
   "homepage": "https://nodejs.org",
-  "size": 402876,
-  "stargazers_count": 52499,
+  "size": 402911,
+  "stargazers_count": 52507,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 6779398,
+      "bytes": 6781624,
       "color": "#f1e05a"
     },
     "C++": {
-      "bytes": 2485387,
+      "bytes": 2485622,
       "color": "#f34b7d"
     },
     "Python": {
@@ -68,7 +68,7 @@
       "color": "#e34c26"
     },
     "Makefile": {
-      "bytes": 43254,
+      "bytes": 43230,
       "color": "#427819"
     },
     "DTrace": {
@@ -159,7 +159,7 @@
     "gabrielschulhof": 60,
     "yorkie": 57,
     "mmalecki": 58,
-    "mcollina": 60,
+    "mcollina": 61,
     "bzoz": 62,
     "lpinca": 63,
     "JacksonTian": 68,
@@ -187,13 +187,13 @@
     "targos": 280,
     "vsemozhetbyt": 280,
     "tjfontaine": 332,
-    "BridgeAR": 343,
+    "BridgeAR": 344,
     "mscdex": 318,
     "rvagg": 324,
-    "danbev": 347,
+    "danbev": 348,
     "trevnorris": 363,
     "cjihrig": 389,
-    "jasnell": 519,
+    "jasnell": 520,
     "piscisaureus": 598,
     "addaleax": 668,
     "indutny": 755,
@@ -574,7 +574,7 @@
     "tlhunter": 3,
     "Maledong": 6
   },
-  "fetched_at": "2018-08-21T21:49:31.225Z",
+  "fetched_at": "2018-08-22T06:56:36.654Z",
   "pulls_url": "https://api.github.com/repos/nodejs/node/pulls{/number}",
   "pulls_authors": [
     "mmarchini",
@@ -2781,6 +2781,7 @@
     "diprudnikov",
     "ratracegrad",
     "legendecas",
-    "ZYSzys"
+    "ZYSzys",
+    "neeraj-laad"
   ]
 }

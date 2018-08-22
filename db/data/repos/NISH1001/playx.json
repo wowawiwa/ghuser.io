@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/NISH1001/playx",
   "languages_url": "https://api.github.com/repos/NISH1001/playx/languages",
   "created_at": "2017-04-15T07:07:23Z",
-  "updated_at": "2018-08-16T12:08:51Z",
-  "pushed_at": "2018-07-31T02:41:57Z",
+  "updated_at": "2018-08-22T01:51:02Z",
+  "pushed_at": "2018-08-22T01:51:00Z",
   "homepage": null,
-  "size": 91,
+  "size": 98,
   "stargazers_count": 36,
   "language": "Python",
   "mirror_url": null,
@@ -29,20 +29,22 @@
   "contributors": {
     "mirzazulfan": 3,
     "deepjyoti30": 24,
-    "NISH1001": 41,
-    "heyitswither": 6
+    "NISH1001": 44,
+    "heyitswither": 6,
+    "Mattwmaster58": 3
   },
   "languages": {
     "Python": {
-      "bytes": 18610,
+      "bytes": 19181,
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-08-16T19:17:16.745Z",
+  "fetched_at": "2018-08-22T06:54:13.366Z",
   "pulls_url": "https://api.github.com/repos/NISH1001/playx/pulls{/number}",
   "pulls_authors": [
     "deepjyoti30",
     "heyitswither",
-    "mirzazulfan"
+    "mirzazulfan",
+    "Mattwmaster58"
   ]
 }

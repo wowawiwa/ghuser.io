@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/cython/cython",
   "languages_url": "https://api.github.com/repos/cython/cython/languages",
   "created_at": "2010-11-21T07:44:20Z",
-  "updated_at": "2018-08-21T19:10:07Z",
+  "updated_at": "2018-08-21T23:31:48Z",
   "pushed_at": "2018-08-21T19:15:08Z",
   "homepage": "http://cython.org",
   "size": 52017,
-  "stargazers_count": 3386,
+  "stargazers_count": 3388,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -332,7 +332,7 @@
     "orivej": 1,
     "gabrieldemarmiesse": 9
   },
-  "fetched_at": "2018-08-21T21:45:55.180Z",
+  "fetched_at": "2018-08-22T06:52:40.127Z",
   "pulls_url": "https://api.github.com/repos/cython/cython/pulls{/number}",
   "pulls_authors": [
     "jakirkham",

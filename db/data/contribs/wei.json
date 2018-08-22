@@ -69,13 +69,13 @@
     "probot/probot": {
       "full_name": "probot/probot",
       "name": "probot",
-      "stargazers_count": 3094,
-      "popularity": 4.490433048371157,
+      "stargazers_count": 3095,
+      "popularity": 4.490573433193678,
       "percentage": 0.117096018735363,
       "maturity": 3.91241386049745,
       "total_commits_count": 854,
       "activity": 5,
-      "total_score": 26.364482404315428,
+      "total_score": 26.364905695788487,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -108,7 +108,7 @@
     "gogs/gogs": {
       "full_name": "gogs/gogs",
       "name": "gogs",
-      "stargazers_count": 26656,
+      "stargazers_count": 26663,
       "popularity": 5,
       "percentage": 0.02042483660130719,
       "maturity": 4.688023904362173,
@@ -160,13 +160,13 @@
     "xuexb/github-bot": {
       "full_name": "xuexb/github-bot",
       "name": "github-bot",
-      "stargazers_count": 273,
-      "popularity": 3.4347676160681306,
+      "stargazers_count": 274,
+      "popularity": 3.4363607744807054,
       "percentage": 1.694915254237288,
       "maturity": 2.2827606132375395,
       "total_commits_count": 59,
-      "activity": 1.3434029547837905,
-      "total_score": 16.970040233003697,
+      "activity": 1.3291319769030863,
+      "total_score": 16.960899765265182,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

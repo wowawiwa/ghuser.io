@@ -10,8 +10,8 @@
   "url": "https://api.github.com/repos/jamesgeorge007/oppia",
   "languages_url": "https://api.github.com/repos/jamesgeorge007/oppia/languages",
   "created_at": "2018-03-04T09:18:08Z",
-  "updated_at": "2018-03-04T09:18:27Z",
-  "pushed_at": "2018-03-04T08:26:42Z",
+  "updated_at": "2018-08-22T06:14:31Z",
+  "pushed_at": "2018-08-22T06:13:33Z",
   "homepage": "https://www.oppia.org",
   "size": 101066,
   "stargazers_count": 1,
@@ -236,27 +236,29 @@
   },
   "languages": {
     "Python": {
-      "bytes": 3893385,
+      "bytes": 5443218,
       "color": "#3572A5"
     },
     "JavaScript": {
-      "bytes": 3246789,
+      "bytes": 4308375,
       "color": "#f1e05a"
     },
     "HTML": {
-      "bytes": 951207,
+      "bytes": 1214495,
       "color": "#e34c26"
     },
     "CSS": {
-      "bytes": 106913,
+      "bytes": 86619,
       "color": "#563d7c"
     },
     "Shell": {
-      "bytes": 49148,
+      "bytes": 54213,
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-07-22T16:49:45.098Z",
+  "fetched_at": "2018-08-22T06:54:49.893Z",
   "pulls_url": "https://api.github.com/repos/jamesgeorge007/oppia/pulls{/number}",
-  "pulls_authors": []
+  "pulls_authors": [
+    "jamesgeorge007"
+  ]
 }
