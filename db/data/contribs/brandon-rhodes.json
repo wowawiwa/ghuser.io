@@ -43,13 +43,13 @@
     "PrismJS/prism": {
       "full_name": "PrismJS/prism",
       "name": "prism",
-      "stargazers_count": 5640,
-      "popularity": 4.751248884102505,
+      "stargazers_count": 5645,
+      "popularity": 4.751633787774357,
       "percentage": 0.041407867494824016,
       "maturity": 4.377418145310005,
       "total_commits_count": 2415,
       "activity": 5,
-      "total_score": 28.034159023877145,
+      "total_score": 28.035315806837932,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -303,13 +303,13 @@
     "fgrehm/vagrant-lxc": {
       "full_name": "fgrehm/vagrant-lxc",
       "name": "vagrant-lxc",
-      "stargazers_count": 1150,
-      "popularity": 4.0603969099003665,
+      "stargazers_count": 1151,
+      "popularity": 4.0607746887040275,
       "percentage": 0.09727626459143969,
       "maturity": 3.996537042532176,
       "total_commits_count": 1028,
       "activity": 5,
-      "total_score": 25.225612246505435,
+      "total_score": 25.22675036027483,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -394,7 +394,7 @@
     "pandas-dev/pandas": {
       "full_name": "pandas-dev/pandas",
       "name": "pandas",
-      "stargazers_count": 15679,
+      "stargazers_count": 15686,
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,
@@ -446,7 +446,7 @@
     "aosabook/500lines": {
       "full_name": "aosabook/500lines",
       "name": "500lines",
-      "stargazers_count": 19513,
+      "stargazers_count": 19514,
       "popularity": 5,
       "percentage": 4.516806722689076,
       "maturity": 4.451384329661518,
@@ -524,7 +524,7 @@
     "moby/moby": {
       "full_name": "moby/moby",
       "name": "moby",
-      "stargazers_count": 50046,
+      "stargazers_count": 50049,
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,
@@ -563,13 +563,13 @@
     "cython/cython": {
       "full_name": "cython/cython",
       "name": "cython",
-      "stargazers_count": 3390,
-      "popularity": 4.530123470975127,
+      "stargazers_count": 3391,
+      "popularity": 4.530251596561098,
       "percentage": 0.007568303943086354,
       "maturity": 5,
       "total_commits_count": 13213,
       "activity": 5,
-      "total_score": 28.594827508598026,
+      "total_score": 28.59521201141608,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/palantir/tslint/languages",
   "pulls_url": "https://api.github.com/repos/palantir/tslint/pulls{/number}",
   "created_at": "2013-07-25T22:19:18Z",
-  "updated_at": "2018-08-22T07:08:39Z",
-  "pushed_at": "2018-08-22T13:53:24Z",
+  "updated_at": "2018-08-22T22:02:34Z",
+  "pushed_at": "2018-08-22T22:02:24Z",
   "homepage": "http://palantir.github.io/tslint/",
-  "size": 13700,
-  "stargazers_count": 3800,
+  "size": 13717,
+  "stargazers_count": 3801,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -100,10 +100,10 @@
     "nikklassen": 3,
     "fondasimone": 3,
     "fisx": 3,
-    "johnwiseheart": 4,
-    "rwaskiewicz": 4,
+    "johnwiseheart": 5,
+    "rwaskiewicz": 5,
     "pe8ter": 4,
-    "bowenni": 4,
+    "bowenni": 6,
     "304NotModified": 4,
     "mateuszwitkowski": 4,
     "reduckted": 5,
@@ -139,7 +139,7 @@
     "YuichiNukiyama": 20,
     "leeavital": 20,
     "andy-ms": 22,
-    "JoshuaKGoldberg": 47,
+    "JoshuaKGoldberg": 48,
     "DickvdBrink": 49,
     "JKillian": 119,
     "gscshoyru": 172,
@@ -713,7 +713,7 @@
   ],
   "languages": {
     "TypeScript": {
-      "bytes": 1235315,
+      "bytes": 1245322,
       "color": "#2b7489"
     },
     "JavaScript": {
@@ -729,5 +729,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-08-22T17:09:51.120Z"
+  "fetched_at": "2018-08-23T03:29:38.489Z"
 }

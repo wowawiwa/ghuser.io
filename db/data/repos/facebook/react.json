@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/facebook/react",
   "languages_url": "https://api.github.com/repos/facebook/react/languages",
   "created_at": "2013-05-24T16:15:54Z",
-  "updated_at": "2018-08-22T17:10:06Z",
-  "pushed_at": "2018-08-22T16:35:50Z",
+  "updated_at": "2018-08-23T03:23:45Z",
+  "pushed_at": "2018-08-22T23:24:06Z",
   "homepage": "https://reactjs.org",
-  "size": 137748,
-  "stargazers_count": 109343,
+  "size": 137752,
+  "stargazers_count": 109383,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -62,7 +62,7 @@
     "jbaiter": 5,
     "keito": 5,
     "clayallsopp": 5,
-    "philipp-spiess": 11,
+    "philipp-spiess": 12,
     "brigand": 6,
     "aaronabramov": 5,
     "jontewks": 6,
@@ -145,7 +145,7 @@
     "acdlite": 444,
     "sebmarkbage": 645,
     "zpao": 1776,
-    "gaearon": 951,
+    "gaearon": 953,
     "sophiebits": 1232,
     "leebyron": 10,
     "puradox": 8,
@@ -551,7 +551,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-22T17:10:07.549Z",
+  "fetched_at": "2018-08-23T03:29:51.535Z",
   "pulls_url": "https://api.github.com/repos/facebook/react/pulls{/number}",
   "pulls_authors": [
     "gaearon",
@@ -2600,6 +2600,8 @@
     "kartiklad",
     "web2033",
     "hamlim",
-    "sunnibfgi"
+    "sunnibfgi",
+    "seunggabi",
+    "tychota"
   ]
 }

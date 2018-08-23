@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/nodejs/node",
   "languages_url": "https://api.github.com/repos/nodejs/node/languages",
   "created_at": "2014-11-26T19:57:11Z",
-  "updated_at": "2018-08-22T16:22:50Z",
-  "pushed_at": "2018-08-22T17:02:56Z",
+  "updated_at": "2018-08-23T02:59:40Z",
+  "pushed_at": "2018-08-23T01:27:10Z",
   "homepage": "https://nodejs.org",
-  "size": 402738,
-  "stargazers_count": 52531,
+  "size": 402832,
+  "stargazers_count": 52554,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,15 +48,15 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 6779408,
+      "bytes": 6783572,
       "color": "#f1e05a"
     },
     "C++": {
-      "bytes": 2485622,
+      "bytes": 2508443,
       "color": "#f34b7d"
     },
     "Python": {
-      "bytes": 1970078,
+      "bytes": 1970100,
       "color": "#3572A5"
     },
     "C": {
@@ -68,7 +68,7 @@
       "color": "#e34c26"
     },
     "Makefile": {
-      "bytes": 43230,
+      "bytes": 43057,
       "color": "#427819"
     },
     "DTrace": {
@@ -76,7 +76,7 @@
       "color": "#ccc"
     },
     "Batchfile": {
-      "bytes": 34509,
+      "bytes": 34504,
       "color": "#C1F12E"
     },
     "Shell": {
@@ -168,7 +168,7 @@
     "jbergstroem": 76,
     "santigimeno": 84,
     "silverwind": 89,
-    "refack": 93,
+    "refack": 94,
     "AndreasMadsen": 103,
     "tniessen": 122,
     "ofrobots": 117,
@@ -187,15 +187,15 @@
     "targos": 280,
     "vsemozhetbyt": 280,
     "tjfontaine": 332,
-    "BridgeAR": 344,
+    "BridgeAR": 346,
     "mscdex": 318,
     "rvagg": 324,
-    "danbev": 348,
+    "danbev": 349,
     "trevnorris": 363,
-    "cjihrig": 389,
-    "jasnell": 520,
+    "cjihrig": 390,
+    "jasnell": 521,
     "piscisaureus": 598,
-    "addaleax": 668,
+    "addaleax": 669,
     "indutny": 755,
     "Trott": 1323,
     "isaacs": 1647,
@@ -574,7 +574,7 @@
     "tlhunter": 3,
     "Maledong": 6
   },
-  "fetched_at": "2018-08-22T17:13:35.508Z",
+  "fetched_at": "2018-08-23T03:33:12.841Z",
   "pulls_url": "https://api.github.com/repos/nodejs/node/pulls{/number}",
   "pulls_authors": [
     "mmarchini",

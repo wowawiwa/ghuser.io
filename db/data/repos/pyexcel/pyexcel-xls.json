@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/pyexcel/pyexcel-xls/languages",
   "pulls_url": "https://api.github.com/repos/pyexcel/pyexcel-xls/pulls{/number}",
   "created_at": "2014-11-19T22:16:25Z",
-  "updated_at": "2018-06-07T10:46:36Z",
-  "pushed_at": "2018-05-10T21:57:47Z",
+  "updated_at": "2018-08-22T17:58:02Z",
+  "pushed_at": "2018-08-22T17:59:42Z",
   "homepage": "",
-  "size": 272,
+  "size": 288,
   "stargazers_count": 22,
   "language": "Python",
   "mirror_url": null,
@@ -49,22 +49,23 @@
   },
   "contributors": {
     "jayvdb": 3,
-    "chfw": 232
+    "chfw": 237
   },
   "pulls_authors": [
-    "jayvdb"
+    "jayvdb",
+    "chfw"
   ],
   "languages": {
     "Python": {
-      "bytes": 41954,
+      "bytes": 42300,
       "color": "#3572A5"
     },
     "Shell": {
-      "bytes": 230,
+      "bytes": 235,
       "color": "#89e051"
     },
     "Batchfile": {
-      "bytes": 230,
+      "bytes": 235,
       "color": "#C1F12E"
     },
     "Makefile": {
@@ -72,5 +73,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-13T13:13:40.598Z"
+  "fetched_at": "2018-08-23T03:31:59.984Z"
 }

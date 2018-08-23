@@ -92,7 +92,7 @@
     "NejcZdovc": 24,
     "sallar": 24,
     "byzyk": 30,
-    "EugeneHlushko": 46,
+    "EugeneHlushko": 47,
     "SpaceK33z": 114,
     "pastelsky": 54,
     "TheLarkInn": 75,
@@ -500,11 +500,11 @@
   "url": "https://api.github.com/repos/webpack/webpack.js.org",
   "languages_url": "https://api.github.com/repos/webpack/webpack.js.org/languages",
   "created_at": "2016-06-24T13:22:52Z",
-  "updated_at": "2018-08-22T15:53:40Z",
-  "pushed_at": "2018-08-22T16:25:07Z",
+  "updated_at": "2018-08-23T02:34:13Z",
+  "pushed_at": "2018-08-22T22:26:40Z",
   "homepage": "https://webpack.js.org",
-  "size": 289955,
-  "stargazers_count": 1280,
+  "size": 291027,
+  "stargazers_count": 1281,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -554,7 +554,7 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-08-22T17:09:14.521Z",
+  "fetched_at": "2018-08-23T03:29:02.917Z",
   "pulls_url": "https://api.github.com/repos/webpack/webpack.js.org/pulls{/number}",
   "pulls_authors": [
     "HarshwardhanSingh",
@@ -1428,6 +1428,7 @@
     "mattkrick",
     "indefinitelee",
     "mwanago",
-    "GAumala"
+    "GAumala",
+    "nodiel"
   ]
 }

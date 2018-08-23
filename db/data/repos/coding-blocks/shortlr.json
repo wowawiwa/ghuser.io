@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/coding-blocks/shortlr",
   "languages_url": "https://api.github.com/repos/coding-blocks/shortlr/languages",
   "created_at": "2016-11-24T13:02:46Z",
-  "updated_at": "2018-07-19T18:55:53Z",
-  "pushed_at": "2018-06-26T07:29:12Z",
+  "updated_at": "2018-08-22T22:52:30Z",
+  "pushed_at": "2018-08-22T22:52:29Z",
   "homepage": "",
-  "size": 721,
+  "size": 723,
   "stargazers_count": 27,
   "language": "CSS",
   "mirror_url": null,
@@ -55,7 +55,8 @@
     "hereisnaman": 10,
     "roh777": 11,
     "bhavyaagg": 13,
-    "championswimmer": 45
+    "championswimmer": 45,
+    "ReplayCoding": 1
   },
   "languages": {
     "CSS": {
@@ -73,9 +74,13 @@
     "Shell": {
       "bytes": 3658,
       "color": "#89e051"
+    },
+    "Dockerfile": {
+      "bytes": 212,
+      "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "fetched_at": "2018-08-23T03:30:38.351Z",
   "pulls_url": "https://api.github.com/repos/coding-blocks/shortlr/pulls{/number}",
   "pulls_authors": [
     "kapillamba4",
@@ -98,6 +103,7 @@
     "shuboy2014",
     "roh777",
     "ghoomtaaaina",
-    "TdevM"
+    "TdevM",
+    "ReplayCoding"
   ]
 }

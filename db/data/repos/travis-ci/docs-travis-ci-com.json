@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/travis-ci/docs-travis-ci-com",
   "languages_url": "https://api.github.com/repos/travis-ci/docs-travis-ci-com/languages",
   "created_at": "2014-01-16T16:57:49Z",
-  "updated_at": "2018-08-21T17:46:26Z",
-  "pushed_at": "2018-08-21T18:57:28Z",
+  "updated_at": "2018-08-22T19:37:35Z",
+  "pushed_at": "2018-08-22T21:32:19Z",
   "homepage": "http://docs.travis-ci.com",
-  "size": 20968,
+  "size": 20994,
   "stargazers_count": 288,
   "language": "CSS",
   "mirror_url": null,
@@ -42,11 +42,11 @@
   },
   "languages": {
     "CSS": {
-      "bytes": 133295,
+      "bytes": 147945,
       "color": "#563d7c"
     },
     "HTML": {
-      "bytes": 61445,
+      "bytes": 61464,
       "color": "#e34c26"
     },
     "JavaScript": {
@@ -472,7 +472,7 @@
     "simonbyrne": 2,
     "grahamc": 5
   },
-  "fetched_at": "2018-08-21T21:47:55.765Z",
+  "fetched_at": "2018-08-23T03:31:44.178Z",
   "pulls_url": "https://api.github.com/repos/travis-ci/docs-travis-ci-com/pulls{/number}",
   "pulls_authors": [
     "DrTorte",

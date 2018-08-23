@@ -363,11 +363,11 @@
   "url": "https://api.github.com/repos/nim-lang/Nim",
   "languages_url": "https://api.github.com/repos/nim-lang/Nim/languages",
   "created_at": "2010-08-16T20:38:58Z",
-  "updated_at": "2018-08-22T15:20:58Z",
-  "pushed_at": "2018-08-22T16:21:30Z",
+  "updated_at": "2018-08-23T00:01:52Z",
+  "pushed_at": "2018-08-23T02:08:49Z",
   "homepage": "https://nim-lang.org/",
-  "size": 70526,
-  "stargazers_count": 5357,
+  "size": 70477,
+  "stargazers_count": 5359,
   "language": "Nim",
   "mirror_url": null,
   "archived": false,
@@ -449,7 +449,7 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-22T17:10:20.996Z",
+  "fetched_at": "2018-08-23T03:30:05.062Z",
   "pulls_url": "https://api.github.com/repos/nim-lang/Nim/pulls{/number}",
   "pulls_authors": [
     "michael72",

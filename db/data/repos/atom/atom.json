@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/atom/atom/languages",
   "pulls_url": "https://api.github.com/repos/atom/atom/pulls{/number}",
   "created_at": "2012-01-20T18:18:21Z",
-  "updated_at": "2018-08-22T17:01:48Z",
-  "pushed_at": "2018-08-22T16:38:30Z",
+  "updated_at": "2018-08-23T02:55:08Z",
+  "pushed_at": "2018-08-23T00:06:06Z",
   "homepage": "https://atom.io",
-  "size": 301593,
-  "stargazers_count": 46078,
+  "size": 301771,
+  "stargazers_count": 46085,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -60,7 +60,7 @@
     "defunkt": 486,
     "mcolyer": 468,
     "damieng": 440,
-    "smashwilson": 427,
+    "smashwilson": 434,
     "Caged": 312,
     "lee-dohm": 309,
     "simurai": 310,
@@ -70,7 +70,7 @@
     "mnquintana": 222,
     "izuzak": 214,
     "gjtorikian": 204,
-    "daviwil": 218,
+    "daviwil": 222,
     "thedaniel": 176,
     "kuychaco": 171,
     "jonrohan": 157,
@@ -1245,11 +1245,11 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 3625600,
+      "bytes": 3625917,
       "color": "#f1e05a"
     },
     "CoffeeScript": {
-      "bytes": 242442,
+      "bytes": 242610,
       "color": "#244776"
     },
     "CSS": {
@@ -1273,5 +1273,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-22T17:14:44.888Z"
+  "fetched_at": "2018-08-23T03:34:18.961Z"
 }

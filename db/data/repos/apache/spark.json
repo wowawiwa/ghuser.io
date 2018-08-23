@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/apache/spark",
   "languages_url": "https://api.github.com/repos/apache/spark/languages",
   "created_at": "2014-02-25T08:00:08Z",
-  "updated_at": "2018-08-22T17:11:06Z",
-  "pushed_at": "2018-08-22T17:11:32Z",
+  "updated_at": "2018-08-23T03:02:22Z",
+  "pushed_at": "2018-08-23T03:12:38Z",
   "homepage": null,
-  "size": 280130,
-  "stargazers_count": 18483,
+  "size": 280164,
+  "stargazers_count": 18485,
   "language": "Scala",
   "mirror_url": null,
   "archived": false,
@@ -75,7 +75,7 @@
     "sethah": 45,
     "ijuma": 48,
     "squito": 55,
-    "dilipbiswal": 60,
+    "dilipbiswal": 61,
     "mosharaf": 78,
     "tgravescs": 54,
     "zero323": 52,
@@ -83,7 +83,7 @@
     "ash211": 52,
     "WangTaoTheTonic": 54,
     "lw-lin": 56,
-    "dbtsai": 63,
+    "dbtsai": 64,
     "nchammas": 59,
     "yu-iskw": 60,
     "wangmiao1981": 62,
@@ -137,17 +137,17 @@
     "dongjoon-hyun": 302,
     "mengxr": 339,
     "vanzin": 345,
-    "viirya": 354,
+    "viirya": 355,
     "HyukjinKwon": 372,
     "gatorsmile": 376,
     "liancheng": 376,
-    "tdas": 561,
+    "tdas": 562,
     "zsxwing": 477,
     "JoshRosen": 511,
     "cloud-fan": 585,
     "pwendell": 857,
     "mateiz": 1588,
-    "rxin": 1454,
+    "rxin": 1455,
     "dlyubimov": 32,
     "uncleGen": 30,
     "ajbozarth": 29,
@@ -206,7 +206,7 @@
     "haoyuan": 15,
     "skonto": 17,
     "MrBago": 17,
-    "kevinyu98": 15,
+    "kevinyu98": 16,
     "icexelloss": 16,
     "shane-huang": 14,
     "mpjlu": 14,
@@ -390,15 +390,15 @@
   },
   "languages": {
     "Scala": {
-      "bytes": 27149073,
+      "bytes": 27153439,
       "color": "#c22d40"
     },
     "Java": {
-      "bytes": 3391502,
+      "bytes": 3388813,
       "color": "#b07219"
     },
     "Python": {
-      "bytes": 2727176,
+      "bytes": 2727205,
       "color": "#3572A5"
     },
     "HiveQL": {
@@ -406,7 +406,7 @@
       "color": "#dce200"
     },
     "R": {
-      "bytes": 1134321,
+      "bytes": 1134460,
       "color": "#198CE7"
     },
     "Shell": {
@@ -470,7 +470,7 @@
       "color": "#555555"
     }
   },
-  "fetched_at": "2018-08-22T17:13:19.674Z",
+  "fetched_at": "2018-08-23T03:32:57.449Z",
   "pulls_url": "https://api.github.com/repos/apache/spark/pulls{/number}",
   "pulls_authors": [
     "techaddict",
@@ -2764,6 +2764,7 @@
     "LuciferYang",
     "AndrewKL",
     "hn5092",
-    "yunjzhang"
+    "yunjzhang",
+    "movrsprbp"
   ]
 }

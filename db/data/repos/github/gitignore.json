@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/github/gitignore/languages",
   "pulls_url": "https://api.github.com/repos/github/gitignore/pulls{/number}",
   "created_at": "2010-11-08T20:17:14Z",
-  "updated_at": "2018-08-22T17:09:02Z",
-  "pushed_at": "2018-08-22T09:53:43Z",
+  "updated_at": "2018-08-23T02:44:56Z",
+  "pushed_at": "2018-08-22T20:32:32Z",
   "homepage": "",
-  "size": 1679,
-  "stargazers_count": 71602,
+  "size": 1685,
+  "stargazers_count": 71613,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -139,7 +139,7 @@
     "Haacked": 14,
     "koppor": 8,
     "jayvdb": 9,
-    "shiftkey": 546,
+    "shiftkey": 547,
     "ArgentiApparatus": 11,
     "Arvur": 11,
     "mibe": 12,
@@ -2665,5 +2665,5 @@
     "amigcamel"
   ],
   "languages": {},
-  "fetched_at": "2018-08-22T17:12:01.745Z"
+  "fetched_at": "2018-08-23T03:31:44.977Z"
 }

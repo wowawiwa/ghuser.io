@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/requests/requests/languages",
   "pulls_url": "https://api.github.com/repos/requests/requests/pulls{/number}",
   "created_at": "2011-02-13T18:38:17Z",
-  "updated_at": "2018-08-22T16:46:56Z",
-  "pushed_at": "2018-08-17T08:31:39Z",
+  "updated_at": "2018-08-23T03:22:26Z",
+  "pushed_at": "2018-08-22T19:09:15Z",
   "homepage": "http://python-requests.org",
   "size": 9719,
-  "stargazers_count": 34212,
+  "stargazers_count": 34222,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -1322,7 +1322,8 @@
     "jlmurphy",
     "flaper87",
     "digitalxero",
-    "BoboTiG"
+    "BoboTiG",
+    "Ares513"
   ],
   "languages": {
     "Python": {
@@ -1338,5 +1339,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-22T17:12:17.466Z"
+  "fetched_at": "2018-08-23T03:31:58.512Z"
 }
