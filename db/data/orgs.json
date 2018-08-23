@@ -4898,6 +4898,71 @@
       "created_at": "2014-06-04T16:42:18Z",
       "updated_at": "2016-12-02T15:01:26Z",
       "type": "Organization"
+    },
+    "ZJGSU-Open-Source": {
+      "login": "ZJGSU-Open-Source",
+      "url": "https://api.github.com/orgs/ZJGSU-Open-Source",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/8272869?v=4",
+      "name": "OSC@ZJGSU",
+      "is_verified": false,
+      "html_url": "https://github.com/ZJGSU-Open-Source",
+      "created_at": "2014-07-26T04:05:16Z",
+      "updated_at": "2018-08-11T21:48:38Z",
+      "type": "Organization"
+    },
+    "hzres": {
+      "login": "hzres",
+      "url": "https://api.github.com/orgs/hzres",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19749237?v=4",
+      "name": "hzres",
+      "is_verified": false,
+      "html_url": "https://github.com/hzres",
+      "created_at": "2016-06-04T14:57:18Z",
+      "updated_at": "2017-04-06T13:00:41Z",
+      "type": "Organization"
+    },
+    "FeO24": {
+      "login": "FeO24",
+      "url": "https://api.github.com/orgs/FeO24",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/37613627?v=4",
+      "name": "FeO24",
+      "is_verified": false,
+      "html_url": "https://github.com/FeO24",
+      "created_at": "2018-03-21T07:48:35Z",
+      "updated_at": "2018-04-27T09:42:45Z",
+      "type": "Organization"
+    },
+    "ElaWorkshop": {
+      "login": "ElaWorkshop",
+      "url": "https://api.github.com/orgs/ElaWorkshop",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/7806222?v=4",
+      "name": "Ela Workshop",
+      "is_verified": true,
+      "html_url": "https://github.com/ElaWorkshop",
+      "created_at": "2014-06-05T14:19:30Z",
+      "updated_at": "2018-08-06T23:54:43Z",
+      "type": "Organization"
+    },
+    "ipython-contrib": {
+      "login": "ipython-contrib",
+      "url": "https://api.github.com/orgs/ipython-contrib",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/3129808?v=4",
+      "name": null,
+      "is_verified": false,
+      "html_url": "https://github.com/ipython-contrib",
+      "created_at": "2012-12-26T22:25:22Z",
+      "updated_at": "2015-10-03T20:17:24Z",
+      "type": "Organization"
+    },
+    "UESTC-ACM": {
+      "login": "UESTC-ACM",
+      "url": "https://api.github.com/orgs/UESTC-ACM",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/6700721?v=4",
+      "is_verified": false,
+      "html_url": "https://github.com/UESTC-ACM",
+      "created_at": "2014-02-17T03:05:05Z",
+      "updated_at": "2015-03-30T12:37:27Z",
+      "type": "Organization"
     }
   }
 }

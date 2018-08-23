@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/duckduckgo/zeroclickinfo-goodies",
   "languages_url": "https://api.github.com/repos/duckduckgo/zeroclickinfo-goodies/languages",
   "created_at": "2011-08-06T13:26:05Z",
-  "updated_at": "2018-08-19T01:47:29Z",
-  "pushed_at": "2018-05-15T20:34:08Z",
+  "updated_at": "2018-08-23T10:39:53Z",
+  "pushed_at": "2018-08-23T05:00:23Z",
   "homepage": "https://duckduckhack.com/",
   "size": 22813,
-  "stargazers_count": 781,
+  "stargazers_count": 782,
   "language": "Perl",
   "mirror_url": null,
   "archived": false,
@@ -399,7 +399,8 @@
     "TwinkleChawla": 3,
     "okuj": 3,
     "valcrist73": 3,
-    "vCillusion": 3
+    "vCillusion": 3,
+    "manrajgrover": 194
   },
   "languages": {
     "Perl": {
@@ -427,7 +428,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-19T07:34:53.098Z",
+  "fetched_at": "2018-08-23T12:47:57.604Z",
   "pulls_url": "https://api.github.com/repos/duckduckgo/zeroclickinfo-goodies/pulls{/number}",
   "pulls_authors": [
     "mintsoft",
@@ -1285,6 +1286,7 @@
     "ezand",
     "ironclad-zz",
     "gvx",
-    "andrearonsen"
+    "andrearonsen",
+    "Thumbfighter"
   ]
 }
