@@ -95,13 +95,13 @@
     "probot/probot": {
       "full_name": "probot/probot",
       "name": "probot",
-      "stargazers_count": 3102,
-      "popularity": 4.491554858386051,
+      "stargazers_count": 3104,
+      "popularity": 4.491834858707257,
       "percentage": 0.2336448598130841,
       "maturity": 3.9134794841323166,
       "total_commits_count": 856,
       "activity": 5,
-      "total_score": 26.438049275102735,
+      "total_score": 26.438897780749006,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -320,7 +320,7 @@
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
-      "total_commits_count": 21,
+      "total_commits_count": 22,
       "activity": 5,
       "total_score": 5,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
@@ -329,13 +329,13 @@
     "p-society/Online_Rosie_FrontEnd": {
       "full_name": "p-society/Online_Rosie_FrontEnd",
       "name": "Online_Rosie_FrontEnd",
-      "stargazers_count": 1,
-      "popularity": 0,
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
       "percentage": 100,
       "maturity": 0,
-      "total_commits_count": 19,
+      "total_commits_count": 20,
       "activity": 5,
-      "total_score": 5,
+      "total_score": 21.662851527087042,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/sw-yx/fresh-async-react",
   "languages_url": "https://api.github.com/repos/sw-yx/fresh-async-react/languages",
   "created_at": "2018-03-30T01:47:40Z",
-  "updated_at": "2018-08-23T02:36:56Z",
-  "pushed_at": "2018-08-23T02:36:55Z",
+  "updated_at": "2018-08-23T10:08:06Z",
+  "pushed_at": "2018-08-23T09:12:45Z",
   "homepage": "https://git.io/vpAvk",
-  "size": 64,
-  "stargazers_count": 289,
+  "size": 73,
+  "stargazers_count": 299,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -33,11 +33,12 @@
     "sw-yx": 42
   },
   "languages": {},
-  "fetched_at": "2018-08-23T03:33:52.949Z",
+  "fetched_at": "2018-08-23T10:13:13.668Z",
   "pulls_url": "https://api.github.com/repos/sw-yx/fresh-async-react/pulls{/number}",
   "pulls_authors": [
     "coreh",
     "ajwhite",
-    "yeion7"
+    "yeion7",
+    "TejasQ"
   ]
 }

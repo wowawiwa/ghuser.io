@@ -123,11 +123,11 @@
   "url": "https://api.github.com/repos/minetest/minetest_game",
   "languages_url": "https://api.github.com/repos/minetest/minetest_game/languages",
   "created_at": "2012-03-26T16:03:29Z",
-  "updated_at": "2018-08-22T00:23:04Z",
-  "pushed_at": "2018-08-22T00:42:01Z",
+  "updated_at": "2018-08-23T09:37:49Z",
+  "pushed_at": "2018-08-23T00:57:03Z",
   "homepage": "http://minetest.net/",
   "size": 7182,
-  "stargazers_count": 646,
+  "stargazers_count": 647,
   "language": "Lua",
   "mirror_url": null,
   "archived": false,
@@ -165,7 +165,7 @@
       "color": "#000080"
     }
   },
-  "fetched_at": "2018-08-22T06:53:07.970Z",
+  "fetched_at": "2018-08-23T10:09:08.250Z",
   "pulls_url": "https://api.github.com/repos/minetest/minetest_game/pulls{/number}",
   "pulls_authors": [
     "paramat",

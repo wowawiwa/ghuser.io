@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/js-org/js.org",
   "languages_url": "https://api.github.com/repos/js-org/js.org/languages",
   "created_at": "2015-04-08T01:43:18Z",
-  "updated_at": "2018-08-23T01:56:56Z",
-  "pushed_at": "2018-08-23T02:11:46Z",
+  "updated_at": "2018-08-23T07:03:24Z",
+  "pushed_at": "2018-08-23T07:03:22Z",
   "homepage": "https://js.org",
-  "size": 3004,
-  "stargazers_count": 1847,
+  "size": 3155,
+  "stargazers_count": 1850,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -141,14 +141,14 @@
     "tannerlinsley": 15,
     "pakastin": 16,
     "egoist": 16,
-    "indus": 1872,
+    "indus": 1875,
     "ccrraaiigg": 3,
     "danieljuarezp": 3,
     "dhruvdutt": 3,
     "dogancelik": 3,
     "eliperelman": 3,
     "GianlucaGuarini": 3,
-    "haydennyyy": 4,
+    "haydennyyy": 5,
     "diegohaz": 3,
     "Purpzie": 4,
     "iagrib": 3,
@@ -505,11 +505,11 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 83829,
+      "bytes": 83950,
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-23T03:29:30.546Z",
+  "fetched_at": "2018-08-23T10:08:24.400Z",
   "pulls_url": "https://api.github.com/repos/js-org/js.org/pulls{/number}",
   "pulls_authors": [
     "ChandZhang",
@@ -1885,6 +1885,7 @@
     "iankii",
     "hijiangtao",
     "lab4quant",
-    "pangkeyd"
+    "pangkeyd",
+    "yjw0628"
   ]
 }

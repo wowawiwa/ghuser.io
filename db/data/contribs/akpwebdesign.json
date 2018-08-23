@@ -56,13 +56,13 @@
     "firebase/firebase-js-sdk": {
       "full_name": "firebase/firebase-js-sdk",
       "name": "firebase-js-sdk",
-      "stargazers_count": 1317,
-      "popularity": 4.1193279748079785,
+      "stargazers_count": 1319,
+      "popularity": 4.119987445718799,
       "percentage": 0.22371364653243847,
       "maturity": 3.611436995331304,
       "total_commits_count": 447,
       "activity": 5,
-      "total_score": 24.7006593998125,
+      "total_score": 24.702656991788455,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -225,13 +225,13 @@
     "jamierumbelow/codeigniter-base-model": {
       "full_name": "jamierumbelow/codeigniter-base-model",
       "name": "codeigniter-base-model",
-      "stargazers_count": 1046,
-      "popularity": 4.019196932652541,
+      "stargazers_count": 1047,
+      "popularity": 4.019612287012473,
       "percentage": 1.5037593984962405,
       "maturity": 2.9706841383064435,
       "total_commits_count": 133,
-      "activity": 1.5217571198412827,
-      "total_score": 20.30642386545665,
+      "activity": 1.5140716265252827,
+      "total_score": 20.300065632313366,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

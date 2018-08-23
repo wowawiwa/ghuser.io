@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/elastic/elasticsearch",
   "languages_url": "https://api.github.com/repos/elastic/elasticsearch/languages",
   "created_at": "2010-02-08T13:20:56Z",
-  "updated_at": "2018-08-23T03:00:01Z",
-  "pushed_at": "2018-08-23T02:59:20Z",
+  "updated_at": "2018-08-23T09:22:49Z",
+  "pushed_at": "2018-08-23T09:50:54Z",
   "homepage": "https://www.elastic.co/products/elasticsearch",
-  "size": 504646,
-  "stargazers_count": 33687,
+  "size": 504692,
+  "stargazers_count": 33702,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "Java": {
-      "bytes": 69101271,
+      "bytes": 69140913,
       "color": "#b07219"
     },
     "Groovy": {
@@ -100,7 +100,7 @@
     "cwurm": 11,
     "a2lin": 11,
     "jprante": 11,
-    "original-brownbear": 47,
+    "original-brownbear": 48,
     "suyograo": 12,
     "gfyoung": 12,
     "ankon": 12,
@@ -137,7 +137,7 @@
     "mrsolo": 39,
     "andyb-elastic": 54,
     "jtibshirani": 49,
-    "albertzaharovits": 42,
+    "albertzaharovits": 43,
     "c-a-m": 42,
     "hendrikmuhs": 42,
     "Paikan": 43,
@@ -167,9 +167,9 @@
     "davidkyle": 286,
     "droberts195": 293,
     "mikemccand": 344,
-    "dimitris-athanasiou": 353,
+    "dimitris-athanasiou": 354,
     "brwe": 414,
-    "jimczi": 456,
+    "jimczi": 457,
     "areek": 457,
     "ywelsch": 498,
     "lcawl": 466,
@@ -468,9 +468,10 @@
     "aferreira": 9,
     "benwtrent": 14,
     "andrershov": 4,
-    "edsavage": 5
+    "edsavage": 5,
+    "lipsill": 3
   },
-  "fetched_at": "2018-08-23T03:32:16.065Z",
+  "fetched_at": "2018-08-23T10:11:24.214Z",
   "pulls_url": "https://api.github.com/repos/elastic/elasticsearch/pulls{/number}",
   "pulls_authors": [
     "benwtrent",

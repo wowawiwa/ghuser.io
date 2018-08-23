@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/WeblateOrg/weblate/languages",
   "pulls_url": "https://api.github.com/repos/WeblateOrg/weblate/pulls{/number}",
   "created_at": "2012-02-27T09:33:29Z",
-  "updated_at": "2018-08-22T20:38:42Z",
-  "pushed_at": "2018-08-22T20:38:39Z",
+  "updated_at": "2018-08-23T09:56:34Z",
+  "pushed_at": "2018-08-23T09:56:31Z",
   "homepage": "https://weblate.org/",
-  "size": 155048,
+  "size": 155055,
   "stargazers_count": 1114,
   "language": "Python",
   "mirror_url": null,
@@ -65,7 +65,7 @@
     "madmuffin1": 9,
     "stefanor": 8,
     "Freso": 9,
-    "weblate": 1443,
+    "weblate": 1444,
     "Xuacu": 10,
     "ptrsk": 10,
     "mv-santos": 10,
@@ -133,7 +133,7 @@
     "belphegor-belbel": 132,
     "yarons": 139,
     "elchevive": 149,
-    "comradekingu": 162,
+    "comradekingu": 163,
     "monolifed": 163,
     "andriykopanytsia": 174,
     "rimy": 193,
@@ -147,10 +147,10 @@
     "ruleant": 502,
     "BouRock": 760,
     "franconian": 1120,
-    "nijel": 15609,
+    "nijel": 15613,
     "lukakama": 12,
     "pjcaldeira": 7,
-    "glensc": 7,
+    "glensc": 8,
     "ZweiSteinSoft": 6,
     "ujdhesa": 6,
     "CarstenG": 6,
@@ -506,7 +506,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 2438173,
+      "bytes": 2438267,
       "color": "#3572A5"
     },
     "JavaScript": {
@@ -538,5 +538,5 @@
       "color": "#4F5D95"
     }
   },
-  "fetched_at": "2018-08-23T03:31:55.096Z"
+  "fetched_at": "2018-08-23T10:10:59.854Z"
 }

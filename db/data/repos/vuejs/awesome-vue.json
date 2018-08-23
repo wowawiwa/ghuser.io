@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/vuejs/awesome-vue",
   "languages_url": "https://api.github.com/repos/vuejs/awesome-vue/languages",
   "created_at": "2015-10-20T00:16:14Z",
-  "updated_at": "2018-08-23T03:22:33Z",
-  "pushed_at": "2018-08-22T07:13:00Z",
+  "updated_at": "2018-08-23T09:43:12Z",
+  "pushed_at": "2018-08-23T09:37:28Z",
   "homepage": "",
   "size": 3382,
-  "stargazers_count": 36641,
+  "stargazers_count": 36654,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -539,7 +539,7 @@
     "IPRIT": 1
   },
   "languages": {},
-  "fetched_at": "2018-08-23T03:29:52.443Z",
+  "fetched_at": "2018-08-23T10:08:48.042Z",
   "pulls_url": "https://api.github.com/repos/vuejs/awesome-vue/pulls{/number}",
   "pulls_authors": [
     "mengdu",
@@ -1857,6 +1857,7 @@
     "yanthems",
     "RamdhasUeikattan",
     "IPRIT",
-    "DOkwufulueze"
+    "DOkwufulueze",
+    "mcmimik"
   ]
 }

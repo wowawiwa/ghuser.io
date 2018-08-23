@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/firekylin/firekylin",
   "languages_url": "https://api.github.com/repos/firekylin/firekylin/languages",
   "created_at": "2015-06-02T06:59:28Z",
-  "updated_at": "2018-08-23T03:22:57Z",
-  "pushed_at": "2018-08-22T16:05:37Z",
+  "updated_at": "2018-08-23T09:55:45Z",
+  "pushed_at": "2018-08-23T09:55:43Z",
   "homepage": "https://firekylin.org",
-  "size": 5167,
+  "size": 4964,
   "stargazers_count": 1503,
   "language": "JavaScript",
   "mirror_url": null,
@@ -73,11 +73,11 @@
     "wei": 33,
     "jedmeng": 36,
     "welefen": 256,
-    "lizheming": 574
+    "lizheming": 576
   },
   "languages": {
     "JavaScript": {
-      "bytes": 441844,
+      "bytes": 441889,
       "color": "#f1e05a"
     },
     "CSS": {
@@ -93,7 +93,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-23T03:34:25.317Z",
+  "fetched_at": "2018-08-23T10:13:49.685Z",
   "pulls_url": "https://api.github.com/repos/firekylin/firekylin/pulls{/number}",
   "pulls_authors": [
     "shuang6",

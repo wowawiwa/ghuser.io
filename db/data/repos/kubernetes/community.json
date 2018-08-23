@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/kubernetes/community",
   "languages_url": "https://api.github.com/repos/kubernetes/community/languages",
   "created_at": "2016-05-03T03:36:05Z",
-  "updated_at": "2018-08-23T03:14:08Z",
-  "pushed_at": "2018-08-23T03:20:06Z",
+  "updated_at": "2018-08-23T09:26:34Z",
+  "pushed_at": "2018-08-23T10:11:09Z",
   "homepage": "",
   "size": 31412,
-  "stargazers_count": 2370,
+  "stargazers_count": 2373,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -462,7 +462,7 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-23T03:33:11.506Z",
+  "fetched_at": "2018-08-23T10:12:26.690Z",
   "pulls_url": "https://api.github.com/repos/kubernetes/community/pulls{/number}",
   "pulls_authors": [
     "castrojo",

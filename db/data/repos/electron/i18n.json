@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/electron/i18n/languages",
   "pulls_url": "https://api.github.com/repos/electron/i18n/pulls{/number}",
   "created_at": "2017-05-16T22:18:06Z",
-  "updated_at": "2018-08-23T01:49:37Z",
-  "pushed_at": "2018-08-23T01:52:52Z",
+  "updated_at": "2018-08-23T09:59:12Z",
+  "pushed_at": "2018-08-23T10:05:20Z",
   "homepage": "https://electronjs.org/languages",
-  "size": 32781,
+  "size": 32790,
   "stargazers_count": 175,
   "language": "JavaScript",
   "mirror_url": null,
@@ -63,7 +63,7 @@
     "pierreneter": 7,
     "dependabot[bot]": 9,
     "vanessayuenn": 22,
-    "electron-bot": 371,
+    "electron-bot": 373,
     "zeke": 1716,
     "glotbot": 24450
   },
@@ -110,5 +110,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-23T03:34:16.102Z"
+  "fetched_at": "2018-08-23T10:13:40.248Z"
 }

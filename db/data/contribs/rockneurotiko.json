@@ -511,13 +511,13 @@
     "python/mypy": {
       "full_name": "python/mypy",
       "name": "mypy",
-      "stargazers_count": 4388,
-      "popularity": 4.642216621632328,
+      "stargazers_count": 4389,
+      "popularity": 4.642315603874255,
       "percentage": 0.3550821127385708,
       "maturity": 4.829047397538816,
       "total_commits_count": 6759,
       "activity": 5,
-      "total_score": 28.79903251112853,
+      "total_score": 28.799334026941374,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

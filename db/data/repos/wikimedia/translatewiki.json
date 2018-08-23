@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/wikimedia/translatewiki/languages",
   "pulls_url": "https://api.github.com/repos/wikimedia/translatewiki/pulls{/number}",
   "created_at": "2013-02-04T18:20:39Z",
-  "updated_at": "2018-08-21T09:59:47Z",
-  "pushed_at": "2018-08-21T10:02:08Z",
+  "updated_at": "2018-08-23T09:24:36Z",
+  "pushed_at": "2018-08-23T09:26:08Z",
   "homepage": "https://gerrit.wikimedia.org",
-  "size": 14647,
+  "size": 14648,
   "stargazers_count": 22,
   "language": "PHP",
   "mirror_url": null,
@@ -53,7 +53,7 @@
     "mainframe98": 1,
     "Flucons": 1,
     "dbrant": 1,
-    "Ladsgroup": 1,
+    "Ladsgroup": 2,
     "FreedomFighterSparrow": 1,
     "Sophivorus": 1,
     "GEOFBOT": 1,
@@ -169,5 +169,5 @@
       "color": "#87AED7"
     }
   },
-  "fetched_at": "2018-08-21T11:31:45.777Z"
+  "fetched_at": "2018-08-23T10:11:13.288Z"
 }
