@@ -10,8 +10,8 @@
   "url": "https://api.github.com/repos/coala/coala-quickstart",
   "languages_url": "https://api.github.com/repos/coala/coala-quickstart/languages",
   "created_at": "2016-03-01T15:55:10Z",
-  "updated_at": "2018-08-22T03:56:51Z",
-  "pushed_at": "2018-08-21T12:50:22Z",
+  "updated_at": "2018-08-23T13:01:25Z",
+  "pushed_at": "2018-08-23T13:01:22Z",
   "homepage": "",
   "size": 282,
   "stargazers_count": 37,
@@ -82,7 +82,8 @@
     "Wert1996": 1,
     "sladyn98": 1,
     "Naveenaidu": 1,
-    "ahphoo": 1
+    "ahphoo": 1,
+    "Prince-sharma": 1
   },
   "languages": {
     "Python": {
@@ -98,7 +99,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-22T06:54:13.563Z",
+  "fetched_at": "2018-08-23T16:10:01.117Z",
   "pulls_url": "https://api.github.com/repos/coala/coala-quickstart/pulls{/number}",
   "pulls_authors": [
     "jayvdb",
@@ -147,6 +148,7 @@
     "sladyn98",
     "Naveenaidu",
     "rishabhgarg25699",
-    "ahphoo"
+    "ahphoo",
+    "Prince-sharma"
   ]
 }

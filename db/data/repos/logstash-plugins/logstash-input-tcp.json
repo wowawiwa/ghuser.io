@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/logstash-plugins/logstash-input-tcp",
   "languages_url": "https://api.github.com/repos/logstash-plugins/logstash-input-tcp/languages",
   "created_at": "2014-10-16T17:03:48Z",
-  "updated_at": "2018-06-26T07:09:50Z",
-  "pushed_at": "2018-06-11T16:19:22Z",
+  "updated_at": "2018-08-23T14:23:26Z",
+  "pushed_at": "2018-08-15T17:45:41Z",
   "homepage": null,
   "size": 192,
-  "stargazers_count": 15,
+  "stargazers_count": 16,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -81,7 +81,7 @@
     "colinsurprenant": 13,
     "ph": 39
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "fetched_at": "2018-08-23T16:11:21.510Z",
   "pulls_url": "https://api.github.com/repos/logstash-plugins/logstash-input-tcp/pulls{/number}",
   "pulls_authors": [
     "jsvd",
@@ -106,6 +106,7 @@
     "AlexBaker-",
     "cspenceiv",
     "gbu-censhare",
-    "doubret"
+    "doubret",
+    "yaauie"
   ]
 }
