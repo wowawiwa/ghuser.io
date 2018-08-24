@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/nim-lang/packages",
   "languages_url": "https://api.github.com/repos/nim-lang/packages/languages",
   "created_at": "2012-12-01T22:33:30Z",
-  "updated_at": "2018-08-22T14:26:07Z",
-  "pushed_at": "2018-08-22T14:26:06Z",
+  "updated_at": "2018-08-23T20:49:07Z",
+  "pushed_at": "2018-08-24T01:29:36Z",
   "homepage": "",
-  "size": 1723,
+  "size": 1766,
   "stargazers_count": 141,
   "language": "Nim",
   "mirror_url": null,
@@ -266,7 +266,8 @@
     "ReneSac": 2,
     "mzteruru52": 1,
     "ul": 1,
-    "muxueqz": 1
+    "muxueqz": 1,
+    "Tangdongle": 1
   },
   "languages": {
     "Nim": {
@@ -278,7 +279,7 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-22T17:10:34.641Z",
+  "fetched_at": "2018-08-24T02:19:40.016Z",
   "pulls_url": "https://api.github.com/repos/nim-lang/packages/pulls{/number}",
   "pulls_authors": [
     "juancarlospaco",
@@ -532,6 +533,7 @@
     "mzteruru52",
     "ReneSac",
     "ul",
-    "muxueqz"
+    "muxueqz",
+    "Tangdongle"
   ]
 }

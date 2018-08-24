@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/transitive-bullshit/awesome-puppeteer/languages",
   "pulls_url": "https://api.github.com/repos/transitive-bullshit/awesome-puppeteer/pulls{/number}",
   "created_at": "2018-05-07T10:46:15Z",
-  "updated_at": "2018-08-23T11:32:14Z",
-  "pushed_at": "2018-08-18T22:38:27Z",
+  "updated_at": "2018-08-23T23:12:55Z",
+  "pushed_at": "2018-08-23T17:44:18Z",
   "homepage": null,
-  "size": 74,
-  "stargazers_count": 213,
+  "size": 79,
+  "stargazers_count": 214,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -30,7 +30,8 @@
     "berstend": 1,
     "chinanf-boy": 2,
     "aofdev": 2,
-    "transitive-bullshit": 18
+    "transitive-bullshit": 18,
+    "matheuscas": 1
   },
   "pulls_authors": [
     "m90",
@@ -40,8 +41,9 @@
     "sarfraznawaz2005",
     "aofdev",
     "anishkny",
-    "berstend"
+    "berstend",
+    "matheuscas"
   ],
   "languages": {},
-  "fetched_at": "2018-08-23T12:43:27.067Z"
+  "fetched_at": "2018-08-24T02:18:22.737Z"
 }

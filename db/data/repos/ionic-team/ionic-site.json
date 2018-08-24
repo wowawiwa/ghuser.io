@@ -99,7 +99,7 @@
     "drewrygh": 462,
     "bensperry": 507,
     "mlynch": 811,
-    "perrygovier": 1390,
+    "perrygovier": 1391,
     "Ionitron": 3820,
     "dsiddy": 2,
     "ltm": 3,
@@ -290,10 +290,10 @@
   "url": "https://api.github.com/repos/ionic-team/ionic-site",
   "languages_url": "https://api.github.com/repos/ionic-team/ionic-site/languages",
   "created_at": "2013-09-30T16:22:20Z",
-  "updated_at": "2018-08-21T18:41:20Z",
-  "pushed_at": "2018-08-21T18:41:12Z",
+  "updated_at": "2018-08-23T16:33:25Z",
+  "pushed_at": "2018-08-23T16:33:13Z",
   "homepage": "https://ionicframework.com",
-  "size": 1252660,
+  "size": 1252654,
   "stargazers_count": 361,
   "language": "JavaScript",
   "mirror_url": null,
@@ -336,7 +336,7 @@
       "color": "#563d7c"
     },
     "HTML": {
-      "bytes": 1396866,
+      "bytes": 1396888,
       "color": "#e34c26"
     },
     "TypeScript": {
@@ -352,7 +352,7 @@
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-08-21T21:46:17.413Z",
+  "fetched_at": "2018-08-24T02:19:28.523Z",
   "pulls_url": "https://api.github.com/repos/ionic-team/ionic-site/pulls{/number}",
   "pulls_authors": [
     "aniketkudale",

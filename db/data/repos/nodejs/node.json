@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/nodejs/node",
   "languages_url": "https://api.github.com/repos/nodejs/node/languages",
   "created_at": "2014-11-26T19:57:11Z",
-  "updated_at": "2018-08-23T09:46:46Z",
-  "pushed_at": "2018-08-23T09:38:57Z",
+  "updated_at": "2018-08-24T01:48:24Z",
+  "pushed_at": "2018-08-24T01:41:17Z",
   "homepage": "https://nodejs.org",
-  "size": 402897,
-  "stargazers_count": 52569,
+  "size": 402873,
+  "stargazers_count": 52588,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,15 +48,15 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 6784222,
+      "bytes": 6787040,
       "color": "#f1e05a"
     },
     "C++": {
-      "bytes": 2508443,
+      "bytes": 2508469,
       "color": "#f34b7d"
     },
     "Python": {
-      "bytes": 1970100,
+      "bytes": 1970022,
       "color": "#3572A5"
     },
     "C": {
@@ -168,7 +168,7 @@
     "jbergstroem": 76,
     "santigimeno": 84,
     "silverwind": 89,
-    "refack": 94,
+    "refack": 95,
     "AndreasMadsen": 103,
     "tniessen": 122,
     "ofrobots": 117,
@@ -190,10 +190,10 @@
     "BridgeAR": 346,
     "mscdex": 318,
     "rvagg": 324,
-    "danbev": 349,
+    "danbev": 350,
     "trevnorris": 363,
     "cjihrig": 390,
-    "jasnell": 521,
+    "jasnell": 524,
     "piscisaureus": 598,
     "addaleax": 669,
     "indutny": 755,
@@ -566,15 +566,15 @@
     "dinophile": 2,
     "rubys": 18,
     "aduh95": 3,
-    "lundibundi": 5,
+    "lundibundi": 6,
     "kenny-y": 3,
     "antsmartian": 7,
     "jquynh": 5,
-    "oyyd": 4,
+    "oyyd": 5,
     "tlhunter": 3,
     "Maledong": 7
   },
-  "fetched_at": "2018-08-23T10:12:28.371Z",
+  "fetched_at": "2018-08-24T02:22:35.283Z",
   "pulls_url": "https://api.github.com/repos/nodejs/node/pulls{/number}",
   "pulls_authors": [
     "mmarchini",
@@ -2782,6 +2782,8 @@
     "ratracegrad",
     "legendecas",
     "ZYSzys",
-    "neeraj-laad"
+    "neeraj-laad",
+    "abelmark",
+    "ianloic"
   ]
 }

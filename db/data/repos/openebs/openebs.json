@@ -10,8 +10,8 @@
   "url": "https://api.github.com/repos/openebs/openebs",
   "languages_url": "https://api.github.com/repos/openebs/openebs/languages",
   "created_at": "2016-08-01T09:33:32Z",
-  "updated_at": "2018-08-23T09:05:02Z",
-  "pushed_at": "2018-08-23T09:59:29Z",
+  "updated_at": "2018-08-23T16:06:49Z",
+  "pushed_at": "2018-08-23T16:03:54Z",
   "homepage": "https://www.openebs.io",
   "size": 21025,
   "stargazers_count": 5312,
@@ -125,7 +125,7 @@
     "vibhor995": 37,
     "nsathyaseelan": 23,
     "satyamz": 19,
-    "prateekpandey14": 28,
+    "prateekpandey14": 31,
     "Swarnalatha-K": 37,
     "umamukkara": 39,
     "gprasath": 96,
@@ -140,7 +140,8 @@
     "prabhatkumarthakur": 4,
     "ashishranjan738": 12,
     "princerachit": 3,
-    "sonasingh46": 6
+    "sonasingh46": 7,
+    "ranjithwingrider": 1
   },
   "languages": {
     "Go": {
@@ -148,7 +149,7 @@
       "color": "#375eab"
     }
   },
-  "fetched_at": "2018-08-23T10:09:37.882Z",
+  "fetched_at": "2018-08-24T02:20:00.151Z",
   "pulls_url": "https://api.github.com/repos/openebs/openebs/pulls{/number}",
   "pulls_authors": [
     "gprasath",

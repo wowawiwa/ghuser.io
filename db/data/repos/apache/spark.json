@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/apache/spark",
   "languages_url": "https://api.github.com/repos/apache/spark/languages",
   "created_at": "2014-02-25T08:00:08Z",
-  "updated_at": "2018-08-23T08:46:28Z",
-  "pushed_at": "2018-08-23T09:53:15Z",
+  "updated_at": "2018-08-24T02:17:01Z",
+  "pushed_at": "2018-08-24T02:15:40Z",
   "homepage": null,
-  "size": 280246,
-  "stargazers_count": 18489,
+  "size": 280312,
+  "stargazers_count": 18496,
   "language": "Scala",
   "mirror_url": null,
   "archived": false,
@@ -58,7 +58,7 @@
     "xiajunluan": 37,
     "gengliangwang": 60,
     "tejasapatil": 36,
-    "jose-torres": 36,
+    "jose-torres": 37,
     "andyk": 42,
     "clockfly": 36,
     "alig": 39,
@@ -74,7 +74,7 @@
     "zjffdu": 47,
     "sethah": 45,
     "ijuma": 48,
-    "squito": 55,
+    "squito": 56,
     "dilipbiswal": 61,
     "mosharaf": 78,
     "tgravescs": 54,
@@ -119,7 +119,7 @@
     "chenghao-intel": 118,
     "maropu": 132,
     "hvanhovell": 125,
-    "ueshin": 150,
+    "ueshin": 151,
     "andrewor14": 136,
     "sarutak": 143,
     "holdenk": 151,
@@ -164,7 +164,7 @@
     "sitalkedia": 24,
     "SaintBacchus": 24,
     "CrazyJvm": 24,
-    "huaxingao": 27,
+    "huaxingao": 28,
     "mgummelt": 23,
     "tnachen": 23,
     "carsonwang": 22,
@@ -390,7 +390,7 @@
   },
   "languages": {
     "Scala": {
-      "bytes": 27155198,
+      "bytes": 27163343,
       "color": "#c22d40"
     },
     "Java": {
@@ -398,7 +398,7 @@
       "color": "#b07219"
     },
     "Python": {
-      "bytes": 2727205,
+      "bytes": 2727806,
       "color": "#3572A5"
     },
     "HiveQL": {
@@ -470,7 +470,7 @@
       "color": "#555555"
     }
   },
-  "fetched_at": "2018-08-23T10:12:09.689Z",
+  "fetched_at": "2018-08-24T02:22:19.117Z",
   "pulls_url": "https://api.github.com/repos/apache/spark/pulls{/number}",
   "pulls_authors": [
     "techaddict",
@@ -2765,6 +2765,8 @@
     "AndrewKL",
     "hn5092",
     "yunjzhang",
-    "movrsprbp"
+    "movrsprbp",
+    "jweaver-personal",
+    "ankuriitg"
   ]
 }

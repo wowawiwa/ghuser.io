@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/pytest-dev/pytest-xdist/languages",
   "pulls_url": "https://api.github.com/repos/pytest-dev/pytest-xdist/pulls{/number}",
   "created_at": "2015-09-01T18:51:45Z",
-  "updated_at": "2018-08-18T23:51:19Z",
-  "pushed_at": "2018-08-19T02:09:10Z",
+  "updated_at": "2018-08-23T19:41:10Z",
+  "pushed_at": "2018-08-23T19:33:29Z",
   "homepage": "",
-  "size": 1238,
+  "size": 1241,
   "stargazers_count": 221,
   "language": "Python",
   "mirror_url": null,
@@ -86,7 +86,7 @@
     "flub": 8,
     "wronglink": 15,
     "RonnyPfannschmidt": 34,
-    "nicoddemus": 147,
+    "nicoddemus": 148,
     "hpk42": 156
   },
   "pulls_authors": [
@@ -132,9 +132,9 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 178952,
+      "bytes": 179167,
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-08-19T07:33:33.855Z"
+  "fetched_at": "2018-08-24T02:21:12.957Z"
 }

@@ -96,7 +96,7 @@
     "ShadowNinja": 23,
     "SmallJoker": 26,
     "BlockMen": 41,
-    "tenplus1": 47,
+    "tenplus1": 49,
     "PilzAdam": 66,
     "celeron55": 73,
     "sofar": 123,
@@ -123,11 +123,11 @@
   "url": "https://api.github.com/repos/minetest/minetest_game",
   "languages_url": "https://api.github.com/repos/minetest/minetest_game/languages",
   "created_at": "2012-03-26T16:03:29Z",
-  "updated_at": "2018-08-23T09:37:49Z",
-  "pushed_at": "2018-08-23T00:57:03Z",
+  "updated_at": "2018-08-23T19:42:40Z",
+  "pushed_at": "2018-08-24T01:23:17Z",
   "homepage": "http://minetest.net/",
-  "size": 7182,
-  "stargazers_count": 647,
+  "size": 7186,
+  "stargazers_count": 648,
   "language": "Lua",
   "mirror_url": null,
   "archived": false,
@@ -161,11 +161,11 @@
   },
   "languages": {
     "Lua": {
-      "bytes": 466448,
+      "bytes": 463782,
       "color": "#000080"
     }
   },
-  "fetched_at": "2018-08-23T10:09:08.250Z",
+  "fetched_at": "2018-08-24T02:19:33.224Z",
   "pulls_url": "https://api.github.com/repos/minetest/minetest_game/pulls{/number}",
   "pulls_authors": [
     "paramat",

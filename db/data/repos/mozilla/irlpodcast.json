@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/mozilla/irlpodcast/languages",
   "pulls_url": "https://api.github.com/repos/mozilla/irlpodcast/pulls{/number}",
   "created_at": "2017-05-30T22:28:23Z",
-  "updated_at": "2018-08-15T21:12:33Z",
-  "pushed_at": "2018-08-15T21:12:31Z",
+  "updated_at": "2018-08-23T19:11:36Z",
+  "pushed_at": "2018-08-23T19:11:32Z",
   "homepage": "https://irlpodcast.org",
-  "size": 8687,
+  "size": 8981,
   "stargazers_count": 4,
   "language": "CSS",
   "mirror_url": null,
@@ -56,7 +56,7 @@
     "metadave": 3,
     "craigcook": 4,
     "jgmize": 16,
-    "stephaniehobson": 18,
+    "stephaniehobson": 19,
     "jpetto": 141
   },
   "pulls_authors": [
@@ -91,5 +91,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-16T04:54:40.598Z"
+  "fetched_at": "2018-08-24T02:23:08.421Z"
 }

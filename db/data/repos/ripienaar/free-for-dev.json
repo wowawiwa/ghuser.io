@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/ripienaar/free-for-dev/languages",
   "pulls_url": "https://api.github.com/repos/ripienaar/free-for-dev/pulls{/number}",
   "created_at": "2015-03-18T21:06:26Z",
-  "updated_at": "2018-08-23T11:14:27Z",
-  "pushed_at": "2018-08-20T06:26:12Z",
+  "updated_at": "2018-08-23T17:50:58Z",
+  "pushed_at": "2018-08-23T16:06:03Z",
   "homepage": "",
-  "size": 1133,
-  "stargazers_count": 18960,
+  "size": 1150,
+  "stargazers_count": 18964,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -120,7 +120,7 @@
     "thomasbabuj": 22,
     "SangramChavan": 20,
     "Reubend": 27,
-    "ripienaar": 676,
+    "ripienaar": 677,
     "TraderStf": 53,
     "jrobinsonc": 3,
     "alancarson": 2,
@@ -408,7 +408,8 @@
     "victorm95": 1,
     "zcyzcy88": 1,
     "alexi": 1,
-    "codyogden": 2
+    "codyogden": 2,
+    "seanw": 1
   },
   "pulls_authors": [
     "mark-szabo",
@@ -923,8 +924,10 @@
     "pyr",
     "justindowning",
     "alexi",
-    "codyogden"
+    "codyogden",
+    "dinmichele",
+    "seanw"
   ],
   "languages": {},
-  "fetched_at": "2018-08-23T12:47:46.304Z"
+  "fetched_at": "2018-08-24T02:22:27.660Z"
 }

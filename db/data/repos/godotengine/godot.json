@@ -20,11 +20,11 @@
     "TheoXD": 12,
     "ZuBsPaCe": 12,
     "vinzenz": 12,
-    "KellyThomas": 16,
+    "KellyThomas": 17,
     "Nallebeorn": 13,
     "sheepandshepherd": 12,
     "MillionOstrich": 13,
-    "JFonS": 17,
+    "JFonS": 18,
     "rraallvv": 14,
     "Grosskopf": 14,
     "Marqin": 14,
@@ -56,7 +56,7 @@
     "StraToN": 33,
     "Max-Might": 37,
     "Ovnuniarchos": 35,
-    "AlexHolly": 38,
+    "AlexHolly": 39,
     "Calinou": 58,
     "kubecz3k": 46,
     "willnationsdev": 48,
@@ -85,11 +85,11 @@
     "toger5": 101,
     "hpvb": 165,
     "poke1024": 118,
-    "marcelofg55": 139,
+    "marcelofg55": 140,
     "marynate": 118,
-    "karroffel": 276,
+    "karroffel": 285,
     "bojidar-bg": 130,
-    "eska014": 157,
+    "eska014": 159,
     "Faless": 171,
     "Paulb23": 171,
     "djrm": 169,
@@ -97,10 +97,10 @@
     "Noshyaar": 368,
     "RandomShaper": 201,
     "Hinsbart": 303,
-    "neikeq": 362,
-    "volzhs": 297,
-    "akien-mga": 4855,
-    "reduz": 2837,
+    "neikeq": 363,
+    "volzhs": 298,
+    "akien-mga": 4869,
+    "reduz": 2844,
     "cbscribe": 39,
     "Spooner": 16,
     "NathanLovato": 12,
@@ -108,7 +108,7 @@
     "KidRigger": 9,
     "cart": 9,
     "capnm": 9,
-    "dragmz": 23,
+    "dragmz": 24,
     "QuLogic": 8,
     "MattUV": 8,
     "ricpelo": 8,
@@ -433,11 +433,11 @@
   "url": "https://api.github.com/repos/godotengine/godot",
   "languages_url": "https://api.github.com/repos/godotengine/godot/languages",
   "created_at": "2014-01-04T16:05:36Z",
-  "updated_at": "2018-08-23T09:58:16Z",
-  "pushed_at": "2018-08-23T08:57:30Z",
+  "updated_at": "2018-08-24T01:50:28Z",
+  "pushed_at": "2018-08-24T01:11:29Z",
   "homepage": "https://godotengine.org",
-  "size": 258135,
-  "stargazers_count": 16313,
+  "size": 258178,
+  "stargazers_count": 16319,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -471,7 +471,7 @@
   },
   "languages": {
     "C++": {
-      "bytes": 21378601,
+      "bytes": 21384746,
       "color": "#f34b7d"
     },
     "Java": {
@@ -479,11 +479,11 @@
       "color": "#b07219"
     },
     "Python": {
-      "bytes": 337806,
+      "bytes": 337852,
       "color": "#3572A5"
     },
     "C#": {
-      "bytes": 213181,
+      "bytes": 213404,
       "color": "#178600"
     },
     "Objective-C++": {
@@ -515,7 +515,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-23T10:08:52.557Z",
+  "fetched_at": "2018-08-24T02:19:20.690Z",
   "pulls_url": "https://api.github.com/repos/godotengine/godot/pulls{/number}",
   "pulls_authors": [
     "Calinou",
@@ -1409,6 +1409,7 @@
     "neonsoup",
     "pgruenbacher",
     "JPTeasdale",
-    "jmca"
+    "jmca",
+    "Placinta"
   ]
 }

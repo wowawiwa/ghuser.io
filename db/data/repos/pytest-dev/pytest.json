@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/pytest-dev/pytest/languages",
   "pulls_url": "https://api.github.com/repos/pytest-dev/pytest/pulls{/number}",
   "created_at": "2015-06-15T20:28:27Z",
-  "updated_at": "2018-08-23T09:28:12Z",
-  "pushed_at": "2018-08-23T09:05:33Z",
+  "updated_at": "2018-08-24T01:32:56Z",
+  "pushed_at": "2018-08-24T01:57:02Z",
   "homepage": "http://pytest.org/",
-  "size": 13361,
-  "stargazers_count": 2949,
+  "size": 13381,
+  "stargazers_count": 2955,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -134,7 +134,7 @@
     "Turbo87": 25,
     "blueyed": 28,
     "jeffreyrack": 30,
-    "asottile": 53,
+    "asottile": 58,
     "feuillemorte": 43,
     "kalekundert": 43,
     "jurko-gospodnetic": 41,
@@ -146,7 +146,7 @@
     "flub": 202,
     "benjaminp": 226,
     "RonnyPfannschmidt": 870,
-    "nicoddemus": 1828,
+    "nicoddemus": 1830,
     "hpk42": 2205,
     "invalid-email-address": 1036,
     "alanbato": 5,
@@ -337,7 +337,7 @@
     "Nikratio": 1,
     "oleg-alexandrov": 1,
     "oleksmarkh": 1,
-    "mimi1vx": 1,
+    "mimi1vx": 2,
     "oscarh": 1,
     "OwenTuz": 1,
     "pv": 1,
@@ -404,7 +404,7 @@
     "okken": 1,
     "anowlcalledjosh": 1,
     "sankt-petersbug": 7,
-    "wimglenn": 2,
+    "wimglenn": 7,
     "natanlao": 2
   },
   "pulls_authors": [
@@ -769,11 +769,12 @@
     "sankt-petersbug",
     "wimglenn",
     "natanlao",
-    "jennirinker"
+    "jennirinker",
+    "GandalfSaxe"
   ],
   "languages": {
     "Python": {
-      "bytes": 1705188,
+      "bytes": 1707447,
       "color": "#3572A5"
     },
     "Batchfile": {
@@ -781,5 +782,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-08-23T10:11:11.986Z"
+  "fetched_at": "2018-08-24T02:21:26.287Z"
 }

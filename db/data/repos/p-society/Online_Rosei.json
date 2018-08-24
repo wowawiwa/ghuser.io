@@ -5,17 +5,17 @@
   "owner": "p-society",
   "private": false,
   "html_url": "https://github.com/p-society/Online_Rosei",
-  "description": "Online rosie for IIIT-BBSR(WIP)",
+  "description": "Online rosei for IIIT-BBSR(WIP)",
   "fork": false,
   "url": "https://api.github.com/repos/p-society/Online_Rosei",
   "languages_url": "https://api.github.com/repos/p-society/Online_Rosei/languages",
   "pulls_url": "https://api.github.com/repos/p-society/Online_Rosei/pulls{/number}",
   "created_at": "2018-08-15T08:57:28Z",
-  "updated_at": "2018-08-23T06:21:15Z",
-  "pushed_at": "2018-08-23T06:21:14Z",
-  "homepage": null,
-  "size": 2681,
-  "stargazers_count": 1,
+  "updated_at": "2018-08-23T18:20:37Z",
+  "pushed_at": "2018-08-23T14:56:48Z",
+  "homepage": "",
+  "size": 2683,
+  "stargazers_count": 2,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -53,7 +53,7 @@
   "pulls_authors": [],
   "languages": {
     "TypeScript": {
-      "bytes": 36138,
+      "bytes": 36345,
       "color": "#2b7489"
     },
     "JavaScript": {
@@ -69,5 +69,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-23T10:11:59.161Z"
+  "fetched_at": "2018-08-24T02:22:09.412Z"
 }

@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/catapult-project/catapult/languages",
   "pulls_url": "https://api.github.com/repos/catapult-project/catapult/pulls{/number}",
   "created_at": "2015-04-14T17:49:05Z",
-  "updated_at": "2018-08-23T06:58:46Z",
-  "pushed_at": "2018-08-23T01:43:34Z",
+  "updated_at": "2018-08-24T02:13:22Z",
+  "pushed_at": "2018-08-24T02:13:19Z",
   "homepage": null,
-  "size": 307606,
+  "size": 307301,
   "stargazers_count": 998,
   "language": "HTML",
   "mirror_url": null,
@@ -114,7 +114,7 @@
     "aschulm": 29,
     "case540": 31,
     "vuppalapu": 31,
-    "chiniforooshan": 40,
+    "chiniforooshan": 41,
     "deepanjanroy": 38,
     "agrieve": 40,
     "bpastene": 43,
@@ -141,12 +141,12 @@
     "dj2": 439,
     "perezju": 392,
     "anniesullie": 400,
-    "eakuefner": 403,
+    "eakuefner": 404,
     "zeptonaut": 417,
-    "simonhatch": 447,
+    "simonhatch": 448,
     "dave-2": 483,
-    "benshayden": 798,
-    "nedn": 971,
+    "benshayden": 799,
+    "nedn": 972,
     "natduca": 1367,
     "csharrison": 4,
     "martinboehme": 4,
@@ -220,7 +220,8 @@
     "jdoerrie": 1,
     "j9brown": 1,
     "jensl": 1,
-    "scheibo": 1
+    "scheibo": 1,
+    "erikchen": 75
   },
   "pulls_authors": [
     "bagobor",
@@ -256,15 +257,15 @@
   ],
   "languages": {
     "HTML": {
-      "bytes": 12194250,
+      "bytes": 12196316,
       "color": "#e34c26"
     },
     "Python": {
-      "bytes": 6680462,
+      "bytes": 6686465,
       "color": "#3572A5"
     },
     "JavaScript": {
-      "bytes": 622100,
+      "bytes": 622671,
       "color": "#f1e05a"
     },
     "Go": {
@@ -292,5 +293,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-23T10:07:52.322Z"
+  "fetched_at": "2018-08-24T02:18:25.281Z"
 }

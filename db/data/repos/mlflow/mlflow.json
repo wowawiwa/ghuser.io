@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/mlflow/mlflow",
   "languages_url": "https://api.github.com/repos/mlflow/mlflow/languages",
   "created_at": "2018-06-05T16:05:58Z",
-  "updated_at": "2018-08-23T12:23:33Z",
-  "pushed_at": "2018-08-23T05:12:08Z",
+  "updated_at": "2018-08-24T00:15:27Z",
+  "pushed_at": "2018-08-24T00:41:24Z",
   "homepage": "https://mlflow.org",
-  "size": 3624,
-  "stargazers_count": 2020,
+  "size": 3641,
+  "stargazers_count": 2022,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -74,14 +74,14 @@
     "stbof": 14,
     "mateiz": 22,
     "smurching": 39,
-    "aarondav": 36,
-    "dbczumar": 6,
+    "aarondav": 41,
+    "dbczumar": 7,
     "bnekolny": 1,
     "ToonKBC": 8,
     "arinto": 2,
     "vfdev-5": 2,
     "javierluraschi": 1,
-    "adrian555": 3,
+    "adrian555": 4,
     "aadamson": 1,
     "rbang1": 1,
     "yassineAlouini": 1,
@@ -89,15 +89,15 @@
   },
   "languages": {
     "Python": {
-      "bytes": 499367,
+      "bytes": 500766,
       "color": "#3572A5"
     },
     "JavaScript": {
-      "bytes": 167056,
+      "bytes": 169160,
       "color": "#f1e05a"
     },
     "Java": {
-      "bytes": 22635,
+      "bytes": 43621,
       "color": "#b07219"
     },
     "Jupyter Notebook": {
@@ -121,7 +121,7 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-23T12:47:34.875Z",
+  "fetched_at": "2018-08-24T02:22:17.641Z",
   "pulls_url": "https://api.github.com/repos/mlflow/mlflow/pulls{/number}",
   "pulls_authors": [
     "dmatrix",

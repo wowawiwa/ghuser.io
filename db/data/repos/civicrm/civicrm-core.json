@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/civicrm/civicrm-core",
   "languages_url": "https://api.github.com/repos/civicrm/civicrm-core/languages",
   "created_at": "2013-03-01T06:11:56Z",
-  "updated_at": "2018-08-23T14:47:47Z",
-  "pushed_at": "2018-08-23T15:45:46Z",
+  "updated_at": "2018-08-23T18:03:06Z",
+  "pushed_at": "2018-08-23T23:07:33Z",
   "homepage": null,
-  "size": 165180,
+  "size": 165241,
   "stargazers_count": 293,
   "language": "PHP",
   "mirror_url": null,
@@ -137,10 +137,10 @@
     "seamuslee001": 693,
     "kurund": 2612,
     "jitendrapurohit": 793,
-    "monishdeb": 2040,
+    "monishdeb": 2041,
     "totten": 3214,
     "colemanw": 4806,
-    "eileenmcnaughton": 5276,
+    "eileenmcnaughton": 5277,
     "elinw": 8,
     "reneolivo": 8,
     "bsilvern": 7,
@@ -331,7 +331,7 @@
   },
   "languages": {
     "PHP": {
-      "bytes": 27043986,
+      "bytes": 27043935,
       "color": "#4F5D95"
     },
     "Smarty": {
@@ -367,7 +367,7 @@
       "color": "#0298c3"
     }
   },
-  "fetched_at": "2018-08-23T16:07:51.927Z",
+  "fetched_at": "2018-08-24T02:18:37.534Z",
   "pulls_url": "https://api.github.com/repos/civicrm/civicrm-core/pulls{/number}",
   "pulls_authors": [
     "mattwire",

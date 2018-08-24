@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/netlify/netlify-cms/languages",
   "pulls_url": "https://api.github.com/repos/netlify/netlify-cms/pulls{/number}",
   "created_at": "2015-01-20T05:47:47Z",
-  "updated_at": "2018-08-23T07:54:01Z",
-  "pushed_at": "2018-08-23T02:39:40Z",
+  "updated_at": "2018-08-23T23:50:33Z",
+  "pushed_at": "2018-08-23T22:37:22Z",
   "homepage": "https://www.netlifycms.org",
-  "size": 21030,
-  "stargazers_count": 6098,
+  "size": 21141,
+  "stargazers_count": 6103,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -100,7 +100,7 @@
     "rivertam": 1,
     "ArtemGovorov": 1,
     "jimmycleveland-clearlink": 2,
-    "robertkarlsson": 2,
+    "robertkarlsson": 3,
     "brianlmacdonald": 2,
     "DanielRuf": 2,
     "ekoeryanto": 2,
@@ -141,11 +141,11 @@
     "Dammmien": 15,
     "rafaelconde": 17,
     "ziburski": 21,
-    "verythorough": 41,
+    "verythorough": 42,
     "Benaiah": 48,
     "biilmann": 144,
     "okonet": 172,
-    "tech4him1": 184,
+    "tech4him1": 185,
     "cassiozen": 317,
     "erquhart": 565,
     "philhawksworth": 2,
@@ -171,13 +171,14 @@
     "severo": 1,
     "tedmiston": 1,
     "loremipson": 1,
-    "zebapy": 1,
+    "zebapy": 2,
     "chaseadamsio": 2,
     "kurtgcollins": 3,
     "cdschroeder": 2,
     "cory-wc": 1,
     "geekysrm": 1,
-    "MitchellCash": 1
+    "MitchellCash": 1,
+    "jake-101": 1
   },
   "pulls_authors": [
     "talves",
@@ -370,7 +371,7 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 658097,
+      "bytes": 659904,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -382,5 +383,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-08-23T10:10:11.171Z"
+  "fetched_at": "2018-08-24T02:20:28.483Z"
 }

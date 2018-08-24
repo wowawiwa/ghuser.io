@@ -6,11 +6,11 @@
       "name": "OdarBot",
       "stargazers_count": 3,
       "popularity": 1.3222565221025262,
-      "percentage": 98.85496183206106,
-      "maturity": 3.3482840969448833,
-      "total_commits_count": 262,
+      "percentage": 98.9051094890511,
+      "maturity": 3.371136992086918,
+      "total_commits_count": 274,
       "activity": 5,
-      "total_score": 32.655848103400416,
+      "total_score": 32.7101739423325,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -43,13 +43,13 @@
     "js-org/js.org": {
       "full_name": "js-org/js.org",
       "name": "js.org",
-      "stargazers_count": 1850,
-      "popularity": 4.266999485137136,
+      "stargazers_count": 1849,
+      "popularity": 4.266764553570217,
       "percentage": 0,
       "maturity": 4.467431333570724,
       "total_commits_count": 2962,
       "activity": 5,
-      "total_score": 26.735861122552855,
+      "total_score": 26.7351563278521,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

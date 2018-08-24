@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/graphql/graphiql",
   "languages_url": "https://api.github.com/repos/graphql/graphiql/languages",
   "created_at": "2015-08-11T02:56:22Z",
-  "updated_at": "2018-08-23T08:39:05Z",
-  "pushed_at": "2018-08-23T02:20:44Z",
+  "updated_at": "2018-08-24T01:19:35Z",
+  "pushed_at": "2018-08-23T19:09:57Z",
   "homepage": null,
-  "size": 1873,
-  "stargazers_count": 6442,
+  "size": 1874,
+  "stargazers_count": 6449,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -110,7 +110,8 @@
     "greenkeeper[bot]": 165,
     "leebyron": 195,
     "BowlingX": 1,
-    "albertlockett2": 1
+    "albertlockett2": 1,
+    "rodrigues": 1
   },
   "languages": {
     "JavaScript": {
@@ -130,7 +131,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-23T10:13:17.543Z",
+  "fetched_at": "2018-08-24T02:23:21.495Z",
   "pulls_url": "https://api.github.com/repos/graphql/graphiql/pulls{/number}",
   "pulls_authors": [
     "SimonCropp",

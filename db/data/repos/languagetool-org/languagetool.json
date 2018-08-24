@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/languagetool-org/languagetool/languages",
   "pulls_url": "https://api.github.com/repos/languagetool-org/languagetool/pulls{/number}",
   "created_at": "2013-08-08T16:37:22Z",
-  "updated_at": "2018-08-23T10:03:38Z",
-  "pushed_at": "2018-08-23T10:03:35Z",
+  "updated_at": "2018-08-23T19:42:32Z",
+  "pushed_at": "2018-08-23T19:42:28Z",
   "homepage": "https://languagetool.org",
-  "size": 534141,
-  "stargazers_count": 2206,
+  "size": 535096,
+  "stargazers_count": 2205,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -116,13 +116,13 @@
     "tamiliam": 50,
     "jmartorell": 53,
     "kostyfisik": 62,
-    "Discostu36": 72,
+    "Discostu36": 73,
     "pminos": 130,
     "FredKruse": 199,
     "gulp21": 200,
-    "MikeUnwalla": 286,
-    "arysin": 398,
-    "baarsrj": 461,
+    "MikeUnwalla": 287,
+    "arysin": 399,
+    "baarsrj": 466,
     "janschreiber": 952,
     "yakovru": 973,
     "f-knorr": 1690,
@@ -130,7 +130,7 @@
     "dpelle": 2498,
     "milekpl": 3319,
     "jaumeortola": 3663,
-    "danielnaber": 8446
+    "danielnaber": 8447
   },
   "pulls_authors": [
     "NikaBan",
@@ -290,5 +290,5 @@
       "color": "#f0a9f0"
     }
   },
-  "fetched_at": "2018-08-23T10:10:59.782Z"
+  "fetched_at": "2018-08-24T02:21:15.519Z"
 }
