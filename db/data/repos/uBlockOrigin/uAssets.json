@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/uBlockOrigin/uAssets/languages",
   "pulls_url": "https://api.github.com/repos/uBlockOrigin/uAssets/pulls{/number}",
   "created_at": "2016-04-01T11:41:37Z",
-  "updated_at": "2018-08-24T11:12:36Z",
-  "pushed_at": "2018-08-24T11:12:33Z",
+  "updated_at": "2018-08-24T22:03:24Z",
+  "pushed_at": "2018-08-24T22:03:14Z",
   "homepage": null,
-  "size": 21512,
+  "size": 21806,
   "stargazers_count": 816,
   "language": "Shell",
   "mirror_url": null,
@@ -86,10 +86,10 @@
     "ArchangeGabriel": 6,
     "anewuser": 24,
     "smed79": 98,
-    "ZaphodBeebblebrox": 221,
+    "ZaphodBeebblebrox": 222,
     "gorhill": 1875,
-    "mapx-": 2047,
-    "okiehsch": 2426
+    "mapx-": 2050,
+    "okiehsch": 2427
   },
   "pulls_authors": [
     "smed79",
@@ -163,5 +163,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-24T12:42:10.278Z"
+  "fetched_at": "2018-08-24T22:59:16.079Z"
 }

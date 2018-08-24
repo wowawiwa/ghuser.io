@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/DefinitelyTyped/DefinitelyTyped/languages",
   "pulls_url": "https://api.github.com/repos/DefinitelyTyped/DefinitelyTyped/pulls{/number}",
   "created_at": "2012-10-05T16:39:45Z",
-  "updated_at": "2018-08-24T12:06:45Z",
-  "pushed_at": "2018-08-24T12:30:19Z",
+  "updated_at": "2018-08-24T22:37:24Z",
+  "pushed_at": "2018-08-24T22:36:20Z",
   "homepage": "http://definitelytyped.org/",
-  "size": 349786,
-  "stargazers_count": 17070,
+  "size": 350581,
+  "stargazers_count": 17072,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -103,7 +103,7 @@
     "plantain-00": 58,
     "NoHomey": 58,
     "JoshuaKGoldberg": 60,
-    "Flarna": 71,
+    "Flarna": 74,
     "DomiR": 54,
     "pelotom": 60,
     "miniak": 60,
@@ -143,7 +143,7 @@
     "BendingBender": 202,
     "Igorbek": 310,
     "leonard-thieu": 246,
-    "DanielRosenwasser": 1114,
+    "DanielRosenwasser": 1149,
     "borisyankov": 717,
     "chrootsu": 407,
     "vvakame": 4297,
@@ -171,7 +171,7 @@
     "dex4er": 36,
     "bgrieder": 36,
     "frogcjn": 35,
-    "resir014": 34,
+    "resir014": 35,
     "TeamworkGuy2": 34,
     "totpero": 34,
     "adidahiya": 34,
@@ -263,7 +263,7 @@
     "dennispg": 21,
     "s0m3on3": 21,
     "jseanxu": 21,
-    "WhiteAbeLincoln": 21,
+    "WhiteAbeLincoln": 22,
     "shiftkey": 20,
     "unindented": 20,
     "LogvinovLeon": 20,
@@ -436,7 +436,7 @@
     "apexskier": 12,
     "baronfel": 12,
     "cgwrench": 12,
-    "dbrgn": 12,
+    "dbrgn": 13,
     "dwickern": 12,
     "lediur": 12,
     "Slessi": 12,
@@ -8878,11 +8878,15 @@
     "pferdone",
     "euikook",
     "aroslov",
-    "isubasti"
+    "isubasti",
+    "gitteri",
+    "ficristo",
+    "Totemika",
+    "mschilde"
   ],
   "languages": {
     "TypeScript": {
-      "bytes": 24864742,
+      "bytes": 24887338,
       "color": "#2b7489"
     },
     "JavaScript": {
@@ -8894,5 +8898,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-24T12:39:56.826Z"
+  "fetched_at": "2018-08-24T22:57:12.147Z"
 }

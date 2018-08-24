@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/netlify/netlify-cms/languages",
   "pulls_url": "https://api.github.com/repos/netlify/netlify-cms/pulls{/number}",
   "created_at": "2015-01-20T05:47:47Z",
-  "updated_at": "2018-08-24T11:18:08Z",
-  "pushed_at": "2018-08-23T22:37:22Z",
+  "updated_at": "2018-08-24T22:52:58Z",
+  "pushed_at": "2018-08-24T22:52:54Z",
   "homepage": "https://www.netlifycms.org",
   "size": 21141,
-  "stargazers_count": 6105,
+  "stargazers_count": 6108,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -101,7 +101,7 @@
     "ArtemGovorov": 1,
     "jimmycleveland-clearlink": 2,
     "robertkarlsson": 3,
-    "brianlmacdonald": 2,
+    "brianlmacdonald": 3,
     "DanielRuf": 2,
     "ekoeryanto": 2,
     "Strangehill": 2,
@@ -178,7 +178,8 @@
     "cory-wc": 1,
     "geekysrm": 1,
     "MitchellCash": 1,
-    "jake-101": 1
+    "jake-101": 1,
+    "newsomderek": 1
   },
   "pulls_authors": [
     "talves",
@@ -367,11 +368,12 @@
     "kurtgcollins",
     "cory-wc",
     "eduplessis",
-    "MitchellCash"
+    "MitchellCash",
+    "runandrew"
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 659904,
+      "bytes": 661102,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -383,5 +385,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-08-24T12:41:29.999Z"
+  "fetched_at": "2018-08-24T22:58:37.135Z"
 }

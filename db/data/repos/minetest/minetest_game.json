@@ -100,7 +100,7 @@
     "PilzAdam": 66,
     "celeron55": 73,
     "sofar": 123,
-    "paramat": 344,
+    "paramat": 345,
     "kilbith": 39,
     "ahkok": 1,
     "DTA7": 1,
@@ -123,11 +123,11 @@
   "url": "https://api.github.com/repos/minetest/minetest_game",
   "languages_url": "https://api.github.com/repos/minetest/minetest_game/languages",
   "created_at": "2012-03-26T16:03:29Z",
-  "updated_at": "2018-08-24T12:25:32Z",
-  "pushed_at": "2018-08-24T01:23:17Z",
+  "updated_at": "2018-08-24T18:17:52Z",
+  "pushed_at": "2018-08-24T18:08:07Z",
   "homepage": "http://minetest.net/",
   "size": 7186,
-  "stargazers_count": 648,
+  "stargazers_count": 649,
   "language": "Lua",
   "mirror_url": null,
   "archived": false,
@@ -161,11 +161,11 @@
   },
   "languages": {
     "Lua": {
-      "bytes": 463782,
+      "bytes": 463789,
       "color": "#000080"
     }
   },
-  "fetched_at": "2018-08-24T12:40:29.250Z",
+  "fetched_at": "2018-08-24T22:57:42.387Z",
   "pulls_url": "https://api.github.com/repos/minetest/minetest_game/pulls{/number}",
   "pulls_authors": [
     "paramat",

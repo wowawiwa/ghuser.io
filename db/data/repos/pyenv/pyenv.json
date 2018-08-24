@@ -210,11 +210,11 @@
   "url": "https://api.github.com/repos/pyenv/pyenv",
   "languages_url": "https://api.github.com/repos/pyenv/pyenv/languages",
   "created_at": "2012-08-31T06:57:52Z",
-  "updated_at": "2018-08-24T10:18:52Z",
+  "updated_at": "2018-08-24T22:41:26Z",
   "pushed_at": "2018-08-23T19:23:00Z",
   "homepage": null,
   "size": 3258,
-  "stargazers_count": 12250,
+  "stargazers_count": 12258,
   "language": "Shell",
   "mirror_url": null,
   "archived": false,
@@ -268,7 +268,7 @@
       "color": "#199f4b"
     }
   },
-  "fetched_at": "2018-08-24T12:40:20.056Z",
+  "fetched_at": "2018-08-24T22:57:34.549Z",
   "pulls_url": "https://api.github.com/repos/pyenv/pyenv/pulls{/number}",
   "pulls_authors": [
     "bdowling",

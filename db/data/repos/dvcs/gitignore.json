@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/dvcs/gitignore/languages",
   "pulls_url": "https://api.github.com/repos/dvcs/gitignore/pulls{/number}",
   "created_at": "2017-02-23T01:10:22Z",
-  "updated_at": "2018-08-21T09:21:56Z",
-  "pushed_at": "2018-08-17T19:04:19Z",
+  "updated_at": "2018-08-24T17:26:51Z",
+  "pushed_at": "2018-08-22T14:08:19Z",
   "homepage": "https://www.gitignore.io",
   "size": 369,
-  "stargazers_count": 127,
+  "stargazers_count": 128,
   "language": "Shell",
   "mirror_url": null,
   "archived": false,
@@ -221,7 +221,9 @@
     "osrecio",
     "lpalgarvio",
     "BlackbitNeueMedien",
-    "Peetz0r"
+    "Peetz0r",
+    "Wouter0100",
+    "ihrigb"
   ],
   "languages": {
     "Shell": {
@@ -229,5 +231,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-21T11:31:22.457Z"
+  "fetched_at": "2018-08-24T22:59:12.677Z"
 }

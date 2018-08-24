@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/p-society/Online_Rosie_FrontEnd/languages",
   "pulls_url": "https://api.github.com/repos/p-society/Online_Rosie_FrontEnd/pulls{/number}",
   "created_at": "2018-08-17T01:10:06Z",
-  "updated_at": "2018-08-24T08:18:25Z",
-  "pushed_at": "2018-08-24T08:18:23Z",
+  "updated_at": "2018-08-24T16:03:56Z",
+  "pushed_at": "2018-08-24T16:03:55Z",
   "homepage": "",
-  "size": 327,
+  "size": 331,
   "stargazers_count": 4,
   "language": "TypeScript",
   "mirror_url": null,
@@ -42,20 +42,20 @@
     "site_admin": false
   },
   "contributors": {
-    "knrt10": 21
+    "knrt10": 22
   },
   "pulls_authors": [],
   "languages": {
     "TypeScript": {
-      "bytes": 108809,
+      "bytes": 110423,
       "color": "#2b7489"
     },
     "HTML": {
-      "bytes": 57003,
+      "bytes": 58067,
       "color": "#e34c26"
     },
     "CSS": {
-      "bytes": 4320,
+      "bytes": 4481,
       "color": "#563d7c"
     },
     "JavaScript": {
@@ -63,5 +63,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-24T12:43:15.224Z"
+  "fetched_at": "2018-08-24T23:00:17.315Z"
 }

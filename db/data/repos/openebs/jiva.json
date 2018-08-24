@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/openebs/jiva",
   "languages_url": "https://api.github.com/repos/openebs/jiva/languages",
   "created_at": "2016-11-11T10:26:12Z",
-  "updated_at": "2018-08-22T05:01:49Z",
-  "pushed_at": "2018-08-21T12:28:26Z",
+  "updated_at": "2018-08-24T12:47:29Z",
+  "pushed_at": "2018-08-24T13:53:03Z",
   "homepage": "https://hub.docker.com/r/openebs/jiva/",
-  "size": 2192,
+  "size": 2198,
   "stargazers_count": 64,
   "language": "Go",
   "mirror_url": null,
@@ -56,7 +56,7 @@
     "AmitKumarDas": 1,
     "pawanpraka1": 2,
     "dargasudarshan": 2,
-    "utkarshmani1997": 9,
+    "utkarshmani1997": 10,
     "vishnuitta": 9,
     "ksatchit": 5,
     "imikushin": 7,
@@ -71,7 +71,7 @@
   },
   "languages": {
     "Go": {
-      "bytes": 329793,
+      "bytes": 336296,
       "color": "#375eab"
     },
     "Python": {
@@ -79,7 +79,7 @@
       "color": "#3572A5"
     },
     "Shell": {
-      "bytes": 39587,
+      "bytes": 41664,
       "color": "#89e051"
     },
     "Makefile": {
@@ -91,7 +91,7 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-22T06:56:31.187Z",
+  "fetched_at": "2018-08-24T23:00:37.367Z",
   "pulls_url": "https://api.github.com/repos/openebs/jiva/pulls{/number}",
   "pulls_authors": [
     "utkarshmani1997",

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/mpdf/mpdf/languages",
   "pulls_url": "https://api.github.com/repos/mpdf/mpdf/pulls{/number}",
   "created_at": "2015-03-03T11:44:47Z",
-  "updated_at": "2018-08-23T01:14:41Z",
-  "pushed_at": "2018-08-22T19:56:17Z",
+  "updated_at": "2018-08-24T18:58:37Z",
+  "pushed_at": "2018-08-23T21:41:40Z",
   "homepage": "https://mpdf.github.io",
   "size": 86566,
-  "stargazers_count": 1447,
+  "stargazers_count": 1448,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -184,7 +184,8 @@
     "Verron",
     "ram4nd",
     "Gudabu",
-    "SilverFire"
+    "SilverFire",
+    "josephzidell"
   ],
   "languages": {
     "PHP": {
@@ -196,5 +197,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-08-23T03:31:56.993Z"
+  "fetched_at": "2018-08-24T22:59:25.466Z"
 }

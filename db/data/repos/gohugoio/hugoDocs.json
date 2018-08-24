@@ -74,7 +74,7 @@
     "dunn": 10,
     "abh": 10,
     "felicianotech": 11,
-    "regisphilibert": 15,
+    "regisphilibert": 16,
     "scottcwilson": 11,
     "owenwaller": 12,
     "vbatoufflet": 14,
@@ -92,7 +92,7 @@
     "mohae": 28,
     "budparr": 29,
     "tatsushid": 40,
-    "kaushalmodi": 78,
+    "kaushalmodi": 80,
     "bogem": 71,
     "noahcampbell": 115,
     "moorereason": 158,
@@ -100,7 +100,7 @@
     "anthonyfok": 429,
     "spf13": 625,
     "rdwatters": 686,
-    "bep": 2476,
+    "bep": 2477,
     "asifm": 4,
     "bmon": 4,
     "betaveros": 4,
@@ -452,7 +452,8 @@
     "marcanuy": 2,
     "aapeliv": 2,
     "divinerites": 2,
-    "coliff": 2
+    "coliff": 2,
+    "peterkappus": 2
   },
   "name": "hugoDocs",
   "full_name": "gohugoio/hugoDocs",
@@ -464,11 +465,11 @@
   "url": "https://api.github.com/repos/gohugoio/hugoDocs",
   "languages_url": "https://api.github.com/repos/gohugoio/hugoDocs/languages",
   "created_at": "2017-06-14T07:52:37Z",
-  "updated_at": "2018-08-24T10:50:23Z",
-  "pushed_at": "2018-08-24T10:50:17Z",
+  "updated_at": "2018-08-24T20:55:01Z",
+  "pushed_at": "2018-08-24T20:54:57Z",
   "homepage": "",
-  "size": 119299,
-  "stargazers_count": 188,
+  "size": 119311,
+  "stargazers_count": 189,
   "language": "HTML",
   "mirror_url": null,
   "archived": false,
@@ -502,7 +503,7 @@
   },
   "languages": {
     "HTML": {
-      "bytes": 74991,
+      "bytes": 75073,
       "color": "#e34c26"
     },
     "CSS": {
@@ -518,7 +519,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-24T12:40:20.299Z",
+  "fetched_at": "2018-08-24T22:57:34.805Z",
   "pulls_url": "https://api.github.com/repos/gohugoio/hugoDocs/pulls{/number}",
   "pulls_authors": [
     "brentybh",

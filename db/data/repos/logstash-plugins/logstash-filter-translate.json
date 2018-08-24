@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/logstash-plugins/logstash-filter-translate",
   "languages_url": "https://api.github.com/repos/logstash-plugins/logstash-filter-translate/languages",
   "created_at": "2014-08-29T13:52:10Z",
-  "updated_at": "2018-08-14T07:10:41Z",
-  "pushed_at": "2018-08-14T08:55:35Z",
+  "updated_at": "2018-08-24T17:28:07Z",
+  "pushed_at": "2018-08-24T17:42:25Z",
   "homepage": null,
-  "size": 88,
+  "size": 97,
   "stargazers_count": 15,
   "language": "Ruby",
   "mirror_url": null,
@@ -75,9 +75,10 @@
     "electrical": 6,
     "ph": 36,
     "alcanzar": 1,
-    "guyboertje": 1
+    "guyboertje": 1,
+    "karenzone": 1
   },
-  "fetched_at": "2018-08-14T18:02:09.781Z",
+  "fetched_at": "2018-08-24T22:59:44.046Z",
   "pulls_url": "https://api.github.com/repos/logstash-plugins/logstash-filter-translate/pulls{/number}",
   "pulls_authors": [
     "guyboertje",
@@ -100,6 +101,7 @@
     "jjfalling",
     "purbon",
     "wiibaa",
-    "angel9484"
+    "angel9484",
+    "karenzone"
   ]
 }

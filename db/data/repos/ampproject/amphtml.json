@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/ampproject/amphtml",
   "languages_url": "https://api.github.com/repos/ampproject/amphtml/languages",
   "created_at": "2015-09-01T22:10:53Z",
-  "updated_at": "2018-08-24T10:27:25Z",
-  "pushed_at": "2018-08-24T10:33:04Z",
+  "updated_at": "2018-08-24T22:45:29Z",
+  "pushed_at": "2018-08-24T22:45:13Z",
   "homepage": "https://www.ampproject.org",
-  "size": 495535,
-  "stargazers_count": 11884,
+  "size": 495608,
+  "stargazers_count": 11889,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -47,7 +47,7 @@
     "site_admin": false
   },
   "contributors": {
-    "noranazmy": 8,
+    "noranazmy": 9,
     "elljoh": 5,
     "StephanGuenther": 5,
     "jasonpang": 5,
@@ -76,7 +76,7 @@
     "kushal": 8,
     "adelinamart": 8,
     "AaronCritchley": 9,
-    "kevinkassimo": 25,
+    "kevinkassimo": 27,
     "twifkak": 12,
     "pbakaus": 10,
     "mkendall07": 9,
@@ -95,7 +95,7 @@
     "shawnbuso": 14,
     "tiendt": 15,
     "ericlindley-g": 18,
-    "torch2424": 19,
+    "torch2424": 20,
     "jaboc83": 18,
     "zhangsu": 20,
     "rudygalfi": 39,
@@ -104,7 +104,7 @@
     "dandv": 34,
     "jasti": 31,
     "taymonbeal": 31,
-    "alabiaga": 40,
+    "alabiaga": 42,
     "jpettitt": 41,
     "peterjosling": 40,
     "tdrl": 39,
@@ -116,7 +116,7 @@
     "jonkeller": 61,
     "mrjoro": 67,
     "danielrozenberg": 68,
-    "calebcordry": 77,
+    "calebcordry": 78,
     "nainar": 86,
     "avimehta": 86,
     "prateekbh": 91,
@@ -134,13 +134,13 @@
     "mkhatib": 188,
     "Meggin": 166,
     "bpaduch": 185,
-    "honeybadgerdontcare": 186,
+    "honeybadgerdontcare": 187,
     "alanorozco": 186,
     "Gregable": 218,
     "powdercloud": 261,
     "aghassemi": 286,
     "choumx": 334,
-    "lannka": 335,
+    "lannka": 338,
     "zhouyx": 333,
     "jridgewell": 427,
     "rsimha": 412,
@@ -493,11 +493,11 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 12216107,
+      "bytes": 12222499,
       "color": "#f1e05a"
     },
     "HTML": {
-      "bytes": 1366674,
+      "bytes": 1369244,
       "color": "#e34c26"
     },
     "CSS": {
@@ -525,7 +525,7 @@
       "color": "#375eab"
     }
   },
-  "fetched_at": "2018-08-24T12:42:36.471Z",
+  "fetched_at": "2018-08-24T22:59:39.439Z",
   "pulls_url": "https://api.github.com/repos/ampproject/amphtml/pulls{/number}",
   "pulls_authors": [
     "keithwrightbos",

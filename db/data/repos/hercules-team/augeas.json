@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/hercules-team/augeas/languages",
   "pulls_url": "https://api.github.com/repos/hercules-team/augeas/pulls{/number}",
   "created_at": "2008-10-03T01:27:06Z",
-  "updated_at": "2018-08-22T23:29:00Z",
-  "pushed_at": "2018-08-22T23:28:56Z",
+  "updated_at": "2018-08-24T20:06:05Z",
+  "pushed_at": "2018-08-24T20:06:01Z",
   "homepage": "http://augeas.net/",
-  "size": 6842,
+  "size": 6843,
   "stargazers_count": 310,
   "language": "Augeas",
   "mirror_url": null,
@@ -147,7 +147,7 @@
     "jasperla": 27,
     "giraldeau": 40,
     "raphink": 654,
-    "lutter": 1566,
+    "lutter": 1567,
     "hillu": 2,
     "prophile": 1,
     "spacedog": 1,
@@ -363,5 +363,5 @@
       "color": "#f34b7d"
     }
   },
-  "fetched_at": "2018-08-23T03:31:50.970Z"
+  "fetched_at": "2018-08-24T22:59:18.604Z"
 }

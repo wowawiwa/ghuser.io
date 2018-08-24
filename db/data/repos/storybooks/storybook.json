@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/storybooks/storybook",
   "languages_url": "https://api.github.com/repos/storybooks/storybook/languages",
   "created_at": "2016-03-18T04:23:44Z",
-  "updated_at": "2018-08-24T12:42:59Z",
-  "pushed_at": "2018-08-23T23:35:59Z",
+  "updated_at": "2018-08-24T22:18:28Z",
+  "pushed_at": "2018-08-24T22:18:23Z",
   "homepage": "https://storybook.js.org",
-  "size": 113728,
-  "stargazers_count": 27537,
+  "size": 113746,
+  "stargazers_count": 27550,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -140,10 +140,10 @@
     "danielduan": 310,
     "tmeasday": 199,
     "roonyh": 219,
-    "igor-dv": 683,
-    "shilman": 812,
+    "igor-dv": 684,
+    "shilman": 816,
     "mnmtanish": 808,
-    "ndelangen": 1657,
+    "ndelangen": 1662,
     "Hypnosphi": 2242,
     "arunoda": 1111,
     "dependencies-bot": 2209,
@@ -463,7 +463,7 @@
     "adekbadek": 1,
     "jmiazga": 5,
     "JalilArfaoui": 1,
-    "pksunkara": 16,
+    "pksunkara": 19,
     "brycemhammond": 1,
     "camel-floss": 4,
     "libetl": 3,
@@ -474,11 +474,13 @@
     "dioxmio": 2,
     "langri-sha": 1,
     "plumpNation": 76,
-    "ekhaled": 3
+    "ekhaled": 3,
+    "BR0kEN-": 2,
+    "martinmacko47": 1
   },
   "languages": {
     "JavaScript": {
-      "bytes": 826319,
+      "bytes": 826342,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -486,7 +488,7 @@
       "color": "#e34c26"
     },
     "Kotlin": {
-      "bytes": 44962,
+      "bytes": 44970,
       "color": "#F18E33"
     },
     "TypeScript": {
@@ -522,7 +524,7 @@
       "color": "#d4bec1"
     }
   },
-  "fetched_at": "2018-08-24T12:44:25.420Z",
+  "fetched_at": "2018-08-24T23:01:28.328Z",
   "pulls_url": "https://api.github.com/repos/storybooks/storybook/pulls{/number}",
   "pulls_authors": [
     "jcgertig",
@@ -1025,6 +1027,7 @@
     "FreddyFY",
     "marshallmick007",
     "michaelduminy",
-    "BR0kEN-"
+    "BR0kEN-",
+    "gabrielbs"
   ]
 }

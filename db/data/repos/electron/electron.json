@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/electron/electron/languages",
   "pulls_url": "https://api.github.com/repos/electron/electron/pulls{/number}",
   "created_at": "2013-04-12T01:47:36Z",
-  "updated_at": "2018-08-24T12:38:32Z",
-  "pushed_at": "2018-08-24T12:03:31Z",
+  "updated_at": "2018-08-24T22:30:24Z",
+  "pushed_at": "2018-08-24T22:33:49Z",
   "homepage": "https://electronjs.org",
-  "size": 41690,
-  "stargazers_count": 63708,
+  "size": 41737,
+  "stargazers_count": 63724,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -127,18 +127,18 @@
     "juturu": 56,
     "poiru": 77,
     "seanchas116": 72,
-    "miniak": 75,
+    "miniak": 78,
     "alespergl": 73,
     "CharlieHess": 81,
     "tarruda": 74,
     "tinydew4": 92,
     "gerhardberger": 95,
-    "jkleinsc": 246,
-    "nornagon": 147,
+    "jkleinsc": 247,
+    "nornagon": 148,
     "ckerr": 218,
     "brenca": 185,
     "paulcbetts": 245,
-    "felixrieseberg": 252,
+    "felixrieseberg": 253,
     "aroben": 280,
     "hokein": 267,
     "preco21": 347,
@@ -308,7 +308,7 @@
     "dougnukem": 2,
     "cjld": 2,
     "Sarruby": 2,
-    "emmkimme": 2,
+    "emmkimme": 3,
     "MrSurly": 2,
     "everblut": 2,
     "feross": 2,
@@ -343,7 +343,7 @@
     "pra85": 2,
     "rafaelstz": 2,
     "rahatarmanahmed": 2,
-    "robinwassen": 4,
+    "robinwassen": 5,
     "roramirez": 2,
     "saghul": 2,
     "sitdh": 2,
@@ -445,7 +445,8 @@
     "andersk": 1,
     "keerthi16": 2,
     "BeniCheni": 1,
-    "roller-bot": 3
+    "roller-bot": 3,
+    "theLMGN": 2
   },
   "pulls_authors": [
     "codebytere",
@@ -1438,23 +1439,23 @@
   ],
   "languages": {
     "C++": {
-      "bytes": 2872966,
+      "bytes": 2878052,
       "color": "#f34b7d"
     },
     "JavaScript": {
-      "bytes": 979725,
+      "bytes": 982433,
       "color": "#f1e05a"
     },
     "Objective-C++": {
-      "bytes": 354967,
+      "bytes": 355858,
       "color": "#6866fb"
     },
     "Python": {
-      "bytes": 310967,
+      "bytes": 311063,
       "color": "#3572A5"
     },
     "Objective-C": {
-      "bytes": 60282,
+      "bytes": 60350,
       "color": "#438eff"
     },
     "HTML": {
@@ -1482,5 +1483,5 @@
       "color": "#012456"
     }
   },
-  "fetched_at": "2018-08-24T12:44:43.525Z"
+  "fetched_at": "2018-08-24T23:01:44.132Z"
 }

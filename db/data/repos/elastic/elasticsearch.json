@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/elastic/elasticsearch",
   "languages_url": "https://api.github.com/repos/elastic/elasticsearch/languages",
   "created_at": "2010-02-08T13:20:56Z",
-  "updated_at": "2018-08-24T12:07:54Z",
-  "pushed_at": "2018-08-24T11:48:03Z",
+  "updated_at": "2018-08-24T21:20:21Z",
+  "pushed_at": "2018-08-24T22:00:50Z",
   "homepage": "https://www.elastic.co/products/elasticsearch",
-  "size": 505634,
-  "stargazers_count": 33728,
+  "size": 505745,
+  "stargazers_count": 33743,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "Java": {
-      "bytes": 69185086,
+      "bytes": 69183562,
       "color": "#b07219"
     },
     "Groovy": {
@@ -121,7 +121,7 @@
     "romseygeek": 21,
     "atorok": 44,
     "nlalevee": 18,
-    "mayya-sharipova": 25,
+    "mayya-sharipova": 26,
     "spalger": 26,
     "chilling": 22,
     "mattweber": 22,
@@ -169,7 +169,7 @@
     "mikemccand": 344,
     "dimitris-athanasiou": 354,
     "brwe": 414,
-    "jimczi": 458,
+    "jimczi": 459,
     "areek": 457,
     "ywelsch": 498,
     "lcawl": 466,
@@ -177,9 +177,9 @@
     "colings86": 678,
     "dakrone": 720,
     "imotov": 661,
-    "tlrx": 692,
+    "tlrx": 693,
     "cbuescher": 990,
-    "jaymode": 813,
+    "jaymode": 814,
     "spinscale": 874,
     "rmuir": 1256,
     "clintongormley": 1088,
@@ -187,7 +187,7 @@
     "jpountz": 1257,
     "dadoonet": 1430,
     "rjernst": 1804,
-    "nik9000": 1645,
+    "nik9000": 1650,
     "javanna": 1877,
     "jasontedor": 2153,
     "martijnvg": 2123,
@@ -466,12 +466,12 @@
     "sabi0": 2,
     "jakelandis": 4,
     "aferreira": 9,
-    "benwtrent": 14,
+    "benwtrent": 15,
     "andrershov": 4,
     "edsavage": 5,
     "lipsill": 3
   },
-  "fetched_at": "2018-08-24T12:42:41.163Z",
+  "fetched_at": "2018-08-24T22:59:43.858Z",
   "pulls_url": "https://api.github.com/repos/elastic/elasticsearch/pulls{/number}",
   "pulls_authors": [
     "benwtrent",
@@ -2300,6 +2300,7 @@
     "iverase",
     "joshfullmer",
     "mirkojotic",
-    "tahaderouiche"
+    "tahaderouiche",
+    "derickson"
   ]
 }

@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/parcel-bundler/website",
   "languages_url": "https://api.github.com/repos/parcel-bundler/website/languages",
   "created_at": "2017-10-23T01:24:40Z",
-  "updated_at": "2018-08-22T16:27:57Z",
-  "pushed_at": "2018-08-22T16:27:55Z",
+  "updated_at": "2018-08-24T22:52:47Z",
+  "pushed_at": "2018-08-24T22:52:45Z",
   "homepage": "https://parceljs.org",
-  "size": 4985,
+  "size": 4990,
   "stargazers_count": 94,
   "language": "HTML",
   "mirror_url": null,
@@ -131,11 +131,12 @@
     "jepser": 1,
     "hirasso": 2,
     "starkwang": 1,
-    "jthegedus": 1
+    "jthegedus": 4,
+    "EricTurf": 1
   },
   "languages": {
     "HTML": {
-      "bytes": 112058,
+      "bytes": 112125,
       "color": "#e34c26"
     },
     "CSS": {
@@ -147,11 +148,11 @@
       "color": "#f1e05a"
     },
     "Shell": {
-      "bytes": 317,
+      "bytes": 325,
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-22T17:14:16.350Z",
+  "fetched_at": "2018-08-24T23:01:25.673Z",
   "pulls_url": "https://api.github.com/repos/parcel-bundler/website/pulls{/number}",
   "pulls_authors": [
     "DanielRuf",
@@ -253,6 +254,7 @@
     "hirasso",
     "jepser",
     "jthegedus",
-    "MatejMazur"
+    "MatejMazur",
+    "EricTurf"
   ]
 }
