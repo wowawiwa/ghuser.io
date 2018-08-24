@@ -10,8 +10,8 @@
   "url": "https://api.github.com/repos/coala/projects",
   "languages_url": "https://api.github.com/repos/coala/projects/languages",
   "created_at": "2017-01-17T09:35:47Z",
-  "updated_at": "2018-08-22T17:18:30Z",
-  "pushed_at": "2018-08-22T06:55:20Z",
+  "updated_at": "2018-08-24T04:29:37Z",
+  "pushed_at": "2018-08-24T08:30:30Z",
   "homepage": "https://projects.coala.io/",
   "size": 773,
   "stargazers_count": 63,
@@ -137,7 +137,7 @@
     "Nosferatul": 8,
     "adtac": 8,
     "damngamerz": 12,
-    "jayvdb": 25,
+    "jayvdb": 26,
     "sims1253": 23,
     "sils": 53,
     "hemangsk": 81,
@@ -152,7 +152,7 @@
   },
   "languages": {
     "HTML": {
-      "bytes": 16961,
+      "bytes": 17544,
       "color": "#e34c26"
     },
     "JavaScript": {
@@ -176,7 +176,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-23T03:31:11.239Z",
+  "fetched_at": "2018-08-24T12:41:33.665Z",
   "pulls_url": "https://api.github.com/repos/coala/projects/pulls{/number}",
   "pulls_authors": [
     "virresh",
@@ -310,6 +310,8 @@
     "anctartica",
     "srivama",
     "nvzard",
-    "nik1082"
+    "nik1082",
+    "kaushl1998",
+    "123vivekr"
   ]
 }

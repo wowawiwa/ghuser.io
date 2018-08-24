@@ -69,8 +69,8 @@
     "rokups": 25,
     "oprypin": 26,
     "ReneSac": 27,
-    "LemonBoy": 53,
-    "cooldome": 36,
+    "LemonBoy": 54,
+    "cooldome": 37,
     "avsej": 30,
     "Parashurama": 31,
     "nigredo-tori": 31,
@@ -101,7 +101,7 @@
     "def-": 334,
     "zah": 533,
     "dom96": 1328,
-    "Araq": 6569,
+    "Araq": 6572,
     "Jeff-Ciesielski": 7,
     "petermora": 6,
     "Veladus": 6,
@@ -364,10 +364,10 @@
   "url": "https://api.github.com/repos/nim-lang/Nim",
   "languages_url": "https://api.github.com/repos/nim-lang/Nim/languages",
   "created_at": "2010-08-16T20:38:58Z",
-  "updated_at": "2018-08-24T00:18:08Z",
-  "pushed_at": "2018-08-24T00:38:11Z",
+  "updated_at": "2018-08-24T07:57:52Z",
+  "pushed_at": "2018-08-24T09:45:33Z",
   "homepage": "https://nim-lang.org/",
-  "size": 70538,
+  "size": 70547,
   "stargazers_count": 5363,
   "language": "Nim",
   "mirror_url": null,
@@ -402,7 +402,7 @@
   },
   "languages": {
     "Nim": {
-      "bytes": 8322572,
+      "bytes": 8324204,
       "color": "#37775b"
     },
     "C": {
@@ -450,7 +450,7 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-24T02:19:27.853Z",
+  "fetched_at": "2018-08-24T12:40:23.876Z",
   "pulls_url": "https://api.github.com/repos/nim-lang/Nim/pulls{/number}",
   "pulls_authors": [
     "michael72",

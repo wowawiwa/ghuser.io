@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/vuejs/vuefire/languages",
   "pulls_url": "https://api.github.com/repos/vuejs/vuefire/pulls{/number}",
   "created_at": "2016-01-07T22:57:53Z",
-  "updated_at": "2018-08-21T02:35:16Z",
-  "pushed_at": "2018-08-17T18:29:09Z",
+  "updated_at": "2018-08-24T03:22:04Z",
+  "pushed_at": "2018-08-21T18:01:48Z",
   "homepage": "",
-  "size": 1434,
-  "stargazers_count": 1797,
+  "size": 1438,
+  "stargazers_count": 1798,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -93,7 +93,8 @@
     "pespantelis",
     "stackOverMind",
     "jwngr",
-    "bartlomieju"
+    "bartlomieju",
+    "mattdsteele"
   ],
   "languages": {
     "JavaScript": {
@@ -101,5 +102,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-21T11:28:34.801Z"
+  "fetched_at": "2018-08-24T12:39:14.757Z"
 }

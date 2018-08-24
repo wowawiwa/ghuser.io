@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/openebs/maya",
   "languages_url": "https://api.github.com/repos/openebs/maya/languages",
   "created_at": "2016-10-06T08:34:13Z",
-  "updated_at": "2018-08-23T11:36:22Z",
-  "pushed_at": "2018-08-23T20:30:16Z",
+  "updated_at": "2018-08-24T12:36:46Z",
+  "pushed_at": "2018-08-24T12:36:41Z",
   "homepage": "https://docs.openebs.io",
-  "size": 97176,
+  "size": 97201,
   "stargazers_count": 102,
   "language": "Go",
   "mirror_url": null,
@@ -85,7 +85,7 @@
     "fortrieb": 4,
     "waseem18": 4,
     "keydrevolta": 5,
-    "ashishranjan738": 8,
+    "ashishranjan738": 16,
     "dungeonmaster18": 8,
     "slalwani97": 11,
     "gkGaneshR": 34,
@@ -93,14 +93,14 @@
     "utkarshmani1997": 47,
     "kmova": 103,
     "AmitKumarDas": 139,
-    "prateekpandey14": 174,
+    "prateekpandey14": 175,
     "TheEnbyperor": 3,
     "Moteesh": 9,
-    "sonasingh46": 12
+    "sonasingh46": 13
   },
   "languages": {
     "Go": {
-      "bytes": 1596625,
+      "bytes": 1639458,
       "color": "#375eab"
     },
     "Shell": {
@@ -120,7 +120,7 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-08-24T02:22:29.597Z",
+  "fetched_at": "2018-08-24T12:43:35.895Z",
   "pulls_url": "https://api.github.com/repos/openebs/maya/pulls{/number}",
   "pulls_authors": [
     "Moteesh",

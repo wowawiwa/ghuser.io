@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/elastic/elasticsearch",
   "languages_url": "https://api.github.com/repos/elastic/elasticsearch/languages",
   "created_at": "2010-02-08T13:20:56Z",
-  "updated_at": "2018-08-24T02:08:30Z",
-  "pushed_at": "2018-08-24T02:10:08Z",
+  "updated_at": "2018-08-24T12:07:54Z",
+  "pushed_at": "2018-08-24T11:48:03Z",
   "homepage": "https://www.elastic.co/products/elasticsearch",
-  "size": 505147,
-  "stargazers_count": 33714,
+  "size": 505634,
+  "stargazers_count": 33728,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "Java": {
-      "bytes": 69292738,
+      "bytes": 69185086,
       "color": "#b07219"
     },
     "Groovy": {
-      "bytes": 417167,
+      "bytes": 417041,
       "color": "#e69f56"
     },
     "Shell": {
@@ -169,7 +169,7 @@
     "mikemccand": 344,
     "dimitris-athanasiou": 354,
     "brwe": 414,
-    "jimczi": 457,
+    "jimczi": 458,
     "areek": 457,
     "ywelsch": 498,
     "lcawl": 466,
@@ -177,7 +177,7 @@
     "colings86": 678,
     "dakrone": 720,
     "imotov": 661,
-    "tlrx": 690,
+    "tlrx": 692,
     "cbuescher": 990,
     "jaymode": 813,
     "spinscale": 874,
@@ -189,7 +189,7 @@
     "rjernst": 1804,
     "nik9000": 1645,
     "javanna": 1877,
-    "jasontedor": 2151,
+    "jasontedor": 2153,
     "martijnvg": 2123,
     "s1monw": 3108,
     "kimchy": 4781,
@@ -327,7 +327,7 @@
     "oyiadom": 3,
     "shaulzorea": 3,
     "violuke": 3,
-    "astefan": 9,
+    "astefan": 12,
     "eliasah": 3,
     "LeeDr": 3,
     "sunkuet02": 3,
@@ -471,7 +471,7 @@
     "edsavage": 5,
     "lipsill": 3
   },
-  "fetched_at": "2018-08-24T02:21:36.811Z",
+  "fetched_at": "2018-08-24T12:42:41.163Z",
   "pulls_url": "https://api.github.com/repos/elastic/elasticsearch/pulls{/number}",
   "pulls_authors": [
     "benwtrent",
@@ -2299,6 +2299,7 @@
     "chernecov",
     "iverase",
     "joshfullmer",
-    "mirkojotic"
+    "mirkojotic",
+    "tahaderouiche"
   ]
 }

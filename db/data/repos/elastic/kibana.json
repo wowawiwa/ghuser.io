@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/elastic/kibana",
   "languages_url": "https://api.github.com/repos/elastic/kibana/languages",
   "created_at": "2013-01-26T04:00:59Z",
-  "updated_at": "2018-08-24T02:04:52Z",
-  "pushed_at": "2018-08-24T02:20:11Z",
+  "updated_at": "2018-08-24T11:43:28Z",
+  "pushed_at": "2018-08-24T12:42:11Z",
   "homepage": "https://www.elastic.co/products/kibana",
-  "size": 447199,
-  "stargazers_count": 9930,
+  "size": 447242,
+  "stargazers_count": 9933,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 18417867,
+      "bytes": 18427940,
       "color": "#f1e05a"
     },
     "TypeScript": {
@@ -104,7 +104,7 @@
     "meganwalker-ibm": 4,
     "colings86": 6,
     "nik9000": 4,
-    "legrego": 7,
+    "legrego": 8,
     "mattapperson": 5,
     "jpfxgood": 5,
     "sonenko": 5,
@@ -351,13 +351,13 @@
     "dedemorton": 1,
     "sunui": 1,
     "joshdover": 2,
-    "pavel06081991": 4,
+    "pavel06081991": 7,
     "going-confetti": 1,
     "scottis": 1,
     "jasonrhodes": 2,
     "rshen91": 1
   },
-  "fetched_at": "2018-08-24T02:21:44.674Z",
+  "fetched_at": "2018-08-24T12:42:48.651Z",
   "pulls_url": "https://api.github.com/repos/elastic/kibana/pulls{/number}",
   "pulls_authors": [
     "nreese",
