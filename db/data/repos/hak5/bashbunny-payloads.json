@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/hak5/bashbunny-payloads/languages",
   "pulls_url": "https://api.github.com/repos/hak5/bashbunny-payloads/pulls{/number}",
   "created_at": "2017-01-04T19:27:33Z",
-  "updated_at": "2018-08-24T16:10:33Z",
-  "pushed_at": "2018-07-07T19:38:22Z",
+  "updated_at": "2018-08-25T02:53:24Z",
+  "pushed_at": "2018-08-25T05:06:41Z",
   "homepage": "https://bashbunny.com",
   "size": 23937,
-  "stargazers_count": 822,
+  "stargazers_count": 823,
   "language": "PowerShell",
   "mirror_url": null,
   "archived": false,
@@ -279,7 +279,8 @@
     "aardwolf204",
     "honourity",
     "CarletonStuberg",
-    "rastating"
+    "rastating",
+    "Ciph3rtxt"
   ],
   "languages": {
     "PowerShell": {
@@ -311,5 +312,5 @@
       "color": "#945db7"
     }
   },
-  "fetched_at": "2018-08-24T23:01:39.331Z"
+  "fetched_at": "2018-08-25T09:20:55.882Z"
 }

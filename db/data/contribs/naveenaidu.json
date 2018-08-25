@@ -30,13 +30,13 @@
     "coala/coala": {
       "full_name": "coala/coala",
       "name": "coala",
-      "stargazers_count": 2365,
-      "popularity": 4.3737049299915665,
+      "stargazers_count": 2367,
+      "popularity": 4.374072182547007,
       "percentage": 0.07358351729212656,
       "maturity": 4.607805782815563,
       "total_commits_count": 4077,
       "activity": 5,
-      "total_score": 27.378564592610896,
+      "total_score": 27.379669863362736,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -149,11 +149,11 @@
       "name": "coala-quickstart",
       "stargazers_count": 37,
       "popularity": 2.5575461822849728,
-      "percentage": 0.5747126436781609,
-      "maturity": 3.129163804250412,
-      "total_commits_count": 174,
+      "percentage": 0.5714285714285714,
+      "maturity": 3.132390384985706,
+      "total_commits_count": 175,
       "activity": 5,
-      "total_score": 19.12204719196324,
+      "total_score": 19.127408461796072,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

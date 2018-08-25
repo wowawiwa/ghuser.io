@@ -17,13 +17,13 @@
     "SeinopSys/Derpi-NewTab": {
       "full_name": "SeinopSys/Derpi-NewTab",
       "name": "Derpi-NewTab",
-      "stargazers_count": 5,
-      "popularity": 1.6128219920330789,
+      "stargazers_count": 6,
+      "popularity": 1.7076084983408428,
       "percentage": 94.36619718309859,
       "maturity": 2.4944911357284782,
       "total_commits_count": 71,
       "activity": 5,
-      "total_score": 34.61291240334227,
+      "total_score": 36.06007540105517,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -238,13 +238,13 @@
     "discordapp/discord-api-docs": {
       "full_name": "discordapp/discord-api-docs",
       "name": "discord-api-docs",
-      "stargazers_count": 1016,
-      "popularity": 4.006547912578017,
+      "stargazers_count": 1017,
+      "popularity": 4.00697553617081,
       "percentage": 0.20242914979757085,
       "maturity": 3.658887438909088,
       "total_commits_count": 494,
       "activity": 5,
-      "total_score": 24.44285408693586,
+      "total_score": 24.444148210966677,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

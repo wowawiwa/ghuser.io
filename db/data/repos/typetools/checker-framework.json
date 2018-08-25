@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/typetools/checker-framework/languages",
   "pulls_url": "https://api.github.com/repos/typetools/checker-framework/pulls{/number}",
   "created_at": "2015-07-03T11:09:17Z",
-  "updated_at": "2018-08-23T14:39:15Z",
-  "pushed_at": "2018-08-23T15:11:36Z",
+  "updated_at": "2018-08-25T03:57:36Z",
+  "pushed_at": "2018-08-25T04:43:52Z",
   "homepage": "http://checkerframework.org/",
-  "size": 198316,
+  "size": 198068,
   "stargazers_count": 405,
   "language": "Java",
   "mirror_url": null,
@@ -112,9 +112,9 @@
     "solleks": 226,
     "jthaine": 303,
     "JonathanBurke": 510,
-    "smillst": 1030,
+    "smillst": 1031,
     "wmdietl": 2839,
-    "mernst": 3757,
+    "mernst": 3761,
     "gsaga": 1
   },
   "pulls_authors": [
@@ -180,11 +180,12 @@
     "JonathanBurke",
     "rroblak",
     "kan-izh",
-    "kageiit"
+    "kageiit",
+    "t-rasmud"
   ],
   "languages": {
     "Java": {
-      "bytes": 19651988,
+      "bytes": 19642235,
       "color": "#b07219"
     },
     "TeX": {
@@ -192,7 +193,7 @@
       "color": "#3D6117"
     },
     "Shell": {
-      "bytes": 41917,
+      "bytes": 41927,
       "color": "#89e051"
     },
     "Makefile": {
@@ -208,5 +209,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-08-23T16:10:51.059Z"
+  "fetched_at": "2018-08-25T09:18:45.678Z"
 }

@@ -17,13 +17,13 @@
     "sw-yx/react-typescript-cheatsheet": {
       "full_name": "sw-yx/react-typescript-cheatsheet",
       "name": "react-typescript-cheatsheet",
-      "stargazers_count": 1371,
-      "popularity": 4.136791352127087,
+      "stargazers_count": 1373,
+      "popularity": 4.137424850138553,
       "percentage": 41.666666666666664,
       "maturity": 2.508235952687284,
       "total_commits_count": 72,
       "activity": 5,
-      "total_score": 44.834465785777546,
+      "total_score": 44.83979772737405,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -82,7 +82,7 @@
     "gatsbyjs/gatsby": {
       "full_name": "gatsbyjs/gatsby",
       "name": "gatsby",
-      "stargazers_count": 24862,
+      "stargazers_count": 24873,
       "popularity": 5,
       "percentage": 0.0316055625790139,
       "maturity": 4.977264607949178,
@@ -173,7 +173,7 @@
     "facebook/create-react-app": {
       "full_name": "facebook/create-react-app",
       "name": "create-react-app",
-      "stargazers_count": 54247,
+      "stargazers_count": 54260,
       "popularity": 5,
       "percentage": 0.06565988181221274,
       "maturity": 4.172906636671489,
@@ -277,7 +277,7 @@
     "storybooks/storybook": {
       "full_name": "storybooks/storybook",
       "name": "storybook",
-      "stargazers_count": 27550,
+      "stargazers_count": 27560,
       "popularity": 5,
       "percentage": 0.024088646218082543,
       "maturity": 5,
@@ -305,24 +305,24 @@
       "name": "apollo-client",
       "stargazers_count": 8357,
       "popularity": 4.9220427168595435,
-      "percentage": 0.019700551615445233,
-      "maturity": 4.703830629349645,
-      "total_commits_count": 5076,
+      "percentage": 0.019696671262556628,
+      "maturity": 4.703916857066306,
+      "total_commits_count": 5077,
       "activity": 5,
-      "total_score": 29.18639511363552,
+      "total_score": 29.186565086164695,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "reactjs/reactjs.org": {
       "full_name": "reactjs/reactjs.org",
       "name": "reactjs.org",
-      "stargazers_count": 2184,
-      "popularity": 4.339112716503957,
+      "stargazers_count": 2186,
+      "popularity": 4.339510403893765,
       "percentage": 0,
       "maturity": 4.513766593396682,
       "total_commits_count": 3291,
       "activity": 5,
-      "total_score": 27.044871336305235,
+      "total_score": 27.046064398474662,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -381,20 +381,20 @@
     "chentsulin/awesome-graphql": {
       "full_name": "chentsulin/awesome-graphql",
       "name": "awesome-graphql",
-      "stargazers_count": 7970,
-      "popularity": 4.901448364752846,
+      "stargazers_count": 7972,
+      "popularity": 4.901557345690268,
       "percentage": 0,
       "maturity": 3.72197800689245,
       "total_commits_count": 565,
       "activity": 5,
-      "total_score": 27.14830110804344,
+      "total_score": 27.148628050855706,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "facebook/react": {
       "full_name": "facebook/react",
       "name": "react",
-      "stargazers_count": 109548,
+      "stargazers_count": 109567,
       "popularity": 5,
       "percentage": 0,
       "maturity": 4.965056536843382,
@@ -602,13 +602,13 @@
     "icebob/vue-express-mongo-boilerplate": {
       "full_name": "icebob/vue-express-mongo-boilerplate",
       "name": "vue-express-mongo-boilerplate",
-      "stargazers_count": 1395,
-      "popularity": 4.144333013048068,
+      "stargazers_count": 1396,
+      "popularity": 4.144644424566291,
       "percentage": 0.20491803278688525,
       "maturity": 3.653110875811567,
       "total_commits_count": 488,
-      "activity": 3.4663393564947875,
-      "total_score": 23.31596246113431,
+      "activity": 3.3367602162468204,
+      "total_score": 23.18732585123965,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -628,13 +628,13 @@
     "js-org/js.org": {
       "full_name": "js-org/js.org",
       "name": "js.org",
-      "stargazers_count": 1849,
-      "popularity": 4.266764553570217,
+      "stargazers_count": 1850,
+      "popularity": 4.266999485137136,
       "percentage": 0,
       "maturity": 4.467431333570724,
       "total_commits_count": 2962,
       "activity": 5,
-      "total_score": 26.7351563278521,
+      "total_score": 26.735861122552855,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -654,13 +654,13 @@
     "palmerhq/react-suspense-starter": {
       "full_name": "palmerhq/react-suspense-starter",
       "name": "react-suspense-starter",
-      "stargazers_count": 205,
-      "popularity": 3.309882074218489,
+      "stargazers_count": 206,
+      "popularity": 3.312004729964158,
       "percentage": 10,
       "maturity": 0,
       "total_commits_count": 10,
       "activity": 5,
-      "total_score": 19.232492919139503,
+      "total_score": 19.241620338845877,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -674,6 +674,19 @@
       "total_commits_count": 63,
       "activity": 5,
       "total_score": 22.20778498219744,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "netlify/netlify-lambda": {
+      "full_name": "netlify/netlify-lambda",
+      "name": "netlify-lambda",
+      "stargazers_count": 73,
+      "popularity": 2.8579742991606407,
+      "percentage": 3.3333333333333335,
+      "maturity": 0,
+      "total_commits_count": 30,
+      "activity": 5,
+      "total_score": 14.812378427118201,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }
@@ -691,6 +704,7 @@
     "FSA-JEFS",
     "VulcanJS",
     "js-org",
-    "palmerhq"
+    "palmerhq",
+    "netlify"
   ]
 }

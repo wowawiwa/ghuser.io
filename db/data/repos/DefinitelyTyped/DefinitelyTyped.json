@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/DefinitelyTyped/DefinitelyTyped/languages",
   "pulls_url": "https://api.github.com/repos/DefinitelyTyped/DefinitelyTyped/pulls{/number}",
   "created_at": "2012-10-05T16:39:45Z",
-  "updated_at": "2018-08-24T22:37:24Z",
-  "pushed_at": "2018-08-24T22:36:20Z",
+  "updated_at": "2018-08-25T03:47:45Z",
+  "pushed_at": "2018-08-25T08:22:01Z",
   "homepage": "http://definitelytyped.org/",
-  "size": 350581,
-  "stargazers_count": 17072,
+  "size": 350886,
+  "stargazers_count": 17076,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -103,7 +103,7 @@
     "plantain-00": 58,
     "NoHomey": 58,
     "JoshuaKGoldberg": 60,
-    "Flarna": 74,
+    "Flarna": 75,
     "DomiR": 54,
     "pelotom": 60,
     "miniak": 60,
@@ -143,7 +143,7 @@
     "BendingBender": 202,
     "Igorbek": 310,
     "leonard-thieu": 246,
-    "DanielRosenwasser": 1149,
+    "DanielRosenwasser": 1161,
     "borisyankov": 717,
     "chrootsu": 407,
     "vvakame": 4297,
@@ -458,7 +458,9 @@
     "rynclark": 12,
     "seantanly": 12,
     "smasala": 12,
-    "davidka": 12
+    "davidka": 12,
+    "romain-faust": 21,
+    "franklixuefei": 15
   },
   "pulls_authors": [
     "saenglert",
@@ -8882,11 +8884,14 @@
     "gitteri",
     "ficristo",
     "Totemika",
-    "mschilde"
+    "mschilde",
+    "athrunsun",
+    "meganrm",
+    "stephane-monnot"
   ],
   "languages": {
     "TypeScript": {
-      "bytes": 24887338,
+      "bytes": 24891583,
       "color": "#2b7489"
     },
     "JavaScript": {
@@ -8898,5 +8903,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-24T22:57:12.147Z"
+  "fetched_at": "2018-08-25T09:16:44.402Z"
 }

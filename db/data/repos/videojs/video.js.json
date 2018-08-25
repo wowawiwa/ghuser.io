@@ -326,11 +326,11 @@
   "url": "https://api.github.com/repos/videojs/video.js",
   "languages_url": "https://api.github.com/repos/videojs/video.js/languages",
   "created_at": "2010-05-14T18:45:10Z",
-  "updated_at": "2018-08-24T19:05:42Z",
-  "pushed_at": "2018-08-24T22:57:37Z",
+  "updated_at": "2018-08-25T08:32:40Z",
+  "pushed_at": "2018-08-24T23:08:05Z",
   "homepage": "www.videojs.com",
-  "size": 117991,
-  "stargazers_count": 22302,
+  "size": 117995,
+  "stargazers_count": 22303,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -380,7 +380,7 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-08-24T22:57:47.827Z",
+  "fetched_at": "2018-08-25T09:17:18.215Z",
   "pulls_url": "https://api.github.com/repos/videojs/video.js/pulls{/number}",
   "pulls_authors": [
     "greenkeeper[bot]",

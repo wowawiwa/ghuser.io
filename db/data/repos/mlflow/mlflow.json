@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/mlflow/mlflow",
   "languages_url": "https://api.github.com/repos/mlflow/mlflow/languages",
   "created_at": "2018-06-05T16:05:58Z",
-  "updated_at": "2018-08-24T21:31:01Z",
-  "pushed_at": "2018-08-24T22:55:27Z",
+  "updated_at": "2018-08-25T05:36:53Z",
+  "pushed_at": "2018-08-25T05:46:03Z",
   "homepage": "https://mlflow.org",
-  "size": 3647,
-  "stargazers_count": 2025,
+  "size": 4418,
+  "stargazers_count": 2031,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -69,12 +69,12 @@
     "mdagost": 3,
     "mparkhe": 5,
     "dennyglee": 4,
-    "andrewmchen": 15,
+    "andrewmchen": 16,
     "juntai-zheng": 10,
     "stbof": 14,
     "mateiz": 22,
     "smurching": 39,
-    "aarondav": 41,
+    "aarondav": 42,
     "dbczumar": 8,
     "bnekolny": 1,
     "ToonKBC": 9,
@@ -89,7 +89,7 @@
   },
   "languages": {
     "Python": {
-      "bytes": 500825,
+      "bytes": 517112,
       "color": "#3572A5"
     },
     "JavaScript": {
@@ -121,7 +121,7 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-24T23:00:25.583Z",
+  "fetched_at": "2018-08-25T09:19:46.857Z",
   "pulls_url": "https://api.github.com/repos/mlflow/mlflow/pulls{/number}",
   "pulls_authors": [
     "dmatrix",

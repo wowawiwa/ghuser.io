@@ -82,7 +82,7 @@
     "daneden/animate.css": {
       "full_name": "daneden/animate.css",
       "name": "animate.css",
-      "stargazers_count": 53737,
+      "stargazers_count": 53746,
       "popularity": 5,
       "percentage": 2.6490066225165565,
       "maturity": 3.4202026784141966,
@@ -251,7 +251,7 @@
     "sqlmapproject/sqlmap": {
       "full_name": "sqlmapproject/sqlmap",
       "name": "sqlmap",
-      "stargazers_count": 12115,
+      "stargazers_count": 12116,
       "popularity": 5,
       "percentage": 0,
       "maturity": 4.905482658119735,
@@ -1025,6 +1025,19 @@
       "total_commits_count": 175,
       "activity": 1.6141023794765124,
       "total_score": 11.389984006941265,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "jamesgeorge007/jest": {
+      "full_name": "jamesgeorge007/jest",
+      "name": "jest",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 0.017247326664367024,
+      "maturity": 4.762015491445829,
+      "total_commits_count": 5798,
+      "activity": 5,
+      "total_score": 14.524030982891658,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

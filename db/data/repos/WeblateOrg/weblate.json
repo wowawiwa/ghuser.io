@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/WeblateOrg/weblate/languages",
   "pulls_url": "https://api.github.com/repos/WeblateOrg/weblate/pulls{/number}",
   "created_at": "2012-02-27T09:33:29Z",
-  "updated_at": "2018-08-24T18:10:43Z",
-  "pushed_at": "2018-08-24T18:10:41Z",
+  "updated_at": "2018-08-25T08:11:32Z",
+  "pushed_at": "2018-08-25T08:11:30Z",
   "homepage": "https://weblate.org/",
-  "size": 155285,
+  "size": 155311,
   "stargazers_count": 1116,
   "language": "Python",
   "mirror_url": null,
@@ -65,7 +65,7 @@
     "madmuffin1": 9,
     "stefanor": 8,
     "Freso": 9,
-    "weblate": 1444,
+    "weblate": 1445,
     "Xuacu": 10,
     "ptrsk": 10,
     "mv-santos": 10,
@@ -120,7 +120,7 @@
     "slsimic": 47,
     "bovirus": 56,
     "scootergrisen": 62,
-    "domenk": 66,
+    "domenk": 67,
     "haaninjo": 66,
     "p-bo": 67,
     "zerng07": 72,
@@ -147,7 +147,7 @@
     "ruleant": 502,
     "BouRock": 760,
     "franconian": 1120,
-    "nijel": 15630,
+    "nijel": 15650,
     "lukakama": 12,
     "pjcaldeira": 7,
     "glensc": 8,
@@ -506,7 +506,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 2439007,
+      "bytes": 2438034,
       "color": "#3572A5"
     },
     "JavaScript": {
@@ -514,7 +514,7 @@
       "color": "#f1e05a"
     },
     "HTML": {
-      "bytes": 276688,
+      "bytes": 276485,
       "color": "#e34c26"
     },
     "CSS": {
@@ -522,7 +522,7 @@
       "color": "#563d7c"
     },
     "Shell": {
-      "bytes": 21802,
+      "bytes": 20530,
       "color": "#89e051"
     },
     "Dockerfile": {
@@ -538,5 +538,5 @@
       "color": "#4F5D95"
     }
   },
-  "fetched_at": "2018-08-24T22:59:23.666Z"
+  "fetched_at": "2018-08-25T09:18:50.119Z"
 }
