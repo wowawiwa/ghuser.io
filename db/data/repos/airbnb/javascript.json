@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/airbnb/javascript",
   "languages_url": "https://api.github.com/repos/airbnb/javascript/languages",
   "created_at": "2012-11-01T23:13:50Z",
-  "updated_at": "2018-08-25T09:12:38Z",
-  "pushed_at": "2018-08-24T18:56:44Z",
+  "updated_at": "2018-08-25T18:46:46Z",
+  "pushed_at": "2018-08-25T11:37:18Z",
   "homepage": null,
   "size": 2758,
-  "stargazers_count": 75125,
+  "stargazers_count": 75136,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -456,7 +456,7 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-25T09:18:16.159Z",
+  "fetched_at": "2018-08-25T19:34:01.676Z",
   "pulls_url": "https://api.github.com/repos/airbnb/javascript/pulls{/number}",
   "pulls_authors": [
     "pschreibs85",
@@ -1165,6 +1165,7 @@
     "irvinktang",
     "CodeDotJS",
     "GregorSondermeier",
-    "MichelML"
+    "MichelML",
+    "lin-123"
   ]
 }

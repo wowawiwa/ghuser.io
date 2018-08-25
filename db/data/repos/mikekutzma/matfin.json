@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/mikekutzma/matfin",
   "languages_url": "https://api.github.com/repos/mikekutzma/matfin/languages",
   "created_at": "2018-08-01T01:39:03Z",
-  "updated_at": "2018-08-19T23:44:33Z",
-  "pushed_at": "2018-08-19T23:44:31Z",
+  "updated_at": "2018-08-25T17:10:51Z",
+  "pushed_at": "2018-08-25T17:10:50Z",
   "homepage": "",
-  "size": 26,
+  "size": 27,
   "stargazers_count": 1,
   "language": "C++",
   "mirror_url": null,
@@ -21,11 +21,11 @@
   "license": null,
   "default_branch": "master",
   "contributors": {
-    "mikekutzma": 25
+    "mikekutzma": 26
   },
   "languages": {
     "C++": {
-      "bytes": 19649,
+      "bytes": 20448,
       "color": "#f34b7d"
     },
     "Makefile": {
@@ -37,7 +37,7 @@
       "color": "#555555"
     }
   },
-  "fetched_at": "2018-08-20T04:37:07.078Z",
+  "fetched_at": "2018-08-25T19:35:39.240Z",
   "pulls_url": "https://api.github.com/repos/mikekutzma/matfin/pulls{/number}",
   "pulls_authors": []
 }

@@ -10,8 +10,8 @@
   "url": "https://api.github.com/repos/js-org/js.org",
   "languages_url": "https://api.github.com/repos/js-org/js.org/languages",
   "created_at": "2015-04-08T01:43:18Z",
-  "updated_at": "2018-08-25T05:06:09Z",
-  "pushed_at": "2018-08-25T07:01:13Z",
+  "updated_at": "2018-08-25T19:24:09Z",
+  "pushed_at": "2018-08-25T19:24:07Z",
   "homepage": "https://js.org",
   "size": 3155,
   "stargazers_count": 1850,
@@ -141,7 +141,7 @@
     "tannerlinsley": 15,
     "pakastin": 16,
     "egoist": 16,
-    "indus": 1875,
+    "indus": 1881,
     "ccrraaiigg": 3,
     "danieljuarezp": 3,
     "dhruvdutt": 3,
@@ -501,15 +501,16 @@
     "QuantumlyTangled": 3,
     "OrdinaryJellyfish": 9,
     "troch": 2,
-    "bestony": 1
+    "bestony": 1,
+    "arunkumarpalaniappan": 3
   },
   "languages": {
     "JavaScript": {
-      "bytes": 83950,
+      "bytes": 84207,
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-25T09:16:35.938Z",
+  "fetched_at": "2018-08-25T19:32:15.231Z",
   "pulls_url": "https://api.github.com/repos/js-org/js.org/pulls{/number}",
   "pulls_authors": [
     "ChandZhang",
@@ -1890,6 +1891,9 @@
     "abaijs",
     "dickeylth",
     "defims",
-    "luisvallejomohl"
+    "luisvallejomohl",
+    "signalwerk",
+    "siffreinsg",
+    "arunkumarpalaniappan"
   ]
 }

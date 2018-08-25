@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/teamon/tesla",
   "languages_url": "https://api.github.com/repos/teamon/tesla/languages",
   "created_at": "2015-03-16T22:55:37Z",
-  "updated_at": "2018-08-24T09:27:46Z",
-  "pushed_at": "2018-08-23T21:55:07Z",
+  "updated_at": "2018-08-25T12:24:13Z",
+  "pushed_at": "2018-08-25T04:52:19Z",
   "homepage": "",
   "size": 490,
-  "stargazers_count": 741,
+  "stargazers_count": 742,
   "language": "Elixir",
   "mirror_url": null,
   "archived": false,
@@ -83,7 +83,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-24T12:42:33.970Z",
+  "fetched_at": "2018-08-25T19:34:48.336Z",
   "pulls_url": "https://api.github.com/repos/teamon/tesla/pulls{/number}",
   "pulls_authors": [
     "HTiago",
@@ -143,6 +143,7 @@
     "lbarratt",
     "ndemonner",
     "scrogson",
-    "zorbash"
+    "zorbash",
+    "log4b"
   ]
 }

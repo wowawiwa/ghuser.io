@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/SeinopSys/Derpi-NewTab/languages",
   "pulls_url": "https://api.github.com/repos/SeinopSys/Derpi-NewTab/pulls{/number}",
   "created_at": "2015-08-04T18:53:14Z",
-  "updated_at": "2018-08-25T06:14:17Z",
-  "pushed_at": "2018-08-15T16:29:38Z",
+  "updated_at": "2018-08-25T12:58:28Z",
+  "pushed_at": "2018-08-25T12:58:41Z",
   "homepage": "",
-  "size": 50110,
+  "size": 53547,
   "stargazers_count": 6,
   "language": "JavaScript",
   "mirror_url": null,
@@ -30,7 +30,7 @@
   "contributors": {
     "ILM126": 2,
     "jack126guy": 2,
-    "SeinopSys": 67
+    "SeinopSys": 70
   },
   "pulls_authors": [
     "ILM126",
@@ -38,7 +38,7 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 30717,
+      "bytes": 31048,
       "color": "#f1e05a"
     },
     "CSS": {
@@ -46,7 +46,7 @@
       "color": "#563d7c"
     },
     "HTML": {
-      "bytes": 5394,
+      "bytes": 6566,
       "color": "#e34c26"
     },
     "Shell": {
@@ -54,5 +54,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-25T09:20:35.490Z"
+  "fetched_at": "2018-08-25T19:36:20.279Z"
 }

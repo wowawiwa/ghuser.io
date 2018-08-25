@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/nodejs/node",
   "languages_url": "https://api.github.com/repos/nodejs/node/languages",
   "created_at": "2014-11-26T19:57:11Z",
-  "updated_at": "2018-08-25T04:28:57Z",
-  "pushed_at": "2018-08-25T09:16:02Z",
+  "updated_at": "2018-08-25T19:19:12Z",
+  "pushed_at": "2018-08-25T18:31:12Z",
   "homepage": "https://nodejs.org",
-  "size": 403522,
-  "stargazers_count": 52623,
+  "size": 403528,
+  "stargazers_count": 52634,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -184,7 +184,7 @@
     "apapirovski": 193,
     "TooTallNate": 197,
     "joyeecheung": 231,
-    "targos": 280,
+    "targos": 281,
     "vsemozhetbyt": 280,
     "tjfontaine": 332,
     "BridgeAR": 347,
@@ -574,7 +574,7 @@
     "tlhunter": 3,
     "Maledong": 7
   },
-  "fetched_at": "2018-08-25T09:20:03.784Z",
+  "fetched_at": "2018-08-25T19:35:48.981Z",
   "pulls_url": "https://api.github.com/repos/nodejs/node/pulls{/number}",
   "pulls_authors": [
     "mmarchini",
@@ -2786,6 +2786,7 @@
     "abelmark",
     "ianloic",
     "ScottyVG",
-    "tlbdk"
+    "tlbdk",
+    "ralphtheninja"
   ]
 }

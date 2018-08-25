@@ -511,13 +511,13 @@
     "python/mypy": {
       "full_name": "python/mypy",
       "name": "mypy",
-      "stargazers_count": 4398,
-      "popularity": 4.643205430335237,
-      "percentage": 0.3549770743972785,
-      "maturity": 4.829176649934136,
-      "total_commits_count": 6761,
+      "stargazers_count": 4400,
+      "popularity": 4.643402922202305,
+      "percentage": 0.354924578527063,
+      "maturity": 4.829241261709381,
+      "total_commits_count": 6762,
       "activity": 5,
-      "total_score": 28.802239683207155,
+      "total_score": 28.802938807287894,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -687,6 +687,19 @@
       "total_commits_count": 13,
       "activity": 5,
       "total_score": 11.447773772289647,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "rockneurotiko/config_tuples": {
+      "full_name": "rockneurotiko/config_tuples",
+      "name": "config_tuples",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 6,
+      "activity": 5,
+      "total_score": 5,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

@@ -16,7 +16,7 @@
   "created_at": "2012-07-10T18:54:34Z",
   "updated_at": "2018-08-20T18:56:48Z",
   "contribs": {
-    "fetched_at": "2018-08-25T09:13:35.212Z",
+    "fetched_at": "2018-08-25T19:29:14.536Z",
     "repos": [
       "crazy-max/docker-librenms",
       "crazy-max/docker-rrdcached",
@@ -137,7 +137,8 @@
       "portapps/insomnia-portable",
       "librenms/librenms",
       "librenms/librenms-agent",
-      "RocketChat/Rocket.Chat"
+      "RocketChat/Rocket.Chat",
+      "crazy-max/ama"
     ]
   },
   "organizations": [

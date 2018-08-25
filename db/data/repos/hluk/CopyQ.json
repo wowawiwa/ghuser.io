@@ -89,7 +89,7 @@
     "x2357": 23,
     "m4r71n": 51,
     "rygwdn": 105,
-    "hluk": 3506,
+    "hluk": 3507,
     "alaazghoul": 1,
     "jimmyyoungtw": 1,
     "lnddyl": 1
@@ -104,11 +104,11 @@
   "url": "https://api.github.com/repos/hluk/CopyQ",
   "languages_url": "https://api.github.com/repos/hluk/CopyQ/languages",
   "created_at": "2009-10-21T13:35:38Z",
-  "updated_at": "2018-08-25T07:36:50Z",
-  "pushed_at": "2018-08-25T08:50:12Z",
+  "updated_at": "2018-08-25T17:05:19Z",
+  "pushed_at": "2018-08-25T10:27:01Z",
   "homepage": "",
   "size": 25110,
-  "stargazers_count": 1370,
+  "stargazers_count": 1371,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -122,7 +122,7 @@
   "default_branch": "master",
   "languages": {
     "C++": {
-      "bytes": 2101950,
+      "bytes": 2102384,
       "color": "#f34b7d"
     },
     "C": {
@@ -170,7 +170,7 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-25T09:17:18.133Z",
+  "fetched_at": "2018-08-25T19:32:57.931Z",
   "pulls_url": "https://api.github.com/repos/hluk/CopyQ/pulls{/number}",
   "pulls_authors": [
     "bovirus",
