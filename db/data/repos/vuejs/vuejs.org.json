@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/vuejs/vuejs.org/languages",
   "pulls_url": "https://api.github.com/repos/vuejs/vuejs.org/pulls{/number}",
   "created_at": "2014-01-05T03:11:14Z",
-  "updated_at": "2018-08-25T19:19:00Z",
-  "pushed_at": "2018-08-24T22:16:42Z",
+  "updated_at": "2018-08-26T02:16:52Z",
+  "pushed_at": "2018-08-26T00:29:11Z",
   "homepage": "https://vuejs.org",
-  "size": 45665,
-  "stargazers_count": 2683,
+  "size": 45664,
+  "stargazers_count": 2684,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -494,7 +494,8 @@
     "DevinZhong": 1,
     "giordanna": 1,
     "jackmcdade": 1,
-    "smith153": 1
+    "smith153": 1,
+    "ulivz": 1
   },
   "pulls_authors": [
     "katerlouis",
@@ -1160,7 +1161,8 @@
     "honzie",
     "nil3sh99",
     "joshua-s",
-    "hkraal"
+    "hkraal",
+    "jsangradorp"
   ],
   "languages": {
     "JavaScript": {
@@ -1176,5 +1178,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-08-25T19:31:49.987Z"
+  "fetched_at": "2018-08-26T05:48:11.705Z"
 }

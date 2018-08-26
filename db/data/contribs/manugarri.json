@@ -17,13 +17,13 @@
     "awesomedata/apd-core": {
       "full_name": "awesomedata/apd-core",
       "name": "apd-core",
-      "stargazers_count": 80,
-      "popularity": 2.898215522736416,
+      "stargazers_count": 81,
+      "popularity": 2.9036715559398876,
       "percentage": 0,
       "maturity": 2.118994386183839,
       "total_commits_count": 53,
       "activity": 5,
-      "total_score": 17.932635340576926,
+      "total_score": 17.94900344018734,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -160,7 +160,7 @@
     "apache/spark": {
       "full_name": "apache/spark",
       "name": "spark",
-      "stargazers_count": 18514,
+      "stargazers_count": 18515,
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,

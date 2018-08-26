@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/gogs/gogs",
   "languages_url": "https://api.github.com/repos/gogs/gogs/languages",
   "created_at": "2014-02-12T01:57:08Z",
-  "updated_at": "2018-08-25T19:26:44Z",
+  "updated_at": "2018-08-26T04:54:22Z",
   "pushed_at": "2018-08-25T18:55:12Z",
   "homepage": "https://gogs.io",
   "size": 147118,
-  "stargazers_count": 26719,
+  "stargazers_count": 26722,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -470,7 +470,7 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-08-25T19:37:00.897Z",
+  "fetched_at": "2018-08-26T05:53:15.733Z",
   "pulls_url": "https://api.github.com/repos/gogs/gogs/pulls{/number}",
   "pulls_authors": [
     "chromium1337",

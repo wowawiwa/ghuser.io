@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/vuejs/awesome-vue",
   "languages_url": "https://api.github.com/repos/vuejs/awesome-vue/languages",
   "created_at": "2015-10-20T00:16:14Z",
-  "updated_at": "2018-08-25T19:11:03Z",
-  "pushed_at": "2018-08-25T08:54:14Z",
+  "updated_at": "2018-08-26T03:24:20Z",
+  "pushed_at": "2018-08-26T02:25:53Z",
   "homepage": "",
-  "size": 3382,
-  "stargazers_count": 36746,
+  "size": 3120,
+  "stargazers_count": 36755,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -131,10 +131,10 @@
     "ktquez": 10,
     "miljan-aleksic": 10,
     "ankurk91": 11,
-    "David-Desmaisons": 11,
+    "David-Desmaisons": 12,
     "fundon": 11,
     "paulpflug": 11,
-    "packtpartner": 12,
+    "packtpartner": 13,
     "mazipan": 12,
     "villeristi": 15,
     "shershen08": 13,
@@ -536,10 +536,13 @@
     "darthmeme": 1,
     "guanzo": 2,
     "Lt0": 2,
-    "IPRIT": 1
+    "IPRIT": 1,
+    "anthinkingcoder": 3,
+    "alexurquhart": 1,
+    "andrew-boyd": 1
   },
   "languages": {},
-  "fetched_at": "2018-08-25T19:32:37.042Z",
+  "fetched_at": "2018-08-26T05:48:56.828Z",
   "pulls_url": "https://api.github.com/repos/vuejs/awesome-vue/pulls{/number}",
   "pulls_authors": [
     "mengdu",
@@ -1859,6 +1862,8 @@
     "IPRIT",
     "DOkwufulueze",
     "mcmimik",
-    "alexurquhart"
+    "alexurquhart",
+    "andrew-boyd",
+    "venkatperi"
   ]
 }

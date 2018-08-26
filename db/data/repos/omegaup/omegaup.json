@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/omegaup/omegaup",
   "languages_url": "https://api.github.com/repos/omegaup/omegaup/languages",
   "created_at": "2011-01-12T00:11:21Z",
-  "updated_at": "2018-08-25T18:39:33Z",
-  "pushed_at": "2018-08-25T19:09:34Z",
+  "updated_at": "2018-08-25T19:36:56Z",
+  "pushed_at": "2018-08-25T21:01:29Z",
   "homepage": "https://omegaup.com",
-  "size": 227273,
+  "size": 227308,
   "stargazers_count": 63,
   "language": "PHP",
   "mirror_url": null,
@@ -81,7 +81,7 @@
     "edhzsz": 3,
     "galloska": 4,
     "EfrenGonzalez": 4,
-    "sarvesh211999": 6,
+    "sarvesh211999": 7,
     "yoniihdc": 6,
     "rcxr": 6,
     "dgarvit": 8,
@@ -98,11 +98,12 @@
     "pabloaguilar": 138,
     "alanboy": 363,
     "joemmanuel": 980,
-    "lhchavez": 1756
+    "lhchavez": 1756,
+    "DiegoBriaares": 1
   },
   "languages": {
     "PHP": {
-      "bytes": 2669171,
+      "bytes": 2669372,
       "color": "#4F5D95"
     },
     "JavaScript": {
@@ -122,7 +123,7 @@
       "color": "#ccc"
     },
     "Python": {
-      "bytes": 141814,
+      "bytes": 141291,
       "color": "#3572A5"
     },
     "PLpgSQL": {
@@ -162,7 +163,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-25T19:35:43.023Z",
+  "fetched_at": "2018-08-26T05:52:00.131Z",
   "pulls_url": "https://api.github.com/repos/omegaup/omegaup/pulls{/number}",
   "pulls_authors": [
     "pabo99",
