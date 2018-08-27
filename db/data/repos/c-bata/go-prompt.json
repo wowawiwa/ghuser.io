@@ -4,7 +4,7 @@
     "ktr0731": 1,
     "Calinou": 1,
     "stealthybox": 1,
-    "bcicen": 1,
+    "bcicen": 2,
     "brettbuddin": 1,
     "hori-ryota": 1,
     "arayaryoma": 2,
@@ -13,7 +13,8 @@
     "Chyroc": 4,
     "mattn": 4,
     "orisano": 12,
-    "c-bata": 210
+    "c-bata": 211,
+    "monkeywithacupcake": 1
   },
   "name": "go-prompt",
   "full_name": "c-bata/go-prompt",
@@ -25,11 +26,11 @@
   "url": "https://api.github.com/repos/c-bata/go-prompt",
   "languages_url": "https://api.github.com/repos/c-bata/go-prompt/languages",
   "created_at": "2017-08-14T16:02:09Z",
-  "updated_at": "2018-08-25T16:19:41Z",
-  "pushed_at": "2018-08-13T01:48:43Z",
+  "updated_at": "2018-08-27T01:13:37Z",
+  "pushed_at": "2018-08-26T11:31:59Z",
   "homepage": "",
-  "size": 281,
-  "stargazers_count": 1694,
+  "size": 286,
+  "stargazers_count": 1697,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -43,7 +44,7 @@
   "default_branch": "master",
   "languages": {
     "Go": {
-      "bytes": 137901,
+      "bytes": 137973,
       "color": "#375eab"
     },
     "Makefile": {
@@ -51,7 +52,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-25T19:32:43.027Z",
+  "fetched_at": "2018-08-27T06:17:05.023Z",
   "pulls_url": "https://api.github.com/repos/c-bata/go-prompt/pulls{/number}",
   "pulls_authors": [
     "monkeywithacupcake",

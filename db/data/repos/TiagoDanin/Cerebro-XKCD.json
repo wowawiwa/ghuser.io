@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/TiagoDanin/Cerebro-XKCD/languages",
   "pulls_url": "https://api.github.com/repos/TiagoDanin/Cerebro-XKCD/pulls{/number}",
   "created_at": "2018-02-25T19:55:14Z",
-  "updated_at": "2018-02-26T16:28:16Z",
-  "pushed_at": "2018-08-11T16:22:08Z",
+  "updated_at": "2018-08-26T16:58:56Z",
+  "pushed_at": "2018-08-26T16:58:54Z",
   "homepage": "https://TiagoDanin.github.io/Cerebro-XKCD/",
-  "size": 1257,
+  "size": 2425,
   "stargazers_count": 1,
   "language": "JavaScript",
   "mirror_url": null,
@@ -31,12 +31,14 @@
     "renovate-bot": 1,
     "codacy-badger": 1,
     "renovate[bot]": 1,
-    "TiagoDanin": 12
+    "TiagoDanin": 12,
+    "ImgBotApp": 1
   },
   "pulls_authors": [
     "renovate[bot]",
     "TiagoDanin",
-    "codacy-badger"
+    "codacy-badger",
+    "imgbot[bot]"
   ],
   "languages": {
     "JavaScript": {
@@ -44,5 +46,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-12T17:48:20.581Z"
+  "fetched_at": "2018-08-27T06:21:24.698Z"
 }

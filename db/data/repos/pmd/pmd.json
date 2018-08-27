@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/pmd/pmd",
   "languages_url": "https://api.github.com/repos/pmd/pmd/languages",
   "created_at": "2012-07-11T18:03:00Z",
-  "updated_at": "2018-08-25T10:50:08Z",
-  "pushed_at": "2018-08-22T15:20:02Z",
+  "updated_at": "2018-08-27T00:59:31Z",
+  "pushed_at": "2018-08-27T00:59:26Z",
   "homepage": "https://pmd.github.io",
   "size": 247752,
-  "stargazers_count": 1746,
+  "stargazers_count": 1747,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -140,13 +140,13 @@
     "JosephAllen": 65,
     "akshatbahety": 74,
     "rsoesemann": 74,
-    "pmd-bot": 79,
+    "pmd-bot": 80,
     "WinterGrascph": 91,
     "sturton": 118,
     "sergeygorbaty": 293,
-    "jsotuyod": 1078,
-    "oowekyala": 1044,
-    "adangel": 3181,
+    "jsotuyod": 1087,
+    "oowekyala": 1053,
+    "adangel": 3183,
     "ashishrana160796": 1,
     "AustinShalit": 1,
     "ishanSrt": 1,
@@ -160,11 +160,12 @@
     "jordillachmrf": 2,
     "cobratbq": 1,
     "ardaasln": 1,
-    "vovkss": 6
+    "vovkss": 6,
+    "jeffhube": 3
   },
   "languages": {
     "Java": {
-      "bytes": 5945575,
+      "bytes": 5946778,
       "color": "#b07219"
     },
     "Apex": {
@@ -188,7 +189,7 @@
       "color": "#ffac45"
     },
     "Shell": {
-      "bytes": 28734,
+      "bytes": 28881,
       "color": "#89e051"
     },
     "Scala": {
@@ -220,7 +221,7 @@
       "color": "#4d41b1"
     },
     "Ruby": {
-      "bytes": 3582,
+      "bytes": 3633,
       "color": "#701516"
     },
     "HTML": {
@@ -244,7 +245,7 @@
       "color": "#2b7489"
     }
   },
-  "fetched_at": "2018-08-25T19:33:50.912Z",
+  "fetched_at": "2018-08-27T06:18:15.496Z",
   "pulls_url": "https://api.github.com/repos/pmd/pmd/pulls{/number}",
   "pulls_authors": [
     "djydewang",

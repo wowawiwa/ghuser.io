@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/nodejs/node",
   "languages_url": "https://api.github.com/repos/nodejs/node/languages",
   "created_at": "2014-11-26T19:57:11Z",
-  "updated_at": "2018-08-26T02:52:40Z",
-  "pushed_at": "2018-08-26T02:58:23Z",
+  "updated_at": "2018-08-27T06:14:58Z",
+  "pushed_at": "2018-08-27T06:10:49Z",
   "homepage": "https://nodejs.org",
-  "size": 403528,
-  "stargazers_count": 52642,
+  "size": 403594,
+  "stargazers_count": 52675,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 6795960,
+      "bytes": 6797004,
       "color": "#f1e05a"
     },
     "C++": {
-      "bytes": 2512257,
+      "bytes": 2512286,
       "color": "#f34b7d"
     },
     "Python": {
@@ -190,14 +190,14 @@
     "BridgeAR": 347,
     "mscdex": 318,
     "rvagg": 324,
-    "danbev": 352,
+    "danbev": 353,
     "trevnorris": 363,
     "cjihrig": 390,
     "jasnell": 528,
     "piscisaureus": 598,
-    "addaleax": 669,
+    "addaleax": 671,
     "indutny": 755,
-    "Trott": 1324,
+    "Trott": 1326,
     "isaacs": 1647,
     "bnoordhuis": 2138,
     "ry": 3021,
@@ -336,7 +336,7 @@
     "omsmith": 5,
     "defunctzombie": 5,
     "sarahmeyer": 5,
-    "SirR4T": 7,
+    "SirR4T": 9,
     "vipinmenon": 5,
     "jhamhader": 5,
     "ah-yu": 5,
@@ -564,9 +564,9 @@
     "charlieduong94": 2,
     "chasestarr": 2,
     "dinophile": 2,
-    "rubys": 18,
+    "rubys": 19,
     "aduh95": 3,
-    "lundibundi": 9,
+    "lundibundi": 10,
     "kenny-y": 3,
     "antsmartian": 7,
     "jquynh": 5,
@@ -574,7 +574,7 @@
     "tlhunter": 3,
     "Maledong": 7
   },
-  "fetched_at": "2018-08-26T05:52:06.554Z",
+  "fetched_at": "2018-08-27T06:20:22.605Z",
   "pulls_url": "https://api.github.com/repos/nodejs/node/pulls{/number}",
   "pulls_authors": [
     "mmarchini",
@@ -2787,6 +2787,7 @@
     "ianloic",
     "ScottyVG",
     "tlbdk",
-    "ralphtheninja"
+    "ralphtheninja",
+    "tsangint"
   ]
 }

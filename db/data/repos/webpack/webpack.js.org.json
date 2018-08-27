@@ -489,7 +489,10 @@
     "SassNinja": 1,
     "mwanago": 1,
     "mattkrick": 1,
-    "jakoblind": 1
+    "jakoblind": 1,
+    "kryptokinght": 2,
+    "elliottsj": 2,
+    "ccjvp": 1
   },
   "name": "webpack.js.org",
   "full_name": "webpack/webpack.js.org",
@@ -501,11 +504,11 @@
   "url": "https://api.github.com/repos/webpack/webpack.js.org",
   "languages_url": "https://api.github.com/repos/webpack/webpack.js.org/languages",
   "created_at": "2016-06-24T13:22:52Z",
-  "updated_at": "2018-08-24T12:53:18Z",
-  "pushed_at": "2018-08-24T17:26:11Z",
+  "updated_at": "2018-08-26T18:46:31Z",
+  "pushed_at": "2018-08-26T18:28:31Z",
   "homepage": "https://webpack.js.org",
-  "size": 291939,
-  "stargazers_count": 1281,
+  "size": 295203,
+  "stargazers_count": 1282,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -555,7 +558,7 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-08-24T22:56:33.759Z",
+  "fetched_at": "2018-08-27T06:16:08.941Z",
   "pulls_url": "https://api.github.com/repos/webpack/webpack.js.org/pulls{/number}",
   "pulls_authors": [
     "HarshwardhanSingh",
@@ -1432,6 +1435,8 @@
     "GAumala",
     "nodiel",
     "jakoblind",
-    "kushalmahajan"
+    "kushalmahajan",
+    "budmc29",
+    "msheliga1"
   ]
 }

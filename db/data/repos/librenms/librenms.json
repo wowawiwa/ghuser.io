@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/librenms/librenms",
   "languages_url": "https://api.github.com/repos/librenms/librenms/languages",
   "created_at": "2013-10-28T01:37:13Z",
-  "updated_at": "2018-08-25T20:57:15Z",
-  "pushed_at": "2018-08-25T20:57:09Z",
+  "updated_at": "2018-08-27T00:39:21Z",
+  "pushed_at": "2018-08-26T19:58:47Z",
   "homepage": "http://www.librenms.org/",
-  "size": 133182,
-  "stargazers_count": 1133,
+  "size": 133170,
+  "stargazers_count": 1134,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -145,7 +145,7 @@
     "Rosiak": 428,
     "paulgear": 645,
     "danzel": 469,
-    "murrant": 1032,
+    "murrant": 1033,
     "laf": 3562,
     "vizay": 11,
     "ericmann": 9,
@@ -416,7 +416,7 @@
   },
   "languages": {
     "PHP": {
-      "bytes": 6790177,
+      "bytes": 6790534,
       "color": "#4F5D95"
     },
     "JavaScript": {
@@ -468,7 +468,7 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-08-26T05:49:35.729Z",
+  "fetched_at": "2018-08-27T06:17:38.787Z",
   "pulls_url": "https://api.github.com/repos/librenms/librenms/pulls{/number}",
   "pulls_authors": [
     "eastmane",
@@ -988,6 +988,7 @@
     "nickhilliard",
     "odvolk",
     "Notre1",
-    "backslash7"
+    "backslash7",
+    "bonzai86"
   ]
 }

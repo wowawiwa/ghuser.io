@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/turtlecoin/turtlecoin-docs/languages",
   "pulls_url": "https://api.github.com/repos/turtlecoin/turtlecoin-docs/pulls{/number}",
   "created_at": "2018-01-29T19:49:50Z",
-  "updated_at": "2018-08-25T00:49:55Z",
-  "pushed_at": "2018-08-25T01:11:48Z",
+  "updated_at": "2018-08-27T03:56:31Z",
+  "pushed_at": "2018-08-27T03:56:28Z",
   "homepage": "http://community.turtlecoin.lol",
-  "size": 4112,
+  "size": 4107,
   "stargazers_count": 19,
   "language": "Shell",
   "mirror_url": null,
@@ -86,10 +86,11 @@
     "hensleyrob": 20,
     "SoreGums": 22,
     "BebopTC": 47,
-    "ZedPea": 87,
+    "ZedPea": 88,
     "holytastyguacamole": 99,
     "Sajo8": 174,
-    "Ciph3rtxt": 3
+    "Ciph3rtxt": 3,
+    "monkeytips": 1
   },
   "pulls_authors": [
     "Sajo8",
@@ -125,7 +126,8 @@
     "dsingleton86",
     "davidschou",
     "unijohn",
-    "ciphert3xt"
+    "ciphert3xt",
+    "monkeytips"
   ],
   "languages": {
     "Shell": {
@@ -133,5 +135,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-25T09:21:15.064Z"
+  "fetched_at": "2018-08-27T06:21:35.958Z"
 }

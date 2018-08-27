@@ -24,7 +24,7 @@
     "Nallebeorn": 13,
     "sheepandshepherd": 12,
     "MillionOstrich": 13,
-    "JFonS": 18,
+    "JFonS": 19,
     "rraallvv": 14,
     "Grosskopf": 14,
     "Marqin": 14,
@@ -76,16 +76,16 @@
     "Geequlim": 69,
     "SaracenOne": 84,
     "tagcup": 69,
-    "AndreaCatania": 89,
+    "AndreaCatania": 93,
     "endragor": 74,
-    "YeldhamDev": 85,
+    "YeldhamDev": 86,
     "punto-": 121,
     "BastiaanOlij": 94,
     "groud": 146,
     "toger5": 101,
     "hpvb": 166,
     "poke1024": 118,
-    "marcelofg55": 141,
+    "marcelofg55": 142,
     "marynate": 118,
     "karroffel": 291,
     "bojidar-bg": 130,
@@ -97,9 +97,9 @@
     "Noshyaar": 368,
     "RandomShaper": 201,
     "Hinsbart": 303,
-    "neikeq": 366,
+    "neikeq": 367,
     "volzhs": 299,
-    "akien-mga": 4896,
+    "akien-mga": 4904,
     "reduz": 2855,
     "cbscribe": 39,
     "Spooner": 16,
@@ -146,7 +146,7 @@
     "Silvea12": 5,
     "sketchyfun": 5,
     "bfloch": 5,
-    "Crazy-P": 5,
+    "Crazy-P": 6,
     "profelis": 5,
     "diowonderland": 5,
     "TheYokai": 5,
@@ -421,8 +421,9 @@
     "malbach": 2,
     "DualMatrix": 4,
     "kripken": 1,
-    "elasota": 7,
-    "natrim": 2
+    "elasota": 10,
+    "natrim": 2,
+    "exts": 2
   },
   "name": "godot",
   "full_name": "godotengine/godot",
@@ -434,11 +435,11 @@
   "url": "https://api.github.com/repos/godotengine/godot",
   "languages_url": "https://api.github.com/repos/godotengine/godot/languages",
   "created_at": "2014-01-04T16:05:36Z",
-  "updated_at": "2018-08-26T05:14:09Z",
-  "pushed_at": "2018-08-26T03:45:35Z",
+  "updated_at": "2018-08-27T06:10:02Z",
+  "pushed_at": "2018-08-27T06:00:20Z",
   "homepage": "https://godotengine.org",
-  "size": 259877,
-  "stargazers_count": 16334,
+  "size": 259894,
+  "stargazers_count": 16351,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -472,7 +473,7 @@
   },
   "languages": {
     "C++": {
-      "bytes": 21155193,
+      "bytes": 21159254,
       "color": "#f34b7d"
     },
     "Java": {
@@ -484,7 +485,7 @@
       "color": "#3572A5"
     },
     "C#": {
-      "bytes": 213549,
+      "bytes": 213598,
       "color": "#178600"
     },
     "Objective-C++": {
@@ -516,7 +517,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-26T05:49:00.142Z",
+  "fetched_at": "2018-08-27T06:17:01.195Z",
   "pulls_url": "https://api.github.com/repos/godotengine/godot/pulls{/number}",
   "pulls_authors": [
     "Calinou",
@@ -1414,6 +1415,9 @@
     "Placinta",
     "MidZik",
     "zspinelli",
-    "SneakyMax"
+    "SneakyMax",
+    "RodZill4",
+    "BlackCatter",
+    "deepmax"
   ]
 }

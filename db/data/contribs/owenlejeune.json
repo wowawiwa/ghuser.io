@@ -22,8 +22,8 @@
       "percentage": 100,
       "maturity": 0,
       "total_commits_count": 6,
-      "activity": 1.6920941937097598,
-      "total_score": 1.6920941937097598,
+      "activity": 5,
+      "total_score": 5,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -47,9 +47,9 @@
       "popularity": 0,
       "percentage": 100,
       "maturity": 0,
-      "total_commits_count": 22,
-      "activity": 1.6469417853142954,
-      "total_score": 1.6469417853142954,
+      "total_commits_count": 25,
+      "activity": 5,
+      "total_score": 5,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

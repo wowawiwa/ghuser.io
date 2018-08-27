@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/tldr-pages/tldr",
   "languages_url": "https://api.github.com/repos/tldr-pages/tldr/languages",
   "created_at": "2013-12-08T07:34:43Z",
-  "updated_at": "2018-08-26T04:48:36Z",
-  "pushed_at": "2018-08-26T04:49:16Z",
+  "updated_at": "2018-08-27T04:56:33Z",
+  "pushed_at": "2018-08-27T04:56:28Z",
   "homepage": "http://tldr-pages.github.io/",
-  "size": 3348,
-  "stargazers_count": 18060,
+  "size": 3375,
+  "stargazers_count": 18076,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -143,9 +143,9 @@
     "rubenvereecken": 147,
     "sbrl": 232,
     "oxguy3": 91,
-    "pxgamer": 116,
+    "pxgamer": 118,
     "igorshubovych": 301,
-    "agnivade": 161,
+    "agnivade": 162,
     "waldyrious": 412,
     "lasersharks": 4,
     "alxers": 3,
@@ -466,14 +466,15 @@
     "idleberg": 8,
     "christopherkuemmel": 1,
     "jayypluss": 1,
-    "daylightbrightledlight": 2,
+    "daylightbrightledlight": 3,
     "koskokos2": 2,
     "Xifax": 1,
-    "melgu": 3
+    "melgu": 3,
+    "rodorgas": 2
   },
   "languages": {
     "Python": {
-      "bytes": 4868,
+      "bytes": 4931,
       "color": "#3572A5"
     },
     "CSS": {
@@ -489,7 +490,7 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-26T05:49:18.650Z",
+  "fetched_at": "2018-08-27T06:17:23.320Z",
   "pulls_url": "https://api.github.com/repos/tldr-pages/tldr/pulls{/number}",
   "pulls_authors": [
     "mspear",

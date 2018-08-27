@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/storybooks/storybook",
   "languages_url": "https://api.github.com/repos/storybooks/storybook/languages",
   "created_at": "2016-03-18T04:23:44Z",
-  "updated_at": "2018-08-26T04:01:19Z",
-  "pushed_at": "2018-08-25T23:25:09Z",
+  "updated_at": "2018-08-27T06:10:37Z",
+  "pushed_at": "2018-08-27T02:23:33Z",
   "homepage": "https://storybook.js.org",
-  "size": 114095,
-  "stargazers_count": 27585,
+  "size": 114004,
+  "stargazers_count": 27630,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -143,8 +143,8 @@
     "igor-dv": 684,
     "shilman": 820,
     "mnmtanish": 808,
-    "ndelangen": 1662,
-    "Hypnosphi": 2246,
+    "ndelangen": 1664,
+    "Hypnosphi": 2249,
     "arunoda": 1111,
     "dependencies-bot": 2209,
     "alexandermikuta": 7,
@@ -463,7 +463,7 @@
     "adekbadek": 1,
     "jmiazga": 5,
     "JalilArfaoui": 1,
-    "pksunkara": 20,
+    "pksunkara": 21,
     "brycemhammond": 1,
     "camel-floss": 4,
     "libetl": 3,
@@ -481,7 +481,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 826342,
+      "bytes": 838548,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -497,7 +497,7 @@
       "color": "#2b7489"
     },
     "Shell": {
-      "bytes": 12179,
+      "bytes": 12187,
       "color": "#89e051"
     },
     "Vue": {
@@ -508,6 +508,10 @@
       "bytes": 8846,
       "color": "#438eff"
     },
+    "CSS": {
+      "bytes": 5034,
+      "color": "#563d7c"
+    },
     "Python": {
       "bytes": 3468,
       "color": "#3572A5"
@@ -516,16 +520,12 @@
       "bytes": 2658,
       "color": "#b07219"
     },
-    "CSS": {
-      "bytes": 2646,
-      "color": "#563d7c"
-    },
     "Boo": {
       "bytes": 463,
       "color": "#d4bec1"
     }
   },
-  "fetched_at": "2018-08-26T05:52:46.641Z",
+  "fetched_at": "2018-08-27T06:21:05.542Z",
   "pulls_url": "https://api.github.com/repos/storybooks/storybook/pulls{/number}",
   "pulls_authors": [
     "jcgertig",
@@ -1031,6 +1031,7 @@
     "BR0kEN-",
     "gabrielbs",
     "DimitrijeManic",
-    "Everettss"
+    "Everettss",
+    "donaldpipowitch"
   ]
 }

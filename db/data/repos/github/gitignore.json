@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/github/gitignore/languages",
   "pulls_url": "https://api.github.com/repos/github/gitignore/pulls{/number}",
   "created_at": "2010-11-08T20:17:14Z",
-  "updated_at": "2018-08-26T04:03:28Z",
-  "pushed_at": "2018-08-25T22:11:51Z",
+  "updated_at": "2018-08-27T06:05:15Z",
+  "pushed_at": "2018-08-26T17:23:05Z",
   "homepage": "",
-  "size": 1685,
-  "stargazers_count": 71736,
+  "size": 1696,
+  "stargazers_count": 71768,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -139,7 +139,7 @@
     "Haacked": 14,
     "koppor": 8,
     "jayvdb": 9,
-    "shiftkey": 547,
+    "shiftkey": 552,
     "ArgentiApparatus": 11,
     "Arvur": 11,
     "mibe": 12,
@@ -469,7 +469,9 @@
     "Aqua-Ye": 1,
     "fabiofdsantos": 1,
     "gabrieloliva": 1,
-    "roryhardy": 3
+    "roryhardy": 3,
+    "GabrielC101": 3,
+    "amigcamel": 2
   },
   "pulls_authors": [
     "amiteshbhartiya",
@@ -2666,8 +2668,10 @@
     "amigcamel",
     "piyush97",
     "Niels-NTG",
-    "nerdoc"
+    "nerdoc",
+    "cansurmeli",
+    "kimbaudi"
   ],
   "languages": {},
-  "fetched_at": "2018-08-26T05:50:41.094Z"
+  "fetched_at": "2018-08-27T06:18:48.805Z"
 }

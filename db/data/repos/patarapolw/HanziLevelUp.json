@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/patarapolw/HanziLevelUp/languages",
   "pulls_url": "https://api.github.com/repos/patarapolw/HanziLevelUp/pulls{/number}",
   "created_at": "2018-05-16T09:05:18Z",
-  "updated_at": "2018-08-19T06:32:59Z",
-  "pushed_at": "2018-08-19T06:32:57Z",
+  "updated_at": "2018-08-26T12:38:10Z",
+  "pushed_at": "2018-08-26T12:38:08Z",
   "homepage": "",
-  "size": 16143,
+  "size": 16144,
   "stargazers_count": 7,
   "language": "Python",
   "mirror_url": null,
@@ -28,14 +28,14 @@
   },
   "default_branch": "master",
   "contributors": {
-    "patarapolw": 84
+    "patarapolw": 85
   },
   "pulls_authors": [
     "patarapolw"
   ],
   "languages": {
     "Python": {
-      "bytes": 51109,
+      "bytes": 51123,
       "color": "#3572A5"
     },
     "JavaScript": {
@@ -51,5 +51,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-08-19T07:34:53.589Z"
+  "fetched_at": "2018-08-27T06:20:25.764Z"
 }

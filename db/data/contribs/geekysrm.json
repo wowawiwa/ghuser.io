@@ -19,11 +19,11 @@
       "name": "p-society.github.io",
       "stargazers_count": 23,
       "popularity": 2.3444311854745736,
-      "percentage": 1.1235955056179776,
-      "maturity": 2.6928142814876193,
-      "total_commits_count": 89,
+      "percentage": 1.1111111111111112,
+      "maturity": 2.7015705856761913,
+      "total_commits_count": 90,
       "activity": 5,
-      "total_score": 17.76136712401884,
+      "total_score": 17.77507478790021,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -95,13 +95,13 @@
     "netlify/netlify-cms": {
       "full_name": "netlify/netlify-cms",
       "name": "netlify-cms",
-      "stargazers_count": 6112,
-      "popularity": 4.786158478441539,
+      "stargazers_count": 6123,
+      "popularity": 4.78693950721496,
       "percentage": 0.056179775280898875,
       "maturity": 4.24231042604465,
       "total_commits_count": 1780,
       "activity": 5,
-      "total_score": 27.87805137742501,
+      "total_score": 27.880400167888,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

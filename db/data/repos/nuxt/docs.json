@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/nuxt/docs/languages",
   "pulls_url": "https://api.github.com/repos/nuxt/docs/pulls{/number}",
   "created_at": "2016-11-21T16:41:29Z",
-  "updated_at": "2018-08-25T11:46:01Z",
-  "pushed_at": "2018-08-25T18:41:17Z",
+  "updated_at": "2018-08-26T22:25:14Z",
+  "pushed_at": "2018-08-26T22:25:13Z",
   "homepage": null,
-  "size": 2326,
+  "size": 2337,
   "stargazers_count": 206,
   "language": "JavaScript",
   "mirror_url": null,
@@ -104,7 +104,7 @@
     "milestonebooks": 3,
     "Binaryify": 3,
     "Alex-Sokolov": 4,
-    "galvez": 4,
+    "galvez": 6,
     "manniL": 4,
     "clarkdo": 4,
     "uptownhr": 5,
@@ -141,7 +141,7 @@
     "alexchopin": 181,
     "Haeresis": 97,
     "Atinux": 485,
-    "inouetakuya": 290,
+    "inouetakuya": 291,
     "sosensible": 2,
     "miyaoka": 2,
     "aaronransley": 1,
@@ -562,7 +562,8 @@
     "Guito",
     "aintek4",
     "bactoria",
-    "fureweb-com"
+    "fureweb-com",
+    "qm3ster"
   ],
   "languages": {
     "JavaScript": {
@@ -570,5 +571,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-25T19:31:49.399Z"
+  "fetched_at": "2018-08-27T06:16:08.868Z"
 }

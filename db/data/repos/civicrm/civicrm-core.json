@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/civicrm/civicrm-core",
   "languages_url": "https://api.github.com/repos/civicrm/civicrm-core/languages",
   "created_at": "2013-03-01T06:11:56Z",
-  "updated_at": "2018-08-25T00:37:17Z",
-  "pushed_at": "2018-08-25T09:00:41Z",
+  "updated_at": "2018-08-27T06:07:09Z",
+  "pushed_at": "2018-08-27T06:06:55Z",
   "homepage": null,
-  "size": 165323,
+  "size": 165280,
   "stargazers_count": 293,
   "language": "PHP",
   "mirror_url": null,
@@ -41,7 +41,7 @@
     "site_admin": false
   },
   "contributors": {
-    "vinuvarshith": 8,
+    "vinuvarshith": 9,
     "kainuk": 9,
     "highfalutin": 8,
     "ineffyble": 9,
@@ -109,7 +109,7 @@
     "joannechester": 44,
     "sunilpawar": 47,
     "twomice": 47,
-    "yashodha": 73,
+    "yashodha": 74,
     "mukeshcompucorp": 49,
     "saurabhbatra96": 51,
     "aditya-nambiar": 51,
@@ -123,8 +123,8 @@
     "priyankakaran26": 131,
     "jmcclelland": 137,
     "MegaphoneJon": 141,
-    "mlutfy": 202,
-    "lcdservices": 169,
+    "mlutfy": 203,
+    "lcdservices": 170,
     "atif-shaikh": 172,
     "JKingsnorth": 188,
     "mattwire": 201,
@@ -137,10 +137,10 @@
     "seamuslee001": 695,
     "kurund": 2612,
     "jitendrapurohit": 793,
-    "monishdeb": 2043,
+    "monishdeb": 2044,
     "totten": 3214,
-    "colemanw": 4808,
-    "eileenmcnaughton": 5278,
+    "colemanw": 4810,
+    "eileenmcnaughton": 5286,
     "elinw": 8,
     "reneolivo": 8,
     "bsilvern": 7,
@@ -259,7 +259,7 @@
     "chanunc": 2,
     "JO0st": 2,
     "lemacarl": 2,
-    "mountev": 2,
+    "mountev": 1,
     "thomst": 2,
     "ajdavis": 1,
     "bhahumanists": 1,
@@ -328,23 +328,26 @@
     "northwind2": 1,
     "nishant-bhorodia": 1,
     "invalid-email-address": 1,
-    "selwyntcy": 3
+    "selwyntcy": 3,
+    "kewljuice": 2,
+    "calbasi": 1,
+    "chriscant": 1
   },
   "languages": {
     "PHP": {
-      "bytes": 27044350,
+      "bytes": 27042796,
       "color": "#4F5D95"
     },
     "Smarty": {
-      "bytes": 6402142,
+      "bytes": 6401593,
       "color": "#ccc"
     },
     "JavaScript": {
-      "bytes": 651279,
+      "bytes": 651362,
       "color": "#f1e05a"
     },
     "CSS": {
-      "bytes": 133155,
+      "bytes": 133223,
       "color": "#563d7c"
     },
     "HTML": {
@@ -368,7 +371,7 @@
       "color": "#0298c3"
     }
   },
-  "fetched_at": "2018-08-25T09:16:20.900Z",
+  "fetched_at": "2018-08-27T06:16:20.638Z",
   "pulls_url": "https://api.github.com/repos/civicrm/civicrm-core/pulls{/number}",
   "pulls_authors": [
     "mattwire",

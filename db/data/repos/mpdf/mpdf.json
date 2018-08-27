@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/mpdf/mpdf/languages",
   "pulls_url": "https://api.github.com/repos/mpdf/mpdf/pulls{/number}",
   "created_at": "2015-03-03T11:44:47Z",
-  "updated_at": "2018-08-24T18:58:37Z",
-  "pushed_at": "2018-08-23T21:41:40Z",
+  "updated_at": "2018-08-27T03:33:11Z",
+  "pushed_at": "2018-08-26T11:51:14Z",
   "homepage": "https://mpdf.github.io",
-  "size": 86566,
-  "stargazers_count": 1448,
+  "size": 86568,
+  "stargazers_count": 1449,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -85,7 +85,8 @@
     "Dasc3er": 5,
     "danielhjames": 5,
     "machour": 126,
-    "finwe": 292
+    "finwe": 292,
+    "another-one-studio": 1
   },
   "pulls_authors": [
     "scm6079",
@@ -185,11 +186,12 @@
     "ram4nd",
     "Gudabu",
     "SilverFire",
-    "josephzidell"
+    "josephzidell",
+    "Zaporozhec7"
   ],
   "languages": {
     "PHP": {
-      "bytes": 3789865,
+      "bytes": 3789870,
       "color": "#4F5D95"
     },
     "CSS": {
@@ -197,5 +199,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-08-24T22:59:25.466Z"
+  "fetched_at": "2018-08-27T06:19:01.025Z"
 }

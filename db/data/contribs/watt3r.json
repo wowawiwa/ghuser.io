@@ -32,11 +32,11 @@
       "name": "turtlecoin-docs",
       "stargazers_count": 19,
       "popularity": 2.2577174475727126,
-      "percentage": 0.3246753246753247,
-      "maturity": 3.762233893045995,
-      "total_commits_count": 616,
+      "percentage": 0.32362459546925565,
+      "maturity": 3.7637389882352013,
+      "total_commits_count": 618,
       "activity": 5,
-      "total_score": 19.392913397701186,
+      "total_score": 19.395615195623638,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -45,11 +45,11 @@
       "name": "turtleturtle.org",
       "stargazers_count": 1,
       "popularity": 0,
-      "percentage": 6.756756756756757,
-      "maturity": 2.5344856158942024,
-      "total_commits_count": 74,
+      "percentage": 6.578947368421052,
+      "maturity": 2.559238720343991,
+      "total_commits_count": 76,
       "activity": 5,
-      "total_score": 10.068971231788405,
+      "total_score": 10.118477440687982,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -78,9 +78,23 @@
       "total_score": 7.061832760887245,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
+    },
+    "ForkMaps/cryptonote": {
+      "full_name": "ForkMaps/cryptonote",
+      "name": "cryptonote",
+      "stargazers_count": 4,
+      "popularity": 1.49139952161816,
+      "percentage": 0,
+      "maturity": 3.1979114006233167,
+      "total_commits_count": 197,
+      "activity": 5,
+      "total_score": 15.870021366101113,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
     }
   },
   "organizations": [
-    "turtlecoin"
+    "turtlecoin",
+    "ForkMaps"
   ]
 }

@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/owenlejeune/AirHockey/languages",
   "pulls_url": "https://api.github.com/repos/owenlejeune/AirHockey/pulls{/number}",
   "created_at": "2018-03-07T22:18:09Z",
-  "updated_at": "2018-08-18T02:00:50Z",
-  "pushed_at": "2018-04-28T19:27:41Z",
+  "updated_at": "2018-08-26T16:23:41Z",
+  "pushed_at": "2018-08-26T16:23:39Z",
   "homepage": "",
-  "size": 51503,
+  "size": 51397,
   "stargazers_count": 1,
   "language": "JavaScript",
   "mirror_url": null,
@@ -22,7 +22,7 @@
   "license": null,
   "default_branch": "master",
   "contributors": {
-    "owenlejeune": 22
+    "owenlejeune": 25
   },
   "pulls_authors": [],
   "languages": {
@@ -39,5 +39,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-08-18T09:21:27.851Z"
+  "fetched_at": "2018-08-27T06:20:20.270Z"
 }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/tox-dev/tox/languages",
   "pulls_url": "https://api.github.com/repos/tox-dev/tox/pulls{/number}",
   "created_at": "2016-09-17T16:54:22Z",
-  "updated_at": "2018-08-26T01:19:37Z",
-  "pushed_at": "2018-08-19T21:38:13Z",
+  "updated_at": "2018-08-27T03:06:07Z",
+  "pushed_at": "2018-08-27T00:23:20Z",
   "homepage": "https://tox.readthedocs.io",
-  "size": 9653,
-  "stargazers_count": 592,
+  "size": 9652,
+  "stargazers_count": 593,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -143,7 +143,7 @@
     "RonnyPfannschmidt": 27,
     "Suor": 15,
     "jurko-gospodnetic": 20,
-    "asottile": 36,
+    "asottile": 37,
     "msabramo": 50,
     "gaborbernat": 68,
     "obestwalter": 207,
@@ -178,7 +178,8 @@
     "wfscheper": 1,
     "zsimic": 1,
     "pierreluctg": 1,
-    "uellue": 1
+    "uellue": 1,
+    "dsaw": 1
   },
   "pulls_authors": [
     "uellue",
@@ -254,11 +255,12 @@
     "RonnyPfannschmidt",
     "agronholm",
     "jelford",
-    "jezdez"
+    "jezdez",
+    "dsaw"
   ],
   "languages": {
     "Python": {
-      "bytes": 332990,
+      "bytes": 332953,
       "color": "#3572A5"
     },
     "HTML": {
@@ -266,5 +268,5 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-08-26T05:50:52.551Z"
+  "fetched_at": "2018-08-27T06:19:00.789Z"
 }
