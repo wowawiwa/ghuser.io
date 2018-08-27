@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/vuejs/vue-router/languages",
   "pulls_url": "https://api.github.com/repos/vuejs/vue-router/pulls{/number}",
   "created_at": "2013-12-11T19:37:46Z",
-  "updated_at": "2018-08-27T06:13:28Z",
-  "pushed_at": "2018-08-21T14:19:38Z",
+  "updated_at": "2018-08-27T18:50:17Z",
+  "pushed_at": "2018-08-27T06:17:34Z",
   "homepage": "http://router.vuejs.org/",
   "size": 7619,
-  "stargazers_count": 11023,
+  "stargazers_count": 11028,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -521,7 +521,8 @@
     "jobedom",
     "kacpersaw",
     "holic",
-    "crswll"
+    "crswll",
+    "xlfsummer"
   ],
   "languages": {
     "JavaScript": {
@@ -537,5 +538,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-27T06:16:09.292Z"
+  "fetched_at": "2018-08-27T19:16:14.459Z"
 }

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/reactjs/reactjs.org",
   "languages_url": "https://api.github.com/repos/reactjs/reactjs.org/languages",
   "created_at": "2017-10-06T03:16:04Z",
-  "updated_at": "2018-08-26T17:39:28Z",
-  "pushed_at": "2018-08-25T20:31:55Z",
+  "updated_at": "2018-08-27T18:05:13Z",
+  "pushed_at": "2018-08-27T18:09:00Z",
   "homepage": "https://reactjs.org/",
   "size": 66949,
-  "stargazers_count": 2190,
+  "stargazers_count": 2193,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -476,7 +476,8 @@
     "dminkovsky": 1,
     "nateq314": 2,
     "dandv": 2,
-    "swarnava": 2
+    "swarnava": 2,
+    "ashermcoa": 1
   },
   "languages": {
     "JavaScript": {
@@ -492,7 +493,7 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-08-27T06:21:06.053Z",
+  "fetched_at": "2018-08-27T19:22:29.876Z",
   "pulls_url": "https://api.github.com/repos/reactjs/reactjs.org/pulls{/number}",
   "pulls_authors": [
     "manugb",
@@ -978,6 +979,8 @@
     "alexzherdev",
     "abenhamdine",
     "franklinyu",
-    "DZuz14"
+    "DZuz14",
+    "seetd",
+    "adeelibr"
   ]
 }

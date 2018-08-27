@@ -10,8 +10,8 @@
   "url": "https://api.github.com/repos/openwisp/openwisp2-docs",
   "languages_url": "https://api.github.com/repos/openwisp/openwisp2-docs/languages",
   "created_at": "2017-03-31T10:40:41Z",
-  "updated_at": "2018-08-01T14:23:58Z",
-  "pushed_at": "2018-08-01T14:23:56Z",
+  "updated_at": "2018-08-27T16:00:55Z",
+  "pushed_at": "2018-08-27T16:00:54Z",
   "homepage": "http://openwisp.io/docs/",
   "size": 1087,
   "stargazers_count": 13,
@@ -55,7 +55,7 @@
     "BrainBuzzer": 4,
     "xamfy": 12,
     "HargovindArora": 14,
-    "nemesisdesign": 36
+    "nemesisdesign": 37
   },
   "languages": {
     "Python": {
@@ -79,7 +79,7 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-08-01T20:16:09.053Z",
+  "fetched_at": "2018-08-27T19:21:13.594Z",
   "pulls_url": "https://api.github.com/repos/openwisp/openwisp2-docs/pulls{/number}",
   "pulls_authors": [
     "HargovindArora",

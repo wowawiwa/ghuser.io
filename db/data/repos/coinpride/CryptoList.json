@@ -40,7 +40,7 @@
     "sharkspeed": 3,
     "cherrywins": 3,
     "coinpride": 44,
-    "alexanderisora": 105,
+    "alexanderisora": 107,
     "vince-stark": 1
   },
   "name": "CryptoList",
@@ -53,18 +53,18 @@
   "url": "https://api.github.com/repos/coinpride/CryptoList",
   "languages_url": "https://api.github.com/repos/coinpride/CryptoList/languages",
   "created_at": "2017-09-07T15:38:09Z",
-  "updated_at": "2018-08-26T20:41:34Z",
-  "pushed_at": "2018-08-23T07:24:33Z",
+  "updated_at": "2018-08-27T14:45:54Z",
+  "pushed_at": "2018-08-27T08:02:01Z",
   "homepage": "",
-  "size": 1394,
-  "stargazers_count": 2555,
+  "size": 1505,
+  "stargazers_count": 2557,
   "language": null,
   "mirror_url": null,
   "archived": false,
   "license": null,
   "default_branch": "master",
   "languages": {},
-  "fetched_at": "2018-08-27T06:17:08.468Z",
+  "fetched_at": "2018-08-27T19:17:18.901Z",
   "pulls_url": "https://api.github.com/repos/coinpride/CryptoList/pulls{/number}",
   "pulls_authors": [
     "ErikThiart",
@@ -193,6 +193,7 @@
     "cherrywins",
     "stemberamichal",
     "lovincyrus",
-    "d-pike"
+    "d-pike",
+    "alexrich74"
   ]
 }

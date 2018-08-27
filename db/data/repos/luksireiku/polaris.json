@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/luksireiku/polaris/languages",
   "pulls_url": "https://api.github.com/repos/luksireiku/polaris/pulls{/number}",
   "created_at": "2015-09-28T22:41:18Z",
-  "updated_at": "2018-08-20T11:53:28Z",
-  "pushed_at": "2018-08-20T11:53:26Z",
+  "updated_at": "2018-08-27T10:03:16Z",
+  "pushed_at": "2018-08-27T10:03:14Z",
   "homepage": "https://telegram.me/PolarisChannel",
-  "size": 742,
+  "size": 763,
   "stargazers_count": 19,
   "language": "Python",
   "mirror_url": null,
@@ -31,7 +31,7 @@
     "TiagoDanin": 1,
     "JuanPotato": 1,
     "i32ropie": 3,
-    "luksireiku": 217
+    "luksireiku": 221
   },
   "pulls_authors": [
     "TiagoDanin",
@@ -40,7 +40,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 166016,
+      "bytes": 166618,
       "color": "#3572A5"
     },
     "Shell": {
@@ -48,5 +48,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-20T12:20:17.628Z"
+  "fetched_at": "2018-08-27T19:23:05.778Z"
 }

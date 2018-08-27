@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/WeblateOrg/weblate/languages",
   "pulls_url": "https://api.github.com/repos/WeblateOrg/weblate/pulls{/number}",
   "created_at": "2012-02-27T09:33:29Z",
-  "updated_at": "2018-08-27T06:18:50Z",
-  "pushed_at": "2018-08-27T06:18:48Z",
+  "updated_at": "2018-08-27T18:48:29Z",
+  "pushed_at": "2018-08-27T18:48:27Z",
   "homepage": "https://weblate.org/",
-  "size": 161292,
-  "stargazers_count": 1116,
+  "size": 161505,
+  "stargazers_count": 1118,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -65,7 +65,7 @@
     "madmuffin1": 9,
     "stefanor": 8,
     "Freso": 9,
-    "weblate": 1450,
+    "weblate": 1453,
     "Xuacu": 10,
     "ptrsk": 10,
     "mv-santos": 10,
@@ -119,10 +119,10 @@
     "bamstam": 43,
     "slsimic": 47,
     "bovirus": 56,
-    "scootergrisen": 62,
+    "scootergrisen": 65,
     "domenk": 67,
     "haaninjo": 66,
-    "p-bo": 67,
+    "p-bo": 68,
     "zerng07": 72,
     "unomano": 70,
     "tuharju": 77,
@@ -131,8 +131,8 @@
     "f2404": 103,
     "lyubomirv": 116,
     "belphegor-belbel": 136,
-    "yarons": 139,
-    "elchevive": 149,
+    "yarons": 143,
+    "elchevive": 153,
     "comradekingu": 169,
     "monolifed": 163,
     "andriykopanytsia": 174,
@@ -147,7 +147,7 @@
     "ruleant": 502,
     "BouRock": 760,
     "franconian": 1120,
-    "nijel": 15703,
+    "nijel": 15742,
     "lukakama": 12,
     "pjcaldeira": 7,
     "glensc": 8,
@@ -508,15 +508,15 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 2451309,
+      "bytes": 2451511,
       "color": "#3572A5"
     },
     "JavaScript": {
-      "bytes": 311885,
+      "bytes": 312345,
       "color": "#f1e05a"
     },
     "HTML": {
-      "bytes": 278930,
+      "bytes": 278215,
       "color": "#e34c26"
     },
     "CSS": {
@@ -540,5 +540,5 @@
       "color": "#4F5D95"
     }
   },
-  "fetched_at": "2018-08-27T06:18:58.830Z"
+  "fetched_at": "2018-08-27T19:19:32.411Z"
 }

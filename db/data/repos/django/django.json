@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/django/django/languages",
   "pulls_url": "https://api.github.com/repos/django/django/pulls{/number}",
   "created_at": "2012-04-28T02:47:18Z",
-  "updated_at": "2018-08-27T06:11:24Z",
-  "pushed_at": "2018-08-27T04:41:55Z",
+  "updated_at": "2018-08-27T16:40:40Z",
+  "pushed_at": "2018-08-27T14:47:10Z",
   "homepage": "https://www.djangoproject.com/",
-  "size": 179761,
-  "stargazers_count": 36014,
+  "size": 180954,
+  "stargazers_count": 36026,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -148,7 +148,7 @@
     "freakboy3742": 1740,
     "malcolmt": 1872,
     "adrianholovaty": 2802,
-    "timgraham": 3235,
+    "timgraham": 3236,
     "dstufft": 20,
     "dbrgn": 12,
     "inglesp": 11,
@@ -3291,7 +3291,8 @@
     "digismack",
     "sjtrny",
     "ezaquarii",
-    "darvid7"
+    "darvid7",
+    "FJLendinez"
   ],
   "languages": {
     "Python": {
@@ -3323,5 +3324,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-27T06:19:10.688Z"
+  "fetched_at": "2018-08-27T19:19:44.939Z"
 }

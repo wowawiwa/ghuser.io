@@ -82,13 +82,13 @@
     "ForkMaps/cryptonote": {
       "full_name": "ForkMaps/cryptonote",
       "name": "cryptonote",
-      "stargazers_count": 4,
-      "popularity": 1.49139952161816,
-      "percentage": 0,
-      "maturity": 3.1979114006233167,
-      "total_commits_count": 197,
+      "stargazers_count": 5,
+      "popularity": 1.6128219920330789,
+      "percentage": 0.5,
+      "maturity": 3.2061265681714963,
+      "total_commits_count": 200,
       "activity": 5,
-      "total_score": 15.870021366101113,
+      "total_score": 16.35555254192438,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

@@ -21,7 +21,7 @@
     "jalliot": 6,
     "mbrodala": 7,
     "balbuf": 7,
-    "pierredup": 8,
+    "pierredup": 9,
     "marvil07": 7,
     "szeber": 6,
     "roshangautam": 7,
@@ -92,15 +92,15 @@
     "everzet": 40,
     "digitalkaoz": 55,
     "simensen": 54,
-    "stof": 55,
+    "stof": 57,
     "cs278": 56,
     "hason": 59,
     "till": 81,
     "curry684": 90,
     "igorw": 117,
     "alcohol": 292,
-    "naderman": 525,
-    "Seldaek": 4274,
+    "naderman": 526,
+    "Seldaek": 4277,
     "ntoniazzi": 13,
     "maximcherny": 7,
     "msiebeneicher": 7,
@@ -426,11 +426,11 @@
   "url": "https://api.github.com/repos/composer/composer",
   "languages_url": "https://api.github.com/repos/composer/composer/languages",
   "created_at": "2011-06-08T08:53:00Z",
-  "updated_at": "2018-08-27T05:40:47Z",
-  "pushed_at": "2018-08-25T16:50:27Z",
+  "updated_at": "2018-08-27T17:39:14Z",
+  "pushed_at": "2018-08-27T15:36:13Z",
   "homepage": "https://getcomposer.org/",
-  "size": 12949,
-  "stargazers_count": 15822,
+  "size": 12956,
+  "stargazers_count": 15833,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -464,7 +464,7 @@
   },
   "languages": {
     "PHP": {
-      "bytes": 5405355,
+      "bytes": 5406091,
       "color": "#4F5D95"
     },
     "Hack": {
@@ -472,7 +472,7 @@
       "color": "#878787"
     }
   },
-  "fetched_at": "2018-08-27T06:17:04.360Z",
+  "fetched_at": "2018-08-27T19:17:14.977Z",
   "pulls_url": "https://api.github.com/repos/composer/composer/pulls{/number}",
   "pulls_authors": [
     "shalvah",

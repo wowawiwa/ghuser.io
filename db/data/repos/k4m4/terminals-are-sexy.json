@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/k4m4/terminals-are-sexy",
   "languages_url": "https://api.github.com/repos/k4m4/terminals-are-sexy/languages",
   "created_at": "2017-02-01T14:23:25Z",
-  "updated_at": "2018-08-26T22:33:59Z",
-  "pushed_at": "2018-08-20T18:59:04Z",
+  "updated_at": "2018-08-27T12:13:44Z",
+  "pushed_at": "2018-08-27T17:50:22Z",
   "homepage": "https://terminalsare.sexy/",
   "size": 721,
-  "stargazers_count": 6625,
+  "stargazers_count": 6626,
   "language": "Shell",
   "mirror_url": null,
   "archived": false,
@@ -104,7 +104,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-27T06:15:49.008Z",
+  "fetched_at": "2018-08-27T19:15:47.960Z",
   "pulls_url": "https://api.github.com/repos/k4m4/terminals-are-sexy/pulls{/number}",
   "pulls_authors": [
     "botvinick",
@@ -215,6 +215,7 @@
     "xdavidhu",
     "SentinelWarren",
     "astefanutti",
-    "botv"
+    "botv",
+    "sne11ius"
   ]
 }

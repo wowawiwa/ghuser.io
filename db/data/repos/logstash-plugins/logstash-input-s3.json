@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/logstash-plugins/logstash-input-s3",
   "languages_url": "https://api.github.com/repos/logstash-plugins/logstash-input-s3/languages",
   "created_at": "2014-10-16T17:03:36Z",
-  "updated_at": "2018-07-27T12:04:54Z",
-  "pushed_at": "2018-07-20T15:25:11Z",
+  "updated_at": "2018-08-27T18:23:29Z",
+  "pushed_at": "2018-08-27T18:27:11Z",
   "homepage": null,
-  "size": 222,
+  "size": 225,
   "stargazers_count": 36,
   "language": "Ruby",
   "mirror_url": null,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "Ruby": {
-      "bytes": 36871,
+      "bytes": 39157,
       "color": "#701516"
     },
     "Shell": {
@@ -75,7 +75,7 @@
     "DanielRedOak": 2,
     "suyograo": 2,
     "electrical": 2,
-    "yaauie": 3,
+    "yaauie": 7,
     "torrancew": 3,
     "robbavey": 7,
     "jordansissel": 6,
@@ -84,7 +84,7 @@
     "nephel": 1,
     "brandonwestcott": 1
   },
-  "fetched_at": "2018-07-27T17:48:38.221Z",
+  "fetched_at": "2018-08-27T19:19:55.963Z",
   "pulls_url": "https://api.github.com/repos/logstash-plugins/logstash-input-s3/pulls{/number}",
   "pulls_authors": [
     "robbavey",
@@ -132,6 +132,7 @@
     "talevy",
     "roman-mazur",
     "alexlovelltroy",
-    "kain64"
+    "kain64",
+    "pranspach"
   ]
 }

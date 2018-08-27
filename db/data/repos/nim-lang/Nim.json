@@ -4,7 +4,7 @@
     "6502": 1,
     "jovial": 6,
     "Vindaar": 8,
-    "hlaaftana": 9,
+    "hlaaftana": 10,
     "kaushalmodi": 9,
     "loloiccl": 7,
     "enthus1ast": 7,
@@ -101,7 +101,7 @@
     "def-": 334,
     "zah": 533,
     "dom96": 1329,
-    "Araq": 6572,
+    "Araq": 6579,
     "Jeff-Ciesielski": 7,
     "petermora": 6,
     "Veladus": 6,
@@ -365,11 +365,11 @@
   "url": "https://api.github.com/repos/nim-lang/Nim",
   "languages_url": "https://api.github.com/repos/nim-lang/Nim/languages",
   "created_at": "2010-08-16T20:38:58Z",
-  "updated_at": "2018-08-26T20:48:55Z",
-  "pushed_at": "2018-08-27T02:23:58Z",
+  "updated_at": "2018-08-27T18:38:15Z",
+  "pushed_at": "2018-08-27T15:07:22Z",
   "homepage": "https://nim-lang.org/",
-  "size": 70621,
-  "stargazers_count": 5378,
+  "size": 70629,
+  "stargazers_count": 5380,
   "language": "Nim",
   "mirror_url": null,
   "archived": false,
@@ -403,7 +403,7 @@
   },
   "languages": {
     "Nim": {
-      "bytes": 8343777,
+      "bytes": 8349380,
       "color": "#37775b"
     },
     "C": {
@@ -451,7 +451,7 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-27T06:17:10.474Z",
+  "fetched_at": "2018-08-27T19:17:21.946Z",
   "pulls_url": "https://api.github.com/repos/nim-lang/Nim/pulls{/number}",
   "pulls_authors": [
     "michael72",

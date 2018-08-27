@@ -72,7 +72,7 @@
     "inosik": 12,
     "Krzysztof-Cieslak": 12,
     "myty": 12,
-    "h404bi": 19,
+    "h404bi": 20,
     "excitoon": 13,
     "pcrama": 13,
     "matthewjberger": 13,
@@ -100,7 +100,7 @@
     "rasa": 143,
     "deevus": 202,
     "lukesampson": 1426,
-    "r15ch13": 3498,
+    "r15ch13": 3505,
     "Mika-": 4,
     "masaeedu": 3,
     "quincunx": 3,
@@ -290,10 +290,10 @@
   "url": "https://api.github.com/repos/lukesampson/scoop",
   "languages_url": "https://api.github.com/repos/lukesampson/scoop/languages",
   "created_at": "2013-05-11T03:52:15Z",
-  "updated_at": "2018-08-27T03:22:04Z",
-  "pushed_at": "2018-08-26T23:00:30Z",
+  "updated_at": "2018-08-27T19:00:36Z",
+  "pushed_at": "2018-08-27T19:00:30Z",
   "homepage": "https://scoop.sh",
-  "size": 6507,
+  "size": 6452,
   "stargazers_count": 4679,
   "language": "PowerShell",
   "mirror_url": null,
@@ -308,7 +308,7 @@
   "default_branch": "master",
   "languages": {
     "PowerShell": {
-      "bytes": 233424,
+      "bytes": 233869,
       "color": "#012456"
     },
     "C#": {
@@ -316,7 +316,7 @@
       "color": "#178600"
     }
   },
-  "fetched_at": "2018-08-27T06:17:02.590Z",
+  "fetched_at": "2018-08-27T19:17:13.312Z",
   "pulls_url": "https://api.github.com/repos/lukesampson/scoop/pulls{/number}",
   "pulls_authors": [
     "leonyu",
