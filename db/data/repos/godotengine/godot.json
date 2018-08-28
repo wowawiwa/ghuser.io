@@ -69,7 +69,7 @@
     "touilleMan": 50,
     "hurikhan": 66,
     "leezh": 56,
-    "mhilbrunner": 281,
+    "mhilbrunner": 283,
     "guilhermefelipecgs": 65,
     "MarianoGnu": 83,
     "sanikoyes": 68,
@@ -89,8 +89,8 @@
     "marynate": 118,
     "karroffel": 291,
     "bojidar-bg": 130,
-    "eska014": 159,
-    "Faless": 171,
+    "eska014": 161,
+    "Faless": 172,
     "Paulb23": 171,
     "djrm": 169,
     "vnen": 277,
@@ -99,7 +99,7 @@
     "Hinsbart": 303,
     "neikeq": 370,
     "volzhs": 299,
-    "akien-mga": 4924,
+    "akien-mga": 4931,
     "reduz": 2861,
     "cbscribe": 39,
     "Spooner": 16,
@@ -108,7 +108,7 @@
     "KidRigger": 9,
     "cart": 9,
     "capnm": 9,
-    "dragmz": 25,
+    "dragmz": 26,
     "QuLogic": 8,
     "MattUV": 8,
     "ricpelo": 8,
@@ -157,7 +157,7 @@
     "empyreanx": 5,
     "fire": 14,
     "mateka": 5,
-    "romlok": 5,
+    "romlok": 6,
     "Valentactive": 5,
     "dumitru-stama": 6,
     "antonyjones67": 5,
@@ -426,7 +426,8 @@
     "exts": 2,
     "rfht": 2,
     "SneakyMax": 1,
-    "BlackCatter": 1
+    "BlackCatter": 1,
+    "tko": 2
   },
   "name": "godot",
   "full_name": "godotengine/godot",
@@ -438,11 +439,11 @@
   "url": "https://api.github.com/repos/godotengine/godot",
   "languages_url": "https://api.github.com/repos/godotengine/godot/languages",
   "created_at": "2014-01-04T16:05:36Z",
-  "updated_at": "2018-08-28T05:41:16Z",
-  "pushed_at": "2018-08-28T05:41:00Z",
+  "updated_at": "2018-08-28T15:43:10Z",
+  "pushed_at": "2018-08-28T15:09:47Z",
   "homepage": "https://godotengine.org",
-  "size": 260184,
-  "stargazers_count": 16364,
+  "size": 260263,
+  "stargazers_count": 16368,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -476,7 +477,7 @@
   },
   "languages": {
     "C++": {
-      "bytes": 21165836,
+      "bytes": 21165882,
       "color": "#f34b7d"
     },
     "Java": {
@@ -484,7 +485,7 @@
       "color": "#b07219"
     },
     "Python": {
-      "bytes": 337958,
+      "bytes": 338158,
       "color": "#3572A5"
     },
     "C#": {
@@ -520,7 +521,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-28T05:42:44.368Z",
+  "fetched_at": "2018-08-28T16:02:37.600Z",
   "pulls_url": "https://api.github.com/repos/godotengine/godot/pulls{/number}",
   "pulls_authors": [
     "Calinou",

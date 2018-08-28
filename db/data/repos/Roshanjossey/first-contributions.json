@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/Roshanjossey/first-contributions",
   "languages_url": "https://api.github.com/repos/Roshanjossey/first-contributions/languages",
   "created_at": "2016-09-20T14:35:09Z",
-  "updated_at": "2018-08-28T04:20:21Z",
-  "pushed_at": "2018-08-28T04:18:41Z",
+  "updated_at": "2018-08-28T16:04:19Z",
+  "pushed_at": "2018-08-28T15:42:21Z",
   "homepage": "https://roshanjossey.github.io/first-contributions/",
-  "size": 30883,
-  "stargazers_count": 2759,
+  "size": 30761,
+  "stargazers_count": 2762,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -109,7 +109,7 @@
     "acgrdumlu": 8,
     "podkovyrin-sergey": 9,
     "cloudstalker": 9,
-    "sara-02": 788,
+    "sara-02": 791,
     "yuzhoujr": 10,
     "nlin24": 13,
     "ekrempel": 11,
@@ -127,7 +127,7 @@
     "launganik": 28,
     "Ashleyt28": 34,
     "mippzon": 54,
-    "Roshanjossey": 7440,
+    "Roshanjossey": 7449,
     "invalid-email-address": 16,
     "rglc12": 8,
     "hrishi7": 4,
@@ -482,11 +482,12 @@
     "aklapatch": 2,
     "lauratmonteiro": 2,
     "AbdallahDev": 3,
-    "hiattzhao": 3
+    "hiattzhao": 3,
+    "realgs": 2
   },
   "languages": {
     "JavaScript": {
-      "bytes": 36488,
+      "bytes": 36393,
       "color": "#f1e05a"
     },
     "CSS": {
@@ -498,7 +499,7 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-08-28T05:44:07.888Z",
+  "fetched_at": "2018-08-28T16:04:40.384Z",
   "pulls_url": "https://api.github.com/repos/Roshanjossey/first-contributions/pulls{/number}",
   "pulls_authors": [
     "ShadrachJ",
@@ -6209,6 +6210,20 @@
     "Poliphria",
     "hiattzhao",
     "vjroby",
-    "vidyasrimani"
+    "vidyasrimani",
+    "chiral-carbon",
+    "fznsakib",
+    "PrinceSharzeel",
+    "abuuzayr",
+    "oblomovx",
+    "NAbdulla1",
+    "scwicker",
+    "mxch18",
+    "li-boxuan",
+    "savvysiddharth",
+    "devmrin",
+    "realgs",
+    "WRFitch",
+    "kvah"
   ]
 }

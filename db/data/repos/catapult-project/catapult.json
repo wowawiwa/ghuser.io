@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/catapult-project/catapult/languages",
   "pulls_url": "https://api.github.com/repos/catapult-project/catapult/pulls{/number}",
   "created_at": "2015-04-14T17:49:05Z",
-  "updated_at": "2018-08-28T03:23:12Z",
-  "pushed_at": "2018-08-27T23:02:28Z",
+  "updated_at": "2018-08-28T14:35:07Z",
+  "pushed_at": "2018-08-28T14:35:05Z",
   "homepage": null,
-  "size": 308107,
+  "size": 308151,
   "stargazers_count": 1003,
   "language": "HTML",
   "mirror_url": null,
@@ -120,7 +120,7 @@
     "bpastene": 43,
     "jessimb": 46,
     "skyostil": 50,
-    "ulan": 48,
+    "ulan": 49,
     "fmeawad": 52,
     "kenrussell": 57,
     "loloangela": 57,
@@ -258,7 +258,7 @@
   ],
   "languages": {
     "HTML": {
-      "bytes": 12209176,
+      "bytes": 12216827,
       "color": "#e34c26"
     },
     "Python": {
@@ -266,7 +266,7 @@
       "color": "#3572A5"
     },
     "JavaScript": {
-      "bytes": 626565,
+      "bytes": 631287,
       "color": "#f1e05a"
     },
     "Go": {
@@ -294,5 +294,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-28T05:41:48.863Z"
+  "fetched_at": "2018-08-28T16:01:05.792Z"
 }

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/facebook/react",
   "languages_url": "https://api.github.com/repos/facebook/react/languages",
   "created_at": "2013-05-24T16:15:54Z",
-  "updated_at": "2018-08-28T05:28:09Z",
-  "pushed_at": "2018-08-28T02:53:39Z",
+  "updated_at": "2018-08-28T16:01:34Z",
+  "pushed_at": "2018-08-28T15:15:52Z",
   "homepage": "https://reactjs.org",
-  "size": 137742,
-  "stargazers_count": 109758,
+  "size": 137754,
+  "stargazers_count": 109800,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -552,7 +552,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-28T05:42:40.243Z",
+  "fetched_at": "2018-08-28T16:02:31.200Z",
   "pulls_url": "https://api.github.com/repos/facebook/react/pulls{/number}",
   "pulls_authors": [
     "gaearon",

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/js-org/js.org",
   "languages_url": "https://api.github.com/repos/js-org/js.org/languages",
   "created_at": "2015-04-08T01:43:18Z",
-  "updated_at": "2018-08-28T02:06:29Z",
-  "pushed_at": "2018-08-28T01:56:24Z",
+  "updated_at": "2018-08-28T14:02:00Z",
+  "pushed_at": "2018-08-28T14:01:58Z",
   "homepage": "https://js.org",
-  "size": 2884,
-  "stargazers_count": 1854,
+  "size": 2989,
+  "stargazers_count": 1855,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -89,7 +89,7 @@
     "QingWei-Li": 4,
     "Bjornskjald": 4,
     "yourtion": 4,
-    "opensas": 4,
+    "opensas": 5,
     "sgratzl": 4,
     "xDrixxyz": 4,
     "herber": 4,
@@ -141,7 +141,7 @@
     "tannerlinsley": 15,
     "pakastin": 16,
     "egoist": 16,
-    "indus": 1885,
+    "indus": 1888,
     "ccrraaiigg": 3,
     "danieljuarezp": 3,
     "dhruvdutt": 3,
@@ -360,7 +360,7 @@
     "axelgreavette": 2,
     "chrisenytc": 2,
     "atomicptr": 2,
-    "wuz": 2,
+    "wuz": 1,
     "nxse": 1,
     "guycreate": 1,
     "iiilfaaa": 1,
@@ -504,15 +504,16 @@
     "bestony": 1,
     "arunkumarpalaniappan": 3,
     "rdstach": 3,
-    "omrilotan": 2
+    "omrilotan": 2,
+    "zachify": 2
   },
   "languages": {
     "JavaScript": {
-      "bytes": 84335,
+      "bytes": 84422,
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-28T05:42:18.006Z",
+  "fetched_at": "2018-08-28T16:01:56.487Z",
   "pulls_url": "https://api.github.com/repos/js-org/js.org/pulls{/number}",
   "pulls_authors": [
     "ChandZhang",

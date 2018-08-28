@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/nodejs/node",
   "languages_url": "https://api.github.com/repos/nodejs/node/languages",
   "created_at": "2014-11-26T19:57:11Z",
-  "updated_at": "2018-08-28T05:42:37Z",
-  "pushed_at": "2018-08-28T01:28:22Z",
+  "updated_at": "2018-08-28T15:45:54Z",
+  "pushed_at": "2018-08-28T15:46:52Z",
   "homepage": "https://nodejs.org",
-  "size": 403829,
-  "stargazers_count": 52715,
+  "size": 403964,
+  "stargazers_count": 52739,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -52,7 +52,7 @@
       "color": "#f1e05a"
     },
     "C++": {
-      "bytes": 2511795,
+      "bytes": 2513039,
       "color": "#f34b7d"
     },
     "Python": {
@@ -184,7 +184,7 @@
     "apapirovski": 193,
     "TooTallNate": 197,
     "joyeecheung": 231,
-    "targos": 281,
+    "targos": 282,
     "vsemozhetbyt": 280,
     "tjfontaine": 332,
     "BridgeAR": 349,
@@ -195,7 +195,7 @@
     "cjihrig": 391,
     "jasnell": 529,
     "piscisaureus": 598,
-    "addaleax": 672,
+    "addaleax": 673,
     "indutny": 755,
     "Trott": 1326,
     "isaacs": 1647,
@@ -226,7 +226,7 @@
     "tj": 15,
     "MoonBall": 13,
     "deanm": 14,
-    "gireeshpunathil": 14,
+    "gireeshpunathil": 15,
     "daynin": 14,
     "ujh": 14,
     "domenic": 13,
@@ -574,7 +574,7 @@
     "tlhunter": 3,
     "Maledong": 7
   },
-  "fetched_at": "2018-08-28T05:45:59.109Z",
+  "fetched_at": "2018-08-28T16:07:21.119Z",
   "pulls_url": "https://api.github.com/repos/nodejs/node/pulls{/number}",
   "pulls_authors": [
     "mmarchini",
@@ -2788,6 +2788,7 @@
     "ScottyVG",
     "tlbdk",
     "ralphtheninja",
-    "tsangint"
+    "tsangint",
+    "ymrdf"
   ]
 }

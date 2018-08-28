@@ -100,7 +100,7 @@
     "joshfriend": 122,
     "mislav": 213,
     "sstephenson": 214,
-    "yyuu": 540,
+    "yyuu": 541,
     "radar": 4,
     "Enucatl": 4,
     "jackmaney": 2,
@@ -198,7 +198,8 @@
     "rhymes": 2,
     "takeru": 1,
     "wmoxam": 1,
-    "woosley": 1
+    "woosley": 1,
+    "altendky": 1
   },
   "name": "pyenv",
   "full_name": "pyenv/pyenv",
@@ -210,11 +211,11 @@
   "url": "https://api.github.com/repos/pyenv/pyenv",
   "languages_url": "https://api.github.com/repos/pyenv/pyenv/languages",
   "created_at": "2012-08-31T06:57:52Z",
-  "updated_at": "2018-08-28T05:07:49Z",
-  "pushed_at": "2018-08-23T19:23:00Z",
+  "updated_at": "2018-08-28T15:50:27Z",
+  "pushed_at": "2018-08-28T14:33:22Z",
   "homepage": null,
-  "size": 3258,
-  "stargazers_count": 12298,
+  "size": 3250,
+  "stargazers_count": 12306,
   "language": "Shell",
   "mirror_url": null,
   "archived": false,
@@ -268,7 +269,7 @@
       "color": "#199f4b"
     }
   },
-  "fetched_at": "2018-08-28T05:42:48.762Z",
+  "fetched_at": "2018-08-28T16:02:45.330Z",
   "pulls_url": "https://api.github.com/repos/pyenv/pyenv/pulls{/number}",
   "pulls_authors": [
     "bdowling",
@@ -431,6 +432,7 @@
     "keitaoouchi",
     "f440",
     "draftcode",
-    "oza"
+    "oza",
+    "altendky"
   ]
 }

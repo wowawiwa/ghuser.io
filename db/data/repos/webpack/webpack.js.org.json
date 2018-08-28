@@ -475,7 +475,7 @@
     "aytee17": 1,
     "SevenOutman": 1,
     "afontcu": 1,
-    "debs-obrien": 2,
+    "debs-obrien": 16,
     "petetnt": 2,
     "lmcarreiro": 1,
     "MisterDev": 1,
@@ -504,11 +504,11 @@
   "url": "https://api.github.com/repos/webpack/webpack.js.org",
   "languages_url": "https://api.github.com/repos/webpack/webpack.js.org/languages",
   "created_at": "2016-06-24T13:22:52Z",
-  "updated_at": "2018-08-26T18:46:31Z",
-  "pushed_at": "2018-08-26T18:28:31Z",
+  "updated_at": "2018-08-28T10:07:47Z",
+  "pushed_at": "2018-08-28T13:24:08Z",
   "homepage": "https://webpack.js.org",
-  "size": 295203,
-  "stargazers_count": 1282,
+  "size": 296547,
+  "stargazers_count": 1284,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -558,7 +558,7 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-08-27T06:16:08.941Z",
+  "fetched_at": "2018-08-28T16:01:08.051Z",
   "pulls_url": "https://api.github.com/repos/webpack/webpack.js.org/pulls{/number}",
   "pulls_authors": [
     "HarshwardhanSingh",
@@ -1437,6 +1437,7 @@
     "jakoblind",
     "kushalmahajan",
     "budmc29",
-    "msheliga1"
+    "msheliga1",
+    "GregTrevellick"
   ]
 }

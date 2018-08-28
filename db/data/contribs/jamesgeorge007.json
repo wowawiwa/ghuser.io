@@ -82,7 +82,7 @@
     "daneden/animate.css": {
       "full_name": "daneden/animate.css",
       "name": "animate.css",
-      "stargazers_count": 53795,
+      "stargazers_count": 53812,
       "popularity": 5,
       "percentage": 2.6402640264026402,
       "maturity": 3.4218565080661945,
@@ -251,13 +251,13 @@
     "sqlmapproject/sqlmap": {
       "full_name": "sqlmapproject/sqlmap",
       "name": "sqlmap",
-      "stargazers_count": 12128,
+      "stargazers_count": 12134,
       "popularity": 5,
       "percentage": 0,
-      "maturity": 4.905536859565469,
-      "total_commits_count": 8053,
+      "maturity": 4.905699423327327,
+      "total_commits_count": 8056,
       "activity": 5,
-      "total_score": 29.81107371913094,
+      "total_score": 29.811398846654654,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -287,9 +287,9 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "jamesgeorge007/Personal-Website": {
-      "full_name": "jamesgeorge007/Personal-Website",
-      "name": "Personal-Website",
+    "jamesgeorge007/Personal-Webapp": {
+      "full_name": "jamesgeorge007/Personal-Webapp",
+      "name": "Personal-Webapp",
       "stargazers_count": 6,
       "popularity": 1.7076084983408428,
       "percentage": 100,
@@ -628,13 +628,13 @@
     "jamesgeorge007/Gender-Classifier": {
       "full_name": "jamesgeorge007/Gender-Classifier",
       "name": "Gender-Classifier",
-      "stargazers_count": 5,
-      "popularity": 1.6128219920330789,
+      "stargazers_count": 6,
+      "popularity": 1.7076084983408428,
       "percentage": 88.88888888888889,
       "maturity": 0,
       "total_commits_count": 9,
-      "activity": 1.6385107817427316,
-      "total_score": 25.114030888001988,
+      "activity": 1.4852699349037355,
+      "total_score": 26.340460299642665,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -862,13 +862,13 @@
     "hacktoberfest17/programming": {
       "full_name": "hacktoberfest17/programming",
       "name": "programming",
-      "stargazers_count": 245,
-      "popularity": 3.3876068520578055,
+      "stargazers_count": 244,
+      "popularity": 3.385824031418084,
       "percentage": 0,
       "maturity": 4.048660337301465,
       "total_commits_count": 1154,
-      "activity": 1.7479387161868867,
-      "total_score": 20.008079946963235,
+      "activity": 1.7319431409307917,
+      "total_score": 19.986735909787974,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -1111,11 +1111,11 @@
       "name": "ghuser.io",
       "stargazers_count": 45,
       "popularity": 2.64447758948869,
-      "percentage": 0.8968609865470852,
-      "maturity": 3.6103688813937804,
-      "total_commits_count": 446,
+      "percentage": 0.8888888888888888,
+      "maturity": 3.6146256653532007,
+      "total_commits_count": 450,
       "activity": 5,
-      "total_score": 20.462495272628992,
+      "total_score": 20.468268176180054,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

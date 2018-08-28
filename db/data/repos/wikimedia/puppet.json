@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/wikimedia/puppet/languages",
   "pulls_url": "https://api.github.com/repos/wikimedia/puppet/pulls{/number}",
   "created_at": "2013-02-04T18:20:32Z",
-  "updated_at": "2018-08-28T03:33:42Z",
-  "pushed_at": "2018-08-28T03:33:39Z",
+  "updated_at": "2018-08-28T15:42:17Z",
+  "pushed_at": "2018-08-28T15:42:13Z",
   "homepage": "https://wikitech.wikimedia.org/wiki/Puppet_coding",
-  "size": 243971,
-  "stargazers_count": 141,
+  "size": 245232,
+  "stargazers_count": 142,
   "language": "Puppet",
   "mirror_url": null,
   "archived": false,
@@ -88,7 +88,7 @@
     "aklapper": 67,
     "nemobis": 67,
     "addshore": 70,
-    "smalyshev": 73,
+    "smalyshev": 74,
     "valhallasw": 76,
     "crookedstorm": 102,
     "ebernhardson": 101,
@@ -103,21 +103,21 @@
     "AaronSchulz": 132,
     "JohnFLewis": 133,
     "nyurik": 136,
-    "aborrero": 161,
-    "kartikm": 158,
+    "aborrero": 163,
+    "kartikm": 159,
     "gwicke": 157,
     "reedy": 173,
     "eevans": 175,
     "tstarling": 203,
-    "Krinkle": 185,
+    "Krinkle": 186,
     "Krenair": 293,
-    "keithherron": 187,
+    "keithherron": 188,
     "catrope": 203,
     "d00rman": 249,
     "gehel": 268,
     "paladox": 265,
     "scfc": 311,
-    "volans-": 319,
+    "volans-": 322,
     "cmjohnson1": 449,
     "mat-mo": 443,
     "Cauren": 647,
@@ -126,14 +126,14 @@
     "ema": 606,
     "j6r33n": 778,
     "demon": 683,
-    "robhalsell": 1168,
+    "robhalsell": 1174,
     "elukey": 999,
     "chasemp": 1072,
     "ryan-lane": 1055,
-    "apergos": 1179,
+    "apergos": 1182,
     "jynus": 1106,
     "hashar": 1374,
-    "filippog": 1517,
+    "filippog": 1522,
     "paravoid": 1840,
     "atdt": 1958,
     "yuvipanda": 1814,
@@ -141,7 +141,7 @@
     "markbergsma": 3014,
     "lavagetto": 2255,
     "blblack": 2377,
-    "ottomata": 2867,
+    "ottomata": 2873,
     "arlolra": 6,
     "framawiki": 6,
     "jdforrester": 6,
@@ -176,7 +176,7 @@
     "mateusbs17": 3,
     "zonArt": 2,
     "siebrand": 2,
-    "thiemowmde": 2,
+    "thiemowmde": 3,
     "Tpt": 2,
     "umherirrender": 2,
     "RolfJordi": 2,
@@ -233,11 +233,11 @@
   ],
   "languages": {
     "Puppet": {
-      "bytes": 3576481,
+      "bytes": 3578078,
       "color": "#302B6D"
     },
     "HTML": {
-      "bytes": 2107478,
+      "bytes": 2107902,
       "color": "#e34c26"
     },
     "Python": {
@@ -253,7 +253,7 @@
       "color": "#199f4b"
     },
     "Shell": {
-      "bytes": 786818,
+      "bytes": 786693,
       "color": "#89e051"
     },
     "Perl": {
@@ -261,7 +261,7 @@
       "color": "#0298c3"
     },
     "Pascal": {
-      "bytes": 39376,
+      "bytes": 39499,
       "color": "#E3F171"
     },
     "PHP": {
@@ -313,5 +313,5 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-08-28T05:44:49.683Z"
+  "fetched_at": "2018-08-28T16:05:41.808Z"
 }

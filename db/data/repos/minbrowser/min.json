@@ -44,7 +44,8 @@
     "revolter": 11,
     "PalmerAL": 954,
     "slemony": 2,
-    "abrarShariar": 2
+    "abrarShariar": 2,
+    "tem44": 1
   },
   "name": "min",
   "full_name": "minbrowser/min",
@@ -56,11 +57,11 @@
   "url": "https://api.github.com/repos/minbrowser/min",
   "languages_url": "https://api.github.com/repos/minbrowser/min/languages",
   "created_at": "2015-10-31T21:59:49Z",
-  "updated_at": "2018-08-28T01:42:35Z",
-  "pushed_at": "2018-08-25T20:23:41Z",
+  "updated_at": "2018-08-28T11:03:40Z",
+  "pushed_at": "2018-08-28T09:50:31Z",
   "homepage": "https://minbrowser.github.io/min",
   "size": 147349,
-  "stargazers_count": 2552,
+  "stargazers_count": 2553,
   "language": "HTML",
   "mirror_url": null,
   "archived": false,
@@ -106,7 +107,7 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-08-28T05:42:53.944Z",
+  "fetched_at": "2018-08-28T16:02:53.552Z",
   "pulls_url": "https://api.github.com/repos/minbrowser/min/pulls{/number}",
   "pulls_authors": [
     "slemony",
@@ -168,6 +169,7 @@
     "glauber-sampaio",
     "PaulBGD",
     "Calinou",
-    "abrarShariar"
+    "abrarShariar",
+    "z-huang"
   ]
 }

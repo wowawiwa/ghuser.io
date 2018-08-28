@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/electron/electron/languages",
   "pulls_url": "https://api.github.com/repos/electron/electron/pulls{/number}",
   "created_at": "2013-04-12T01:47:36Z",
-  "updated_at": "2018-08-28T05:39:29Z",
-  "pushed_at": "2018-08-28T05:19:04Z",
+  "updated_at": "2018-08-28T16:08:31Z",
+  "pushed_at": "2018-08-28T16:06:55Z",
   "homepage": "https://electronjs.org",
-  "size": 41852,
-  "stargazers_count": 63859,
+  "size": 41882,
+  "stargazers_count": 63883,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -144,7 +144,7 @@
     "preco21": 347,
     "alexeykuzmin": 327,
     "codebytere": 413,
-    "MarshallOfSound": 429,
+    "MarshallOfSound": 430,
     "zeke": 593,
     "deepak1556": 693,
     "kevinsawicki": 2998,
@@ -1440,11 +1440,11 @@
   ],
   "languages": {
     "C++": {
-      "bytes": 2878492,
+      "bytes": 2883478,
       "color": "#f34b7d"
     },
     "JavaScript": {
-      "bytes": 983459,
+      "bytes": 984248,
       "color": "#f1e05a"
     },
     "Objective-C++": {
@@ -1484,5 +1484,5 @@
       "color": "#012456"
     }
   },
-  "fetched_at": "2018-08-28T05:46:59.704Z"
+  "fetched_at": "2018-08-28T16:08:39.580Z"
 }

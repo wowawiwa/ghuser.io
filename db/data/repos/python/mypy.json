@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/python/mypy/languages",
   "pulls_url": "https://api.github.com/repos/python/mypy/pulls{/number}",
   "created_at": "2012-12-07T13:30:23Z",
-  "updated_at": "2018-08-28T05:40:10Z",
-  "pushed_at": "2018-08-28T01:00:26Z",
+  "updated_at": "2018-08-28T15:47:38Z",
+  "pushed_at": "2018-08-28T15:47:33Z",
   "homepage": "http://www.mypy-lang.org/",
-  "size": 27725,
-  "stargazers_count": 4406,
+  "size": 27736,
+  "stargazers_count": 4412,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -141,7 +141,7 @@
     "ecprice": 68,
     "Michael0x2a": 82,
     "elazarg": 112,
-    "msullivan": 132,
+    "msullivan": 133,
     "ivuk": 147,
     "ddfisher": 166,
     "ilevkivskyi": 181,
@@ -501,7 +501,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 3108551,
+      "bytes": 3109676,
       "color": "#3572A5"
     },
     "PLSQL": {
@@ -525,5 +525,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-28T05:46:22.976Z"
+  "fetched_at": "2018-08-28T16:07:49.869Z"
 }

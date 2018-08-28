@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/muesli/beehive",
   "languages_url": "https://api.github.com/repos/muesli/beehive/languages",
   "created_at": "2014-06-23T20:46:31Z",
-  "updated_at": "2018-08-26T11:29:22Z",
+  "updated_at": "2018-08-28T14:40:39Z",
   "pushed_at": "2018-08-01T07:53:00Z",
   "homepage": "",
   "size": 6554,
-  "stargazers_count": 3178,
+  "stargazers_count": 3180,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -70,7 +70,7 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-27T06:18:01.301Z",
+  "fetched_at": "2018-08-28T16:04:06.076Z",
   "pulls_url": "https://api.github.com/repos/muesli/beehive/pulls{/number}",
   "pulls_authors": [
     "penguwin",

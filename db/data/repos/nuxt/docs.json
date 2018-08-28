@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/nuxt/docs/languages",
   "pulls_url": "https://api.github.com/repos/nuxt/docs/pulls{/number}",
   "created_at": "2016-11-21T16:41:29Z",
-  "updated_at": "2018-08-27T12:10:35Z",
-  "pushed_at": "2018-08-26T22:25:13Z",
+  "updated_at": "2018-08-28T07:19:41Z",
+  "pushed_at": "2018-08-28T10:14:54Z",
   "homepage": null,
-  "size": 2337,
+  "size": 2338,
   "stargazers_count": 207,
   "language": "JavaScript",
   "mirror_url": null,
@@ -300,7 +300,8 @@
     "Guito": 1,
     "fureweb-com": 1,
     "Ilshidur": 1,
-    "luckyG0429": 1
+    "luckyG0429": 1,
+    "willin": 1
   },
   "pulls_authors": [
     "clarkdo",
@@ -563,7 +564,10 @@
     "aintek4",
     "bactoria",
     "fureweb-com",
-    "qm3ster"
+    "qm3ster",
+    "ogontaro",
+    "gangsthub",
+    "willin"
   ],
   "languages": {
     "JavaScript": {
@@ -571,5 +575,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-27T19:16:14.067Z"
+  "fetched_at": "2018-08-28T16:01:07.930Z"
 }

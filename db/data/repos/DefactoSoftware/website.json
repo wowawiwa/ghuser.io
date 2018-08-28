@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/DefactoSoftware/website",
   "languages_url": "https://api.github.com/repos/DefactoSoftware/website/languages",
   "created_at": "2013-12-23T10:09:03Z",
-  "updated_at": "2018-08-27T12:28:02Z",
-  "pushed_at": "2018-08-27T14:57:15Z",
+  "updated_at": "2018-08-28T14:36:23Z",
+  "pushed_at": "2018-08-28T14:53:59Z",
   "homepage": "https://www.defacto.nl/",
-  "size": 157763,
+  "size": 162400,
   "stargazers_count": 10,
   "language": "HTML",
   "mirror_url": null,
@@ -53,7 +53,7 @@
     "IwannaDJ": 4,
     "jurre": 8,
     "GerwinV": 9,
-    "lennartdefacto": 13,
+    "lennartdefacto": 14,
     "SusanDefacto": 11,
     "mildaskl": 12,
     "ducpho": 12,
@@ -63,15 +63,15 @@
     "sdegeus": 71,
     "dkhgh": 145,
     "sn3p": 261,
-    "RonaldDijkstra": 835
+    "RonaldDijkstra": 838
   },
   "languages": {
     "HTML": {
-      "bytes": 266014,
+      "bytes": 266201,
       "color": "#e34c26"
     },
     "CSS": {
-      "bytes": 91431,
+      "bytes": 91282,
       "color": "#563d7c"
     },
     "Ruby": {
@@ -79,11 +79,11 @@
       "color": "#701516"
     },
     "JavaScript": {
-      "bytes": 12796,
+      "bytes": 12807,
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-27T19:19:50.146Z",
+  "fetched_at": "2018-08-28T16:05:49.744Z",
   "pulls_url": "https://api.github.com/repos/DefactoSoftware/website/pulls{/number}",
   "pulls_authors": [
     "fatboypunk",

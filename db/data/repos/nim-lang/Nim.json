@@ -82,7 +82,7 @@
     "zielmicha": 53,
     "krux02": 52,
     "endragor": 51,
-    "GULPF": 68,
+    "GULPF": 69,
     "fowlmouth": 59,
     "data-man": 62,
     "oderwat": 62,
@@ -100,8 +100,8 @@
     "gradha": 310,
     "def-": 334,
     "zah": 533,
-    "dom96": 1329,
-    "Araq": 6579,
+    "dom96": 1330,
+    "Araq": 6584,
     "Jeff-Ciesielski": 7,
     "petermora": 6,
     "Veladus": 6,
@@ -365,11 +365,11 @@
   "url": "https://api.github.com/repos/nim-lang/Nim",
   "languages_url": "https://api.github.com/repos/nim-lang/Nim/languages",
   "created_at": "2010-08-16T20:38:58Z",
-  "updated_at": "2018-08-28T01:13:59Z",
-  "pushed_at": "2018-08-28T04:45:00Z",
+  "updated_at": "2018-08-28T13:54:17Z",
+  "pushed_at": "2018-08-28T15:18:13Z",
   "homepage": "https://nim-lang.org/",
-  "size": 70629,
-  "stargazers_count": 5382,
+  "size": 70826,
+  "stargazers_count": 5385,
   "language": "Nim",
   "mirror_url": null,
   "archived": false,
@@ -403,7 +403,7 @@
   },
   "languages": {
     "Nim": {
-      "bytes": 8349380,
+      "bytes": 8351074,
       "color": "#37775b"
     },
     "C": {
@@ -451,7 +451,7 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-28T05:42:51.860Z",
+  "fetched_at": "2018-08-28T16:02:50.176Z",
   "pulls_url": "https://api.github.com/repos/nim-lang/Nim/pulls{/number}",
   "pulls_authors": [
     "michael72",

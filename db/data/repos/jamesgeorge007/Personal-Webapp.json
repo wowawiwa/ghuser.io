@@ -9,6 +9,7 @@
   "fork": false,
   "url": "https://api.github.com/repos/jamesgeorge007/Personal-Webapp",
   "languages_url": "https://api.github.com/repos/jamesgeorge007/Personal-Webapp/languages",
+  "pulls_url": "https://api.github.com/repos/jamesgeorge007/Personal-Webapp/pulls{/number}",
   "created_at": "2018-03-30T12:23:31Z",
   "updated_at": "2018-08-28T15:41:04Z",
   "pushed_at": "2018-08-22T06:43:23Z",
@@ -23,6 +24,9 @@
   "contributors": {
     "jamesgeorge007": 68
   },
+  "pulls_authors": [
+    "SamHez"
+  ],
   "languages": {
     "TypeScript": {
       "bytes": 10513,
@@ -37,9 +41,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-08-28T16:05:10.725Z",
-  "pulls_url": "https://api.github.com/repos/jamesgeorge007/Personal-Webapp/pulls{/number}",
-  "pulls_authors": [
-    "SamHez"
-  ]
+  "fetched_at": "2018-08-28T16:05:11.533Z"
 }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/zzzeek/sqlalchemy/languages",
   "pulls_url": "https://api.github.com/repos/zzzeek/sqlalchemy/pulls{/number}",
   "created_at": "2013-05-25T20:05:42Z",
-  "updated_at": "2018-08-27T20:26:32Z",
-  "pushed_at": "2018-08-27T20:26:30Z",
+  "updated_at": "2018-08-28T13:31:16Z",
+  "pushed_at": "2018-08-28T13:31:12Z",
   "homepage": "http://sqlalchemy.org/develop.html",
-  "size": 52749,
-  "stargazers_count": 2981,
+  "size": 52758,
+  "stargazers_count": 2983,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -127,7 +127,7 @@
     "dianaclarke": 79,
     "empty": 195,
     "jek": 515,
-    "zzzeek": 9517,
+    "zzzeek": 9519,
     "invalid-email-address": 14,
     "UnquietCode": 2,
     "eloyfelix": 2,
@@ -306,7 +306,9 @@
     "uralbash": 1,
     "vytotas": 1,
     "wodim": 1,
-    "merwok": 1
+    "merwok": 1,
+    "alessandrocucci": 1,
+    "hugovk": 1
   },
   "pulls_authors": [
     "TaeMinPark",
@@ -621,7 +623,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 10292289,
+      "bytes": 10294739,
       "color": "#3572A5"
     },
     "C": {
@@ -629,5 +631,5 @@
       "color": "#555555"
     }
   },
-  "fetched_at": "2018-08-28T05:44:46.685Z"
+  "fetched_at": "2018-08-28T16:05:38.195Z"
 }

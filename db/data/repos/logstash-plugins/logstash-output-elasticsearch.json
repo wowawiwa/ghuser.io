@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/logstash-plugins/logstash-output-elasticsearch",
   "languages_url": "https://api.github.com/repos/logstash-plugins/logstash-output-elasticsearch/languages",
   "created_at": "2014-10-20T16:56:37Z",
-  "updated_at": "2018-08-23T06:03:13Z",
+  "updated_at": "2018-08-28T07:14:09Z",
   "pushed_at": "2018-08-17T22:38:47Z",
   "homepage": "https://www.elastic.co/guide/en/logstash/current/plugins-outputs-elasticsearch.html",
   "size": 41793,
-  "stargazers_count": 132,
+  "stargazers_count": 133,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -109,7 +109,7 @@
     "andrewvc": 122,
     "karenzone": 1
   },
-  "fetched_at": "2018-08-23T10:11:27.194Z",
+  "fetched_at": "2018-08-28T16:06:03.977Z",
   "pulls_url": "https://api.github.com/repos/logstash-plugins/logstash-output-elasticsearch/pulls{/number}",
   "pulls_authors": [
     "smokris",
