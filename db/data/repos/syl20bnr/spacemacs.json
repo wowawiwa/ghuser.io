@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/syl20bnr/spacemacs/languages",
   "pulls_url": "https://api.github.com/repos/syl20bnr/spacemacs/pulls{/number}",
   "created_at": "2012-12-17T21:34:03Z",
-  "updated_at": "2018-08-27T18:38:17Z",
-  "pushed_at": "2018-08-27T06:09:24Z",
+  "updated_at": "2018-08-28T03:55:19Z",
+  "pushed_at": "2018-08-28T02:56:36Z",
   "homepage": "http://spacemacs.org",
   "size": 40584,
-  "stargazers_count": 15788,
+  "stargazers_count": 15789,
   "language": "Emacs Lisp",
   "mirror_url": null,
   "archived": false,
@@ -1550,7 +1550,8 @@
     "syl20bnr",
     "Olical",
     "bitdeli-chef",
-    "suonlight"
+    "suonlight",
+    "aeberspaecher"
   ],
   "languages": {
     "Emacs Lisp": {
@@ -1578,5 +1579,5 @@
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-08-27T19:17:41.186Z"
+  "fetched_at": "2018-08-28T05:43:08.158Z"
 }

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/gatsbyjs/gatsby",
   "languages_url": "https://api.github.com/repos/gatsbyjs/gatsby/languages",
   "created_at": "2015-05-21T22:43:05Z",
-  "updated_at": "2018-08-27T18:50:41Z",
-  "pushed_at": "2018-08-27T18:41:29Z",
+  "updated_at": "2018-08-28T04:38:43Z",
+  "pushed_at": "2018-08-28T02:59:42Z",
   "homepage": "https://www.gatsbyjs.org",
-  "size": 373474,
-  "stargazers_count": 24933,
+  "size": 373476,
+  "stargazers_count": 24950,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -130,7 +130,7 @@
     "docwhat": 14,
     "jlengstorf": 57,
     "tsriram": 21,
-    "Khaledgarbaya": 19,
+    "Khaledgarbaya": 20,
     "jbolda": 19,
     "nicholaswyoung": 19,
     "scottyeck": 21,
@@ -140,7 +140,7 @@
     "0x80": 29,
     "LeKoArts": 39,
     "sebastienfi": 50,
-    "calcsam": 86,
+    "calcsam": 90,
     "ryanditjia": 59,
     "jquense": 115,
     "fk": 176,
@@ -214,7 +214,7 @@
     "moonmeister": 2,
     "haniotis": 2,
     "alvis": 2,
-    "amberleyromo": 21,
+    "amberleyromo": 22,
     "ahfarmer": 2,
     "pixelsign": 2,
     "anaibol": 2,
@@ -1100,11 +1100,13 @@
     "ksigler7": 1,
     "Doocey": 1,
     "nyeong": 1,
-    "pczern": 2
+    "pczern": 2,
+    "ratson": 1,
+    "zuiidea": 1
   },
   "languages": {
     "JavaScript": {
-      "bytes": 1494543,
+      "bytes": 1494424,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -1124,7 +1126,7 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-27T19:16:42.426Z",
+  "fetched_at": "2018-08-28T05:42:17.140Z",
   "pulls_url": "https://api.github.com/repos/gatsbyjs/gatsby/pulls{/number}",
   "pulls_authors": [
     "shannonbux",
@@ -2313,6 +2315,9 @@
     "silvenon",
     "ratson",
     "LuisLoureiro",
-    "deammer"
+    "deammer",
+    "macklinu",
+    "ilyagelman",
+    "gregtillbrook"
   ]
 }

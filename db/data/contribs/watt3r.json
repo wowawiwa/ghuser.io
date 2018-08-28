@@ -84,11 +84,11 @@
       "name": "cryptonote",
       "stargazers_count": 5,
       "popularity": 1.6128219920330789,
-      "percentage": 0.5,
-      "maturity": 3.2061265681714963,
-      "total_commits_count": 200,
+      "percentage": 0.4975124378109453,
+      "maturity": 3.208830783389968,
+      "total_commits_count": 201,
       "activity": 5,
-      "total_score": 16.35555254192438,
+      "total_score": 16.360439413010663,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

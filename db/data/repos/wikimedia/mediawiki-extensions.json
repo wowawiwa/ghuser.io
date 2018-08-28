@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/wikimedia/mediawiki-extensions/languages",
   "pulls_url": "https://api.github.com/repos/wikimedia/mediawiki-extensions/pulls{/number}",
   "created_at": "2012-11-01T19:03:08Z",
-  "updated_at": "2018-08-27T19:11:42Z",
-  "pushed_at": "2018-08-27T19:11:27Z",
+  "updated_at": "2018-08-28T05:36:11Z",
+  "pushed_at": "2018-08-28T05:35:56Z",
   "homepage": "https://gerrit.wikimedia.org",
-  "size": 122315,
+  "size": 122924,
   "stargazers_count": 46,
   "language": "Python",
   "mirror_url": null,
@@ -42,7 +42,7 @@
     "site_admin": false
   },
   "contributors": {
-    "translatewiki": 110776,
+    "translatewiki": 110863,
     "legoktm": 4575,
     "umherirrender": 3820,
     "JeroenDeDauw": 2912,
@@ -65,7 +65,7 @@
     "tobijat": 766,
     "amire80": 718,
     "gwicke": 668,
-    "jdforrester": 670,
+    "jdforrester": 671,
     "ejegg": 643,
     "AaronSchulz": 605,
     "jrobson": 602,
@@ -125,7 +125,7 @@
     "Glaisher": 135,
     "nomoa": 135,
     "gi11es": 134,
-    "zoranzoki21": 159,
+    "zoranzoki21": 190,
     "rmoen": 123,
     "johl": 120,
     "soldag": 119,
@@ -148,7 +148,7 @@
     "DvogelHallowelt": 88,
     "bekh6ex": 85,
     "harej": 85,
-    "samwilson": 86,
+    "samwilson": 87,
     "yuvipanda": 78,
     "nischayn22": 77,
     "ljonka": 77,
@@ -175,7 +175,7 @@
     "polishdeveloper": 46,
     "BorderCloud": 46,
     "soulgalore": 45,
-    "Pchelolo": 46,
+    "Pchelolo": 47,
     "kemayo": 45,
     "ottomata": 41,
     "molly": 41,
@@ -326,5 +326,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-27T19:19:47.256Z"
+  "fetched_at": "2018-08-28T05:44:52.607Z"
 }

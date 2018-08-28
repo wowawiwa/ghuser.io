@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/kstrauser/pytest-fastest/languages",
   "pulls_url": "https://api.github.com/repos/kstrauser/pytest-fastest/pulls{/number}",
   "created_at": "2018-05-18T00:25:57Z",
-  "updated_at": "2018-07-10T14:57:48Z",
-  "pushed_at": "2018-06-20T08:09:24Z",
+  "updated_at": "2018-08-28T05:16:20Z",
+  "pushed_at": "2018-08-28T05:19:41Z",
   "homepage": "http://pytest-fastest.readthedocs.io/en/latest/",
-  "size": 68,
+  "size": 46,
   "stargazers_count": 5,
   "language": "Python",
   "mirror_url": null,
@@ -28,16 +28,21 @@
   },
   "default_branch": "dev",
   "contributors": {
-    "kstrauser": 30
+    "kstrauser": 36,
+    "jayvdb": 1
   },
   "pulls_authors": [
     "jayvdb"
   ],
   "languages": {
     "Python": {
-      "bytes": 13696,
+      "bytes": 13661,
       "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 131,
+      "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-13T13:13:40.598Z"
+  "fetched_at": "2018-08-28T05:44:32.280Z"
 }

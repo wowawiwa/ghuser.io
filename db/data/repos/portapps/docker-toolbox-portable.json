@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/portapps/docker-toolbox-portable",
   "languages_url": "https://api.github.com/repos/portapps/docker-toolbox-portable/languages",
   "created_at": "2018-03-11T16:54:27Z",
-  "updated_at": "2018-08-09T12:19:28Z",
-  "pushed_at": "2018-07-23T22:10:49Z",
+  "updated_at": "2018-08-27T21:47:23Z",
+  "pushed_at": "2018-08-27T22:27:01Z",
   "homepage": "https://portapps.github.io/app/docker-toolbox-portable",
-  "size": 143,
+  "size": 145,
   "stargazers_count": 7,
   "language": "Go",
   "mirror_url": null,
@@ -47,7 +47,7 @@
     "site_admin": false
   },
   "contributors": {
-    "crazy-max": 10
+    "crazy-max": 13
   },
   "languages": {
     "Go": {
@@ -59,7 +59,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-09T16:35:43.594Z",
+  "fetched_at": "2018-08-28T05:43:12.430Z",
   "pulls_url": "https://api.github.com/repos/portapps/docker-toolbox-portable/pulls{/number}",
   "pulls_authors": []
 }

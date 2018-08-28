@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/ethereum/go-ethereum",
   "languages_url": "https://api.github.com/repos/ethereum/go-ethereum/languages",
   "created_at": "2013-12-26T13:05:46Z",
-  "updated_at": "2018-08-27T18:57:50Z",
-  "pushed_at": "2018-08-27T15:55:18Z",
+  "updated_at": "2018-08-28T05:17:51Z",
+  "pushed_at": "2018-08-28T05:20:41Z",
   "homepage": "https://geth.ethereum.org",
   "size": 94023,
-  "stargazers_count": 20273,
+  "stargazers_count": 20278,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -442,7 +442,7 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-08-27T19:18:29.380Z",
+  "fetched_at": "2018-08-28T05:43:43.468Z",
   "pulls_url": "https://api.github.com/repos/ethereum/go-ethereum/pulls{/number}",
   "pulls_authors": [
     "Mistra",
@@ -951,6 +951,7 @@
     "RichardLitt",
     "andrewroldugin",
     "CFDevelopment",
-    "SamuelMarks"
+    "SamuelMarks",
+    "pavelkrolevets"
   ]
 }

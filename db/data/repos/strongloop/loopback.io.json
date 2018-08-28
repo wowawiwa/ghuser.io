@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/strongloop/loopback.io",
   "languages_url": "https://api.github.com/repos/strongloop/loopback.io/languages",
   "created_at": "2014-01-28T18:00:00Z",
-  "updated_at": "2018-08-25T21:17:17Z",
-  "pushed_at": "2018-08-25T21:17:14Z",
+  "updated_at": "2018-08-27T20:44:41Z",
+  "pushed_at": "2018-08-27T20:44:39Z",
   "homepage": "http://loopback.io",
-  "size": 67595,
+  "size": 65200,
   "stargazers_count": 149,
   "language": "CSS",
   "mirror_url": null,
@@ -145,7 +145,7 @@
     "dhmlau": 30,
     "virkt25": 34,
     "bajtos": 44,
-    "slnode": 162,
+    "slnode": 163,
     "crandmck": 576,
     "itaditya": 1,
     "asnov": 1,
@@ -210,7 +210,8 @@
     "sactor": 1,
     "spid3r007": 1,
     "asnowwolf": 1,
-    "manojchandrashekar": 1
+    "manojchandrashekar": 1,
+    "marioestradarosa": 1
   },
   "languages": {
     "CSS": {
@@ -226,7 +227,7 @@
       "color": "#f1e05a"
     },
     "Shell": {
-      "bytes": 8634,
+      "bytes": 8701,
       "color": "#89e051"
     },
     "Ruby": {
@@ -238,7 +239,7 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-08-26T05:50:16.641Z",
+  "fetched_at": "2018-08-28T05:44:01.633Z",
   "pulls_url": "https://api.github.com/repos/strongloop/loopback.io/pulls{/number}",
   "pulls_authors": [
     "CNSKnight",
@@ -430,6 +431,7 @@
     "rosshj",
     "crwhite21",
     "manojchandrashekar",
-    "DOSarrest"
+    "DOSarrest",
+    "marioestradarosa"
   ]
 }

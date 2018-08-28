@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/Jguer/yay",
   "languages_url": "https://api.github.com/repos/Jguer/yay/languages",
   "created_at": "2016-09-05T02:41:34Z",
-  "updated_at": "2018-08-27T15:58:54Z",
-  "pushed_at": "2018-08-27T18:23:55Z",
+  "updated_at": "2018-08-28T03:39:46Z",
+  "pushed_at": "2018-08-28T03:39:44Z",
   "homepage": null,
-  "size": 4468,
-  "stargazers_count": 1188,
+  "size": 4464,
+  "stargazers_count": 1194,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -59,7 +59,7 @@
     "AlexWayfer": 9,
     "qrwteyrutiyoup": 8,
     "Jguer": 279,
-    "Morganamilo": 391,
+    "Morganamilo": 392,
     "thePanz": 1,
     "AladW": 1,
     "muesli": 1,
@@ -69,7 +69,7 @@
   },
   "languages": {
     "Go": {
-      "bytes": 166381,
+      "bytes": 166322,
       "color": "#375eab"
     },
     "Shell": {
@@ -81,7 +81,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-27T19:18:39.457Z",
+  "fetched_at": "2018-08-28T05:43:51.802Z",
   "pulls_url": "https://api.github.com/repos/Jguer/yay/pulls{/number}",
   "pulls_authors": [
     "qjcg",

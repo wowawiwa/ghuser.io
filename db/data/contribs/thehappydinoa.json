@@ -82,13 +82,13 @@
     "aboul3la/Sublist3r": {
       "full_name": "aboul3la/Sublist3r",
       "name": "Sublist3r",
-      "stargazers_count": 2504,
-      "popularity": 4.39851728731149,
+      "stargazers_count": 2505,
+      "popularity": 4.398690755313263,
       "percentage": 0,
       "maturity": 2.6048763698809907,
       "total_commits_count": 80,
       "activity": 5,
-      "total_score": 23.40530460169645,
+      "total_score": 23.40582500570177,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -204,8 +204,8 @@
       "percentage": 34.30232558139535,
       "maturity": 3.1226378244491784,
       "total_commits_count": 172,
-      "activity": 1.9945587201082824,
-      "total_score": 41.80782871951603,
+      "activity": 1.9894532393049333,
+      "total_score": 41.80272323871269,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -472,13 +472,13 @@
     "vanhoefm/krackattacks-scripts": {
       "full_name": "vanhoefm/krackattacks-scripts",
       "name": "krackattacks-scripts",
-      "stargazers_count": 2444,
-      "popularity": 4.387980330760083,
+      "stargazers_count": 2446,
+      "popularity": 4.3883357127065965,
       "percentage": 0,
       "maturity": 5,
       "total_commits_count": 10369,
-      "activity": 1.4913765285373501,
-      "total_score": 24.6553175208176,
+      "activity": 1.4897674979960338,
+      "total_score": 24.654774636115825,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -596,6 +596,19 @@
       "total_commits_count": 160,
       "activity": 5,
       "total_score": 23.979435281897302,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "samhaxr/hackbox": {
+      "full_name": "samhaxr/hackbox",
+      "name": "hackbox",
+      "stargazers_count": 210,
+      "popularity": 3.320393102778026,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 17,
+      "activity": 5,
+      "total_score": 14.961179308334078,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/rjeczalik/notify",
   "languages_url": "https://api.github.com/repos/rjeczalik/notify/languages",
   "created_at": "2014-09-08T16:09:34Z",
-  "updated_at": "2018-08-27T02:38:51Z",
-  "pushed_at": "2018-08-08T20:39:29Z",
+  "updated_at": "2018-08-27T19:31:22Z",
+  "pushed_at": "2018-08-27T19:31:20Z",
   "homepage": "",
-  "size": 677,
+  "size": 682,
   "stargazers_count": 375,
   "language": "Go",
   "mirror_url": null,
@@ -41,15 +41,16 @@
     "imsodin": 20,
     "pblaszczyk": 40,
     "ppknap": 83,
-    "rjeczalik": 299
+    "rjeczalik": 299,
+    "nonsense": 1
   },
   "languages": {
     "Go": {
-      "bytes": 221544,
+      "bytes": 221048,
       "color": "#375eab"
     }
   },
-  "fetched_at": "2018-08-27T06:18:02.389Z",
+  "fetched_at": "2018-08-28T05:43:43.115Z",
   "pulls_url": "https://api.github.com/repos/rjeczalik/notify/pulls{/number}",
   "pulls_authors": [
     "rjeczalik",
@@ -67,6 +68,7 @@
     "Zillode",
     "adg",
     "nathany",
-    "cortesi"
+    "cortesi",
+    "nonsense"
   ]
 }

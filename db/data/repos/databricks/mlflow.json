@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/mlflow/mlflow",
   "languages_url": "https://api.github.com/repos/mlflow/mlflow/languages",
   "created_at": "2018-06-05T16:05:58Z",
-  "updated_at": "2018-08-27T18:28:42Z",
-  "pushed_at": "2018-08-27T18:58:33Z",
+  "updated_at": "2018-08-28T05:29:29Z",
+  "pushed_at": "2018-08-28T03:45:37Z",
   "homepage": "https://mlflow.org",
-  "size": 3866,
-  "stargazers_count": 2041,
+  "size": 4428,
+  "stargazers_count": 2045,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -67,19 +67,19 @@
     "tomasatdatabricks": 9,
     "dmatrix": 5,
     "mdagost": 3,
-    "mparkhe": 6,
+    "mparkhe": 7,
     "dennyglee": 4,
-    "andrewmchen": 16,
+    "andrewmchen": 17,
     "juntai-zheng": 10,
     "stbof": 14,
     "mateiz": 22,
-    "smurching": 42,
-    "aarondav": 42,
-    "dbczumar": 8,
+    "smurching": 43,
+    "aarondav": 45,
+    "dbczumar": 11,
     "bnekolny": 1,
     "ToonKBC": 9,
     "arinto": 2,
-    "vfdev-5": 3,
+    "vfdev-5": 4,
     "javierluraschi": 1,
     "adrian555": 4,
     "aadamson": 1,
@@ -89,15 +89,15 @@
   },
   "languages": {
     "Python": {
-      "bytes": 520826,
+      "bytes": 523670,
       "color": "#3572A5"
     },
     "JavaScript": {
-      "bytes": 169160,
+      "bytes": 172100,
       "color": "#f1e05a"
     },
     "Java": {
-      "bytes": 43621,
+      "bytes": 101485,
       "color": "#b07219"
     },
     "Jupyter Notebook": {
@@ -109,7 +109,7 @@
       "color": "#563d7c"
     },
     "Shell": {
-      "bytes": 2857,
+      "bytes": 2928,
       "color": "#89e051"
     },
     "HTML": {
@@ -121,7 +121,7 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-27T19:20:57.246Z",
+  "fetched_at": "2018-08-28T05:45:41.151Z",
   "pulls_url": "https://api.github.com/repos/mlflow/mlflow/pulls{/number}",
   "pulls_authors": [
     "dmatrix",
@@ -168,6 +168,7 @@
     "Shenggan",
     "rbang1",
     "yassineAlouini",
-    "antonpaquin"
+    "antonpaquin",
+    "gioa"
   ]
 }
