@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/moby/moby",
   "languages_url": "https://api.github.com/repos/moby/moby/languages",
   "created_at": "2013-01-18T18:10:57Z",
-  "updated_at": "2018-08-28T15:53:39Z",
-  "pushed_at": "2018-08-28T12:53:56Z",
+  "updated_at": "2018-08-29T02:17:31Z",
+  "pushed_at": "2018-08-29T00:48:10Z",
   "homepage": "https://mobyproject.org/",
-  "size": 138116,
-  "stargazers_count": 50113,
+  "size": 138112,
+  "stargazers_count": 50116,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "Go": {
-      "bytes": 7275595,
+      "bytes": 7276570,
       "color": "#375eab"
     },
     "Shell": {
@@ -56,7 +56,7 @@
       "color": "#89e051"
     },
     "PowerShell": {
-      "bytes": 24650,
+      "bytes": 24722,
       "color": "#012456"
     },
     "Dockerfile": {
@@ -142,7 +142,7 @@
     "rhvgoyal": 95,
     "ahmetb": 98,
     "AkihiroSuda": 208,
-    "kolyshkin": 115,
+    "kolyshkin": 116,
     "anusha-ragunathan": 168,
     "darstahl": 101,
     "WeiZhang555": 104,
@@ -160,7 +160,7 @@
     "sdurrheimer": 190,
     "shykes": 1251,
     "duglin": 412,
-    "tiborvass": 955,
+    "tiborvass": 956,
     "aaronlehmann": 341,
     "unclejack": 487,
     "SvenDowideit": 751,
@@ -176,8 +176,8 @@
     "tianon": 801,
     "LK4D4": 1369,
     "cpuguy83": 1484,
-    "thaJeztah": 2631,
-    "jhowardmsft": 715,
+    "thaJeztah": 2632,
+    "jhowardmsft": 716,
     "creack": 1257,
     "vieux": 1833,
     "crosbymichael": 2078,
@@ -541,7 +541,7 @@
     "RenaudWasTaken": 5,
     "boaz1337": 35
   },
-  "fetched_at": "2018-08-28T16:02:20.542Z",
+  "fetched_at": "2018-08-29T02:25:37.618Z",
   "pulls_url": "https://api.github.com/repos/moby/moby/pulls{/number}",
   "pulls_authors": [
     "dperny",

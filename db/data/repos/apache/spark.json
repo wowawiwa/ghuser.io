@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/apache/spark",
   "languages_url": "https://api.github.com/repos/apache/spark/languages",
   "created_at": "2014-02-25T08:00:08Z",
-  "updated_at": "2018-08-28T15:52:12Z",
-  "pushed_at": "2018-08-28T15:50:47Z",
+  "updated_at": "2018-08-29T01:51:37Z",
+  "pushed_at": "2018-08-29T01:54:12Z",
   "homepage": null,
-  "size": 280318,
+  "size": 280386,
   "stargazers_count": 18543,
   "language": "Scala",
   "mirror_url": null,
@@ -74,7 +74,7 @@
     "zjffdu": 47,
     "sethah": 45,
     "ijuma": 48,
-    "squito": 56,
+    "squito": 57,
     "dilipbiswal": 61,
     "mosharaf": 78,
     "tgravescs": 54,
@@ -106,7 +106,7 @@
     "ericl": 81,
     "WeichenXu123": 86,
     "hhbyyh": 86,
-    "mgaido91": 104,
+    "mgaido91": 105,
     "BryanCutler": 89,
     "scwf": 92,
     "sryza": 92,
@@ -129,7 +129,7 @@
     "jkbradley": 169,
     "ScrapCodes": 200,
     "shivaram": 209,
-    "jerryshao": 194,
+    "jerryshao": 195,
     "ankurdave": 266,
     "yhuai": 255,
     "marmbrus": 281,
@@ -151,7 +151,7 @@
     "dlyubimov": 32,
     "uncleGen": 30,
     "ajbozarth": 29,
-    "rdblue": 31,
+    "rdblue": 32,
     "guoxiaolongzte": 28,
     "windpiger": 26,
     "Lewuathe": 26,
@@ -169,7 +169,7 @@
     "tnachen": 23,
     "carsonwang": 22,
     "tsudukim": 22,
-    "MaxGekk": 37,
+    "MaxGekk": 38,
     "tarekbecker": 22,
     "liyezhang556520": 22,
     "kanzhang": 20,
@@ -248,7 +248,7 @@
     "attilapiros": 11,
     "freeman-lab": 10,
     "advancedxy": 10,
-    "bogdanrdc": 10,
+    "bogdanrdc": 11,
     "NarineK": 9,
     "nishkamravi2": 9,
     "robbinspg": 9,
@@ -384,13 +384,13 @@
     "chouqin": 4,
     "phalodi": 4,
     "shahidki31": 4,
-    "arunmahadevan": 6,
+    "arunmahadevan": 7,
     "Fokko": 4,
     "ifilonenko": 5
   },
   "languages": {
     "Scala": {
-      "bytes": 27231075,
+      "bytes": 27236839,
       "color": "#c22d40"
     },
     "Java": {
@@ -398,7 +398,7 @@
       "color": "#b07219"
     },
     "Python": {
-      "bytes": 2732474,
+      "bytes": 2732942,
       "color": "#3572A5"
     },
     "HiveQL": {
@@ -470,7 +470,7 @@
       "color": "#555555"
     }
   },
-  "fetched_at": "2018-08-28T16:06:56.692Z",
+  "fetched_at": "2018-08-29T02:28:45.261Z",
   "pulls_url": "https://api.github.com/repos/apache/spark/pulls{/number}",
   "pulls_authors": [
     "techaddict",

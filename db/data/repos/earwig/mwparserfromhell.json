@@ -11,8 +11,8 @@
   "languages_url": "https://api.github.com/repos/earwig/mwparserfromhell/languages",
   "pulls_url": "https://api.github.com/repos/earwig/mwparserfromhell/pulls{/number}",
   "created_at": "2012-05-20T18:45:54Z",
-  "updated_at": "2018-08-21T10:38:25Z",
-  "pushed_at": "2018-08-11T19:56:01Z",
+  "updated_at": "2018-08-29T01:42:36Z",
+  "pushed_at": "2018-08-29T01:42:35Z",
   "homepage": "https://mwparserfromhell.readthedocs.io/",
   "size": 1703,
   "stargazers_count": 265,
@@ -34,10 +34,10 @@
     "Larivact": 4,
     "Riamse": 4,
     "jayvdb": 5,
-    "legoktm": 5,
+    "legoktm": 6,
     "valhallasw": 7,
     "davidswinegar": 26,
-    "earwig": 701
+    "earwig": 702
   },
   "pulls_authors": [
     "Mottl",
@@ -54,11 +54,11 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 415017,
+      "bytes": 415024,
       "color": "#3572A5"
     },
     "C": {
-      "bytes": 175492,
+      "bytes": 175510,
       "color": "#555555"
     },
     "C++": {
@@ -74,5 +74,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-08-21T11:31:36.477Z"
+  "fetched_at": "2018-08-29T02:27:46.533Z"
 }

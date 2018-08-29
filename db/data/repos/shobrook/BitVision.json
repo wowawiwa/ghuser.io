@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/shobrook/BitVision",
   "languages_url": "https://api.github.com/repos/shobrook/BitVision/languages",
   "created_at": "2018-01-03T08:33:25Z",
-  "updated_at": "2018-08-27T21:57:17Z",
-  "pushed_at": "2018-08-28T01:20:59Z",
+  "updated_at": "2018-08-28T23:55:50Z",
+  "pushed_at": "2018-08-29T01:27:25Z",
   "homepage": "",
-  "size": 74138,
+  "size": 73971,
   "stargazers_count": 16,
   "language": "Python",
   "mirror_url": null,
@@ -27,7 +27,7 @@
   },
   "default_branch": "master",
   "contributors": {
-    "alichtman": 182,
+    "alichtman": 187,
     "shobrook": 143
   },
   "languages": {
@@ -36,7 +36,7 @@
       "color": "#3572A5"
     },
     "JavaScript": {
-      "bytes": 30986,
+      "bytes": 32162,
       "color": "#f1e05a"
     },
     "Shell": {
@@ -44,7 +44,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-28T05:41:28.324Z",
+  "fetched_at": "2018-08-29T02:24:32.224Z",
   "pulls_url": "https://api.github.com/repos/shobrook/BitVision/pulls{/number}",
   "pulls_authors": [
     "alichtman",

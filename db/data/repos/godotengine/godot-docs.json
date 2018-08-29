@@ -283,7 +283,8 @@
     "SciWiFi": 2,
     "AlexHolly": 1,
     "romlok": 1,
-    "pgruenbacher-TSUS": 1
+    "pgruenbacher-TSUS": 1,
+    "Andre-Rb": 1
   },
   "name": "godot-docs",
   "full_name": "godotengine/godot-docs",
@@ -295,10 +296,10 @@
   "url": "https://api.github.com/repos/godotengine/godot-docs",
   "languages_url": "https://api.github.com/repos/godotengine/godot-docs/languages",
   "created_at": "2015-12-12T15:02:06Z",
-  "updated_at": "2018-08-28T15:04:16Z",
-  "pushed_at": "2018-08-28T15:04:11Z",
+  "updated_at": "2018-08-28T22:09:28Z",
+  "pushed_at": "2018-08-28T22:09:24Z",
   "homepage": "http://docs.godotengine.org",
-  "size": 293390,
+  "size": 293395,
   "stargazers_count": 373,
   "language": "Python",
   "mirror_url": null,
@@ -355,7 +356,7 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-08-28T16:02:36.829Z",
+  "fetched_at": "2018-08-29T02:25:47.562Z",
   "pulls_url": "https://api.github.com/repos/godotengine/godot-docs/pulls{/number}",
   "pulls_authors": [
     "vurpo",
