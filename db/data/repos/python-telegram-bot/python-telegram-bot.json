@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/languages",
   "pulls_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/pulls{/number}",
   "created_at": "2015-07-07T15:30:39Z",
-  "updated_at": "2018-08-29T00:48:44Z",
-  "pushed_at": "2018-08-27T12:04:44Z",
+  "updated_at": "2018-08-29T12:19:04Z",
+  "pushed_at": "2018-08-29T12:18:59Z",
   "homepage": "https://python-telegram-bot.org",
   "size": 4559,
-  "stargazers_count": 5579,
+  "stargazers_count": 5581,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -98,7 +98,7 @@
     "JRoot3D": 1,
     "Tr-Jono": 2,
     "PaulSonOfLars": 2,
-    "code1mountain": 2,
+    "code1mountain": 3,
     "SitiSchu": 2,
     "saschalalala": 2,
     "alateas": 2,
@@ -127,12 +127,13 @@
     "evgfilim1": 18,
     "jeffffc": 24,
     "rahiel": 71,
-    "Eldinnie": 95,
-    "jsmnbom": 151,
+    "Eldinnie": 96,
+    "jsmnbom": 152,
     "tsnoam": 195,
     "jh0ker": 392,
     "leandrotoledo": 436,
-    "icecom-dg": 1
+    "icecom-dg": 1,
+    "mathefreak1": 1
   },
   "pulls_authors": [
     "jsmnbom",
@@ -258,7 +259,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 1184001,
+      "bytes": 1330667,
       "color": "#3572A5"
     },
     "Makefile": {
@@ -266,5 +267,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-29T02:30:10.609Z"
+  "fetched_at": "2018-08-29T12:51:53.464Z"
 }

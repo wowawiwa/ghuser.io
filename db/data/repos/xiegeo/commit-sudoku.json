@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/xiegeo/commit-sudoku/languages",
   "pulls_url": "https://api.github.com/repos/xiegeo/commit-sudoku/pulls{/number}",
   "created_at": "2018-04-09T22:40:18Z",
-  "updated_at": "2018-08-29T02:06:21Z",
-  "pushed_at": "2018-08-29T02:06:19Z",
+  "updated_at": "2018-08-29T09:02:58Z",
+  "pushed_at": "2018-08-29T09:04:03Z",
   "homepage": "",
-  "size": 90,
+  "size": 95,
   "stargazers_count": 27,
   "language": "JavaScript",
   "mirror_url": null,
@@ -42,7 +42,8 @@
     "rain-1": 15,
     "anishkny": 20,
     "xiegeo": 34,
-    "benharri": 1
+    "benharri": 1,
+    "MineRobber9000": 1
   },
   "pulls_authors": [
     "anishkny",
@@ -60,7 +61,8 @@
     "Pinaz9",
     "makitsune",
     "standekker",
-    "benharri"
+    "benharri",
+    "MineRobber9000"
   ],
   "languages": {
     "JavaScript": {
@@ -72,5 +74,5 @@
       "color": "#375eab"
     }
   },
-  "fetched_at": "2018-08-29T02:24:49.912Z"
+  "fetched_at": "2018-08-29T12:45:37.929Z"
 }

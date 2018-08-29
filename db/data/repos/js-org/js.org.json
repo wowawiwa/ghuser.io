@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/js-org/js.org",
   "languages_url": "https://api.github.com/repos/js-org/js.org/languages",
   "created_at": "2015-04-08T01:43:18Z",
-  "updated_at": "2018-08-29T02:05:18Z",
-  "pushed_at": "2018-08-28T23:58:19Z",
+  "updated_at": "2018-08-29T09:30:47Z",
+  "pushed_at": "2018-08-29T09:30:44Z",
   "homepage": "https://js.org",
-  "size": 2989,
+  "size": 3015,
   "stargazers_count": 1858,
   "language": "JavaScript",
   "mirror_url": null,
@@ -141,7 +141,7 @@
     "tannerlinsley": 15,
     "pakastin": 16,
     "egoist": 16,
-    "indus": 1888,
+    "indus": 1889,
     "ccrraaiigg": 3,
     "danieljuarezp": 3,
     "dhruvdutt": 3,
@@ -505,15 +505,16 @@
     "arunkumarpalaniappan": 3,
     "rdstach": 3,
     "omrilotan": 2,
-    "zachify": 2
+    "zachify": 2,
+    "wdavidw": 2
   },
   "languages": {
     "JavaScript": {
-      "bytes": 84422,
+      "bytes": 84470,
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-29T02:25:23.213Z",
+  "fetched_at": "2018-08-29T12:46:21.654Z",
   "pulls_url": "https://api.github.com/repos/js-org/js.org/pulls{/number}",
   "pulls_authors": [
     "ChandZhang",
@@ -1900,6 +1901,7 @@
     "arunkumarpalaniappan",
     "ItsCheesecake",
     "omrilotan",
-    "jaames"
+    "jaames",
+    "roboncode"
   ]
 }

@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/logstash-plugins/logstash-input-jdbc",
   "languages_url": "https://api.github.com/repos/logstash-plugins/logstash-input-jdbc/languages",
   "created_at": "2015-02-26T22:12:38Z",
-  "updated_at": "2018-08-26T08:12:10Z",
-  "pushed_at": "2018-08-23T19:09:30Z",
+  "updated_at": "2018-08-29T08:56:03Z",
+  "pushed_at": "2018-08-29T09:21:26Z",
   "homepage": null,
-  "size": 217,
+  "size": 227,
   "stargazers_count": 257,
   "language": "Ruby",
   "mirror_url": null,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "Ruby": {
-      "bytes": 66684,
+      "bytes": 72592,
       "color": "#701516"
     },
     "Shell": {
@@ -74,7 +74,7 @@
     "ycombinator": 1,
     "robbavey": 2,
     "jordansissel": 2,
-    "guyboertje": 3,
+    "guyboertje": 4,
     "franklauterwald": 3,
     "andrewvc": 3,
     "tac0x2a": 5,
@@ -86,7 +86,7 @@
     "ph": 27,
     "talevy": 27
   },
-  "fetched_at": "2018-08-27T06:19:28.745Z",
+  "fetched_at": "2018-08-29T12:49:36.569Z",
   "pulls_url": "https://api.github.com/repos/logstash-plugins/logstash-input-jdbc/pulls{/number}",
   "pulls_authors": [
     "yaauie",

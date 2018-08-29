@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/gitignore-org/gitignore-org/languages",
   "pulls_url": "https://api.github.com/repos/gitignore-org/gitignore-org/pulls{/number}",
   "created_at": "2018-08-20T12:49:45Z",
-  "updated_at": "2018-08-29T02:06:40Z",
-  "pushed_at": "2018-08-29T02:06:38Z",
+  "updated_at": "2018-08-29T07:55:09Z",
+  "pushed_at": "2018-08-29T12:36:23Z",
   "homepage": "https://gitignore.org",
-  "size": 1881,
+  "size": 2485,
   "stargazers_count": 5,
   "language": "JavaScript",
   "mirror_url": null,
@@ -49,10 +49,11 @@
   },
   "contributors": {
     "TiagoDanin": 4,
-    "amorist": 11
+    "amorist": 14
   },
   "pulls_authors": [
-    "TiagoDanin"
+    "TiagoDanin",
+    "greenkeeper[bot]"
   ],
   "languages": {
     "JavaScript": {
@@ -60,5 +61,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-29T02:30:11.110Z"
+  "fetched_at": "2018-08-29T12:51:53.982Z"
 }

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/gatsbyjs/gatsby",
   "languages_url": "https://api.github.com/repos/gatsbyjs/gatsby/languages",
   "created_at": "2015-05-21T22:43:05Z",
-  "updated_at": "2018-08-29T02:07:38Z",
-  "pushed_at": "2018-08-29T02:03:21Z",
+  "updated_at": "2018-08-29T12:29:51Z",
+  "pushed_at": "2018-08-29T11:58:26Z",
   "homepage": "https://www.gatsbyjs.org",
-  "size": 374185,
-  "stargazers_count": 24984,
+  "size": 374205,
+  "stargazers_count": 24999,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -143,10 +143,10 @@
     "calcsam": 90,
     "ryanditjia": 59,
     "jquense": 115,
-    "fk": 176,
+    "fk": 178,
     "pieh": 340,
     "shannonbux": 157,
-    "m-allanson": 700,
+    "m-allanson": 701,
     "KyleAMathews": 4513,
     "thebigredgeek": 7,
     "mathieudutour": 4,
@@ -514,7 +514,7 @@
     "podabed": 1,
     "Thieurom": 1,
     "dominicchapman": 1,
-    "dominicfallows": 1,
+    "dominicfallows": 2,
     "DominikGuzei": 1,
     "dunckr": 1,
     "jjprevite": 2,
@@ -536,7 +536,7 @@
     "Firthir": 1,
     "DanArpoika": 1,
     "stoutlabs": 1,
-    "mattbag": 3,
+    "mattbag": 4,
     "jsjoeio": 2,
     "fusepilot": 2,
     "tryzniak": 8,
@@ -1110,7 +1110,8 @@
     "NindroidX": 2,
     "ilyagelman": 1,
     "gregtillbrook": 1,
-    "erinfox": 1
+    "erinfox": 1,
+    "nareshbhatia": 1
   },
   "languages": {
     "JavaScript": {
@@ -1134,7 +1135,7 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-29T02:25:22.327Z",
+  "fetched_at": "2018-08-29T12:46:20.627Z",
   "pulls_url": "https://api.github.com/repos/gatsbyjs/gatsby/pulls{/number}",
   "pulls_authors": [
     "shannonbux",
@@ -2329,6 +2330,7 @@
     "gregtillbrook",
     "erinfox",
     "olavea",
-    "nareshbhatia"
+    "nareshbhatia",
+    "onnovisser"
   ]
 }

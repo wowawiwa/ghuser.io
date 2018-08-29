@@ -4995,6 +4995,17 @@
       "created_at": "2018-05-17T09:16:52Z",
       "updated_at": "2018-08-23T02:40:48Z",
       "type": "Organization"
+    },
+    "auth0-blog": {
+      "login": "auth0-blog",
+      "url": "https://api.github.com/orgs/auth0-blog",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/18200246?v=4",
+      "name": "Auth0 Blog Samples",
+      "is_verified": false,
+      "html_url": "https://github.com/auth0-blog",
+      "created_at": "2016-03-31T23:23:14Z",
+      "updated_at": "2016-03-31T23:37:49Z",
+      "type": "Organization"
     }
   }
 }

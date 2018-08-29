@@ -1,7 +1,7 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
   "contributors": {
-    "Calinou": 5
+    "Calinou": 6
   },
   "name": "colour-cli",
   "full_name": "Calinou/colour-cli",
@@ -13,10 +13,10 @@
   "url": "https://api.github.com/repos/Calinou/colour-cli",
   "languages_url": "https://api.github.com/repos/Calinou/colour-cli/languages",
   "created_at": "2018-03-17T23:10:39Z",
-  "updated_at": "2018-04-12T16:42:55Z",
-  "pushed_at": "2018-03-19T19:20:05Z",
+  "updated_at": "2018-08-29T09:21:42Z",
+  "pushed_at": "2018-08-29T09:21:41Z",
   "homepage": "https://www.npmjs.com/package/colour-cli",
-  "size": 38,
+  "size": 39,
   "stargazers_count": 2,
   "language": "JavaScript",
   "mirror_url": null,
@@ -35,7 +35,7 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "fetched_at": "2018-08-29T12:46:54.025Z",
   "pulls_url": "https://api.github.com/repos/Calinou/colour-cli/pulls{/number}",
   "pulls_authors": []
 }
