@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/Calinou/lagraph/languages",
   "pulls_url": "https://api.github.com/repos/Calinou/lagraph/pulls{/number}",
   "created_at": "2018-08-21T19:50:01Z",
-  "updated_at": "2018-08-26T15:23:59Z",
-  "pushed_at": "2018-08-23T20:45:30Z",
+  "updated_at": "2018-08-29T20:33:13Z",
+  "pushed_at": "2018-08-29T20:33:12Z",
   "homepage": "",
-  "size": 30,
+  "size": 35,
   "stargazers_count": 18,
   "language": "Rust",
   "mirror_url": null,
@@ -22,12 +22,12 @@
   "license": null,
   "default_branch": "master",
   "contributors": {
-    "Calinou": 13
+    "Calinou": 14
   },
   "pulls_authors": [],
   "languages": {
     "Rust": {
-      "bytes": 11007,
+      "bytes": 11212,
       "color": "#dea584"
     },
     "Shell": {
@@ -39,5 +39,5 @@
       "color": "#012456"
     }
   },
-  "fetched_at": "2018-08-27T06:17:24.922Z"
+  "fetched_at": "2018-08-29T23:06:04.564Z"
 }

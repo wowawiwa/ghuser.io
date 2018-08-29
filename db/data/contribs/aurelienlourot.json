@@ -58,11 +58,11 @@
       "name": "ghuser.io",
       "stargazers_count": 45,
       "popularity": 2.64447758948869,
-      "percentage": 98.23399558498896,
-      "maturity": 3.617791094110888,
-      "total_commits_count": 453,
+      "percentage": 98.23788546255507,
+      "maturity": 3.6188411306496615,
+      "total_commits_count": 454,
       "activity": 5,
-      "total_score": 53.9401029372443,
+      "total_score": 53.94354028054828,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -396,11 +396,11 @@
       "name": "reframe",
       "stargazers_count": 140,
       "popularity": 3.143366190545467,
-      "percentage": 0.5670103092783505,
-      "maturity": 4.280512685367449,
-      "total_commits_count": 1940,
+      "percentage": 0.5638134290107637,
+      "maturity": 4.283019640429692,
+      "total_commits_count": 1951,
       "activity": 5,
-      "total_score": 23.222825677035217,
+      "total_score": 23.22653322166442,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -520,6 +520,19 @@
       "total_score": 20.47917804332941,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
+    },
+    "hapijs/bell": {
+      "full_name": "hapijs/bell",
+      "name": "bell",
+      "stargazers_count": 555,
+      "popularity": 3.7436272317590547,
+      "percentage": 0,
+      "maturity": 3.473174140773305,
+      "total_commits_count": 336,
+      "activity": 5,
+      "total_score": 23.177229976823774,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
     }
   },
   "organizations": [
@@ -527,6 +540,7 @@
     "jfrog",
     "quizl",
     "reframejs",
-    "tt-gf"
+    "tt-gf",
+    "hapijs"
   ]
 }

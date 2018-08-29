@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/ampproject/amphtml",
   "languages_url": "https://api.github.com/repos/ampproject/amphtml/languages",
   "created_at": "2015-09-01T22:10:53Z",
-  "updated_at": "2018-08-29T12:47:02Z",
-  "pushed_at": "2018-08-29T12:46:43Z",
+  "updated_at": "2018-08-29T22:14:49Z",
+  "pushed_at": "2018-08-29T23:03:53Z",
   "homepage": "https://www.ampproject.org",
-  "size": 495760,
-  "stargazers_count": 11914,
+  "size": 495803,
+  "stargazers_count": 11917,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -47,7 +47,7 @@
     "site_admin": false
   },
   "contributors": {
-    "noranazmy": 9,
+    "noranazmy": 10,
     "elljoh": 5,
     "StephanGuenther": 5,
     "jasonpang": 5,
@@ -104,7 +104,7 @@
     "dandv": 34,
     "jasti": 31,
     "taymonbeal": 31,
-    "alabiaga": 45,
+    "alabiaga": 47,
     "jpettitt": 41,
     "peterjosling": 40,
     "tdrl": 39,
@@ -123,14 +123,14 @@
     "camelburrito": 91,
     "kmh287": 98,
     "glevitzky": 104,
-    "gmajoulet": 130,
+    "gmajoulet": 131,
     "greenkeeper[bot]": 111,
     "muxin": 118,
     "newmuis": 129,
     "cvializ": 137,
     "bradfrizzell": 140,
     "keithwrightbos": 163,
-    "cathyxz": 176,
+    "cathyxz": 178,
     "mkhatib": 188,
     "Meggin": 166,
     "bpaduch": 185,
@@ -139,10 +139,10 @@
     "Gregable": 218,
     "powdercloud": 261,
     "aghassemi": 286,
-    "choumx": 340,
+    "choumx": 341,
     "lannka": 341,
     "zhouyx": 334,
-    "jridgewell": 429,
+    "jridgewell": 430,
     "rsimha": 412,
     "erwinmombay": 706,
     "cramforce": 1132,
@@ -489,19 +489,20 @@
     "matthewlane": 1,
     "Ab5gq": 1,
     "donmccurdy": 1,
-    "felixarntz": 1
+    "felixarntz": 1,
+    "spiritloose": 1
   },
   "languages": {
     "JavaScript": {
-      "bytes": 12237568,
+      "bytes": 12243021,
       "color": "#f1e05a"
     },
     "HTML": {
-      "bytes": 1369244,
+      "bytes": 1370271,
       "color": "#e34c26"
     },
     "CSS": {
-      "bytes": 343981,
+      "bytes": 344144,
       "color": "#563d7c"
     },
     "Python": {
@@ -525,7 +526,7 @@
       "color": "#375eab"
     }
   },
-  "fetched_at": "2018-08-29T12:49:25.449Z",
+  "fetched_at": "2018-08-29T23:07:57.920Z",
   "pulls_url": "https://api.github.com/repos/ampproject/amphtml/pulls{/number}",
   "pulls_authors": [
     "keithwrightbos",
@@ -1230,6 +1231,7 @@
     "Satoshipulse",
     "DErekXx",
     "devvercer",
-    "jeffjose"
+    "jeffjose",
+    "adityapunjani"
   ]
 }

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/apache/spark",
   "languages_url": "https://api.github.com/repos/apache/spark/languages",
   "created_at": "2014-02-25T08:00:08Z",
-  "updated_at": "2018-08-29T12:48:06Z",
-  "pushed_at": "2018-08-29T12:37:05Z",
+  "updated_at": "2018-08-29T22:24:48Z",
+  "pushed_at": "2018-08-29T22:55:32Z",
   "homepage": null,
-  "size": 280362,
-  "stargazers_count": 18555,
+  "size": 280415,
+  "stargazers_count": 18558,
   "language": "Scala",
   "mirror_url": null,
   "archived": false,
@@ -121,7 +121,7 @@
     "hvanhovell": 125,
     "ueshin": 151,
     "andrewor14": 136,
-    "sarutak": 143,
+    "sarutak": 144,
     "holdenk": 151,
     "jegonzal": 203,
     "felixcheung": 161,
@@ -135,7 +135,7 @@
     "marmbrus": 281,
     "yanboliang": 289,
     "dongjoon-hyun": 302,
-    "mengxr": 340,
+    "mengxr": 341,
     "vanzin": 345,
     "viirya": 356,
     "HyukjinKwon": 373,
@@ -184,7 +184,7 @@
     "zhichao-li": 18,
     "dusenberrymw": 18,
     "dragos": 17,
-    "juliuszsompolski": 17,
+    "juliuszsompolski": 18,
     "haitaoyao": 17,
     "ravipesala": 17,
     "gaborgsomogyi": 17,
@@ -390,7 +390,7 @@
   },
   "languages": {
     "Scala": {
-      "bytes": 27240602,
+      "bytes": 27240644,
       "color": "#c22d40"
     },
     "Java": {
@@ -398,7 +398,7 @@
       "color": "#b07219"
     },
     "Python": {
-      "bytes": 2733252,
+      "bytes": 2734982,
       "color": "#3572A5"
     },
     "HiveQL": {
@@ -470,7 +470,7 @@
       "color": "#555555"
     }
   },
-  "fetched_at": "2018-08-29T12:50:18.823Z",
+  "fetched_at": "2018-08-29T23:08:45.020Z",
   "pulls_url": "https://api.github.com/repos/apache/spark/pulls{/number}",
   "pulls_authors": [
     "techaddict",

@@ -465,11 +465,11 @@
   "url": "https://api.github.com/repos/gohugoio/hugoDocs",
   "languages_url": "https://api.github.com/repos/gohugoio/hugoDocs/languages",
   "created_at": "2017-06-14T07:52:37Z",
-  "updated_at": "2018-08-29T09:02:55Z",
-  "pushed_at": "2018-08-29T09:02:48Z",
+  "updated_at": "2018-08-29T15:57:08Z",
+  "pushed_at": "2018-08-29T14:27:53Z",
   "homepage": "",
-  "size": 119511,
-  "stargazers_count": 192,
+  "size": 119516,
+  "stargazers_count": 194,
   "language": "HTML",
   "mirror_url": null,
   "archived": false,
@@ -519,7 +519,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-29T12:46:55.649Z",
+  "fetched_at": "2018-08-29T23:05:47.892Z",
   "pulls_url": "https://api.github.com/repos/gohugoio/hugoDocs/pulls{/number}",
   "pulls_authors": [
     "brentybh",

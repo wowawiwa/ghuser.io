@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/topkecleon/otouto/languages",
   "pulls_url": "https://api.github.com/repos/topkecleon/otouto/pulls{/number}",
   "created_at": "2015-07-02T21:39:19Z",
-  "updated_at": "2018-07-14T20:29:56Z",
-  "pushed_at": "2018-06-24T17:43:33Z",
+  "updated_at": "2018-08-29T18:19:45Z",
+  "pushed_at": "2018-08-28T10:48:40Z",
   "homepage": "http://otou.to",
   "size": 1488,
-  "stargazers_count": 135,
+  "stargazers_count": 137,
   "language": "Lua",
   "mirror_url": null,
   "archived": false,
@@ -61,7 +61,8 @@
     "heitorPB",
     "cwxda",
     "Akronix",
-    "luksireiku"
+    "luksireiku",
+    "luginbash"
   ],
   "languages": {
     "Lua": {
@@ -73,5 +74,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-12T17:48:20.581Z"
+  "fetched_at": "2018-08-29T23:10:08.136Z"
 }

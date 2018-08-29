@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/jamesgeorge007/animate.css",
   "languages_url": "https://api.github.com/repos/jamesgeorge007/animate.css/languages",
   "created_at": "2018-02-25T06:25:16Z",
-  "updated_at": "2018-08-19T13:13:29Z",
-  "pushed_at": "2018-08-19T13:13:15Z",
+  "updated_at": "2018-08-29T15:27:44Z",
+  "pushed_at": "2018-08-29T15:27:30Z",
   "homepage": "http://daneden.github.io/animate.css",
-  "size": 725,
+  "size": 727,
   "stargazers_count": 1,
   "language": "CSS",
   "mirror_url": null,
@@ -114,7 +114,8 @@
     "woneob": 10,
     "suissa": 42,
     "daneden": 101,
-    "marcysutton": 1
+    "marcysutton": 1,
+    "paulgv": 1
   },
   "languages": {
     "CSS": {
@@ -126,7 +127,7 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-19T18:20:00.660Z",
+  "fetched_at": "2018-08-29T23:07:23.947Z",
   "pulls_url": "https://api.github.com/repos/jamesgeorge007/animate.css/pulls{/number}",
   "pulls_authors": [
     "jamesgeorge007"

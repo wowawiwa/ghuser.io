@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/storybooks/storybook",
   "languages_url": "https://api.github.com/repos/storybooks/storybook/languages",
   "created_at": "2016-03-18T04:23:44Z",
-  "updated_at": "2018-08-29T12:41:20Z",
-  "pushed_at": "2018-08-29T11:36:51Z",
+  "updated_at": "2018-08-29T21:44:27Z",
+  "pushed_at": "2018-08-29T22:38:19Z",
   "homepage": "https://storybook.js.org",
-  "size": 113949,
-  "stargazers_count": 27730,
+  "size": 113944,
+  "stargazers_count": 27744,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -137,10 +137,10 @@
     "rhalff": 64,
     "Keraito": 60,
     "alterx": 104,
-    "danielduan": 310,
+    "danielduan": 311,
     "tmeasday": 199,
     "roonyh": 219,
-    "igor-dv": 688,
+    "igor-dv": 689,
     "shilman": 820,
     "mnmtanish": 808,
     "ndelangen": 1664,
@@ -526,7 +526,7 @@
       "color": "#d4bec1"
     }
   },
-  "fetched_at": "2018-08-29T12:51:27.139Z",
+  "fetched_at": "2018-08-29T23:09:44.411Z",
   "pulls_url": "https://api.github.com/repos/storybooks/storybook/pulls{/number}",
   "pulls_authors": [
     "jcgertig",
@@ -1033,6 +1033,7 @@
     "gabrielbs",
     "DimitrijeManic",
     "Everettss",
-    "donaldpipowitch"
+    "donaldpipowitch",
+    "gombek"
   ]
 }

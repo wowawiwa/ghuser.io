@@ -5006,6 +5006,17 @@
       "created_at": "2016-03-31T23:23:14Z",
       "updated_at": "2016-03-31T23:37:49Z",
       "type": "Organization"
+    },
+    "hapijs": {
+      "login": "hapijs",
+      "url": "https://api.github.com/orgs/hapijs",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3774533?v=4",
+      "name": "hapi.js",
+      "is_verified": false,
+      "html_url": "https://github.com/hapijs",
+      "created_at": "2013-03-05T09:37:26Z",
+      "updated_at": "2018-08-10T15:00:50Z",
+      "type": "Organization"
     }
   }
 }

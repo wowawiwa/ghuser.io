@@ -186,13 +186,13 @@
     "nylira/prism-break": {
       "full_name": "nylira/prism-break",
       "name": "prism-break",
-      "stargazers_count": 1108,
-      "popularity": 4.044225935890071,
+      "stargazers_count": 1107,
+      "popularity": 4.043833477445295,
       "percentage": 0.020610057708161583,
       "maturity": 4.684070926412092,
       "total_commits_count": 4852,
-      "activity": 2.021868360915178,
-      "total_score": 23.533523746299636,
+      "activity": 1.9890682652475307,
+      "total_score": 23.499545223780807,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -212,7 +212,7 @@
     "syl20bnr/spacemacs": {
       "full_name": "syl20bnr/spacemacs",
       "name": "spacemacs",
-      "stargazers_count": 15798,
+      "stargazers_count": 15802,
       "popularity": 5,
       "percentage": 0.014463407578825572,
       "maturity": 4.838952139086211,
@@ -290,13 +290,13 @@
     "leachim6/hello-world": {
       "full_name": "leachim6/hello-world",
       "name": "hello-world",
-      "stargazers_count": 2769,
-      "popularity": 4.4422208625720865,
+      "stargazers_count": 2772,
+      "popularity": 4.442691285585277,
       "percentage": 0.1049317943336831,
       "maturity": 3.9622544716135955,
       "total_commits_count": 953,
       "activity": 5,
-      "total_score": 26.311768457715157,
+      "total_score": 26.31318614385774,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

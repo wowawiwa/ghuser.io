@@ -21,7 +21,7 @@
       "popularity": 1.0414282204429401,
       "percentage": 100,
       "maturity": 0,
-      "total_commits_count": 10,
+      "total_commits_count": 12,
       "activity": 5,
       "total_score": 21.662851527087042,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
@@ -43,13 +43,13 @@
     "js-org/js.org": {
       "full_name": "js-org/js.org",
       "name": "js.org",
-      "stargazers_count": 1858,
-      "popularity": 4.268874376545132,
+      "stargazers_count": 1860,
+      "popularity": 4.269341837420152,
       "percentage": 0,
       "maturity": 4.471278470602837,
       "total_commits_count": 2988,
       "activity": 5,
-      "total_score": 26.74918007084107,
+      "total_score": 26.75058245346613,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }
