@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/remy/mit-license",
   "languages_url": "https://api.github.com/repos/remy/mit-license/languages",
   "created_at": "2011-10-16T14:21:34Z",
-  "updated_at": "2018-08-26T16:00:03Z",
-  "pushed_at": "2018-08-24T06:19:14Z",
+  "updated_at": "2018-08-30T11:01:15Z",
+  "pushed_at": "2018-08-30T12:35:01Z",
   "homepage": "mit-license.org",
   "size": 5159,
-  "stargazers_count": 1721,
+  "stargazers_count": 1722,
   "language": "CSS",
   "mirror_url": null,
   "archived": false,
@@ -470,7 +470,7 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-27T06:21:37.938Z",
+  "fetched_at": "2018-08-30T19:51:26.704Z",
   "pulls_url": "https://api.github.com/repos/remy/mit-license/pulls{/number}",
   "pulls_authors": [
     "claudiosanches",
@@ -1381,6 +1381,8 @@
     "uiwwnw",
     "sunghoonyang",
     "dcronkite",
-    "mikewiesner"
+    "mikewiesner",
+    "thekhenzie",
+    "deecewan"
   ]
 }

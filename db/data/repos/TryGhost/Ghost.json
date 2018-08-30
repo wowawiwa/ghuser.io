@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/TryGhost/Ghost",
   "languages_url": "https://api.github.com/repos/TryGhost/Ghost/languages",
   "created_at": "2013-05-04T11:09:13Z",
-  "updated_at": "2018-08-30T09:24:48Z",
-  "pushed_at": "2018-08-30T09:19:24Z",
+  "updated_at": "2018-08-30T19:47:20Z",
+  "pushed_at": "2018-08-30T17:05:38Z",
   "homepage": "https://ghost.org",
-  "size": 32800,
-  "stargazers_count": 27230,
+  "size": 32907,
+  "stargazers_count": 27237,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -115,7 +115,7 @@
     "vadimdemedes": 7,
     "manuelmitasch": 7,
     "mjbshaw": 7,
-    "gargol": 8,
+    "gargol": 11,
     "codeincontext": 8,
     "disordinary": 10,
     "shindakun": 10,
@@ -143,9 +143,9 @@
     "PaulAdamDavis": 238,
     "greenkeeperio-bot": 242,
     "jaswilli": 406,
-    "kevinansfield": 510,
+    "kevinansfield": 511,
     "JohnONolan": 559,
-    "kirrg001": 806,
+    "kirrg001": 808,
     "ErisDS": 3165,
     "chilts": 2,
     "billfienberg": 2,
@@ -336,19 +336,20 @@
     "zethraeus": 1,
     "zhenkyle": 1,
     "zinyando": 1,
-    "allouis": 2
+    "allouis": 3,
+    "rishabhgrg": 1
   },
   "languages": {
     "JavaScript": {
-      "bytes": 3643340,
+      "bytes": 3665504,
       "color": "#f1e05a"
     },
     "HTML": {
-      "bytes": 204254,
+      "bytes": 204302,
       "color": "#e34c26"
     },
     "CSS": {
-      "bytes": 163694,
+      "bytes": 163778,
       "color": "#563d7c"
     },
     "XSLT": {
@@ -360,7 +361,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-30T09:28:56.867Z",
+  "fetched_at": "2018-08-30T19:48:51.246Z",
   "pulls_url": "https://api.github.com/repos/TryGhost/Ghost/pulls{/number}",
   "pulls_authors": [
     "kirrg001",

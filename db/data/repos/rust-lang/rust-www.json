@@ -78,7 +78,7 @@
     "gabibbo97": 11,
     "killercup": 9,
     "lazpeng": 9,
-    "Mark-Simulacrum": 20,
+    "Mark-Simulacrum": 21,
     "Deedasmi": 10,
     "alx741": 10,
     "mkpankov": 15,
@@ -301,7 +301,8 @@
     "munckymagik": 1,
     "wolf4ood": 1,
     "joshtriplett": 1,
-    "tomprince": 1
+    "tomprince": 1,
+    "pietroalbini": 1
   },
   "name": "rust-www",
   "full_name": "rust-lang/rust-www",
@@ -313,10 +314,10 @@
   "url": "https://api.github.com/repos/rust-lang/rust-www",
   "languages_url": "https://api.github.com/repos/rust-lang/rust-www/languages",
   "created_at": "2011-08-31T16:42:32Z",
-  "updated_at": "2018-08-14T18:01:51Z",
-  "pushed_at": "2018-08-14T21:09:35Z",
+  "updated_at": "2018-08-30T12:49:07Z",
+  "pushed_at": "2018-08-30T12:51:31Z",
   "homepage": "https://www.rust-lang.org",
-  "size": 15625,
+  "size": 15624,
   "stargazers_count": 123,
   "language": "HTML",
   "mirror_url": null,
@@ -375,7 +376,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-15T05:32:26.699Z",
+  "fetched_at": "2018-08-30T19:46:12.254Z",
   "pulls_url": "https://api.github.com/repos/rust-lang/rust-www/pulls{/number}",
   "pulls_authors": [
     "pmarks",
@@ -727,6 +728,12 @@
     "krircc",
     "rafael-grisotto-movile",
     "the-wendell",
-    "nwyoung"
+    "nwyoung",
+    "pietroalbini",
+    "avadacatavra",
+    "Announcement",
+    "tomarrell",
+    "java1cprog",
+    "faintbit"
   ]
 }

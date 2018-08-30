@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/DefinitelyTyped/DefinitelyTyped/languages",
   "pulls_url": "https://api.github.com/repos/DefinitelyTyped/DefinitelyTyped/pulls{/number}",
   "created_at": "2012-10-05T16:39:45Z",
-  "updated_at": "2018-08-30T07:34:26Z",
-  "pushed_at": "2018-08-30T09:13:21Z",
+  "updated_at": "2018-08-30T18:42:49Z",
+  "pushed_at": "2018-08-30T19:39:09Z",
   "homepage": "http://definitelytyped.org/",
-  "size": 352303,
-  "stargazers_count": 17157,
+  "size": 351766,
+  "stargazers_count": 17166,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -62,7 +62,7 @@
     "pjmagee": 42,
     "danmarshall": 41,
     "konne": 41,
-    "alloy": 225,
+    "alloy": 226,
     "aj-r": 51,
     "mohsen1": 35,
     "Aaronphy": 41,
@@ -150,9 +150,9 @@
     "andy-ms": 1459,
     "minestarks": 640,
     "aozgaa": 481,
-    "uniqueiniquity": 470,
+    "uniqueiniquity": 471,
     "rbuckton": 335,
-    "armanio123": 405,
+    "armanio123": 415,
     "yuit": 198,
     "bowdenk7": 183,
     "zhengbli": 157,
@@ -235,7 +235,7 @@
     "Strate": 23,
     "joscha": 23,
     "geoffreak": 23,
-    "Rick-Kirkham": 26,
+    "Rick-Kirkham": 27,
     "cwmoo740": 23,
     "jbaldwin": 23,
     "KonstantinKai": 23,
@@ -398,7 +398,7 @@
     "spielc": 14,
     "florentpoujol": 14,
     "staticfunction": 14,
-    "Ailrun": 14,
+    "Ailrun": 15,
     "mgroenhoff": 14,
     "Aankhen": 13,
     "kingdango": 13,
@@ -8932,11 +8932,16 @@
     "jerolimov",
     "nwtgck",
     "SeraphicRav",
-    "yousky"
+    "yousky",
+    "harrisonhunter",
+    "jlismore",
+    "baso53",
+    "willmanduffy",
+    "akx"
   ],
   "languages": {
     "TypeScript": {
-      "bytes": 25010919,
+      "bytes": 25017895,
       "color": "#2b7489"
     },
     "JavaScript": {
@@ -8948,5 +8953,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-30T09:26:09.536Z"
+  "fetched_at": "2018-08-30T19:45:39.843Z"
 }

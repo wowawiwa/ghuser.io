@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/kubernetes/community",
   "languages_url": "https://api.github.com/repos/kubernetes/community/languages",
   "created_at": "2016-05-03T03:36:05Z",
-  "updated_at": "2018-08-30T03:23:16Z",
-  "pushed_at": "2018-08-30T06:59:36Z",
+  "updated_at": "2018-08-30T19:31:13Z",
+  "pushed_at": "2018-08-30T19:30:56Z",
   "homepage": "",
-  "size": 31750,
-  "stargazers_count": 2410,
+  "size": 31753,
+  "stargazers_count": 2413,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -104,7 +104,7 @@
     "brendandburns": 22,
     "kow3ns": 18,
     "gmarek": 20,
-    "nikhita": 19,
+    "nikhita": 20,
     "lixiaobing1": 18,
     "xiangpengzhao": 22,
     "gnufied": 19,
@@ -126,7 +126,7 @@
     "michelleN": 38,
     "quinton-hoole": 32,
     "philips": 63,
-    "wojtek-t": 42,
+    "wojtek-t": 43,
     "calebamiles": 42,
     "saad-ali": 44,
     "lavalamp": 47,
@@ -144,11 +144,11 @@
     "caesarxuchao": 72,
     "idvoretskyi": 101,
     "thockin": 95,
-    "castrojo": 102,
+    "castrojo": 103,
     "cblecker": 141,
     "bgrant0607": 170,
     "k8s-merge-robot": 714,
-    "k8s-ci-robot": 675,
+    "k8s-ci-robot": 679,
     "resouer": 19,
     "chrislovecnm": 17,
     "dims": 16,
@@ -467,7 +467,7 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-30T09:30:05.537Z",
+  "fetched_at": "2018-08-30T19:49:59.012Z",
   "pulls_url": "https://api.github.com/repos/kubernetes/community/pulls{/number}",
   "pulls_authors": [
     "castrojo",
@@ -1064,6 +1064,7 @@
     "cstoku",
     "anothertobi",
     "bruceauyeung",
-    "yue9944882"
+    "yue9944882",
+    "scottrigby"
   ]
 }

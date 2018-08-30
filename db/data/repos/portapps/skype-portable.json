@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/portapps/skype-portable",
   "languages_url": "https://api.github.com/repos/portapps/skype-portable/languages",
   "created_at": "2017-11-30T08:50:53Z",
-  "updated_at": "2018-08-15T10:27:03Z",
-  "pushed_at": "2018-08-15T11:19:11Z",
+  "updated_at": "2018-08-30T14:07:19Z",
+  "pushed_at": "2018-08-30T14:25:16Z",
   "homepage": "https://portapps.github.io/app/skype-portable",
-  "size": 78,
+  "size": 81,
   "stargazers_count": 11,
   "language": "Go",
   "mirror_url": null,
@@ -47,7 +47,7 @@
     "site_admin": false
   },
   "contributors": {
-    "crazy-max": 36
+    "crazy-max": 38
   },
   "languages": {
     "Go": {
@@ -55,7 +55,7 @@
       "color": "#375eab"
     }
   },
-  "fetched_at": "2018-08-15T16:05:05.131Z",
+  "fetched_at": "2018-08-30T19:46:34.174Z",
   "pulls_url": "https://api.github.com/repos/portapps/skype-portable/pulls{/number}",
   "pulls_authors": []
 }

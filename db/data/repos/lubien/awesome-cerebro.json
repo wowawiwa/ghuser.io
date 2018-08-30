@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/lubien/awesome-cerebro/languages",
   "pulls_url": "https://api.github.com/repos/lubien/awesome-cerebro/pulls{/number}",
   "created_at": "2017-03-02T23:37:22Z",
-  "updated_at": "2018-08-29T02:23:13Z",
-  "pushed_at": "2018-07-24T21:40:38Z",
+  "updated_at": "2018-08-30T18:15:22Z",
+  "pushed_at": "2018-08-30T18:15:20Z",
   "homepage": null,
-  "size": 40,
+  "size": 44,
   "stargazers_count": 192,
   "language": null,
   "mirror_url": null,
@@ -41,7 +41,8 @@
     "rafa-acioly": 2,
     "BrainMaestro": 2,
     "tiagoamaro": 4,
-    "lubien": 17
+    "lubien": 17,
+    "shsssc": 1
   },
   "pulls_authors": [
     "jnavb",
@@ -63,8 +64,9 @@
     "BrainMaestro",
     "Krbz",
     "jsantiagoh",
-    "tiagoamaro"
+    "tiagoamaro",
+    "shsssc"
   ],
   "languages": {},
-  "fetched_at": "2018-08-29T02:30:05.053Z"
+  "fetched_at": "2018-08-30T19:51:13.755Z"
 }

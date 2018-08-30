@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/travis-ci/docs-travis-ci-com",
   "languages_url": "https://api.github.com/repos/travis-ci/docs-travis-ci-com/languages",
   "created_at": "2014-01-16T16:57:49Z",
-  "updated_at": "2018-08-28T16:38:11Z",
-  "pushed_at": "2018-08-28T16:38:02Z",
+  "updated_at": "2018-08-30T14:53:07Z",
+  "pushed_at": "2018-08-30T14:52:58Z",
   "homepage": "http://docs.travis-ci.com",
-  "size": 22180,
+  "size": 22199,
   "stargazers_count": 288,
   "language": "CSS",
   "mirror_url": null,
@@ -151,7 +151,7 @@
     "svenfuchs": 89,
     "MariadeAnton": 119,
     "sarahhodne": 104,
-    "cotsog": 108,
+    "cotsog": 109,
     "meatballhat": 131,
     "joshk": 207,
     "rkh": 215,
@@ -473,7 +473,7 @@
     "grahamc": 5,
     "lunagraysen": 3
   },
-  "fetched_at": "2018-08-29T02:27:33.601Z",
+  "fetched_at": "2018-08-30T19:48:19.076Z",
   "pulls_url": "https://api.github.com/repos/travis-ci/docs-travis-ci-com/pulls{/number}",
   "pulls_authors": [
     "DrTorte",
@@ -1108,6 +1108,8 @@
     "marcelklehr",
     "sorta",
     "grahamc",
-    "upupming"
+    "upupming",
+    "lipmas",
+    "teor2345"
   ]
 }

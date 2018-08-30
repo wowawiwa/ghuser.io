@@ -11,12 +11,12 @@
   "languages_url": "https://api.github.com/repos/azdanov/thespacebar/languages",
   "pulls_url": "https://api.github.com/repos/azdanov/thespacebar/pulls{/number}",
   "created_at": "2018-08-29T17:21:34Z",
-  "updated_at": "2018-08-29T17:58:12Z",
-  "pushed_at": "2018-08-29T17:58:10Z",
+  "updated_at": "2018-08-30T16:15:06Z",
+  "pushed_at": "2018-08-30T16:15:04Z",
   "homepage": "https://thespacebar.herokuapp.com/",
-  "size": 19,
+  "size": 2034,
   "stargazers_count": 1,
-  "language": "PHP",
+  "language": "HTML",
   "mirror_url": null,
   "archived": false,
   "license": {
@@ -28,14 +28,26 @@
   },
   "default_branch": "master",
   "contributors": {
-    "azdanov": 6
+    "azdanov": 21
   },
   "pulls_authors": [],
   "languages": {
+    "HTML": {
+      "bytes": 16823,
+      "color": "#e34c26"
+    },
     "PHP": {
-      "bytes": 5120,
+      "bytes": 7383,
       "color": "#4F5D95"
+    },
+    "CSS": {
+      "bytes": 3427,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 369,
+      "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-29T23:05:23.482Z"
+  "fetched_at": "2018-08-30T19:45:34.242Z"
 }

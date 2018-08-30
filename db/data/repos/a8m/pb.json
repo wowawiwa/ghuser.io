@@ -27,11 +27,11 @@
   "url": "https://api.github.com/repos/a8m/pb",
   "languages_url": "https://api.github.com/repos/a8m/pb/languages",
   "created_at": "2015-10-14T19:08:31Z",
-  "updated_at": "2018-08-25T09:58:17Z",
+  "updated_at": "2018-08-30T16:30:23Z",
   "pushed_at": "2018-07-30T21:51:18Z",
   "homepage": "",
   "size": 9280,
-  "stargazers_count": 185,
+  "stargazers_count": 186,
   "language": "Rust",
   "mirror_url": null,
   "archived": false,
@@ -49,7 +49,7 @@
       "color": "#dea584"
     }
   },
-  "fetched_at": "2018-08-25T19:32:49.074Z",
+  "fetched_at": "2018-08-30T19:46:12.856Z",
   "pulls_url": "https://api.github.com/repos/a8m/pb/pulls{/number}",
   "pulls_authors": [
     "kpcyrd",

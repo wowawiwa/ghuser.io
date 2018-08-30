@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/sw-yx/swyxdotio",
   "languages_url": "https://api.github.com/repos/sw-yx/swyxdotio/languages",
   "created_at": "2017-10-22T06:35:18Z",
-  "updated_at": "2018-08-25T04:40:40Z",
-  "pushed_at": "2018-08-25T04:40:39Z",
+  "updated_at": "2018-08-30T14:35:48Z",
+  "pushed_at": "2018-08-30T14:35:47Z",
   "homepage": "https://swyx.io",
-  "size": 19619,
+  "size": 19621,
   "stargazers_count": 4,
   "language": "JavaScript",
   "mirror_url": null,
@@ -32,7 +32,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 17550,
+      "bytes": 18139,
       "color": "#f1e05a"
     },
     "CSS": {
@@ -40,7 +40,7 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-08-25T09:20:43.470Z",
+  "fetched_at": "2018-08-30T19:50:47.150Z",
   "pulls_url": "https://api.github.com/repos/sw-yx/swyxdotio/pulls{/number}",
   "pulls_authors": [
     "tomByrer"

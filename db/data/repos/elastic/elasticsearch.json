@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/elastic/elasticsearch",
   "languages_url": "https://api.github.com/repos/elastic/elasticsearch/languages",
   "created_at": "2010-02-08T13:20:56Z",
-  "updated_at": "2018-08-30T09:23:34Z",
-  "pushed_at": "2018-08-30T09:18:36Z",
+  "updated_at": "2018-08-30T19:10:18Z",
+  "pushed_at": "2018-08-30T19:47:48Z",
   "homepage": "https://www.elastic.co/products/elasticsearch",
-  "size": 507862,
-  "stargazers_count": 33904,
+  "size": 507978,
+  "stargazers_count": 33913,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "Java": {
-      "bytes": 69455784,
+      "bytes": 69458798,
       "color": "#b07219"
     },
     "Groovy": {
@@ -130,7 +130,7 @@
     "gmarz": 34,
     "dliappis": 29,
     "lukas-vlcek": 29,
-    "jkakavas": 51,
+    "jkakavas": 52,
     "alexshadow007": 29,
     "liketic": 32,
     "simianhacker": 79,
@@ -154,7 +154,7 @@
     "tvernum": 132,
     "nknize": 130,
     "talevy": 183,
-    "dnhatn": 161,
+    "dnhatn": 162,
     "danielmitterdorfer": 188,
     "jdconrad": 241,
     "karmi": 184,
@@ -169,7 +169,7 @@
     "mikemccand": 344,
     "dimitris-athanasiou": 356,
     "brwe": 414,
-    "jimczi": 459,
+    "jimczi": 461,
     "areek": 457,
     "ywelsch": 498,
     "lcawl": 467,
@@ -180,7 +180,7 @@
     "tlrx": 694,
     "cbuescher": 990,
     "jaymode": 819,
-    "spinscale": 877,
+    "spinscale": 878,
     "rmuir": 1256,
     "clintongormley": 1088,
     "bleskes": 1094,
@@ -191,7 +191,7 @@
     "javanna": 1880,
     "jasontedor": 2160,
     "martijnvg": 2123,
-    "s1monw": 3110,
+    "s1monw": 3111,
     "kimchy": 4781,
     "lukasolson": 110,
     "w33ble": 59,
@@ -472,7 +472,7 @@
     "lipsill": 4,
     "codebrain": 2
   },
-  "fetched_at": "2018-08-30T09:29:02.843Z",
+  "fetched_at": "2018-08-30T19:48:56.955Z",
   "pulls_url": "https://api.github.com/repos/elastic/elasticsearch/pulls{/number}",
   "pulls_authors": [
     "benwtrent",
@@ -2304,6 +2304,8 @@
     "tahaderouiche",
     "derickson",
     "laxsrbija",
-    "GNayagam"
+    "GNayagam",
+    "chrisronline",
+    "tony-dillon"
   ]
 }

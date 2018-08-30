@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/netlify/staticgen/languages",
   "pulls_url": "https://api.github.com/repos/netlify/staticgen/pulls{/number}",
   "created_at": "2014-04-25T19:15:38Z",
-  "updated_at": "2018-08-30T07:39:51Z",
-  "pushed_at": "2018-08-29T20:29:54Z",
+  "updated_at": "2018-08-30T17:09:42Z",
+  "pushed_at": "2018-08-30T17:09:43Z",
   "homepage": "http://www.staticgen.com",
   "size": 5262,
-  "stargazers_count": 1764,
+  "stargazers_count": 1765,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -283,7 +283,8 @@
     "wkallhof": 1,
     "MitchellCash": 3,
     "cekvenich": 1,
-    "mansona": 2
+    "mansona": 2,
+    "brycekahle": 1
   },
   "pulls_authors": [
     "leonstafford",
@@ -561,5 +562,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-30T09:25:24.217Z"
+  "fetched_at": "2018-08-30T19:44:46.589Z"
 }

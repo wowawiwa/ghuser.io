@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/boto/boto",
   "languages_url": "https://api.github.com/repos/boto/boto/languages",
   "created_at": "2010-07-12T19:15:33Z",
-  "updated_at": "2018-08-29T12:02:49Z",
-  "pushed_at": "2018-08-08T16:43:18Z",
+  "updated_at": "2018-08-30T13:59:46Z",
+  "pushed_at": "2018-08-30T17:57:43Z",
   "homepage": "http://docs.pythonboto.org/",
   "size": 15815,
-  "stargazers_count": 6169,
+  "stargazers_count": 6170,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -406,7 +406,7 @@
     "goura": 1,
     "dstufft": 7
   },
-  "fetched_at": "2018-08-29T12:49:40.782Z",
+  "fetched_at": "2018-08-30T19:49:11.266Z",
   "pulls_url": "https://api.github.com/repos/boto/boto/pulls{/number}",
   "pulls_authors": [
     "cclauss",
@@ -1445,6 +1445,7 @@
     "jerith",
     "rodneyodonnell",
     "rlotun",
-    "KeyboardNerd"
+    "KeyboardNerd",
+    "jbvsmo"
   ]
 }

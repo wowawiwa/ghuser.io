@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/toggl/toggldesktop/languages",
   "pulls_url": "https://api.github.com/repos/toggl/toggldesktop/pulls{/number}",
   "created_at": "2014-02-10T17:50:41Z",
-  "updated_at": "2018-08-29T10:22:27Z",
-  "pushed_at": "2018-08-29T10:28:54Z",
+  "updated_at": "2018-08-30T14:10:01Z",
+  "pushed_at": "2018-08-30T14:14:09Z",
   "homepage": "https://toggl.github.io/toggldesktop/",
-  "size": 209602,
+  "size": 209661,
   "stargazers_count": 1024,
   "language": "C++",
   "mirror_url": null,
@@ -49,7 +49,7 @@
   },
   "contributors": {
     "tanel": 3602,
-    "IndrekV": 1729,
+    "IndrekV": 1733,
     "amulware": 604,
     "unmultimedio": 12,
     "samford": 8,
@@ -130,9 +130,9 @@
       "color": "#000080"
     },
     "Shell": {
-      "bytes": 3974,
+      "bytes": 4116,
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-29T12:48:59.312Z"
+  "fetched_at": "2018-08-30T19:48:29.212Z"
 }
