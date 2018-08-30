@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/probot/settings",
   "languages_url": "https://api.github.com/repos/probot/settings/languages",
   "created_at": "2017-01-22T17:33:36Z",
-  "updated_at": "2018-08-21T21:37:37Z",
-  "pushed_at": "2018-08-21T11:18:14Z",
+  "updated_at": "2018-08-30T07:27:16Z",
+  "pushed_at": "2018-08-30T07:48:25Z",
   "homepage": "https://github.com/apps/settings",
-  "size": 236,
-  "stargazers_count": 231,
+  "size": 238,
+  "stargazers_count": 232,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -74,7 +74,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-21T21:49:03.038Z",
+  "fetched_at": "2018-08-30T09:29:35.008Z",
   "pulls_url": "https://api.github.com/repos/probot/settings/pulls{/number}",
   "pulls_authors": [
     "jwsloan",

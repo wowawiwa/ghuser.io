@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/muan/hello-world/languages",
   "pulls_url": "https://api.github.com/repos/muan/hello-world/pulls{/number}",
   "created_at": "2015-03-18T23:06:58Z",
-  "updated_at": "2018-08-05T16:09:19Z",
-  "pushed_at": "2018-08-18T08:39:52Z",
+  "updated_at": "2018-08-30T03:10:40Z",
+  "pushed_at": "2018-08-30T03:05:45Z",
   "homepage": "http://muan.co/hello-world/",
-  "size": 203,
+  "size": 185,
   "stargazers_count": 57,
   "language": "HTML",
   "mirror_url": null,
@@ -250,7 +250,8 @@
     "anestan",
     "yiwenhuang",
     "JuanitoFatas",
-    "joshhartigan"
+    "joshhartigan",
+    "muan"
   ],
   "languages": {
     "HTML": {
@@ -258,5 +259,5 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-08-23T12:44:42.224Z"
+  "fetched_at": "2018-08-30T09:26:54.082Z"
 }

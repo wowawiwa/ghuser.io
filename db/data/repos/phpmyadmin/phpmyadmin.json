@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/phpmyadmin/phpmyadmin",
   "languages_url": "https://api.github.com/repos/phpmyadmin/phpmyadmin/languages",
   "created_at": "2012-01-19T13:21:52Z",
-  "updated_at": "2018-08-29T23:03:07Z",
-  "pushed_at": "2018-08-29T23:02:58Z",
+  "updated_at": "2018-08-30T05:50:12Z",
+  "pushed_at": "2018-08-30T05:50:04Z",
   "homepage": "https://www.phpmyadmin.net/",
-  "size": 564849,
+  "size": 564871,
   "stargazers_count": 3333,
   "language": "PHP",
   "mirror_url": null,
@@ -132,7 +132,7 @@
     "lordark666": 623,
     "Tithugues": 755,
     "mehboobbugti": 726,
-    "mauriciofauth": 1018,
+    "mauriciofauth": 1021,
     "Abdullah-h10": 806,
     "derrabus": 845,
     "alexukf": 918,
@@ -147,7 +147,7 @@
     "madhuracj": 6348,
     "nijel": 16123,
     "lem9": 15560,
-    "weblate": 3192,
+    "weblate": 3193,
     "ammaryasir": 77,
     "kb-yashodha": 57,
     "manishbisht": 56,
@@ -337,7 +337,7 @@
   },
   "languages": {
     "PHP": {
-      "bytes": 7247778,
+      "bytes": 7247692,
       "color": "#4F5D95"
     },
     "JavaScript": {
@@ -345,7 +345,7 @@
       "color": "#f1e05a"
     },
     "HTML": {
-      "bytes": 384061,
+      "bytes": 384036,
       "color": "#e34c26"
     },
     "Shell": {
@@ -361,7 +361,7 @@
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-08-29T23:04:45.870Z",
+  "fetched_at": "2018-08-30T09:25:21.370Z",
   "pulls_url": "https://api.github.com/repos/phpmyadmin/phpmyadmin/pulls{/number}",
   "pulls_authors": [
     "troglodyne",

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/rtfeldman/elm-spa-example/languages",
   "pulls_url": "https://api.github.com/repos/rtfeldman/elm-spa-example/pulls{/number}",
   "created_at": "2017-05-08T07:41:27Z",
-  "updated_at": "2018-08-29T13:25:39Z",
-  "pushed_at": "2018-08-28T12:16:31Z",
+  "updated_at": "2018-08-30T04:15:11Z",
+  "pushed_at": "2018-08-30T06:53:11Z",
   "homepage": "https://dev.to/rtfeldman/tour-of-an-open-source-elm-spa",
   "size": 774,
-  "stargazers_count": 1857,
+  "stargazers_count": 1860,
   "language": "Elm",
   "mirror_url": null,
   "archived": false,
@@ -61,7 +61,8 @@
     "littleStudent",
     "EricSimons",
     "jasondew",
-    "MarkFarmiloe"
+    "MarkFarmiloe",
+    "kzc"
   ],
   "languages": {
     "Elm": {
@@ -73,5 +74,5 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-08-29T23:04:48.947Z"
+  "fetched_at": "2018-08-30T09:25:25.132Z"
 }

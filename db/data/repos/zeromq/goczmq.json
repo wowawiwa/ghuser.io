@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/zeromq/goczmq",
   "languages_url": "https://api.github.com/repos/zeromq/goczmq/languages",
   "created_at": "2014-09-05T20:26:12Z",
-  "updated_at": "2018-08-24T10:35:03Z",
-  "pushed_at": "2018-02-06T18:25:44Z",
+  "updated_at": "2018-08-30T02:15:01Z",
+  "pushed_at": "2018-08-30T02:14:59Z",
   "homepage": "",
-  "size": 942,
+  "size": 945,
   "stargazers_count": 251,
   "language": "Go",
   "mirror_url": null,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "Go": {
-      "bytes": 182772,
+      "bytes": 183561,
       "color": "#375eab"
     },
     "Makefile": {
@@ -68,9 +68,10 @@
     "indradhanush": 2,
     "jordansissel": 2,
     "cyrilleverrier": 4,
-    "taotetek": 228
+    "taotetek": 228,
+    "arodland": 3
   },
-  "fetched_at": "2018-08-24T12:42:47.765Z",
+  "fetched_at": "2018-08-30T09:29:09.596Z",
   "pulls_url": "https://api.github.com/repos/zeromq/goczmq/pulls{/number}",
   "pulls_authors": [
     "ashcrow",
@@ -85,6 +86,7 @@
     "indradhanush",
     "jordansissel",
     "vrecan",
-    "luna-duclos"
+    "luna-duclos",
+    "arodland"
   ]
 }

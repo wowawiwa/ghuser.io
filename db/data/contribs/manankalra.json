@@ -134,13 +134,13 @@
     "coala/projects": {
       "full_name": "coala/projects",
       "name": "projects",
-      "stargazers_count": 66,
-      "popularity": 2.813620017180149,
+      "stargazers_count": 67,
+      "popularity": 2.820240489005938,
       "percentage": 0.477326968973747,
       "maturity": 3.5804896459395987,
       "total_commits_count": 419,
       "activity": 5,
-      "total_score": 20.776431516323427,
+      "total_score": 20.796703748668264,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -186,13 +186,13 @@
     "zenodo/zenodo": {
       "full_name": "zenodo/zenodo",
       "name": "zenodo",
-      "stargazers_count": 237,
-      "popularity": 3.373135059176772,
+      "stargazers_count": 238,
+      "popularity": 3.374970626146057,
       "percentage": 0.06064281382656155,
       "maturity": 4.208319245756767,
       "total_commits_count": 1649,
       "activity": 5,
-      "total_score": 23.562636001226565,
+      "total_score": 23.5681571729474,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

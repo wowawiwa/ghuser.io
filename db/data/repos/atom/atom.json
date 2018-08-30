@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/atom/atom/languages",
   "pulls_url": "https://api.github.com/repos/atom/atom/pulls{/number}",
   "created_at": "2012-01-20T18:18:21Z",
-  "updated_at": "2018-08-29T20:55:24Z",
-  "pushed_at": "2018-08-29T22:51:02Z",
+  "updated_at": "2018-08-30T09:24:44Z",
+  "pushed_at": "2018-08-29T23:49:51Z",
   "homepage": "https://atom.io",
   "size": 301926,
-  "stargazers_count": 46173,
+  "stargazers_count": 46180,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -1245,7 +1245,8 @@
     "stepanhruda",
     "sivaprasadreddynooli",
     "sunz7",
-    "SpencerSnake"
+    "SpencerSnake",
+    "ariasuni"
   ],
   "languages": {
     "JavaScript": {
@@ -1277,5 +1278,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-29T23:10:09.955Z"
+  "fetched_at": "2018-08-30T09:31:35.642Z"
 }

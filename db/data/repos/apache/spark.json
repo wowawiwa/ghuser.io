@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/apache/spark",
   "languages_url": "https://api.github.com/repos/apache/spark/languages",
   "created_at": "2014-02-25T08:00:08Z",
-  "updated_at": "2018-08-29T22:24:48Z",
-  "pushed_at": "2018-08-29T22:55:32Z",
+  "updated_at": "2018-08-30T09:04:59Z",
+  "pushed_at": "2018-08-30T09:20:43Z",
   "homepage": null,
-  "size": 280415,
-  "stargazers_count": 18558,
+  "size": 280473,
+  "stargazers_count": 18577,
   "language": "Scala",
   "mirror_url": null,
   "archived": false,
@@ -99,7 +99,7 @@
     "jiangxb1987": 83,
     "woggle": 72,
     "dennybritz": 85,
-    "wangyum": 80,
+    "wangyum": 81,
     "witgo": 75,
     "karenfeng": 85,
     "davies": 80,
@@ -390,7 +390,7 @@
   },
   "languages": {
     "Scala": {
-      "bytes": 27240644,
+      "bytes": 27240731,
       "color": "#c22d40"
     },
     "Java": {
@@ -398,7 +398,7 @@
       "color": "#b07219"
     },
     "Python": {
-      "bytes": 2734982,
+      "bytes": 2735026,
       "color": "#3572A5"
     },
     "HiveQL": {
@@ -470,7 +470,7 @@
       "color": "#555555"
     }
   },
-  "fetched_at": "2018-08-29T23:08:45.020Z",
+  "fetched_at": "2018-08-30T09:29:48.624Z",
   "pulls_url": "https://api.github.com/repos/apache/spark/pulls{/number}",
   "pulls_authors": [
     "techaddict",
@@ -2775,6 +2775,7 @@
     "ArunkumarRamanan",
     "TomaszGaweda",
     "npoberezkin",
-    "aai95"
+    "aai95",
+    "MichaelChirico"
   ]
 }

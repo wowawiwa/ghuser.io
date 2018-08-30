@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/elastic/kibana",
   "languages_url": "https://api.github.com/repos/elastic/kibana/languages",
   "created_at": "2013-01-26T04:00:59Z",
-  "updated_at": "2018-08-29T22:46:47Z",
-  "pushed_at": "2018-08-29T22:42:48Z",
+  "updated_at": "2018-08-30T09:12:56Z",
+  "pushed_at": "2018-08-30T09:19:42Z",
   "homepage": "https://www.elastic.co/products/kibana",
-  "size": 449446,
-  "stargazers_count": 9961,
+  "size": 449474,
+  "stargazers_count": 9969,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,15 +48,15 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 18461319,
+      "bytes": 18466448,
       "color": "#f1e05a"
     },
     "TypeScript": {
-      "bytes": 913648,
+      "bytes": 898355,
       "color": "#2b7489"
     },
     "HTML": {
-      "bytes": 828026,
+      "bytes": 828438,
       "color": "#e34c26"
     },
     "CSS": {
@@ -64,15 +64,19 @@
       "color": "#563d7c"
     },
     "Shell": {
-      "bytes": 17668,
+      "bytes": 18211,
       "color": "#89e051"
     },
     "Perl": {
       "bytes": 12776,
       "color": "#0298c3"
     },
+    "Python": {
+      "bytes": 5876,
+      "color": "#3572A5"
+    },
     "Batchfile": {
-      "bytes": 943,
+      "bytes": 2350,
       "color": "#C1F12E"
     },
     "Dockerfile": {
@@ -115,20 +119,20 @@
     "imotov": 6,
     "K-Phoen": 6,
     "alexbrasetvik": 7,
-    "silne30": 8,
+    "silne30": 9,
     "fbaligand": 7,
     "hickeyma": 7,
     "wwsean08": 8,
     "Filirom1": 7,
     "rasroh": 10,
-    "bhavyarm": 8,
+    "bhavyarm": 9,
     "gmoskovicz": 8,
     "liza-mae": 17,
     "markharwood": 9,
     "drej82": 9,
     "grouma": 16,
     "jarpy": 10,
-    "chrisdavies": 16,
+    "chrisdavies": 17,
     "acs": 16,
     "coverslide": 11,
     "repocho": 12,
@@ -167,7 +171,7 @@
     "panda01": 323,
     "BigFunger": 339,
     "Stacey-Gammon": 271,
-    "ppisljar": 279,
+    "ppisljar": 280,
     "LeeDr": 325,
     "ycombinator": 330,
     "epixa": 395,
@@ -347,7 +351,7 @@
     "pjhampton": 1,
     "simitt": 2,
     "cchaos": 6,
-    "maryia-lapata": 2,
+    "maryia-lapata": 3,
     "dedemorton": 1,
     "sunui": 1,
     "joshdover": 2,
@@ -355,9 +359,10 @@
     "going-confetti": 1,
     "scottis": 1,
     "jasonrhodes": 4,
-    "rshen91": 1
+    "rshen91": 1,
+    "blfrantz": 1
   },
-  "fetched_at": "2018-08-29T23:08:10.022Z",
+  "fetched_at": "2018-08-30T09:29:10.606Z",
   "pulls_url": "https://api.github.com/repos/elastic/kibana/pulls{/number}",
   "pulls_authors": [
     "nreese",

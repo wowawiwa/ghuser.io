@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/Rhymen/go-whatsapp/languages",
   "pulls_url": "https://api.github.com/repos/Rhymen/go-whatsapp/pulls{/number}",
   "created_at": "2018-04-10T14:54:55Z",
-  "updated_at": "2018-08-28T09:51:27Z",
-  "pushed_at": "2018-08-25T21:03:56Z",
+  "updated_at": "2018-08-30T06:54:50Z",
+  "pushed_at": "2018-08-30T06:54:49Z",
   "homepage": "",
-  "size": 112,
+  "size": 119,
   "stargazers_count": 52,
   "language": "Go",
   "mirror_url": null,
@@ -32,7 +32,7 @@
     "tkovs": 1,
     "SchulteMK": 27,
     "Rhymen": 40,
-    "tulir": 1
+    "tulir": 2
   },
   "pulls_authors": [
     "DiSiqueira",
@@ -41,9 +41,9 @@
   ],
   "languages": {
     "Go": {
-      "bytes": 73641,
+      "bytes": 74287,
       "color": "#375eab"
     }
   },
-  "fetched_at": "2018-08-28T16:04:13.315Z"
+  "fetched_at": "2018-08-30T09:27:39.525Z"
 }

@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/kubernetes/community",
   "languages_url": "https://api.github.com/repos/kubernetes/community/languages",
   "created_at": "2016-05-03T03:36:05Z",
-  "updated_at": "2018-08-29T23:00:23Z",
-  "pushed_at": "2018-08-29T23:06:51Z",
+  "updated_at": "2018-08-30T03:23:16Z",
+  "pushed_at": "2018-08-30T06:59:36Z",
   "homepage": "",
-  "size": 31742,
+  "size": 31750,
   "stargazers_count": 2410,
   "language": "Go",
   "mirror_url": null,
@@ -148,7 +148,7 @@
     "cblecker": 141,
     "bgrant0607": 170,
     "k8s-merge-robot": 714,
-    "k8s-ci-robot": 674,
+    "k8s-ci-robot": 675,
     "resouer": 19,
     "chrislovecnm": 17,
     "dims": 16,
@@ -467,7 +467,7 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-29T23:08:58.636Z",
+  "fetched_at": "2018-08-30T09:30:05.537Z",
   "pulls_url": "https://api.github.com/repos/kubernetes/community/pulls{/number}",
   "pulls_authors": [
     "castrojo",
@@ -1062,6 +1062,8 @@
     "paulangton",
     "willhayslett",
     "cstoku",
-    "anothertobi"
+    "anothertobi",
+    "bruceauyeung",
+    "yue9944882"
   ]
 }

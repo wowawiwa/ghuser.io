@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/Code4Nepal/data/languages",
   "pulls_url": "https://api.github.com/repos/Code4Nepal/data/pulls{/number}",
   "created_at": "2016-10-26T12:07:09Z",
-  "updated_at": "2018-08-29T21:38:45Z",
-  "pushed_at": "2018-08-29T21:38:41Z",
+  "updated_at": "2018-08-30T01:26:06Z",
+  "pushed_at": "2018-08-30T02:08:33Z",
   "homepage": "http://codefornepal.org/",
-  "size": 9957,
+  "size": 9962,
   "stargazers_count": 4,
   "language": null,
   "mirror_url": null,
@@ -49,7 +49,7 @@
     "FerranMarin": 4,
     "codefornepal": 8,
     "nikeshbalami": 45,
-    "pratimakandel": 42
+    "pratimakandel": 43
   },
   "pulls_authors": [
     "nikeshbalami",
@@ -57,8 +57,9 @@
     "Nhorning",
     "cliftonmcintosh",
     "FerranMarin",
-    "andy-j"
+    "andy-j",
+    "pratimakandel"
   ],
   "languages": {},
-  "fetched_at": "2018-08-29T23:04:34.702Z"
+  "fetched_at": "2018-08-30T09:25:08.539Z"
 }

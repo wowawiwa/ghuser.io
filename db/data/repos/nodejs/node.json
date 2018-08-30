@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/nodejs/node",
   "languages_url": "https://api.github.com/repos/nodejs/node/languages",
   "created_at": "2014-11-26T19:57:11Z",
-  "updated_at": "2018-08-29T22:42:20Z",
-  "pushed_at": "2018-08-29T22:02:26Z",
+  "updated_at": "2018-08-30T09:24:45Z",
+  "pushed_at": "2018-08-30T09:04:11Z",
   "homepage": "https://nodejs.org",
-  "size": 404805,
-  "stargazers_count": 52784,
+  "size": 404897,
+  "stargazers_count": 52807,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 6806541,
+      "bytes": 6813129,
       "color": "#f1e05a"
     },
     "C++": {
@@ -68,7 +68,7 @@
       "color": "#e34c26"
     },
     "Makefile": {
-      "bytes": 43057,
+      "bytes": 43275,
       "color": "#427819"
     },
     "DTrace": {
@@ -564,7 +564,7 @@
     "charlieduong94": 2,
     "chasestarr": 2,
     "dinophile": 2,
-    "rubys": 19,
+    "rubys": 20,
     "aduh95": 3,
     "lundibundi": 10,
     "kenny-y": 3,
@@ -574,7 +574,7 @@
     "tlhunter": 3,
     "Maledong": 7
   },
-  "fetched_at": "2018-08-29T23:09:00.062Z",
+  "fetched_at": "2018-08-30T09:30:08.149Z",
   "pulls_url": "https://api.github.com/repos/nodejs/node/pulls{/number}",
   "pulls_authors": [
     "mmarchini",

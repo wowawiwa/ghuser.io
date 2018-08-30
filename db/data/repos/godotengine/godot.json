@@ -78,7 +78,7 @@
     "tagcup": 69,
     "AndreaCatania": 94,
     "endragor": 74,
-    "YeldhamDev": 86,
+    "YeldhamDev": 87,
     "punto-": 121,
     "BastiaanOlij": 96,
     "groud": 146,
@@ -89,7 +89,7 @@
     "marynate": 118,
     "karroffel": 291,
     "bojidar-bg": 130,
-    "eska014": 161,
+    "eska014": 162,
     "Faless": 172,
     "Paulb23": 171,
     "djrm": 169,
@@ -99,7 +99,7 @@
     "Hinsbart": 303,
     "neikeq": 370,
     "volzhs": 300,
-    "akien-mga": 4953,
+    "akien-mga": 4956,
     "reduz": 2862,
     "cbscribe": 39,
     "Spooner": 16,
@@ -407,7 +407,7 @@
     "ordigdug": 4,
     "razcore-art": 3,
     "TigerCaldwell": 2,
-    "TGRCdev": 2,
+    "TGRCdev": 3,
     "wcb88": 2,
     "Ertain": 3,
     "goodyttoor": 2,
@@ -441,11 +441,11 @@
   "url": "https://api.github.com/repos/godotengine/godot",
   "languages_url": "https://api.github.com/repos/godotengine/godot/languages",
   "created_at": "2014-01-04T16:05:36Z",
-  "updated_at": "2018-08-29T21:26:32Z",
-  "pushed_at": "2018-08-29T23:02:07Z",
+  "updated_at": "2018-08-30T09:25:11Z",
+  "pushed_at": "2018-08-30T07:03:16Z",
   "homepage": "https://godotengine.org",
-  "size": 260367,
-  "stargazers_count": 16389,
+  "size": 260362,
+  "stargazers_count": 16394,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -479,7 +479,7 @@
   },
   "languages": {
     "C++": {
-      "bytes": 21339897,
+      "bytes": 21340174,
       "color": "#f34b7d"
     },
     "Java": {
@@ -523,7 +523,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-29T23:05:43.488Z",
+  "fetched_at": "2018-08-30T09:26:28.946Z",
   "pulls_url": "https://api.github.com/repos/godotengine/godot/pulls{/number}",
   "pulls_authors": [
     "Calinou",

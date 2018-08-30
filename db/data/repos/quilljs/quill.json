@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/quilljs/quill/languages",
   "pulls_url": "https://api.github.com/repos/quilljs/quill/pulls{/number}",
   "created_at": "2012-07-30T23:23:18Z",
-  "updated_at": "2018-08-29T18:40:52Z",
-  "pushed_at": "2018-08-29T10:16:14Z",
+  "updated_at": "2018-08-30T08:45:51Z",
+  "pushed_at": "2018-08-30T06:18:27Z",
   "homepage": "https://quilljs.com",
-  "size": 12862,
-  "stargazers_count": 19432,
+  "size": 12932,
+  "stargazers_count": 19442,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -147,7 +147,7 @@
     "benbro": 15,
     "thomsbg": 39,
     "byronm": 306,
-    "jhchen": 4554,
+    "jhchen": 4556,
     "1c7": 1,
     "vojtechsebo": 1,
     "xarg": 2,
@@ -360,7 +360,7 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 368626,
+      "bytes": 368522,
       "color": "#f1e05a"
     },
     "CSS": {
@@ -376,5 +376,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-29T23:08:27.660Z"
+  "fetched_at": "2018-08-30T09:29:29.715Z"
 }

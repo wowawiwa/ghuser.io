@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/DefinitelyTyped/DefinitelyTyped/languages",
   "pulls_url": "https://api.github.com/repos/DefinitelyTyped/DefinitelyTyped/pulls{/number}",
   "created_at": "2012-10-05T16:39:45Z",
-  "updated_at": "2018-08-29T22:53:28Z",
-  "pushed_at": "2018-08-29T22:52:27Z",
+  "updated_at": "2018-08-30T07:34:26Z",
+  "pushed_at": "2018-08-30T09:13:21Z",
   "homepage": "http://definitelytyped.org/",
-  "size": 351773,
-  "stargazers_count": 17153,
+  "size": 352303,
+  "stargazers_count": 17157,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -108,7 +108,7 @@
     "pelotom": 60,
     "miniak": 60,
     "vsiao": 65,
-    "iRoachie": 64,
+    "iRoachie": 65,
     "nikeee": 68,
     "DenisCarriere": 66,
     "stpettersens": 70,
@@ -152,7 +152,7 @@
     "aozgaa": 481,
     "uniqueiniquity": 470,
     "rbuckton": 335,
-    "armanio123": 389,
+    "armanio123": 405,
     "yuit": 198,
     "bowdenk7": 183,
     "zhengbli": 157,
@@ -461,7 +461,8 @@
     "davidka": 12,
     "romain-faust": 31,
     "franklixuefei": 15,
-    "meganrm": 21
+    "meganrm": 21,
+    "danwbyrne": 14
   },
   "pulls_authors": [
     "saenglert",
@@ -8929,11 +8930,13 @@
     "3af",
     "ymko13",
     "jerolimov",
-    "nwtgck"
+    "nwtgck",
+    "SeraphicRav",
+    "yousky"
   ],
   "languages": {
     "TypeScript": {
-      "bytes": 25010119,
+      "bytes": 25010919,
       "color": "#2b7489"
     },
     "JavaScript": {
@@ -8945,5 +8948,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-29T23:05:27.710Z"
+  "fetched_at": "2018-08-30T09:26:09.536Z"
 }

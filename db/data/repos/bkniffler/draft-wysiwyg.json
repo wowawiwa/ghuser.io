@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/bkniffler/draft-wysiwyg",
   "languages_url": "https://api.github.com/repos/bkniffler/draft-wysiwyg/languages",
   "created_at": "2016-02-26T12:11:09Z",
-  "updated_at": "2018-08-13T20:12:25Z",
+  "updated_at": "2018-08-30T07:21:54Z",
   "pushed_at": "2017-01-04T10:21:05Z",
   "homepage": "https://draft-wysiwyg.herokuapp.com/",
   "size": 2675,
-  "stargazers_count": 385,
+  "stargazers_count": 386,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-08-14T05:56:33.282Z",
+  "fetched_at": "2018-08-30T09:28:55.886Z",
   "pulls_url": "https://api.github.com/repos/bkniffler/draft-wysiwyg/pulls{/number}",
   "pulls_authors": [
     "jessedijkstra",
