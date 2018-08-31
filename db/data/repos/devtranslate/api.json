@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/devtranslate/api/languages",
   "pulls_url": "https://api.github.com/repos/devtranslate/api/pulls{/number}",
   "created_at": "2017-11-03T03:44:57Z",
-  "updated_at": "2018-08-30T17:39:04Z",
-  "pushed_at": "2018-08-30T17:38:45Z",
+  "updated_at": "2018-08-31T01:56:34Z",
+  "pushed_at": "2018-08-31T01:56:32Z",
   "homepage": "",
-  "size": 131,
+  "size": 133,
   "stargazers_count": 1,
   "language": null,
   "mirror_url": null,
@@ -42,12 +42,13 @@
     "site_admin": false
   },
   "contributors": {
-    "larismourullo": 24
+    "larismourullo": 24,
+    "TiagoDanin": 1
   },
   "pulls_authors": [
     "TiagoDanin",
     "brunopulis"
   ],
   "languages": {},
-  "fetched_at": "2018-08-30T19:51:20.529Z"
+  "fetched_at": "2018-08-31T06:13:10.870Z"
 }

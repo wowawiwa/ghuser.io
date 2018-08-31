@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/material-components/material-components-web-react",
   "languages_url": "https://api.github.com/repos/material-components/material-components-web-react/languages",
   "created_at": "2018-03-06T19:42:24Z",
-  "updated_at": "2018-08-30T17:17:54Z",
-  "pushed_at": "2018-08-30T19:42:05Z",
+  "updated_at": "2018-08-31T05:40:13Z",
+  "pushed_at": "2018-08-30T21:27:45Z",
   "homepage": "",
-  "size": 2816,
-  "stargazers_count": 622,
+  "size": 2579,
+  "stargazers_count": 624,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -54,7 +54,7 @@
     "johnelliott": 1,
     "lucasecdb": 3,
     "jsuraj": 2,
-    "bonniezhou": 8,
+    "bonniezhou": 9,
     "abhiomkar": 4,
     "patrickrodee": 5,
     "lynnjepsen": 12,
@@ -68,11 +68,11 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 307468,
+      "bytes": 322050,
       "color": "#f1e05a"
     },
     "CSS": {
-      "bytes": 23798,
+      "bytes": 25140,
       "color": "#563d7c"
     },
     "Shell": {
@@ -88,7 +88,7 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-08-30T19:47:20.744Z",
+  "fetched_at": "2018-08-31T06:09:46.996Z",
   "pulls_url": "https://api.github.com/repos/material-components/material-components-web-react/pulls{/number}",
   "pulls_authors": [
     "moog16",

@@ -212,7 +212,7 @@
     "syl20bnr/spacemacs": {
       "full_name": "syl20bnr/spacemacs",
       "name": "spacemacs",
-      "stargazers_count": 15811,
+      "stargazers_count": 15814,
       "popularity": 5,
       "percentage": 0.014463407578825572,
       "maturity": 4.838952139086211,
@@ -225,13 +225,13 @@
     "hangyan/docker-resources": {
       "full_name": "hangyan/docker-resources",
       "name": "docker-resources",
-      "stargazers_count": 1377,
-      "popularity": 4.138689080664507,
+      "stargazers_count": 1378,
+      "popularity": 4.139004564104752,
       "percentage": 4,
       "maturity": 0,
       "total_commits_count": 25,
-      "activity": 2.233857822914013,
-      "total_score": 16.80204338685308,
+      "activity": 5,
+      "total_score": 19.56929606564873,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -290,13 +290,13 @@
     "leachim6/hello-world": {
       "full_name": "leachim6/hello-world",
       "name": "hello-world",
-      "stargazers_count": 2778,
-      "popularity": 4.443630605694749,
+      "stargazers_count": 2780,
+      "popularity": 4.443943261468168,
       "percentage": 0.1049317943336831,
       "maturity": 3.9622544716135955,
       "total_commits_count": 953,
       "activity": 5,
-      "total_score": 26.31601691757695,
+      "total_score": 26.316959149876276,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

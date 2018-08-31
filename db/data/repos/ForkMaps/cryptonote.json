@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/ForkMaps/cryptonote/languages",
   "pulls_url": "https://api.github.com/repos/ForkMaps/cryptonote/pulls{/number}",
   "created_at": "2018-07-20T13:19:47Z",
-  "updated_at": "2018-08-30T18:24:43Z",
-  "pushed_at": "2018-08-30T18:33:32Z",
+  "updated_at": "2018-08-31T02:43:09Z",
+  "pushed_at": "2018-08-31T02:43:07Z",
   "homepage": "http://forkmaps.com",
-  "size": 15674,
+  "size": 15721,
   "stargazers_count": 5,
   "language": "JavaScript",
   "mirror_url": null,
@@ -51,11 +51,12 @@
     "bonm": 1,
     "cryptoluka": 1,
     "tgroh007": 2,
-    "Amity-Core": 2,
+    "Amity-Core": 4,
     "Arielony": 2,
     "aejontargaryen": 2,
-    "jerme404": 193,
-    "Watt3r": 1
+    "jerme404": 196,
+    "Watt3r": 1,
+    "HazeDevelopment": 1
   },
   "pulls_authors": [
     "Watt3r",
@@ -67,7 +68,8 @@
     "Arielony",
     "cryptoluka",
     "aejontargaryen",
-    "RocksteadyTC"
+    "RocksteadyTC",
+    "HazeDevelopment"
   ],
   "languages": {
     "JavaScript": {
@@ -75,5 +77,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-30T19:51:25.767Z"
+  "fetched_at": "2018-08-31T06:13:17.082Z"
 }

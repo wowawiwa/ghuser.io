@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/ampproject/amphtml",
   "languages_url": "https://api.github.com/repos/ampproject/amphtml/languages",
   "created_at": "2015-09-01T22:10:53Z",
-  "updated_at": "2018-08-30T19:24:27Z",
-  "pushed_at": "2018-08-30T19:45:58Z",
+  "updated_at": "2018-08-31T02:04:32Z",
+  "pushed_at": "2018-08-31T02:29:09Z",
   "homepage": "https://www.ampproject.org",
-  "size": 495897,
-  "stargazers_count": 11925,
+  "size": 495946,
+  "stargazers_count": 11927,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -61,7 +61,7 @@
     "gduchene": 5,
     "johnduffell": 6,
     "alin04": 8,
-    "dparikh": 6,
+    "dparikh": 7,
     "zikas": 5,
     "kristoferbaxter": 6,
     "monish-chhadwa": 6,
@@ -104,7 +104,7 @@
     "dandv": 34,
     "jasti": 31,
     "taymonbeal": 31,
-    "alabiaga": 48,
+    "alabiaga": 49,
     "jpettitt": 41,
     "peterjosling": 40,
     "tdrl": 39,
@@ -123,13 +123,13 @@
     "camelburrito": 91,
     "kmh287": 98,
     "glevitzky": 104,
-    "gmajoulet": 134,
+    "gmajoulet": 137,
     "greenkeeper[bot]": 111,
     "muxin": 118,
     "newmuis": 130,
     "cvializ": 137,
     "bradfrizzell": 140,
-    "keithwrightbos": 163,
+    "keithwrightbos": 164,
     "cathyxz": 178,
     "mkhatib": 188,
     "Meggin": 166,
@@ -142,7 +142,7 @@
     "choumx": 341,
     "lannka": 342,
     "zhouyx": 334,
-    "jridgewell": 430,
+    "jridgewell": 431,
     "rsimha": 412,
     "erwinmombay": 706,
     "cramforce": 1132,
@@ -495,11 +495,11 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 12255074,
+      "bytes": 12273931,
       "color": "#f1e05a"
     },
     "HTML": {
-      "bytes": 1370271,
+      "bytes": 1372628,
       "color": "#e34c26"
     },
     "CSS": {
@@ -527,7 +527,7 @@
       "color": "#375eab"
     }
   },
-  "fetched_at": "2018-08-30T19:48:51.870Z",
+  "fetched_at": "2018-08-31T06:10:59.141Z",
   "pulls_url": "https://api.github.com/repos/ampproject/amphtml/pulls{/number}",
   "pulls_authors": [
     "keithwrightbos",

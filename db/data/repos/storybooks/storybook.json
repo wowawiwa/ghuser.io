@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/storybooks/storybook",
   "languages_url": "https://api.github.com/repos/storybooks/storybook/languages",
   "created_at": "2016-03-18T04:23:44Z",
-  "updated_at": "2018-08-30T19:47:38Z",
-  "pushed_at": "2018-08-30T19:10:23Z",
+  "updated_at": "2018-08-31T05:25:52Z",
+  "pushed_at": "2018-08-30T23:32:12Z",
   "homepage": "https://storybook.js.org",
-  "size": 113962,
-  "stargazers_count": 27782,
+  "size": 114392,
+  "stargazers_count": 27796,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -144,7 +144,7 @@
     "shilman": 820,
     "mnmtanish": 808,
     "ndelangen": 1664,
-    "Hypnosphi": 2249,
+    "Hypnosphi": 2250,
     "arunoda": 1111,
     "dependencies-bot": 2209,
     "alexandermikuta": 7,
@@ -466,7 +466,7 @@
     "pksunkara": 21,
     "brycemhammond": 1,
     "camel-floss": 4,
-    "libetl": 3,
+    "libetl": 31,
     "faun": 2,
     "astrotim": 1,
     "tkh44": 3,
@@ -479,19 +479,20 @@
     "martinmacko47": 1,
     "DimitrijeManic": 1,
     "marshallmick007": 3,
-    "donaldpipowitch": 1
+    "donaldpipowitch": 1,
+    "expe-lbenychou": 17
   },
   "languages": {
     "JavaScript": {
-      "bytes": 840734,
+      "bytes": 857128,
       "color": "#f1e05a"
     },
     "HTML": {
-      "bytes": 122954,
+      "bytes": 123778,
       "color": "#e34c26"
     },
     "Kotlin": {
-      "bytes": 41285,
+      "bytes": 41278,
       "color": "#F18E33"
     },
     "TypeScript": {
@@ -499,7 +500,7 @@
       "color": "#2b7489"
     },
     "Shell": {
-      "bytes": 12187,
+      "bytes": 12397,
       "color": "#89e051"
     },
     "Vue": {
@@ -527,7 +528,7 @@
       "color": "#d4bec1"
     }
   },
-  "fetched_at": "2018-08-30T19:50:49.275Z",
+  "fetched_at": "2018-08-31T06:12:45.019Z",
   "pulls_url": "https://api.github.com/repos/storybooks/storybook/pulls{/number}",
   "pulls_authors": [
     "jcgertig",

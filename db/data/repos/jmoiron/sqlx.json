@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/jmoiron/sqlx",
   "languages_url": "https://api.github.com/repos/jmoiron/sqlx/languages",
   "created_at": "2013-01-28T19:40:00Z",
-  "updated_at": "2018-08-30T13:40:48Z",
+  "updated_at": "2018-08-31T05:53:31Z",
   "pushed_at": "2018-08-23T12:03:24Z",
   "homepage": "http://jmoiron.github.io/sqlx/",
   "size": 736,
-  "stargazers_count": 4876,
+  "stargazers_count": 4878,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -84,7 +84,7 @@
       "color": "#375eab"
     }
   },
-  "fetched_at": "2018-08-30T19:47:07.343Z",
+  "fetched_at": "2018-08-31T06:09:38.597Z",
   "pulls_url": "https://api.github.com/repos/jmoiron/sqlx/pulls{/number}",
   "pulls_authors": [
     "Quasilyte",

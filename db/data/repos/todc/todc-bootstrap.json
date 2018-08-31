@@ -13,7 +13,8 @@
     "zcyzcy88": 6,
     "nt1m": 11,
     "todc": 141,
-    "acmetech": 4137
+    "acmetech": 4137,
+    "wudi": 1
   },
   "name": "todc-bootstrap",
   "full_name": "todc/todc-bootstrap",
@@ -25,10 +26,10 @@
   "url": "https://api.github.com/repos/todc/todc-bootstrap",
   "languages_url": "https://api.github.com/repos/todc/todc-bootstrap/languages",
   "created_at": "2011-09-10T17:49:41Z",
-  "updated_at": "2018-08-28T15:43:12Z",
-  "pushed_at": "2018-04-27T16:05:27Z",
+  "updated_at": "2018-08-31T06:01:51Z",
+  "pushed_at": "2018-08-29T13:26:29Z",
   "homepage": "http://todc.github.com/todc-bootstrap",
-  "size": 55715,
+  "size": 62741,
   "stargazers_count": 2146,
   "language": "CSS",
   "mirror_url": null,
@@ -55,7 +56,7 @@
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-08-28T16:03:03.499Z",
+  "fetched_at": "2018-08-31T06:08:59.905Z",
   "pulls_url": "https://api.github.com/repos/todc/todc-bootstrap/pulls{/number}",
   "pulls_authors": [
     "acmetech",

@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/conwetlab/ngsijs/languages",
   "pulls_url": "https://api.github.com/repos/conwetlab/ngsijs/pulls{/number}",
   "created_at": "2013-02-06T11:54:44Z",
-  "updated_at": "2018-08-30T19:46:00Z",
-  "pushed_at": "2018-08-30T19:45:58Z",
+  "updated_at": "2018-08-30T20:53:31Z",
+  "pushed_at": "2018-08-30T20:53:30Z",
   "homepage": "",
-  "size": 1611,
+  "size": 1654,
   "stargazers_count": 5,
   "language": "JavaScript",
   "mirror_url": null,
@@ -43,7 +43,7 @@
   },
   "contributors": {
     "rockneurotiko": 2,
-    "aarranz": 265
+    "aarranz": 266
   },
   "pulls_authors": [
     "aarranz",
@@ -51,7 +51,7 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 572264,
+      "bytes": 595010,
       "color": "#f1e05a"
     },
     "CSS": {
@@ -59,5 +59,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-08-30T19:50:24.831Z"
+  "fetched_at": "2018-08-31T06:12:22.055Z"
 }

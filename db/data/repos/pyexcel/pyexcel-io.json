@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/pyexcel/pyexcel-io/languages",
   "pulls_url": "https://api.github.com/repos/pyexcel/pyexcel-io/pulls{/number}",
   "created_at": "2014-12-02T23:23:53Z",
-  "updated_at": "2018-08-23T19:25:28Z",
-  "pushed_at": "2018-08-23T19:25:53Z",
+  "updated_at": "2018-08-30T22:07:12Z",
+  "pushed_at": "2018-08-30T22:07:46Z",
   "homepage": "http://io.pyexcel.org",
-  "size": 683,
+  "size": 687,
   "stargazers_count": 18,
   "language": "Python",
   "mirror_url": null,
@@ -52,7 +52,7 @@
     "stephenrauch": 1,
     "jayvdb": 2,
     "fuhrysteve": 4,
-    "chfw": 492
+    "chfw": 493
   },
   "pulls_authors": [
     "danchr",
@@ -65,7 +65,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 170727,
+      "bytes": 170735,
       "color": "#3572A5"
     },
     "Shell": {
@@ -81,5 +81,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-24T02:21:20.486Z"
+  "fetched_at": "2018-08-31T06:10:48.371Z"
 }

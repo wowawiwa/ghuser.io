@@ -4,13 +4,13 @@
     "postlight/headless-wp-starter": {
       "full_name": "postlight/headless-wp-starter",
       "name": "headless-wp-starter",
-      "stargazers_count": 1910,
-      "popularity": 4.280867764245606,
+      "stargazers_count": 1913,
+      "popularity": 4.281549688101743,
       "percentage": 0,
       "maturity": 2.859669179921282,
       "total_commits_count": 112,
       "activity": 5,
-      "total_score": 23.56194165257938,
+      "total_score": 23.563987424147793,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -74,8 +74,8 @@
       "percentage": 85.71428571428571,
       "maturity": 1.9607586681802867,
       "total_commits_count": 49,
-      "activity": 1.3282840330128867,
-      "total_score": 55.97653696012015,
+      "activity": 1.3271818321561928,
+      "total_score": 55.97543475926346,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -121,7 +121,7 @@
     "quilljs/quill": {
       "full_name": "quilljs/quill",
       "name": "quill",
-      "stargazers_count": 19450,
+      "stargazers_count": 19457,
       "popularity": 5,
       "percentage": 0.01963093835885355,
       "maturity": 4.705380114906907,

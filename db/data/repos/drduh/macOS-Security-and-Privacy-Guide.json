@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/drduh/macOS-Security-and-Privacy-Guide",
   "languages_url": "https://api.github.com/repos/drduh/macOS-Security-and-Privacy-Guide/languages",
   "created_at": "2015-08-31T03:36:35Z",
-  "updated_at": "2018-08-30T17:24:05Z",
-  "pushed_at": "2018-08-30T19:27:54Z",
+  "updated_at": "2018-08-31T03:48:31Z",
+  "pushed_at": "2018-08-31T01:37:57Z",
   "homepage": "",
-  "size": 1912,
-  "stargazers_count": 13399,
+  "size": 2049,
+  "stargazers_count": 13402,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -27,7 +27,7 @@
   },
   "default_branch": "master",
   "contributors": {
-    "HazCod": 2,
+    "HazCod": 3,
     "shreyasminocha": 1,
     "joostwim": 1,
     "georgeglessner": 1,
@@ -87,15 +87,17 @@
     "DeadLion": 10,
     "sqrthree": 12,
     "Or3stis": 23,
-    "drduh": 194
+    "drduh": 194,
+    "StevenBlack": 1,
+    "cclauss": 1
   },
   "languages": {
     "Python": {
-      "bytes": 2454,
+      "bytes": 2455,
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-08-30T19:44:25.505Z",
+  "fetched_at": "2018-08-31T06:07:27.796Z",
   "pulls_url": "https://api.github.com/repos/drduh/macOS-Security-and-Privacy-Guide/pulls{/number}",
   "pulls_authors": [
     "nsuchy",
@@ -169,6 +171,7 @@
     "acdha",
     "m4chinations",
     "nvk",
-    "cclauss"
+    "cclauss",
+    "StevenBlack"
   ]
 }
