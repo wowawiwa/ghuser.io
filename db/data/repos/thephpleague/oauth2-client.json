@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/thephpleague/oauth2-client/languages",
   "pulls_url": "https://api.github.com/repos/thephpleague/oauth2-client/pulls{/number}",
   "created_at": "2013-01-29T16:01:42Z",
-  "updated_at": "2018-08-29T10:12:26Z",
-  "pushed_at": "2018-07-31T08:06:46Z",
+  "updated_at": "2018-08-31T15:35:23Z",
+  "pushed_at": "2018-08-31T07:40:50Z",
   "homepage": "http://oauth2-client.thephpleague.com",
   "size": 976,
-  "stargazers_count": 2108,
+  "stargazers_count": 2109,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -385,7 +385,8 @@
     "jnbdz",
     "crodas",
     "joelcox",
-    "jrgns"
+    "jrgns",
+    "lrf141"
   ],
   "languages": {
     "PHP": {
@@ -393,5 +394,5 @@
       "color": "#4F5D95"
     }
   },
-  "fetched_at": "2018-08-29T12:51:17.678Z"
+  "fetched_at": "2018-08-31T16:31:36.903Z"
 }

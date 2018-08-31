@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/TryGhost/Ghost",
   "languages_url": "https://api.github.com/repos/TryGhost/Ghost/languages",
   "created_at": "2013-05-04T11:09:13Z",
-  "updated_at": "2018-08-31T05:50:18Z",
-  "pushed_at": "2018-08-30T17:05:38Z",
+  "updated_at": "2018-08-31T15:52:06Z",
+  "pushed_at": "2018-08-31T11:39:25Z",
   "homepage": "https://ghost.org",
-  "size": 32907,
-  "stargazers_count": 27244,
+  "size": 32908,
+  "stargazers_count": 27254,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -143,9 +143,9 @@
     "PaulAdamDavis": 238,
     "greenkeeperio-bot": 242,
     "jaswilli": 406,
-    "kevinansfield": 511,
+    "kevinansfield": 513,
     "JohnONolan": 559,
-    "kirrg001": 808,
+    "kirrg001": 811,
     "ErisDS": 3165,
     "chilts": 2,
     "billfienberg": 2,
@@ -336,12 +336,12 @@
     "zethraeus": 1,
     "zhenkyle": 1,
     "zinyando": 1,
-    "allouis": 3,
-    "rishabhgrg": 1
+    "allouis": 4,
+    "rishabhgrg": 2
   },
   "languages": {
     "JavaScript": {
-      "bytes": 3665504,
+      "bytes": 3676678,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -361,7 +361,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-31T06:10:58.516Z",
+  "fetched_at": "2018-08-31T16:29:45.021Z",
   "pulls_url": "https://api.github.com/repos/TryGhost/Ghost/pulls{/number}",
   "pulls_authors": [
     "kirrg001",

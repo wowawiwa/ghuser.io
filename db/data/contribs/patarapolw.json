@@ -248,6 +248,19 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
+    "patarapolw/duendecat": {
+      "full_name": "patarapolw/duendecat",
+      "name": "duendecat",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 39,
+      "activity": 1.3912557268981072,
+      "total_score": 1.3912557268981072,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
     "patarapolw/anki-export": {
       "full_name": "patarapolw/anki-export",
       "name": "anki-export",

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/elastic/kibana",
   "languages_url": "https://api.github.com/repos/elastic/kibana/languages",
   "created_at": "2013-01-26T04:00:59Z",
-  "updated_at": "2018-08-31T05:56:13Z",
-  "pushed_at": "2018-08-31T03:42:24Z",
+  "updated_at": "2018-08-31T14:09:14Z",
+  "pushed_at": "2018-08-31T16:24:18Z",
   "homepage": "https://www.elastic.co/products/kibana",
-  "size": 450747,
-  "stargazers_count": 9979,
+  "size": 450765,
+  "stargazers_count": 9993,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 18441068,
+      "bytes": 18441464,
       "color": "#f1e05a"
     },
     "TypeScript": {
-      "bytes": 903204,
+      "bytes": 914160,
       "color": "#2b7489"
     },
     "HTML": {
@@ -132,7 +132,7 @@
     "drej82": 9,
     "grouma": 16,
     "jarpy": 10,
-    "chrisdavies": 18,
+    "chrisdavies": 20,
     "acs": 16,
     "coverslide": 11,
     "repocho": 12,
@@ -153,7 +153,7 @@
     "clintongormley": 25,
     "nyurik": 27,
     "archanid": 35,
-    "sqren": 51,
+    "sqren": 52,
     "weltenwort": 40,
     "bmcconaghy": 45,
     "jimmyjones2": 36,
@@ -166,7 +166,7 @@
     "tsullivan": 140,
     "bevacqua": 161,
     "thomasneirynck": 182,
-    "timroes": 189,
+    "timroes": 190,
     "nreese": 213,
     "panda01": 323,
     "BigFunger": 339,
@@ -363,7 +363,7 @@
     "blfrantz": 1,
     "guanghaofan": 1
   },
-  "fetched_at": "2018-08-31T06:11:10.979Z",
+  "fetched_at": "2018-08-31T16:29:57.049Z",
   "pulls_url": "https://api.github.com/repos/elastic/kibana/pulls{/number}",
   "pulls_authors": [
     "nreese",

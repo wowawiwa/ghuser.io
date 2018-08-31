@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/netlify/staticgen/languages",
   "pulls_url": "https://api.github.com/repos/netlify/staticgen/pulls{/number}",
   "created_at": "2014-04-25T19:15:38Z",
-  "updated_at": "2018-08-30T20:43:12Z",
-  "pushed_at": "2018-08-30T17:09:43Z",
+  "updated_at": "2018-08-31T08:22:38Z",
+  "pushed_at": "2018-08-31T13:49:38Z",
   "homepage": "http://www.staticgen.com",
   "size": 5262,
-  "stargazers_count": 1766,
+  "stargazers_count": 1767,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -554,7 +554,8 @@
     "OrdinaryJellyfish",
     "MitchellCash",
     "mansona",
-    "brycekahle"
+    "brycekahle",
+    "franzwilding"
   ],
   "languages": {
     "JavaScript": {
@@ -562,5 +563,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-31T06:07:45.764Z"
+  "fetched_at": "2018-08-31T16:26:25.756Z"
 }

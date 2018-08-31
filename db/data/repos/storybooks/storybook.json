@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/storybooks/storybook",
   "languages_url": "https://api.github.com/repos/storybooks/storybook/languages",
   "created_at": "2016-03-18T04:23:44Z",
-  "updated_at": "2018-08-31T05:25:52Z",
-  "pushed_at": "2018-08-30T23:32:12Z",
+  "updated_at": "2018-08-31T15:49:06Z",
+  "pushed_at": "2018-08-31T16:11:11Z",
   "homepage": "https://storybook.js.org",
-  "size": 114392,
-  "stargazers_count": 27796,
+  "size": 115074,
+  "stargazers_count": 27821,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -484,7 +484,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 857128,
+      "bytes": 857079,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -528,7 +528,7 @@
       "color": "#d4bec1"
     }
   },
-  "fetched_at": "2018-08-31T06:12:45.019Z",
+  "fetched_at": "2018-08-31T16:31:46.569Z",
   "pulls_url": "https://api.github.com/repos/storybooks/storybook/pulls{/number}",
   "pulls_authors": [
     "jcgertig",

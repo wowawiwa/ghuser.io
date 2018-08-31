@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/icebob/vue-express-mongo-boilerplate",
   "languages_url": "https://api.github.com/repos/icebob/vue-express-mongo-boilerplate/languages",
   "created_at": "2016-06-18T12:09:40Z",
-  "updated_at": "2018-08-31T00:33:26Z",
-  "pushed_at": "2018-08-31T05:28:12Z",
+  "updated_at": "2018-08-31T07:01:18Z",
+  "pushed_at": "2018-08-31T07:01:16Z",
   "homepage": "http://vemapp.moleculer.services/",
-  "size": 12390,
-  "stargazers_count": 1408,
+  "size": 13879,
+  "stargazers_count": 1409,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -31,11 +31,12 @@
     "av8ta": 3,
     "snyk-bot": 5,
     "icebob": 469,
-    "jossef": 2
+    "jossef": 2,
+    "gsdstr": 1
   },
   "languages": {
     "JavaScript": {
-      "bytes": 212831,
+      "bytes": 6618021,
       "color": "#f1e05a"
     },
     "Vue": {
@@ -43,7 +44,7 @@
       "color": "#2c3e50"
     },
     "CSS": {
-      "bytes": 43749,
+      "bytes": 43639,
       "color": "#563d7c"
     },
     "HTML": {
@@ -55,7 +56,7 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-08-31T06:12:50.050Z",
+  "fetched_at": "2018-08-31T16:31:52.292Z",
   "pulls_url": "https://api.github.com/repos/icebob/vue-express-mongo-boilerplate/pulls{/number}",
   "pulls_authors": [
     "jossef",

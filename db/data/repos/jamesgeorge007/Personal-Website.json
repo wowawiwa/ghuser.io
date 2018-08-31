@@ -5,15 +5,15 @@
   "owner": "jamesgeorge007",
   "private": false,
   "html_url": "https://github.com/jamesgeorge007/Personal-Webapp",
-  "description": "My Personal Website. :smiley:",
+  "description": "My Personal Website built on top of the MERN stack(Mongo, Expres, React, Node). :smiley:",
   "fork": false,
   "url": "https://api.github.com/repos/jamesgeorge007/Personal-Webapp",
   "languages_url": "https://api.github.com/repos/jamesgeorge007/Personal-Webapp/languages",
   "created_at": "2018-03-30T12:23:31Z",
-  "updated_at": "2018-08-29T14:46:15Z",
-  "pushed_at": "2018-08-29T14:48:14Z",
+  "updated_at": "2018-08-31T15:41:10Z",
+  "pushed_at": "2018-08-31T14:30:02Z",
   "homepage": "",
-  "size": 6696,
+  "size": 6281,
   "stargazers_count": 6,
   "language": "TypeScript",
   "mirror_url": null,
@@ -21,23 +21,27 @@
   "license": null,
   "default_branch": "master",
   "contributors": {
-    "jamesgeorge007": 73
+    "jamesgeorge007": 82
   },
   "languages": {
     "TypeScript": {
-      "bytes": 10470,
+      "bytes": 13243,
       "color": "#2b7489"
+    },
+    "CSS": {
+      "bytes": 3575,
+      "color": "#563d7c"
     },
     "HTML": {
       "bytes": 2271,
       "color": "#e34c26"
     },
-    "CSS": {
-      "bytes": 2164,
-      "color": "#563d7c"
+    "JavaScript": {
+      "bytes": 2204,
+      "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-29T23:07:28.449Z",
+  "fetched_at": "2018-08-31T16:29:12.602Z",
   "pulls_url": "https://api.github.com/repos/jamesgeorge007/Personal-Webapp/pulls{/number}",
   "pulls_authors": [
     "SamHez",

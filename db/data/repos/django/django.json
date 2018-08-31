@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/django/django/languages",
   "pulls_url": "https://api.github.com/repos/django/django/pulls{/number}",
   "created_at": "2012-04-28T02:47:18Z",
-  "updated_at": "2018-08-31T05:52:23Z",
-  "pushed_at": "2018-08-31T02:35:35Z",
+  "updated_at": "2018-08-31T16:09:54Z",
+  "pushed_at": "2018-08-31T14:59:58Z",
   "homepage": "https://www.djangoproject.com/",
-  "size": 181721,
-  "stargazers_count": 36123,
+  "size": 181749,
+  "stargazers_count": 36131,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -80,14 +80,14 @@
     "scop": 18,
     "mattrobenolt": 16,
     "srinivasreddy": 21,
-    "carltongibson": 20,
+    "carltongibson": 22,
     "czpython": 21,
     "wrwrwr": 21,
     "hramezani": 23,
     "marfire": 22,
     "edmorley": 23,
     "mmardini": 23,
-    "jschneier": 25,
+    "jschneier": 26,
     "cjerdonek": 24,
     "AlexHill": 24,
     "orf": 29,
@@ -123,7 +123,7 @@
     "ikelly": 93,
     "MarkusH": 134,
     "brosner": 150,
-    "jdufresne": 162,
+    "jdufresne": 163,
     "bmispelon": 160,
     "loic": 180,
     "jphalip": 194,
@@ -144,7 +144,7 @@
     "jezdez": 895,
     "jacobian": 893,
     "aaugustin": 1384,
-    "claudep": 1562,
+    "claudep": 1563,
     "freakboy3742": 1740,
     "malcolmt": 1872,
     "adrianholovaty": 2802,
@@ -3300,7 +3300,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 12693454,
+      "bytes": 12693495,
       "color": "#3572A5"
     },
     "JavaScript": {
@@ -3328,5 +3328,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-08-31T06:10:52.865Z"
+  "fetched_at": "2018-08-31T16:29:38.887Z"
 }
