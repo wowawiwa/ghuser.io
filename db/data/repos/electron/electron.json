@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/electron/electron/languages",
   "pulls_url": "https://api.github.com/repos/electron/electron/pulls{/number}",
   "created_at": "2013-04-12T01:47:36Z",
-  "updated_at": "2018-08-31T16:10:14Z",
-  "pushed_at": "2018-08-31T16:26:38Z",
+  "updated_at": "2018-09-01T02:25:47Z",
+  "pushed_at": "2018-09-01T01:13:55Z",
   "homepage": "https://electronjs.org",
-  "size": 41949,
-  "stargazers_count": 64017,
+  "size": 42024,
+  "stargazers_count": 64031,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -127,7 +127,7 @@
     "juturu": 56,
     "poiru": 77,
     "seanchas116": 72,
-    "miniak": 83,
+    "miniak": 85,
     "alespergl": 73,
     "CharlieHess": 81,
     "tarruda": 74,
@@ -143,12 +143,12 @@
     "hokein": 267,
     "preco21": 347,
     "alexeykuzmin": 329,
-    "codebytere": 415,
+    "codebytere": 416,
     "MarshallOfSound": 432,
     "zeke": 593,
-    "deepak1556": 696,
+    "deepak1556": 698,
     "kevinsawicki": 2998,
-    "zcbenz": 8225,
+    "zcbenz": 8227,
     "maxogden": 167,
     "x-yao": 9,
     "mariozaizar": 8,
@@ -445,7 +445,7 @@
     "andersk": 1,
     "keerthi16": 2,
     "BeniCheni": 1,
-    "roller-bot": 5,
+    "roller-bot": 6,
     "theLMGN": 2
   },
   "pulls_authors": [
@@ -1440,23 +1440,23 @@
   ],
   "languages": {
     "C++": {
-      "bytes": 2884347,
+      "bytes": 2885889,
       "color": "#f34b7d"
     },
     "JavaScript": {
-      "bytes": 987897,
+      "bytes": 989774,
       "color": "#f1e05a"
     },
     "Objective-C++": {
-      "bytes": 356037,
+      "bytes": 356228,
       "color": "#6866fb"
     },
     "Python": {
-      "bytes": 312629,
+      "bytes": 312627,
       "color": "#3572A5"
     },
     "Objective-C": {
-      "bytes": 60350,
+      "bytes": 60409,
       "color": "#438eff"
     },
     "HTML": {
@@ -1484,5 +1484,5 @@
       "color": "#012456"
     }
   },
-  "fetched_at": "2018-08-31T16:32:05.010Z"
+  "fetched_at": "2018-09-01T02:50:40.294Z"
 }

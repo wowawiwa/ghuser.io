@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/RocketChat/docs",
   "languages_url": "https://api.github.com/repos/RocketChat/docs/languages",
   "created_at": "2016-05-06T12:02:57Z",
-  "updated_at": "2018-08-30T17:46:52Z",
-  "pushed_at": "2018-08-30T17:51:08Z",
+  "updated_at": "2018-08-31T19:56:02Z",
+  "pushed_at": "2018-08-31T19:56:01Z",
   "homepage": "https://rocket.chat/docs/",
-  "size": 9808,
+  "size": 9788,
   "stargazers_count": 135,
   "language": "CSS",
   "mirror_url": null,
@@ -146,7 +146,7 @@
     "tmeasday": 119,
     "geekgonecrazy": 158,
     "stubailo": 227,
-    "MartinSchoeler": 561,
+    "MartinSchoeler": 562,
     "isabellarussell": 5,
     "hippocai": 2,
     "tgxn": 2,
@@ -289,15 +289,15 @@
   },
   "languages": {
     "CSS": {
-      "bytes": 43560,
+      "bytes": 45471,
       "color": "#563d7c"
     },
     "HTML": {
-      "bytes": 21477,
+      "bytes": 21467,
       "color": "#e34c26"
     },
     "JavaScript": {
-      "bytes": 16348,
+      "bytes": 18281,
       "color": "#f1e05a"
     },
     "Ruby": {
@@ -309,7 +309,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-30T19:46:38.764Z",
+  "fetched_at": "2018-09-01T02:47:06.860Z",
   "pulls_url": "https://api.github.com/repos/RocketChat/docs/pulls{/number}",
   "pulls_authors": [
     "MartinSchoeler",
@@ -550,6 +550,7 @@
     "javivf",
     "sergeifilippov",
     "tostanoski",
-    "aferreira44"
+    "aferreira44",
+    "shraddharsh"
   ]
 }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/DefinitelyTyped/DefinitelyTyped/languages",
   "pulls_url": "https://api.github.com/repos/DefinitelyTyped/DefinitelyTyped/pulls{/number}",
   "created_at": "2012-10-05T16:39:45Z",
-  "updated_at": "2018-08-31T14:00:50Z",
-  "pushed_at": "2018-08-31T16:09:17Z",
+  "updated_at": "2018-08-31T23:58:15Z",
+  "pushed_at": "2018-09-01T01:45:53Z",
   "homepage": "http://definitelytyped.org/",
-  "size": 351766,
-  "stargazers_count": 17178,
+  "size": 353533,
+  "stargazers_count": 17179,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -89,7 +89,7 @@
     "theodorejb": 47,
     "santialbo": 50,
     "nestalk": 50,
-    "pine": 49,
+    "pine": 50,
     "asvetliakov": 51,
     "derekcicerone": 47,
     "joeskeen": 47,
@@ -135,7 +135,7 @@
     "dolanmiu": 141,
     "tkrotoff": 131,
     "Bartvds": 259,
-    "RyanCavanaugh": 523,
+    "RyanCavanaugh": 524,
     "segayuu": 161,
     "bczengel": 168,
     "basarat": 709,
@@ -152,7 +152,7 @@
     "aozgaa": 481,
     "uniqueiniquity": 471,
     "rbuckton": 335,
-    "armanio123": 415,
+    "armanio123": 458,
     "yuit": 198,
     "bowdenk7": 183,
     "zhengbli": 157,
@@ -217,7 +217,7 @@
     "jramsay": 26,
     "progre": 26,
     "bradleyayers": 26,
-    "mrmlnc": 25,
+    "mrmlnc": 26,
     "timjacobi": 25,
     "delphinus": 25,
     "troywweber7": 25,
@@ -412,7 +412,7 @@
     "gyzerok": 13,
     "jacqueskang": 13,
     "jason0x43": 13,
-    "Jimexist": 18,
+    "Jimexist": 20,
     "manuth": 13,
     "gjoshevski": 13,
     "ffMathy": 13,
@@ -462,7 +462,7 @@
     "romain-faust": 31,
     "franklixuefei": 15,
     "meganrm": 21,
-    "danwbyrne": 14
+    "danwbyrne": 24
   },
   "pulls_authors": [
     "saenglert",
@@ -8942,11 +8942,15 @@
     "ClaytonAstrom",
     "singuerinc",
     "printercu",
-    "kinakobo"
+    "kinakobo",
+    "daniel-nagy",
+    "nialexsan",
+    "RobinPapke",
+    "pietu"
   ],
   "languages": {
     "TypeScript": {
-      "bytes": 25017895,
+      "bytes": 25029474,
       "color": "#2b7489"
     },
     "JavaScript": {
@@ -8958,5 +8962,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-31T16:27:07.779Z"
+  "fetched_at": "2018-09-01T02:46:20.509Z"
 }

@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/gsantner/markor/languages",
   "pulls_url": "https://api.github.com/repos/gsantner/markor/pulls{/number}",
   "created_at": "2017-08-26T00:08:35Z",
-  "updated_at": "2018-08-30T12:52:33Z",
-  "pushed_at": "2018-08-30T12:52:31Z",
+  "updated_at": "2018-08-31T19:59:28Z",
+  "pushed_at": "2018-08-31T19:59:26Z",
   "homepage": "https://gsantner.net/project/markor.html?source=github",
-  "size": 9014,
+  "size": 9010,
   "stargazers_count": 247,
   "language": "Java",
   "mirror_url": null,
@@ -75,7 +75,8 @@
     "sjmduncan": 12,
     "plafue": 84,
     "gsantner": 324,
-    "Crystal-RainSlide": 1
+    "Crystal-RainSlide": 1,
+    "timokau": 1
   },
   "pulls_authors": [
     "svemoe",
@@ -123,13 +124,14 @@
     "Lonami",
     "imrosca",
     "xredor",
-    "Crystal-RainSlide"
+    "Crystal-RainSlide",
+    "timokau"
   ],
   "languages": {
     "Java": {
-      "bytes": 489500,
+      "bytes": 489619,
       "color": "#b07219"
     }
   },
-  "fetched_at": "2018-08-30T19:51:12.505Z"
+  "fetched_at": "2018-09-01T02:50:42.918Z"
 }

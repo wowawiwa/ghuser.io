@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/PyCQA/astroid/languages",
   "pulls_url": "https://api.github.com/repos/PyCQA/astroid/pulls{/number}",
   "created_at": "2015-12-08T21:12:00Z",
-  "updated_at": "2018-08-29T12:25:31Z",
-  "pushed_at": "2018-08-23T09:34:47Z",
+  "updated_at": "2018-08-31T20:49:11Z",
+  "pushed_at": "2018-08-31T18:00:47Z",
   "homepage": null,
   "size": 13358,
-  "stargazers_count": 162,
+  "stargazers_count": 163,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -149,7 +149,8 @@
     "lmedioni",
     "dashea",
     "arusahni",
-    "kodonnell"
+    "kodonnell",
+    "OEP"
   ],
   "languages": {
     "Python": {
@@ -165,5 +166,5 @@
       "color": "#012456"
     }
   },
-  "fetched_at": "2018-08-29T12:49:19.035Z"
+  "fetched_at": "2018-09-01T02:48:38.625Z"
 }

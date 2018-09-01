@@ -100,7 +100,7 @@
     "gradha": 310,
     "def-": 334,
     "zah": 533,
-    "dom96": 1331,
+    "dom96": 1332,
     "Araq": 6596,
     "Jeff-Ciesielski": 7,
     "petermora": 6,
@@ -365,11 +365,11 @@
   "url": "https://api.github.com/repos/nim-lang/Nim",
   "languages_url": "https://api.github.com/repos/nim-lang/Nim/languages",
   "created_at": "2010-08-16T20:38:58Z",
-  "updated_at": "2018-08-31T15:31:27Z",
-  "pushed_at": "2018-08-31T15:31:11Z",
+  "updated_at": "2018-08-31T22:24:29Z",
+  "pushed_at": "2018-08-31T22:24:10Z",
   "homepage": "https://nim-lang.org/",
-  "size": 70795,
-  "stargazers_count": 5396,
+  "size": 70829,
+  "stargazers_count": 5394,
   "language": "Nim",
   "mirror_url": null,
   "archived": false,
@@ -403,7 +403,7 @@
   },
   "languages": {
     "Nim": {
-      "bytes": 8366539,
+      "bytes": 8366540,
       "color": "#37775b"
     },
     "C": {
@@ -451,7 +451,7 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-31T16:27:33.067Z",
+  "fetched_at": "2018-09-01T02:46:44.403Z",
   "pulls_url": "https://api.github.com/repos/nim-lang/Nim/pulls{/number}",
   "pulls_authors": [
     "michael72",

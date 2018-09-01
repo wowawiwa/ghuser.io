@@ -10,8 +10,8 @@
   "url": "https://api.github.com/repos/aryaminus/RN-firechat",
   "languages_url": "https://api.github.com/repos/aryaminus/RN-firechat/languages",
   "created_at": "2017-10-29T16:44:51Z",
-  "updated_at": "2018-08-28T19:17:04Z",
-  "pushed_at": "2018-01-13T04:06:04Z",
+  "updated_at": "2018-09-01T02:24:32Z",
+  "pushed_at": "2018-09-01T02:24:30Z",
   "homepage": "https://goo.gl/kD6Qmk",
   "size": 690,
   "stargazers_count": 47,
@@ -27,11 +27,12 @@
   },
   "default_branch": "master",
   "contributors": {
-    "aryaminus": 54
+    "aryaminus": 54,
+    "manisha2012": 1
   },
   "languages": {
     "JavaScript": {
-      "bytes": 27783,
+      "bytes": 27785,
       "color": "#f1e05a"
     },
     "Objective-C": {
@@ -47,7 +48,9 @@
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-08-29T02:25:11.422Z",
+  "fetched_at": "2018-09-01T02:45:58.946Z",
   "pulls_url": "https://api.github.com/repos/aryaminus/RN-firechat/pulls{/number}",
-  "pulls_authors": []
+  "pulls_authors": [
+    "manisha2012"
+  ]
 }
