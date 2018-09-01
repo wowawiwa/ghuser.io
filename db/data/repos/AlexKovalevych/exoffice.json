@@ -11,8 +11,8 @@
   "languages_url": "https://api.github.com/repos/AlexKovalevych/exoffice/languages",
   "pulls_url": "https://api.github.com/repos/AlexKovalevych/exoffice/pulls{/number}",
   "created_at": "2016-11-26T13:25:06Z",
-  "updated_at": "2018-08-31T20:34:58Z",
-  "pushed_at": "2018-08-31T20:34:56Z",
+  "updated_at": "2018-09-01T12:27:53Z",
+  "pushed_at": "2018-09-01T12:27:51Z",
   "homepage": "",
   "size": 528,
   "stargazers_count": 15,
@@ -23,8 +23,8 @@
   "default_branch": "master",
   "contributors": {
     "CharlesOkwuagwu": 1,
-    "AlexKovalevych": 12,
-    "rockneurotiko": 1
+    "AlexKovalevych": 13,
+    "rockneurotiko": 2
   },
   "pulls_authors": [
     "rockneurotiko",
@@ -34,9 +34,9 @@
   ],
   "languages": {
     "Elixir": {
-      "bytes": 55848,
+      "bytes": 55702,
       "color": "#6e4a7e"
     }
   },
-  "fetched_at": "2018-09-01T02:50:03.944Z"
+  "fetched_at": "2018-09-01T13:07:50.050Z"
 }

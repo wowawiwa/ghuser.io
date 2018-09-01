@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/azdanov/tslint-eslint-crats/languages",
   "pulls_url": "https://api.github.com/repos/azdanov/tslint-eslint-crats/pulls{/number}",
   "created_at": "2018-06-02T20:57:26Z",
-  "updated_at": "2018-08-14T16:53:57Z",
-  "pushed_at": "2018-08-14T16:53:56Z",
+  "updated_at": "2018-09-01T11:42:22Z",
+  "pushed_at": "2018-09-01T11:42:23Z",
   "homepage": "",
-  "size": 302,
+  "size": 1742,
   "stargazers_count": 2,
   "language": "TypeScript",
   "mirror_url": null,
@@ -28,9 +28,12 @@
   },
   "default_branch": "master",
   "contributors": {
-    "azdanov": 22
+    "azdanov": 23,
+    "renovate-bot": 11
   },
-  "pulls_authors": [],
+  "pulls_authors": [
+    "renovate[bot]"
+  ],
   "languages": {
     "TypeScript": {
       "bytes": 5605,
@@ -45,5 +48,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-08-17T12:34:58.254Z"
+  "fetched_at": "2018-09-01T13:03:51.920Z"
 }

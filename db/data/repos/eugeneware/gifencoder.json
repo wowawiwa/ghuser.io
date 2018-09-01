@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/eugeneware/gifencoder/languages",
   "pulls_url": "https://api.github.com/repos/eugeneware/gifencoder/pulls{/number}",
   "created_at": "2013-10-04T16:36:54Z",
-  "updated_at": "2018-08-03T10:10:24Z",
-  "pushed_at": "2018-08-31T22:52:20Z",
+  "updated_at": "2018-09-01T11:24:10Z",
+  "pushed_at": "2018-09-01T11:24:08Z",
   "homepage": null,
-  "size": 91,
+  "size": 90,
   "stargazers_count": 258,
   "language": "JavaScript",
   "mirror_url": null,
@@ -31,7 +31,8 @@
     "rochoa": 1,
     "raine": 1,
     "heikkipora": 2,
-    "eugeneware": 37
+    "eugeneware": 37,
+    "anishkny": 1
   },
   "pulls_authors": [
     "anishkny",
@@ -45,5 +46,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-01T02:45:44.509Z"
+  "fetched_at": "2018-09-01T13:03:28.511Z"
 }

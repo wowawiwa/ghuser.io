@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/jamesgeorge007/oppia",
   "languages_url": "https://api.github.com/repos/jamesgeorge007/oppia/languages",
   "created_at": "2018-03-04T09:18:08Z",
-  "updated_at": "2018-08-29T15:24:11Z",
-  "pushed_at": "2018-08-29T15:24:04Z",
+  "updated_at": "2018-09-01T03:49:08Z",
+  "pushed_at": "2018-09-01T03:49:05Z",
   "homepage": "https://www.oppia.org",
-  "size": 106817,
+  "size": 106878,
   "stargazers_count": 1,
   "language": "Python",
   "mirror_url": null,
@@ -55,7 +55,7 @@
     "Anthony-Alridge": 9,
     "translatewiki": 9,
     "himanshu-dixit": 10,
-    "WickedBrat": 19,
+    "WickedBrat": 20,
     "bansalnitish": 46,
     "virajprabhu": 25,
     "shubha1593": 11,
@@ -125,8 +125,8 @@
     "MAKOSCAFEE": 183,
     "sfederwisch": 194,
     "wxyxinyu": 321,
-    "BenHenning": 426,
-    "seanlip": 3923,
+    "BenHenning": 427,
+    "seanlip": 3925,
     "stephenchiang": 8,
     "philoniare": 6,
     "BojOnTheBeat": 5,
@@ -236,18 +236,18 @@
     "hoangviet1993": 24,
     "saching97": 5,
     "sshou14": 4,
-    "vinitamurthi": 4,
+    "vinitamurthi": 5,
     "dawsoneliasen": 3,
     "nalinbhardwaj": 3,
     "swoopyy": 2,
     "proishan11": 2,
-    "jamesgeorge007": 2,
+    "jamesgeorge007": 3,
     "unit-00": 2,
     "lilithxxx": 2,
     "square-1111": 2,
     "Panda2498": 1,
     "horcrux2301": 1,
-    "hemant0308": 1,
+    "hemant0308": 2,
     "rahulnitdgp": 1,
     "Satyam-Bhalla": 1,
     "neoliteconsultant": 1,
@@ -258,15 +258,15 @@
   },
   "languages": {
     "Python": {
-      "bytes": 5550726,
+      "bytes": 5569293,
       "color": "#3572A5"
     },
     "JavaScript": {
-      "bytes": 4329212,
+      "bytes": 4329759,
       "color": "#f1e05a"
     },
     "HTML": {
-      "bytes": 1227046,
+      "bytes": 1226954,
       "color": "#e34c26"
     },
     "CSS": {
@@ -278,7 +278,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-29T23:07:26.756Z",
+  "fetched_at": "2018-09-01T13:05:58.039Z",
   "pulls_url": "https://api.github.com/repos/jamesgeorge007/oppia/pulls{/number}",
   "pulls_authors": [
     "jamesgeorge007"
