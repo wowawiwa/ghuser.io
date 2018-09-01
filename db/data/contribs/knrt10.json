@@ -95,13 +95,13 @@
     "probot/probot": {
       "full_name": "probot/probot",
       "name": "probot",
-      "stargazers_count": 3156,
-      "popularity": 4.499052216053197,
+      "stargazers_count": 3160,
+      "popularity": 4.499602460950397,
       "percentage": 0.23174971031286212,
       "maturity": 3.9171887097706395,
       "total_commits_count": 863,
       "activity": 5,
-      "total_score": 26.467079093908733,
+      "total_score": 26.46874640608275,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -160,13 +160,13 @@
     "wip/app": {
       "full_name": "wip/app",
       "name": "app",
-      "stargazers_count": 281,
-      "popularity": 3.44735218352222,
+      "stargazers_count": 282,
+      "popularity": 3.4488999203557356,
       "percentage": 0.8771929824561403,
       "maturity": 2.871552188050665,
       "total_commits_count": 114,
       "activity": 5,
-      "total_score": 21.47828003531526,
+      "total_score": 21.483099742121382,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

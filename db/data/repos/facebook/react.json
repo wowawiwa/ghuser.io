@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/facebook/react",
   "languages_url": "https://api.github.com/repos/facebook/react/languages",
   "created_at": "2013-05-24T16:15:54Z",
-  "updated_at": "2018-09-01T13:03:50Z",
-  "pushed_at": "2018-09-01T12:21:37Z",
+  "updated_at": "2018-09-01T23:01:05Z",
+  "pushed_at": "2018-09-01T21:01:36Z",
   "homepage": "https://reactjs.org",
-  "size": 137811,
-  "stargazers_count": 110139,
+  "size": 137890,
+  "stargazers_count": 110179,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -141,7 +141,7 @@
     "vjeux": 207,
     "chenglou": 222,
     "petehunt": 332,
-    "bvaughn": 286,
+    "bvaughn": 289,
     "acdlite": 444,
     "sebmarkbage": 645,
     "zpao": 1776,
@@ -197,7 +197,7 @@
     "remixz": 4,
     "mariodu": 4,
     "alexzherdev": 4,
-    "NE-SmallTown": 6,
+    "NE-SmallTown": 7,
     "yuyokk": 4,
     "maciej-ka": 4,
     "adelevie": 3,
@@ -512,16 +512,16 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 2082206,
+      "bytes": 2090466,
       "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 45365,
+      "color": "#e34c26"
     },
     "C++": {
       "bytes": 44242,
       "color": "#f34b7d"
-    },
-    "HTML": {
-      "bytes": 42976,
-      "color": "#e34c26"
     },
     "TypeScript": {
       "bytes": 20145,
@@ -552,7 +552,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-01T13:04:14.266Z",
+  "fetched_at": "2018-09-01T23:20:13.851Z",
   "pulls_url": "https://api.github.com/repos/facebook/react/pulls{/number}",
   "pulls_authors": [
     "gaearon",
@@ -2611,6 +2611,7 @@
     "alex-saunders",
     "janczer",
     "juggernaut451",
-    "ovidiubute"
+    "ovidiubute",
+    "mgol"
   ]
 }

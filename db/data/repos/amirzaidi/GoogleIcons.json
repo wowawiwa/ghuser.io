@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/amirzaidi/GoogleIcons/languages",
   "pulls_url": "https://api.github.com/repos/amirzaidi/GoogleIcons/pulls{/number}",
   "created_at": "2018-02-24T14:41:04Z",
-  "updated_at": "2018-08-29T19:48:11Z",
-  "pushed_at": "2018-08-29T19:48:09Z",
+  "updated_at": "2018-09-01T14:11:04Z",
+  "pushed_at": "2018-09-01T14:30:59Z",
   "homepage": null,
   "size": 3067,
-  "stargazers_count": 32,
+  "stargazers_count": 33,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -27,7 +27,8 @@
     "amirzaidi": 38
   },
   "pulls_authors": [
-    "deletescape"
+    "deletescape",
+    "geek1011"
   ],
   "languages": {
     "Java": {
@@ -35,5 +36,5 @@
       "color": "#b07219"
     }
   },
-  "fetched_at": "2018-08-29T23:06:33.972Z"
+  "fetched_at": "2018-09-01T23:21:05.944Z"
 }

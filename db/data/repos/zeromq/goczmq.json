@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/zeromq/goczmq",
   "languages_url": "https://api.github.com/repos/zeromq/goczmq/languages",
   "created_at": "2014-09-05T20:26:12Z",
-  "updated_at": "2018-08-30T02:15:01Z",
+  "updated_at": "2018-09-01T13:12:54Z",
   "pushed_at": "2018-08-30T02:14:59Z",
   "homepage": "",
   "size": 945,
-  "stargazers_count": 251,
+  "stargazers_count": 252,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -71,7 +71,7 @@
     "taotetek": 228,
     "arodland": 3
   },
-  "fetched_at": "2018-08-30T09:29:09.596Z",
+  "fetched_at": "2018-09-01T23:22:35.445Z",
   "pulls_url": "https://api.github.com/repos/zeromq/goczmq/pulls{/number}",
   "pulls_authors": [
     "ashcrow",

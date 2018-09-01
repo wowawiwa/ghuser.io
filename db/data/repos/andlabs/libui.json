@@ -28,7 +28,7 @@
     "fclairamb": 7,
     "emersion": 9,
     "cody271": 25,
-    "andlabs": 3443
+    "andlabs": 3455
   },
   "name": "libui",
   "full_name": "andlabs/libui",
@@ -40,11 +40,11 @@
   "url": "https://api.github.com/repos/andlabs/libui",
   "languages_url": "https://api.github.com/repos/andlabs/libui/languages",
   "created_at": "2015-04-17T00:35:54Z",
-  "updated_at": "2018-09-01T07:09:21Z",
-  "pushed_at": "2018-09-01T08:09:13Z",
+  "updated_at": "2018-09-01T23:16:03Z",
+  "pushed_at": "2018-09-01T23:17:29Z",
   "homepage": "",
   "size": 5567,
-  "stargazers_count": 7558,
+  "stargazers_count": 7560,
   "language": "C",
   "mirror_url": null,
   "archived": false,
@@ -58,15 +58,15 @@
   "default_branch": "master",
   "languages": {
     "C": {
-      "bytes": 623123,
+      "bytes": 654485,
       "color": "#555555"
     },
     "C++": {
-      "bytes": 460736,
+      "bytes": 462490,
       "color": "#f34b7d"
     },
     "Objective-C": {
-      "bytes": 360190,
+      "bytes": 360281,
       "color": "#438eff"
     },
     "CMake": {
@@ -74,7 +74,7 @@
       "color": "#ccc"
     },
     "Go": {
-      "bytes": 2100,
+      "bytes": 1958,
       "color": "#375eab"
     },
     "Batchfile": {
@@ -82,7 +82,7 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-09-01T13:04:21.244Z",
+  "fetched_at": "2018-09-01T23:20:19.856Z",
   "pulls_url": "https://api.github.com/repos/andlabs/libui/pulls{/number}",
   "pulls_authors": [
     "mischnic",

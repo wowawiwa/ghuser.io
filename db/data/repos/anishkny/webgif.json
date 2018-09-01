@@ -11,8 +11,8 @@
   "languages_url": "https://api.github.com/repos/anishkny/webgif/languages",
   "pulls_url": "https://api.github.com/repos/anishkny/webgif/pulls{/number}",
   "created_at": "2018-03-22T18:06:39Z",
-  "updated_at": "2018-08-09T22:44:31Z",
-  "pushed_at": "2018-08-10T02:13:32Z",
+  "updated_at": "2018-09-01T22:02:21Z",
+  "pushed_at": "2018-09-01T22:02:25Z",
   "homepage": "https://webgif.netlify.com",
   "size": 46,
   "stargazers_count": 11,
@@ -22,7 +22,7 @@
   "license": null,
   "default_branch": "master",
   "contributors": {
-    "greenkeeper[bot]": 1,
+    "greenkeeper[bot]": 2,
     "anishkny": 43
   },
   "pulls_authors": [
@@ -39,5 +39,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-18T09:17:37.889Z"
+  "fetched_at": "2018-09-01T23:19:24.234Z"
 }

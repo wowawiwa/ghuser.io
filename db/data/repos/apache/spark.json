@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/apache/spark",
   "languages_url": "https://api.github.com/repos/apache/spark/languages",
   "created_at": "2014-02-25T08:00:08Z",
-  "updated_at": "2018-09-01T12:36:43Z",
-  "pushed_at": "2018-09-01T09:48:11Z",
+  "updated_at": "2018-09-01T23:12:17Z",
+  "pushed_at": "2018-09-01T23:08:21Z",
   "homepage": null,
-  "size": 280558,
-  "stargazers_count": 18602,
+  "size": 280561,
+  "stargazers_count": 18606,
   "language": "Scala",
   "mirror_url": null,
   "archived": false,
@@ -106,7 +106,7 @@
     "ericl": 81,
     "WeichenXu123": 86,
     "hhbyyh": 86,
-    "mgaido91": 105,
+    "mgaido91": 107,
     "BryanCutler": 90,
     "scwf": 92,
     "sryza": 92,
@@ -390,7 +390,7 @@
   },
   "languages": {
     "Scala": {
-      "bytes": 27249966,
+      "bytes": 27253628,
       "color": "#c22d40"
     },
     "Java": {
@@ -398,7 +398,7 @@
       "color": "#b07219"
     },
     "Python": {
-      "bytes": 2735246,
+      "bytes": 2735323,
       "color": "#3572A5"
     },
     "HiveQL": {
@@ -406,7 +406,7 @@
       "color": "#dce200"
     },
     "R": {
-      "bytes": 1134646,
+      "bytes": 1134720,
       "color": "#198CE7"
     },
     "Shell": {
@@ -470,7 +470,7 @@
       "color": "#555555"
     }
   },
-  "fetched_at": "2018-09-01T13:07:12.502Z",
+  "fetched_at": "2018-09-01T23:23:09.991Z",
   "pulls_url": "https://api.github.com/repos/apache/spark/pulls{/number}",
   "pulls_authors": [
     "techaddict",
@@ -2777,6 +2777,7 @@
     "npoberezkin",
     "aai95",
     "MichaelChirico",
-    "adambalogh"
+    "adambalogh",
+    "mt40"
   ]
 }

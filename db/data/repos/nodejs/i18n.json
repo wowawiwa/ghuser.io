@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/nodejs/i18n",
   "languages_url": "https://api.github.com/repos/nodejs/i18n/languages",
   "created_at": "2018-01-19T08:39:03Z",
-  "updated_at": "2018-08-30T08:34:47Z",
-  "pushed_at": "2018-08-30T08:34:47Z",
+  "updated_at": "2018-09-01T14:29:18Z",
+  "pushed_at": "2018-09-01T18:20:55Z",
   "homepage": "https://crowdin.com/project/nodejs",
-  "size": 11975,
+  "size": 12664,
   "stargazers_count": 45,
   "language": "JavaScript",
   "mirror_url": null,
@@ -72,9 +72,9 @@
     "maddhruv": 14,
     "obensource": 17,
     "zeke": 19,
-    "nodejs-crowdin": 11807
+    "nodejs-crowdin": 11868
   },
-  "fetched_at": "2018-08-30T09:31:27.081Z",
+  "fetched_at": "2018-09-01T23:24:24.846Z",
   "pulls_url": "https://api.github.com/repos/nodejs/i18n/pulls{/number}",
   "pulls_authors": [
     "nodejs-crowdin",

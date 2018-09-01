@@ -100,7 +100,7 @@
     "terziman": 126,
     "turol": 319,
     "acgessler": 687,
-    "kimkulling": 2116,
+    "kimkulling": 2118,
     "invalid-email-address": 12,
     "NebuHiiEjamu": 8,
     "thomas-lemaire": 5,
@@ -272,11 +272,11 @@
   "url": "https://api.github.com/repos/assimp/assimp",
   "languages_url": "https://api.github.com/repos/assimp/assimp/languages",
   "created_at": "2010-05-05T12:53:45Z",
-  "updated_at": "2018-09-01T03:38:13Z",
-  "pushed_at": "2018-08-31T19:46:51Z",
+  "updated_at": "2018-09-01T18:36:02Z",
+  "pushed_at": "2018-09-01T23:06:45Z",
   "homepage": "http://www.assimp.org",
-  "size": 133824,
-  "stargazers_count": 3378,
+  "size": 133913,
+  "stargazers_count": 3379,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -414,7 +414,7 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-09-01T13:04:20.770Z",
+  "fetched_at": "2018-09-01T23:20:19.274Z",
   "pulls_url": "https://api.github.com/repos/assimp/assimp/pulls{/number}",
   "pulls_authors": [
     "eddiejames",
@@ -714,6 +714,7 @@
     "jandd",
     "griffin2000",
     "msfeldstein",
-    "vjf"
+    "vjf",
+    "wmatyjewicz"
   ]
 }
