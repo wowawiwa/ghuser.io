@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/Magisk-Modules-Repo/GoogleLensEnabler/languages",
   "pulls_url": "https://api.github.com/repos/Magisk-Modules-Repo/GoogleLensEnabler/pulls{/number}",
   "created_at": "2018-01-21T10:37:52Z",
-  "updated_at": "2018-08-24T14:29:18Z",
-  "pushed_at": "2018-07-23T14:50:48Z",
+  "updated_at": "2018-09-02T11:34:31Z",
+  "pushed_at": "2018-09-02T11:34:29Z",
   "homepage": "",
-  "size": 12,
+  "size": 13,
   "stargazers_count": 5,
   "language": "Shell",
   "mirror_url": null,
@@ -43,16 +43,16 @@
   },
   "contributors": {
     "thehappydinoa": 2,
-    "nipunnarang": 3
+    "nipunnarang": 4
   },
   "pulls_authors": [
     "thehappydinoa"
   ],
   "languages": {
     "Shell": {
-      "bytes": 9603,
+      "bytes": 9296,
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-24T23:01:38.817Z"
+  "fetched_at": "2018-09-02T14:35:59.910Z"
 }

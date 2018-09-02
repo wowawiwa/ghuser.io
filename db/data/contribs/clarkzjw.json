@@ -225,13 +225,13 @@
     "hangyan/docker-resources": {
       "full_name": "hangyan/docker-resources",
       "name": "docker-resources",
-      "stargazers_count": 1379,
-      "popularity": 4.139319818535509,
+      "stargazers_count": 1380,
+      "popularity": 4.139634844289014,
       "percentage": 4,
       "maturity": 0,
       "total_commits_count": 25,
       "activity": 5,
-      "total_score": 19.57040576124499,
+      "total_score": 19.57151465189733,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -303,13 +303,13 @@
     "ipython-contrib/jupyter_contrib_nbextensions": {
       "full_name": "ipython-contrib/jupyter_contrib_nbextensions",
       "name": "jupyter_contrib_nbextensions",
-      "stargazers_count": 2590,
-      "popularity": 4.413187911857919,
+      "stargazers_count": 2589,
+      "popularity": 4.413020139900562,
       "percentage": 0.06031363088057901,
       "maturity": 4.210741569403716,
       "total_commits_count": 1658,
       "activity": 5,
-      "total_score": 26.695649674655105,
+      "total_score": 26.695145043321364,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

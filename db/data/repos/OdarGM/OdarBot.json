@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/OdarGM/OdarBot/languages",
   "pulls_url": "https://api.github.com/repos/OdarGM/OdarBot/pulls{/number}",
   "created_at": "2018-02-26T14:27:22Z",
-  "updated_at": "2018-08-23T21:13:05Z",
-  "pushed_at": "2018-08-23T21:13:03Z",
+  "updated_at": "2018-09-02T10:23:18Z",
+  "pushed_at": "2018-09-02T10:23:23Z",
   "homepage": "https://bot.odar.xyz",
-  "size": 262,
+  "size": 263,
   "stargazers_count": 3,
   "language": "JavaScript",
   "mirror_url": null,
@@ -24,7 +24,7 @@
   "contributors": {
     "AGuyNamedJens": 1,
     "renovate-bot": 2,
-    "OdarGM": 271
+    "OdarGM": 272
   },
   "pulls_authors": [
     "dependabot[bot]",
@@ -42,5 +42,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-08-24T02:22:31.806Z"
+  "fetched_at": "2018-09-02T14:35:01.275Z"
 }
