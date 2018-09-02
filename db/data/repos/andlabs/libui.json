@@ -28,7 +28,7 @@
     "fclairamb": 7,
     "emersion": 9,
     "cody271": 25,
-    "andlabs": 3455
+    "andlabs": 3457
   },
   "name": "libui",
   "full_name": "andlabs/libui",
@@ -40,11 +40,11 @@
   "url": "https://api.github.com/repos/andlabs/libui",
   "languages_url": "https://api.github.com/repos/andlabs/libui/languages",
   "created_at": "2015-04-17T00:35:54Z",
-  "updated_at": "2018-09-01T23:16:03Z",
-  "pushed_at": "2018-09-01T23:17:29Z",
+  "updated_at": "2018-09-02T08:12:45Z",
+  "pushed_at": "2018-09-02T00:38:09Z",
   "homepage": "",
-  "size": 5567,
-  "stargazers_count": 7560,
+  "size": 5586,
+  "stargazers_count": 7563,
   "language": "C",
   "mirror_url": null,
   "archived": false,
@@ -62,7 +62,7 @@
       "color": "#555555"
     },
     "C++": {
-      "bytes": 462490,
+      "bytes": 462535,
       "color": "#f34b7d"
     },
     "Objective-C": {
@@ -70,7 +70,7 @@
       "color": "#438eff"
     },
     "CMake": {
-      "bytes": 13415,
+      "bytes": 13471,
       "color": "#ccc"
     },
     "Go": {
@@ -82,7 +82,7 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-09-01T23:20:19.856Z",
+  "fetched_at": "2018-09-02T09:36:54.266Z",
   "pulls_url": "https://api.github.com/repos/andlabs/libui/pulls{/number}",
   "pulls_authors": [
     "mischnic",

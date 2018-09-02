@@ -71,11 +71,11 @@
       "name": "paper-turtle",
       "stargazers_count": 2,
       "popularity": 1.0414282204429401,
-      "percentage": 25,
+      "percentage": 28.571428571428573,
       "maturity": 0,
-      "total_commits_count": 20,
+      "total_commits_count": 21,
       "activity": 5,
-      "total_score": 11.508926377768375,
+      "total_score": 11.992446622974027,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -89,6 +89,19 @@
       "total_commits_count": 212,
       "activity": 5,
       "total_score": 16.41239780197342,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "turtlecoin/turtlecoin": {
+      "full_name": "turtlecoin/turtlecoin",
+      "name": "turtlecoin",
+      "stargazers_count": 307,
+      "popularity": 3.485902405481286,
+      "percentage": 0,
+      "maturity": 3.7203207073711027,
+      "total_commits_count": 563,
+      "activity": 5,
+      "total_score": 22.898348631186064,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

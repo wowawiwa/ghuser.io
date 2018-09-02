@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/jamesgeorge007/oppia",
   "languages_url": "https://api.github.com/repos/jamesgeorge007/oppia/languages",
   "created_at": "2018-03-04T09:18:08Z",
-  "updated_at": "2018-09-01T03:49:08Z",
-  "pushed_at": "2018-09-01T03:49:05Z",
+  "updated_at": "2018-09-02T07:32:47Z",
+  "pushed_at": "2018-09-02T07:32:45Z",
   "homepage": "https://www.oppia.org",
-  "size": 106878,
+  "size": 106868,
   "stargazers_count": 1,
   "language": "Python",
   "mirror_url": null,
@@ -112,7 +112,7 @@
     "pranavsid98": 105,
     "tjiang11": 70,
     "1995YogeshSharma": 98,
-    "AllanYangZhou": 109,
+    "AllanYangZhou": 110,
     "sbhowmik89": 115,
     "kevinlee12": 139,
     "kashida": 118,
@@ -241,7 +241,7 @@
     "nalinbhardwaj": 3,
     "swoopyy": 2,
     "proishan11": 2,
-    "jamesgeorge007": 3,
+    "jamesgeorge007": 4,
     "unit-00": 2,
     "lilithxxx": 2,
     "square-1111": 2,
@@ -262,7 +262,7 @@
       "color": "#3572A5"
     },
     "JavaScript": {
-      "bytes": 4329759,
+      "bytes": 4329761,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -278,7 +278,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-01T13:05:58.039Z",
+  "fetched_at": "2018-09-02T09:38:34.197Z",
   "pulls_url": "https://api.github.com/repos/jamesgeorge007/oppia/pulls{/number}",
   "pulls_authors": [
     "jamesgeorge007"

@@ -100,7 +100,7 @@
     "lukesampson": 339,
     "brandon93s": 111,
     "sestegra": 198,
-    "r15ch13": 3049,
+    "r15ch13": 3054,
     "benplm": 2,
     "nightscape": 2,
     "lahcim8": 4,
@@ -214,11 +214,11 @@
   "url": "https://api.github.com/repos/lukesampson/scoop-extras",
   "languages_url": "https://api.github.com/repos/lukesampson/scoop-extras/languages",
   "created_at": "2013-08-06T03:27:50Z",
-  "updated_at": "2018-09-01T22:05:09Z",
-  "pushed_at": "2018-09-01T22:05:05Z",
+  "updated_at": "2018-09-02T09:28:35Z",
+  "pushed_at": "2018-09-02T09:28:31Z",
   "homepage": null,
-  "size": 3013,
-  "stargazers_count": 280,
+  "size": 3014,
+  "stargazers_count": 281,
   "language": "PowerShell",
   "mirror_url": null,
   "archived": false,
@@ -230,7 +230,7 @@
       "color": "#012456"
     }
   },
-  "fetched_at": "2018-09-01T23:20:19.192Z",
+  "fetched_at": "2018-09-02T09:36:53.665Z",
   "pulls_url": "https://api.github.com/repos/lukesampson/scoop-extras/pulls{/number}",
   "pulls_authors": [
     "se35710",
@@ -453,6 +453,7 @@
     "sgarfinkel",
     "kuinaein",
     "Melvinkooi",
-    "Nikey646"
+    "Nikey646",
+    "tethistlethwaite"
   ]
 }
