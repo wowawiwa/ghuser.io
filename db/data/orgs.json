@@ -5214,6 +5214,71 @@
       "created_at": "2016-03-18T04:56:59Z",
       "updated_at": "2016-03-22T20:36:26Z",
       "type": "Organization"
+    },
+    "osuosl": {
+      "login": "osuosl",
+      "url": "https://api.github.com/orgs/osuosl",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1380625?v=4",
+      "name": "OSU Open Source Lab",
+      "is_verified": false,
+      "html_url": "https://github.com/osuosl",
+      "created_at": "2012-01-25T23:11:01Z",
+      "updated_at": "2018-07-31T21:31:26Z",
+      "type": "Organization"
+    },
+    "biopython": {
+      "login": "biopython",
+      "url": "https://api.github.com/orgs/biopython",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/54555?v=4",
+      "name": "Biopython Project",
+      "is_verified": false,
+      "html_url": "https://github.com/biopython",
+      "created_at": "2009-02-14T17:44:12Z",
+      "updated_at": "2016-04-25T21:35:52Z",
+      "type": "Organization"
+    },
+    "systers": {
+      "login": "systers",
+      "url": "https://api.github.com/orgs/systers",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/6520415?v=4",
+      "name": "Systers Open Source",
+      "is_verified": false,
+      "html_url": "https://github.com/systers",
+      "created_at": "2014-01-28T01:41:19Z",
+      "updated_at": "2018-08-22T15:17:16Z",
+      "type": "Organization"
+    },
+    "learningequality": {
+      "login": "learningequality",
+      "url": "https://api.github.com/orgs/learningequality",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3926525?v=4",
+      "name": "Learning Equality",
+      "is_verified": false,
+      "html_url": "https://github.com/learningequality",
+      "created_at": "2013-03-21T01:29:08Z",
+      "updated_at": "2018-08-23T15:02:46Z",
+      "type": "Organization"
+    },
+    "NeuroVault": {
+      "login": "NeuroVault",
+      "url": "https://api.github.com/orgs/NeuroVault",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/9168649?v=4",
+      "is_verified": false,
+      "html_url": "https://github.com/NeuroVault",
+      "created_at": "2014-10-12T20:37:01Z",
+      "updated_at": "2015-07-24T12:33:51Z",
+      "type": "Organization"
+    },
+    "osu-cass": {
+      "login": "osu-cass",
+      "url": "https://api.github.com/orgs/osu-cass",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/8293685?v=4",
+      "name": "Center for Applied Systems and Software",
+      "is_verified": false,
+      "html_url": "https://github.com/osu-cass",
+      "created_at": "2014-07-28T21:43:01Z",
+      "updated_at": "2018-08-07T06:51:37Z",
+      "type": "Organization"
     }
   }
 }

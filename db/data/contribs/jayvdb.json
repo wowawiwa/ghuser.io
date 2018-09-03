@@ -1616,13 +1616,13 @@
     "squizlabs/PHP_CodeSniffer": {
       "full_name": "squizlabs/PHP_CodeSniffer",
       "name": "PHP_CodeSniffer",
-      "stargazers_count": 5313,
-      "popularity": 4.725305329924905,
+      "stargazers_count": 5315,
+      "popularity": 4.725468810562487,
       "percentage": 0.018521948508983144,
       "maturity": 4.730828147263939,
       "total_commits_count": 5399,
       "activity": 5,
-      "total_score": 28.648950126363903,
+      "total_score": 28.649440961914046,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
