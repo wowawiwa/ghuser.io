@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "imjog.github.io",
+  "full_name": "imjog/imjog.github.io",
+  "owner": "imjog",
+  "private": false,
+  "html_url": "https://github.com/imjog/imjog.github.io",
+  "description": "My Portfolio - Personal blogs, Projects.",
+  "fork": false,
+  "url": "https://api.github.com/repos/imjog/imjog.github.io",
+  "languages_url": "https://api.github.com/repos/imjog/imjog.github.io/languages",
+  "pulls_url": "https://api.github.com/repos/imjog/imjog.github.io/pulls{/number}",
+  "created_at": "2017-06-11T08:57:00Z",
+  "updated_at": "2018-08-28T18:43:55Z",
+  "pushed_at": "2018-08-28T18:43:52Z",
+  "homepage": "https://imjog.github.io/",
+  "size": 26292,
+  "stargazers_count": 6,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "imjog": 201
+  },
+  "pulls_authors": [
+    "imjog"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 64421,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 37005,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 27526,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-03T18:26:32.399Z"
+}

@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "phimpme-iOS",
+  "full_name": "imjog/phimpme-iOS",
+  "owner": "imjog",
+  "private": false,
+  "html_url": "https://github.com/imjog/phimpme-iOS",
+  "description": "Phimp.me - Photo Image Editor and Sharing App. Phimp.me is a Photo App for iOS that aims to replace proprietary photo applications. It offers features such as taking photos, adding filters, editing images and uploading them to social networks.",
+  "fork": false,
+  "url": "https://api.github.com/repos/imjog/phimpme-iOS",
+  "languages_url": "https://api.github.com/repos/imjog/phimpme-iOS/languages",
+  "pulls_url": "https://api.github.com/repos/imjog/phimpme-iOS/pulls{/number}",
+  "created_at": "2018-03-14T14:34:29Z",
+  "updated_at": "2018-08-27T07:43:39Z",
+  "pushed_at": "2018-06-28T11:20:23Z",
+  "homepage": "",
+  "size": 48966,
+  "stargazers_count": 25,
+  "language": "Swift",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "imjog": 71
+  },
+  "pulls_authors": [
+    "imjog"
+  ],
+  "languages": {
+    "Swift": {
+      "bytes": 41349,
+      "color": "#ffac45"
+    },
+    "Ruby": {
+      "bytes": 280,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-03T18:26:33.073Z"
+}
