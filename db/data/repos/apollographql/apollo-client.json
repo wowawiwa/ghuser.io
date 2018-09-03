@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/apollographql/apollo-client",
   "languages_url": "https://api.github.com/repos/apollographql/apollo-client/languages",
   "created_at": "2016-02-26T20:25:00Z",
-  "updated_at": "2018-09-03T00:47:35Z",
-  "pushed_at": "2018-09-03T00:48:09Z",
+  "updated_at": "2018-09-03T10:35:26Z",
+  "pushed_at": "2018-09-03T09:45:30Z",
   "homepage": "https://www.apollographql.com/client/",
-  "size": 11176,
-  "stargazers_count": 8433,
+  "size": 11315,
+  "stargazers_count": 8439,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -392,7 +392,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-03T00:48:21.920Z",
+  "fetched_at": "2018-09-03T13:00:27.553Z",
   "pulls_url": "https://api.github.com/repos/apollographql/apollo-client/pulls{/number}",
   "pulls_authors": [
     "hwillson",
@@ -844,6 +844,7 @@
     "ejfrancis",
     "aaalsubaie",
     "nandito",
-    "dansteren"
+    "dansteren",
+    "lucasfeliciano"
   ]
 }

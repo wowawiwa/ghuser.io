@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/Kickball/awesome-selfhosted/languages",
   "pulls_url": "https://api.github.com/repos/Kickball/awesome-selfhosted/pulls{/number}",
   "created_at": "2015-06-01T02:33:17Z",
-  "updated_at": "2018-09-03T00:15:58Z",
-  "pushed_at": "2018-08-30T21:07:57Z",
+  "updated_at": "2018-09-03T12:58:30Z",
+  "pushed_at": "2018-09-03T11:43:07Z",
   "homepage": "https://reddit.com/r/selfhosted",
   "size": 4282,
-  "stargazers_count": 25549,
+  "stargazers_count": 25556,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -1003,7 +1003,8 @@
     "dsteinel",
     "poeti8",
     "antoine29",
-    "AmiraliNull"
+    "AmiraliNull",
+    "kucukkanat"
   ],
   "languages": {
     "JavaScript": {
@@ -1019,5 +1020,5 @@
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-09-03T00:47:28.674Z"
+  "fetched_at": "2018-09-03T12:59:23.346Z"
 }

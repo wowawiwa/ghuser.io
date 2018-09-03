@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/nodejs/node",
   "languages_url": "https://api.github.com/repos/nodejs/node/languages",
   "created_at": "2014-11-26T19:57:11Z",
-  "updated_at": "2018-09-02T23:43:30Z",
-  "pushed_at": "2018-09-02T23:42:33Z",
+  "updated_at": "2018-09-03T12:37:57Z",
+  "pushed_at": "2018-09-03T12:45:16Z",
   "homepage": "https://nodejs.org",
-  "size": 406968,
-  "stargazers_count": 52906,
+  "size": 406977,
+  "stargazers_count": 52921,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 6825333,
+      "bytes": 6825433,
       "color": "#f1e05a"
     },
     "C++": {
-      "bytes": 2529337,
+      "bytes": 2529336,
       "color": "#f34b7d"
     },
     "Python": {
@@ -68,7 +68,7 @@
       "color": "#e34c26"
     },
     "Makefile": {
-      "bytes": 43275,
+      "bytes": 43271,
       "color": "#427819"
     },
     "DTrace": {
@@ -170,7 +170,7 @@
     "silverwind": 89,
     "refack": 97,
     "AndreasMadsen": 103,
-    "tniessen": 131,
+    "tniessen": 132,
     "ofrobots": 117,
     "mhdawson": 123,
     "felixge": 124,
@@ -190,12 +190,12 @@
     "BridgeAR": 349,
     "mscdex": 318,
     "rvagg": 324,
-    "danbev": 353,
+    "danbev": 355,
     "trevnorris": 363,
     "cjihrig": 396,
     "jasnell": 530,
     "piscisaureus": 598,
-    "addaleax": 681,
+    "addaleax": 682,
     "indutny": 755,
     "Trott": 1333,
     "isaacs": 1647,
@@ -226,7 +226,7 @@
     "tj": 15,
     "MoonBall": 13,
     "deanm": 14,
-    "gireeshpunathil": 15,
+    "gireeshpunathil": 16,
     "daynin": 14,
     "ujh": 14,
     "domenic": 13,
@@ -575,7 +575,7 @@
     "Maledong": 8,
     "TomCoded": 3
   },
-  "fetched_at": "2018-09-03T00:47:37.858Z",
+  "fetched_at": "2018-09-03T12:59:32.797Z",
   "pulls_url": "https://api.github.com/repos/nodejs/node/pulls{/number}",
   "pulls_authors": [
     "mmarchini",
@@ -2795,6 +2795,7 @@
     "lakamsani",
     "sylkat",
     "skelliam",
-    "szmarczak"
+    "szmarczak",
+    "dmabupt"
   ]
 }

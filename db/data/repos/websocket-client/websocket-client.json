@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/websocket-client/websocket-client/languages",
   "pulls_url": "https://api.github.com/repos/websocket-client/websocket-client/pulls{/number}",
   "created_at": "2010-12-28T06:35:25Z",
-  "updated_at": "2018-09-01T14:19:54Z",
-  "pushed_at": "2018-08-29T13:17:22Z",
+  "updated_at": "2018-09-03T10:12:41Z",
+  "pushed_at": "2018-09-03T10:14:05Z",
   "homepage": "https://github.com/websocket-client/websocket-client",
-  "size": 1000,
-  "stargazers_count": 1494,
+  "size": 1007,
+  "stargazers_count": 1497,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -147,7 +147,7 @@
     "ekeydar": 8,
     "ralphbean": 12,
     "allanlewis": 25,
-    "liris": 543,
+    "liris": 549,
     "yukiwakisaka": 2,
     "cjds": 1,
     "kevinxw": 1,
@@ -165,7 +165,9 @@
     "0qdk4o": 1,
     "mfitzpatrick": 1,
     "nneonneo": 1,
-    "hugovk": 5
+    "hugovk": 5,
+    "ihjmh": 1,
+    "JackUrb": 1
   },
   "pulls_authors": [
     "0qdk4o",
@@ -328,11 +330,12 @@
     "Nao83",
     "swedishmike",
     "ihjmh",
-    "JackUrb"
+    "JackUrb",
+    "shwnchpl"
   ],
   "languages": {
     "Python": {
-      "bytes": 120864,
+      "bytes": 120748,
       "color": "#3572A5"
     },
     "Shell": {
@@ -340,5 +343,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-01T23:22:19.518Z"
+  "fetched_at": "2018-09-03T12:58:17.348Z"
 }

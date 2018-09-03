@@ -111,7 +111,8 @@
     "bell07": 1,
     "bertrandda": 1,
     "elinor-s": 1,
-    "kakalak-lumberJack": 1
+    "kakalak-lumberJack": 1,
+    "12Me21": 1
   },
   "name": "minetest_game",
   "full_name": "minetest/minetest_game",
@@ -123,11 +124,11 @@
   "url": "https://api.github.com/repos/minetest/minetest_game",
   "languages_url": "https://api.github.com/repos/minetest/minetest_game/languages",
   "created_at": "2012-03-26T16:03:29Z",
-  "updated_at": "2018-09-02T01:44:04Z",
-  "pushed_at": "2018-09-02T05:07:35Z",
+  "updated_at": "2018-09-03T02:35:00Z",
+  "pushed_at": "2018-09-03T02:34:56Z",
   "homepage": "http://minetest.net/",
-  "size": 7188,
-  "stargazers_count": 652,
+  "size": 7194,
+  "stargazers_count": 653,
   "language": "Lua",
   "mirror_url": null,
   "archived": false,
@@ -161,11 +162,11 @@
   },
   "languages": {
     "Lua": {
-      "bytes": 463697,
+      "bytes": 463698,
       "color": "#000080"
     }
   },
-  "fetched_at": "2018-09-02T09:37:06.036Z",
+  "fetched_at": "2018-09-03T12:55:55.731Z",
   "pulls_url": "https://api.github.com/repos/minetest/minetest_game/pulls{/number}",
   "pulls_authors": [
     "paramat",
@@ -349,6 +350,7 @@
     "Uberi",
     "darkrose",
     "xyzz",
-    "QwertyHi"
+    "QwertyHi",
+    "12Me21"
   ]
 }

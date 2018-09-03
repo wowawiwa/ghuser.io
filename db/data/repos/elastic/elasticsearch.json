@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/elastic/elasticsearch",
   "languages_url": "https://api.github.com/repos/elastic/elasticsearch/languages",
   "created_at": "2010-02-08T13:20:56Z",
-  "updated_at": "2018-09-03T00:44:37Z",
-  "pushed_at": "2018-09-02T23:18:35Z",
+  "updated_at": "2018-09-03T12:58:14Z",
+  "pushed_at": "2018-09-03T12:43:20Z",
   "homepage": "https://www.elastic.co/products/elasticsearch",
-  "size": 508728,
-  "stargazers_count": 33998,
+  "size": 508845,
+  "stargazers_count": 34016,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "Java": {
-      "bytes": 70199056,
+      "bytes": 70255901,
       "color": "#b07219"
     },
     "Groovy": {
-      "bytes": 404939,
+      "bytes": 404988,
       "color": "#e69f56"
     },
     "Shell": {
@@ -119,7 +119,7 @@
     "ycombinator": 68,
     "vladimirdolzhenko": 25,
     "romseygeek": 21,
-    "atorok": 57,
+    "atorok": 58,
     "nlalevee": 18,
     "mayya-sharipova": 26,
     "spalger": 26,
@@ -160,16 +160,16 @@
     "karmi": 184,
     "tbrooks8": 203,
     "costin": 211,
-    "polyfractal": 236,
+    "polyfractal": 237,
     "pickypg": 232,
     "GaelTadh": 252,
     "abeyad": 276,
-    "davidkyle": 286,
+    "davidkyle": 287,
     "droberts195": 295,
     "mikemccand": 344,
-    "dimitris-athanasiou": 356,
+    "dimitris-athanasiou": 357,
     "brwe": 414,
-    "jimczi": 461,
+    "jimczi": 465,
     "areek": 457,
     "ywelsch": 498,
     "lcawl": 471,
@@ -178,9 +178,9 @@
     "dakrone": 721,
     "imotov": 662,
     "tlrx": 697,
-    "cbuescher": 990,
+    "cbuescher": 991,
     "jaymode": 819,
-    "spinscale": 878,
+    "spinscale": 879,
     "rmuir": 1256,
     "clintongormley": 1088,
     "bleskes": 1094,
@@ -472,7 +472,7 @@
     "lipsill": 4,
     "codebrain": 2
   },
-  "fetched_at": "2018-09-03T00:46:37.310Z",
+  "fetched_at": "2018-09-03T12:58:29.258Z",
   "pulls_url": "https://api.github.com/repos/elastic/elasticsearch/pulls{/number}",
   "pulls_authors": [
     "benwtrent",
@@ -2306,6 +2306,7 @@
     "laxsrbija",
     "GNayagam",
     "chrisronline",
-    "tony-dillon"
+    "tony-dillon",
+    "arusanescu"
   ]
 }

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/vuejs/awesome-vue",
   "languages_url": "https://api.github.com/repos/vuejs/awesome-vue/languages",
   "created_at": "2015-10-20T00:16:14Z",
-  "updated_at": "2018-09-03T00:20:52Z",
-  "pushed_at": "2018-09-02T10:53:55Z",
+  "updated_at": "2018-09-03T12:20:40Z",
+  "pushed_at": "2018-09-03T10:03:15Z",
   "homepage": "",
-  "size": 3847,
-  "stargazers_count": 37016,
+  "size": 4005,
+  "stargazers_count": 37046,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -139,7 +139,7 @@
     "mazipan": 12,
     "villeristi": 15,
     "shershen08": 13,
-    "kazupon": 1818,
+    "kazupon": 1820,
     "MetinSeylan": 20,
     "yyx990803": 191,
     "LinusBorg": 59,
@@ -385,7 +385,7 @@
     "ACollectionOfAtoms": 1,
     "herbat73": 1,
     "aweber1": 1,
-    "adi518": 2,
+    "adi518": 3,
     "websemantics": 1,
     "aocneanu": 1,
     "ahmed-dinar": 1,
@@ -1289,10 +1289,11 @@
     "mustardamus": 1,
     "lkmadushan": 1,
     "JayeshLab": 1,
-    "liloow": 1
+    "liloow": 1,
+    "x-cold": 1
   },
   "languages": {},
-  "fetched_at": "2018-09-03T00:44:16.750Z",
+  "fetched_at": "2018-09-03T12:55:39.111Z",
   "pulls_url": "https://api.github.com/repos/vuejs/awesome-vue/pulls{/number}",
   "pulls_authors": [
     "mengdu",
@@ -2617,6 +2618,7 @@
     "venkatperi",
     "lkmadushan",
     "JayeshLab",
-    "liloow"
+    "liloow",
+    "x-cold"
   ]
 }

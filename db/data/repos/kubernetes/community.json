@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/kubernetes/community",
   "languages_url": "https://api.github.com/repos/kubernetes/community/languages",
   "created_at": "2016-05-03T03:36:05Z",
-  "updated_at": "2018-09-02T19:11:34Z",
-  "pushed_at": "2018-09-01T03:25:52Z",
+  "updated_at": "2018-09-03T07:48:04Z",
+  "pushed_at": "2018-09-03T11:27:42Z",
   "homepage": "",
-  "size": 31890,
-  "stargazers_count": 2422,
+  "size": 31892,
+  "stargazers_count": 2423,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -148,7 +148,7 @@
     "cblecker": 142,
     "bgrant0607": 170,
     "k8s-merge-robot": 714,
-    "k8s-ci-robot": 688,
+    "k8s-ci-robot": 689,
     "resouer": 19,
     "chrislovecnm": 17,
     "dims": 16,
@@ -449,7 +449,8 @@
     "anothertobi": 2,
     "seans3": 4,
     "linericyang": 2,
-    "benmoss": 1
+    "benmoss": 1,
+    "bruceauyeung": 2
   },
   "languages": {
     "Go": {
@@ -469,7 +470,7 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-03T00:47:36.444Z",
+  "fetched_at": "2018-09-03T12:59:31.307Z",
   "pulls_url": "https://api.github.com/repos/kubernetes/community/pulls{/number}",
   "pulls_authors": [
     "castrojo",

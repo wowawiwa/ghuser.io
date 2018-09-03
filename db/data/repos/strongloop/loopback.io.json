@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/strongloop/loopback.io",
   "languages_url": "https://api.github.com/repos/strongloop/loopback.io/languages",
   "created_at": "2014-01-28T18:00:00Z",
-  "updated_at": "2018-08-30T21:21:24Z",
-  "pushed_at": "2018-08-31T05:47:58Z",
+  "updated_at": "2018-09-03T07:47:56Z",
+  "pushed_at": "2018-08-31T06:10:36Z",
   "homepage": "http://loopback.io",
   "size": 65227,
-  "stargazers_count": 149,
+  "stargazers_count": 150,
   "language": "CSS",
   "mirror_url": null,
   "archived": false,
@@ -141,7 +141,7 @@
     "Amir-61": 25,
     "Sequoia": 19,
     "raymondfeng": 21,
-    "shimks": 28,
+    "shimks": 26,
     "dhmlau": 30,
     "virkt25": 35,
     "bajtos": 44,
@@ -239,7 +239,7 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-08-31T06:10:03.095Z",
+  "fetched_at": "2018-09-03T12:57:24.521Z",
   "pulls_url": "https://api.github.com/repos/strongloop/loopback.io/pulls{/number}",
   "pulls_authors": [
     "CNSKnight",

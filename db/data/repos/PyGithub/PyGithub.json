@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/PyGithub/PyGithub/languages",
   "pulls_url": "https://api.github.com/repos/PyGithub/PyGithub/pulls{/number}",
   "created_at": "2012-02-25T12:53:47Z",
-  "updated_at": "2018-09-02T07:52:18Z",
-  "pushed_at": "2018-08-28T14:34:43Z",
+  "updated_at": "2018-09-03T06:40:12Z",
+  "pushed_at": "2018-09-02T19:14:06Z",
   "homepage": "https://pygithub.readthedocs.io/",
   "size": 11406,
-  "stargazers_count": 2010,
+  "stargazers_count": 2009,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -421,7 +421,8 @@
     "alesapin",
     "lost-a-tooth",
     "edouardtheron",
-    "Abdur-rahmaanJ"
+    "Abdur-rahmaanJ",
+    "singh811"
   ],
   "languages": {
     "Python": {
@@ -433,5 +434,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-02T09:41:05.046Z"
+  "fetched_at": "2018-09-03T13:00:53.729Z"
 }

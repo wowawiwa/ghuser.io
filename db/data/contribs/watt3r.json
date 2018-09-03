@@ -71,11 +71,11 @@
       "name": "paper-turtle",
       "stargazers_count": 2,
       "popularity": 1.0414282204429401,
-      "percentage": 31.818181818181817,
+      "percentage": 34.78260869565217,
       "maturity": 0,
-      "total_commits_count": 22,
+      "total_commits_count": 23,
       "activity": 5,
-      "total_score": 12.432010482251892,
+      "total_score": 12.833351397244723,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -102,6 +102,19 @@
       "total_commits_count": 565,
       "activity": 5,
       "total_score": 22.981869834248684,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Roto2coin/roto2coin-proyecto": {
+      "full_name": "Roto2coin/roto2coin-proyecto",
+      "name": "roto2coin-proyecto",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 0.17985611510791366,
+      "maturity": 3.7144698419205677,
+      "total_commits_count": 556,
+      "activity": 5,
+      "total_score": 12.428939683841136,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }
