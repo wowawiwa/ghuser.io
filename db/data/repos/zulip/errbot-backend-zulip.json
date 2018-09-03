@@ -11,8 +11,8 @@
   "languages_url": "https://api.github.com/repos/zulip/errbot-backend-zulip/languages",
   "pulls_url": "https://api.github.com/repos/zulip/errbot-backend-zulip/pulls{/number}",
   "created_at": "2017-10-04T11:12:56Z",
-  "updated_at": "2018-03-07T11:10:01Z",
-  "pushed_at": "2017-11-28T16:24:10Z",
+  "updated_at": "2018-09-03T13:44:16Z",
+  "pushed_at": "2018-09-03T13:44:14Z",
   "homepage": null,
   "size": 7,
   "stargazers_count": 3,
@@ -43,18 +43,20 @@
   },
   "contributors": {
     "jayvdb": 1,
-    "roberthoenig": 3
+    "roberthoenig": 3,
+    "punchagan": 1
   },
   "pulls_authors": [
     "jayvdb",
     "roberthoenig",
-    "meetmangukiya"
+    "meetmangukiya",
+    "punchagan"
   ],
   "languages": {
     "Python": {
-      "bytes": 13764,
+      "bytes": 13801,
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-08-13T13:13:40.598Z"
+  "fetched_at": "2018-09-03T15:15:26.748Z"
 }

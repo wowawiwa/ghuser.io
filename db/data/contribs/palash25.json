@@ -238,13 +238,13 @@
     "elastic/apm-server": {
       "full_name": "elastic/apm-server",
       "name": "apm-server",
-      "stargazers_count": 398,
-      "popularity": 3.5989389658740705,
+      "stargazers_count": 399,
+      "popularity": 3.6000312564190105,
       "percentage": 0.1669449081803005,
       "maturity": 3.7492255009323054,
       "total_commits_count": 599,
       "activity": 5,
-      "total_score": 23.373375089063387,
+      "total_score": 23.376675666503022,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

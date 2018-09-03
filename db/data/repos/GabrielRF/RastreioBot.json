@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/GabrielRF/RastreioBot/languages",
   "pulls_url": "https://api.github.com/repos/GabrielRF/RastreioBot/pulls{/number}",
   "created_at": "2017-02-01T19:02:22Z",
-  "updated_at": "2018-08-31T14:39:00Z",
-  "pushed_at": "2018-08-31T14:38:59Z",
+  "updated_at": "2018-09-03T13:32:01Z",
+  "pushed_at": "2018-09-03T13:32:00Z",
   "homepage": "",
-  "size": 191,
+  "size": 192,
   "stargazers_count": 47,
   "language": "Python",
   "mirror_url": null,
@@ -33,7 +33,7 @@
     "igorsantos07": 1,
     "laercios": 1,
     "rougeth": 1,
-    "GabrielRF": 152
+    "GabrielRF": 153
   },
   "pulls_authors": [
     "patrickelectric",
@@ -47,9 +47,9 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 41308,
+      "bytes": 41460,
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-08-31T16:32:07.762Z"
+  "fetched_at": "2018-09-03T15:18:00.033Z"
 }
