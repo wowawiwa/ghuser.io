@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/gatsbyjs/gatsby",
   "languages_url": "https://api.github.com/repos/gatsbyjs/gatsby/languages",
   "created_at": "2015-05-21T22:43:05Z",
-  "updated_at": "2018-09-03T12:40:04Z",
-  "pushed_at": "2018-09-03T12:42:10Z",
+  "updated_at": "2018-09-03T21:33:12Z",
+  "pushed_at": "2018-09-03T21:11:56Z",
   "homepage": "https://www.gatsbyjs.org",
-  "size": 375078,
-  "stargazers_count": 25179,
+  "size": 375065,
+  "stargazers_count": 25193,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -129,7 +129,7 @@
     "gesposito": 14,
     "docwhat": 14,
     "jlengstorf": 60,
-    "tsriram": 22,
+    "tsriram": 23,
     "Khaledgarbaya": 20,
     "jbolda": 19,
     "nicholaswyoung": 19,
@@ -140,14 +140,14 @@
     "0x80": 29,
     "LeKoArts": 40,
     "sebastienfi": 50,
-    "calcsam": 90,
+    "calcsam": 92,
     "ryanditjia": 59,
-    "jquense": 115,
+    "jquense": 116,
     "fk": 182,
-    "pieh": 351,
+    "pieh": 352,
     "shannonbux": 159,
-    "m-allanson": 721,
-    "KyleAMathews": 4533,
+    "m-allanson": 726,
+    "KyleAMathews": 4536,
     "thebigredgeek": 7,
     "mathieudutour": 4,
     "wuweiweiwu": 5,
@@ -309,7 +309,7 @@
     "Rulikkk": 2,
     "barraq": 2,
     "spences10": 2,
-    "seaneking": 2,
+    "seaneking": 3,
     "SilasOtoko": 2,
     "skube": 2,
     "wangsongiam": 2,
@@ -574,7 +574,7 @@
     "glauberfc": 1,
     "nhc": 1,
     "jamezrin": 1,
-    "web-flow": 1051,
+    "web-flow": 1053,
     "robinpyon": 1,
     "martimarkov": 1,
     "cmsbased": 1,
@@ -635,7 +635,7 @@
     "ironcove": 1,
     "devrchancay": 1,
     "moetezch": 1,
-    "wdavidw": 1,
+    "wdavidw": 2,
     "gouravsood": 1,
     "kennedyrose": 2,
     "kylegalbraith": 1,
@@ -671,7 +671,7 @@
     "drenther": 1,
     "JigzPalillo": 1,
     "lcostea": 1,
-    "mwood23": 1,
+    "mwood23": 2,
     "pistachiology": 1,
     "nratter": 1,
     "parmsang": 1,
@@ -1124,11 +1124,12 @@
     "zebapy": 1,
     "IMBurbank": 1,
     "theschmocker": 1,
-    "pkroyer": 1
+    "pkroyer": 1,
+    "nayres": 1
   },
   "languages": {
     "JavaScript": {
-      "bytes": 1507925,
+      "bytes": 1507675,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -1148,7 +1149,7 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-03T12:55:15.915Z",
+  "fetched_at": "2018-09-03T21:46:43.092Z",
   "pulls_url": "https://api.github.com/repos/gatsbyjs/gatsby/pulls{/number}",
   "pulls_authors": [
     "shannonbux",
@@ -2368,6 +2369,7 @@
     "sasivarnan",
     "stefanprobst",
     "outofthisworld",
-    "pkroyer"
+    "pkroyer",
+    "hesamkaveh"
   ]
 }

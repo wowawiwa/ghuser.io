@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/elastic/elasticsearch",
   "languages_url": "https://api.github.com/repos/elastic/elasticsearch/languages",
   "created_at": "2010-02-08T13:20:56Z",
-  "updated_at": "2018-09-03T12:58:14Z",
-  "pushed_at": "2018-09-03T12:43:20Z",
+  "updated_at": "2018-09-03T18:56:55Z",
+  "pushed_at": "2018-09-03T21:39:45Z",
   "homepage": "https://www.elastic.co/products/elasticsearch",
-  "size": 508845,
-  "stargazers_count": 34016,
+  "size": 508968,
+  "stargazers_count": 34022,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "Java": {
-      "bytes": 70255901,
+      "bytes": 70248262,
       "color": "#b07219"
     },
     "Groovy": {
@@ -100,7 +100,7 @@
     "cwurm": 11,
     "a2lin": 11,
     "jprante": 11,
-    "original-brownbear": 56,
+    "original-brownbear": 58,
     "suyograo": 12,
     "gfyoung": 12,
     "ankon": 12,
@@ -154,7 +154,7 @@
     "tvernum": 133,
     "nknize": 130,
     "talevy": 185,
-    "dnhatn": 305,
+    "dnhatn": 306,
     "danielmitterdorfer": 188,
     "jdconrad": 242,
     "karmi": 184,
@@ -174,11 +174,11 @@
     "ywelsch": 498,
     "lcawl": 471,
     "uboness": 456,
-    "colings86": 679,
+    "colings86": 680,
     "dakrone": 721,
     "imotov": 662,
     "tlrx": 697,
-    "cbuescher": 991,
+    "cbuescher": 992,
     "jaymode": 819,
     "spinscale": 879,
     "rmuir": 1256,
@@ -472,7 +472,7 @@
     "lipsill": 4,
     "codebrain": 2
   },
-  "fetched_at": "2018-09-03T12:58:29.258Z",
+  "fetched_at": "2018-09-03T21:49:43.783Z",
   "pulls_url": "https://api.github.com/repos/elastic/elasticsearch/pulls{/number}",
   "pulls_authors": [
     "benwtrent",
@@ -2307,6 +2307,7 @@
     "GNayagam",
     "chrisronline",
     "tony-dillon",
-    "arusanescu"
+    "arusanescu",
+    "lonlylocly"
   ]
 }

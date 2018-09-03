@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/serhii-londar/open-source-mac-os-apps",
   "languages_url": "https://api.github.com/repos/serhii-londar/open-source-mac-os-apps/languages",
   "created_at": "2017-11-03T02:35:33Z",
-  "updated_at": "2018-09-03T10:24:03Z",
-  "pushed_at": "2018-09-01T17:38:09Z",
+  "updated_at": "2018-09-03T21:37:34Z",
+  "pushed_at": "2018-09-03T16:44:16Z",
   "homepage": "",
   "size": 2918,
-  "stargazers_count": 13756,
+  "stargazers_count": 13760,
   "language": "Swift",
   "mirror_url": null,
   "archived": false,
@@ -117,7 +117,7 @@
       "color": "#ffac45"
     }
   },
-  "fetched_at": "2018-09-03T12:54:24.311Z",
+  "fetched_at": "2018-09-03T21:45:57.688Z",
   "pulls_url": "https://api.github.com/repos/serhii-londar/open-source-mac-os-apps/pulls{/number}",
   "pulls_authors": [
     "serhii-londar",
@@ -215,6 +215,7 @@
     "JulianKahnert",
     "xlogix",
     "aaronraimist",
-    "jake-101"
+    "jake-101",
+    "novddd"
   ]
 }

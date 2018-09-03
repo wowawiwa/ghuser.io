@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/leachim6/hello-world/languages",
   "pulls_url": "https://api.github.com/repos/leachim6/hello-world/pulls{/number}",
   "created_at": "2008-07-15T00:15:08Z",
-  "updated_at": "2018-09-03T08:23:39Z",
-  "pushed_at": "2018-09-01T06:37:16Z",
+  "updated_at": "2018-09-03T15:46:10Z",
+  "pushed_at": "2018-09-03T15:35:13Z",
   "homepage": "http://github.com/leachim6/hello-world/wikis",
   "size": 2318,
-  "stargazers_count": 2794,
+  "stargazers_count": 2796,
   "language": "Assembly",
   "mirror_url": null,
   "archived": false,
@@ -676,7 +676,8 @@
     "Kudu",
     "c00kiemon5ter",
     "Beyarz",
-    "cedricfarinazzo"
+    "cedricfarinazzo",
+    "leogtzr"
   ],
   "languages": {
     "Assembly": {
@@ -1252,5 +1253,5 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-09-03T12:56:09.547Z"
+  "fetched_at": "2018-09-03T21:47:40.641Z"
 }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/robbyrussell/oh-my-zsh/languages",
   "pulls_url": "https://api.github.com/repos/robbyrussell/oh-my-zsh/pulls{/number}",
   "created_at": "2009-08-28T18:15:37Z",
-  "updated_at": "2018-09-03T12:40:59Z",
-  "pushed_at": "2018-09-02T20:26:37Z",
+  "updated_at": "2018-09-03T19:52:06Z",
+  "pushed_at": "2018-09-03T15:13:18Z",
   "homepage": "https://ohmyz.sh/",
-  "size": 4756,
-  "stargazers_count": 75737,
+  "size": 4772,
+  "stargazers_count": 75751,
   "language": "Shell",
   "mirror_url": null,
   "archived": false,
@@ -127,7 +127,7 @@
     "fred-o": 48,
     "apjanke": 85,
     "robbyrussell": 1362,
-    "mcornella": 448,
+    "mcornella": 449,
     "ptillemans": 10,
     "clauswitt": 8,
     "eddorre": 6,
@@ -3520,7 +3520,7 @@
   ],
   "languages": {
     "Shell": {
-      "bytes": 911536,
+      "bytes": 911547,
       "color": "#89e051"
     },
     "Roff": {
@@ -3544,5 +3544,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-03T12:56:53.591Z"
+  "fetched_at": "2018-09-03T21:48:20.262Z"
 }

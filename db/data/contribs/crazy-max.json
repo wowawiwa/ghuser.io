@@ -17,13 +17,13 @@
     "crazy-max/WindowsSpyBlocker": {
       "full_name": "crazy-max/WindowsSpyBlocker",
       "name": "WindowsSpyBlocker",
-      "stargazers_count": 735,
-      "popularity": 3.8657943074002605,
+      "stargazers_count": 736,
+      "popularity": 3.866385506085654,
       "percentage": 99.11504424778761,
       "maturity": 3.4775521522851953,
       "total_commits_count": 339,
       "activity": 5,
-      "total_score": 73.36307582477806,
+      "total_score": 73.3724669897363,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -121,13 +121,13 @@
     "crazy-max/docker-jetbrains-license-server": {
       "full_name": "crazy-max/docker-jetbrains-license-server",
       "name": "docker-jetbrains-license-server",
-      "stargazers_count": 84,
-      "popularity": 2.919640065401408,
+      "stargazers_count": 85,
+      "popularity": 2.924835037974496,
       "percentage": 97.05882352941177,
       "maturity": 0,
       "total_commits_count": 34,
-      "activity": 3.6415015888634854,
-      "total_score": 49.23940966910312,
+      "activity": 2.8311014134107872,
+      "total_score": 48.51014274177717,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -784,13 +784,13 @@
     "badges/shields": {
       "full_name": "badges/shields",
       "name": "shields",
-      "stargazers_count": 6168,
-      "popularity": 4.790120078621245,
-      "percentage": 0.05115089514066496,
-      "maturity": 4.283927684401668,
-      "total_commits_count": 1955,
+      "stargazers_count": 6171,
+      "popularity": 4.7903312908044455,
+      "percentage": 0.05112474437627812,
+      "maturity": 4.284154399050982,
+      "total_commits_count": 1956,
       "activity": 5,
-      "total_score": 27.970068065547927,
+      "total_score": 27.97114025066891,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -810,7 +810,7 @@
     "StevenBlack/hosts": {
       "full_name": "StevenBlack/hosts",
       "name": "hosts",
-      "stargazers_count": 10138,
+      "stargazers_count": 10142,
       "popularity": 5,
       "percentage": 0.3241491085899514,
       "maturity": 4.078776871834349,
@@ -836,13 +836,13 @@
     "pi-hole/pi-hole": {
       "full_name": "pi-hole/pi-hole",
       "name": "pi-hole",
-      "stargazers_count": 9863,
-      "popularity": 4.994008490145833,
+      "stargazers_count": 9871,
+      "popularity": 4.994360641051333,
       "percentage": 0.08718395815170009,
       "maturity": 4.533355669016343,
       "total_commits_count": 3441,
       "activity": 5,
-      "total_score": 29.105338474008022,
+      "total_score": 29.106398917972797,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -966,13 +966,26 @@
     "RocketChat/Rocket.Chat": {
       "full_name": "RocketChat/Rocket.Chat",
       "name": "Rocket.Chat",
-      "stargazers_count": 19676,
+      "stargazers_count": 19679,
       "popularity": 5,
       "percentage": 0.006585012511523772,
       "maturity": 5,
       "total_commits_count": 15186,
       "activity": 5,
       "total_score": 30.00428025813249,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "jfrog/artifactory-docker-examples": {
+      "full_name": "jfrog/artifactory-docker-examples",
+      "name": "artifactory-docker-examples",
+      "stargazers_count": 142,
+      "popularity": 3.1495660747060654,
+      "percentage": 0,
+      "maturity": 2.979915013406333,
+      "total_commits_count": 135,
+      "activity": 5,
+      "total_score": 20.408528250930864,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }
@@ -985,6 +998,7 @@
     "badges",
     "pi-hole",
     "miniflux",
-    "librenms"
+    "librenms",
+    "jfrog"
   ]
 }

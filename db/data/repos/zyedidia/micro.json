@@ -99,10 +99,11 @@
     "samdmarshall": 19,
     "onodera-punpun": 45,
     "boombuler": 55,
-    "zyedidia": 1346,
+    "zyedidia": 1347,
     "matbesancon": 3,
     "ev-dev": 1,
-    "rexy712": 1
+    "rexy712": 1,
+    "sc0ttj": 1
   },
   "name": "micro",
   "full_name": "zyedidia/micro",
@@ -114,11 +115,11 @@
   "url": "https://api.github.com/repos/zyedidia/micro",
   "languages_url": "https://api.github.com/repos/zyedidia/micro/languages",
   "created_at": "2016-03-11T02:06:28Z",
-  "updated_at": "2018-09-03T09:10:59Z",
-  "pushed_at": "2018-09-02T11:57:10Z",
+  "updated_at": "2018-09-03T20:57:55Z",
+  "pushed_at": "2018-09-03T20:57:51Z",
   "homepage": "https://micro-editor.github.io",
   "size": 7627,
-  "stargazers_count": 9675,
+  "stargazers_count": 9678,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -152,7 +153,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-03T12:55:50.329Z",
+  "fetched_at": "2018-09-03T21:47:17.578Z",
   "pulls_url": "https://api.github.com/repos/zyedidia/micro/pulls{/number}",
   "pulls_authors": [
     "Calinou",

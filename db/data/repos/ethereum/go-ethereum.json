@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/ethereum/go-ethereum",
   "languages_url": "https://api.github.com/repos/ethereum/go-ethereum/languages",
   "created_at": "2013-12-26T13:05:46Z",
-  "updated_at": "2018-09-03T10:09:44Z",
-  "pushed_at": "2018-09-03T12:42:41Z",
+  "updated_at": "2018-09-03T20:18:43Z",
+  "pushed_at": "2018-09-03T21:36:18Z",
   "homepage": "https://geth.ethereum.org",
-  "size": 94168,
-  "stargazers_count": 20420,
+  "size": 94311,
+  "stargazers_count": 20423,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -120,11 +120,11 @@
     "ferhatelmas": 10,
     "ethers": 14,
     "chfast": 16,
-    "jsvisa": 18,
+    "jsvisa": 19,
     "jimenezrick": 12,
     "lmars": 17,
     "janos": 29,
-    "nonsense": 40,
+    "nonsense": 41,
     "gballet": 30,
     "egonelbre": 19,
     "cubedro": 32,
@@ -222,7 +222,7 @@
     "eminogrande": 1,
     "erezwanderman": 1,
     "erichin": 1,
-    "evgen-povt": 2,
+    "evgen-povt": 3,
     "evertonfraga": 1,
     "epappas": 1,
     "JekaMas": 1,
@@ -362,7 +362,7 @@
     "randomshinichi": 1,
     "agazso": 1,
     "Mistra": 1,
-    "manxiaqu": 5,
+    "manxiaqu": 6,
     "HappyShaker": 1,
     "libotony": 1,
     "YaoZengzeng": 1,
@@ -371,11 +371,14 @@
     "AdityaSripal": 1,
     "pierreneter": 1,
     "KimMachineGun": 2,
-    "adambabik": 1
+    "adambabik": 1,
+    "gislik": 1,
+    "HAOYUatHZ": 1,
+    "ult-bobonovski": 1
   },
   "languages": {
     "Go": {
-      "bytes": 9331294,
+      "bytes": 9343787,
       "color": "#375eab"
     },
     "C": {
@@ -443,7 +446,7 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-03T12:56:49.342Z",
+  "fetched_at": "2018-09-03T21:48:15.255Z",
   "pulls_url": "https://api.github.com/repos/ethereum/go-ethereum/pulls{/number}",
   "pulls_authors": [
     "Mistra",

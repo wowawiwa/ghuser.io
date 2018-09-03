@@ -5377,6 +5377,148 @@
       "created_at": "2017-09-06T14:52:09Z",
       "updated_at": "2017-09-06T14:53:59Z",
       "type": "Organization"
+    },
+    "ReSwift": {
+      "login": "ReSwift",
+      "url": "https://api.github.com/orgs/ReSwift",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/16023071?v=4",
+      "name": "",
+      "is_verified": false,
+      "html_url": "https://github.com/ReSwift",
+      "created_at": "2015-11-25T20:30:05Z",
+      "updated_at": "2016-01-30T08:46:13Z",
+      "type": "Organization"
+    },
+    "apple-developer-academy": {
+      "login": "apple-developer-academy",
+      "url": "https://api.github.com/orgs/apple-developer-academy",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/17303785?v=4",
+      "name": " Developer Academy",
+      "is_verified": false,
+      "html_url": "https://github.com/apple-developer-academy",
+      "created_at": "2016-02-17T22:33:03Z",
+      "updated_at": "2017-09-04T18:48:34Z",
+      "type": "Organization"
+    },
+    "getstalkr": {
+      "login": "getstalkr",
+      "url": "https://api.github.com/orgs/getstalkr",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/27539719?v=4",
+      "name": "Stalkr",
+      "is_verified": false,
+      "html_url": "https://github.com/getstalkr",
+      "created_at": "2017-04-15T05:22:22Z",
+      "updated_at": "2017-06-24T22:28:12Z",
+      "type": "Organization"
+    },
+    "SwiftSDL": {
+      "login": "SwiftSDL",
+      "url": "https://api.github.com/orgs/SwiftSDL",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/31111443?v=4",
+      "name": "",
+      "is_verified": false,
+      "html_url": "https://github.com/SwiftSDL",
+      "created_at": "2017-08-17T19:51:05Z",
+      "updated_at": "2017-08-17T19:56:03Z",
+      "type": "Organization"
+    },
+    "aFrogleap": {
+      "login": "aFrogleap",
+      "url": "https://api.github.com/orgs/aFrogleap",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/14994392?v=4",
+      "name": "aFrogleap BV",
+      "is_verified": false,
+      "html_url": "https://github.com/aFrogleap",
+      "created_at": "2015-10-06T09:56:27Z",
+      "updated_at": "2018-08-27T12:15:26Z",
+      "type": "Organization"
+    },
+    "slackhq": {
+      "login": "slackhq",
+      "url": "https://api.github.com/orgs/slackhq",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/6911160?v=4",
+      "name": "Slack",
+      "is_verified": false,
+      "html_url": "https://github.com/slackhq",
+      "created_at": "2014-03-10T19:23:15Z",
+      "updated_at": "2018-08-02T16:37:12Z",
+      "type": "Organization"
+    },
+    "xablauger-studios": {
+      "login": "xablauger-studios",
+      "url": "https://api.github.com/orgs/xablauger-studios",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/22738063?v=4",
+      "name": "Xablauger Studios",
+      "is_verified": false,
+      "html_url": "https://github.com/xablauger-studios",
+      "created_at": "2016-10-10T05:31:43Z",
+      "updated_at": "2016-10-14T06:21:06Z",
+      "type": "Organization"
+    },
+    "vapor": {
+      "login": "vapor",
+      "url": "https://api.github.com/orgs/vapor",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/17364220?v=4",
+      "name": "VAPOR",
+      "is_verified": false,
+      "html_url": "https://github.com/vapor",
+      "created_at": "2016-02-20T21:11:55Z",
+      "updated_at": "2018-08-09T04:22:47Z",
+      "type": "Organization"
+    },
+    "vapor-community": {
+      "login": "vapor-community",
+      "url": "https://api.github.com/orgs/vapor-community",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/26165732?v=4",
+      "name": "Vapor Community",
+      "is_verified": false,
+      "html_url": "https://github.com/vapor-community",
+      "created_at": "2017-03-03T13:07:52Z",
+      "updated_at": "2018-05-08T21:00:48Z",
+      "type": "Organization"
+    },
+    "cardoso-ideas": {
+      "login": "cardoso-ideas",
+      "url": "https://api.github.com/orgs/cardoso-ideas",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/30937900?v=4",
+      "name": "My Ideas",
+      "is_verified": false,
+      "html_url": "https://github.com/cardoso-ideas",
+      "created_at": "2017-08-11T19:51:10Z",
+      "updated_at": "2017-08-11T19:57:24Z",
+      "type": "Organization"
+    },
+    "wwdc": {
+      "login": "wwdc",
+      "url": "https://api.github.com/orgs/wwdc",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/12163195?v=4",
+      "name": "WWDC Students",
+      "is_verified": false,
+      "html_url": "https://github.com/wwdc",
+      "created_at": "2015-04-29T03:00:16Z",
+      "updated_at": "2018-03-16T15:45:55Z",
+      "type": "Organization"
+    },
+    "4challenge-studios": {
+      "login": "4challenge-studios",
+      "url": "https://api.github.com/orgs/4challenge-studios",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/25494944?v=4",
+      "is_verified": false,
+      "html_url": "https://github.com/4challenge-studios",
+      "created_at": "2017-02-02T00:47:55Z",
+      "updated_at": "2017-02-10T12:13:44Z",
+      "type": "Organization"
+    },
+    "hananim-studios": {
+      "login": "hananim-studios",
+      "url": "https://api.github.com/orgs/hananim-studios",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/23312464?v=4",
+      "name": "Hananim Studios",
+      "is_verified": false,
+      "html_url": "https://github.com/hananim-studios",
+      "created_at": "2016-11-07T12:05:26Z",
+      "updated_at": "2016-11-23T12:11:56Z",
+      "type": "Organization"
     }
   }
 }

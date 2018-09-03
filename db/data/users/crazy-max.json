@@ -16,7 +16,7 @@
   "created_at": "2012-07-10T18:54:34Z",
   "updated_at": "2018-08-28T00:26:11Z",
   "contribs": {
-    "fetched_at": "2018-09-03T17:45:48.363Z",
+    "fetched_at": "2018-09-03T21:43:43.091Z",
     "repos": [
       "crazy-max/docker-librenms",
       "crazy-max/docker-rrdcached",
@@ -139,7 +139,8 @@
       "librenms/librenms-agent",
       "RocketChat/Rocket.Chat",
       "crazy-max/ama",
-      "crazy-max/docker-xray"
+      "crazy-max/docker-xray",
+      "jfrog/artifactory-docker-examples"
     ]
   },
   "organizations": [
