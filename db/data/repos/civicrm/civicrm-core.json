@@ -10,8 +10,8 @@
   "url": "https://api.github.com/repos/civicrm/civicrm-core",
   "languages_url": "https://api.github.com/repos/civicrm/civicrm-core/languages",
   "created_at": "2013-03-01T06:11:56Z",
-  "updated_at": "2018-09-02T05:09:05Z",
-  "pushed_at": "2018-09-02T05:08:50Z",
+  "updated_at": "2018-09-03T00:18:24Z",
+  "pushed_at": "2018-09-03T00:18:05Z",
   "homepage": null,
   "size": 165399,
   "stargazers_count": 295,
@@ -340,7 +340,7 @@
       "color": "#4F5D95"
     },
     "Smarty": {
-      "bytes": 6401658,
+      "bytes": 6402115,
       "color": "#ccc"
     },
     "JavaScript": {
@@ -372,7 +372,7 @@
       "color": "#0298c3"
     }
   },
-  "fetched_at": "2018-09-02T09:36:14.410Z",
+  "fetched_at": "2018-09-03T00:43:38.568Z",
   "pulls_url": "https://api.github.com/repos/civicrm/civicrm-core/pulls{/number}",
   "pulls_authors": [
     "mattwire",

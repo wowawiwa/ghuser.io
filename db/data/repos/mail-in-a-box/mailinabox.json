@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/mail-in-a-box/mailinabox/languages",
   "pulls_url": "https://api.github.com/repos/mail-in-a-box/mailinabox/pulls{/number}",
   "created_at": "2013-08-21T13:56:50Z",
-  "updated_at": "2018-09-02T04:01:34Z",
-  "pushed_at": "2018-08-24T15:46:58Z",
+  "updated_at": "2018-09-02T15:30:54Z",
+  "pushed_at": "2018-09-02T15:30:46Z",
   "homepage": "https://mailinabox.email/",
-  "size": 2557,
+  "size": 2533,
   "stargazers_count": 7394,
   "language": "Python",
   "mirror_url": null,
@@ -117,7 +117,7 @@
     "vzvenyach": 2,
     "cromulus": 3,
     "electrickite": 3,
-    "biermeester": 3,
+    "biermeester": 4,
     "m4rcs": 3,
     "mikenon": 3,
     "NurdTurd": 3,
@@ -147,7 +147,7 @@
     "ponychicken": 14,
     "dhpiggott": 16,
     "yodax": 80,
-    "JoshData": 1103,
+    "JoshData": 1104,
     "invalid-email-address": 2,
     "domyn": 1,
     "bucherfa": 1,
@@ -341,7 +341,7 @@
       "color": "#3572A5"
     },
     "Shell": {
-      "bytes": 137030,
+      "bytes": 137116,
       "color": "#89e051"
     },
     "HTML": {
@@ -361,5 +361,5 @@
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-09-02T09:39:53.428Z"
+  "fetched_at": "2018-09-03T00:47:30.664Z"
 }

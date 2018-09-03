@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/nodejs/node",
   "languages_url": "https://api.github.com/repos/nodejs/node/languages",
   "created_at": "2014-11-26T19:57:11Z",
-  "updated_at": "2018-09-02T09:20:15Z",
-  "pushed_at": "2018-09-02T07:43:21Z",
+  "updated_at": "2018-09-02T23:43:30Z",
+  "pushed_at": "2018-09-02T23:42:33Z",
   "homepage": "https://nodejs.org",
-  "size": 406169,
-  "stargazers_count": 52895,
+  "size": 406968,
+  "stargazers_count": 52906,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 6819648,
+      "bytes": 6825333,
       "color": "#f1e05a"
     },
     "C++": {
-      "bytes": 2524563,
+      "bytes": 2529337,
       "color": "#f34b7d"
     },
     "Python": {
@@ -76,7 +76,7 @@
       "color": "#ccc"
     },
     "Batchfile": {
-      "bytes": 34583,
+      "bytes": 34604,
       "color": "#C1F12E"
     },
     "Shell": {
@@ -96,7 +96,7 @@
       "color": "#0298c3"
     },
     "R": {
-      "bytes": 6872,
+      "bytes": 6895,
       "color": "#198CE7"
     }
   },
@@ -135,7 +135,7 @@
     "hiroppy": 31,
     "davidben": 31,
     "starkwang": 36,
-    "ryzokuken": 43,
+    "ryzokuken": 46,
     "saghul": 34,
     "zkat": 35,
     "matthewloring": 35,
@@ -160,7 +160,7 @@
     "yorkie": 57,
     "mmalecki": 58,
     "mcollina": 63,
-    "bzoz": 63,
+    "bzoz": 64,
     "lpinca": 63,
     "JacksonTian": 68,
     "gibfahn": 72,
@@ -170,7 +170,7 @@
     "silverwind": 89,
     "refack": 97,
     "AndreasMadsen": 103,
-    "tniessen": 128,
+    "tniessen": 131,
     "ofrobots": 117,
     "mhdawson": 123,
     "felixge": 124,
@@ -185,7 +185,7 @@
     "TooTallNate": 197,
     "joyeecheung": 232,
     "targos": 289,
-    "vsemozhetbyt": 281,
+    "vsemozhetbyt": 282,
     "tjfontaine": 332,
     "BridgeAR": 349,
     "mscdex": 318,
@@ -193,11 +193,11 @@
     "danbev": 353,
     "trevnorris": 363,
     "cjihrig": 396,
-    "jasnell": 529,
+    "jasnell": 530,
     "piscisaureus": 598,
-    "addaleax": 677,
+    "addaleax": 681,
     "indutny": 755,
-    "Trott": 1331,
+    "Trott": 1333,
     "isaacs": 1647,
     "bnoordhuis": 2138,
     "ry": 3021,
@@ -215,7 +215,7 @@
     "rmg": 17,
     "sblom": 17,
     "shisama": 24,
-    "mafintosh": 16,
+    "mafintosh": 17,
     "waveto": 16,
     "tricknotes": 16,
     "trentm": 16,
@@ -426,7 +426,7 @@
     "anoff": 3,
     "antoine-amara": 3,
     "avz": 3,
-    "aks-": 3,
+    "aks-": 4,
     "bf4": 3,
     "d0k": 3,
     "Ben-Waters": 3,
@@ -435,7 +435,7 @@
     "brandon-beacher": 3,
     "cskr": 3,
     "charmander": 3,
-    "chinhuang007": 3,
+    "chinhuang007": 4,
     "chinedufn": 3,
     "cByst": 3,
     "boneskull": 4,
@@ -564,17 +564,18 @@
     "charlieduong94": 2,
     "chasestarr": 2,
     "dinophile": 2,
-    "rubys": 20,
+    "rubys": 21,
     "aduh95": 3,
-    "lundibundi": 11,
+    "lundibundi": 12,
     "kenny-y": 3,
     "antsmartian": 7,
     "jquynh": 5,
     "oyyd": 5,
     "tlhunter": 3,
-    "Maledong": 7
+    "Maledong": 8,
+    "TomCoded": 3
   },
-  "fetched_at": "2018-09-02T09:40:00.761Z",
+  "fetched_at": "2018-09-03T00:47:37.858Z",
   "pulls_url": "https://api.github.com/repos/nodejs/node/pulls{/number}",
   "pulls_authors": [
     "mmarchini",
@@ -2792,6 +2793,8 @@
     "ymrdf",
     "cxw42",
     "lakamsani",
-    "sylkat"
+    "sylkat",
+    "skelliam",
+    "szmarczak"
   ]
 }

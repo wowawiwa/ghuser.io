@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/ShareX/ShareX/languages",
   "pulls_url": "https://api.github.com/repos/ShareX/ShareX/pulls{/number}",
   "created_at": "2013-10-08T23:32:10Z",
-  "updated_at": "2018-09-02T07:36:16Z",
-  "pushed_at": "2018-08-29T14:49:57Z",
+  "updated_at": "2018-09-03T00:41:59Z",
+  "pushed_at": "2018-09-02T19:13:48Z",
   "homepage": "https://getsharex.com",
-  "size": 44196,
-  "stargazers_count": 8449,
+  "size": 44199,
+  "stargazers_count": 8452,
   "language": "C#",
   "mirror_url": null,
   "archived": false,
@@ -147,7 +147,7 @@
     "sylveon": 63,
     "L1Q": 83,
     "McoreD": 237,
-    "Jaex": 3876,
+    "Jaex": 3877,
     "gehongyan": 9,
     "absay": 2,
     "canihavesomecoffee": 2,
@@ -442,7 +442,7 @@
   ],
   "languages": {
     "C#": {
-      "bytes": 3770970,
+      "bytes": 3770946,
       "color": "#178600"
     },
     "Inno Setup": {
@@ -462,5 +462,5 @@
       "color": "#012456"
     }
   },
-  "fetched_at": "2018-09-02T09:41:06.720Z"
+  "fetched_at": "2018-09-03T00:48:45.985Z"
 }

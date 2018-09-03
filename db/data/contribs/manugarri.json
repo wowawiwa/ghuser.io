@@ -4,13 +4,13 @@
     "mlflow/mlflow": {
       "full_name": "mlflow/mlflow",
       "name": "mlflow",
-      "stargazers_count": 2086,
-      "popularity": 4.319165975060531,
+      "stargazers_count": 2085,
+      "popularity": 4.318957640371811,
       "percentage": 0.3861003861003861,
       "maturity": 3.342377905274129,
       "total_commits_count": 259,
       "activity": 5,
-      "total_score": 24.859045850308178,
+      "total_score": 24.85841038928853,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -160,7 +160,7 @@
     "apache/spark": {
       "full_name": "apache/spark",
       "name": "spark",
-      "stargazers_count": 18612,
+      "stargazers_count": 18617,
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,

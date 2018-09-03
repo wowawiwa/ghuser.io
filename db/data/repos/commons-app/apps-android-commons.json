@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/commons-app/apps-android-commons/languages",
   "pulls_url": "https://api.github.com/repos/commons-app/apps-android-commons/pulls{/number}",
   "created_at": "2015-09-07T05:23:27Z",
-  "updated_at": "2018-09-01T07:19:42Z",
-  "pushed_at": "2018-09-01T08:54:29Z",
+  "updated_at": "2018-09-02T19:59:15Z",
+  "pushed_at": "2018-09-02T17:55:57Z",
   "homepage": "",
   "size": 201817,
-  "stargazers_count": 283,
+  "stargazers_count": 284,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -293,7 +293,8 @@
     "est31",
     "jayvdb",
     "Krinkle",
-    "johnjohndoe"
+    "johnjohndoe",
+    "befrou"
   ],
   "languages": {
     "Java": {
@@ -317,5 +318,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-01T13:06:14.247Z"
+  "fetched_at": "2018-09-03T00:46:18.224Z"
 }

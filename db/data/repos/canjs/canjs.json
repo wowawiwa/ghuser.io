@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/canjs/canjs",
   "languages_url": "https://api.github.com/repos/canjs/canjs/languages",
   "created_at": "2012-01-20T17:57:21Z",
-  "updated_at": "2018-08-31T18:52:56Z",
-  "pushed_at": "2018-08-31T20:41:14Z",
+  "updated_at": "2018-09-02T18:43:08Z",
+  "pushed_at": "2018-09-02T18:49:10Z",
   "homepage": "https://canjs.com/",
-  "size": 109142,
+  "size": 109013,
   "stargazers_count": 1672,
   "language": "JavaScript",
   "mirror_url": null,
@@ -146,7 +146,7 @@
     "amcdnl": 590,
     "moschel": 745,
     "daffl": 1531,
-    "justinbmeyer": 2358,
+    "justinbmeyer": 2362,
     "nlundquist": 5,
     "adrifolio": 2,
     "booc0mtaco": 2,
@@ -229,7 +229,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-01T02:49:18.452Z",
+  "fetched_at": "2018-09-03T00:47:11.111Z",
   "pulls_url": "https://api.github.com/repos/canjs/canjs/pulls{/number}",
   "pulls_authors": [
     "chasenlehara",

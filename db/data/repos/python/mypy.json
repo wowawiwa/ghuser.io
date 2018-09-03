@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/python/mypy/languages",
   "pulls_url": "https://api.github.com/repos/python/mypy/pulls{/number}",
   "created_at": "2012-12-07T13:30:23Z",
-  "updated_at": "2018-09-02T08:48:00Z",
-  "pushed_at": "2018-09-02T05:39:10Z",
+  "updated_at": "2018-09-02T21:14:51Z",
+  "pushed_at": "2018-09-02T18:32:49Z",
   "homepage": "http://www.mypy-lang.org/",
   "size": 27819,
-  "stargazers_count": 4454,
+  "stargazers_count": 4463,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -497,7 +497,8 @@
     "VadimPushtaev",
     "izquierdo",
     "anowlcalledjosh",
-    "ChasingRainbows"
+    "ChasingRainbows",
+    "alexmojaki"
   ],
   "languages": {
     "Python": {
@@ -525,5 +526,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-02T09:40:21.633Z"
+  "fetched_at": "2018-09-03T00:47:59.212Z"
 }

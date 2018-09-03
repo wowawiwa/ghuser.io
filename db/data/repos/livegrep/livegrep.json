@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/livegrep/livegrep",
   "languages_url": "https://api.github.com/repos/livegrep/livegrep/languages",
   "created_at": "2013-02-10T00:19:18Z",
-  "updated_at": "2018-08-29T08:18:52Z",
-  "pushed_at": "2018-08-13T16:15:59Z",
+  "updated_at": "2018-09-02T22:11:21Z",
+  "pushed_at": "2018-09-02T22:11:23Z",
   "homepage": "",
-  "size": 8494,
+  "size": 8504,
   "stargazers_count": 469,
   "language": "C++",
   "mirror_url": null,
@@ -52,7 +52,7 @@
       "color": "#f34b7d"
     },
     "Python": {
-      "bytes": 181271,
+      "bytes": 183238,
       "color": "#3572A5"
     },
     "Go": {
@@ -76,11 +76,11 @@
       "color": "#555555"
     },
     "Shell": {
-      "bytes": 1583,
+      "bytes": 1405,
       "color": "#89e051"
     },
     "Dockerfile": {
-      "bytes": 779,
+      "bytes": 784,
       "color": "#0db7ed"
     }
   },
@@ -101,11 +101,11 @@
     "tpcwang": 17,
     "brandon-rhodes": 54,
     "jboning": 66,
-    "nelhage": 1010,
+    "nelhage": 1019,
     "fowles": 2,
     "ains-stripe": 2
   },
-  "fetched_at": "2018-08-29T12:46:33.670Z",
+  "fetched_at": "2018-09-03T00:44:05.199Z",
   "pulls_url": "https://api.github.com/repos/livegrep/livegrep/pulls{/number}",
   "pulls_authors": [
     "ains-stripe",
@@ -130,6 +130,7 @@
     "serialdoom",
     "philz",
     "mandarg",
-    "ternus"
+    "ternus",
+    "staktrace"
   ]
 }
