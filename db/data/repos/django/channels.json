@@ -10,8 +10,8 @@
   "url": "https://api.github.com/repos/django/channels",
   "languages_url": "https://api.github.com/repos/django/channels/languages",
   "created_at": "2015-06-03T17:16:20Z",
-  "updated_at": "2018-09-03T08:23:44Z",
-  "pushed_at": "2018-09-03T04:16:52Z",
+  "updated_at": "2018-09-04T12:19:45Z",
+  "pushed_at": "2018-09-04T11:55:53Z",
   "homepage": "https://channels.readthedocs.io",
   "size": 1682,
   "stargazers_count": 3257,
@@ -206,11 +206,12 @@
     "tomchristie": 1,
     "laixintao": 1,
     "Bartzi": 1,
-    "JuanjoA": 1
+    "JuanjoA": 1,
+    "majgaard": 1
   },
   "languages": {
     "Python": {
-      "bytes": 146816,
+      "bytes": 148674,
       "color": "#3572A5"
     },
     "JavaScript": {
@@ -222,7 +223,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-03T13:00:20.268Z",
+  "fetched_at": "2018-09-04T12:23:07.987Z",
   "pulls_url": "https://api.github.com/repos/django/channels/pulls{/number}",
   "pulls_authors": [
     "jacky15",
@@ -417,6 +418,7 @@
     "majgaard",
     "JuanjoA",
     "Bartzi",
-    "ruralscenery"
+    "ruralscenery",
+    "martoncsikos"
   ]
 }

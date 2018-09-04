@@ -82,7 +82,7 @@
     "orschiro": 9,
     "Mic92": 9,
     "sschuberth": 10,
-    "comradekingu": 11,
+    "comradekingu": 12,
     "pmros": 15,
     "bovirus": 23,
     "jsmakaayb": 24,
@@ -104,11 +104,11 @@
   "url": "https://api.github.com/repos/hluk/CopyQ",
   "languages_url": "https://api.github.com/repos/hluk/CopyQ/languages",
   "created_at": "2009-10-21T13:35:38Z",
-  "updated_at": "2018-09-03T21:24:23Z",
-  "pushed_at": "2018-09-02T06:37:30Z",
+  "updated_at": "2018-09-04T12:18:48Z",
+  "pushed_at": "2018-09-04T11:19:57Z",
   "homepage": "",
   "size": 25225,
-  "stargazers_count": 1386,
+  "stargazers_count": 1385,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -170,7 +170,7 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-03T21:47:29.021Z",
+  "fetched_at": "2018-09-04T12:18:53.638Z",
   "pulls_url": "https://api.github.com/repos/hluk/CopyQ/pulls{/number}",
   "pulls_authors": [
     "bovirus",

@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/hasura/platform-docs",
   "languages_url": "https://api.github.com/repos/hasura/platform-docs/languages",
   "created_at": "2017-06-21T12:30:02Z",
-  "updated_at": "2018-08-30T14:06:27Z",
-  "pushed_at": "2018-08-30T14:12:14Z",
+  "updated_at": "2018-09-04T11:31:31Z",
+  "pushed_at": "2018-09-04T11:31:29Z",
   "homepage": "",
-  "size": 59560,
+  "size": 59568,
   "stargazers_count": 19,
   "language": "Python",
   "mirror_url": null,
@@ -69,12 +69,12 @@
     "dsandip": 37,
     "surendran82": 38,
     "wawhal": 47,
-    "Varshit07": 48,
+    "Varshit07": 49,
     "ecthiender": 48,
-    "shahidhk": 83,
+    "shahidhk": 84,
     "coco98": 98,
     "vksci123": 110,
-    "rikinsk": 254
+    "rikinsk": 255
   },
   "languages": {
     "Python": {
@@ -96,9 +96,13 @@
     "JavaScript": {
       "bytes": 3304,
       "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 141,
+      "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-30T19:47:27.632Z",
+  "fetched_at": "2018-09-04T12:20:02.727Z",
   "pulls_url": "https://api.github.com/repos/hasura/platform-docs/pulls{/number}",
   "pulls_authors": [
     "dsandip",

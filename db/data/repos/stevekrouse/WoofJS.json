@@ -1,0 +1,77 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "WoofJS",
+  "full_name": "stevekrouse/WoofJS",
+  "owner": "stevekrouse",
+  "private": false,
+  "html_url": "https://github.com/stevekrouse/WoofJS",
+  "description": "Learnable JavaScript",
+  "fork": false,
+  "url": "https://api.github.com/repos/stevekrouse/WoofJS",
+  "languages_url": "https://api.github.com/repos/stevekrouse/WoofJS/languages",
+  "pulls_url": "https://api.github.com/repos/stevekrouse/WoofJS/pulls{/number}",
+  "created_at": "2016-05-02T00:30:40Z",
+  "updated_at": "2018-09-04T04:10:33Z",
+  "pushed_at": "2018-08-29T14:41:26Z",
+  "homepage": "http://woofjs.com",
+  "size": 88574,
+  "stargazers_count": 95,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Stevegolden12": 1,
+    "Renestl": 1,
+    "ganes1410": 1,
+    "rsimari": 2,
+    "gmarraro": 4,
+    "leesan11": 5,
+    "anshumanv": 17,
+    "sallymatson": 28,
+    "joebeachjoebeach": 37,
+    "jwass91": 52,
+    "madduccino": 58,
+    "nicolekelner": 111,
+    "stevekrouse": 451
+  },
+  "pulls_authors": [
+    "rsimari",
+    "the-viking",
+    "madduccino",
+    "leesan11",
+    "Stevegolden12",
+    "lewi-g",
+    "RickMeasham",
+    "stevekrouse",
+    "Renestl",
+    "gmarraro",
+    "jwass91",
+    "nicolekelner",
+    "joebeachjoebeach",
+    "anshumanv",
+    "seg2176",
+    "ganes1410",
+    "jazzyjackson",
+    "adidahiya",
+    "sallymatson"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 249966,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 76980,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-04T12:17:58.696Z"
+}
