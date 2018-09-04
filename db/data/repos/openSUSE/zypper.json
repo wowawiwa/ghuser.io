@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/openSUSE/zypper/languages",
   "pulls_url": "https://api.github.com/repos/openSUSE/zypper/pulls{/number}",
   "created_at": "2011-07-29T10:21:40Z",
-  "updated_at": "2018-09-04T00:25:40Z",
-  "pushed_at": "2018-09-04T07:52:59Z",
+  "updated_at": "2018-09-04T14:57:53Z",
+  "pushed_at": "2018-09-04T14:57:51Z",
   "homepage": "http://en.opensuse.org/Portal:Zypper",
-  "size": 447884,
+  "size": 448038,
   "stargazers_count": 121,
   "language": "C++",
   "mirror_url": null,
@@ -127,7 +127,7 @@
     "gabi2": 25,
     "freekdk": 27,
     "super7ramp": 28,
-    "bzeller": 33,
+    "bzeller": 35,
     "belphegor-belbel": 35,
     "scootergrisen": 35,
     "tgoettlicher": 43,
@@ -139,7 +139,7 @@
     "dmacvicar": 88,
     "mvidner": 91,
     "opensuse-i18n": 786,
-    "mlandres": 1211,
+    "mlandres": 1212,
     "lnussel": 1
   },
   "pulls_authors": [
@@ -176,11 +176,11 @@
   ],
   "languages": {
     "C++": {
-      "bytes": 1067031,
+      "bytes": 1097055,
       "color": "#f34b7d"
     },
     "CMake": {
-      "bytes": 17973,
+      "bytes": 18422,
       "color": "#ccc"
     },
     "Shell": {
@@ -188,7 +188,7 @@
       "color": "#89e051"
     },
     "C": {
-      "bytes": 5392,
+      "bytes": 5285,
       "color": "#555555"
     },
     "Python": {
@@ -204,5 +204,5 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-09-04T08:10:38.690Z"
+  "fetched_at": "2018-09-04T16:01:52.047Z"
 }

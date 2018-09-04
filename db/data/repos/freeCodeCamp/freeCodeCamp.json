@@ -405,11 +405,11 @@
   "url": "https://api.github.com/repos/freeCodeCamp/freeCodeCamp",
   "languages_url": "https://api.github.com/repos/freeCodeCamp/freeCodeCamp/languages",
   "created_at": "2014-12-24T17:49:19Z",
-  "updated_at": "2018-09-04T07:59:32Z",
-  "pushed_at": "2018-09-03T12:17:50Z",
+  "updated_at": "2018-09-04T15:53:27Z",
+  "pushed_at": "2018-09-04T14:11:19Z",
   "homepage": "",
-  "size": 35765,
-  "stargazers_count": 293920,
+  "size": 35869,
+  "stargazers_count": 293929,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -447,7 +447,7 @@
       "color": "#f1e05a"
     },
     "HTML": {
-      "bytes": 103519,
+      "bytes": 103508,
       "color": "#e34c26"
     },
     "CSS": {
@@ -455,7 +455,7 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-04T08:08:05.845Z",
+  "fetched_at": "2018-09-04T15:58:34.262Z",
   "pulls_url": "https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls{/number}",
   "pulls_authors": [
     "raisedadead",

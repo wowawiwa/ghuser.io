@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/serverless/serverless/languages",
   "pulls_url": "https://api.github.com/repos/serverless/serverless/pulls{/number}",
   "created_at": "2015-04-21T03:48:40Z",
-  "updated_at": "2018-09-04T07:35:57Z",
-  "pushed_at": "2018-09-03T20:58:17Z",
+  "updated_at": "2018-09-04T15:50:03Z",
+  "pushed_at": "2018-09-04T15:02:54Z",
   "homepage": "https://serverless.com",
-  "size": 79614,
-  "stargazers_count": 25354,
+  "size": 79527,
+  "stargazers_count": 25359,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -81,7 +81,7 @@
     "lamroger": 7,
     "icereval": 6,
     "kobim": 7,
-    "tobyhede": 7,
+    "tobyhede": 6,
     "rdugue": 8,
     "worldsoup": 9,
     "erndob": 7,
@@ -132,7 +132,7 @@
     "svdgraaf": 37,
     "alexdebrie": 42,
     "vladgolubev": 44,
-    "laardee": 40,
+    "laardee": 44,
     "mthenw": 113,
     "jeffnoehren": 83,
     "ryansb": 67,
@@ -142,7 +142,7 @@
     "RafalWilinski": 132,
     "HyperBrain": 148,
     "minibikini": 133,
-    "horike37": 382,
+    "horike37": 387,
     "nikgraf": 234,
     "DavidWells": 311,
     "eahefnawy": 1206,
@@ -451,7 +451,10 @@
     "Ulili": 1,
     "vineetseraro": 1,
     "simoncaley": 3,
-    "BigChief45": 1
+    "BigChief45": 1,
+    "khaledosman": 1,
+    "mikelax": 1,
+    "shanehandley": 1
   },
   "pulls_authors": [
     "sebito91",
@@ -1103,7 +1106,7 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 1802068,
+      "bytes": 1808929,
       "color": "#f1e05a"
     },
     "Java": {
@@ -1175,5 +1178,5 @@
       "color": "#4F5D95"
     }
   },
-  "fetched_at": "2018-09-04T08:07:03.894Z"
+  "fetched_at": "2018-09-04T15:57:20.329Z"
 }

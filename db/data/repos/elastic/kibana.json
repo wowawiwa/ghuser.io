@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/elastic/kibana",
   "languages_url": "https://api.github.com/repos/elastic/kibana/languages",
   "created_at": "2013-01-26T04:00:59Z",
-  "updated_at": "2018-09-04T06:51:28Z",
-  "pushed_at": "2018-09-04T07:55:19Z",
+  "updated_at": "2018-09-04T14:29:09Z",
+  "pushed_at": "2018-09-04T15:55:20Z",
   "homepage": "https://www.elastic.co/products/kibana",
-  "size": 451136,
-  "stargazers_count": 10016,
+  "size": 451416,
+  "stargazers_count": 10020,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 18440975,
+      "bytes": 18468295,
       "color": "#f1e05a"
     },
     "TypeScript": {
-      "bytes": 926334,
+      "bytes": 926791,
       "color": "#2b7489"
     },
     "HTML": {
@@ -108,7 +108,7 @@
     "meganwalker-ibm": 4,
     "colings86": 6,
     "nik9000": 4,
-    "legrego": 9,
+    "legrego": 10,
     "mattapperson": 5,
     "jpfxgood": 5,
     "sonenko": 5,
@@ -148,7 +148,7 @@
     "peteharverson": 34,
     "trevan": 24,
     "pickypg": 23,
-    "walterra": 37,
+    "walterra": 38,
     "scampi": 23,
     "clintongormley": 25,
     "nyurik": 27,
@@ -166,7 +166,7 @@
     "tsullivan": 141,
     "bevacqua": 161,
     "thomasneirynck": 183,
-    "timroes": 190,
+    "timroes": 191,
     "nreese": 213,
     "panda01": 323,
     "BigFunger": 339,
@@ -351,7 +351,7 @@
     "pjhampton": 1,
     "simitt": 2,
     "cchaos": 6,
-    "maryia-lapata": 3,
+    "maryia-lapata": 4,
     "dedemorton": 1,
     "sunui": 1,
     "joshdover": 3,
@@ -363,7 +363,7 @@
     "blfrantz": 1,
     "guanghaofan": 1
   },
-  "fetched_at": "2018-09-04T08:11:08.348Z",
+  "fetched_at": "2018-09-04T16:02:26.589Z",
   "pulls_url": "https://api.github.com/repos/elastic/kibana/pulls{/number}",
   "pulls_authors": [
     "nreese",

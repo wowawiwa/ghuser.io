@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/dkhamsing/open-source-ios-apps/languages",
   "pulls_url": "https://api.github.com/repos/dkhamsing/open-source-ios-apps/pulls{/number}",
   "created_at": "2015-01-26T23:32:34Z",
-  "updated_at": "2018-09-04T07:25:02Z",
-  "pushed_at": "2018-09-04T05:46:56Z",
+  "updated_at": "2018-09-04T12:20:31Z",
+  "pushed_at": "2018-09-04T11:27:56Z",
   "homepage": "",
-  "size": 5893,
-  "stargazers_count": 18140,
+  "size": 6008,
+  "stargazers_count": 18145,
   "language": "Swift",
   "mirror_url": null,
   "archived": false,
@@ -126,7 +126,7 @@
     "kvnbautista": 32,
     "scribblemaniac": 67,
     "vpeschenkov": 126,
-    "READMEbot": 793,
+    "READMEbot": 794,
     "dkhamsing": 1783,
     "pacificsky": 1,
     "sciencemanx": 1,
@@ -221,7 +221,8 @@
     "swwol": 1,
     "yavuz": 1,
     "yusufkildan": 1,
-    "archagon": 1
+    "archagon": 1,
+    "riley-usagi": 1
   },
   "pulls_authors": [
     "vpeschenkov",
@@ -449,7 +450,8 @@
     "mzygar",
     "alikaragoz",
     "jpsim",
-    "archagon"
+    "archagon",
+    "riley-usagi"
   ],
   "languages": {
     "Swift": {
@@ -465,5 +467,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-04T08:08:26.053Z"
+  "fetched_at": "2018-09-04T15:58:56.125Z"
 }

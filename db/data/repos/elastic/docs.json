@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/elastic/docs",
   "languages_url": "https://api.github.com/repos/elastic/docs/languages",
   "created_at": "2015-02-25T16:26:02Z",
-  "updated_at": "2018-09-04T05:17:21Z",
-  "pushed_at": "2018-09-04T05:17:17Z",
+  "updated_at": "2018-09-04T11:40:31Z",
+  "pushed_at": "2018-09-04T09:04:28Z",
   "homepage": null,
-  "size": 841932,
-  "stargazers_count": 116,
+  "size": 842067,
+  "stargazers_count": 117,
   "language": "HTML",
   "mirror_url": null,
   "archived": false,
@@ -42,7 +42,7 @@
   },
   "languages": {
     "HTML": {
-      "bytes": 2587788898,
+      "bytes": 2587788914,
       "color": "#e34c26"
     },
     "JavaScript": {
@@ -107,13 +107,13 @@
     }
   },
   "contributors": {
-    "lcawl": 62,
-    "debadair": 30,
+    "lcawl": 63,
+    "debadair": 37,
     "nrichers": 16,
     "dedemorton": 6,
-    "axw": 4,
+    "axw": 7,
     "nik9000": 4,
-    "tylersmalley": 2,
+    "tylersmalley": 4,
     "watson": 5,
     "javanna": 3,
     "untergeek": 2,
@@ -126,14 +126,14 @@
     "russcam": 1,
     "spalger": 1,
     "simitt": 1,
-    "Sue-Gallagher": 2,
+    "Sue-Gallagher": 3,
     "jalvz": 1,
     "jahtalab": 2,
-    "kellyemurphy": 1,
-    "sqren": 2,
-    "jarpy": 1
+    "kellyemurphy": 2,
+    "sqren": 4,
+    "jarpy": 2
   },
-  "fetched_at": "2018-09-04T08:10:58.123Z",
+  "fetched_at": "2018-09-04T16:02:15.691Z",
   "pulls_url": "https://api.github.com/repos/elastic/docs/pulls{/number}",
   "pulls_authors": [
     "kellyemurphy",

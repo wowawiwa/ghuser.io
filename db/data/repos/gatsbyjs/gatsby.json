@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/gatsbyjs/gatsby",
   "languages_url": "https://api.github.com/repos/gatsbyjs/gatsby/languages",
   "created_at": "2015-05-21T22:43:05Z",
-  "updated_at": "2018-09-04T07:34:28Z",
-  "pushed_at": "2018-09-04T07:12:52Z",
+  "updated_at": "2018-09-04T15:53:50Z",
+  "pushed_at": "2018-09-04T15:28:35Z",
   "homepage": "https://www.gatsbyjs.org",
-  "size": 375084,
-  "stargazers_count": 25212,
+  "size": 375156,
+  "stargazers_count": 25227,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -116,7 +116,7 @@
     "ChristopherBiscardi": 9,
     "resir014": 14,
     "szimek": 12,
-    "DSchau": 10,
+    "DSchau": 11,
     "kripod": 12,
     "dennari": 12,
     "daydream05": 12,
@@ -142,11 +142,11 @@
     "sebastienfi": 50,
     "calcsam": 92,
     "ryanditjia": 59,
-    "jquense": 116,
+    "jquense": 118,
     "fk": 182,
-    "pieh": 352,
+    "pieh": 354,
     "shannonbux": 159,
-    "m-allanson": 726,
+    "m-allanson": 728,
     "KyleAMathews": 4539,
     "thebigredgeek": 7,
     "mathieudutour": 4,
@@ -574,7 +574,7 @@
     "glauberfc": 1,
     "nhc": 1,
     "jamezrin": 1,
-    "web-flow": 1054,
+    "web-flow": 1056,
     "robinpyon": 1,
     "martimarkov": 1,
     "cmsbased": 1,
@@ -1104,7 +1104,7 @@
     "ratson": 1,
     "zuiidea": 1,
     "flegall": 1,
-    "dabit3": 1,
+    "dabit3": 2,
     "macklinu": 1,
     "deammer": 1,
     "NindroidX": 2,
@@ -1123,13 +1123,15 @@
     "sasivarnan": 1,
     "zebapy": 1,
     "IMBurbank": 1,
-    "theschmocker": 1,
+    "theschmocker": 2,
     "pkroyer": 1,
-    "nayres": 1
+    "nayres": 1,
+    "Jossdz": 1,
+    "nikoladev": 1
   },
   "languages": {
     "JavaScript": {
-      "bytes": 1507624,
+      "bytes": 1513369,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -1149,7 +1151,7 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-04T08:07:31.727Z",
+  "fetched_at": "2018-09-04T15:57:51.903Z",
   "pulls_url": "https://api.github.com/repos/gatsbyjs/gatsby/pulls{/number}",
   "pulls_authors": [
     "shannonbux",
@@ -2371,6 +2373,7 @@
     "outofthisworld",
     "pkroyer",
     "hesamkaveh",
-    "stoltzrobin"
+    "stoltzrobin",
+    "ekoeryanto"
   ]
 }

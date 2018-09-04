@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/vuejs/vue-router/languages",
   "pulls_url": "https://api.github.com/repos/vuejs/vue-router/pulls{/number}",
   "created_at": "2013-12-11T19:37:46Z",
-  "updated_at": "2018-09-04T07:28:27Z",
-  "pushed_at": "2018-09-03T06:53:21Z",
+  "updated_at": "2018-09-04T15:48:38Z",
+  "pushed_at": "2018-09-04T15:48:29Z",
   "homepage": "http://router.vuejs.org/",
   "size": 7619,
-  "stargazers_count": 11104,
+  "stargazers_count": 11113,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -147,7 +147,7 @@
     "Alex-Sokolov": 18,
     "Haeresis": 25,
     "fnlctrl": 35,
-    "posva": 87,
+    "posva": 89,
     "yyx990803": 421,
     "38elements": 1,
     "amurchick": 1,
@@ -208,7 +208,8 @@
     "zigomir": 1,
     "Bchuan": 1,
     "lingwei0604": 1,
-    "chenfengjw163": 1
+    "chenfengjw163": 1,
+    "aldarund": 1
   },
   "pulls_authors": [
     "Alex-Sokolov",
@@ -525,11 +526,12 @@
     "xlfsummer",
     "yangdan8",
     "brodul",
-    "xuqingkuang"
+    "xuqingkuang",
+    "aldarund"
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 132288,
+      "bytes": 132896,
       "color": "#f1e05a"
     },
     "TypeScript": {
@@ -541,5 +543,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-04T08:07:04.801Z"
+  "fetched_at": "2018-09-04T15:57:20.849Z"
 }

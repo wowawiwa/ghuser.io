@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/netlify/netlify-cms/languages",
   "pulls_url": "https://api.github.com/repos/netlify/netlify-cms/pulls{/number}",
   "created_at": "2015-01-20T05:47:47Z",
-  "updated_at": "2018-09-04T07:50:12Z",
-  "pushed_at": "2018-09-04T06:52:44Z",
+  "updated_at": "2018-09-04T15:08:19Z",
+  "pushed_at": "2018-09-04T15:43:48Z",
   "homepage": "https://www.netlifycms.org",
   "size": 21307,
-  "stargazers_count": 6196,
+  "stargazers_count": 6198,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -145,7 +145,7 @@
     "Benaiah": 48,
     "biilmann": 144,
     "okonet": 172,
-    "tech4him1": 193,
+    "tech4him1": 194,
     "cassiozen": 317,
     "erquhart": 572,
     "philhawksworth": 2,
@@ -385,7 +385,7 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 681370,
+      "bytes": 682034,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -397,5 +397,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-04T08:09:36.320Z"
+  "fetched_at": "2018-09-04T16:00:26.409Z"
 }

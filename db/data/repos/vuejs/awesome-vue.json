@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/vuejs/awesome-vue",
   "languages_url": "https://api.github.com/repos/vuejs/awesome-vue/languages",
   "created_at": "2015-10-20T00:16:14Z",
-  "updated_at": "2018-09-04T07:26:24Z",
-  "pushed_at": "2018-09-04T05:27:23Z",
+  "updated_at": "2018-09-04T15:20:35Z",
+  "pushed_at": "2018-09-04T14:50:51Z",
   "homepage": "",
-  "size": 4005,
-  "stargazers_count": 37069,
+  "size": 3042,
+  "stargazers_count": 37084,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -139,7 +139,7 @@
     "mazipan": 12,
     "villeristi": 15,
     "shershen08": 13,
-    "kazupon": 1820,
+    "kazupon": 1821,
     "MetinSeylan": 20,
     "yyx990803": 191,
     "LinusBorg": 59,
@@ -319,7 +319,7 @@
     "buhrmi": 2,
     "stephanvierkant": 2,
     "stephanngamedev": 2,
-    "demsking": 3,
+    "demsking": 4,
     "Atinux": 2,
     "TahaSh": 2,
     "ittus": 2,
@@ -1293,7 +1293,7 @@
     "x-cold": 1
   },
   "languages": {},
-  "fetched_at": "2018-09-04T08:07:55.395Z",
+  "fetched_at": "2018-09-04T15:58:24.149Z",
   "pulls_url": "https://api.github.com/repos/vuejs/awesome-vue/pulls{/number}",
   "pulls_authors": [
     "mengdu",
@@ -2620,6 +2620,7 @@
     "JayeshLab",
     "liloow",
     "x-cold",
-    "Jeevakanth"
+    "Jeevakanth",
+    "lukyanovas"
   ]
 }

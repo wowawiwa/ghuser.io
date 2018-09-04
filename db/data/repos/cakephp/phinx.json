@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/cakephp/phinx/languages",
   "pulls_url": "https://api.github.com/repos/cakephp/phinx/pulls{/number}",
   "created_at": "2011-12-27T06:49:45Z",
-  "updated_at": "2018-09-03T11:55:54Z",
-  "pushed_at": "2018-08-24T17:21:25Z",
+  "updated_at": "2018-09-04T13:40:01Z",
+  "pushed_at": "2018-09-04T15:57:25Z",
   "homepage": "https://phinx.org",
   "size": 5683,
-  "stargazers_count": 3495,
+  "stargazers_count": 3494,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -117,7 +117,7 @@
     "dangerousdan": 5,
     "corpsee": 6,
     "mamchenkov": 6,
-    "t1gor": 6,
+    "t1gor": 1,
     "gmauricio": 7,
     "martinssipenko": 6,
     "markkimsal": 7,
@@ -671,5 +671,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-03T13:00:15.559Z"
+  "fetched_at": "2018-09-04T16:04:11.745Z"
 }

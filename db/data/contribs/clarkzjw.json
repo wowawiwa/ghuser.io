@@ -212,7 +212,7 @@
     "syl20bnr/spacemacs": {
       "full_name": "syl20bnr/spacemacs",
       "name": "spacemacs",
-      "stargazers_count": 15845,
+      "stargazers_count": 15848,
       "popularity": 5,
       "percentage": 0.014463407578825572,
       "maturity": 4.838952139086211,
@@ -303,13 +303,13 @@
     "ipython-contrib/jupyter_contrib_nbextensions": {
       "full_name": "ipython-contrib/jupyter_contrib_nbextensions",
       "name": "jupyter_contrib_nbextensions",
-      "stargazers_count": 2593,
-      "popularity": 4.413690839209049,
+      "stargazers_count": 2594,
+      "popularity": 4.413858352318975,
       "percentage": 0.06031363088057901,
       "maturity": 4.210741569403716,
       "total_commits_count": 1658,
       "activity": 5,
-      "total_score": 26.697162400047194,
+      "total_score": 26.69766625280908,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
