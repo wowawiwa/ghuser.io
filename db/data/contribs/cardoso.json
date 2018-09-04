@@ -43,7 +43,7 @@
     "RocketChat/Rocket.Chat": {
       "full_name": "RocketChat/Rocket.Chat",
       "name": "Rocket.Chat",
-      "stargazers_count": 19679,
+      "stargazers_count": 19681,
       "popularity": 5,
       "percentage": 0.039510075069142635,
       "maturity": 5,
@@ -160,13 +160,13 @@
     "ReSwift/ReSwift": {
       "full_name": "ReSwift/ReSwift",
       "name": "ReSwift",
-      "stargazers_count": 5307,
-      "popularity": 4.724814518455319,
+      "stargazers_count": 5309,
+      "popularity": 4.72497818391773,
       "percentage": 0.4166666666666667,
       "maturity": 3.3029825412519562,
       "total_commits_count": 240,
       "activity": 5,
-      "total_score": 26.036336090952865,
+      "total_score": 26.036835952552646,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -212,13 +212,13 @@
     "slackhq/SlackTextViewController": {
       "full_name": "slackhq/SlackTextViewController",
       "name": "SlackTextViewController",
-      "stargazers_count": 8554,
-      "popularity": 4.932162637881702,
+      "stargazers_count": 8555,
+      "popularity": 4.932213411179829,
       "percentage": 0,
       "maturity": 2.9160773650635297,
       "total_commits_count": 122,
       "activity": 5,
-      "total_score": 25.628642643772164,
+      "total_score": 25.628794963666547,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -277,13 +277,13 @@
     "dkhamsing/open-source-ios-apps": {
       "full_name": "dkhamsing/open-source-ios-apps",
       "name": "open-source-ios-apps",
-      "stargazers_count": 18135,
+      "stargazers_count": 18140,
       "popularity": 5,
-      "percentage": 0.06495615459564794,
-      "maturity": 4.484481252139572,
-      "total_commits_count": 3079,
+      "percentage": 0.06489292667099286,
+      "maturity": 4.484909747739906,
+      "total_commits_count": 3082,
       "activity": 5,
-      "total_score": 29.011184004766314,
+      "total_score": 29.011999897815954,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -518,6 +518,19 @@
       "total_commits_count": 6,
       "activity": 0.5185641671101369,
       "total_score": 26.3237160396394,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "RocketChat/Rocket.Chat.Apps-engine": {
+      "full_name": "RocketChat/Rocket.Chat.Apps-engine",
+      "name": "Rocket.Chat.Apps-engine",
+      "stargazers_count": 8,
+      "popularity": 1.8512968868523627,
+      "percentage": 0,
+      "maturity": 3.095506703770788,
+      "total_commits_count": 164,
+      "activity": 5,
+      "total_score": 16.744904068098663,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

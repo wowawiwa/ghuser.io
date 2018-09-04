@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/VulcanJS/vulcan-docs",
   "languages_url": "https://api.github.com/repos/VulcanJS/vulcan-docs/languages",
   "created_at": "2016-11-27T00:57:48Z",
-  "updated_at": "2018-08-30T22:32:32Z",
-  "pushed_at": "2018-08-30T22:32:30Z",
+  "updated_at": "2018-09-04T07:00:28Z",
+  "pushed_at": "2018-09-04T07:00:42Z",
   "homepage": "http://docs.vulcanjs.org",
-  "size": 2501,
+  "size": 2562,
   "stargazers_count": 26,
   "language": "CSS",
   "mirror_url": null,
@@ -102,7 +102,7 @@
     "klokie": 4,
     "heldr": 4,
     "jamesmillerburgess": 5,
-    "Apollinaire": 6,
+    "Apollinaire": 8,
     "Poincare": 6,
     "xavczen": 14,
     "helfer": 21,
@@ -126,7 +126,7 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-31T06:12:49.406Z",
+  "fetched_at": "2018-09-04T08:13:00.069Z",
   "pulls_url": "https://api.github.com/repos/VulcanJS/vulcan-docs/pulls{/number}",
   "pulls_authors": [
     "PolGuixe",

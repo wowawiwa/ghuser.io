@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/WeblateOrg/weblate/languages",
   "pulls_url": "https://api.github.com/repos/WeblateOrg/weblate/pulls{/number}",
   "created_at": "2012-02-27T09:33:29Z",
-  "updated_at": "2018-09-03T06:07:10Z",
-  "pushed_at": "2018-09-02T13:44:08Z",
+  "updated_at": "2018-09-04T06:04:30Z",
+  "pushed_at": "2018-09-04T06:02:53Z",
   "homepage": "https://weblate.org/",
-  "size": 162571,
+  "size": 162408,
   "stargazers_count": 1125,
   "language": "Python",
   "mirror_url": null,
@@ -65,7 +65,7 @@
     "madmuffin1": 9,
     "stefanor": 8,
     "Freso": 9,
-    "weblate": 1456,
+    "weblate": 1457,
     "Xuacu": 10,
     "ptrsk": 10,
     "mv-santos": 10,
@@ -147,7 +147,7 @@
     "ruleant": 502,
     "BouRock": 760,
     "franconian": 1120,
-    "nijel": 15856,
+    "nijel": 15866,
     "lukakama": 12,
     "pjcaldeira": 7,
     "glensc": 8,
@@ -198,7 +198,7 @@
     "pitchblack1": 4,
     "tuxayo": 4,
     "claybiockiller2": 4,
-    "wsxy162": 4,
+    "wsxy162": 5,
     "enolp": 4,
     "tacsipacsi": 4,
     "saily": 4,
@@ -206,7 +206,7 @@
     "adrianojbr": 3,
     "Bikarhener": 3,
     "buzbohdan": 3,
-    "stalker314314": 3,
+    "stalker314314": 4,
     "Christoph-Miebach": 3,
     "quantifiedcode-bot": 3,
     "daghoidahl": 3,
@@ -375,7 +375,9 @@
     "aarli": 1,
     "nothingface0": 1,
     "mesnevi": 9,
-    "Nicedward": 1
+    "Nicedward": 1,
+    "GrahamDumpleton": 19,
+    "wyznaga": 2
   },
   "pulls_authors": [
     "nijel",
@@ -508,7 +510,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 2460434,
+      "bytes": 2460458,
       "color": "#3572A5"
     },
     "JavaScript": {
@@ -519,13 +521,13 @@
       "bytes": 278634,
       "color": "#e34c26"
     },
+    "Shell": {
+      "bytes": 28549,
+      "color": "#89e051"
+    },
     "CSS": {
       "bytes": 24734,
       "color": "#563d7c"
-    },
-    "Shell": {
-      "bytes": 20558,
-      "color": "#89e051"
     },
     "Dockerfile": {
       "bytes": 525,
@@ -540,5 +542,5 @@
       "color": "#4F5D95"
     }
   },
-  "fetched_at": "2018-09-03T12:58:04.612Z"
+  "fetched_at": "2018-09-04T08:10:37.010Z"
 }

@@ -11,8 +11,8 @@
   "languages_url": "https://api.github.com/repos/metabrainz/picard/languages",
   "pulls_url": "https://api.github.com/repos/metabrainz/picard/pulls{/number}",
   "created_at": "2011-08-16T22:30:23Z",
-  "updated_at": "2018-09-03T16:19:55Z",
-  "pushed_at": "2018-09-03T21:46:29Z",
+  "updated_at": "2018-09-04T07:40:19Z",
+  "pushed_at": "2018-09-04T07:41:57Z",
   "homepage": "https://picard.musicbrainz.org",
   "size": 27793,
   "stargazers_count": 1521,
@@ -101,7 +101,7 @@
     "rahul-raturi": 144,
     "mineo": 269,
     "mwiencek": 328,
-    "phw": 356,
+    "phw": 357,
     "Sophist-UK": 380,
     "samj1912": 547,
     "zas": 885,
@@ -185,7 +185,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 2394759,
+      "bytes": 2395235,
       "color": "#3572A5"
     },
     "Shell": {
@@ -197,5 +197,5 @@
       "color": "#555555"
     }
   },
-  "fetched_at": "2018-09-03T21:48:30.277Z"
+  "fetched_at": "2018-09-04T08:09:29.118Z"
 }

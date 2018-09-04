@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/skyfielders/python-skyfield",
   "languages_url": "https://api.github.com/repos/skyfielders/python-skyfield/languages",
   "created_at": "2013-01-30T21:19:21Z",
-  "updated_at": "2018-09-03T18:44:44Z",
-  "pushed_at": "2018-09-03T18:44:42Z",
+  "updated_at": "2018-09-04T02:46:13Z",
+  "pushed_at": "2018-09-04T02:46:24Z",
   "homepage": null,
-  "size": 1659,
+  "size": 1711,
   "stargazers_count": 244,
   "language": "Python",
   "mirror_url": null,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "Python": {
-      "bytes": 602339,
+      "bytes": 603303,
       "color": "#3572A5"
     },
     "Jupyter Notebook": {
@@ -90,13 +90,13 @@
     "azharkhan": 3,
     "aarose": 6,
     "alextucker": 9,
-    "brandon-rhodes": 1005,
+    "brandon-rhodes": 1011,
     "beaglebao": 1,
     "GammaSagittarii": 1,
     "uhho": 1,
     "cclauss": 1
   },
-  "fetched_at": "2018-09-03T21:46:53.757Z",
+  "fetched_at": "2018-09-04T08:07:42.924Z",
   "pulls_url": "https://api.github.com/repos/skyfielders/python-skyfield/pulls{/number}",
   "pulls_authors": [
     "uhho",

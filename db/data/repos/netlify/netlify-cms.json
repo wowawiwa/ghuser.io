@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/netlify/netlify-cms/languages",
   "pulls_url": "https://api.github.com/repos/netlify/netlify-cms/pulls{/number}",
   "created_at": "2015-01-20T05:47:47Z",
-  "updated_at": "2018-09-03T21:32:02Z",
-  "pushed_at": "2018-09-03T17:17:08Z",
+  "updated_at": "2018-09-04T07:50:12Z",
+  "pushed_at": "2018-09-04T06:52:44Z",
   "homepage": "https://www.netlifycms.org",
   "size": 21307,
-  "stargazers_count": 6192,
+  "stargazers_count": 6196,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -380,7 +380,8 @@
     "tonyrzhang",
     "bevanmw",
     "tomrutgers",
-    "MorganMarshall"
+    "MorganMarshall",
+    "nahueld"
   ],
   "languages": {
     "JavaScript": {
@@ -396,5 +397,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-03T21:48:36.616Z"
+  "fetched_at": "2018-09-04T08:09:36.320Z"
 }

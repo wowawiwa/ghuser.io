@@ -99,7 +99,7 @@
     "Hinsbart": 303,
     "neikeq": 370,
     "volzhs": 301,
-    "akien-mga": 4982,
+    "akien-mga": 4983,
     "reduz": 2863,
     "cbscribe": 39,
     "Spooner": 16,
@@ -107,7 +107,7 @@
     "xodene": 11,
     "KidRigger": 9,
     "cart": 9,
-    "capnm": 9,
+    "capnm": 10,
     "dragmz": 26,
     "QuLogic": 8,
     "MattUV": 8,
@@ -441,11 +441,11 @@
   "url": "https://api.github.com/repos/godotengine/godot",
   "languages_url": "https://api.github.com/repos/godotengine/godot/languages",
   "created_at": "2014-01-04T16:05:36Z",
-  "updated_at": "2018-09-03T21:09:39Z",
-  "pushed_at": "2018-09-03T20:15:45Z",
+  "updated_at": "2018-09-04T06:41:51Z",
+  "pushed_at": "2018-09-04T06:41:27Z",
   "homepage": "https://godotengine.org",
-  "size": 260203,
-  "stargazers_count": 16476,
+  "size": 260207,
+  "stargazers_count": 16479,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -479,7 +479,7 @@
   },
   "languages": {
     "C++": {
-      "bytes": 21350736,
+      "bytes": 21350842,
       "color": "#f34b7d"
     },
     "Java": {
@@ -495,7 +495,7 @@
       "color": "#178600"
     },
     "Objective-C++": {
-      "bytes": 186266,
+      "bytes": 186319,
       "color": "#6866fb"
     },
     "C": {
@@ -523,7 +523,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-03T21:47:11.044Z",
+  "fetched_at": "2018-09-04T08:07:58.953Z",
   "pulls_url": "https://api.github.com/repos/godotengine/godot/pulls{/number}",
   "pulls_authors": [
     "Calinou",

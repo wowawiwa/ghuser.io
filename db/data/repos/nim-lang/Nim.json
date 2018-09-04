@@ -95,7 +95,7 @@
     "Varriount": 168,
     "cheatfate": 112,
     "reactormonk": 237,
-    "yglukhov": 219,
+    "yglukhov": 220,
     "flaviut": 229,
     "gradha": 310,
     "def-": 334,
@@ -366,11 +366,11 @@
   "url": "https://api.github.com/repos/nim-lang/Nim",
   "languages_url": "https://api.github.com/repos/nim-lang/Nim/languages",
   "created_at": "2010-08-16T20:38:58Z",
-  "updated_at": "2018-09-03T20:35:10Z",
-  "pushed_at": "2018-09-03T20:34:53Z",
+  "updated_at": "2018-09-04T06:18:29Z",
+  "pushed_at": "2018-09-04T07:37:05Z",
   "homepage": "https://nim-lang.org/",
-  "size": 70828,
-  "stargazers_count": 5399,
+  "size": 70834,
+  "stargazers_count": 5398,
   "language": "Nim",
   "mirror_url": null,
   "archived": false,
@@ -404,7 +404,7 @@
   },
   "languages": {
     "Nim": {
-      "bytes": 8375672,
+      "bytes": 8375891,
       "color": "#37775b"
     },
     "C": {
@@ -452,7 +452,7 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-03T21:47:18.322Z",
+  "fetched_at": "2018-09-04T08:08:08.655Z",
   "pulls_url": "https://api.github.com/repos/nim-lang/Nim/pulls{/number}",
   "pulls_authors": [
     "michael72",
@@ -929,6 +929,7 @@
     "nathancahill",
     "ccll",
     "pigmej",
-    "emekoi"
+    "emekoi",
+    "PrimordialHelios"
   ]
 }

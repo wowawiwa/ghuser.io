@@ -4,7 +4,7 @@
     "xnu123": 1,
     "TrueJournals": 1,
     "LordAro": 7,
-    "wheybags": 13
+    "wheybags": 14
   },
   "name": "glibc_version_header",
   "full_name": "wheybags/glibc_version_header",
@@ -16,10 +16,10 @@
   "url": "https://api.github.com/repos/wheybags/glibc_version_header",
   "languages_url": "https://api.github.com/repos/wheybags/glibc_version_header/languages",
   "created_at": "2017-12-14T15:01:58Z",
-  "updated_at": "2018-08-15T12:56:45Z",
-  "pushed_at": "2018-05-10T00:14:16Z",
+  "updated_at": "2018-09-04T06:41:46Z",
+  "pushed_at": "2018-09-04T06:41:44Z",
   "homepage": "",
-  "size": 162,
+  "size": 167,
   "stargazers_count": 159,
   "language": "C++",
   "mirror_url": null,
@@ -42,7 +42,7 @@
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-08-15T16:04:40.996Z",
+  "fetched_at": "2018-09-04T08:08:01.923Z",
   "pulls_url": "https://api.github.com/repos/wheybags/glibc_version_header/pulls{/number}",
   "pulls_authors": [
     "heinrich5991",

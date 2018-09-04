@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/parcel-bundler/awesome-parcel",
   "languages_url": "https://api.github.com/repos/parcel-bundler/awesome-parcel/languages",
   "created_at": "2017-12-23T05:35:30Z",
-  "updated_at": "2018-09-03T16:36:25Z",
-  "pushed_at": "2018-09-03T16:36:24Z",
+  "updated_at": "2018-09-03T23:47:20Z",
+  "pushed_at": "2018-09-04T03:38:23Z",
   "homepage": "",
-  "size": 40,
-  "stargazers_count": 498,
+  "size": 41,
+  "stargazers_count": 499,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -72,7 +72,7 @@
     "hirasso": 3
   },
   "languages": {},
-  "fetched_at": "2018-09-03T17:17:59.054Z",
+  "fetched_at": "2018-09-04T08:12:56.405Z",
   "pulls_url": "https://api.github.com/repos/parcel-bundler/awesome-parcel/pulls{/number}",
   "pulls_authors": [
     "shff",
@@ -101,6 +101,7 @@
     "Raincal",
     "matuzalemsteles",
     "the-smaug",
-    "hirasso"
+    "hirasso",
+    "proYang"
   ]
 }
