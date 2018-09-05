@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/DefinitelyTyped/DefinitelyTyped/languages",
   "pulls_url": "https://api.github.com/repos/DefinitelyTyped/DefinitelyTyped/pulls{/number}",
   "created_at": "2012-10-05T16:39:45Z",
-  "updated_at": "2018-09-05T12:32:18Z",
-  "pushed_at": "2018-09-05T12:36:01Z",
+  "updated_at": "2018-09-05T18:22:29Z",
+  "pushed_at": "2018-09-05T19:48:33Z",
   "homepage": "http://definitelytyped.org/",
-  "size": 351890,
-  "stargazers_count": 17256,
+  "size": 352418,
+  "stargazers_count": 17258,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -133,7 +133,7 @@
     "tkqubo": 111,
     "LKay": 136,
     "dolanmiu": 141,
-    "tkrotoff": 131,
+    "tkrotoff": 133,
     "Bartvds": 259,
     "RyanCavanaugh": 524,
     "segayuu": 161,
@@ -147,10 +147,10 @@
     "borisyankov": 717,
     "chrootsu": 407,
     "vvakame": 4297,
-    "andy-ms": 1459,
-    "minestarks": 645,
+    "andy-ms": 1460,
+    "minestarks": 672,
     "aozgaa": 481,
-    "uniqueiniquity": 471,
+    "uniqueiniquity": 472,
     "rbuckton": 335,
     "armanio123": 462,
     "yuit": 198,
@@ -189,12 +189,12 @@
     "drewnoakes": 29,
     "isman-usoh": 29,
     "loyd": 29,
-    "firede": 29,
+    "firede": 33,
     "elisee": 29,
     "e-cloud": 29,
     "lijunle": 29,
     "alejo90": 31,
-    "Alorel": 29,
+    "Alorel": 30,
     "xt0rted": 28,
     "RReverser": 28,
     "janaagaard75": 28,
@@ -258,7 +258,7 @@
     "MartynasZilinskas": 21,
     "samvloeberghs": 21,
     "Pro": 21,
-    "taoqf": 23,
+    "taoqf": 27,
     "styfle": 22,
     "dennispg": 21,
     "s0m3on3": 21,
@@ -375,7 +375,7 @@
     "bioball": 14,
     "danielearwicker": 14,
     "DavidKDeutsch": 14,
-    "ElizabethSamuel-MSFT": 26,
+    "ElizabethSamuel-MSFT": 29,
     "grahammendick": 14,
     "smrq": 14,
     "icopp": 14,
@@ -462,7 +462,9 @@
     "romain-faust": 31,
     "franklixuefei": 15,
     "meganrm": 21,
-    "danwbyrne": 24
+    "danwbyrne": 25,
+    "odahcam": 46,
+    "mike-north": 27
   },
   "pulls_authors": [
     "saenglert",
@@ -8978,11 +8980,15 @@
     "henrinormak",
     "vertic4l",
     "prabodht",
-    "ilovecodingxyz"
+    "ilovecodingxyz",
+    "sirMerr",
+    "abhikmitra",
+    "ly-cultureiq",
+    "Iamsamwhoami"
   ],
   "languages": {
     "TypeScript": {
-      "bytes": 25042475,
+      "bytes": 25118696,
       "color": "#2b7489"
     },
     "JavaScript": {
@@ -8994,5 +9000,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-05T13:01:43.439Z"
+  "fetched_at": "2018-09-05T20:16:22.554Z"
 }

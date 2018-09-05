@@ -34,7 +34,7 @@
     "united-drivers"
   ],
   "contribs": {
-    "fetched_at": "2018-09-05T16:57:48.853Z",
+    "fetched_at": "2018-09-05T20:12:37.362Z",
     "repos": [
       "moul/vanity",
       "moul/depviz",
@@ -628,7 +628,8 @@
       "moul/trusted-cross-build",
       "moul/ubukey",
       "moul/visual_resume",
-      "moul/whoisjs"
+      "moul/whoisjs",
+      "brianvoe/gofakeit"
     ]
   }
 }

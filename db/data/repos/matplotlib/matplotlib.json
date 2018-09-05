@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/matplotlib/matplotlib/languages",
   "pulls_url": "https://api.github.com/repos/matplotlib/matplotlib/pulls{/number}",
   "created_at": "2011-02-19T03:17:12Z",
-  "updated_at": "2018-09-05T08:44:13Z",
-  "pushed_at": "2018-09-05T10:14:57Z",
+  "updated_at": "2018-09-05T19:57:34Z",
+  "pushed_at": "2018-09-05T19:57:43Z",
   "homepage": "http://matplotlib.org/",
-  "size": 333375,
+  "size": 333379,
   "stargazers_count": 7847,
   "language": "Python",
   "mirror_url": null,
@@ -128,16 +128,16 @@
     "pelson": 488,
     "astraw": 272,
     "WeatherGod": 580,
-    "jklymak": 673,
+    "jklymak": 674,
     "dopplershift": 421,
     "jkseppan": 403,
     "leejjoon": 426,
     "ddale": 442,
     "NelleV": 731,
     "dstansby": 756,
-    "QuLogic": 795,
+    "QuLogic": 796,
     "jenshnielsen": 855,
-    "anntzer": 1071,
+    "anntzer": 1072,
     "efiring": 1771,
     "jdh2358": 2145,
     "tacaswell": 3975,
@@ -171,7 +171,7 @@
     "gzahl": 11,
     "solvents": 11,
     "salindersidhu": 11,
-    "taehoonlee": 11,
+    "taehoonlee": 13,
     "wernerfb": 11,
     "tonyyli": 11,
     "alvarosg": 10,
@@ -1481,7 +1481,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 6366217,
+      "bytes": 6366226,
       "color": "#3572A5"
     },
     "C++": {
@@ -1525,5 +1525,5 @@
       "color": "#3D6117"
     }
   },
-  "fetched_at": "2018-09-05T13:05:27.272Z"
+  "fetched_at": "2018-09-05T20:19:53.347Z"
 }

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/facebook/create-react-app",
   "languages_url": "https://api.github.com/repos/facebook/create-react-app/languages",
   "created_at": "2016-07-17T14:55:11Z",
-  "updated_at": "2018-09-05T12:55:04Z",
-  "pushed_at": "2018-09-05T10:03:18Z",
+  "updated_at": "2018-09-05T19:57:28Z",
+  "pushed_at": "2018-09-05T16:23:32Z",
   "homepage": null,
   "size": 5906,
-  "stargazers_count": 54830,
+  "stargazers_count": 54859,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -559,7 +559,7 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-05T13:01:59.562Z",
+  "fetched_at": "2018-09-05T20:16:41.623Z",
   "pulls_url": "https://api.github.com/repos/facebook/create-react-app/pulls{/number}",
   "pulls_authors": [
     "Terbiy",
@@ -1506,6 +1506,7 @@
     "addaleax",
     "ryota-murakami",
     "SujinParkdev",
-    "Spyna"
+    "Spyna",
+    "guylepage3"
   ]
 }

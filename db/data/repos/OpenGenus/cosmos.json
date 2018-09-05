@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/OpenGenus/cosmos",
   "languages_url": "https://api.github.com/repos/OpenGenus/cosmos/languages",
   "created_at": "2017-09-16T12:07:05Z",
-  "updated_at": "2018-09-05T09:51:24Z",
-  "pushed_at": "2018-09-01T13:02:24Z",
+  "updated_at": "2018-09-05T18:46:15Z",
+  "pushed_at": "2018-09-05T14:09:58Z",
   "homepage": "https://discourse.opengenus.org",
   "size": 14262,
-  "stargazers_count": 9631,
+  "stargazers_count": 9634,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -489,7 +489,8 @@
     "lesinh97": 2,
     "sahil-nith524": 2,
     "ankit-nith524": 2,
-    "junaidnz97": 6
+    "junaidnz97": 6,
+    "sean0x42": 4
   },
   "languages": {
     "C++": {
@@ -657,7 +658,7 @@
       "color": "#776791"
     }
   },
-  "fetched_at": "2018-09-05T13:03:10.932Z",
+  "fetched_at": "2018-09-05T20:17:57.902Z",
   "pulls_url": "https://api.github.com/repos/OpenGenus/cosmos/pulls{/number}",
   "pulls_authors": [
     "lesinh97",

@@ -11,8 +11,8 @@
   "languages_url": "https://api.github.com/repos/nuxt/docs/languages",
   "pulls_url": "https://api.github.com/repos/nuxt/docs/pulls{/number}",
   "created_at": "2016-11-21T16:41:29Z",
-  "updated_at": "2018-09-05T12:11:38Z",
-  "pushed_at": "2018-09-03T14:00:22Z",
+  "updated_at": "2018-09-05T19:25:35Z",
+  "pushed_at": "2018-09-05T19:25:32Z",
   "homepage": null,
   "size": 2349,
   "stargazers_count": 210,
@@ -118,7 +118,7 @@
     "limichange": 5,
     "RIanDeLaCruz": 6,
     "chuyik": 9,
-    "potato4d": 7,
+    "potato4d": 8,
     "desty": 7,
     "fikrizufri": 7,
     "shika358": 9,
@@ -304,7 +304,8 @@
     "willin": 1,
     "gangsthub": 1,
     "ogontaro": 1,
-    "kaptn3": 1
+    "kaptn3": 1,
+    "syorks": 1
   },
   "pulls_authors": [
     "clarkdo",
@@ -580,5 +581,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-05T13:00:45.858Z"
+  "fetched_at": "2018-09-05T20:15:30.292Z"
 }

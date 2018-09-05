@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/rg3/youtube-dl/languages",
   "pulls_url": "https://api.github.com/repos/rg3/youtube-dl/pulls{/number}",
   "created_at": "2010-10-31T14:35:07Z",
-  "updated_at": "2018-09-05T13:01:29Z",
-  "pushed_at": "2018-09-05T11:38:52Z",
+  "updated_at": "2018-09-05T20:14:43Z",
+  "pushed_at": "2018-09-05T17:55:55Z",
   "homepage": "http://rg3.github.io/youtube-dl/",
-  "size": 53497,
-  "stargazers_count": 41261,
+  "size": 53518,
+  "stargazers_count": 41277,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -127,7 +127,7 @@
     "yan12125": 1388,
     "jaimeMF": 1452,
     "phihag": 3792,
-    "dstftw": 5757,
+    "dstftw": 5759,
     "andreasschmitz": 6,
     "anisse": 4,
     "MiLk": 4,
@@ -1640,7 +1640,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 5208099,
+      "bytes": 5208438,
       "color": "#3572A5"
     },
     "Shell": {
@@ -1656,5 +1656,5 @@
       "color": "#C7D7DC"
     }
   },
-  "fetched_at": "2018-09-05T13:03:47.987Z"
+  "fetched_at": "2018-09-05T20:18:30.855Z"
 }

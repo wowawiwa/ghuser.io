@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/sirupsen/logrus/languages",
   "pulls_url": "https://api.github.com/repos/sirupsen/logrus/pulls{/number}",
   "created_at": "2013-10-16T19:08:55Z",
-  "updated_at": "2018-09-05T12:09:33Z",
+  "updated_at": "2018-09-05T15:49:27Z",
   "pushed_at": "2018-09-05T05:21:01Z",
   "homepage": "",
   "size": 609,
-  "stargazers_count": 8364,
+  "stargazers_count": 8365,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -543,5 +543,5 @@
       "color": "#375eab"
     }
   },
-  "fetched_at": "2018-09-05T13:07:30.805Z"
+  "fetched_at": "2018-09-05T20:21:36.801Z"
 }

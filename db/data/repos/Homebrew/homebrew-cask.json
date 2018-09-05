@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/Homebrew/homebrew-cask/languages",
   "pulls_url": "https://api.github.com/repos/Homebrew/homebrew-cask/pulls{/number}",
   "created_at": "2012-03-05T02:05:17Z",
-  "updated_at": "2018-09-05T12:50:17Z",
-  "pushed_at": "2018-09-05T12:50:08Z",
+  "updated_at": "2018-09-05T19:55:47Z",
+  "pushed_at": "2018-09-05T19:55:36Z",
   "homepage": "https://brew.sh",
-  "size": 123798,
-  "stargazers_count": 13492,
+  "size": 123920,
+  "stargazers_count": 13494,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -67,11 +67,11 @@
     "phinze": 586,
     "artdevjs": 464,
     "adidalal": 345,
-    "core-code": 320,
+    "core-code": 323,
     "neutric": 288,
     "buo": 281,
-    "jcbot": 262,
-    "ahousseini": 207,
+    "jcbot": 263,
+    "ahousseini": 209,
     "thebengeu": 202,
     "vinkla": 181,
     "grettir": 178,
@@ -110,7 +110,7 @@
     "SentinelWarren": 56,
     "mahori": 56,
     "vszakats": 53,
-    "suschizu": 53,
+    "suschizu": 54,
     "warmwinter": 52,
     "mathbunnyru": 51,
     "fmaass": 50,
@@ -448,7 +448,7 @@
     "patsoffice": 9,
     "peterlewis": 9,
     "zhedar": 9,
-    "singularitti": 9,
+    "singularitti": 10,
     "ROpdebee": 9,
     "SamueleDecarli": 9,
     "seijikohara": 9,
@@ -5871,11 +5871,13 @@
     "patrickkettner",
     "cosgroveb",
     "benmills",
-    "gvangool"
+    "gvangool",
+    "TheLastProject",
+    "jivanpal"
   ],
   "languages": {
     "Ruby": {
-      "bytes": 2167833,
+      "bytes": 2168053,
       "color": "#701516"
     },
     "Shell": {
@@ -5883,5 +5885,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-05T13:07:50.087Z"
+  "fetched_at": "2018-09-05T20:21:52.869Z"
 }
