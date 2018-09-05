@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/nodejs/node",
   "languages_url": "https://api.github.com/repos/nodejs/node/languages",
   "created_at": "2014-11-26T19:57:11Z",
-  "updated_at": "2018-09-04T23:50:38Z",
-  "pushed_at": "2018-09-05T00:40:27Z",
+  "updated_at": "2018-09-05T13:04:14Z",
+  "pushed_at": "2018-09-05T13:07:15Z",
   "homepage": "https://nodejs.org",
-  "size": 406572,
-  "stargazers_count": 52975,
+  "size": 406716,
+  "stargazers_count": 53006,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 6830642,
+      "bytes": 6833166,
       "color": "#f1e05a"
     },
     "C++": {
-      "bytes": 2527792,
+      "bytes": 2529824,
       "color": "#f34b7d"
     },
     "Python": {
@@ -68,7 +68,7 @@
       "color": "#e34c26"
     },
     "Makefile": {
-      "bytes": 43271,
+      "bytes": 43321,
       "color": "#427819"
     },
     "DTrace": {
@@ -135,7 +135,7 @@
     "hiroppy": 31,
     "davidben": 31,
     "starkwang": 36,
-    "ryzokuken": 46,
+    "ryzokuken": 47,
     "saghul": 34,
     "zkat": 35,
     "matthewloring": 35,
@@ -184,7 +184,7 @@
     "apapirovski": 193,
     "TooTallNate": 197,
     "joyeecheung": 232,
-    "targos": 291,
+    "targos": 294,
     "vsemozhetbyt": 282,
     "tjfontaine": 332,
     "BridgeAR": 350,
@@ -195,7 +195,7 @@
     "cjihrig": 397,
     "jasnell": 530,
     "piscisaureus": 598,
-    "addaleax": 686,
+    "addaleax": 695,
     "indutny": 755,
     "Trott": 1334,
     "isaacs": 1647,
@@ -226,7 +226,7 @@
     "tj": 15,
     "MoonBall": 13,
     "deanm": 14,
-    "gireeshpunathil": 16,
+    "gireeshpunathil": 17,
     "daynin": 14,
     "ujh": 14,
     "domenic": 13,
@@ -564,7 +564,7 @@
     "charlieduong94": 2,
     "chasestarr": 2,
     "dinophile": 2,
-    "rubys": 21,
+    "rubys": 22,
     "aduh95": 3,
     "lundibundi": 12,
     "kenny-y": 3,
@@ -575,7 +575,7 @@
     "Maledong": 8,
     "TomCoded": 3
   },
-  "fetched_at": "2018-09-05T02:23:36.167Z",
+  "fetched_at": "2018-09-05T13:08:16.427Z",
   "pulls_url": "https://api.github.com/repos/nodejs/node/pulls{/number}",
   "pulls_authors": [
     "mmarchini",

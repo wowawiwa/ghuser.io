@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/bcit-ci/CodeIgniter",
   "languages_url": "https://api.github.com/repos/bcit-ci/CodeIgniter/languages",
   "created_at": "2011-08-19T13:34:00Z",
-  "updated_at": "2018-09-05T00:25:30Z",
-  "pushed_at": "2018-09-05T00:43:12Z",
+  "updated_at": "2018-09-05T11:00:51Z",
+  "pushed_at": "2018-09-05T06:28:38Z",
   "homepage": "https://codeigniter.com/",
   "size": 51639,
-  "stargazers_count": 16498,
+  "stargazers_count": 16500,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -146,7 +146,7 @@
     "timw4mail": 229,
     "rickellis": 320,
     "derekjones": 660,
-    "narfbg": 3776,
+    "narfbg": 3777,
     "pkriete": 8,
     "browner12": 7,
     "ckdarby": 7,
@@ -407,7 +407,8 @@
     "rythie": 1,
     "robbyrice": 1,
     "mfigueroa": 1,
-    "ElleshaHackett": 1
+    "ElleshaHackett": 1,
+    "johndekroon": 2
   },
   "languages": {
     "PHP": {
@@ -439,7 +440,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-05T02:25:02.829Z",
+  "fetched_at": "2018-09-05T13:10:10.606Z",
   "pulls_url": "https://api.github.com/repos/bcit-ci/CodeIgniter/pulls{/number}",
   "pulls_authors": [
     "it-can",
@@ -1611,6 +1612,7 @@
     "frankdejonge",
     "mfigueroa",
     "1e90ff",
-    "nazar-pc"
+    "nazar-pc",
+    "fifthsegment"
   ]
 }

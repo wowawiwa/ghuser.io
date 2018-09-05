@@ -1,0 +1,99 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "advanced-ssh-config",
+  "full_name": "moul/advanced-ssh-config",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/advanced-ssh-config",
+  "description": ":computer: make your ssh client smarter",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/advanced-ssh-config",
+  "languages_url": "https://api.github.com/repos/moul/advanced-ssh-config/languages",
+  "pulls_url": "https://api.github.com/repos/moul/advanced-ssh-config/pulls{/number}",
+  "created_at": "2011-12-25T21:15:04Z",
+  "updated_at": "2018-09-04T14:33:40Z",
+  "pushed_at": "2018-08-18T16:17:14Z",
+  "homepage": "",
+  "size": 22814,
+  "stargazers_count": 1263,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "4wrxb": 1,
+    "fossabot": 1,
+    "cao": 1,
+    "jcftang": 1,
+    "ypid": 1,
+    "bachya": 1,
+    "cnf": 1,
+    "ineiti": 1,
+    "MerlinDMC": 1,
+    "bahamas10": 1,
+    "cerisier": 1,
+    "loliee": 1,
+    "ReadmeCritic": 1,
+    "frezbo": 2,
+    "ocean90": 2,
+    "ashmatadeen": 2,
+    "stk0vrfl0w": 3,
+    "QuentinPerez": 13,
+    "moul": 390
+  },
+  "pulls_authors": [
+    "imgbot[bot]",
+    "renovate[bot]",
+    "moul",
+    "frezbo",
+    "4wrxb",
+    "stk0vrfl0w",
+    "fossabot",
+    "cao",
+    "jcftang",
+    "ypid",
+    "bachya",
+    "cnf",
+    "ocean90",
+    "QuentinPerez",
+    "ineiti",
+    "MerlinDMC",
+    "bahamas10",
+    "cerisier",
+    "loliee",
+    "ashmatadeen",
+    "ReadmeCritic",
+    "bitdeli-chef",
+    "dldinternet"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 210351,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 3732,
+      "color": "#427819"
+    },
+    "API Blueprint": {
+      "bytes": 1090,
+      "color": "#2ACCA8"
+    },
+    "Ruby": {
+      "bytes": 1089,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 305,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-05T13:06:41.412Z"
+}

@@ -14,7 +14,8 @@
     "DNLHC": 15,
     "hackjutsu": 341,
     "ImgBotApp": 1,
-    "baybatu": 2
+    "baybatu": 2,
+    "samuelmeuli": 1
   },
   "name": "Lepton",
   "full_name": "hackjutsu/Lepton",
@@ -26,11 +27,11 @@
   "url": "https://api.github.com/repos/hackjutsu/Lepton",
   "languages_url": "https://api.github.com/repos/hackjutsu/Lepton/languages",
   "created_at": "2016-12-30T22:29:25Z",
-  "updated_at": "2018-09-04T16:29:45Z",
-  "pushed_at": "2018-09-01T16:46:53Z",
+  "updated_at": "2018-09-05T12:28:57Z",
+  "pushed_at": "2018-09-05T08:58:30Z",
   "homepage": "http://hackjutsu.com/Lepton",
   "size": 31314,
-  "stargazers_count": 4021,
+  "stargazers_count": 4030,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -44,7 +45,7 @@
   "default_branch": "master",
   "languages": {
     "JavaScript": {
-      "bytes": 152462,
+      "bytes": 152354,
       "color": "#f1e05a"
     },
     "CSS": {
@@ -56,7 +57,7 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-05T02:19:49.755Z",
+  "fetched_at": "2018-09-05T13:02:18.262Z",
   "pulls_url": "https://api.github.com/repos/hackjutsu/Lepton/pulls{/number}",
   "pulls_authors": [
     "imgbot[bot]",
@@ -75,6 +76,7 @@
     "meilinz",
     "Calinou",
     "rogersachan",
-    "baybatu"
+    "baybatu",
+    "samuelmeuli"
   ]
 }

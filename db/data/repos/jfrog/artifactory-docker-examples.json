@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/jfrog/artifactory-docker-examples/languages",
   "pulls_url": "https://api.github.com/repos/jfrog/artifactory-docker-examples/pulls{/number}",
   "created_at": "2016-12-29T09:43:20Z",
-  "updated_at": "2018-09-04T20:48:32Z",
-  "pushed_at": "2018-09-04T13:59:11Z",
+  "updated_at": "2018-09-05T08:44:47Z",
+  "pushed_at": "2018-09-05T09:59:53Z",
   "homepage": "https://www.jfrog.com/artifactory/",
-  "size": 2553,
+  "size": 2555,
   "stargazers_count": 143,
   "language": "Shell",
   "mirror_url": null,
@@ -68,7 +68,8 @@
     "jainishshah17": 6,
     "matankatz": 10,
     "elioengcomp": 22,
-    "eldada": 73
+    "eldada": 73,
+    "crazy-max": 1
   },
   "pulls_authors": [
     "crazy-max",
@@ -96,7 +97,7 @@
   ],
   "languages": {
     "Shell": {
-      "bytes": 39852,
+      "bytes": 40775,
       "color": "#89e051"
     },
     "Groovy": {
@@ -106,7 +107,11 @@
     "Dockerfile": {
       "bytes": 1932,
       "color": "#0db7ed"
+    },
+    "JavaScript": {
+      "bytes": 601,
+      "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-05T02:20:26.961Z"
+  "fetched_at": "2018-09-05T13:03:00.957Z"
 }

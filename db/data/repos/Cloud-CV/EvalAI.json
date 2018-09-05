@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/Cloud-CV/EvalAI",
   "languages_url": "https://api.github.com/repos/Cloud-CV/EvalAI/languages",
   "created_at": "2016-10-21T00:51:45Z",
-  "updated_at": "2018-09-04T19:30:11Z",
-  "pushed_at": "2018-09-04T04:54:34Z",
+  "updated_at": "2018-09-05T09:47:12Z",
+  "pushed_at": "2018-09-05T10:27:25Z",
   "homepage": "https://evalai.cloudcv.org/",
-  "size": 71071,
-  "stargazers_count": 495,
+  "size": 71073,
+  "stargazers_count": 496,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -118,7 +118,8 @@
     "taranjeet": 110,
     "RishabhJain2018": 169,
     "deshraj": 288,
-    "GauravJain98": 1
+    "GauravJain98": 1,
+    "git-ankur-shukla": 1
   },
   "languages": {
     "Python": {
@@ -146,7 +147,7 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-05T02:21:10.097Z",
+  "fetched_at": "2018-09-05T13:03:54.833Z",
   "pulls_url": "https://api.github.com/repos/Cloud-CV/EvalAI/pulls{/number}",
   "pulls_authors": [
     "live-wire",

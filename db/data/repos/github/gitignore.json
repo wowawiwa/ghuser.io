@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/github/gitignore/languages",
   "pulls_url": "https://api.github.com/repos/github/gitignore/pulls{/number}",
   "created_at": "2010-11-08T20:17:14Z",
-  "updated_at": "2018-09-05T02:12:57Z",
-  "pushed_at": "2018-09-04T16:39:01Z",
+  "updated_at": "2018-09-05T12:45:24Z",
+  "pushed_at": "2018-09-05T08:40:52Z",
   "homepage": "",
   "size": 1702,
-  "stargazers_count": 72177,
+  "stargazers_count": 72206,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -472,7 +472,8 @@
     "roryhardy": 3,
     "GabrielC101": 3,
     "amigcamel": 2,
-    "alastairtree": 1
+    "alastairtree": 1,
+    "kylef": 3
   },
   "pulls_authors": [
     "amiteshbhartiya",
@@ -2677,8 +2678,9 @@
     "tyang513",
     "gurvircheema",
     "AcyYu",
-    "alastairtree"
+    "alastairtree",
+    "anluan191"
   ],
   "languages": {},
-  "fetched_at": "2018-09-05T02:22:04.275Z"
+  "fetched_at": "2018-09-05T13:04:59.654Z"
 }

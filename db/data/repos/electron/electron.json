@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/electron/electron/languages",
   "pulls_url": "https://api.github.com/repos/electron/electron/pulls{/number}",
   "created_at": "2013-04-12T01:47:36Z",
-  "updated_at": "2018-09-05T01:36:34Z",
-  "pushed_at": "2018-09-05T00:16:23Z",
+  "updated_at": "2018-09-05T12:15:55Z",
+  "pushed_at": "2018-09-05T11:51:56Z",
   "homepage": "https://electronjs.org",
-  "size": 42042,
-  "stargazers_count": 64156,
+  "size": 42040,
+  "stargazers_count": 64185,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -447,7 +447,8 @@
     "BeniCheni": 1,
     "roller-bot": 7,
     "theLMGN": 2,
-    "kevinmartin": 3
+    "kevinmartin": 3,
+    "asokolsky": 1
   },
   "pulls_authors": [
     "codebytere",
@@ -1486,5 +1487,5 @@
       "color": "#012456"
     }
   },
-  "fetched_at": "2018-09-05T02:24:42.730Z"
+  "fetched_at": "2018-09-05T13:09:41.179Z"
 }

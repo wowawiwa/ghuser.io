@@ -4,13 +4,13 @@
     "phpmyadmin/phpmyadmin": {
       "full_name": "phpmyadmin/phpmyadmin",
       "name": "phpmyadmin",
-      "stargazers_count": 3351,
-      "popularity": 4.525096858344277,
+      "stargazers_count": 3353,
+      "popularity": 4.525356053531506,
       "percentage": 0,
       "maturity": 5,
-      "total_commits_count": 82731,
+      "total_commits_count": 82733,
       "activity": 5,
-      "total_score": 28.57529057503283,
+      "total_score": 28.576068160594517,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

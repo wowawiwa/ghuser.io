@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/elastic/logstash",
   "languages_url": "https://api.github.com/repos/elastic/logstash/languages",
   "created_at": "2010-11-18T01:31:50Z",
-  "updated_at": "2018-09-05T01:58:14Z",
+  "updated_at": "2018-09-05T12:01:38Z",
   "pushed_at": "2018-09-04T20:57:54Z",
   "homepage": "https://www.elastic.co/products/logstash",
   "size": 104751,
-  "stargazers_count": 9338,
+  "stargazers_count": 9340,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -470,7 +470,7 @@
     "georgexsh": 1,
     "ITBlogger": 1
   },
-  "fetched_at": "2018-09-05T02:22:33.013Z",
+  "fetched_at": "2018-09-05T13:05:38.024Z",
   "pulls_url": "https://api.github.com/repos/elastic/logstash/pulls{/number}",
   "pulls_authors": [
     "bagratte",
