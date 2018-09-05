@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/rg3/youtube-dl/languages",
   "pulls_url": "https://api.github.com/repos/rg3/youtube-dl/pulls{/number}",
   "created_at": "2010-10-31T14:35:07Z",
-  "updated_at": "2018-09-04T15:52:17Z",
-  "pushed_at": "2018-09-04T09:38:38Z",
+  "updated_at": "2018-09-05T02:00:12Z",
+  "pushed_at": "2018-09-05T00:02:22Z",
   "homepage": "http://rg3.github.io/youtube-dl/",
   "size": 53497,
-  "stargazers_count": 41228,
+  "stargazers_count": 41238,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -1635,7 +1635,8 @@
     "vvavrychuk",
     "v01d-cypher",
     "Jamie-Landeg-Jones",
-    "ppawel"
+    "ppawel",
+    "raphaeldore"
   ],
   "languages": {
     "Python": {
@@ -1655,5 +1656,5 @@
       "color": "#C7D7DC"
     }
   },
-  "fetched_at": "2018-09-04T16:00:07.284Z"
+  "fetched_at": "2018-09-05T02:21:03.512Z"
 }

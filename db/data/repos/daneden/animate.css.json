@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/daneden/animate.css",
   "languages_url": "https://api.github.com/repos/daneden/animate.css/languages",
   "created_at": "2011-10-12T10:07:38Z",
-  "updated_at": "2018-09-04T15:40:31Z",
-  "pushed_at": "2018-08-27T22:56:27Z",
+  "updated_at": "2018-09-05T01:54:24Z",
+  "pushed_at": "2018-09-04T21:33:09Z",
   "homepage": "http://daneden.github.io/animate.css",
   "size": 721,
-  "stargazers_count": 53965,
+  "stargazers_count": 53966,
   "language": "CSS",
   "mirror_url": null,
   "archived": false,
@@ -127,7 +127,7 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-04T16:01:18.128Z",
+  "fetched_at": "2018-09-05T02:21:49.070Z",
   "pulls_url": "https://api.github.com/repos/daneden/animate.css/pulls{/number}",
   "pulls_authors": [
     "lukasolson",
@@ -343,6 +343,7 @@
     "suissa",
     "Domw",
     "clzd",
-    "paulgv"
+    "paulgv",
+    "mattstrick"
   ]
 }

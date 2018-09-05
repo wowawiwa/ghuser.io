@@ -3,7 +3,7 @@
   "contributors": {
     "oltulu": 1,
     "aufildelanuit": 1,
-    "JB1905": 1,
+    "JB1905": 2,
     "ProPuke": 1,
     "klorenz": 1,
     "SpecialBomb": 1,
@@ -42,10 +42,11 @@
     "burnoutberni": 5,
     "BlueManCZ": 6,
     "revolter": 11,
-    "PalmerAL": 964,
+    "PalmerAL": 965,
     "slemony": 2,
     "abrarShariar": 2,
-    "tem44": 1
+    "tem44": 1,
+    "welaq": 1
   },
   "name": "min",
   "full_name": "minbrowser/min",
@@ -57,10 +58,10 @@
   "url": "https://api.github.com/repos/minbrowser/min",
   "languages_url": "https://api.github.com/repos/minbrowser/min/languages",
   "created_at": "2015-10-31T21:59:49Z",
-  "updated_at": "2018-09-03T22:33:19Z",
-  "pushed_at": "2018-09-03T18:34:35Z",
+  "updated_at": "2018-09-04T22:30:18Z",
+  "pushed_at": "2018-09-04T22:30:16Z",
   "homepage": "https://minbrowser.github.io/min",
-  "size": 147284,
+  "size": 147300,
   "stargazers_count": 2572,
   "language": "HTML",
   "mirror_url": null,
@@ -99,15 +100,15 @@
       "color": "#e34c26"
     },
     "JavaScript": {
-      "bytes": 434251,
+      "bytes": 434323,
       "color": "#f1e05a"
     },
     "CSS": {
-      "bytes": 162024,
+      "bytes": 161999,
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-04T08:08:11.026Z",
+  "fetched_at": "2018-09-05T02:19:51.870Z",
   "pulls_url": "https://api.github.com/repos/minbrowser/min/pulls{/number}",
   "pulls_authors": [
     "slemony",

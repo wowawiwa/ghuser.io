@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/wikimedia/mediawiki-extensions/languages",
   "pulls_url": "https://api.github.com/repos/wikimedia/mediawiki-extensions/pulls{/number}",
   "created_at": "2012-11-01T19:03:08Z",
-  "updated_at": "2018-09-04T15:46:31Z",
-  "pushed_at": "2018-09-04T15:46:15Z",
+  "updated_at": "2018-09-05T01:54:23Z",
+  "pushed_at": "2018-09-05T01:54:08Z",
   "homepage": "https://gerrit.wikimedia.org",
-  "size": 123157,
+  "size": 123775,
   "stargazers_count": 46,
   "language": "Python",
   "mirror_url": null,
@@ -42,8 +42,8 @@
     "site_admin": false
   },
   "contributors": {
-    "translatewiki": 111238,
-    "legoktm": 4595,
+    "translatewiki": 111297,
+    "legoktm": 4596,
     "umherirrender": 3828,
     "JeroenDeDauw": 2912,
     "siebrand": 2431,
@@ -53,7 +53,7 @@
     "hashar": 1542,
     "santhoshtr": 1235,
     "Ladsgroup": 1030,
-    "Nikerabbit": 950,
+    "Nikerabbit": 951,
     "thiemowmde": 915,
     "addshore": 913,
     "atdt": 905,
@@ -84,7 +84,7 @@
     "DanweDE": 457,
     "FlorianSW": 435,
     "raymondde": 424,
-    "MatmaRex": 419,
+    "MatmaRex": 420,
     "physikerwelt": 404,
     "zeljkofilipin": 386,
     "brightbyte": 371,
@@ -93,7 +93,7 @@
     "MarkTraceur": 338,
     "tgr": 312,
     "awjrichards-zz": 272,
-    "MarcoAurelioWM": 277,
+    "MarcoAurelioWM": 283,
     "lucaswerkmeister": 248,
     "Jayprakash-SE": 239,
     "pastakhov": 230,
@@ -172,7 +172,7 @@
     "Benestar": 50,
     "Granjow": 48,
     "Parent5446": 48,
-    "polishdeveloper": 47,
+    "polishdeveloper": 48,
     "BorderCloud": 46,
     "soulgalore": 45,
     "Pchelolo": 47,
@@ -272,7 +272,7 @@
     "OmkarJ14": 12,
     "DatGuy1": 12,
     "se4598": 12,
-    "Trey314159": 13,
+    "Trey314159": 14,
     "20after4": 12,
     "jatinmehta": 12,
     "tzhelyazkova": 12,
@@ -326,5 +326,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-04T16:02:03.768Z"
+  "fetched_at": "2018-09-05T02:22:25.892Z"
 }

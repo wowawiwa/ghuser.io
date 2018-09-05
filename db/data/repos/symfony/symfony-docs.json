@@ -99,7 +99,7 @@
     "fabpot": 680,
     "xabbuh": 2491,
     "wouterj": 2078,
-    "javiereguiluz": 2943,
+    "javiereguiluz": 2949,
     "weaverryan": 6389,
     "matthieu88160": 11,
     "lex111": 10,
@@ -408,7 +408,8 @@
     "paxyknox": 20,
     "ahinkle": 4,
     "norkunas": 5,
-    "aequasi": 3
+    "aequasi": 3,
+    "fmata": 4
   },
   "name": "symfony-docs",
   "full_name": "symfony/symfony-docs",
@@ -420,10 +421,10 @@
   "url": "https://api.github.com/repos/symfony/symfony-docs",
   "languages_url": "https://api.github.com/repos/symfony/symfony-docs/languages",
   "created_at": "2010-02-17T08:43:51Z",
-  "updated_at": "2018-09-04T11:25:19Z",
-  "pushed_at": "2018-09-04T11:48:27Z",
+  "updated_at": "2018-09-04T15:58:48Z",
+  "pushed_at": "2018-09-04T18:55:14Z",
   "homepage": "https://symfony.com/doc",
-  "size": 48818,
+  "size": 48839,
   "stargazers_count": 1479,
   "language": "PHP",
   "mirror_url": null,
@@ -488,7 +489,7 @@
       "color": "#5c7611"
     }
   },
-  "fetched_at": "2018-09-04T12:18:38.207Z",
+  "fetched_at": "2018-09-05T02:19:42.672Z",
   "pulls_url": "https://api.github.com/repos/symfony/symfony-docs/pulls{/number}",
   "pulls_authors": [
     "xabbuh",

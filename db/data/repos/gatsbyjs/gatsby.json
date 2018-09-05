@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/gatsbyjs/gatsby",
   "languages_url": "https://api.github.com/repos/gatsbyjs/gatsby/languages",
   "created_at": "2015-05-21T22:43:05Z",
-  "updated_at": "2018-09-04T15:53:50Z",
-  "pushed_at": "2018-09-04T15:28:35Z",
+  "updated_at": "2018-09-05T02:12:16Z",
+  "pushed_at": "2018-09-05T01:59:18Z",
   "homepage": "https://www.gatsbyjs.org",
-  "size": 375156,
-  "stargazers_count": 25227,
+  "size": 375288,
+  "stargazers_count": 25243,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -116,7 +116,7 @@
     "ChristopherBiscardi": 9,
     "resir014": 14,
     "szimek": 12,
-    "DSchau": 11,
+    "DSchau": 12,
     "kripod": 12,
     "dennari": 12,
     "daydream05": 12,
@@ -144,10 +144,10 @@
     "ryanditjia": 59,
     "jquense": 118,
     "fk": 182,
-    "pieh": 354,
-    "shannonbux": 159,
-    "m-allanson": 728,
-    "KyleAMathews": 4539,
+    "pieh": 358,
+    "shannonbux": 161,
+    "m-allanson": 730,
+    "KyleAMathews": 4540,
     "thebigredgeek": 7,
     "mathieudutour": 4,
     "wuweiweiwu": 5,
@@ -574,7 +574,7 @@
     "glauberfc": 1,
     "nhc": 1,
     "jamezrin": 1,
-    "web-flow": 1056,
+    "web-flow": 1058,
     "robinpyon": 1,
     "martimarkov": 1,
     "cmsbased": 1,
@@ -1090,7 +1090,7 @@
     "rrs94": 1,
     "HusseinMorsy": 1,
     "baukevanderlaan": 1,
-    "davidbailey00": 6,
+    "davidbailey00": 8,
     "rase-": 1,
     "kylecesmat": 1,
     "kartiklad": 2,
@@ -1127,11 +1127,12 @@
     "pkroyer": 1,
     "nayres": 1,
     "Jossdz": 1,
-    "nikoladev": 1
+    "nikoladev": 1,
+    "seaburrows": 1
   },
   "languages": {
     "JavaScript": {
-      "bytes": 1513369,
+      "bytes": 1514218,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -1151,7 +1152,7 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-04T15:57:51.903Z",
+  "fetched_at": "2018-09-05T02:19:15.327Z",
   "pulls_url": "https://api.github.com/repos/gatsbyjs/gatsby/pulls{/number}",
   "pulls_authors": [
     "shannonbux",
@@ -2374,6 +2375,8 @@
     "pkroyer",
     "hesamkaveh",
     "stoltzrobin",
-    "ekoeryanto"
+    "ekoeryanto",
+    "tdharmon",
+    "oltodo"
   ]
 }

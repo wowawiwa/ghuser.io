@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/hacktoberfest17/programming",
   "languages_url": "https://api.github.com/repos/hacktoberfest17/programming/languages",
   "created_at": "2017-10-15T06:02:05Z",
-  "updated_at": "2018-08-28T15:44:35Z",
-  "pushed_at": "2018-05-23T14:22:37Z",
+  "updated_at": "2018-09-04T18:30:51Z",
+  "pushed_at": "2018-08-30T06:45:46Z",
   "homepage": "https://hacktoberfest17.github.io/programming/",
   "size": 46431,
-  "stargazers_count": 244,
+  "stargazers_count": 245,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -410,7 +410,8 @@
     "suhitmajumdar": 1,
     "tushar-dtu": 1,
     "WilliamStephens": 1,
-    "llYusufll": 1
+    "llYusufll": 1,
+    "nagisahuman": 1
   },
   "languages": {
     "Java": {
@@ -586,7 +587,7 @@
       "color": "#776791"
     }
   },
-  "fetched_at": "2018-08-28T16:05:00.100Z",
+  "fetched_at": "2018-09-05T02:21:56.034Z",
   "pulls_url": "https://api.github.com/repos/hacktoberfest17/programming/pulls{/number}",
   "pulls_authors": [
     "bbbeep",
@@ -1316,6 +1317,8 @@
     "sgrG24",
     "stupidly-logical",
     "braxtonchristensen",
-    "cohnt"
+    "cohnt",
+    "aravindiiitb",
+    "mjb12"
   ]
 }

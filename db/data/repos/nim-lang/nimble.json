@@ -60,11 +60,11 @@
   "url": "https://api.github.com/repos/nim-lang/nimble",
   "languages_url": "https://api.github.com/repos/nim-lang/nimble/languages",
   "created_at": "2011-01-27T15:03:53Z",
-  "updated_at": "2018-09-04T00:14:45Z",
-  "pushed_at": "2018-09-02T19:05:34Z",
+  "updated_at": "2018-09-04T18:15:47Z",
+  "pushed_at": "2018-09-05T01:37:51Z",
   "homepage": "",
   "size": 1146,
-  "stargazers_count": 440,
+  "stargazers_count": 441,
   "language": "Nim",
   "mirror_url": null,
   "archived": false,
@@ -106,7 +106,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-04T08:08:07.422Z",
+  "fetched_at": "2018-09-05T02:19:48.470Z",
   "pulls_url": "https://api.github.com/repos/nim-lang/nimble/pulls{/number}",
   "pulls_authors": [
     "LemonBoy",

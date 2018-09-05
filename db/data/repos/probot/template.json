@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/probot/template",
   "languages_url": "https://api.github.com/repos/probot/template/languages",
   "created_at": "2017-03-12T16:48:45Z",
-  "updated_at": "2018-08-29T21:54:45Z",
+  "updated_at": "2018-09-04T22:04:53Z",
   "pushed_at": "2018-08-27T22:15:59Z",
   "homepage": "https://probot.github.io/docs/development/#generating-a-new-app",
   "size": 126,
-  "stargazers_count": 17,
+  "stargazers_count": 18,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -78,7 +78,7 @@
     "tcbyrd": 1,
     "helaili": 2
   },
-  "fetched_at": "2018-08-29T23:07:00.672Z",
+  "fetched_at": "2018-09-05T02:21:33.189Z",
   "pulls_url": "https://api.github.com/repos/probot/template/pulls{/number}",
   "pulls_authors": [
     "tcbyrd",

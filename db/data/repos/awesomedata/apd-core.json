@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/awesomedata/apd-core",
   "languages_url": "https://api.github.com/repos/awesomedata/apd-core/languages",
   "created_at": "2017-11-28T12:10:51Z",
-  "updated_at": "2018-08-31T18:20:09Z",
-  "pushed_at": "2018-08-25T17:10:39Z",
+  "updated_at": "2018-09-04T21:15:12Z",
+  "pushed_at": "2018-09-01T17:25:25Z",
   "homepage": "https://github.com/caesar0301/awesome-public-datasets",
   "size": 196,
-  "stargazers_count": 86,
+  "stargazers_count": 88,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -79,7 +79,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-01T02:49:26.284Z",
+  "fetched_at": "2018-09-05T02:23:17.133Z",
   "pulls_url": "https://api.github.com/repos/awesomedata/apd-core/pulls{/number}",
   "pulls_authors": [
     "connerturner",
@@ -131,6 +131,7 @@
     "layumi",
     "kszucs",
     "helderc",
-    "ssterrett"
+    "ssterrett",
+    "smiile8888"
   ]
 }

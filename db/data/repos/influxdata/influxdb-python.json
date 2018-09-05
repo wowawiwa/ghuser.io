@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/influxdata/influxdb-python",
   "languages_url": "https://api.github.com/repos/influxdata/influxdb-python/languages",
   "created_at": "2013-11-05T19:27:16Z",
-  "updated_at": "2018-09-04T13:09:27Z",
+  "updated_at": "2018-09-04T19:20:37Z",
   "pushed_at": "2018-08-22T17:53:11Z",
   "homepage": null,
   "size": 1017,
-  "stargazers_count": 877,
+  "stargazers_count": 878,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -155,7 +155,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-04T16:03:10.285Z",
+  "fetched_at": "2018-09-05T02:23:20.459Z",
   "pulls_url": "https://api.github.com/repos/influxdata/influxdb-python/pulls{/number}",
   "pulls_authors": [
     "testforvln",

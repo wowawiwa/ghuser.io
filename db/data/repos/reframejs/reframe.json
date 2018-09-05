@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/reframejs/reframe",
   "languages_url": "https://api.github.com/repos/reframejs/reframe/languages",
   "created_at": "2018-01-22T23:03:59Z",
-  "updated_at": "2018-09-04T15:54:32Z",
-  "pushed_at": "2018-09-04T15:54:30Z",
+  "updated_at": "2018-09-04T16:20:38Z",
+  "pushed_at": "2018-09-04T16:20:36Z",
   "homepage": "",
-  "size": 4403,
+  "size": 4505,
   "stargazers_count": 143,
   "language": "JavaScript",
   "mirror_url": null,
@@ -49,12 +49,12 @@
   "contributors": {
     "AurelienLourot": 11,
     "tdfranklin": 22,
-    "brillout": 1956,
+    "brillout": 1957,
     "yuxal": 4
   },
   "languages": {
     "JavaScript": {
-      "bytes": 286409,
+      "bytes": 286411,
       "color": "#f1e05a"
     },
     "CSS": {
@@ -66,7 +66,7 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-04T15:57:44.964Z",
+  "fetched_at": "2018-09-05T02:19:08.631Z",
   "pulls_url": "https://api.github.com/repos/reframejs/reframe/pulls{/number}",
   "pulls_authors": [
     "AurelienLourot",

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/ampproject/amphtml",
   "languages_url": "https://api.github.com/repos/ampproject/amphtml/languages",
   "created_at": "2015-09-01T22:10:53Z",
-  "updated_at": "2018-09-04T15:41:18Z",
-  "pushed_at": "2018-09-04T15:41:01Z",
+  "updated_at": "2018-09-05T02:22:03Z",
+  "pushed_at": "2018-09-05T02:19:54Z",
   "homepage": "https://www.ampproject.org",
-  "size": 495976,
-  "stargazers_count": 11940,
+  "size": 496083,
+  "stargazers_count": 11944,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -95,7 +95,7 @@
     "shawnbuso": 14,
     "tiendt": 15,
     "ericlindley-g": 18,
-    "torch2424": 21,
+    "torch2424": 22,
     "jaboc83": 18,
     "zhangsu": 22,
     "rudygalfi": 39,
@@ -104,7 +104,7 @@
     "dandv": 34,
     "jasti": 31,
     "taymonbeal": 31,
-    "alabiaga": 49,
+    "alabiaga": 51,
     "jpettitt": 41,
     "peterjosling": 40,
     "tdrl": 39,
@@ -115,7 +115,7 @@
     "renovate-bot": 64,
     "jonkeller": 61,
     "mrjoro": 67,
-    "danielrozenberg": 71,
+    "danielrozenberg": 72,
     "calebcordry": 81,
     "nainar": 90,
     "avimehta": 86,
@@ -141,10 +141,10 @@
     "aghassemi": 286,
     "choumx": 342,
     "lannka": 342,
-    "zhouyx": 334,
-    "jridgewell": 433,
+    "zhouyx": 335,
+    "jridgewell": 435,
     "rsimha": 412,
-    "erwinmombay": 706,
+    "erwinmombay": 707,
     "cramforce": 1133,
     "dvoytenko": 1120,
     "jmadler": 31,
@@ -352,7 +352,7 @@
     "cory-work": 1,
     "bantic": 1,
     "fusedreality": 1,
-    "CrystalFaith": 4,
+    "CrystalFaith": 5,
     "danbri": 1,
     "dharton": 1,
     "da2x": 1,
@@ -496,7 +496,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 12285952,
+      "bytes": 12287061,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -504,7 +504,7 @@
       "color": "#e34c26"
     },
     "CSS": {
-      "bytes": 343169,
+      "bytes": 343188,
       "color": "#563d7c"
     },
     "Python": {
@@ -528,7 +528,7 @@
       "color": "#375eab"
     }
   },
-  "fetched_at": "2018-09-04T16:02:11.949Z",
+  "fetched_at": "2018-09-05T02:22:30.242Z",
   "pulls_url": "https://api.github.com/repos/ampproject/amphtml/pulls{/number}",
   "pulls_authors": [
     "keithwrightbos",

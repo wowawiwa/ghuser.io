@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/octokit/rest.js/languages",
   "pulls_url": "https://api.github.com/repos/octokit/rest.js/pulls{/number}",
   "created_at": "2010-06-09T17:07:03Z",
-  "updated_at": "2018-09-04T15:19:19Z",
-  "pushed_at": "2018-09-04T06:54:29Z",
+  "updated_at": "2018-09-05T00:01:25Z",
+  "pushed_at": "2018-09-05T01:20:07Z",
   "homepage": "https://octokit.github.io/rest.js/",
-  "size": 5880,
+  "size": 5886,
   "stargazers_count": 2735,
   "language": "JavaScript",
   "mirror_url": null,
@@ -140,7 +140,7 @@
     "henvic": 5,
     "nojhamster": 5,
     "maxmechanic": 5,
-    "bkeepers": 8,
+    "bkeepers": 9,
     "zeke": 18,
     "rmg": 14,
     "greenkeeper[bot]": 34,
@@ -211,7 +211,8 @@
     "slavahatnuke": 1,
     "shuhrat": 1,
     "dbolkensteyn": 1,
-    "gimenete": 1
+    "gimenete": 1,
+    "BPScott": 1
   },
   "pulls_authors": [
     "gr2m",
@@ -446,7 +447,7 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 105370,
+      "bytes": 105632,
       "color": "#f1e05a"
     },
     "Smarty": {
@@ -454,9 +455,9 @@
       "color": "#ccc"
     },
     "TypeScript": {
-      "bytes": 1075,
+      "bytes": 1199,
       "color": "#2b7489"
     }
   },
-  "fetched_at": "2018-09-04T15:57:37.281Z"
+  "fetched_at": "2018-09-05T02:18:57.931Z"
 }

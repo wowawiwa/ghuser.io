@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/probot/probot.github.io",
   "languages_url": "https://api.github.com/repos/probot/probot.github.io/languages",
   "created_at": "2017-07-03T21:18:03Z",
-  "updated_at": "2018-09-03T20:49:34Z",
-  "pushed_at": "2018-09-03T20:49:31Z",
+  "updated_at": "2018-09-04T20:16:27Z",
+  "pushed_at": "2018-09-05T02:18:18Z",
   "homepage": "https://probot.github.io",
-  "size": 5212,
+  "size": 5249,
   "stargazers_count": 31,
   "language": "HTML",
   "mirror_url": null,
@@ -94,7 +94,8 @@
     "abhijeetps": 4,
     "itaditya": 3,
     "Hollywood": 5,
-    "svcastaneda": 2
+    "svcastaneda": 2,
+    "helaili": 6
   },
   "languages": {
     "HTML": {
@@ -118,7 +119,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-03T21:48:58.175Z",
+  "fetched_at": "2018-09-05T02:21:45.447Z",
   "pulls_url": "https://api.github.com/repos/probot/probot.github.io/pulls{/number}",
   "pulls_authors": [
     "abhijeetps",
@@ -175,6 +176,7 @@
     "Hollywood",
     "pverkhovskyi",
     "svcastaneda",
-    "helaili"
+    "helaili",
+    "KengoTODA"
   ]
 }
