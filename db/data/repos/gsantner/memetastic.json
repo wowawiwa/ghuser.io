@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/gsantner/memetastic/languages",
   "pulls_url": "https://api.github.com/repos/gsantner/memetastic/pulls{/number}",
   "created_at": "2017-03-12T02:32:45Z",
-  "updated_at": "2018-09-04T18:01:38Z",
-  "pushed_at": "2018-09-04T18:01:43Z",
+  "updated_at": "2018-09-05T15:02:16Z",
+  "pushed_at": "2018-09-05T15:02:14Z",
   "homepage": "",
-  "size": 23192,
+  "size": 23197,
   "stargazers_count": 93,
   "language": "Java",
   "mirror_url": null,
@@ -49,7 +49,8 @@
     "Bjornskjald": 3,
     "larjona": 4,
     "Lonami": 5,
-    "gsantner": 152
+    "gsantner": 152,
+    "mobile46": 1
   },
   "pulls_authors": [
     "kayron8",
@@ -75,7 +76,8 @@
     "freedomofkeima",
     "Bjornskjald",
     "Poussinou",
-    "pskosinski"
+    "pskosinski",
+    "mobile46"
   ],
   "languages": {
     "Java": {
@@ -83,5 +85,5 @@
       "color": "#b07219"
     }
   },
-  "fetched_at": "2018-09-05T02:24:47.636Z"
+  "fetched_at": "2018-09-05T17:08:16.241Z"
 }

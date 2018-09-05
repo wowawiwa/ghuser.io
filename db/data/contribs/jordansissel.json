@@ -1486,13 +1486,13 @@
     "elastic/curator": {
       "full_name": "elastic/curator",
       "name": "curator",
-      "stargazers_count": 2069,
-      "popularity": 4.315610621377736,
+      "stargazers_count": 2070,
+      "popularity": 4.315820567472801,
       "percentage": 0.21528525296017223,
       "maturity": 3.9506867339556755,
       "total_commits_count": 929,
       "activity": 5,
-      "total_score": 25.968986684203678,
+      "total_score": 25.969622398267635,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
