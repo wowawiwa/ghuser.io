@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/tldr-pages/tldr",
   "languages_url": "https://api.github.com/repos/tldr-pages/tldr/languages",
   "created_at": "2013-12-08T07:34:43Z",
-  "updated_at": "2018-09-06T05:19:00Z",
-  "pushed_at": "2018-09-06T06:35:48Z",
+  "updated_at": "2018-09-06T14:23:50Z",
+  "pushed_at": "2018-09-06T14:27:58Z",
   "homepage": "http://tldr-pages.github.io/",
-  "size": 3400,
-  "stargazers_count": 18348,
+  "size": 3413,
+  "stargazers_count": 18361,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -84,7 +84,7 @@
     "jitakirin": 5,
     "phillip055": 5,
     "OrBaruk": 5,
-    "mfrw": 5,
+    "mfrw": 6,
     "zdroid": 5,
     "Larry850806": 5,
     "chuanconggao": 5,
@@ -298,7 +298,7 @@
     "MrLeebo": 2,
     "Kjwon15": 2,
     "lmount": 2,
-    "MattMcFarland": 2,
+    "MattMcFarland": 1,
     "abhijit-paul": 1,
     "keune": 1,
     "oalbe": 1,
@@ -450,7 +450,7 @@
     "mterwill": 1,
     "chamini2": 1,
     "KingMob": 1,
-    "MasterOdin": 1,
+    "MasterOdin": 2,
     "prankymat": 1,
     "solarsailer": 1,
     "mandrade2": 1,
@@ -470,7 +470,8 @@
     "koskokos2": 2,
     "Xifax": 1,
     "melgu": 7,
-    "rodorgas": 2
+    "rodorgas": 2,
+    "eranharel": 1
   },
   "languages": {
     "Python": {
@@ -490,7 +491,7 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-06T06:39:38.451Z",
+  "fetched_at": "2018-09-06T17:05:10.890Z",
   "pulls_url": "https://api.github.com/repos/tldr-pages/tldr/pulls{/number}",
   "pulls_authors": [
     "mspear",

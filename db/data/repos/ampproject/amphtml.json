@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/ampproject/amphtml",
   "languages_url": "https://api.github.com/repos/ampproject/amphtml/languages",
   "created_at": "2015-09-01T22:10:53Z",
-  "updated_at": "2018-09-06T00:42:08Z",
-  "pushed_at": "2018-09-06T03:22:13Z",
+  "updated_at": "2018-09-06T13:02:15Z",
+  "pushed_at": "2018-09-06T17:05:45Z",
   "homepage": "https://www.ampproject.org",
-  "size": 496133,
-  "stargazers_count": 11945,
+  "size": 496134,
+  "stargazers_count": 11946,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -144,7 +144,7 @@
     "zhouyx": 337,
     "jridgewell": 437,
     "rsimha": 412,
-    "erwinmombay": 707,
+    "erwinmombay": 708,
     "cramforce": 1133,
     "dvoytenko": 1120,
     "jmadler": 31,
@@ -496,7 +496,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 12287853,
+      "bytes": 12287849,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -528,7 +528,7 @@
       "color": "#375eab"
     }
   },
-  "fetched_at": "2018-09-06T06:42:14.829Z",
+  "fetched_at": "2018-09-06T17:07:57.904Z",
   "pulls_url": "https://api.github.com/repos/ampproject/amphtml/pulls{/number}",
   "pulls_authors": [
     "keithwrightbos",

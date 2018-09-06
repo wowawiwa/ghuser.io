@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/biopython/biopython/languages",
   "pulls_url": "https://api.github.com/repos/biopython/biopython/pulls{/number}",
   "created_at": "2009-03-15T21:09:53Z",
-  "updated_at": "2018-09-05T15:10:16Z",
-  "pushed_at": "2018-09-05T10:26:19Z",
+  "updated_at": "2018-09-06T13:31:47Z",
+  "pushed_at": "2018-09-06T12:16:27Z",
   "homepage": "http://biopython.org/",
-  "size": 46601,
-  "stargazers_count": 1478,
+  "size": 46606,
+  "stargazers_count": 1480,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -247,7 +247,8 @@
     "pajanne": 1,
     "pfaucon": 1,
     "terrycojones": 1,
-    "zachcp": 1
+    "zachcp": 1,
+    "darcymason": 4
   },
   "pulls_authors": [
     "rtf-const",
@@ -511,7 +512,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 11819712,
+      "bytes": 11819967,
       "color": "#3572A5"
     },
     "C": {
@@ -547,5 +548,5 @@
       "color": "#ecdebe"
     }
   },
-  "fetched_at": "2018-09-05T20:18:46.241Z"
+  "fetched_at": "2018-09-06T17:06:38.032Z"
 }

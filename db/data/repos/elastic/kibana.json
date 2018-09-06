@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/elastic/kibana",
   "languages_url": "https://api.github.com/repos/elastic/kibana/languages",
   "created_at": "2013-01-26T04:00:59Z",
-  "updated_at": "2018-09-06T05:56:19Z",
-  "pushed_at": "2018-09-06T03:33:27Z",
+  "updated_at": "2018-09-06T15:39:34Z",
+  "pushed_at": "2018-09-06T16:54:01Z",
   "homepage": "https://www.elastic.co/products/kibana",
-  "size": 451748,
-  "stargazers_count": 10030,
+  "size": 451873,
+  "stargazers_count": 10033,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 18471072,
+      "bytes": 18500061,
       "color": "#f1e05a"
     },
     "TypeScript": {
-      "bytes": 934719,
+      "bytes": 960874,
       "color": "#2b7489"
     },
     "HTML": {
@@ -108,7 +108,7 @@
     "meganwalker-ibm": 4,
     "colings86": 6,
     "nik9000": 4,
-    "legrego": 10,
+    "legrego": 11,
     "mattapperson": 5,
     "jpfxgood": 5,
     "sonenko": 5,
@@ -141,7 +141,7 @@
     "PopradiArpad": 12,
     "gchaps": 23,
     "justinkambic": 18,
-    "azasypkin": 31,
+    "azasypkin": 32,
     "snide": 28,
     "jgowdyelastic": 62,
     "kkirsche": 13,
@@ -153,7 +153,7 @@
     "clintongormley": 25,
     "nyurik": 27,
     "archanid": 35,
-    "sqren": 52,
+    "sqren": 53,
     "weltenwort": 40,
     "bmcconaghy": 45,
     "jimmyjones2": 36,
@@ -343,7 +343,7 @@
     "wispxjtu": 1,
     "yershalom": 1,
     "ytzlax": 1,
-    "yankouskia": 7,
+    "yankouskia": 8,
     "ruflin": 4,
     "hendrikmuhs": 1,
     "LeanidShutau": 9,
@@ -355,7 +355,7 @@
     "dedemorton": 1,
     "sunui": 1,
     "joshdover": 3,
-    "pavel06081991": 7,
+    "pavel06081991": 8,
     "going-confetti": 1,
     "scottis": 1,
     "jasonrhodes": 5,
@@ -366,7 +366,7 @@
     "hvardhanx": 1,
     "watson": 1
   },
-  "fetched_at": "2018-09-06T06:42:27.601Z",
+  "fetched_at": "2018-09-06T17:08:12.501Z",
   "pulls_url": "https://api.github.com/repos/elastic/kibana/pulls{/number}",
   "pulls_authors": [
     "nreese",
@@ -1000,6 +1000,7 @@
     "jswidler",
     "jasonrhodes",
     "rshen91",
-    "watson"
+    "watson",
+    "Bond94g"
   ]
 }

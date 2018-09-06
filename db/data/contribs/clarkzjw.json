@@ -303,13 +303,13 @@
     "ipython-contrib/jupyter_contrib_nbextensions": {
       "full_name": "ipython-contrib/jupyter_contrib_nbextensions",
       "name": "jupyter_contrib_nbextensions",
-      "stargazers_count": 2598,
-      "popularity": 4.414527759385205,
+      "stargazers_count": 2600,
+      "popularity": 4.414862076389826,
       "percentage": 0.06031363088057901,
       "maturity": 4.210741569403716,
       "total_commits_count": 1658,
       "activity": 5,
-      "total_score": 26.69967972267596,
+      "total_score": 26.700685294993235,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

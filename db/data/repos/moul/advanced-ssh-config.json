@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/moul/advanced-ssh-config/languages",
   "pulls_url": "https://api.github.com/repos/moul/advanced-ssh-config/pulls{/number}",
   "created_at": "2011-12-25T21:15:04Z",
-  "updated_at": "2018-09-06T00:17:03Z",
-  "pushed_at": "2018-08-18T16:17:14Z",
+  "updated_at": "2018-09-06T12:05:04Z",
+  "pushed_at": "2018-09-06T12:05:05Z",
   "homepage": "",
-  "size": 22814,
+  "size": 22821,
   "stargazers_count": 1264,
   "language": "Go",
   "mirror_url": null,
@@ -46,7 +46,7 @@
     "ashmatadeen": 2,
     "stk0vrfl0w": 3,
     "QuentinPerez": 13,
-    "moul": 390
+    "moul": 393
   },
   "pulls_authors": [
     "imgbot[bot]",
@@ -75,7 +75,7 @@
   ],
   "languages": {
     "Go": {
-      "bytes": 210351,
+      "bytes": 211973,
       "color": "#375eab"
     },
     "Makefile": {
@@ -93,7 +93,11 @@
     "Shell": {
       "bytes": 305,
       "color": "#89e051"
+    },
+    "Dockerfile": {
+      "bytes": 194,
+      "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-06T06:43:15.314Z"
+  "fetched_at": "2018-09-06T17:09:00.855Z"
 }

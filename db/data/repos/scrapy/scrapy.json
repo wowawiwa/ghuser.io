@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/scrapy/scrapy/languages",
   "pulls_url": "https://api.github.com/repos/scrapy/scrapy/pulls{/number}",
   "created_at": "2010-02-22T02:01:14Z",
-  "updated_at": "2018-09-06T04:06:12Z",
-  "pushed_at": "2018-09-05T15:25:10Z",
+  "updated_at": "2018-09-06T16:06:51Z",
+  "pushed_at": "2018-09-06T14:41:03Z",
   "homepage": "https://scrapy.org",
-  "size": 16425,
-  "stargazers_count": 29026,
+  "size": 16444,
+  "stargazers_count": 29036,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -146,7 +146,7 @@
     "void": 250,
     "kmike": 554,
     "redapple": 506,
-    "dangra": 1074,
+    "dangra": 1076,
     "pablohoffman": 2148,
     "invalid-email-address": 423,
     "ahlinc": 2,
@@ -179,7 +179,7 @@
     "pencoa": 2,
     "rubenvereecken": 2,
     "dufferzafar": 2,
-    "StasDeep": 10,
+    "StasDeep": 17,
     "SudShekhar": 2,
     "thomdixon": 2,
     "AmbientLighter": 2,
@@ -900,7 +900,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 1334841,
+      "bytes": 1336183,
       "color": "#3572A5"
     },
     "HTML": {
@@ -916,5 +916,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-06T06:40:44.251Z"
+  "fetched_at": "2018-09-06T17:06:21.828Z"
 }

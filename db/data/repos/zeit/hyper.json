@@ -207,11 +207,11 @@
   "url": "https://api.github.com/repos/zeit/hyper",
   "languages_url": "https://api.github.com/repos/zeit/hyper/languages",
   "created_at": "2016-07-01T06:01:21Z",
-  "updated_at": "2018-09-06T06:15:37Z",
-  "pushed_at": "2018-08-31T14:34:48Z",
+  "updated_at": "2018-09-06T12:55:58Z",
+  "pushed_at": "2018-09-06T13:24:45Z",
   "homepage": "https://hyper.is",
   "size": 5776,
-  "stargazers_count": 25315,
+  "stargazers_count": 25317,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -261,7 +261,7 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-09-06T06:39:28.579Z",
+  "fetched_at": "2018-09-06T17:04:56.290Z",
   "pulls_url": "https://api.github.com/repos/zeit/hyper/pulls{/number}",
   "pulls_authors": [
     "pierreneter",
@@ -571,6 +571,7 @@
     "audiolion",
     "miyaokamarina",
     "hectorqin",
-    "itaisteinherz"
+    "itaisteinherz",
+    "hayer"
   ]
 }

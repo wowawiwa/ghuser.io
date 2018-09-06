@@ -271,7 +271,9 @@
     "BoFFire": 6,
     "pmanijak": 1,
     "CrafterSvK": 7,
-    "kindlyfire": 4
+    "kindlyfire": 4,
+    "Aditoo17": 3,
+    "mkmik": 1
   },
   "name": "liberapay.com",
   "full_name": "liberapay/liberapay.com",
@@ -283,11 +285,11 @@
   "url": "https://api.github.com/repos/liberapay/liberapay.com",
   "languages_url": "https://api.github.com/repos/liberapay/liberapay.com/languages",
   "created_at": "2015-05-22T14:03:52Z",
-  "updated_at": "2018-09-03T11:15:39Z",
-  "pushed_at": "2018-09-03T11:15:34Z",
+  "updated_at": "2018-09-06T12:48:12Z",
+  "pushed_at": "2018-09-04T14:26:35Z",
   "homepage": "https://liberapay.com/",
-  "size": 50349,
-  "stargazers_count": 479,
+  "size": 50425,
+  "stargazers_count": 481,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -351,7 +353,7 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-03T12:55:53.565Z",
+  "fetched_at": "2018-09-06T17:04:57.275Z",
   "pulls_url": "https://api.github.com/repos/liberapay/liberapay.com/pulls{/number}",
   "pulls_authors": [
     "jorgesumle",

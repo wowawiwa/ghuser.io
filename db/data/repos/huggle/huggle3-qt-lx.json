@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/huggle/huggle3-qt-lx/languages",
   "pulls_url": "https://api.github.com/repos/huggle/huggle3-qt-lx/pulls{/number}",
   "created_at": "2013-09-18T07:58:57Z",
-  "updated_at": "2018-09-06T04:36:56Z",
-  "pushed_at": "2018-09-04T08:59:18Z",
+  "updated_at": "2018-09-06T10:46:54Z",
+  "pushed_at": "2018-09-06T10:46:52Z",
   "homepage": "https://en.wikipedia.org/wiki/WP:HG",
-  "size": 39828,
+  "size": 39837,
   "stargazers_count": 94,
   "language": "C++",
   "mirror_url": null,
@@ -100,7 +100,7 @@
     "mynameisnotdave": 48,
     "Nikerabbit": 72,
     "translatewiki": 142,
-    "benapetr": 2693
+    "benapetr": 2696
   },
   "pulls_authors": [
     "AbelmoschusEsculentus",
@@ -162,7 +162,7 @@
   ],
   "languages": {
     "C++": {
-      "bytes": 1638479,
+      "bytes": 1639181,
       "color": "#f34b7d"
     },
     "NSIS": {
@@ -206,5 +206,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-06T06:41:55.802Z"
+  "fetched_at": "2018-09-06T17:07:39.578Z"
 }

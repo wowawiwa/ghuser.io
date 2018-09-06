@@ -10,8 +10,8 @@
   "url": "https://api.github.com/repos/brandon-rhodes/python-patterns",
   "languages_url": "https://api.github.com/repos/brandon-rhodes/python-patterns/languages",
   "created_at": "2018-01-31T14:01:37Z",
-  "updated_at": "2018-09-03T06:51:12Z",
-  "pushed_at": "2018-09-03T01:46:26Z",
+  "updated_at": "2018-09-06T16:24:30Z",
+  "pushed_at": "2018-09-06T16:24:28Z",
   "homepage": null,
   "size": 194,
   "stargazers_count": 32,
@@ -38,15 +38,15 @@
       "color": "#e34c26"
     },
     "Shell": {
-      "bytes": 397,
+      "bytes": 408,
       "color": "#89e051"
     }
   },
   "contributors": {
     "ReblochonMasque": 2,
-    "brandon-rhodes": 60
+    "brandon-rhodes": 65
   },
-  "fetched_at": "2018-09-03T12:55:27.963Z",
+  "fetched_at": "2018-09-06T17:04:29.320Z",
   "pulls_url": "https://api.github.com/repos/brandon-rhodes/python-patterns/pulls{/number}",
   "pulls_authors": [
     "ReblochonMasque"

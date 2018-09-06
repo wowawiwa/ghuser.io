@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/sirupsen/logrus/languages",
   "pulls_url": "https://api.github.com/repos/sirupsen/logrus/pulls{/number}",
   "created_at": "2013-10-16T19:08:55Z",
-  "updated_at": "2018-09-06T04:33:43Z",
-  "pushed_at": "2018-09-05T05:21:01Z",
+  "updated_at": "2018-09-06T14:59:54Z",
+  "pushed_at": "2018-09-06T12:55:24Z",
   "homepage": "",
   "size": 609,
-  "stargazers_count": 8368,
+  "stargazers_count": 8371,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -535,7 +535,8 @@
     "adams-sarah",
     "anthonybishopric",
     "pushrax",
-    "bouk"
+    "bouk",
+    "dgodd"
   ],
   "languages": {
     "Go": {
@@ -543,5 +544,5 @@
       "color": "#375eab"
     }
   },
-  "fetched_at": "2018-09-06T06:43:45.889Z"
+  "fetched_at": "2018-09-06T17:09:40.744Z"
 }
