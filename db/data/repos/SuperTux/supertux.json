@@ -1,7 +1,7 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
   "contributors": {
-    "Grumbel": 1787,
+    "Grumbel": 1791,
     "tobbi": 1097,
     "MatzeB": 672,
     "Hume2": 522,
@@ -82,10 +82,10 @@
   "url": "https://api.github.com/repos/SuperTux/supertux",
   "languages_url": "https://api.github.com/repos/SuperTux/supertux/languages",
   "created_at": "2013-11-23T21:40:12Z",
-  "updated_at": "2018-09-05T17:50:31Z",
-  "pushed_at": "2018-09-05T18:23:25Z",
+  "updated_at": "2018-09-05T20:36:32Z",
+  "pushed_at": "2018-09-05T22:14:13Z",
   "homepage": "https://supertux.org",
-  "size": 363990,
+  "size": 364001,
   "stargazers_count": 661,
   "language": "C++",
   "mirror_url": null,
@@ -120,7 +120,7 @@
   },
   "languages": {
     "C++": {
-      "bytes": 2798631,
+      "bytes": 2801074,
       "color": "#f34b7d"
     },
     "Scheme": {
@@ -128,7 +128,7 @@
       "color": "#1e4aec"
     },
     "CMake": {
-      "bytes": 82332,
+      "bytes": 82677,
       "color": "#ccc"
     },
     "C#": {
@@ -163,20 +163,20 @@
       "bytes": 1583,
       "color": "#101F1F"
     },
+    "GLSL": {
+      "bytes": 1093,
+      "color": "#ccc"
+    },
     "Ruby": {
       "bytes": 930,
       "color": "#701516"
-    },
-    "GLSL": {
-      "bytes": 527,
-      "color": "#ccc"
     },
     "Makefile": {
       "bytes": 310,
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-05T20:17:10.427Z",
+  "fetched_at": "2018-09-06T06:39:30.136Z",
   "pulls_url": "https://api.github.com/repos/SuperTux/supertux/pulls{/number}",
   "pulls_authors": [
     "g--o",

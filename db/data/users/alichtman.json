@@ -8,15 +8,15 @@
   "repos_url": "https://api.github.com/users/alichtman/repos",
   "type": "User",
   "name": "Aaron Lichtman",
-  "company": "@wayfair",
+  "company": null,
   "blog": "https://alichtman.com",
   "location": "Boston, MA",
   "email": "aaronlichtman@gmail.com",
-  "bio": "CS+Ling at UIUC. Interest in infosec. Currently working on source code plagiarism detection. I like building things.",
+  "bio": "Previously @wayfair. CS+Ling at UIUC. Interested in security. Currently working on source code plagiarism detection.",
   "created_at": "2016-07-22T15:56:09Z",
-  "updated_at": "2018-08-10T00:56:22Z",
+  "updated_at": "2018-09-06T02:39:15Z",
   "contribs": {
-    "fetched_at": "2018-09-05T19:01:12.864Z",
+    "fetched_at": "2018-09-06T06:34:19.679Z",
     "repos": [
       "shobrook/saplings",
       "jaywcjlove/awesome-mac",
@@ -80,5 +80,5 @@
     ]
   },
   "organizations": [],
-  "public_gists": 6
+  "public_gists": 7
 }

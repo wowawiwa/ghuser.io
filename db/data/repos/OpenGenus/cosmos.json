@@ -10,12 +10,12 @@
   "url": "https://api.github.com/repos/OpenGenus/cosmos",
   "languages_url": "https://api.github.com/repos/OpenGenus/cosmos/languages",
   "created_at": "2017-09-16T12:07:05Z",
-  "updated_at": "2018-09-05T18:46:15Z",
-  "pushed_at": "2018-09-05T14:09:58Z",
+  "updated_at": "2018-09-05T20:57:06Z",
+  "pushed_at": "2018-09-05T20:55:15Z",
   "homepage": "https://discourse.opengenus.org",
-  "size": 14262,
+  "size": 15814,
   "stargazers_count": 9634,
-  "language": "C++",
+  "language": "Jupyter Notebook",
   "mirror_url": null,
   "archived": false,
   "license": {
@@ -146,7 +146,7 @@
     "abdouskamel": 142,
     "arnavb": 318,
     "iattempt": 481,
-    "AdiChat": 2884,
+    "AdiChat": 2885,
     "tbhaxor": 138,
     "OkarinRintaro": 13,
     "RajatGarg97": 10,
@@ -489,16 +489,20 @@
     "lesinh97": 2,
     "sahil-nith524": 2,
     "ankit-nith524": 2,
-    "junaidnz97": 6,
+    "junaidnz97": 7,
     "sean0x42": 4
   },
   "languages": {
+    "Jupyter Notebook": {
+      "bytes": 2123341,
+      "color": "#DA5B0B"
+    },
     "C++": {
       "bytes": 1483972,
       "color": "#f34b7d"
     },
     "Python": {
-      "bytes": 518044,
+      "bytes": 523109,
       "color": "#3572A5"
     },
     "Java": {
@@ -568,10 +572,6 @@
     "Makefile": {
       "bytes": 7379,
       "color": "#427819"
-    },
-    "Jupyter Notebook": {
-      "bytes": 6439,
-      "color": "#DA5B0B"
     },
     "Brainfuck": {
       "bytes": 6165,
@@ -658,7 +658,7 @@
       "color": "#776791"
     }
   },
-  "fetched_at": "2018-09-05T20:17:57.902Z",
+  "fetched_at": "2018-09-06T06:40:11.590Z",
   "pulls_url": "https://api.github.com/repos/OpenGenus/cosmos/pulls{/number}",
   "pulls_authors": [
     "lesinh97",

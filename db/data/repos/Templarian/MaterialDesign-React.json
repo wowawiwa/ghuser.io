@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/Templarian/MaterialDesign-React/languages",
   "pulls_url": "https://api.github.com/repos/Templarian/MaterialDesign-React/pulls{/number}",
   "created_at": "2018-08-07T01:56:48Z",
-  "updated_at": "2018-08-31T05:56:01Z",
-  "pushed_at": "2018-08-30T22:57:14Z",
+  "updated_at": "2018-09-06T02:48:51Z",
+  "pushed_at": "2018-09-06T02:50:28Z",
   "homepage": null,
-  "size": 232,
+  "size": 260,
   "stargazers_count": 12,
   "language": "TypeScript",
   "mirror_url": null,
@@ -28,15 +28,16 @@
   },
   "default_branch": "master",
   "contributors": {
-    "Templarian": 59,
+    "Templarian": 65,
     "azdanov": 3
   },
   "pulls_authors": [
-    "azdanov"
+    "azdanov",
+    "Templarian"
   ],
   "languages": {
     "TypeScript": {
-      "bytes": 14276,
+      "bytes": 15564,
       "color": "#2b7489"
     },
     "JavaScript": {
@@ -44,5 +45,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-08-31T06:08:15.889Z"
+  "fetched_at": "2018-09-06T06:38:50.519Z"
 }

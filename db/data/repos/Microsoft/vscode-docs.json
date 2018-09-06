@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/Microsoft/vscode-docs/languages",
   "pulls_url": "https://api.github.com/repos/Microsoft/vscode-docs/pulls{/number}",
   "created_at": "2015-08-26T18:45:33Z",
-  "updated_at": "2018-09-05T18:43:56Z",
-  "pushed_at": "2018-09-05T18:43:54Z",
+  "updated_at": "2018-09-06T03:37:37Z",
+  "pushed_at": "2018-09-06T03:37:34Z",
   "homepage": "http://code.visualstudio.com/docs",
-  "size": 1043915,
+  "size": 1043972,
   "stargazers_count": 1495,
   "language": "CSS",
   "mirror_url": null,
@@ -111,7 +111,7 @@
     "tsalinger": 7,
     "luangong": 12,
     "RMacfarlane": 11,
-    "ahmadawais": 8,
+    "ahmadawais": 9,
     "torn4dom4n": 9,
     "Huachao": 10,
     "michelkaporin": 12,
@@ -122,7 +122,7 @@
     "danyeh": 20,
     "SofianHn": 21,
     "hexiaokai": 23,
-    "brettcannon": 25,
+    "brettcannon": 36,
     "kieferrm": 32,
     "scottaddie": 33,
     "chrmarti": 38,
@@ -139,16 +139,16 @@
     "roblourens": 137,
     "aeschli": 139,
     "sandy081": 137,
-    "kraigb": 196,
+    "kraigb": 206,
     "joaomoreno": 175,
-    "Tyriar": 196,
+    "Tyriar": 197,
     "isidorn": 227,
     "dbaeumer": 237,
     "mjbvz": 240,
     "egamma": 258,
     "bpasero": 265,
     "weinand": 283,
-    "gregvanl": 3474,
+    "gregvanl": 3477,
     "superhawk610": 2,
     "aramay": 2,
     "amitlevy21": 2,
@@ -423,7 +423,9 @@
     "DaveSprague": 1,
     "timmhayes": 1,
     "dhermes": 2,
-    "gusper": 1
+    "gusper": 1,
+    "dijonkitchen": 1,
+    "infinnie": 1
   },
   "pulls_authors": [
     "whizkydee",
@@ -891,7 +893,10 @@
     "domdomegg",
     "bdejean",
     "Matthew-Dong",
-    "gusper"
+    "gusper",
+    "infinnie",
+    "dynamicwebpaige",
+    "dijonkitchen"
   ],
   "languages": {
     "CSS": {
@@ -903,5 +908,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-05T20:16:19.439Z"
+  "fetched_at": "2018-09-06T06:38:59.213Z"
 }

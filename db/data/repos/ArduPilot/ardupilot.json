@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/ArduPilot/ardupilot/languages",
   "pulls_url": "https://api.github.com/repos/ArduPilot/ardupilot/pulls{/number}",
   "created_at": "2013-01-09T00:58:52Z",
-  "updated_at": "2018-09-05T08:59:54Z",
-  "pushed_at": "2018-09-05T12:20:45Z",
+  "updated_at": "2018-09-06T05:30:53Z",
+  "pushed_at": "2018-09-06T05:30:07Z",
   "homepage": "http://ardupilot.org/",
-  "size": 113366,
-  "stargazers_count": 3443,
+  "size": 113385,
+  "stargazers_count": 3444,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -133,7 +133,7 @@
     "OXINARF": 192,
     "amilcarlucas": 322,
     "R-Lefebvre": 327,
-    "khancyr": 379,
+    "khancyr": 380,
     "pchickey": 404,
     "lthall": 434,
     "meee1": 459,
@@ -144,10 +144,10 @@
     "magicrub": 724,
     "jason4short": 774,
     "priseborough": 920,
-    "lucasdemarchi": 1382,
-    "peterbarker": 2168,
-    "rmackay9": 5459,
-    "tridge": 10954,
+    "lucasdemarchi": 1389,
+    "peterbarker": 2171,
+    "rmackay9": 5466,
+    "tridge": 10956,
     "eskaflon": 9,
     "lekston": 9,
     "jpkh": 9,
@@ -365,7 +365,8 @@
     "TShapinsky": 1,
     "mino4macky": 1,
     "MatsumotoTakeshi": 1,
-    "acwatkins": 1
+    "acwatkins": 1,
+    "utkinpol": 2
   },
   "pulls_authors": [
     "peterbarker",
@@ -1048,15 +1049,15 @@
   ],
   "languages": {
     "C++": {
-      "bytes": 11800826,
+      "bytes": 11798779,
       "color": "#f34b7d"
     },
     "C": {
-      "bytes": 3444034,
+      "bytes": 3444036,
       "color": "#555555"
     },
     "Python": {
-      "bytes": 1079482,
+      "bytes": 1079500,
       "color": "#3572A5"
     },
     "Matlab": {
@@ -1132,5 +1133,5 @@
       "color": "#c065db"
     }
   },
-  "fetched_at": "2018-09-05T13:09:00.199Z"
+  "fetched_at": "2018-09-06T06:45:00.472Z"
 }

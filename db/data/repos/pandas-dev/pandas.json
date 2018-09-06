@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/pandas-dev/pandas",
   "languages_url": "https://api.github.com/repos/pandas-dev/pandas/languages",
   "created_at": "2010-08-24T01:37:33Z",
-  "updated_at": "2018-09-05T19:31:36Z",
-  "pushed_at": "2018-09-05T19:18:56Z",
+  "updated_at": "2018-09-06T04:27:20Z",
+  "pushed_at": "2018-09-06T04:04:04Z",
   "homepage": "http://pandas.pydata.org",
-  "size": 130137,
-  "stargazers_count": 15878,
+  "size": 130201,
+  "stargazers_count": 15883,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "Python": {
-      "bytes": 13880954,
+      "bytes": 13884440,
       "color": "#3572A5"
     },
     "HTML": {
@@ -280,7 +280,7 @@
     "gepcel": 4,
     "akosel": 4,
     "cel4": 4,
-    "h-vetinari": 12,
+    "h-vetinari": 13,
     "luzpaz": 4,
     "waitingkuo": 4,
     "wcwagner": 4,
@@ -504,7 +504,7 @@
     "soxofaan": 2,
     "NikhilKumarM": 2
   },
-  "fetched_at": "2018-09-05T20:16:28.653Z",
+  "fetched_at": "2018-09-06T06:39:05.991Z",
   "pulls_url": "https://api.github.com/repos/pandas-dev/pandas/pulls{/number}",
   "pulls_authors": [
     "WillAyd",

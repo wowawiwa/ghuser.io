@@ -34,7 +34,7 @@
     "oderwat": 3,
     "ClementJnc": 3,
     "lou15b": 3,
-    "antizealot1337": 5,
+    "antizealot1337": 6,
     "andreaferretti": 4,
     "fowlmouth": 4,
     "jxy": 5,
@@ -60,11 +60,11 @@
   "url": "https://api.github.com/repos/nim-lang/nimble",
   "languages_url": "https://api.github.com/repos/nim-lang/nimble/languages",
   "created_at": "2011-01-27T15:03:53Z",
-  "updated_at": "2018-09-05T03:18:01Z",
-  "pushed_at": "2018-09-05T01:37:51Z",
+  "updated_at": "2018-09-05T23:09:01Z",
+  "pushed_at": "2018-09-05T20:48:44Z",
   "homepage": "",
-  "size": 1146,
-  "stargazers_count": 440,
+  "size": 1085,
+  "stargazers_count": 441,
   "language": "Nim",
   "mirror_url": null,
   "archived": false,
@@ -98,7 +98,7 @@
   },
   "languages": {
     "Nim": {
-      "bytes": 208253,
+      "bytes": 208544,
       "color": "#37775b"
     },
     "Shell": {
@@ -106,7 +106,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-05T13:02:16.751Z",
+  "fetched_at": "2018-09-06T06:39:25.935Z",
   "pulls_url": "https://api.github.com/repos/nim-lang/nimble/pulls{/number}",
   "pulls_authors": [
     "LemonBoy",

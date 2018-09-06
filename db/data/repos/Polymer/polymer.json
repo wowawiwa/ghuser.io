@@ -137,7 +137,8 @@
     "salvador-barboza": 1,
     "dimon-durak": 1,
     "charlescatta": 1,
-    "simonfuhrmann": 1
+    "simonfuhrmann": 1,
+    "MatthewVi": 1
   },
   "name": "polymer",
   "full_name": "Polymer/polymer",
@@ -149,11 +150,11 @@
   "url": "https://api.github.com/repos/Polymer/polymer",
   "languages_url": "https://api.github.com/repos/Polymer/polymer/languages",
   "created_at": "2012-08-23T20:56:30Z",
-  "updated_at": "2018-09-05T19:44:57Z",
-  "pushed_at": "2018-08-31T17:40:07Z",
+  "updated_at": "2018-09-06T06:36:06Z",
+  "pushed_at": "2018-09-06T06:25:56Z",
   "homepage": "https://www.polymer-project.org/",
   "size": 27053,
-  "stargazers_count": 20141,
+  "stargazers_count": 20145,
   "language": "HTML",
   "mirror_url": null,
   "archived": false,
@@ -203,7 +204,7 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-05T20:17:15.913Z",
+  "fetched_at": "2018-09-06T06:39:34.117Z",
   "pulls_url": "https://api.github.com/repos/Polymer/polymer/pulls{/number}",
   "pulls_authors": [
     "aomarks",

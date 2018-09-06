@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/apache/spark",
   "languages_url": "https://api.github.com/repos/apache/spark/languages",
   "created_at": "2014-02-25T08:00:08Z",
-  "updated_at": "2018-09-05T19:03:23Z",
-  "pushed_at": "2018-09-05T18:59:24Z",
+  "updated_at": "2018-09-06T06:06:21Z",
+  "pushed_at": "2018-09-06T06:42:23Z",
   "homepage": null,
-  "size": 280785,
-  "stargazers_count": 18655,
+  "size": 280703,
+  "stargazers_count": 18661,
   "language": "Scala",
   "mirror_url": null,
   "archived": false,
@@ -56,7 +56,7 @@
     "yjshen": 34,
     "koeninger": 35,
     "xiajunluan": 37,
-    "gengliangwang": 60,
+    "gengliangwang": 61,
     "tejasapatil": 36,
     "jose-torres": 38,
     "andyk": 42,
@@ -99,7 +99,7 @@
     "jiangxb1987": 84,
     "woggle": 72,
     "dennybritz": 85,
-    "wangyum": 81,
+    "wangyum": 82,
     "witgo": 75,
     "karenfeng": 85,
     "davies": 80,
@@ -134,7 +134,7 @@
     "yhuai": 255,
     "marmbrus": 281,
     "yanboliang": 289,
-    "dongjoon-hyun": 304,
+    "dongjoon-hyun": 306,
     "mengxr": 342,
     "vanzin": 345,
     "viirya": 357,
@@ -144,7 +144,7 @@
     "tdas": 562,
     "zsxwing": 483,
     "JoshRosen": 511,
-    "cloud-fan": 586,
+    "cloud-fan": 587,
     "pwendell": 857,
     "mateiz": 1588,
     "rxin": 1455,
@@ -169,7 +169,7 @@
     "tnachen": 23,
     "carsonwang": 22,
     "tsudukim": 22,
-    "MaxGekk": 40,
+    "MaxGekk": 41,
     "tarekbecker": 22,
     "liyezhang556520": 22,
     "kanzhang": 20,
@@ -391,7 +391,7 @@
   },
   "languages": {
     "Scala": {
-      "bytes": 27265526,
+      "bytes": 27291172,
       "color": "#c22d40"
     },
     "Java": {
@@ -399,7 +399,7 @@
       "color": "#b07219"
     },
     "Python": {
-      "bytes": 2735344,
+      "bytes": 2735422,
       "color": "#3572A5"
     },
     "HiveQL": {
@@ -407,11 +407,11 @@
       "color": "#dce200"
     },
     "R": {
-      "bytes": 1138352,
+      "bytes": 1138726,
       "color": "#198CE7"
     },
     "Shell": {
-      "bytes": 190698,
+      "bytes": 190995,
       "color": "#89e051"
     },
     "PLpgSQL": {
@@ -451,7 +451,7 @@
       "color": "#563d7c"
     },
     "Roff": {
-      "bytes": 20555,
+      "bytes": 20561,
       "color": "#ecdebe"
     },
     "Makefile": {
@@ -471,7 +471,7 @@
       "color": "#555555"
     }
   },
-  "fetched_at": "2018-09-05T20:20:53.787Z",
+  "fetched_at": "2018-09-06T06:43:06.763Z",
   "pulls_url": "https://api.github.com/repos/apache/spark/pulls{/number}",
   "pulls_authors": [
     "techaddict",

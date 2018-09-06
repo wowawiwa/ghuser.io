@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/wei/pull",
   "languages_url": "https://api.github.com/repos/wei/pull/languages",
   "created_at": "2018-05-26T20:19:21Z",
-  "updated_at": "2018-09-02T04:55:13Z",
-  "pushed_at": "2018-09-02T04:55:13Z",
+  "updated_at": "2018-09-05T20:59:35Z",
+  "pushed_at": "2018-09-05T20:59:36Z",
   "homepage": "",
-  "size": 771,
+  "size": 851,
   "stargazers_count": 41,
   "language": "JavaScript",
   "mirror_url": null,
@@ -22,7 +22,7 @@
   "default_branch": "master",
   "contributors": {
     "jnewland": 1,
-    "depfu[bot]": 27,
+    "depfu[bot]": 28,
     "wei": 51
   },
   "languages": {
@@ -31,7 +31,7 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-02T09:41:12.411Z",
+  "fetched_at": "2018-09-06T06:45:50.335Z",
   "pulls_url": "https://api.github.com/repos/wei/pull/pulls{/number}",
   "pulls_authors": [
     "depfu[bot]",

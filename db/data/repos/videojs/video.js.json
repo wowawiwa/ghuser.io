@@ -91,7 +91,7 @@
     "BCjwhisenant": 16,
     "thijstriemstra": 16,
     "eXon": 17,
-    "OwenEdwards": 32,
+    "OwenEdwards": 33,
     "forbesjo": 35,
     "mister-ben": 43,
     "greenkeeper[bot]": 49,
@@ -326,11 +326,11 @@
   "url": "https://api.github.com/repos/videojs/video.js",
   "languages_url": "https://api.github.com/repos/videojs/video.js/languages",
   "created_at": "2010-05-14T18:45:10Z",
-  "updated_at": "2018-09-05T18:26:15Z",
-  "pushed_at": "2018-09-05T00:05:24Z",
+  "updated_at": "2018-09-06T06:17:43Z",
+  "pushed_at": "2018-09-06T06:36:59Z",
   "homepage": "www.videojs.com",
-  "size": 118204,
-  "stargazers_count": 22405,
+  "size": 118021,
+  "stargazers_count": 22408,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -380,7 +380,7 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-05T20:17:21.404Z",
+  "fetched_at": "2018-09-06T06:39:37.550Z",
   "pulls_url": "https://api.github.com/repos/videojs/video.js/pulls{/number}",
   "pulls_authors": [
     "greenkeeper[bot]",

@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/crazy-max/git-rewrite-author",
   "languages_url": "https://api.github.com/repos/crazy-max/git-rewrite-author/languages",
   "created_at": "2017-11-11T13:07:31Z",
-  "updated_at": "2018-07-06T11:42:42Z",
-  "pushed_at": "2018-06-06T19:44:38Z",
+  "updated_at": "2018-09-06T02:56:20Z",
+  "pushed_at": "2018-09-06T03:03:28Z",
   "homepage": "",
-  "size": 75,
+  "size": 82,
   "stargazers_count": 16,
   "language": "Go",
   "mirror_url": null,
@@ -27,15 +27,19 @@
   },
   "default_branch": "master",
   "contributors": {
-    "crazy-max": 14
+    "crazy-max": 19
   },
   "languages": {
     "Go": {
       "bytes": 14998,
       "color": "#375eab"
+    },
+    "AMPL": {
+      "bytes": 191,
+      "color": "#E6EFBB"
     }
   },
-  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "fetched_at": "2018-09-06T06:39:53.419Z",
   "pulls_url": "https://api.github.com/repos/crazy-max/git-rewrite-author/pulls{/number}",
   "pulls_authors": []
 }

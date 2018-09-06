@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/serverless/serverless/languages",
   "pulls_url": "https://api.github.com/repos/serverless/serverless/pulls{/number}",
   "created_at": "2015-04-21T03:48:40Z",
-  "updated_at": "2018-09-05T17:42:13Z",
-  "pushed_at": "2018-09-05T15:17:42Z",
+  "updated_at": "2018-09-06T06:28:56Z",
+  "pushed_at": "2018-09-05T21:20:38Z",
   "homepage": "https://serverless.com",
   "size": 79529,
-  "stargazers_count": 25382,
+  "stargazers_count": 25390,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -1104,7 +1104,8 @@
     "danielrbradley",
     "shanehandley",
     "abbasdgr8",
-    "mrrobot-anonymous"
+    "mrrobot-anonymous",
+    "andriyor"
   ],
   "languages": {
     "JavaScript": {
@@ -1180,5 +1181,5 @@
       "color": "#4F5D95"
     }
   },
-  "fetched_at": "2018-09-05T20:15:30.083Z"
+  "fetched_at": "2018-09-06T06:38:15.444Z"
 }

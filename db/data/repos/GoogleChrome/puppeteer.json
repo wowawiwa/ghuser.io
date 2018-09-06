@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/GoogleChrome/puppeteer/languages",
   "pulls_url": "https://api.github.com/repos/GoogleChrome/puppeteer/pulls{/number}",
   "created_at": "2017-05-09T22:16:13Z",
-  "updated_at": "2018-09-05T20:03:29Z",
-  "pushed_at": "2018-09-05T20:03:25Z",
+  "updated_at": "2018-09-06T06:23:03Z",
+  "pushed_at": "2018-09-06T04:34:20Z",
   "homepage": "https://pptr.dev",
-  "size": 4405,
-  "stargazers_count": 37691,
+  "size": 4371,
+  "stargazers_count": 37706,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -147,7 +147,7 @@
     "pavelfeldman": 27,
     "ebidel": 49,
     "JoelEinbinder": 164,
-    "aslushnikov": 588,
+    "aslushnikov": 590,
     "atabel": 1,
     "Veligura": 1,
     "MountainDrew": 1,
@@ -483,7 +483,7 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 639535,
+      "bytes": 641476,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -495,5 +495,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-05T20:15:25.742Z"
+  "fetched_at": "2018-09-06T06:38:10.617Z"
 }

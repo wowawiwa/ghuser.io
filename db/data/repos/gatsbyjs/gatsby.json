@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/gatsbyjs/gatsby",
   "languages_url": "https://api.github.com/repos/gatsbyjs/gatsby/languages",
   "created_at": "2015-05-21T22:43:05Z",
-  "updated_at": "2018-09-05T19:35:35Z",
-  "pushed_at": "2018-09-05T19:50:01Z",
+  "updated_at": "2018-09-06T06:28:32Z",
+  "pushed_at": "2018-09-06T06:00:28Z",
   "homepage": "https://www.gatsbyjs.org",
-  "size": 420853,
-  "stargazers_count": 25267,
+  "size": 420905,
+  "stargazers_count": 25282,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -144,10 +144,10 @@
     "ryanditjia": 59,
     "jquense": 119,
     "fk": 182,
-    "pieh": 365,
+    "pieh": 367,
     "shannonbux": 161,
     "m-allanson": 740,
-    "KyleAMathews": 4540,
+    "KyleAMathews": 4547,
     "thebigredgeek": 7,
     "mathieudutour": 4,
     "wuweiweiwu": 5,
@@ -574,7 +574,7 @@
     "glauberfc": 1,
     "nhc": 1,
     "jamezrin": 1,
-    "web-flow": 1058,
+    "web-flow": 1060,
     "robinpyon": 1,
     "martimarkov": 1,
     "cmsbased": 1,
@@ -781,7 +781,7 @@
     "randomchars": 1,
     "frikille": 1,
     "paulathevalley": 1,
-    "vitorebatista": 1,
+    "vitorebatista": 2,
     "nico29": 1,
     "michelemazzucco": 1,
     "lourd": 1,
@@ -1133,11 +1133,12 @@
     "roachnt": 1,
     "kakadiadarpan": 1,
     "tdharmon": 1,
-    "oltodo": 1
+    "oltodo": 1,
+    "geddski": 1
   },
   "languages": {
     "JavaScript": {
-      "bytes": 1525053,
+      "bytes": 1524602,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -1157,7 +1158,7 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-05T20:16:09.978Z",
+  "fetched_at": "2018-09-06T06:38:50.444Z",
   "pulls_url": "https://api.github.com/repos/gatsbyjs/gatsby/pulls{/number}",
   "pulls_authors": [
     "shannonbux",
@@ -2384,6 +2385,8 @@
     "tdharmon",
     "oltodo",
     "kakadiadarpan",
-    "geddski"
+    "geddski",
+    "eLod",
+    "paulcoyle"
   ]
 }

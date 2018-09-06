@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/fossasia/codeheat.org/languages",
   "pulls_url": "https://api.github.com/repos/fossasia/codeheat.org/pulls{/number}",
   "created_at": "2016-09-15T13:52:39Z",
-  "updated_at": "2018-09-05T07:21:58Z",
-  "pushed_at": "2018-04-13T01:26:12Z",
+  "updated_at": "2018-09-06T04:35:26Z",
+  "pushed_at": "2018-09-06T04:35:25Z",
   "homepage": "",
-  "size": 27409,
+  "size": 27421,
   "stargazers_count": 428,
   "language": "CSS",
   "mirror_url": null,
@@ -183,7 +183,7 @@
       "color": "#4F5D95"
     },
     "HTML": {
-      "bytes": 177381,
+      "bytes": 159371,
       "color": "#e34c26"
     },
     "JavaScript": {
@@ -191,5 +191,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-05T13:01:09.214Z"
+  "fetched_at": "2018-09-06T06:38:33.860Z"
 }

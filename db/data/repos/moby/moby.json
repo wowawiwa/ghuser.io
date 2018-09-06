@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/moby/moby",
   "languages_url": "https://api.github.com/repos/moby/moby/languages",
   "created_at": "2013-01-18T18:10:57Z",
-  "updated_at": "2018-09-05T20:09:36Z",
-  "pushed_at": "2018-09-05T12:54:38Z",
+  "updated_at": "2018-09-06T06:35:36Z",
+  "pushed_at": "2018-09-06T05:03:18Z",
   "homepage": "https://mobyproject.org/",
   "size": 138288,
-  "stargazers_count": 50213,
+  "stargazers_count": 50218,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -541,7 +541,7 @@
     "RenaudWasTaken": 5,
     "boaz1337": 35
   },
-  "fetched_at": "2018-09-05T20:16:29.658Z",
+  "fetched_at": "2018-09-06T06:39:06.994Z",
   "pulls_url": "https://api.github.com/repos/moby/moby/pulls{/number}",
   "pulls_authors": [
     "dperny",

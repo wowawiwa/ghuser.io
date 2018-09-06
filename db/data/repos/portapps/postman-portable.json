@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/portapps/postman-portable",
   "languages_url": "https://api.github.com/repos/portapps/postman-portable/languages",
   "created_at": "2018-03-07T01:11:21Z",
-  "updated_at": "2018-09-04T13:03:46Z",
-  "pushed_at": "2018-08-11T13:40:41Z",
+  "updated_at": "2018-09-06T00:28:54Z",
+  "pushed_at": "2018-09-06T00:28:52Z",
   "homepage": "https://portapps.github.io/app/postman-portable",
-  "size": 78,
+  "size": 81,
   "stargazers_count": 15,
   "language": "Go",
   "mirror_url": null,
@@ -47,7 +47,7 @@
     "site_admin": false
   },
   "contributors": {
-    "crazy-max": 16
+    "crazy-max": 19
   },
   "languages": {
     "Go": {
@@ -55,7 +55,7 @@
       "color": "#375eab"
     }
   },
-  "fetched_at": "2018-09-04T15:59:07.197Z",
+  "fetched_at": "2018-09-06T06:39:51.418Z",
   "pulls_url": "https://api.github.com/repos/portapps/postman-portable/pulls{/number}",
   "pulls_authors": []
 }

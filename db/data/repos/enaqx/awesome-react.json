@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/enaqx/awesome-react",
   "languages_url": "https://api.github.com/repos/enaqx/awesome-react/languages",
   "created_at": "2014-08-06T05:31:44Z",
-  "updated_at": "2018-09-05T20:02:18Z",
-  "pushed_at": "2018-09-05T14:56:11Z",
+  "updated_at": "2018-09-06T06:31:05Z",
+  "pushed_at": "2018-09-05T21:41:30Z",
   "homepage": "",
-  "size": 2064,
-  "stargazers_count": 27495,
+  "size": 2102,
+  "stargazers_count": 27502,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -460,10 +460,11 @@
     "rakshitsoral": 1,
     "MatthewVi": 1,
     "nicmosc": 2,
-    "fckt": 1
+    "fckt": 1,
+    "douglasjunior": 1
   },
   "languages": {},
-  "fetched_at": "2018-09-05T20:16:41.514Z",
+  "fetched_at": "2018-09-06T06:39:14.739Z",
   "pulls_url": "https://api.github.com/repos/enaqx/awesome-react/pulls{/number}",
   "pulls_authors": [
     "VovanR",
@@ -1073,6 +1074,7 @@
     "SarahDunlap",
     "rakshitsoral",
     "nicmosc",
-    "ekros"
+    "ekros",
+    "douglasjunior"
   ]
 }

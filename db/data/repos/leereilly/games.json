@@ -152,18 +152,18 @@
   "url": "https://api.github.com/repos/leereilly/games",
   "languages_url": "https://api.github.com/repos/leereilly/games/languages",
   "created_at": "2012-01-05T19:48:55Z",
-  "updated_at": "2018-09-05T19:20:20Z",
-  "pushed_at": "2018-09-05T16:32:52Z",
+  "updated_at": "2018-09-06T06:32:26Z",
+  "pushed_at": "2018-09-06T03:23:49Z",
   "homepage": "",
   "size": 510,
-  "stargazers_count": 11397,
+  "stargazers_count": 11401,
   "language": null,
   "mirror_url": null,
   "archived": false,
   "license": null,
   "default_branch": "master",
   "languages": {},
-  "fetched_at": "2018-09-05T20:17:09.980Z",
+  "fetched_at": "2018-09-06T06:39:29.958Z",
   "pulls_url": "https://api.github.com/repos/leereilly/games/pulls{/number}",
   "pulls_authors": [
     "gkaklas",
@@ -400,6 +400,7 @@
     "jubalh",
     "oestrich",
     "Greg0",
-    "spoike"
+    "spoike",
+    "nicdnb"
   ]
 }

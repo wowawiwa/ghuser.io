@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/brandon-rhodes/homedir",
   "languages_url": "https://api.github.com/repos/brandon-rhodes/homedir/languages",
   "created_at": "2012-08-09T23:47:42Z",
-  "updated_at": "2018-09-01T15:35:19Z",
-  "pushed_at": "2018-09-01T15:35:17Z",
+  "updated_at": "2018-09-05T21:46:57Z",
+  "pushed_at": "2018-09-05T21:46:56Z",
   "homepage": null,
-  "size": 5232,
+  "size": 5239,
   "stargazers_count": 36,
   "language": "Perl 6",
   "mirror_url": null,
@@ -47,9 +47,9 @@
     }
   },
   "contributors": {
-    "brandon-rhodes": 765
+    "brandon-rhodes": 766
   },
-  "fetched_at": "2018-09-01T23:20:03.974Z",
+  "fetched_at": "2018-09-06T06:39:03.091Z",
   "pulls_url": "https://api.github.com/repos/brandon-rhodes/homedir/pulls{/number}",
   "pulls_authors": []
 }

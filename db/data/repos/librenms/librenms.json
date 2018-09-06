@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/librenms/librenms",
   "languages_url": "https://api.github.com/repos/librenms/librenms/languages",
   "created_at": "2013-10-28T01:37:13Z",
-  "updated_at": "2018-09-05T18:29:36Z",
-  "pushed_at": "2018-09-05T20:17:36Z",
+  "updated_at": "2018-09-06T02:16:22Z",
+  "pushed_at": "2018-09-06T03:23:03Z",
   "homepage": "http://www.librenms.org/",
-  "size": 134352,
+  "size": 134362,
   "stargazers_count": 1155,
   "language": "PHP",
   "mirror_url": null,
@@ -228,7 +228,7 @@
     "timdufrane": 4,
     "trick77": 4,
     "jimmycleuren": 4,
-    "filippog": 4,
+    "filippog": 3,
     "jviersel": 4,
     "Zappatron": 3,
     "XioNoX": 3,
@@ -283,7 +283,7 @@
     "cmische": 2,
     "chipgwyn": 2,
     "Nedlinin": 2,
-    "dlangille": 2,
+    "dlangille": 3,
     "dmelani": 2,
     "davehope": 2,
     "kwak27": 2,
@@ -418,7 +418,7 @@
   },
   "languages": {
     "PHP": {
-      "bytes": 6804049,
+      "bytes": 6804050,
       "color": "#4F5D95"
     },
     "JavaScript": {
@@ -462,7 +462,7 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-09-05T20:17:48.351Z",
+  "fetched_at": "2018-09-06T06:40:02.570Z",
   "pulls_url": "https://api.github.com/repos/librenms/librenms/pulls{/number}",
   "pulls_authors": [
     "eastmane",

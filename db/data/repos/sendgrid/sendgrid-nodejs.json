@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/sendgrid/sendgrid-nodejs",
   "languages_url": "https://api.github.com/repos/sendgrid/sendgrid-nodejs/languages",
   "created_at": "2012-01-06T01:06:59Z",
-  "updated_at": "2018-09-04T20:37:08Z",
-  "pushed_at": "2018-09-04T20:37:03Z",
+  "updated_at": "2018-09-05T23:34:07Z",
+  "pushed_at": "2018-09-05T23:34:00Z",
   "homepage": "https://sendgrid.com",
-  "size": 1613,
+  "size": 1617,
   "stargazers_count": 1220,
   "language": "JavaScript",
   "mirror_url": null,
@@ -143,16 +143,17 @@
     "adamreisnz": 69,
     "partkyle": 141,
     "motdotla": 133,
-    "thinkingserious": 283,
+    "thinkingserious": 284,
     "af4ro": 2,
     "agnesjang98": 1,
     "houssem-yahiaoui": 3,
     "elbuo8": 3,
-    "aroach": 1
+    "aroach": 1,
+    "TunedMidja": 2
   },
   "languages": {
     "JavaScript": {
-      "bytes": 274394,
+      "bytes": 275782,
       "color": "#f1e05a"
     },
     "TypeScript": {
@@ -168,7 +169,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-05T02:21:38.675Z",
+  "fetched_at": "2018-09-06T06:41:22.178Z",
   "pulls_url": "https://api.github.com/repos/sendgrid/sendgrid-nodejs/pulls{/number}",
   "pulls_authors": [
     "alec-mccormick",

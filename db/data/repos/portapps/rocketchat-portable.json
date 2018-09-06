@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/portapps/rocketchat-portable",
   "languages_url": "https://api.github.com/repos/portapps/rocketchat-portable/languages",
   "created_at": "2017-11-23T22:33:00Z",
-  "updated_at": "2018-08-30T23:25:11Z",
-  "pushed_at": "2018-08-30T23:39:00Z",
+  "updated_at": "2018-09-06T00:29:04Z",
+  "pushed_at": "2018-09-06T00:29:03Z",
   "homepage": "https://portapps.github.io/app/rocketchat-portable",
-  "size": 102,
+  "size": 104,
   "stargazers_count": 2,
   "language": "Go",
   "mirror_url": null,
@@ -47,7 +47,7 @@
     "site_admin": false
   },
   "contributors": {
-    "crazy-max": 28
+    "crazy-max": 30
   },
   "languages": {
     "Go": {
@@ -55,7 +55,7 @@
       "color": "#375eab"
     }
   },
-  "fetched_at": "2018-08-31T06:09:09.959Z",
+  "fetched_at": "2018-09-06T06:39:52.616Z",
   "pulls_url": "https://api.github.com/repos/portapps/rocketchat-portable/pulls{/number}",
   "pulls_authors": []
 }

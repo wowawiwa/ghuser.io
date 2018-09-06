@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/wip/app",
   "languages_url": "https://api.github.com/repos/wip/app/languages",
   "created_at": "2017-06-30T21:22:36Z",
-  "updated_at": "2018-09-05T13:04:51Z",
-  "pushed_at": "2018-08-30T07:59:39Z",
+  "updated_at": "2018-09-06T01:30:57Z",
+  "pushed_at": "2018-09-05T21:09:54Z",
   "homepage": "https://github.com/apps/wip",
   "size": 1694,
-  "stargazers_count": 286,
+  "stargazers_count": 288,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -73,7 +73,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-05T17:00:51.213Z",
+  "fetched_at": "2018-09-06T06:38:33.762Z",
   "pulls_url": "https://api.github.com/repos/wip/app/pulls{/number}",
   "pulls_authors": [
     "zeke",

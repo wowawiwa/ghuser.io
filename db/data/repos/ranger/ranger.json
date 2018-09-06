@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/ranger/ranger/languages",
   "pulls_url": "https://api.github.com/repos/ranger/ranger/pulls{/number}",
   "created_at": "2009-06-04T06:41:11Z",
-  "updated_at": "2018-09-05T20:07:58Z",
-  "pushed_at": "2018-09-02T13:57:50Z",
+  "updated_at": "2018-09-06T05:20:42Z",
+  "pushed_at": "2018-09-06T03:42:15Z",
   "homepage": "https://ranger.github.io/",
-  "size": 8236,
-  "stargazers_count": 4062,
+  "size": 8220,
+  "stargazers_count": 4064,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -136,7 +136,7 @@
     "kattrali": 6,
     "gwash": 6,
     "ssh0": 7,
-    "Zaeph": 8,
+    "Zaeph": 11,
     "mark-dawn": 9,
     "randynobx": 9,
     "charignon": 10,
@@ -145,7 +145,7 @@
     "mrogalski": 20,
     "aroig": 21,
     "toonn": 64,
-    "Vifon": 128,
+    "Vifon": 129,
     "nfnty": 241,
     "hut": 2890,
     "Ablesius": 1,
@@ -329,5 +329,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-05T20:18:31.101Z"
+  "fetched_at": "2018-09-06T06:40:43.335Z"
 }

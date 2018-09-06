@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/facebook/react",
   "languages_url": "https://api.github.com/repos/facebook/react/languages",
   "created_at": "2013-05-24T16:15:54Z",
-  "updated_at": "2018-09-05T20:01:01Z",
-  "pushed_at": "2018-09-05T20:10:28Z",
+  "updated_at": "2018-09-06T06:37:09Z",
+  "pushed_at": "2018-09-06T04:20:45Z",
   "homepage": "https://reactjs.org",
-  "size": 138089,
-  "stargazers_count": 110476,
+  "size": 138097,
+  "stargazers_count": 110512,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -141,7 +141,7 @@
     "vjeux": 207,
     "chenglou": 222,
     "petehunt": 332,
-    "bvaughn": 295,
+    "bvaughn": 296,
     "acdlite": 444,
     "sebmarkbage": 645,
     "zpao": 1776,
@@ -510,11 +510,12 @@
     "getaaron": 1,
     "ryota-murakami": 2,
     "mgol": 2,
-    "gebilaoxiong": 2
+    "gebilaoxiong": 2,
+    "alexmckenley": 1
   },
   "languages": {
     "JavaScript": {
-      "bytes": 2149067,
+      "bytes": 2151875,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -554,7 +555,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-05T20:16:41.733Z",
+  "fetched_at": "2018-09-06T06:39:14.922Z",
   "pulls_url": "https://api.github.com/repos/facebook/react/pulls{/number}",
   "pulls_authors": [
     "gaearon",
@@ -2615,6 +2616,7 @@
     "juggernaut451",
     "ovidiubute",
     "mgol",
-    "Ephem"
+    "Ephem",
+    "alexmckenley"
   ]
 }
