@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/nodejs/node",
   "languages_url": "https://api.github.com/repos/nodejs/node/languages",
   "created_at": "2014-11-26T19:57:11Z",
-  "updated_at": "2018-09-07T03:35:05Z",
-  "pushed_at": "2018-09-07T02:50:50Z",
+  "updated_at": "2018-09-07T10:50:59Z",
+  "pushed_at": "2018-09-07T11:09:30Z",
   "homepage": "https://nodejs.org",
-  "size": 407359,
-  "stargazers_count": 53047,
+  "size": 407356,
+  "stargazers_count": 53068,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 6843204,
+      "bytes": 6843178,
       "color": "#f1e05a"
     },
     "C++": {
-      "bytes": 2530166,
+      "bytes": 2530150,
       "color": "#f34b7d"
     },
     "Python": {
@@ -159,7 +159,7 @@
     "gabrielschulhof": 62,
     "yorkie": 57,
     "mmalecki": 58,
-    "mcollina": 63,
+    "mcollina": 64,
     "bzoz": 64,
     "lpinca": 63,
     "JacksonTian": 68,
@@ -169,8 +169,8 @@
     "santigimeno": 84,
     "silverwind": 89,
     "refack": 98,
-    "AndreasMadsen": 103,
-    "tniessen": 132,
+    "AndreasMadsen": 104,
+    "tniessen": 133,
     "ofrobots": 119,
     "mhdawson": 123,
     "felixge": 124,
@@ -184,7 +184,7 @@
     "apapirovski": 193,
     "TooTallNate": 197,
     "joyeecheung": 232,
-    "targos": 295,
+    "targos": 296,
     "vsemozhetbyt": 282,
     "tjfontaine": 332,
     "BridgeAR": 351,
@@ -195,7 +195,7 @@
     "cjihrig": 400,
     "jasnell": 531,
     "piscisaureus": 598,
-    "addaleax": 696,
+    "addaleax": 697,
     "indutny": 755,
     "Trott": 1336,
     "isaacs": 1647,
@@ -392,7 +392,7 @@
     "langpavel": 4,
     "wzoom": 4,
     "pvsousalima": 4,
-    "psmarshall": 6,
+    "psmarshall": 7,
     "hekike": 4,
     "robertchiras": 4,
     "him2him2": 4,
@@ -575,7 +575,7 @@
     "Maledong": 8,
     "TomCoded": 3
   },
-  "fetched_at": "2018-09-07T03:35:28.336Z",
+  "fetched_at": "2018-09-07T11:26:32.889Z",
   "pulls_url": "https://api.github.com/repos/nodejs/node/pulls{/number}",
   "pulls_authors": [
     "mmarchini",
@@ -2800,6 +2800,8 @@
     "muhammadsaud-10p",
     "kushalmahajan",
     "Hariss096",
-    "kyliau"
+    "kyliau",
+    "chakravarthysm",
+    "iliashkolyar"
   ]
 }

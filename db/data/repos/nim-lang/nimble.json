@@ -44,7 +44,7 @@
     "subsetpark": 7,
     "samdmarshall": 9,
     "yglukhov": 12,
-    "Araq": 27,
+    "Araq": 28,
     "gradha": 30,
     "dom96": 388,
     "LemonBoy": 1,
@@ -60,10 +60,10 @@
   "url": "https://api.github.com/repos/nim-lang/nimble",
   "languages_url": "https://api.github.com/repos/nim-lang/nimble/languages",
   "created_at": "2011-01-27T15:03:53Z",
-  "updated_at": "2018-09-06T07:16:02Z",
-  "pushed_at": "2018-09-05T20:48:44Z",
+  "updated_at": "2018-09-07T07:19:21Z",
+  "pushed_at": "2018-09-07T07:19:20Z",
   "homepage": "",
-  "size": 1085,
+  "size": 1087,
   "stargazers_count": 442,
   "language": "Nim",
   "mirror_url": null,
@@ -98,7 +98,7 @@
   },
   "languages": {
     "Nim": {
-      "bytes": 208544,
+      "bytes": 209406,
       "color": "#37775b"
     },
     "Shell": {
@@ -106,7 +106,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-06T17:04:53.094Z",
+  "fetched_at": "2018-09-07T11:20:41.603Z",
   "pulls_url": "https://api.github.com/repos/nim-lang/nimble/pulls{/number}",
   "pulls_authors": [
     "LemonBoy",

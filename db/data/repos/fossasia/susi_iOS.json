@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/fossasia/susi_iOS/languages",
   "pulls_url": "https://api.github.com/repos/fossasia/susi_iOS/pulls{/number}",
   "created_at": "2017-03-14T16:27:02Z",
-  "updated_at": "2018-09-06T11:41:45Z",
-  "pushed_at": "2018-09-02T19:26:49Z",
+  "updated_at": "2018-09-07T08:34:03Z",
+  "pushed_at": "2018-09-07T09:21:24Z",
   "homepage": "",
   "size": 12125,
-  "stargazers_count": 597,
+  "stargazers_count": 598,
   "language": "Swift",
   "mirror_url": null,
   "archived": false,
@@ -65,7 +65,8 @@
     "DShivansh": 3,
     "SIMRAN1": 4,
     "imjog": 59,
-    "chashmeetsingh": 88
+    "chashmeetsingh": 88,
+    "jogendra": 59
   },
   "pulls_authors": [
     "hashah88",
@@ -87,7 +88,8 @@
     "chiragw15",
     "madhavrathi",
     "codacy-badger",
-    "gitter-badger"
+    "gitter-badger",
+    "jogendra"
   ],
   "languages": {
     "Swift": {
@@ -119,5 +121,5 @@
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-09-06T17:06:39.891Z"
+  "fetched_at": "2018-09-07T11:22:27.120Z"
 }

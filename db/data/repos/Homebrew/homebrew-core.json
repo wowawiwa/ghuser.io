@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/Homebrew/homebrew-core/languages",
   "pulls_url": "https://api.github.com/repos/Homebrew/homebrew-core/pulls{/number}",
   "created_at": "2016-03-01T06:58:36Z",
-  "updated_at": "2018-09-07T03:34:31Z",
-  "pushed_at": "2018-09-07T03:31:19Z",
+  "updated_at": "2018-09-07T10:16:29Z",
+  "pushed_at": "2018-09-07T11:07:26Z",
   "homepage": "https://brew.sh",
-  "size": 202439,
-  "stargazers_count": 4221,
+  "size": 202449,
+  "stargazers_count": 4226,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -48,20 +48,20 @@
     "site_admin": false
   },
   "contributors": {
-    "BrewTestBot": 46673,
+    "BrewTestBot": 46682,
     "ilovezfs": 16338,
     "adamv": 4692,
     "jacknagel": 4476,
-    "DomT4": 3420,
+    "DomT4": 3430,
     "MikeMcQuaid": 3406,
     "asparagui": 2056,
     "vszakats": 2028,
     "tschoonj": 1067,
-    "fxcoudert": 1025,
+    "fxcoudert": 1026,
     "nijikon": 888,
     "mistydemeo": 880,
     "bfontaine": 875,
-    "commitay": 832,
+    "commitay": 833,
     "zmwangx": 791,
     "xu-cheng": 772,
     "dunn": 699,
@@ -3889,7 +3889,7 @@
   ],
   "languages": {
     "Ruby": {
-      "bytes": 8369036,
+      "bytes": 8369333,
       "color": "#701516"
     },
     "Perl": {
@@ -3897,5 +3897,5 @@
       "color": "#0298c3"
     }
   },
-  "fetched_at": "2018-09-07T03:34:37.142Z"
+  "fetched_at": "2018-09-07T11:25:18.156Z"
 }

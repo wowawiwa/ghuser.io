@@ -1,0 +1,74 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hs-to-coq",
+  "full_name": "antalsz/hs-to-coq",
+  "owner": "antalsz",
+  "private": false,
+  "html_url": "https://github.com/antalsz/hs-to-coq",
+  "description": "Convert Haskell source code to Coq source code",
+  "fork": false,
+  "url": "https://api.github.com/repos/antalsz/hs-to-coq",
+  "languages_url": "https://api.github.com/repos/antalsz/hs-to-coq/languages",
+  "pulls_url": "https://api.github.com/repos/antalsz/hs-to-coq/pulls{/number}",
+  "created_at": "2017-03-23T20:03:34Z",
+  "updated_at": "2018-09-06T19:35:45Z",
+  "pushed_at": "2018-09-06T19:35:43Z",
+  "homepage": "https://deepspec.org/entry/Project/Haskell+CoreSpec",
+  "size": 9085,
+  "stargazers_count": 178,
+  "language": "Coq",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "abailly": 1,
+    "liyishuai": 1,
+    "samuelgruetter": 8,
+    "jwiegley": 21,
+    "crizkallah": 30,
+    "lastland": 127,
+    "antalsz": 335,
+    "sweirich": 444,
+    "nomeata": 1208
+  },
+  "pulls_authors": [
+    "jwiegley",
+    "abailly",
+    "lastland",
+    "liyishuai"
+  ],
+  "languages": {
+    "Coq": {
+      "bytes": 783153,
+      "color": "#ccc"
+    },
+    "Haskell": {
+      "bytes": 455999,
+      "color": "#5e5086"
+    },
+    "Makefile": {
+      "bytes": 52897,
+      "color": "#427819"
+    },
+    "Yacc": {
+      "bytes": 18544,
+      "color": "#4B6C4B"
+    },
+    "Perl": {
+      "bytes": 897,
+      "color": "#0298c3"
+    },
+    "Nix": {
+      "bytes": 535,
+      "color": "#7e7eff"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:00.329Z"
+}

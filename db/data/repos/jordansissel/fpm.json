@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/jordansissel/fpm",
   "languages_url": "https://api.github.com/repos/jordansissel/fpm/languages",
   "created_at": "2011-01-03T20:07:59Z",
-  "updated_at": "2018-09-06T15:30:36Z",
+  "updated_at": "2018-09-07T07:25:32Z",
   "pushed_at": "2018-09-04T11:49:22Z",
   "homepage": "http://fpm.readthedocs.io/en/latest/",
   "size": 2462,
-  "stargazers_count": 8687,
+  "stargazers_count": 8690,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -281,7 +281,7 @@
     "vbakayev": 1,
     "yanca018": 1
   },
-  "fetched_at": "2018-09-06T17:07:58.889Z",
+  "fetched_at": "2018-09-07T11:23:55.936Z",
   "pulls_url": "https://api.github.com/repos/jordansissel/fpm/pulls{/number}",
   "pulls_authors": [
     "thedrow",

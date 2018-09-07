@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/logstash-plugins/logstash-patterns-core",
   "languages_url": "https://api.github.com/repos/logstash-plugins/logstash-patterns-core/languages",
   "created_at": "2014-11-02T21:40:40Z",
-  "updated_at": "2018-09-06T15:46:05Z",
+  "updated_at": "2018-09-07T07:08:07Z",
   "pushed_at": "2018-07-20T21:59:27Z",
   "homepage": null,
   "size": 159,
-  "stargazers_count": 1051,
+  "stargazers_count": 1052,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -106,7 +106,7 @@
     "geogdog": 6,
     "ph": 30
   },
-  "fetched_at": "2018-09-06T17:08:12.309Z",
+  "fetched_at": "2018-09-07T11:24:09.202Z",
   "pulls_url": "https://api.github.com/repos/logstash-plugins/logstash-patterns-core/pulls{/number}",
   "pulls_authors": [
     "mikebd",

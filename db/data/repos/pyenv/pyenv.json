@@ -199,7 +199,8 @@
     "takeru": 1,
     "wmoxam": 1,
     "woosley": 1,
-    "altendky": 1
+    "altendky": 1,
+    "staticskies": 1
   },
   "name": "pyenv",
   "full_name": "pyenv/pyenv",
@@ -211,11 +212,11 @@
   "url": "https://api.github.com/repos/pyenv/pyenv",
   "languages_url": "https://api.github.com/repos/pyenv/pyenv/languages",
   "created_at": "2012-08-31T06:57:52Z",
-  "updated_at": "2018-09-07T03:23:02Z",
-  "pushed_at": "2018-08-28T14:33:22Z",
+  "updated_at": "2018-09-07T10:11:34Z",
+  "pushed_at": "2018-09-07T06:58:02Z",
   "homepage": null,
   "size": 3250,
-  "stargazers_count": 12426,
+  "stargazers_count": 12428,
   "language": "Shell",
   "mirror_url": null,
   "archived": false,
@@ -269,7 +270,7 @@
       "color": "#199f4b"
     }
   },
-  "fetched_at": "2018-09-07T03:30:45.951Z",
+  "fetched_at": "2018-09-07T11:20:38.229Z",
   "pulls_url": "https://api.github.com/repos/pyenv/pyenv/pulls{/number}",
   "pulls_authors": [
     "bdowling",

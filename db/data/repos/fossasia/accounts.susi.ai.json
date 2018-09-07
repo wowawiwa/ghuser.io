@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/fossasia/accounts.susi.ai/languages",
   "pulls_url": "https://api.github.com/repos/fossasia/accounts.susi.ai/pulls{/number}",
   "created_at": "2017-06-06T07:35:51Z",
-  "updated_at": "2018-09-06T15:10:06Z",
-  "pushed_at": "2018-09-06T04:59:12Z",
+  "updated_at": "2018-09-07T08:34:10Z",
+  "pushed_at": "2018-09-07T08:44:51Z",
   "homepage": "",
-  "size": 102864,
-  "stargazers_count": 368,
+  "size": 83926,
+  "stargazers_count": 369,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -66,7 +66,7 @@
     "Akshat-Jain": 23,
     "DravitLochan": 44,
     "PrP-11": 53,
-    "fragm3": 1
+    "fragm3": 2
   },
   "pulls_authors": [
     "fragm3",
@@ -88,15 +88,16 @@
     "DravitLochan",
     "AnshulMalik",
     "rishiraj824",
-    "Laughing-Boy"
+    "Laughing-Boy",
+    "samagragupta"
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 261459,
+      "bytes": 261745,
       "color": "#f1e05a"
     },
     "CSS": {
-      "bytes": 22125,
+      "bytes": 22230,
       "color": "#563d7c"
     },
     "Shell": {
@@ -108,5 +109,5 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-06T17:03:52.391Z"
+  "fetched_at": "2018-09-07T11:19:40.410Z"
 }

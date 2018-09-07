@@ -1,0 +1,62 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "RISCV-ISA-Spec",
+  "full_name": "rsnikhil/RISCV-ISA-Spec",
+  "owner": "rsnikhil",
+  "private": false,
+  "html_url": "https://github.com/rsnikhil/RISCV-ISA-Spec",
+  "description": "Formal specification of RISC-V Instruction Set",
+  "fork": false,
+  "url": "https://api.github.com/repos/rsnikhil/RISCV-ISA-Spec",
+  "languages_url": "https://api.github.com/repos/rsnikhil/RISCV-ISA-Spec/languages",
+  "pulls_url": "https://api.github.com/repos/rsnikhil/RISCV-ISA-Spec/pulls{/number}",
+  "created_at": "2018-01-25T03:56:02Z",
+  "updated_at": "2018-09-07T03:38:53Z",
+  "pushed_at": "2018-09-06T18:52:08Z",
+  "homepage": null,
+  "size": 5813,
+  "stargazers_count": 32,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "nomeata": 4,
+    "rsnikhil": 41
+  },
+  "pulls_authors": [
+    "sweirich",
+    "polypolen",
+    "nomeata"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 394642,
+      "color": "#5e5086"
+    },
+    "C": {
+      "bytes": 10433,
+      "color": "#555555"
+    },
+    "Makefile": {
+      "bytes": 9207,
+      "color": "#427819"
+    },
+    "Python": {
+      "bytes": 5689,
+      "color": "#3572A5"
+    },
+    "Coq": {
+      "bytes": 483,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:01.441Z"
+}

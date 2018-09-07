@@ -225,26 +225,26 @@
     "Wisembly/elephant.io": {
       "full_name": "Wisembly/elephant.io",
       "name": "elephant.io",
-      "stargazers_count": 1011,
-      "popularity": 4.004403455891418,
+      "stargazers_count": 1012,
+      "popularity": 4.004833195176206,
       "percentage": 3.007518796992481,
       "maturity": 2.9706841383064435,
       "total_commits_count": 133,
-      "activity": 2.411884196618029,
-      "total_score": 21.93209426726873,
+      "activity": 5,
+      "total_score": 24.521667306872054,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "discordapp/discord-api-docs": {
       "full_name": "discordapp/discord-api-docs",
       "name": "discord-api-docs",
-      "stargazers_count": 1028,
-      "popularity": 4.011651814067139,
+      "stargazers_count": 1030,
+      "popularity": 4.0124966630558845,
       "percentage": 0.19801980198019803,
       "maturity": 3.669282285544837,
       "total_commits_count": 505,
       "activity": 5,
-      "total_score": 24.47679025800965,
+      "total_score": 24.479346553563715,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -362,6 +362,19 @@
       "total_commits_count": 1260,
       "activity": 5,
       "total_score": 21.247106359704603,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Mawi137/ngx-image-cropper": {
+      "full_name": "Mawi137/ngx-image-cropper",
+      "name": "ngx-image-cropper",
+      "stargazers_count": 127,
+      "popularity": 3.1007541442296103,
+      "percentage": 0,
+      "maturity": 2.0845073675966073,
+      "total_commits_count": 52,
+      "activity": 5,
+      "total_score": 18.471277167882047,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

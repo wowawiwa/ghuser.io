@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/keybase/client/languages",
   "pulls_url": "https://api.github.com/repos/keybase/client/pulls{/number}",
   "created_at": "2015-01-11T17:17:12Z",
-  "updated_at": "2018-09-06T22:38:58Z",
-  "pushed_at": "2018-09-07T02:21:35Z",
+  "updated_at": "2018-09-07T11:02:22Z",
+  "pushed_at": "2018-09-07T11:11:59Z",
   "homepage": "",
-  "size": 264389,
-  "stargazers_count": 4027,
+  "size": 264404,
+  "stargazers_count": 4028,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -277,5 +277,5 @@
       "color": "#EB8CEB"
     }
   },
-  "fetched_at": "2018-09-07T03:34:45.778Z"
+  "fetched_at": "2018-09-07T11:25:26.948Z"
 }

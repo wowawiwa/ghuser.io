@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/tldr-pages/tldr",
   "languages_url": "https://api.github.com/repos/tldr-pages/tldr/languages",
   "created_at": "2013-12-08T07:34:43Z",
-  "updated_at": "2018-09-07T01:56:46Z",
-  "pushed_at": "2018-09-07T00:23:49Z",
+  "updated_at": "2018-09-07T11:04:38Z",
+  "pushed_at": "2018-09-07T09:43:25Z",
   "homepage": "http://tldr-pages.github.io/",
-  "size": 3431,
-  "stargazers_count": 18368,
+  "size": 3423,
+  "stargazers_count": 18371,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -491,7 +491,7 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-07T03:31:00.632Z",
+  "fetched_at": "2018-09-07T11:20:56.198Z",
   "pulls_url": "https://api.github.com/repos/tldr-pages/tldr/pulls{/number}",
   "pulls_authors": [
     "mspear",
