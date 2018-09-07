@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/palantir/tslint/languages",
   "pulls_url": "https://api.github.com/repos/palantir/tslint/pulls{/number}",
   "created_at": "2013-07-25T22:19:18Z",
-  "updated_at": "2018-09-06T17:02:02Z",
-  "pushed_at": "2018-09-06T01:33:52Z",
+  "updated_at": "2018-09-07T02:44:15Z",
+  "pushed_at": "2018-09-06T22:55:13Z",
   "homepage": "http://palantir.github.io/tslint/",
   "size": 13704,
-  "stargazers_count": 3893,
+  "stargazers_count": 3895,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -714,7 +714,8 @@
     "michaeljota",
     "nspaeth",
     "wvankuipers",
-    "nomcopter"
+    "nomcopter",
+    "grantwwu"
   ],
   "languages": {
     "TypeScript": {
@@ -734,5 +735,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-09-06T17:04:26.221Z"
+  "fetched_at": "2018-09-07T03:30:22.963Z"
 }

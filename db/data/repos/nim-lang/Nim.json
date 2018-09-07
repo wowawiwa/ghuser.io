@@ -69,8 +69,8 @@
     "rokups": 25,
     "oprypin": 26,
     "ReneSac": 27,
-    "LemonBoy": 62,
-    "cooldome": 38,
+    "LemonBoy": 65,
+    "cooldome": 39,
     "avsej": 30,
     "Parashurama": 31,
     "nigredo-tori": 31,
@@ -366,11 +366,11 @@
   "url": "https://api.github.com/repos/nim-lang/Nim",
   "languages_url": "https://api.github.com/repos/nim-lang/Nim/languages",
   "created_at": "2010-08-16T20:38:58Z",
-  "updated_at": "2018-09-06T16:53:52Z",
-  "pushed_at": "2018-09-06T10:12:49Z",
+  "updated_at": "2018-09-07T01:24:08Z",
+  "pushed_at": "2018-09-07T02:16:27Z",
   "homepage": "https://nim-lang.org/",
-  "size": 70840,
-  "stargazers_count": 5415,
+  "size": 70916,
+  "stargazers_count": 5420,
   "language": "Nim",
   "mirror_url": null,
   "archived": false,
@@ -404,7 +404,7 @@
   },
   "languages": {
     "Nim": {
-      "bytes": 8376366,
+      "bytes": 8380271,
       "color": "#37775b"
     },
     "C": {
@@ -452,7 +452,7 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-06T17:04:54.656Z",
+  "fetched_at": "2018-09-07T03:30:48.977Z",
   "pulls_url": "https://api.github.com/repos/nim-lang/Nim/pulls{/number}",
   "pulls_authors": [
     "michael72",

@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/portapps/portapps",
   "languages_url": "https://api.github.com/repos/portapps/portapps/languages",
   "created_at": "2017-11-16T21:23:14Z",
-  "updated_at": "2018-09-01T15:52:45Z",
-  "pushed_at": "2018-09-01T15:52:43Z",
+  "updated_at": "2018-09-07T01:22:46Z",
+  "pushed_at": "2018-09-07T01:32:00Z",
   "homepage": "https://portapps.github.io",
-  "size": 107,
+  "size": 112,
   "stargazers_count": 32,
   "language": "Go",
   "mirror_url": null,
@@ -47,11 +47,11 @@
     "site_admin": false
   },
   "contributors": {
-    "crazy-max": 89
+    "crazy-max": 91
   },
   "languages": {
     "Go": {
-      "bytes": 7260,
+      "bytes": 7302,
       "color": "#375eab"
     },
     "Inno Setup": {
@@ -59,7 +59,7 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-09-01T23:20:42.134Z",
+  "fetched_at": "2018-09-07T03:31:15.080Z",
   "pulls_url": "https://api.github.com/repos/portapps/portapps/pulls{/number}",
   "pulls_authors": []
 }

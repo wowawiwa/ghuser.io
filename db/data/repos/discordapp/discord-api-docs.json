@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/discordapp/discord-api-docs/languages",
   "pulls_url": "https://api.github.com/repos/discordapp/discord-api-docs/pulls{/number}",
   "created_at": "2016-03-29T17:11:53Z",
-  "updated_at": "2018-09-06T12:24:02Z",
-  "pushed_at": "2018-09-01T00:01:40Z",
+  "updated_at": "2018-09-07T00:17:22Z",
+  "pushed_at": "2018-09-07T00:17:20Z",
   "homepage": "",
-  "size": 34543,
-  "stargazers_count": 1029,
+  "size": 34549,
+  "stargazers_count": 1028,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -141,7 +141,7 @@
     "jhgg": 31,
     "night": 46,
     "b1naryth1ef": 65,
-    "msciotti": 119,
+    "msciotti": 120,
     "advaith1": 1,
     "Bastian": 1,
     "omnilord": 1,
@@ -292,7 +292,8 @@
     "amishshah",
     "CasualSuperman",
     "WillEccles",
-    "Hornwitser"
+    "Hornwitser",
+    "Krognol"
   ],
   "languages": {
     "JavaScript": {
@@ -300,5 +301,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-06T17:11:08.577Z"
+  "fetched_at": "2018-09-07T03:36:05.017Z"
 }

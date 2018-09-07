@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/ResurrectionRemix/Resurrection_packages_apps_Settings/languages",
   "pulls_url": "https://api.github.com/repos/ResurrectionRemix/Resurrection_packages_apps_Settings/pulls{/number}",
   "created_at": "2014-02-26T13:00:14Z",
-  "updated_at": "2018-09-01T12:05:07Z",
-  "pushed_at": "2018-09-01T12:05:04Z",
+  "updated_at": "2018-09-07T00:06:18Z",
+  "pushed_at": "2018-09-07T00:06:15Z",
   "homepage": "",
-  "size": 919337,
+  "size": 919298,
   "stargazers_count": 91,
   "language": "Java",
   "mirror_url": null,
@@ -141,7 +141,7 @@
     "satok16": 136,
     "dsandler": 265,
     "hex539": 270,
-    "varund7726": 82,
+    "varund7726": 83,
     "alanv": 337,
     "sganov": 470,
     "isheriff": 418,
@@ -457,7 +457,9 @@
     "Madikan",
     "INFERNO777",
     "tanoabeleyra",
-    "the-dagger"
+    "the-dagger",
+    "PixelBoot",
+    "ArianK16a"
   ],
   "languages": {
     "Java": {
@@ -473,5 +475,5 @@
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-09-01T13:05:04.425Z"
+  "fetched_at": "2018-09-07T03:31:36.838Z"
 }

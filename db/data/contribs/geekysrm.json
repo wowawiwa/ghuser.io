@@ -4,13 +4,13 @@
     "wesbos/Syntax": {
       "full_name": "wesbos/Syntax",
       "name": "Syntax",
-      "stargazers_count": 248,
-      "popularity": 3.392911818237103,
+      "stargazers_count": 250,
+      "popularity": 3.396412800498534,
       "percentage": 0,
       "maturity": 3.1092840956183023,
       "total_commits_count": 168,
       "activity": 5,
-      "total_score": 21.397303645947915,
+      "total_score": 21.407806592732207,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -95,13 +95,13 @@
     "netlify/netlify-cms": {
       "full_name": "netlify/netlify-cms",
       "name": "netlify-cms",
-      "stargazers_count": 6220,
-      "popularity": 4.7937666281312765,
-      "percentage": 0.05521811154058531,
-      "maturity": 4.24997930382392,
-      "total_commits_count": 1811,
+      "stargazers_count": 6224,
+      "popularity": 4.794045867813965,
+      "percentage": 0.05485463521667581,
+      "maturity": 4.252911921434492,
+      "total_commits_count": 1823,
       "activity": 5,
-      "total_score": 27.915669848289987,
+      "total_score": 27.922148279158705,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

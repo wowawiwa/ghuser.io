@@ -82,7 +82,7 @@
     "daneden/animate.css": {
       "full_name": "daneden/animate.css",
       "name": "animate.css",
-      "stargazers_count": 54027,
+      "stargazers_count": 54035,
       "popularity": 5,
       "percentage": 2.6402640264026402,
       "maturity": 3.4218565080661945,
@@ -1124,11 +1124,11 @@
       "name": "ghuser.io",
       "stargazers_count": 53,
       "popularity": 2.716876736929962,
-      "percentage": 0.8016032064128257,
-      "maturity": 3.6636432339301197,
-      "total_commits_count": 499,
+      "percentage": 0.8,
+      "maturity": 3.664588175249251,
+      "total_commits_count": 500,
       "activity": 5,
-      "total_score": 20.761038102137817,
+      "total_score": 20.762361741929105,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

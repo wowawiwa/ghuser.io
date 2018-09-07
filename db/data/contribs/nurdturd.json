@@ -56,13 +56,13 @@
     "pi-hole/pi-hole": {
       "full_name": "pi-hole/pi-hole",
       "name": "pi-hole",
-      "stargazers_count": 9907,
-      "popularity": 4.995941796038893,
+      "stargazers_count": 9910,
+      "popularity": 4.99607329947634,
       "percentage": 0,
       "maturity": 4.533355669016343,
       "total_commits_count": 3441,
       "activity": 5,
-      "total_score": 29.054536726149365,
+      "total_score": 29.054931236461705,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -82,7 +82,7 @@
     "Kickball/awesome-selfhosted": {
       "full_name": "Kickball/awesome-selfhosted",
       "name": "awesome-selfhosted",
-      "stargazers_count": 25607,
+      "stargazers_count": 25617,
       "popularity": 5,
       "percentage": 0.044923629829290206,
       "maturity": 4.341406263587379,
@@ -134,13 +134,13 @@
     "niutech/node.php": {
       "full_name": "niutech/node.php",
       "name": "node.php",
-      "stargazers_count": 570,
-      "popularity": 3.755227667393404,
+      "stargazers_count": 571,
+      "popularity": 3.7559901228012587,
       "percentage": 23.076923076923077,
       "maturity": 0,
       "total_commits_count": 13,
-      "activity": 1.1331697913464422,
-      "total_score": 23.66453579570687,
+      "activity": 1.1310542754854103,
+      "total_score": 23.666995012292965,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -251,7 +251,7 @@
     "ripienaar/free-for-dev": {
       "full_name": "ripienaar/free-for-dev",
       "name": "free-for-dev",
-      "stargazers_count": 19041,
+      "stargazers_count": 19046,
       "popularity": 5,
       "percentage": 0.06605019815059446,
       "maturity": 4.170263147249201,
@@ -264,13 +264,13 @@
     "mail-in-a-box/mailinabox": {
       "full_name": "mail-in-a-box/mailinabox",
       "name": "mailinabox",
-      "stargazers_count": 7412,
-      "popularity": 4.8699217614864345,
+      "stargazers_count": 7413,
+      "popularity": 4.869980358075982,
       "percentage": 0.20161290322580644,
       "maturity": 4.162534752484248,
       "total_commits_count": 1488,
       "activity": 5,
-      "total_score": 28.062473867853857,
+      "total_score": 28.06265119342021,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -290,13 +290,13 @@
     "ncw/rclone": {
       "full_name": "ncw/rclone",
       "name": "rclone",
-      "stargazers_count": 10668,
+      "stargazers_count": 10675,
       "popularity": 5,
-      "percentage": 0.039666798889329634,
-      "maturity": 4.396380517502981,
-      "total_commits_count": 2521,
+      "percentage": 0.03965107057890563,
+      "maturity": 4.3965555233692,
+      "total_commits_count": 2522,
       "activity": 5,
-      "total_score": 28.818544454284027,
+      "total_score": 28.818884242614686,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

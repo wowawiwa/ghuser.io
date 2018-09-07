@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/languagetool-org/languagetool/languages",
   "pulls_url": "https://api.github.com/repos/languagetool-org/languagetool/pulls{/number}",
   "created_at": "2013-08-08T16:37:22Z",
-  "updated_at": "2018-09-06T14:44:16Z",
-  "pushed_at": "2018-09-06T14:44:11Z",
+  "updated_at": "2018-09-06T20:44:19Z",
+  "pushed_at": "2018-09-06T20:44:15Z",
   "homepage": "https://languagetool.org",
-  "size": 544517,
+  "size": 544526,
   "stargazers_count": 2231,
   "language": "Java",
   "mirror_url": null,
@@ -121,7 +121,7 @@
     "FredKruse": 206,
     "gulp21": 200,
     "MikeUnwalla": 316,
-    "arysin": 409,
+    "arysin": 412,
     "baarsrj": 476,
     "janschreiber": 957,
     "yakovru": 973,
@@ -130,7 +130,7 @@
     "dpelle": 2498,
     "milekpl": 3319,
     "jaumeortola": 3673,
-    "danielnaber": 8469,
+    "danielnaber": 8470,
     "tiff": 2
   },
   "pulls_authors": [
@@ -248,7 +248,7 @@
   ],
   "languages": {
     "Java": {
-      "bytes": 5968250,
+      "bytes": 5968939,
       "color": "#b07219"
     },
     "HTML": {
@@ -292,5 +292,5 @@
       "color": "#f0a9f0"
     }
   },
-  "fetched_at": "2018-09-06T17:07:40.172Z"
+  "fetched_at": "2018-09-07T03:33:13.221Z"
 }

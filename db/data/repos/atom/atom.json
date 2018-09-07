@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/atom/atom/languages",
   "pulls_url": "https://api.github.com/repos/atom/atom/pulls{/number}",
   "created_at": "2012-01-20T18:18:21Z",
-  "updated_at": "2018-09-06T16:50:05Z",
-  "pushed_at": "2018-09-06T15:42:41Z",
+  "updated_at": "2018-09-07T01:59:17Z",
+  "pushed_at": "2018-09-06T23:59:03Z",
   "homepage": "https://atom.io",
-  "size": 302218,
-  "stargazers_count": 46237,
+  "size": 302466,
+  "stargazers_count": 46239,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -52,7 +52,7 @@
     "nathansobo": 6080,
     "benogle": 2266,
     "as-cii": 2192,
-    "maxbrunsfeld": 2064,
+    "maxbrunsfeld": 2069,
     "50Wliu": 993,
     "probablycorey-and-nathan": 931,
     "zcbenz": 694,
@@ -64,13 +64,13 @@
     "Caged": 312,
     "lee-dohm": 310,
     "simurai": 313,
-    "jasonrudolph": 311,
+    "jasonrudolph": 315,
     "BinaryMuse": 303,
     "kevinnathan": 272,
     "mnquintana": 222,
     "izuzak": 214,
     "gjtorikian": 204,
-    "daviwil": 239,
+    "daviwil": 247,
     "thedaniel": 176,
     "kuychaco": 171,
     "jonrohan": 157,
@@ -87,7 +87,7 @@
     "jsoref": 33,
     "abe33": 33,
     "joefitzgerald": 31,
-    "queerviolet": 27,
+    "queerviolet": 31,
     "hubot": 26,
     "liuxiong332": 25,
     "UziTech": 23,
@@ -409,7 +409,8 @@
     "asheren": 2,
     "Jinivus": 1,
     "BoykoAlex": 1,
-    "rayfoss": 1
+    "rayfoss": 1,
+    "chrisrpatterson": 6
   },
   "pulls_authors": [
     "JosephTLyons",
@@ -1253,15 +1254,15 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 3714612,
+      "bytes": 3741513,
       "color": "#f1e05a"
     },
     "CoffeeScript": {
-      "bytes": 216405,
+      "bytes": 212508,
       "color": "#244776"
     },
     "CSS": {
-      "bytes": 109507,
+      "bytes": 181942,
       "color": "#563d7c"
     },
     "Shell": {
@@ -1281,5 +1282,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-06T17:11:47.161Z"
+  "fetched_at": "2018-09-07T03:36:37.103Z"
 }

@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/elastic/docs",
   "languages_url": "https://api.github.com/repos/elastic/docs/languages",
   "created_at": "2015-02-25T16:26:02Z",
-  "updated_at": "2018-09-06T17:00:35Z",
-  "pushed_at": "2018-09-06T17:00:30Z",
+  "updated_at": "2018-09-07T01:10:12Z",
+  "pushed_at": "2018-09-07T01:10:09Z",
   "homepage": null,
-  "size": 844287,
+  "size": 845460,
   "stargazers_count": 117,
   "language": "HTML",
   "mirror_url": null,
@@ -42,15 +42,15 @@
   },
   "languages": {
     "HTML": {
-      "bytes": 2589829769,
+      "bytes": 2592013078,
       "color": "#e34c26"
     },
     "JavaScript": {
-      "bytes": 12396238,
+      "bytes": 12438986,
       "color": "#f1e05a"
     },
     "CSS": {
-      "bytes": 11967594,
+      "bytes": 12011540,
       "color": "#563d7c"
     },
     "XSLT": {
@@ -66,7 +66,7 @@
       "color": "#3572A5"
     },
     "Shell": {
-      "bytes": 47694,
+      "bytes": 47805,
       "color": "#89e051"
     },
     "Roff": {
@@ -107,13 +107,13 @@
     }
   },
   "contributors": {
-    "lcawl": 63,
-    "debadair": 37,
+    "lcawl": 64,
+    "debadair": 30,
     "nrichers": 16,
     "dedemorton": 6,
-    "axw": 7,
+    "axw": 4,
     "nik9000": 4,
-    "tylersmalley": 4,
+    "tylersmalley": 2,
     "watson": 5,
     "javanna": 3,
     "untergeek": 2,
@@ -123,17 +123,18 @@
     "felixbarny": 2,
     "martijnvg": 1,
     "roncohen": 1,
-    "russcam": 1,
+    "russcam": 2,
     "spalger": 1,
     "simitt": 1,
-    "Sue-Gallagher": 3,
+    "Sue-Gallagher": 2,
     "jalvz": 1,
     "jahtalab": 2,
-    "kellyemurphy": 2,
-    "sqren": 4,
-    "jarpy": 2
+    "kellyemurphy": 1,
+    "sqren": 2,
+    "jarpy": 1,
+    "graphaelli": 2
   },
-  "fetched_at": "2018-09-06T17:08:02.256Z",
+  "fetched_at": "2018-09-07T03:33:32.519Z",
   "pulls_url": "https://api.github.com/repos/elastic/docs/pulls{/number}",
   "pulls_authors": [
     "kellyemurphy",
@@ -194,6 +195,7 @@
     "jaymode",
     "sqren",
     "KOTungseth",
-    "russcam"
+    "russcam",
+    "graphaelli"
   ]
 }

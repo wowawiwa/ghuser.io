@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/wikimedia/pywikibot-i18n/languages",
   "pulls_url": "https://api.github.com/repos/wikimedia/pywikibot-i18n/pulls{/number}",
   "created_at": "2013-06-19T16:20:01Z",
-  "updated_at": "2018-09-03T06:25:30Z",
-  "pushed_at": "2018-09-03T06:25:28Z",
+  "updated_at": "2018-09-06T19:39:30Z",
+  "pushed_at": "2018-09-06T19:39:28Z",
   "homepage": null,
-  "size": 15448,
+  "size": 15462,
   "stargazers_count": 3,
   "language": "JavaScript",
   "mirror_url": null,
@@ -65,7 +65,7 @@
     "valhallasw": 9,
     "jayvdb": 15,
     "xqt": 61,
-    "translatewiki": 230
+    "translatewiki": 231
   },
   "pulls_authors": [
     "masti01"
@@ -80,5 +80,5 @@
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-09-03T12:58:18.176Z"
+  "fetched_at": "2018-09-07T03:33:24.688Z"
 }

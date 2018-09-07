@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/behave/behave/languages",
   "pulls_url": "https://api.github.com/repos/behave/behave/pulls{/number}",
   "created_at": "2011-10-25T11:02:35Z",
-  "updated_at": "2018-09-06T09:56:39Z",
-  "pushed_at": "2018-08-27T22:07:39Z",
+  "updated_at": "2018-09-06T22:38:41Z",
+  "pushed_at": "2018-09-06T22:38:38Z",
   "homepage": "",
-  "size": 3152,
+  "size": 3129,
   "stargazers_count": 1413,
   "language": "Python",
   "mirror_url": null,
@@ -107,7 +107,8 @@
     "bittner": 24,
     "r1chardj0n3s": 161,
     "jeamland": 201,
-    "jenisys": 656
+    "jenisys": 657,
+    "mstred": 1
   },
   "pulls_authors": [
     "banovotz",
@@ -257,5 +258,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-09-06T17:07:30.396Z"
+  "fetched_at": "2018-09-07T03:33:03.773Z"
 }

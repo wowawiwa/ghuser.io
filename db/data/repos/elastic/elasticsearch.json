@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/elastic/elasticsearch",
   "languages_url": "https://api.github.com/repos/elastic/elasticsearch/languages",
   "created_at": "2010-02-08T13:20:56Z",
-  "updated_at": "2018-09-06T17:02:27Z",
-  "pushed_at": "2018-09-06T17:05:16Z",
+  "updated_at": "2018-09-07T03:28:13Z",
+  "pushed_at": "2018-09-07T03:24:58Z",
   "homepage": "https://www.elastic.co/products/elasticsearch",
-  "size": 509952,
-  "stargazers_count": 34127,
+  "size": 510100,
+  "stargazers_count": 34141,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "Java": {
-      "bytes": 70655642,
+      "bytes": 70636846,
       "color": "#b07219"
     },
     "Groovy": {
@@ -93,7 +93,7 @@
     }
   },
   "contributors": {
-    "bizybot": 23,
+    "bizybot": 24,
     "tsullivan": 103,
     "ppf2": 12,
     "eskibars": 15,
@@ -141,7 +141,7 @@
     "c-a-m": 42,
     "hendrikmuhs": 43,
     "Paikan": 43,
-    "hub-cap": 71,
+    "hub-cap": 72,
     "olcbean": 52,
     "DaveCTurner": 73,
     "uschindler": 75,
@@ -172,7 +172,7 @@
     "jimczi": 468,
     "areek": 457,
     "ywelsch": 498,
-    "lcawl": 475,
+    "lcawl": 476,
     "uboness": 456,
     "colings86": 680,
     "dakrone": 721,
@@ -187,7 +187,7 @@
     "jpountz": 1260,
     "dadoonet": 1430,
     "rjernst": 1804,
-    "nik9000": 1657,
+    "nik9000": 1658,
     "javanna": 1880,
     "jasontedor": 2224,
     "martijnvg": 2235,
@@ -472,7 +472,7 @@
     "lipsill": 4,
     "codebrain": 2
   },
-  "fetched_at": "2018-09-06T17:08:03.893Z",
+  "fetched_at": "2018-09-07T03:33:33.654Z",
   "pulls_url": "https://api.github.com/repos/elastic/elasticsearch/pulls{/number}",
   "pulls_authors": [
     "benwtrent",

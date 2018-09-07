@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/phpmyadmin/localized_docs/languages",
   "pulls_url": "https://api.github.com/repos/phpmyadmin/localized_docs/pulls{/number}",
   "created_at": "2012-02-05T09:17:51Z",
-  "updated_at": "2018-09-05T22:00:43Z",
-  "pushed_at": "2018-09-05T22:00:39Z",
+  "updated_at": "2018-09-06T22:01:01Z",
+  "pushed_at": "2018-09-06T22:00:58Z",
   "homepage": "https://hosted.weblate.org/projects/phpmyadmin/documentation/",
-  "size": 261466,
+  "size": 263293,
   "stargazers_count": 61,
   "language": "Makefile",
   "mirror_url": null,
@@ -42,14 +42,14 @@
     "site_admin": false
   },
   "contributors": {
-    "BouRock": 2913,
+    "BouRock": 2914,
     "rdeq08": 2573,
     "rimy": 1254,
     "nijel": 1092,
     "panos78": 656,
     "CedricCorazza": 533,
     "readmanr": 271,
-    "phpmyadmin-bot": 157,
+    "phpmyadmin-bot": 159,
     "mjaning": 125,
     "lem9": 114,
     "mauriciofauth": 109,
@@ -72,7 +72,7 @@
     "stefanomarty": 16,
     "SantosSi": 17,
     "aaleksanyants": 14,
-    "trebmuh": 13,
+    "trebmuh": 14,
     "haaninjo": 12,
     "xosecalvo": 11,
     "dingo1313": 10,
@@ -121,7 +121,7 @@
     "RaoHai": 3,
     "adzimzf": 2,
     "aluaces": 2,
-    "comradekingu": 2,
+    "comradekingu": 3,
     "AlpixTM": 2,
     "CarlosAranha": 2,
     "CindyB": 2,
@@ -316,5 +316,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-06T06:41:52.780Z"
+  "fetched_at": "2018-09-07T03:33:09.412Z"
 }

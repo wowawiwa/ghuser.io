@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/elastic/logstash",
   "languages_url": "https://api.github.com/repos/elastic/logstash/languages",
   "created_at": "2010-11-18T01:31:50Z",
-  "updated_at": "2018-09-06T12:41:41Z",
-  "pushed_at": "2018-09-06T09:11:37Z",
+  "updated_at": "2018-09-07T02:50:22Z",
+  "pushed_at": "2018-09-06T18:27:17Z",
   "homepage": "https://www.elastic.co/products/logstash",
-  "size": 104757,
-  "stargazers_count": 9351,
+  "size": 104759,
+  "stargazers_count": 9352,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -76,7 +76,7 @@
       "color": "#012456"
     },
     "Batchfile": {
-      "bytes": 6351,
+      "bytes": 6354,
       "color": "#C1F12E"
     },
     "C": {
@@ -469,9 +469,10 @@
     "joemiller": 1,
     "georgexsh": 1,
     "ITBlogger": 1,
-    "hvardhanx": 1
+    "hvardhanx": 1,
+    "aristosvo": 1
   },
-  "fetched_at": "2018-09-06T17:08:00.370Z",
+  "fetched_at": "2018-09-07T03:33:31.078Z",
   "pulls_url": "https://api.github.com/repos/elastic/logstash/pulls{/number}",
   "pulls_authors": [
     "bagratte",

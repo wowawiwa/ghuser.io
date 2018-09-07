@@ -5,17 +5,17 @@
   "owner": "robbyrussell",
   "private": false,
   "html_url": "https://github.com/robbyrussell/oh-my-zsh",
-  "description": "A delightful community-driven (with 1,100+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",
+  "description": "A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",
   "fork": false,
   "url": "https://api.github.com/repos/robbyrussell/oh-my-zsh",
   "languages_url": "https://api.github.com/repos/robbyrussell/oh-my-zsh/languages",
   "pulls_url": "https://api.github.com/repos/robbyrussell/oh-my-zsh/pulls{/number}",
   "created_at": "2009-08-28T18:15:37Z",
-  "updated_at": "2018-09-06T16:59:58Z",
-  "pushed_at": "2018-09-05T10:18:48Z",
+  "updated_at": "2018-09-07T03:29:16Z",
+  "pushed_at": "2018-09-06T20:46:38Z",
   "homepage": "https://ohmyz.sh/",
-  "size": 4762,
-  "stargazers_count": 75920,
+  "size": 4769,
+  "stargazers_count": 75937,
   "language": "Shell",
   "mirror_url": null,
   "archived": false,
@@ -110,7 +110,7 @@
     "thcipriani": 11,
     "mahi97": 12,
     "felipec": 12,
-    "mbologna": 11,
+    "mbologna": 12,
     "bobwilliams": 16,
     "caarlos0": 12,
     "curiousstranger": 12,
@@ -3546,5 +3546,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-06T17:06:12.490Z"
+  "fetched_at": "2018-09-07T03:31:54.311Z"
 }

@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/WeblateOrg/weblate/languages",
   "pulls_url": "https://api.github.com/repos/WeblateOrg/weblate/pulls{/number}",
   "created_at": "2012-02-27T09:33:29Z",
-  "updated_at": "2018-09-06T13:48:56Z",
-  "pushed_at": "2018-09-06T14:46:15Z",
+  "updated_at": "2018-09-06T20:59:14Z",
+  "pushed_at": "2018-09-06T20:59:12Z",
   "homepage": "https://weblate.org/",
-  "size": 166980,
+  "size": 167324,
   "stargazers_count": 1129,
   "language": "Python",
   "mirror_url": null,
@@ -65,7 +65,7 @@
     "madmuffin1": 9,
     "stefanor": 8,
     "Freso": 9,
-    "weblate": 1461,
+    "weblate": 1462,
     "Xuacu": 10,
     "ptrsk": 10,
     "mv-santos": 10,
@@ -80,7 +80,7 @@
     "bertm": 12,
     "sikmir": 13,
     "to-ba": 13,
-    "SantosSi": 17,
+    "SantosSi": 18,
     "skarmoutsosv": 14,
     "dtschan": 14,
     "urbalazs": 15,
@@ -111,7 +111,7 @@
     "Omaranwa": 33,
     "jitka": 38,
     "psokol": 34,
-    "BoFFire": 39,
+    "BoFFire": 41,
     "hosiet": 39,
     "yfdyh000": 39,
     "lohrun": 39,
@@ -119,11 +119,11 @@
     "bamstam": 43,
     "slsimic": 47,
     "bovirus": 59,
-    "scootergrisen": 68,
+    "scootergrisen": 69,
     "domenk": 67,
     "haaninjo": 66,
     "p-bo": 71,
-    "zerng07": 81,
+    "zerng07": 83,
     "unomano": 70,
     "tuharju": 77,
     "stefanb": 80,
@@ -135,19 +135,19 @@
     "elchevive": 153,
     "comradekingu": 173,
     "monolifed": 163,
-    "andriykopanytsia": 177,
+    "andriykopanytsia": 178,
     "rimy": 193,
     "victorenator": 200,
     "filhocf": 224,
     "jsmakaayb": 230,
-    "ldmpub": 258,
+    "ldmpub": 259,
     "fenio": 271,
     "lem9": 436,
     "panos78": 445,
     "ruleant": 502,
     "BouRock": 760,
     "franconian": 1120,
-    "nijel": 15914,
+    "nijel": 15919,
     "lukakama": 12,
     "pjcaldeira": 7,
     "glensc": 8,
@@ -374,11 +374,12 @@
     "Riko01": 1,
     "aarli": 1,
     "nothingface0": 1,
-    "mesnevi": 9,
+    "mesnevi": 10,
     "Nicedward": 1,
     "GrahamDumpleton": 19,
     "wyznaga": 2,
-    "tobiaswiese": 1
+    "tobiaswiese": 1,
+    "JoKeyser": 1
   },
   "pulls_authors": [
     "nijel",
@@ -521,7 +522,7 @@
       "color": "#f1e05a"
     },
     "HTML": {
-      "bytes": 282972,
+      "bytes": 283394,
       "color": "#e34c26"
     },
     "Shell": {
@@ -545,5 +546,5 @@
       "color": "#4F5D95"
     }
   },
-  "fetched_at": "2018-09-06T17:07:40.323Z"
+  "fetched_at": "2018-09-07T03:33:13.317Z"
 }

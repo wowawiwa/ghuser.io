@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/sebhildebrandt/systeminformation/languages",
   "pulls_url": "https://api.github.com/repos/sebhildebrandt/systeminformation/pulls{/number}",
   "created_at": "2014-03-12T18:16:59Z",
-  "updated_at": "2018-09-06T11:57:41Z",
-  "pushed_at": "2018-09-05T20:51:23Z",
+  "updated_at": "2018-09-07T01:21:41Z",
+  "pushed_at": "2018-09-07T01:26:17Z",
   "homepage": null,
-  "size": 737,
-  "stargazers_count": 545,
+  "size": 774,
+  "stargazers_count": 547,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -29,7 +29,7 @@
   "default_branch": "master",
   "contributors": {
     "jorgegonzalez": 1,
-    "sebhildebrandt": 329
+    "sebhildebrandt": 332
   },
   "pulls_authors": [
     "jackw01",
@@ -63,13 +63,14 @@
     "Buzut",
     "rNovaglia",
     "glegrain",
-    "xcorail"
+    "xcorail",
+    "styfle"
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 243604,
+      "bytes": 243649,
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-06T17:07:13.059Z"
+  "fetched_at": "2018-09-07T03:32:46.876Z"
 }
