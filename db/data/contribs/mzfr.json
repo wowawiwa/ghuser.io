@@ -121,13 +121,13 @@
     "PyCQA/astroid": {
       "full_name": "PyCQA/astroid",
       "name": "astroid",
-      "stargazers_count": 164,
-      "popularity": 3.2124930257285613,
+      "stargazers_count": 165,
+      "popularity": 3.2151476458874177,
       "percentage": 0,
       "maturity": 4.061715884621727,
       "total_commits_count": 1188,
       "activity": 5,
-      "total_score": 22.76091084642914,
+      "total_score": 22.768874706905706,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -247,12 +247,26 @@
       "total_score": 13.508127337692683,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
+    },
+    "IpecLabs/Findmeacomp": {
+      "full_name": "IpecLabs/Findmeacomp",
+      "name": "Findmeacomp",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 80,
+      "maturity": 0,
+      "total_commits_count": 30,
+      "activity": 5,
+      "total_score": 18.955138153935398,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
     }
   },
   "organizations": [
     "xbmc",
     "PyCQA",
     "mushorg",
-    "metabrainz"
+    "metabrainz",
+    "IpecLabs"
   ]
 }

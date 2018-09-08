@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/urllib3/urllib3",
   "languages_url": "https://api.github.com/repos/urllib3/urllib3/languages",
   "created_at": "2011-09-18T18:08:28Z",
-  "updated_at": "2018-09-07T08:27:37Z",
-  "pushed_at": "2018-09-04T07:57:31Z",
+  "updated_at": "2018-09-08T14:14:17Z",
+  "pushed_at": "2018-09-08T16:51:06Z",
   "homepage": "https://urllib3.readthedocs.io/",
   "size": 4117,
-  "stargazers_count": 1710,
+  "stargazers_count": 1712,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -248,9 +248,10 @@
     "yetingsky": 1,
     "JackOfMostTrades": 1,
     "mgorny": 1,
-    "hugovk": 2
+    "hugovk": 2,
+    "frankier": 2
   },
-  "fetched_at": "2018-09-07T11:20:21.340Z",
+  "fetched_at": "2018-09-08T17:06:18.586Z",
   "pulls_url": "https://api.github.com/repos/urllib3/urllib3/pulls{/number}",
   "pulls_authors": [
     "SethMichaelLarson",
@@ -529,6 +530,7 @@
     "berg",
     "kennethreitz",
     "oixhwotl",
-    "hugovk"
+    "hugovk",
+    "Mattwmaster58"
   ]
 }

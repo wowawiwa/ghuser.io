@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/aFrogleap/SimpleImageViewer/languages",
   "pulls_url": "https://api.github.com/repos/aFrogleap/SimpleImageViewer/pulls{/number}",
   "created_at": "2017-05-30T11:12:17Z",
-  "updated_at": "2018-09-06T17:26:33Z",
-  "pushed_at": "2018-07-31T20:22:38Z",
+  "updated_at": "2018-09-08T13:59:09Z",
+  "pushed_at": "2018-09-08T16:26:28Z",
   "homepage": "https://www.afrogleap.com",
-  "size": 84936,
+  "size": 89918,
   "stargazers_count": 321,
   "language": "Swift",
   "mirror_url": null,
@@ -48,7 +48,8 @@
     "site_admin": false
   },
   "contributors": {
-    "LcTwisk": 46
+    "LcTwisk": 46,
+    "jsahoo": 1
   },
   "pulls_authors": [
     "jsahoo",
@@ -62,7 +63,7 @@
   ],
   "languages": {
     "Swift": {
-      "bytes": 34251,
+      "bytes": 34872,
       "color": "#ffac45"
     },
     "Ruby": {
@@ -74,5 +75,5 @@
       "color": "#438eff"
     }
   },
-  "fetched_at": "2018-09-07T03:31:04.020Z"
+  "fetched_at": "2018-09-08T17:06:45.022Z"
 }
