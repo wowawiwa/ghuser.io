@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/elastic/kibana",
   "languages_url": "https://api.github.com/repos/elastic/kibana/languages",
   "created_at": "2013-01-26T04:00:59Z",
-  "updated_at": "2018-09-07T20:02:06Z",
-  "pushed_at": "2018-09-07T23:50:26Z",
+  "updated_at": "2018-09-08T12:15:27Z",
+  "pushed_at": "2018-09-08T12:18:10Z",
   "homepage": "https://www.elastic.co/products/kibana",
-  "size": 452363,
-  "stargazers_count": 10040,
+  "size": 452527,
+  "stargazers_count": 10042,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 18510953,
+      "bytes": 18477862,
       "color": "#f1e05a"
     },
     "TypeScript": {
-      "bytes": 977726,
+      "bytes": 1036400,
       "color": "#2b7489"
     },
     "HTML": {
@@ -153,7 +153,7 @@
     "clintongormley": 25,
     "nyurik": 27,
     "archanid": 35,
-    "sqren": 53,
+    "sqren": 54,
     "weltenwort": 40,
     "bmcconaghy": 45,
     "jimmyjones2": 36,
@@ -174,7 +174,7 @@
     "ppisljar": 281,
     "LeeDr": 327,
     "ycombinator": 330,
-    "epixa": 396,
+    "epixa": 397,
     "lukasolson": 461,
     "jbudz": 471,
     "cjcenizal": 483,
@@ -184,7 +184,7 @@
     "rashidkpc": 1001,
     "stormpython": 1190,
     "w33ble": 1613,
-    "spalger": 4248,
+    "spalger": 4250,
     "ajebasingh": 2,
     "nellicus": 2,
     "formgeist": 6,
@@ -366,7 +366,7 @@
     "hvardhanx": 1,
     "watson": 1
   },
-  "fetched_at": "2018-09-08T00:05:11.270Z",
+  "fetched_at": "2018-09-08T12:38:41.107Z",
   "pulls_url": "https://api.github.com/repos/elastic/kibana/pulls{/number}",
   "pulls_authors": [
     "nreese",

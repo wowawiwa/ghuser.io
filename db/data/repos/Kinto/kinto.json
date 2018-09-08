@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/Kinto/kinto",
   "languages_url": "https://api.github.com/repos/Kinto/kinto/languages",
   "created_at": "2015-02-25T13:34:23Z",
-  "updated_at": "2018-09-07T21:23:02Z",
-  "pushed_at": "2018-09-06T21:49:22Z",
+  "updated_at": "2018-09-08T02:41:31Z",
+  "pushed_at": "2018-09-08T05:03:35Z",
   "homepage": "http://docs.kinto-storage.org/",
-  "size": 23240,
+  "size": 23243,
   "stargazers_count": 3535,
   "language": "Python",
   "mirror_url": null,
@@ -123,7 +123,7 @@
     "tarekziade": 38,
     "Natim": 74,
     "gabisurita": 209,
-    "pyup-bot": 247,
+    "pyup-bot": 248,
     "glasserc": 362,
     "almet": 366,
     "leplatrem": 1988,
@@ -159,7 +159,7 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-08T00:07:25.860Z",
+  "fetched_at": "2018-09-08T12:40:43.413Z",
   "pulls_url": "https://api.github.com/repos/Kinto/kinto/pulls{/number}",
   "pulls_authors": [
     "pyup-bot",

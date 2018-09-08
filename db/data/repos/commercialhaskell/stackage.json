@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/commercialhaskell/stackage/languages",
   "pulls_url": "https://api.github.com/repos/commercialhaskell/stackage/pulls{/number}",
   "created_at": "2012-11-20T07:41:30Z",
-  "updated_at": "2018-09-07T02:34:31Z",
-  "pushed_at": "2018-09-07T02:34:29Z",
+  "updated_at": "2018-09-08T04:18:36Z",
+  "pushed_at": "2018-09-08T04:18:33Z",
   "homepage": "https://www.stackage.org/",
-  "size": 10016,
+  "size": 9874,
   "stargazers_count": 350,
   "language": "Shell",
   "mirror_url": null,
@@ -144,7 +144,7 @@
     "phadej": 76,
     "lwm": 205,
     "mihaimaruseac": 474,
-    "juhp": 1237,
+    "juhp": 1238,
     "bergmark": 1327,
     "DanBurton": 1498,
     "snoyberg": 3445,
@@ -224,7 +224,7 @@
     "23Skidoo": 4,
     "naushadh": 4,
     "nikita-volkov": 4,
-    "rudymatela": 4,
+    "rudymatela": 5,
     "saep": 4,
     "reactormonk": 4,
     "sol": 4,
@@ -1071,5 +1071,5 @@
       "color": "#c065db"
     }
   },
-  "fetched_at": "2018-09-07T11:26:08.968Z"
+  "fetched_at": "2018-09-08T12:40:20.506Z"
 }

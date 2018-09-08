@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/ankidroid/Anki-Android/languages",
   "pulls_url": "https://api.github.com/repos/ankidroid/Anki-Android/pulls{/number}",
   "created_at": "2013-01-20T13:55:53Z",
-  "updated_at": "2018-09-07T12:10:23Z",
-  "pushed_at": "2018-09-06T13:42:09Z",
+  "updated_at": "2018-09-08T07:43:13Z",
+  "pushed_at": "2018-09-08T07:43:09Z",
   "homepage": "",
-  "size": 107882,
+  "size": 107949,
   "stargazers_count": 1340,
   "language": "Java",
   "mirror_url": null,
@@ -136,7 +136,7 @@
     "dmitry-timofeev": 28,
     "trashcutter": 31,
     "Blaisorblade": 41,
-    "mikehardy": 44,
+    "mikehardy": 49,
     "mandre": 78,
     "daniel-svard": 75,
     "ospalh": 83,
@@ -146,7 +146,7 @@
     "hssm": 481,
     "iniju": 521,
     "nicolas-raoul": 1703,
-    "timrae": 2095,
+    "timrae": 2096,
     "nobnago": 1359,
     "alexander255": 1,
     "artsakenos": 1,
@@ -318,7 +318,7 @@
   ],
   "languages": {
     "Java": {
-      "bytes": 2928275,
+      "bytes": 2926119,
       "color": "#b07219"
     },
     "HTML": {
@@ -346,5 +346,5 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-09-08T00:07:43.822Z"
+  "fetched_at": "2018-09-08T12:41:16.547Z"
 }

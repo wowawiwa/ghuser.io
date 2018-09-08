@@ -26,11 +26,11 @@
   "url": "https://api.github.com/repos/Spotifyd/spotifyd",
   "languages_url": "https://api.github.com/repos/Spotifyd/spotifyd/languages",
   "created_at": "2014-12-10T21:05:13Z",
-  "updated_at": "2018-09-07T18:25:55Z",
+  "updated_at": "2018-09-08T05:31:06Z",
   "pushed_at": "2018-09-04T00:33:12Z",
   "homepage": "",
   "size": 466,
-  "stargazers_count": 1305,
+  "stargazers_count": 1307,
   "language": "Rust",
   "mirror_url": null,
   "archived": false,
@@ -72,7 +72,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-08T00:02:21.583Z",
+  "fetched_at": "2018-09-08T12:35:55.912Z",
   "pulls_url": "https://api.github.com/repos/Spotifyd/spotifyd/pulls{/number}",
   "pulls_authors": [
     "Crazybus",

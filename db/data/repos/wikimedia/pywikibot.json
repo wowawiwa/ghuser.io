@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/wikimedia/pywikibot/languages",
   "pulls_url": "https://api.github.com/repos/wikimedia/pywikibot/pulls{/number}",
   "created_at": "2013-06-19T16:18:45Z",
-  "updated_at": "2018-09-07T14:26:25Z",
-  "pushed_at": "2018-09-07T14:26:24Z",
+  "updated_at": "2018-09-08T11:15:58Z",
+  "pushed_at": "2018-09-08T11:15:57Z",
   "homepage": "https://doc.wikimedia.org/pywikibot/",
-  "size": 40854,
+  "size": 40867,
   "stargazers_count": 247,
   "language": "Python",
   "mirror_url": null,
@@ -124,7 +124,7 @@
     "drtrigon": 13,
     "happy5214": 14,
     "refeed": 15,
-    "MarcoAurelioWM": 17,
+    "MarcoAurelioWM": 18,
     "zoranzoki21": 18,
     "multichill": 17,
     "VcamX": 19,
@@ -216,7 +216,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 4625823,
+      "bytes": 4625836,
       "color": "#3572A5"
     },
     "HTML": {
@@ -232,5 +232,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-09-08T00:04:34.620Z"
+  "fetched_at": "2018-09-08T12:38:06.757Z"
 }

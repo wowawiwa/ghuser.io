@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/ghc/packages-Cabal/languages",
   "pulls_url": "https://api.github.com/repos/ghc/packages-Cabal/pulls{/number}",
   "created_at": "2011-04-03T18:25:32Z",
-  "updated_at": "2018-09-06T22:58:13Z",
-  "pushed_at": "2018-09-06T22:58:10Z",
+  "updated_at": "2018-09-08T10:14:10Z",
+  "pushed_at": "2018-09-08T10:14:09Z",
   "homepage": "https://github.com/haskell/cabal",
-  "size": 37304,
+  "size": 37332,
   "stargazers_count": 5,
   "language": "Haskell",
   "mirror_url": "http://git.haskell.org/packages/Cabal.git",
@@ -140,7 +140,7 @@
     "tibbe": 238,
     "kosmikus": 171,
     "ttuegel": 258,
-    "hvr": 279,
+    "hvr": 280,
     "phadej": 344,
     "igfoo": 306,
     "grayjay": 327,
@@ -334,7 +334,7 @@
   "pulls_authors": [],
   "languages": {
     "Haskell": {
-      "bytes": 5433606,
+      "bytes": 5433614,
       "color": "#5e5086"
     },
     "Shell": {
@@ -398,5 +398,5 @@
       "color": "#3D6117"
     }
   },
-  "fetched_at": "2018-09-07T11:26:02.741Z"
+  "fetched_at": "2018-09-08T12:40:16.625Z"
 }

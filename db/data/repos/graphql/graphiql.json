@@ -10,20 +10,20 @@
   "url": "https://api.github.com/repos/graphql/graphiql",
   "languages_url": "https://api.github.com/repos/graphql/graphiql/languages",
   "created_at": "2015-08-11T02:56:22Z",
-  "updated_at": "2018-09-07T20:56:26Z",
-  "pushed_at": "2018-09-07T21:22:37Z",
+  "updated_at": "2018-09-08T11:22:29Z",
+  "pushed_at": "2018-09-08T12:24:41Z",
   "homepage": null,
-  "size": 1874,
-  "stargazers_count": 6550,
+  "size": 1880,
+  "stargazers_count": 6553,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
   "license": {
-    "key": "other",
-    "name": "Other",
-    "spdx_id": null,
-    "url": null,
-    "node_id": "MDc6TGljZW5zZTA="
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
   },
   "default_branch": "master",
   "organization": {
@@ -104,7 +104,7 @@
     "OlegIlyenko": 5,
     "skevy": 5,
     "tessalt": 9,
-    "AGS-": 39,
+    "AGS-": 40,
     "asiandrummer": 80,
     "wincent": 158,
     "greenkeeper[bot]": 165,
@@ -115,7 +115,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 130528,
+      "bytes": 130488,
       "color": "#f1e05a"
     },
     "CSS": {
@@ -131,7 +131,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-08T00:08:30.564Z",
+  "fetched_at": "2018-09-08T12:41:59.477Z",
   "pulls_url": "https://api.github.com/repos/graphql/graphiql/pulls{/number}",
   "pulls_authors": [
     "SimonCropp",
@@ -232,6 +232,7 @@
     "LegNeato",
     "knowbody",
     "devknoll",
-    "BowlingX"
+    "BowlingX",
+    "timshaw9791"
   ]
 }

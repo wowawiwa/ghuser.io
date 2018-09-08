@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/fossasia/chat.susi.ai/languages",
   "pulls_url": "https://api.github.com/repos/fossasia/chat.susi.ai/pulls{/number}",
   "created_at": "2016-07-17T09:56:00Z",
-  "updated_at": "2018-09-07T18:08:05Z",
-  "pushed_at": "2018-09-07T18:12:28Z",
+  "updated_at": "2018-09-08T07:59:38Z",
+  "pushed_at": "2018-09-08T02:18:12Z",
   "homepage": "",
-  "size": 345690,
-  "stargazers_count": 616,
+  "size": 351142,
+  "stargazers_count": 617,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -111,7 +111,7 @@
     "Remorax": 14,
     "DNS-404": 16,
     "mariobehling": 18,
-    "fragm3": 20,
+    "fragm3": 21,
     "anshumanv": 19,
     "Orbiter": 22,
     "PrP-11": 26,
@@ -211,11 +211,11 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 469353,
+      "bytes": 469268,
       "color": "#f1e05a"
     },
     "CSS": {
-      "bytes": 69237,
+      "bytes": 69177,
       "color": "#563d7c"
     },
     "HTML": {
@@ -231,5 +231,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-08T00:00:36.056Z"
+  "fetched_at": "2018-09-08T12:34:19.732Z"
 }

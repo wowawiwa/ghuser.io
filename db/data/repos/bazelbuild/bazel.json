@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/bazelbuild/bazel/languages",
   "pulls_url": "https://api.github.com/repos/bazelbuild/bazel/pulls{/number}",
   "created_at": "2014-06-12T16:00:38Z",
-  "updated_at": "2018-09-07T22:17:50Z",
-  "pushed_at": "2018-09-07T22:33:15Z",
+  "updated_at": "2018-09-08T12:18:47Z",
+  "pushed_at": "2018-09-08T05:49:35Z",
   "homepage": "https://bazel.build",
-  "size": 492703,
-  "stargazers_count": 9937,
+  "size": 492712,
+  "stargazers_count": 9946,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -142,7 +142,7 @@
     "kchodorow": 473,
     "laurentlb": 535,
     "aehlig": 543,
-    "cushon": 611,
+    "cushon": 612,
     "laszlocsomor": 636,
     "janakdr": 722,
     "damienmg": 779,
@@ -792,7 +792,7 @@
   ],
   "languages": {
     "Java": {
-      "bytes": 31347579,
+      "bytes": 31347613,
       "color": "#b07219"
     },
     "Python": {
@@ -844,5 +844,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-08T00:07:40.214Z"
+  "fetched_at": "2018-09-08T12:41:13.504Z"
 }

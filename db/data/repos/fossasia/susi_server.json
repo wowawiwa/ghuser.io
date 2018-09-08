@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/fossasia/susi_server/languages",
   "pulls_url": "https://api.github.com/repos/fossasia/susi_server/pulls{/number}",
   "created_at": "2016-09-14T20:21:09Z",
-  "updated_at": "2018-09-07T14:17:25Z",
-  "pushed_at": "2018-09-04T21:25:47Z",
+  "updated_at": "2018-09-08T07:59:44Z",
+  "pushed_at": "2018-09-08T02:14:35Z",
   "homepage": "",
-  "size": 208780,
-  "stargazers_count": 955,
+  "size": 208782,
+  "stargazers_count": 957,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -168,7 +168,8 @@
     "harsh-98": 1,
     "rupav": 1,
     "sd1998": 1,
-    "woshikie": 1
+    "woshikie": 1,
+    "felixonmars": 1
   },
   "pulls_authors": [
     "vidyasonawane",
@@ -287,5 +288,5 @@
       "color": "#c22d40"
     }
   },
-  "fetched_at": "2018-09-08T00:01:32.798Z"
+  "fetched_at": "2018-09-08T12:35:11.737Z"
 }

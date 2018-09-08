@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/chubin/cheat.sheets/languages",
   "pulls_url": "https://api.github.com/repos/chubin/cheat.sheets/pulls{/number}",
   "created_at": "2017-05-07T21:38:40Z",
-  "updated_at": "2018-09-05T06:22:16Z",
-  "pushed_at": "2018-09-05T06:22:15Z",
+  "updated_at": "2018-09-08T00:05:04Z",
+  "pushed_at": "2018-09-07T12:22:20Z",
   "homepage": null,
   "size": 250,
-  "stargazers_count": 135,
+  "stargazers_count": 136,
   "language": "Shell",
   "mirror_url": null,
   "archived": false,
@@ -77,7 +77,8 @@
     "lepatrick714",
     "alexanderepstein",
     "esovetkin",
-    "ggabarrin"
+    "ggabarrin",
+    "mkalus"
   ],
   "languages": {
     "Shell": {
@@ -89,5 +90,5 @@
       "color": "#0298c3"
     }
   },
-  "fetched_at": "2018-09-05T13:03:38.502Z"
+  "fetched_at": "2018-09-08T12:37:01.920Z"
 }

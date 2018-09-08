@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/ghc/ghc/languages",
   "pulls_url": "https://api.github.com/repos/ghc/ghc/pulls{/number}",
   "created_at": "2011-04-02T19:39:34Z",
-  "updated_at": "2018-09-07T20:24:48Z",
-  "pushed_at": "2018-09-07T22:20:29Z",
+  "updated_at": "2018-09-08T09:17:57Z",
+  "pushed_at": "2018-09-08T09:17:52Z",
   "homepage": "http://www.haskell.org/ghc/",
-  "size": 209913,
+  "size": 209919,
   "stargazers_count": 1936,
   "language": "Haskell",
   "mirror_url": "http://git.haskell.org/ghc.git",
@@ -131,7 +131,7 @@
     "pcapriotti": 175,
     "dcoutts": 175,
     "dreixel": 246,
-    "osa1": 201,
+    "osa1": 202,
     "niteria": 216,
     "trofi": 248,
     "batterseapower": 271,
@@ -199,7 +199,7 @@
     "orlitzky": 6,
     "Mikolaj": 6,
     "ntc2": 6,
-    "ndmitchell": 6,
+    "ndmitchell": 7,
     "bogiebro": 6,
     "olsner": 6,
     "arybczak": 5,
@@ -547,7 +547,7 @@
   ],
   "languages": {
     "Haskell": {
-      "bytes": 23164389,
+      "bytes": 23163360,
       "color": "#5e5086"
     },
     "C": {
@@ -655,5 +655,5 @@
       "color": "#da291c"
     }
   },
-  "fetched_at": "2018-09-08T00:06:56.459Z"
+  "fetched_at": "2018-09-08T12:40:15.414Z"
 }

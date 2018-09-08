@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/sirupsen/logrus/languages",
   "pulls_url": "https://api.github.com/repos/sirupsen/logrus/pulls{/number}",
   "created_at": "2013-10-16T19:08:55Z",
-  "updated_at": "2018-09-07T18:30:51Z",
-  "pushed_at": "2018-09-07T02:13:28Z",
+  "updated_at": "2018-09-08T10:06:55Z",
+  "pushed_at": "2018-09-08T09:19:29Z",
   "homepage": "",
-  "size": 609,
-  "stargazers_count": 8378,
+  "size": 620,
+  "stargazers_count": 8381,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -124,7 +124,7 @@
     "meatballhat": 9,
     "mattbostock": 10,
     "al3x": 12,
-    "dgsb": 39,
+    "dgsb": 44,
     "dmathieu": 40,
     "aybabtme": 40,
     "sirupsen": 353,
@@ -207,7 +207,11 @@
     "spicydog": 1,
     "doublefree": 1,
     "taylorchu": 1,
-    "esap": 1
+    "esap": 1,
+    "mengchengfeng": 2,
+    "dgodd": 1,
+    "mariannefeng": 1,
+    "whuang8": 1
   },
   "pulls_authors": [
     "dgsb",
@@ -541,9 +545,9 @@
   ],
   "languages": {
     "Go": {
-      "bytes": 94283,
+      "bytes": 94418,
       "color": "#375eab"
     }
   },
-  "fetched_at": "2018-09-08T00:06:29.977Z"
+  "fetched_at": "2018-09-08T12:39:50.138Z"
 }
