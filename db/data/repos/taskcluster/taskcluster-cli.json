@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/taskcluster/taskcluster-cli",
   "languages_url": "https://api.github.com/repos/taskcluster/taskcluster-cli/languages",
   "created_at": "2014-08-18T04:50:46Z",
-  "updated_at": "2018-09-04T03:02:08Z",
-  "pushed_at": "2018-08-30T19:36:00Z",
+  "updated_at": "2018-09-07T19:14:24Z",
+  "pushed_at": "2018-09-07T19:14:23Z",
   "homepage": "",
-  "size": 486,
+  "size": 487,
   "stargazers_count": 13,
   "language": "Go",
   "mirror_url": null,
@@ -60,14 +60,14 @@
     "petemoore": 11,
     "AyubMohamed": 16,
     "yannlandry": 26,
-    "djmitche": 38,
+    "djmitche": 39,
     "t0xicCode": 74,
     "mutterroland": 11,
-    "ydidwania": 2
+    "ydidwania": 4
   },
   "languages": {
     "Go": {
-      "bytes": 519858,
+      "bytes": 520569,
       "color": "#375eab"
     },
     "Makefile": {
@@ -75,7 +75,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-04T08:12:02.579Z",
+  "fetched_at": "2018-09-08T00:07:22.806Z",
   "pulls_url": "https://api.github.com/repos/taskcluster/taskcluster-cli/pulls{/number}",
   "pulls_authors": [
     "ydidwania",

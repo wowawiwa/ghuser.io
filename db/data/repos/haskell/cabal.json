@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/haskell/cabal/languages",
   "pulls_url": "https://api.github.com/repos/haskell/cabal/pulls{/number}",
   "created_at": "2012-03-15T12:53:38Z",
-  "updated_at": "2018-09-06T22:57:49Z",
+  "updated_at": "2018-09-07T14:01:59Z",
   "pushed_at": "2018-09-07T08:59:14Z",
   "homepage": "http://haskell.org/cabal",
   "size": 33150,
-  "stargazers_count": 915,
+  "stargazers_count": 916,
   "language": "Haskell",
   "mirror_url": null,
   "archived": false,
@@ -688,5 +688,5 @@
       "color": "#3D6117"
     }
   },
-  "fetched_at": "2018-09-07T11:26:02.603Z"
+  "fetched_at": "2018-09-08T00:06:58.130Z"
 }

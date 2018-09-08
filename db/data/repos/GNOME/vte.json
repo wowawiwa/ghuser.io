@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/GNOME/vte/languages",
   "pulls_url": "https://api.github.com/repos/GNOME/vte/pulls{/number}",
   "created_at": "2012-06-03T02:57:48Z",
-  "updated_at": "2018-09-07T11:21:16Z",
-  "pushed_at": "2018-09-07T11:21:15Z",
+  "updated_at": "2018-09-07T21:17:16Z",
+  "pushed_at": "2018-09-07T21:17:14Z",
   "homepage": "https://gitlab.gnome.org/GNOME",
-  "size": 28496,
+  "size": 28769,
   "stargazers_count": 103,
   "language": "C++",
   "mirror_url": null,
@@ -145,7 +145,7 @@
     "debarshiray": 15,
     "krh": 17,
     "piotrdrag": 21,
-    "egmontkob": 281,
+    "egmontkob": 283,
     "ickle": 368,
     "behdad": 674,
     "prahal": 1,
@@ -226,11 +226,11 @@
   ],
   "languages": {
     "C++": {
-      "bytes": 1603611,
+      "bytes": 1601034,
       "color": "#f34b7d"
     },
     "C": {
-      "bytes": 193300,
+      "bytes": 193316,
       "color": "#555555"
     },
     "M4": {
@@ -262,5 +262,5 @@
       "color": "#c065db"
     }
   },
-  "fetched_at": "2018-09-07T11:26:21.135Z"
+  "fetched_at": "2018-09-08T00:07:13.151Z"
 }

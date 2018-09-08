@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/feuerbach/tasty/languages",
   "pulls_url": "https://api.github.com/repos/feuerbach/tasty/pulls{/number}",
   "created_at": "2013-04-22T06:14:16Z",
-  "updated_at": "2018-09-07T06:19:15Z",
-  "pushed_at": "2018-07-29T18:07:28Z",
+  "updated_at": "2018-09-07T19:04:25Z",
+  "pushed_at": "2018-09-07T19:04:23Z",
   "homepage": "",
-  "size": 674,
-  "stargazers_count": 325,
+  "size": 676,
+  "stargazers_count": 326,
   "language": "Haskell",
   "mirror_url": null,
   "archived": false,
@@ -37,7 +37,7 @@
     "pruvisto": 1,
     "pcapriotti": 1,
     "jcpetruzza": 1,
-    "rudymatela": 1,
+    "rudymatela": 2,
     "exlevan": 1,
     "jdnavarro": 1,
     "bergmark": 1,
@@ -119,5 +119,5 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-09-07T11:26:11.487Z"
+  "fetched_at": "2018-09-08T00:07:05.624Z"
 }

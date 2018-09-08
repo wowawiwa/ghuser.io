@@ -509,11 +509,11 @@
   "url": "https://api.github.com/repos/webpack/webpack.js.org",
   "languages_url": "https://api.github.com/repos/webpack/webpack.js.org/languages",
   "created_at": "2016-06-24T13:22:52Z",
-  "updated_at": "2018-09-07T02:28:34Z",
-  "pushed_at": "2018-09-06T22:04:02Z",
+  "updated_at": "2018-09-07T16:53:33Z",
+  "pushed_at": "2018-09-07T22:23:03Z",
   "homepage": "https://webpack.js.org",
-  "size": 302783,
-  "stargazers_count": 1297,
+  "size": 303290,
+  "stargazers_count": 1296,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -563,7 +563,7 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-07T03:29:39.224Z",
+  "fetched_at": "2018-09-08T00:01:17.647Z",
   "pulls_url": "https://api.github.com/repos/webpack/webpack.js.org/pulls{/number}",
   "pulls_authors": [
     "HarshwardhanSingh",
@@ -1452,6 +1452,7 @@
     "antonk52",
     "marcondag",
     "m4jing",
-    "philipwalton"
+    "philipwalton",
+    "mounou19"
   ]
 }

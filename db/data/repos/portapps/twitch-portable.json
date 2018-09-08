@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/portapps/twitch-portable",
   "languages_url": "https://api.github.com/repos/portapps/twitch-portable/languages",
   "created_at": "2017-11-23T18:15:04Z",
-  "updated_at": "2018-09-06T00:29:54Z",
-  "pushed_at": "2018-09-06T00:29:52Z",
+  "updated_at": "2018-09-07T16:19:36Z",
+  "pushed_at": "2018-09-07T16:19:35Z",
   "homepage": "https://portapps.github.io/app/twitch-portable",
-  "size": 52,
+  "size": 53,
   "stargazers_count": 4,
   "language": "Go",
   "mirror_url": null,
@@ -47,15 +47,15 @@
     "site_admin": false
   },
   "contributors": {
-    "crazy-max": 44
+    "crazy-max": 45
   },
   "languages": {
     "Go": {
-      "bytes": 453,
+      "bytes": 471,
       "color": "#375eab"
     }
   },
-  "fetched_at": "2018-09-06T06:39:53.661Z",
+  "fetched_at": "2018-09-08T00:02:51.826Z",
   "pulls_url": "https://api.github.com/repos/portapps/twitch-portable/pulls{/number}",
   "pulls_authors": []
 }

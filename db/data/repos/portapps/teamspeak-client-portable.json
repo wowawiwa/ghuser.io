@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/portapps/teamspeak-client-portable",
   "languages_url": "https://api.github.com/repos/portapps/teamspeak-client-portable/languages",
   "created_at": "2018-01-15T09:50:07Z",
-  "updated_at": "2018-09-06T00:29:41Z",
-  "pushed_at": "2018-09-06T00:29:39Z",
+  "updated_at": "2018-09-07T16:20:10Z",
+  "pushed_at": "2018-09-07T16:20:09Z",
   "homepage": "https://portapps.github.io/app/teamspeak-client-portable",
-  "size": 106,
+  "size": 108,
   "stargazers_count": 4,
   "language": "Go",
   "mirror_url": null,
@@ -47,15 +47,15 @@
     "site_admin": false
   },
   "contributors": {
-    "crazy-max": 22
+    "crazy-max": 23
   },
   "languages": {
     "Go": {
-      "bytes": 719,
+      "bytes": 737,
       "color": "#375eab"
     }
   },
-  "fetched_at": "2018-09-06T06:39:52.806Z",
+  "fetched_at": "2018-09-08T00:02:50.992Z",
   "pulls_url": "https://api.github.com/repos/portapps/teamspeak-client-portable/pulls{/number}",
   "pulls_authors": []
 }

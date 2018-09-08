@@ -11,8 +11,8 @@
   "languages_url": "https://api.github.com/repos/ekmett/parsers/languages",
   "pulls_url": "https://api.github.com/repos/ekmett/parsers/pulls{/number}",
   "created_at": "2012-06-23T07:57:33Z",
-  "updated_at": "2018-07-04T19:30:41Z",
-  "pushed_at": "2018-09-05T21:34:02Z",
+  "updated_at": "2018-09-07T22:59:28Z",
+  "pushed_at": "2018-09-07T22:59:26Z",
   "homepage": null,
   "size": 456,
   "stargazers_count": 61,
@@ -53,7 +53,8 @@
     "nwf": 5,
     "phadej": 7,
     "RyanGlScott": 30,
-    "ekmett": 81
+    "ekmett": 81,
+    "typedrat": 1
   },
   "pulls_authors": [
     "typedrat",
@@ -91,7 +92,7 @@
   ],
   "languages": {
     "Haskell": {
-      "bytes": 91246,
+      "bytes": 92129,
       "color": "#5e5086"
     },
     "Shell": {
@@ -99,5 +100,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-07T11:26:13.879Z"
+  "fetched_at": "2018-09-08T00:07:06.840Z"
 }

@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/antalsz/hs-to-coq/languages",
   "pulls_url": "https://api.github.com/repos/antalsz/hs-to-coq/pulls{/number}",
   "created_at": "2017-03-23T20:03:34Z",
-  "updated_at": "2018-09-06T19:35:45Z",
-  "pushed_at": "2018-09-06T19:35:43Z",
+  "updated_at": "2018-09-07T20:11:35Z",
+  "pushed_at": "2018-09-07T20:11:33Z",
   "homepage": "https://deepspec.org/entry/Project/Haskell+CoreSpec",
-  "size": 9085,
+  "size": 9108,
   "stargazers_count": 178,
   "language": "Coq",
   "mirror_url": null,
@@ -31,12 +31,12 @@
     "abailly": 1,
     "liyishuai": 1,
     "samuelgruetter": 8,
-    "jwiegley": 21,
+    "jwiegley": 22,
     "crizkallah": 30,
     "lastland": 127,
-    "antalsz": 335,
+    "antalsz": 336,
     "sweirich": 444,
-    "nomeata": 1208
+    "nomeata": 1216
   },
   "pulls_authors": [
     "jwiegley",
@@ -50,7 +50,7 @@
       "color": "#ccc"
     },
     "Haskell": {
-      "bytes": 455999,
+      "bytes": 456137,
       "color": "#5e5086"
     },
     "Makefile": {
@@ -70,5 +70,5 @@
       "color": "#7e7eff"
     }
   },
-  "fetched_at": "2018-09-07T11:26:00.329Z"
+  "fetched_at": "2018-09-08T00:06:56.021Z"
 }

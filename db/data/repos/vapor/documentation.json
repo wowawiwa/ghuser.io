@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/vapor/documentation/languages",
   "pulls_url": "https://api.github.com/repos/vapor/documentation/pulls{/number}",
   "created_at": "2016-07-30T19:28:18Z",
-  "updated_at": "2018-09-06T15:30:59Z",
-  "pushed_at": "2018-09-06T15:30:57Z",
+  "updated_at": "2018-09-07T12:55:57Z",
+  "pushed_at": "2018-09-07T12:55:54Z",
   "homepage": "",
-  "size": 10135,
+  "size": 10141,
   "stargazers_count": 217,
   "language": "HTML",
   "mirror_url": null,
@@ -125,7 +125,7 @@
     "natebird": 5,
     "TheNorthEestern": 5,
     "revolter": 5,
-    "0xTim": 21,
+    "0xTim": 22,
     "BrettRToomey": 5,
     "rugi": 5,
     "courteouselk": 5,
@@ -165,7 +165,8 @@
     "tiferrei": 1,
     "timvermeulen": 1,
     "madeny": 1,
-    "EricWVGG": 1
+    "EricWVGG": 1,
+    "axtonpitt": 1
   },
   "pulls_authors": [
     "axtonpitt",
@@ -345,5 +346,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-06T17:05:16.848Z"
+  "fetched_at": "2018-09-08T00:02:41.822Z"
 }

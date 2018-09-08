@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/ethereum/go-ethereum",
   "languages_url": "https://api.github.com/repos/ethereum/go-ethereum/languages",
   "created_at": "2013-12-26T13:05:46Z",
-  "updated_at": "2018-09-07T10:41:41Z",
-  "pushed_at": "2018-09-07T08:05:57Z",
+  "updated_at": "2018-09-07T22:32:42Z",
+  "pushed_at": "2018-09-07T23:20:07Z",
   "homepage": "https://geth.ethereum.org",
-  "size": 94398,
-  "stargazers_count": 20518,
+  "size": 94399,
+  "stargazers_count": 20524,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -93,7 +93,7 @@
     "laishulu": 4,
     "sdboyer": 4,
     "ryanschneider": 6,
-    "justelad": 17,
+    "justelad": 18,
     "GagziW": 5,
     "hydai": 5,
     "cdetrio": 5,
@@ -119,7 +119,7 @@
     "markya0616": 10,
     "ferhatelmas": 10,
     "ethers": 14,
-    "chfast": 16,
+    "chfast": 17,
     "jsvisa": 19,
     "jimenezrick": 12,
     "lmars": 17,
@@ -381,7 +381,7 @@
   },
   "languages": {
     "Go": {
-      "bytes": 9361366,
+      "bytes": 9360973,
       "color": "#375eab"
     },
     "C": {
@@ -449,7 +449,7 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-07T11:21:52.613Z",
+  "fetched_at": "2018-09-08T00:03:23.690Z",
   "pulls_url": "https://api.github.com/repos/ethereum/go-ethereum/pulls{/number}",
   "pulls_authors": [
     "Mistra",

@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/wikimedia/mediawiki-extensions-SyntaxHighlight_GeSHi/languages",
   "pulls_url": "https://api.github.com/repos/wikimedia/mediawiki-extensions-SyntaxHighlight_GeSHi/pulls{/number}",
   "created_at": "2012-11-01T19:32:50Z",
-  "updated_at": "2018-09-07T07:06:16Z",
-  "pushed_at": "2018-09-07T07:08:44Z",
+  "updated_at": "2018-09-07T22:55:51Z",
+  "pushed_at": "2018-09-07T22:56:31Z",
   "homepage": "",
-  "size": 13681,
+  "size": 13693,
   "stargazers_count": 19,
   "language": "PHP",
   "mirror_url": null,
@@ -85,12 +85,13 @@
     "reedy": 32,
     "edg2s": 37,
     "legoktm": 47,
-    "translatewiki": 204
+    "translatewiki": 204,
+    "cscott": 1
   },
   "pulls_authors": [],
   "languages": {
     "PHP": {
-      "bytes": 48805,
+      "bytes": 48792,
       "color": "#4F5D95"
     },
     "JavaScript": {
@@ -106,5 +107,5 @@
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-09-07T11:23:49.388Z"
+  "fetched_at": "2018-09-08T00:04:54.015Z"
 }

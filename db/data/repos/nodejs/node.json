@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/nodejs/node",
   "languages_url": "https://api.github.com/repos/nodejs/node/languages",
   "created_at": "2014-11-26T19:57:11Z",
-  "updated_at": "2018-09-07T10:50:59Z",
-  "pushed_at": "2018-09-07T11:09:30Z",
+  "updated_at": "2018-09-07T23:57:19Z",
+  "pushed_at": "2018-09-07T23:56:22Z",
   "homepage": "https://nodejs.org",
-  "size": 407356,
-  "stargazers_count": 53068,
+  "size": 411259,
+  "stargazers_count": 53083,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,19 +48,19 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 6843178,
+      "bytes": 6841259,
       "color": "#f1e05a"
     },
     "C++": {
-      "bytes": 2530150,
+      "bytes": 2530797,
       "color": "#f34b7d"
     },
     "Python": {
-      "bytes": 1970767,
+      "bytes": 2027195,
       "color": "#3572A5"
     },
     "C": {
-      "bytes": 432869,
+      "bytes": 432955,
       "color": "#555555"
     },
     "HTML": {
@@ -68,7 +68,7 @@
       "color": "#e34c26"
     },
     "Makefile": {
-      "bytes": 43321,
+      "bytes": 43334,
       "color": "#427819"
     },
     "DTrace": {
@@ -106,7 +106,7 @@
     "DavidCai1993": 20,
     "rlidwka": 20,
     "davepacheco": 20,
-    "mmarchini": 30,
+    "mmarchini": 32,
     "XadillaX": 22,
     "princejwesley": 21,
     "mathiasbynens": 21,
@@ -168,7 +168,7 @@
     "jbergstroem": 76,
     "santigimeno": 84,
     "silverwind": 89,
-    "refack": 98,
+    "refack": 101,
     "AndreasMadsen": 104,
     "tniessen": 133,
     "ofrobots": 119,
@@ -184,15 +184,15 @@
     "apapirovski": 193,
     "TooTallNate": 197,
     "joyeecheung": 232,
-    "targos": 296,
+    "targos": 308,
     "vsemozhetbyt": 282,
     "tjfontaine": 332,
-    "BridgeAR": 351,
+    "BridgeAR": 355,
     "mscdex": 318,
     "rvagg": 324,
-    "danbev": 356,
+    "danbev": 357,
     "trevnorris": 363,
-    "cjihrig": 400,
+    "cjihrig": 402,
     "jasnell": 531,
     "piscisaureus": 598,
     "addaleax": 697,
@@ -308,7 +308,7 @@
     "timoxley": 6,
     "williamkapke": 6,
     "Flarna": 7,
-    "ak239": 9,
+    "ak239": 10,
     "adammw": 5,
     "gromnitsky": 5,
     "zertosh": 5,
@@ -392,7 +392,7 @@
     "langpavel": 4,
     "wzoom": 4,
     "pvsousalima": 4,
-    "psmarshall": 7,
+    "psmarshall": 8,
     "hekike": 4,
     "robertchiras": 4,
     "him2him2": 4,
@@ -575,7 +575,7 @@
     "Maledong": 8,
     "TomCoded": 3
   },
-  "fetched_at": "2018-09-07T11:26:32.889Z",
+  "fetched_at": "2018-09-08T00:07:24.641Z",
   "pulls_url": "https://api.github.com/repos/nodejs/node/pulls{/number}",
   "pulls_authors": [
     "mmarchini",

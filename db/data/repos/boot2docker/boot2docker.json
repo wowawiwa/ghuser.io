@@ -11,8 +11,8 @@
   "languages_url": "https://api.github.com/repos/boot2docker/boot2docker/languages",
   "pulls_url": "https://api.github.com/repos/boot2docker/boot2docker/pulls{/number}",
   "created_at": "2013-12-04T17:26:57Z",
-  "updated_at": "2018-09-07T09:46:52Z",
-  "pushed_at": "2018-08-23T17:17:06Z",
+  "updated_at": "2018-09-07T20:30:00Z",
+  "pushed_at": "2018-09-07T20:29:55Z",
   "homepage": "",
   "size": 1393,
   "stargazers_count": 7547,
@@ -147,7 +147,7 @@
     "aheissenberger": 25,
     "steeve": 146,
     "SvenDowideit": 194,
-    "tianon": 479,
+    "tianon": 480,
     "daghack": 5,
     "whitlaaa": 1,
     "masaeedu": 1,
@@ -380,9 +380,9 @@
       "color": "#89e051"
     },
     "Dockerfile": {
-      "bytes": 12713,
+      "bytes": 12716,
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-07T11:25:48.153Z"
+  "fetched_at": "2018-09-08T00:06:43.310Z"
 }

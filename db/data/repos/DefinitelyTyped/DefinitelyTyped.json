@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/DefinitelyTyped/DefinitelyTyped/languages",
   "pulls_url": "https://api.github.com/repos/DefinitelyTyped/DefinitelyTyped/pulls{/number}",
   "created_at": "2012-10-05T16:39:45Z",
-  "updated_at": "2018-09-07T11:07:13Z",
-  "pushed_at": "2018-09-07T11:18:07Z",
+  "updated_at": "2018-09-07T23:57:25Z",
+  "pushed_at": "2018-09-07T23:56:17Z",
   "homepage": "http://definitelytyped.org/",
-  "size": 352290,
-  "stargazers_count": 17290,
+  "size": 354400,
+  "stargazers_count": 17300,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -97,7 +97,7 @@
     "Nemo157": 50,
     "fullflavedave": 55,
     "pspeter3": 60,
-    "denisname": 58,
+    "denisname": 62,
     "AJamesPhillips": 54,
     "niikoo": 161,
     "plantain-00": 58,
@@ -126,7 +126,7 @@
     "mhegazy": 318,
     "tomwanzek": 103,
     "AlexJerabek": 148,
-    "Syncfusion-JavaScript": 103,
+    "Syncfusion-JavaScript": 105,
     "TonyPythoneer": 103,
     "rafaelsouzaf": 110,
     "Diullei": 485,
@@ -148,7 +148,7 @@
     "chrootsu": 407,
     "vvakame": 4297,
     "andy-ms": 1460,
-    "minestarks": 682,
+    "minestarks": 698,
     "aozgaa": 481,
     "uniqueiniquity": 472,
     "rbuckton": 335,
@@ -194,7 +194,7 @@
     "e-cloud": 29,
     "lijunle": 29,
     "alejo90": 31,
-    "Alorel": 30,
+    "Alorel": 32,
     "xt0rted": 28,
     "RReverser": 28,
     "janaagaard75": 28,
@@ -207,7 +207,7 @@
     "dasa": 27,
     "ZaneHannanAU": 27,
     "huhuanming": 27,
-    "SimonSchick": 27,
+    "SimonSchick": 28,
     "kaoDev": 27,
     "DeividasBakanas": 27,
     "alexeagle": 27,
@@ -462,7 +462,7 @@
     "romain-faust": 31,
     "franklixuefei": 15,
     "meganrm": 21,
-    "danwbyrne": 25,
+    "danwbyrne": 27,
     "odahcam": 46,
     "mike-north": 27
   },
@@ -8999,11 +8999,17 @@
     "mknet",
     "NorbertB29",
     "chenyong0402",
-    "Codex-"
+    "Codex-",
+    "drebits",
+    "lmachens",
+    "Larry1123",
+    "jonasheinrich",
+    "pbuyle",
+    "mezzode"
   ],
   "languages": {
     "TypeScript": {
-      "bytes": 25120708,
+      "bytes": 25139083,
       "color": "#2b7489"
     },
     "JavaScript": {
@@ -9015,5 +9021,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-07T11:20:12.350Z"
+  "fetched_at": "2018-09-08T00:02:00.660Z"
 }

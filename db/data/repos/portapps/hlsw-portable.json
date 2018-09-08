@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/portapps/hlsw-portable/languages",
   "pulls_url": "https://api.github.com/repos/portapps/hlsw-portable/pulls{/number}",
   "created_at": "2012-09-18T15:57:39Z",
-  "updated_at": "2018-09-06T00:16:28Z",
-  "pushed_at": "2018-09-06T00:16:26Z",
+  "updated_at": "2018-09-07T16:21:54Z",
+  "pushed_at": "2018-09-07T16:21:52Z",
   "homepage": "https://portapps.github.io/app/hlsw-portable",
-  "size": 117,
+  "size": 119,
   "stargazers_count": 1,
   "language": "Go",
   "mirror_url": null,
@@ -48,14 +48,14 @@
     "site_admin": false
   },
   "contributors": {
-    "crazy-max": 28
+    "crazy-max": 29
   },
   "pulls_authors": [],
   "languages": {
     "Go": {
-      "bytes": 772,
+      "bytes": 790,
       "color": "#375eab"
     }
   },
-  "fetched_at": "2018-09-06T06:39:54.121Z"
+  "fetched_at": "2018-09-08T00:02:52.245Z"
 }

@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/pytest-dev/pytest-repeat/languages",
   "pulls_url": "https://api.github.com/repos/pytest-dev/pytest-repeat/pulls{/number}",
   "created_at": "2015-10-19T18:22:55Z",
-  "updated_at": "2018-08-23T10:58:01Z",
-  "pushed_at": "2018-08-23T10:58:16Z",
+  "updated_at": "2018-09-07T19:27:54Z",
+  "pushed_at": "2018-09-07T19:27:53Z",
   "homepage": "https://pypi.python.org/pypi/pytest-repeat/",
-  "size": 40,
+  "size": 43,
   "stargazers_count": 26,
   "language": "Python",
   "mirror_url": null,
@@ -55,7 +55,8 @@
     "Peque": 3,
     "tomviner": 3,
     "bobsilverberg": 4,
-    "davehunt": 25
+    "davehunt": 25,
+    "jamseams": 2
   },
   "pulls_authors": [
     "hugovk",
@@ -66,7 +67,8 @@
     "jayvdb",
     "tomviner",
     "jladdjr",
-    "bobsilverberg"
+    "bobsilverberg",
+    "jamseams"
   ],
   "languages": {
     "Python": {
@@ -74,5 +76,5 @@
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-08-23T12:46:25.328Z"
+  "fetched_at": "2018-09-08T00:04:46.014Z"
 }

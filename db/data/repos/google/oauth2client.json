@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/google/oauth2client/languages",
   "pulls_url": "https://api.github.com/repos/google/oauth2client/pulls{/number}",
   "created_at": "2013-11-07T18:03:04Z",
-  "updated_at": "2018-09-05T01:03:22Z",
-  "pushed_at": "2018-09-04T07:32:52Z",
+  "updated_at": "2018-09-07T21:33:22Z",
+  "pushed_at": "2018-09-07T21:37:01Z",
   "homepage": "",
-  "size": 23970,
+  "size": 23972,
   "stargazers_count": 681,
   "language": "Python",
   "mirror_url": null,
@@ -115,7 +115,9 @@
     "pferate": 70,
     "craigcitro": 106,
     "dhermes": 169,
-    "jcgregorio": 471
+    "jcgregorio": 471,
+    "houglum": 1,
+    "hvardhanx": 1
   },
   "pulls_authors": [
     "oalbrigt",
@@ -218,11 +220,12 @@
     "alexanderattar",
     "iditgolden",
     "sde-melo",
-    "lraccomando"
+    "lraccomando",
+    "houglum"
   ],
   "languages": {
     "Python": {
-      "bytes": 719629,
+      "bytes": 719595,
       "color": "#3572A5"
     },
     "Shell": {
@@ -234,5 +237,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-05T02:22:24.188Z"
+  "fetched_at": "2018-09-08T00:04:52.381Z"
 }

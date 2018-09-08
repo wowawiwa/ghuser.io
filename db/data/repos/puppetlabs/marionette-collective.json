@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/puppetlabs/marionette-collective",
   "languages_url": "https://api.github.com/repos/puppetlabs/marionette-collective/languages",
   "created_at": "2010-10-21T23:51:40Z",
-  "updated_at": "2018-08-30T00:29:46Z",
-  "pushed_at": "2018-08-30T00:29:44Z",
+  "updated_at": "2018-09-07T18:17:06Z",
+  "pushed_at": "2018-09-07T20:49:26Z",
   "homepage": "http://docs.puppetlabs.com/mcollective/",
-  "size": 6955,
+  "size": 6967,
   "stargazers_count": 212,
   "language": "Ruby",
   "mirror_url": null,
@@ -193,9 +193,10 @@
     "MFredette": 1,
     "mwaggett": 8,
     "sigv": 1,
-    "ekinanp": 1
+    "ekinanp": 1,
+    "katelopresti": 2
   },
-  "fetched_at": "2018-08-30T09:29:20.221Z",
+  "fetched_at": "2018-09-08T00:05:20.592Z",
   "pulls_url": "https://api.github.com/repos/puppetlabs/marionette-collective/pulls{/number}",
   "pulls_authors": [
     "mwaggett",
@@ -326,6 +327,7 @@
     "adamgibbins",
     "kiall",
     "relistan",
-    "jordansissel"
+    "jordansissel",
+    "katelopresti"
   ]
 }

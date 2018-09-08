@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/ghc/ghc/languages",
   "pulls_url": "https://api.github.com/repos/ghc/ghc/pulls{/number}",
   "created_at": "2011-04-02T19:39:34Z",
-  "updated_at": "2018-09-07T10:57:00Z",
-  "pushed_at": "2018-09-07T11:21:43Z",
+  "updated_at": "2018-09-07T20:24:48Z",
+  "pushed_at": "2018-09-07T22:20:29Z",
   "homepage": "http://www.haskell.org/ghc/",
-  "size": 209684,
-  "stargazers_count": 1934,
+  "size": 209913,
+  "stargazers_count": 1936,
   "language": "Haskell",
   "mirror_url": "http://git.haskell.org/ghc.git",
   "archived": false,
@@ -85,7 +85,7 @@
     "pgj": 19,
     "waern": 19,
     "int-e": 20,
-    "takenobu-hs": 21,
+    "takenobu-hs": 22,
     "chris-martin": 21,
     "Rufflewind": 21,
     "sjakobi": 22,
@@ -113,7 +113,7 @@
     "catamorphism": 86,
     "kgardas": 82,
     "clefru": 81,
-    "monoidal": 90,
+    "monoidal": 91,
     "benl23x5": 346,
     "tibbe": 105,
     "donsbot": 180,
@@ -144,7 +144,7 @@
     "ezyang": 654,
     "thoughtpolice": 701,
     "hvr": 775,
-    "bgamari": 1604,
+    "bgamari": 1605,
     "simonmar": 11487,
     "simonpj": 9358,
     "igfoo": 7113,
@@ -547,7 +547,7 @@
   ],
   "languages": {
     "Haskell": {
-      "bytes": 23164786,
+      "bytes": 23164389,
       "color": "#5e5086"
     },
     "C": {
@@ -655,5 +655,5 @@
       "color": "#da291c"
     }
   },
-  "fetched_at": "2018-09-07T11:26:00.797Z"
+  "fetched_at": "2018-09-08T00:06:56.459Z"
 }

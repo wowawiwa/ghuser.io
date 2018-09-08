@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/coq/coq/languages",
   "pulls_url": "https://api.github.com/repos/coq/coq/pulls{/number}",
   "created_at": "2011-02-17T05:49:37Z",
-  "updated_at": "2018-09-07T11:25:43Z",
-  "pushed_at": "2018-09-07T10:52:16Z",
+  "updated_at": "2018-09-07T17:18:08Z",
+  "pushed_at": "2018-09-07T19:50:44Z",
   "homepage": "https://coq.inria.fr/",
-  "size": 114891,
+  "size": 114933,
   "stargazers_count": 1439,
   "language": "OCaml",
   "mirror_url": null,
@@ -85,7 +85,7 @@
     "aa755": 2,
     "roglo": 4,
     "jhjourdan": 2,
-    "mgrabovsky": 2,
+    "mgrabovsky": 3,
     "pi8027": 3,
     "DanGrayson": 3,
     "Lysxia": 3,
@@ -129,7 +129,7 @@
     "jashug": 30,
     "cmangin": 35,
     "xclerc": 61,
-    "vbgl": 44,
+    "vbgl": 48,
     "tchajed": 41,
     "yurug": 79,
     "amintimany": 46,
@@ -138,16 +138,16 @@
     "JasonGross": 298,
     "letouzey": 2013,
     "silene": 417,
-    "Zimmi48": 498,
+    "Zimmi48": 501,
     "SkySkimmer": 476,
     "pirbo": 438,
-    "ejgallego": 596,
+    "ejgallego": 597,
     "aspiwack": 558,
     "maximedenes": 1994,
     "gares": 945,
     "mattam82": 1744,
     "herbelin": 7125,
-    "ppedrot": 2549,
+    "ppedrot": 2550,
     "invalid-email-address": 5,
     "bafain": 1,
     "siddharthist": 1,
@@ -275,7 +275,7 @@
   ],
   "languages": {
     "OCaml": {
-      "bytes": 9798203,
+      "bytes": 9799322,
       "color": "#3be133"
     },
     "Coq": {
@@ -327,7 +327,7 @@
       "color": "#c065db"
     },
     "Nix": {
-      "bytes": 3749,
+      "bytes": 3754,
       "color": "#7e7eff"
     },
     "C++": {
@@ -351,5 +351,5 @@
       "color": "#64b970"
     }
   },
-  "fetched_at": "2018-09-07T11:26:02.876Z"
+  "fetched_at": "2018-09-08T00:06:58.297Z"
 }

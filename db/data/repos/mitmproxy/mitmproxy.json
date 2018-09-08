@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/mitmproxy/mitmproxy/languages",
   "pulls_url": "https://api.github.com/repos/mitmproxy/mitmproxy/pulls{/number}",
   "created_at": "2010-02-16T04:10:13Z",
-  "updated_at": "2018-09-07T08:44:58Z",
-  "pushed_at": "2018-09-07T08:34:56Z",
+  "updated_at": "2018-09-07T20:57:54Z",
+  "pushed_at": "2018-09-07T16:15:44Z",
   "homepage": "https://mitmproxy.org/",
-  "size": 44950,
-  "stargazers_count": 12382,
+  "size": 44976,
+  "stargazers_count": 12386,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -145,8 +145,8 @@
     "gzzhanghao": 97,
     "MatthewShao": 240,
     "dufferzafar": 265,
-    "Kriechi": 861,
-    "mhils": 2461,
+    "Kriechi": 864,
+    "mhils": 2465,
     "cortesi": 2935,
     "andersonvom": 2,
     "gcmurphy": 2,
@@ -283,7 +283,8 @@
     "tripleee": 1,
     "vulnminer": 1,
     "vzvu3k6k": 1,
-    "elijahbal": 2
+    "elijahbal": 2,
+    "guangchao0831": 1
   },
   "pulls_authors": [
     "kajojify",
@@ -595,7 +596,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 1806796,
+      "bytes": 1806848,
       "color": "#3572A5"
     },
     "JavaScript": {
@@ -623,5 +624,5 @@
       "color": "#012456"
     }
   },
-  "fetched_at": "2018-09-07T11:22:00.637Z"
+  "fetched_at": "2018-09-08T00:03:31.283Z"
 }

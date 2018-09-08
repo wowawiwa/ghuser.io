@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/ethereum/web3.py",
   "languages_url": "https://api.github.com/repos/ethereum/web3.py/languages",
   "created_at": "2016-04-14T15:59:35Z",
-  "updated_at": "2018-09-07T04:50:07Z",
-  "pushed_at": "2018-09-07T09:40:38Z",
+  "updated_at": "2018-09-07T19:46:26Z",
+  "pushed_at": "2018-09-07T17:29:34Z",
   "homepage": "http://web3py.readthedocs.io",
   "size": 2792,
-  "stargazers_count": 1047,
+  "stargazers_count": 1049,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -127,11 +127,12 @@
     "AntoineRondelet": 1,
     "lastmjs": 1,
     "amirbaer": 1,
-    "Exef": 1
+    "Exef": 1,
+    "JulianLiu": 1
   },
   "languages": {
     "Python": {
-      "bytes": 974681,
+      "bytes": 974685,
       "color": "#3572A5"
     },
     "Makefile": {
@@ -143,7 +144,7 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-07T11:26:33.087Z",
+  "fetched_at": "2018-09-08T00:07:24.816Z",
   "pulls_url": "https://api.github.com/repos/ethereum/web3.py/pulls{/number}",
   "pulls_authors": [
     "akhavr",

@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/elastic/kibana",
   "languages_url": "https://api.github.com/repos/elastic/kibana/languages",
   "created_at": "2013-01-26T04:00:59Z",
-  "updated_at": "2018-09-07T11:09:57Z",
-  "pushed_at": "2018-09-07T11:23:44Z",
+  "updated_at": "2018-09-07T20:02:06Z",
+  "pushed_at": "2018-09-07T23:50:26Z",
   "homepage": "https://www.elastic.co/products/kibana",
-  "size": 452274,
+  "size": 452363,
   "stargazers_count": 10040,
   "language": "JavaScript",
   "mirror_url": null,
@@ -48,15 +48,15 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 18508269,
+      "bytes": 18510953,
       "color": "#f1e05a"
     },
     "TypeScript": {
-      "bytes": 960290,
+      "bytes": 977726,
       "color": "#2b7489"
     },
     "HTML": {
-      "bytes": 826566,
+      "bytes": 826844,
       "color": "#e34c26"
     },
     "CSS": {
@@ -108,7 +108,7 @@
     "meganwalker-ibm": 4,
     "colings86": 6,
     "nik9000": 4,
-    "legrego": 11,
+    "legrego": 12,
     "mattapperson": 5,
     "jpfxgood": 5,
     "sonenko": 5,
@@ -137,13 +137,13 @@
     "coverslide": 11,
     "repocho": 12,
     "jordansissel": 11,
-    "jen-huang": 18,
+    "jen-huang": 19,
     "PopradiArpad": 12,
     "gchaps": 23,
     "justinkambic": 18,
     "azasypkin": 33,
     "snide": 28,
-    "jgowdyelastic": 62,
+    "jgowdyelastic": 63,
     "kkirsche": 13,
     "peteharverson": 35,
     "trevan": 24,
@@ -170,20 +170,20 @@
     "nreese": 215,
     "panda01": 323,
     "BigFunger": 339,
-    "Stacey-Gammon": 271,
+    "Stacey-Gammon": 274,
     "ppisljar": 281,
     "LeeDr": 327,
     "ycombinator": 330,
-    "epixa": 395,
+    "epixa": 396,
     "lukasolson": 461,
     "jbudz": 471,
     "cjcenizal": 483,
-    "Bargs": 567,
+    "Bargs": 569,
     "bleskes": 515,
     "simianhacker": 665,
     "rashidkpc": 1001,
     "stormpython": 1190,
-    "w33ble": 1612,
+    "w33ble": 1613,
     "spalger": 4248,
     "ajebasingh": 2,
     "nellicus": 2,
@@ -346,7 +346,7 @@
     "yankouskia": 8,
     "ruflin": 4,
     "hendrikmuhs": 1,
-    "LeanidShutau": 10,
+    "LeanidShutau": 11,
     "exekias": 1,
     "pjhampton": 1,
     "simitt": 2,
@@ -366,7 +366,7 @@
     "hvardhanx": 1,
     "watson": 1
   },
-  "fetched_at": "2018-09-07T11:24:09.365Z",
+  "fetched_at": "2018-09-08T00:05:11.270Z",
   "pulls_url": "https://api.github.com/repos/elastic/kibana/pulls{/number}",
   "pulls_authors": [
     "nreese",
@@ -1001,6 +1001,7 @@
     "jasonrhodes",
     "rshen91",
     "watson",
-    "Bond94g"
+    "Bond94g",
+    "swifhorse119812"
   ]
 }

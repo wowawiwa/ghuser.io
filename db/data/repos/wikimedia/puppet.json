@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/wikimedia/puppet/languages",
   "pulls_url": "https://api.github.com/repos/wikimedia/puppet/pulls{/number}",
   "created_at": "2013-02-04T18:20:32Z",
-  "updated_at": "2018-09-07T11:09:33Z",
-  "pushed_at": "2018-09-07T11:09:31Z",
+  "updated_at": "2018-09-07T23:59:04Z",
+  "pushed_at": "2018-09-07T23:59:01Z",
   "homepage": "https://wikitech.wikimedia.org/wiki/Puppet_coding",
-  "size": 244183,
+  "size": 244313,
   "stargazers_count": 142,
   "language": "Puppet",
   "mirror_url": null,
@@ -82,7 +82,7 @@
     "Pchelolo": 50,
     "subbuss": 50,
     "nuria": 52,
-    "legoktm": 62,
+    "legoktm": 63,
     "milimetric": 60,
     "dereckson": 60,
     "aklapper": 67,
@@ -90,7 +90,7 @@
     "addshore": 70,
     "smalyshev": 78,
     "valhallasw": 76,
-    "crookedstorm": 114,
+    "crookedstorm": 115,
     "ebernhardson": 103,
     "gi11es": 114,
     "XioNoX": 115,
@@ -115,7 +115,7 @@
     "catrope": 203,
     "d00rman": 249,
     "gehel": 277,
-    "paladox": 268,
+    "paladox": 270,
     "scfc": 311,
     "volans-": 326,
     "cmjohnson1": 450,
@@ -123,11 +123,11 @@
     "Cauren": 647,
     "marostegui": 470,
     "bd808": 464,
-    "ema": 614,
+    "ema": 615,
     "j6r33n": 781,
-    "demon": 683,
+    "demon": 684,
     "robhalsell": 1176,
-    "elukey": 1014,
+    "elukey": 1018,
     "chasemp": 1073,
     "ryan-lane": 1055,
     "apergos": 1190,
@@ -224,7 +224,8 @@
     "tinajohnson": 1,
     "Familiarguy": 1,
     "tienne-B": 1,
-    "onimisionipe": 1
+    "onimisionipe": 1,
+    "manjiki": 4
   },
   "pulls_authors": [
     "jeis2497052",
@@ -233,15 +234,15 @@
   ],
   "languages": {
     "Puppet": {
-      "bytes": 3596900,
+      "bytes": 3598133,
       "color": "#302B6D"
     },
     "HTML": {
-      "bytes": 2112169,
+      "bytes": 2112123,
       "color": "#e34c26"
     },
     "Python": {
-      "bytes": 1711403,
+      "bytes": 1712139,
       "color": "#3572A5"
     },
     "Ruby": {
@@ -253,7 +254,7 @@
       "color": "#199f4b"
     },
     "Shell": {
-      "bytes": 788954,
+      "bytes": 789368,
       "color": "#89e051"
     },
     "Perl": {
@@ -313,5 +314,5 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-09-07T11:23:44.690Z"
+  "fetched_at": "2018-09-08T00:04:51.162Z"
 }

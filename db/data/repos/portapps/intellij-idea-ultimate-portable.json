@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/portapps/intellij-idea-ultimate-portable",
   "languages_url": "https://api.github.com/repos/portapps/intellij-idea-ultimate-portable/languages",
   "created_at": "2018-02-14T13:22:50Z",
-  "updated_at": "2018-09-06T18:11:30Z",
-  "pushed_at": "2018-09-06T18:59:16Z",
+  "updated_at": "2018-09-07T16:21:08Z",
+  "pushed_at": "2018-09-07T16:21:07Z",
   "homepage": "https://portapps.github.io/app/intellij-idea-ultimate-portable",
-  "size": 125,
+  "size": 126,
   "stargazers_count": 12,
   "language": "Go",
   "mirror_url": null,
@@ -47,15 +47,15 @@
     "site_admin": false
   },
   "contributors": {
-    "crazy-max": 21
+    "crazy-max": 22
   },
   "languages": {
     "Go": {
-      "bytes": 1300,
+      "bytes": 1318,
       "color": "#375eab"
     }
   },
-  "fetched_at": "2018-09-07T03:31:15.352Z",
+  "fetched_at": "2018-09-08T00:02:50.751Z",
   "pulls_url": "https://api.github.com/repos/portapps/intellij-idea-ultimate-portable/pulls{/number}",
   "pulls_authors": []
 }

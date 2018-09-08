@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/toggl/toggldesktop/languages",
   "pulls_url": "https://api.github.com/repos/toggl/toggldesktop/pulls{/number}",
   "created_at": "2014-02-10T17:50:41Z",
-  "updated_at": "2018-09-06T21:51:51Z",
-  "pushed_at": "2018-09-06T10:43:51Z",
+  "updated_at": "2018-09-07T20:51:31Z",
+  "pushed_at": "2018-09-07T20:57:24Z",
   "homepage": "https://toggl.github.io/toggldesktop/",
-  "size": 218064,
+  "size": 218071,
   "stargazers_count": 1030,
   "language": "C++",
   "mirror_url": null,
@@ -69,7 +69,7 @@
     "partyka1": 1,
     "sainaen": 1,
     "toggl-buildbot": 11,
-    "MartinBriza": 3
+    "MartinBriza": 4
   },
   "pulls_authors": [
     "Jackymancs4",
@@ -97,7 +97,7 @@
   ],
   "languages": {
     "C++": {
-      "bytes": 1011343,
+      "bytes": 1011437,
       "color": "#f34b7d"
     },
     "C#": {
@@ -137,5 +137,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-07T03:33:09.231Z"
+  "fetched_at": "2018-09-08T00:04:38.843Z"
 }

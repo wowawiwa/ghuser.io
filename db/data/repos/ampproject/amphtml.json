@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/ampproject/amphtml",
   "languages_url": "https://api.github.com/repos/ampproject/amphtml/languages",
   "created_at": "2015-09-01T22:10:53Z",
-  "updated_at": "2018-09-07T10:02:58Z",
-  "pushed_at": "2018-09-07T05:23:51Z",
+  "updated_at": "2018-09-07T22:44:06Z",
+  "pushed_at": "2018-09-07T23:48:43Z",
   "homepage": "https://www.ampproject.org",
-  "size": 496193,
-  "stargazers_count": 11950,
+  "size": 496214,
+  "stargazers_count": 11951,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -83,7 +83,7 @@
     "clawr": 9,
     "jlucero-contentad": 9,
     "rgthree": 18,
-    "addieachan": 13,
+    "addieachan": 14,
     "josh313": 10,
     "mlb7687": 10,
     "trodrigues": 12,
@@ -95,7 +95,7 @@
     "shawnbuso": 14,
     "tiendt": 15,
     "ericlindley-g": 18,
-    "torch2424": 23,
+    "torch2424": 24,
     "jaboc83": 18,
     "zhangsu": 22,
     "rudygalfi": 39,
@@ -116,7 +116,7 @@
     "jonkeller": 61,
     "mrjoro": 67,
     "danielrozenberg": 73,
-    "calebcordry": 81,
+    "calebcordry": 84,
     "nainar": 91,
     "avimehta": 86,
     "prateekbh": 91,
@@ -141,7 +141,7 @@
     "aghassemi": 287,
     "choumx": 343,
     "lannka": 344,
-    "zhouyx": 339,
+    "zhouyx": 340,
     "jridgewell": 437,
     "rsimha": 412,
     "erwinmombay": 708,
@@ -497,7 +497,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 12296492,
+      "bytes": 12310159,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -505,7 +505,7 @@
       "color": "#e34c26"
     },
     "CSS": {
-      "bytes": 343188,
+      "bytes": 344075,
       "color": "#563d7c"
     },
     "Python": {
@@ -529,7 +529,7 @@
       "color": "#375eab"
     }
   },
-  "fetched_at": "2018-09-07T11:23:55.021Z",
+  "fetched_at": "2018-09-08T00:04:58.288Z",
   "pulls_url": "https://api.github.com/repos/ampproject/amphtml/pulls{/number}",
   "pulls_authors": [
     "keithwrightbos",
@@ -1238,6 +1238,8 @@
     "adityapunjani",
     "slocka",
     "verificatorrus",
-    "windtara0619"
+    "windtara0619",
+    "xymw",
+    "phalconjohy"
   ]
 }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/ChrisRM/material-theme-jetbrains/languages",
   "pulls_url": "https://api.github.com/repos/ChrisRM/material-theme-jetbrains/pulls{/number}",
   "created_at": "2015-09-23T07:15:04Z",
-  "updated_at": "2018-09-07T07:34:58Z",
-  "pushed_at": "2018-09-04T07:10:34Z",
+  "updated_at": "2018-09-07T23:56:23Z",
+  "pushed_at": "2018-09-07T14:30:25Z",
   "homepage": null,
   "size": 130079,
-  "stargazers_count": 6182,
+  "stargazers_count": 6184,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -111,7 +111,8 @@
     "ptt-homme",
     "shinigamicorei7",
     "vitorprado",
-    "vmasek"
+    "vmasek",
+    "mistamek"
   ],
   "languages": {
     "Java": {
@@ -127,5 +128,5 @@
       "color": "#F18E33"
     }
   },
-  "fetched_at": "2018-09-07T11:20:01.560Z"
+  "fetched_at": "2018-09-08T00:01:54.367Z"
 }

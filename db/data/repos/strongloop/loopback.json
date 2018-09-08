@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/strongloop/loopback",
   "languages_url": "https://api.github.com/repos/strongloop/loopback/languages",
   "created_at": "2013-04-09T16:02:18Z",
-  "updated_at": "2018-09-07T10:31:16Z",
-  "pushed_at": "2018-09-06T07:42:20Z",
+  "updated_at": "2018-09-07T15:38:21Z",
+  "pushed_at": "2018-09-07T19:31:44Z",
   "homepage": "http://loopback.io",
-  "size": 8482,
+  "size": 8427,
   "stargazers_count": 11596,
   "language": "JavaScript",
   "mirror_url": null,
@@ -179,7 +179,7 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-07T11:22:39.297Z",
+  "fetched_at": "2018-09-08T00:04:02.295Z",
   "pulls_url": "https://api.github.com/repos/strongloop/loopback/pulls{/number}",
   "pulls_authors": [
     "ivanschwarz",

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/Kinto/kinto",
   "languages_url": "https://api.github.com/repos/Kinto/kinto/languages",
   "created_at": "2015-02-25T13:34:23Z",
-  "updated_at": "2018-09-06T21:49:22Z",
+  "updated_at": "2018-09-07T21:23:02Z",
   "pushed_at": "2018-09-06T21:49:22Z",
   "homepage": "http://docs.kinto-storage.org/",
   "size": 23240,
-  "stargazers_count": 3536,
+  "stargazers_count": 3535,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -159,7 +159,7 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-07T03:35:29.847Z",
+  "fetched_at": "2018-09-08T00:07:25.860Z",
   "pulls_url": "https://api.github.com/repos/Kinto/kinto/pulls{/number}",
   "pulls_authors": [
     "pyup-bot",

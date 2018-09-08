@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/OriginProtocol/origin-dapp/languages",
   "pulls_url": "https://api.github.com/repos/OriginProtocol/origin-dapp/pulls{/number}",
   "created_at": "2017-08-01T22:06:57Z",
-  "updated_at": "2018-09-07T09:29:17Z",
-  "pushed_at": "2018-09-07T10:12:36Z",
+  "updated_at": "2018-09-07T17:29:47Z",
+  "pushed_at": "2018-09-07T23:47:12Z",
   "homepage": "https://demo.originprotocol.com",
-  "size": 52192,
+  "size": 52305,
   "stargazers_count": 293,
   "language": "JavaScript",
   "mirror_url": null,
@@ -74,7 +74,7 @@
     "nick": 11,
     "DanielVF": 13,
     "matthewliu": 19,
-    "jordajm": 35,
+    "jordajm": 36,
     "tyleryasaka": 48,
     "joshfraser": 65,
     "micahalcorn": 183,
@@ -128,7 +128,7 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 463915,
+      "bytes": 465218,
       "color": "#f1e05a"
     },
     "CSS": {
@@ -148,5 +148,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-07T11:19:40.012Z"
+  "fetched_at": "2018-09-08T00:01:32.290Z"
 }

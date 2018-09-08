@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/haskell/hackage-server/languages",
   "pulls_url": "https://api.github.com/repos/haskell/hackage-server/pulls{/number}",
   "created_at": "2013-08-20T11:08:21Z",
-  "updated_at": "2018-09-07T00:45:28Z",
+  "updated_at": "2018-09-07T16:59:50Z",
   "pushed_at": "2018-09-05T06:57:31Z",
   "homepage": "http://hackage.haskell.org",
   "size": 9999,
-  "stargazers_count": 233,
+  "stargazers_count": 235,
   "language": "Haskell",
   "mirror_url": null,
   "archived": false,
@@ -271,5 +271,5 @@
       "color": "#596706"
     }
   },
-  "fetched_at": "2018-09-07T11:26:18.367Z"
+  "fetched_at": "2018-09-08T00:07:10.622Z"
 }
