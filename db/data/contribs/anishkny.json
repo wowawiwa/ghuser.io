@@ -69,13 +69,13 @@
     "softonic/axios-retry": {
       "full_name": "softonic/axios-retry",
       "name": "axios-retry",
-      "stargazers_count": 270,
-      "popularity": 3.4299527718919838,
+      "stargazers_count": 271,
+      "popularity": 3.4315636583694564,
       "percentage": 1.694915254237288,
       "maturity": 2.2827606132375395,
       "total_commits_count": 59,
       "activity": 5,
-      "total_score": 20.611131847822143,
+      "total_score": 20.61631944834282,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -303,7 +303,7 @@
     "mochajs/mocha": {
       "full_name": "mochajs/mocha",
       "name": "mocha",
-      "stargazers_count": 16180,
+      "stargazers_count": 16181,
       "popularity": 5,
       "percentage": 0.0702247191011236,
       "maturity": 4.450148826410776,

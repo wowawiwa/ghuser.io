@@ -1083,13 +1083,13 @@
     "scaleway/initrd": {
       "full_name": "scaleway/initrd",
       "name": "initrd",
-      "stargazers_count": 30,
-      "popularity": 2.463931943319936,
+      "stargazers_count": 31,
+      "popularity": 2.478605454390306,
       "percentage": 75.57077625570776,
       "maturity": 3.6017280609129863,
       "total_commits_count": 438,
-      "activity": 2.3134255811793216,
-      "total_score": 41.114839980694974,
+      "activity": 2.2937708588106167,
+      "total_score": 41.28336131239537,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

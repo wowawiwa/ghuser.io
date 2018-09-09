@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/ghc/ghc/languages",
   "pulls_url": "https://api.github.com/repos/ghc/ghc/pulls{/number}",
   "created_at": "2011-04-02T19:39:34Z",
-  "updated_at": "2018-09-09T09:05:32Z",
+  "updated_at": "2018-09-09T21:50:18Z",
   "pushed_at": "2018-09-08T09:17:52Z",
   "homepage": "http://www.haskell.org/ghc/",
   "size": 209919,
-  "stargazers_count": 1938,
+  "stargazers_count": 1939,
   "language": "Haskell",
   "mirror_url": "http://git.haskell.org/ghc.git",
   "archived": false,
@@ -655,5 +655,5 @@
       "color": "#da291c"
     }
   },
-  "fetched_at": "2018-09-09T13:12:11.689Z"
+  "fetched_at": "2018-09-09T22:44:08.419Z"
 }

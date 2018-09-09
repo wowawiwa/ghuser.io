@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/probot/probot.github.io",
   "languages_url": "https://api.github.com/repos/probot/probot.github.io/languages",
   "created_at": "2017-07-03T21:18:03Z",
-  "updated_at": "2018-09-05T19:29:13Z",
-  "pushed_at": "2018-09-05T19:29:09Z",
+  "updated_at": "2018-09-09T20:54:14Z",
+  "pushed_at": "2018-09-09T20:54:11Z",
   "homepage": "https://probot.github.io",
-  "size": 5553,
+  "size": 5562,
   "stargazers_count": 31,
   "language": "HTML",
   "mirror_url": null,
@@ -85,7 +85,7 @@
     "koddsson": 16,
     "JasonEtco": 28,
     "hiimbex": 57,
-    "bkeepers": 542,
+    "bkeepers": 543,
     "SvanBoxel": 5,
     "zeke": 3,
     "boyney123": 3,
@@ -120,7 +120,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-06T06:41:28.658Z",
+  "fetched_at": "2018-09-09T22:41:43.103Z",
   "pulls_url": "https://api.github.com/repos/probot/probot.github.io/pulls{/number}",
   "pulls_authors": [
     "abhijeetps",
@@ -179,6 +179,8 @@
     "svcastaneda",
     "helaili",
     "KengoTODA",
-    "Chan4077"
+    "Chan4077",
+    "jnewland",
+    "bobvanderlinden"
   ]
 }
