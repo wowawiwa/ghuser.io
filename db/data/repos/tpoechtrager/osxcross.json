@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/tpoechtrager/osxcross/languages",
   "pulls_url": "https://api.github.com/repos/tpoechtrager/osxcross/pulls{/number}",
   "created_at": "2013-11-10T13:51:50Z",
-  "updated_at": "2018-09-06T19:51:44Z",
-  "pushed_at": "2018-08-25T08:07:58Z",
+  "updated_at": "2018-09-09T06:52:26Z",
+  "pushed_at": "2018-09-09T06:52:24Z",
   "homepage": "",
-  "size": 28322,
+  "size": 28327,
   "stargazers_count": 792,
   "language": "C++",
   "mirror_url": null,
@@ -41,7 +41,9 @@
     "jtv": 2,
     "htgoebel": 3,
     "donbright": 16,
-    "tpoechtrager": 223
+    "tpoechtrager": 223,
+    "rdrpenguin04": 1,
+    "jpcima": 2
   },
   "pulls_authors": [
     "donbright",
@@ -63,7 +65,8 @@
     "steeve",
     "jfly",
     "TheAssassin",
-    "xsleonard"
+    "xsleonard",
+    "rdrpenguin04"
   ],
   "languages": {
     "C++": {
@@ -71,17 +74,21 @@
       "color": "#f34b7d"
     },
     "Shell": {
-      "bytes": 81354,
+      "bytes": 82041,
       "color": "#89e051"
     },
     "C": {
       "bytes": 4618,
       "color": "#555555"
     },
+    "CMake": {
+      "bytes": 1899,
+      "color": "#ccc"
+    },
     "Makefile": {
       "bytes": 1863,
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-07T03:34:43.705Z"
+  "fetched_at": "2018-09-09T13:11:36.190Z"
 }

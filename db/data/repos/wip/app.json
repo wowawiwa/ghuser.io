@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/wip/app",
   "languages_url": "https://api.github.com/repos/wip/app/languages",
   "created_at": "2017-06-30T21:22:36Z",
-  "updated_at": "2018-09-08T07:48:07Z",
-  "pushed_at": "2018-09-08T11:18:57Z",
+  "updated_at": "2018-09-09T09:43:55Z",
+  "pushed_at": "2018-09-09T09:45:39Z",
   "homepage": "https://github.com/apps/wip",
-  "size": 1694,
+  "size": 1693,
   "stargazers_count": 288,
   "language": "JavaScript",
   "mirror_url": null,
@@ -60,12 +60,12 @@
     "anshumanv": 2,
     "bkeepers": 2,
     "greenkeeperio-bot": 10,
-    "greenkeeper[bot]": 13,
-    "gr2m": 75
+    "greenkeeper[bot]": 14,
+    "gr2m": 76
   },
   "languages": {
     "JavaScript": {
-      "bytes": 9038,
+      "bytes": 9052,
       "color": "#f1e05a"
     },
     "Shell": {
@@ -73,7 +73,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-08T12:35:12.896Z",
+  "fetched_at": "2018-09-09T13:07:01.798Z",
   "pulls_url": "https://api.github.com/repos/wip/app/pulls{/number}",
   "pulls_authors": [
     "zeke",

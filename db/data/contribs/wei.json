@@ -4,13 +4,13 @@
     "wei/pull": {
       "full_name": "wei/pull",
       "name": "pull",
-      "stargazers_count": 41,
-      "popularity": 2.6031833637998933,
+      "stargazers_count": 42,
+      "popularity": 2.6138808154274,
       "percentage": 63.75,
       "maturity": 2.6048763698809907,
       "total_commits_count": 80,
       "activity": 5,
-      "total_score": 39.593184958653275,
+      "total_score": 39.713932443898756,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -69,13 +69,13 @@
     "probot/probot": {
       "full_name": "probot/probot",
       "name": "probot",
-      "stargazers_count": 3206,
-      "popularity": 4.505880671607052,
+      "stargazers_count": 3209,
+      "popularity": 4.5062869846939355,
       "percentage": 0.1148105625717566,
       "maturity": 3.9213893924190213,
       "total_commits_count": 871,
       "activity": 5,
-      "total_score": 26.427672749981692,
+      "total_score": 26.428897753616774,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -108,7 +108,7 @@
     "gogs/gogs": {
       "full_name": "gogs/gogs",
       "name": "gogs",
-      "stargazers_count": 26910,
+      "stargazers_count": 26916,
       "popularity": 5,
       "percentage": 0.020395676116663267,
       "maturity": 4.688649483041196,
@@ -139,8 +139,8 @@
       "percentage": 0.5763688760806917,
       "maturity": 3.489015570789262,
       "total_commits_count": 347,
-      "activity": 1.2365828532533993,
-      "total_score": 19.124264024865244,
+      "activity": 1.2274720998349644,
+      "total_score": 19.11515327144681,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

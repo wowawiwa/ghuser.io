@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/nock/nock/languages",
   "pulls_url": "https://api.github.com/repos/nock/nock/pulls{/number}",
   "created_at": "2011-09-22T10:08:03Z",
-  "updated_at": "2018-09-08T15:22:53Z",
-  "pushed_at": "2018-09-08T11:18:08Z",
+  "updated_at": "2018-09-09T09:16:16Z",
+  "pushed_at": "2018-09-09T09:16:11Z",
   "homepage": "",
-  "size": 3558,
-  "stargazers_count": 6832,
+  "size": 3614,
+  "stargazers_count": 6833,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -135,7 +135,7 @@
     "mdlavin": 6,
     "dscape": 6,
     "xla": 6,
-    "RichardLitt": 12,
+    "RichardLitt": 15,
     "martinkuba": 7,
     "mbad0la": 9,
     "pimterry": 9,
@@ -232,7 +232,8 @@
     "louib": 1,
     "stubar": 1,
     "yinrong": 1,
-    "bbridges": 2
+    "bbridges": 2,
+    "StarpTech": 1
   },
   "pulls_authors": [
     "StarpTech",
@@ -479,9 +480,9 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 313740,
+      "bytes": 315312,
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-09T03:06:27.503Z"
+  "fetched_at": "2018-09-09T13:07:01.309Z"
 }

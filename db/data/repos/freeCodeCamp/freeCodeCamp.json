@@ -100,7 +100,7 @@
     "raisedadead": 479,
     "terakilobyte": 658,
     "sahat": 1261,
-    "QuincyLarson": 2387,
+    "QuincyLarson": 2389,
     "bonham000": 9,
     "beaucarnes": 7,
     "jsonify": 5,
@@ -405,11 +405,11 @@
   "url": "https://api.github.com/repos/freeCodeCamp/freeCodeCamp",
   "languages_url": "https://api.github.com/repos/freeCodeCamp/freeCodeCamp/languages",
   "created_at": "2014-12-24T17:49:19Z",
-  "updated_at": "2018-09-09T00:03:57Z",
-  "pushed_at": "2018-09-08T22:16:24Z",
+  "updated_at": "2018-09-09T12:12:52Z",
+  "pushed_at": "2018-09-09T10:19:21Z",
   "homepage": "",
-  "size": 35696,
-  "stargazers_count": 294003,
+  "size": 35704,
+  "stargazers_count": 294009,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -447,15 +447,15 @@
       "color": "#f1e05a"
     },
     "HTML": {
-      "bytes": 103508,
+      "bytes": 104119,
       "color": "#e34c26"
     },
     "CSS": {
-      "bytes": 46898,
+      "bytes": 46949,
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-09T03:07:12.539Z",
+  "fetched_at": "2018-09-09T13:07:48.807Z",
   "pulls_url": "https://api.github.com/repos/freeCodeCamp/freeCodeCamp/pulls{/number}",
   "pulls_authors": [
     "raisedadead",

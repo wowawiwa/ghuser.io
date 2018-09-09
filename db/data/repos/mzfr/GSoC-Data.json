@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/mzfr/GSoC-Data/languages",
   "pulls_url": "https://api.github.com/repos/mzfr/GSoC-Data/pulls{/number}",
   "created_at": "2018-08-17T13:39:09Z",
-  "updated_at": "2018-09-06T04:19:02Z",
-  "pushed_at": "2018-09-02T20:37:07Z",
+  "updated_at": "2018-09-09T12:05:03Z",
+  "pushed_at": "2018-09-09T12:05:02Z",
   "homepage": "",
-  "size": 2370,
+  "size": 2689,
   "stargazers_count": 27,
   "language": "Python",
   "mirror_url": null,
@@ -23,17 +23,18 @@
   "default_branch": "master",
   "contributors": {
     "dufferzafar": 2,
-    "mzfr": 10,
+    "mzfr": 12,
     "Ugtan": 1
   },
   "pulls_authors": [
-    "Ugtan"
+    "Ugtan",
+    "mzfr"
   ],
   "languages": {
     "Python": {
-      "bytes": 9109,
+      "bytes": 10567,
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-09-06T06:40:33.847Z"
+  "fetched_at": "2018-09-09T13:08:50.640Z"
 }

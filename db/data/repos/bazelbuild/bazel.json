@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/bazelbuild/bazel/languages",
   "pulls_url": "https://api.github.com/repos/bazelbuild/bazel/pulls{/number}",
   "created_at": "2014-06-12T16:00:38Z",
-  "updated_at": "2018-09-09T02:39:54Z",
-  "pushed_at": "2018-09-08T13:01:12Z",
+  "updated_at": "2018-09-09T03:25:07Z",
+  "pushed_at": "2018-09-09T05:01:45Z",
   "homepage": "https://bazel.build",
   "size": 492712,
-  "stargazers_count": 9952,
+  "stargazers_count": 9953,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -844,5 +844,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-09T03:12:22.255Z"
+  "fetched_at": "2018-09-09T13:13:12.152Z"
 }

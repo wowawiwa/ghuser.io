@@ -251,11 +251,11 @@
     "nodejs/node": {
       "full_name": "nodejs/node",
       "name": "node",
-      "stargazers_count": 53121,
+      "stargazers_count": 53128,
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,
-      "total_commits_count": 21045,
+      "total_commits_count": 21047,
       "activity": 5,
       "total_score": 30,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
@@ -407,7 +407,7 @@
     "sdmg15/Best-websites-a-programmer-should-visit": {
       "full_name": "sdmg15/Best-websites-a-programmer-should-visit",
       "name": "Best-websites-a-programmer-should-visit",
-      "stargazers_count": 22539,
+      "stargazers_count": 22542,
       "popularity": 5,
       "percentage": 0.14124293785310735,
       "maturity": 3.8265775309931898,
@@ -472,13 +472,13 @@
     "OpenGenus/cosmos": {
       "full_name": "OpenGenus/cosmos",
       "name": "cosmos",
-      "stargazers_count": 9647,
-      "popularity": 4.984390848137792,
+      "stargazers_count": 9648,
+      "popularity": 4.984435868609533,
       "percentage": 0.05581135761127389,
       "maturity": 4.854649146701053,
       "total_commits_count": 7167,
       "activity": 5,
-      "total_score": 29.698634968428454,
+      "total_score": 29.69877035648865,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -537,13 +537,13 @@
     "p-society/decks": {
       "full_name": "p-society/decks",
       "name": "decks",
-      "stargazers_count": 9,
-      "popularity": 1.9085236249774054,
-      "percentage": 50,
+      "stargazers_count": 11,
+      "popularity": 2.0043600754367907,
+      "percentage": 75,
       "maturity": 0,
-      "total_commits_count": 2,
+      "total_commits_count": 4,
       "activity": 5,
-      "total_score": 23.13097443728535,
+      "total_score": 30.55559096181908,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

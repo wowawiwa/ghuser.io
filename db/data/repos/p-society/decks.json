@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/p-society/decks/languages",
   "pulls_url": "https://api.github.com/repos/p-society/decks/pulls{/number}",
   "created_at": "2018-09-02T08:06:23Z",
-  "updated_at": "2018-09-06T04:15:47Z",
-  "pushed_at": "2018-09-03T10:18:18Z",
+  "updated_at": "2018-09-09T11:22:25Z",
+  "pushed_at": "2018-09-09T09:09:54Z",
   "homepage": null,
-  "size": 9199,
-  "stargazers_count": 9,
+  "size": 9205,
+  "stargazers_count": 11,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -43,11 +43,12 @@
   },
   "contributors": {
     "waphire": 1,
-    "palash25": 1
+    "palash25": 3
   },
   "pulls_authors": [
-    "waphire"
+    "waphire",
+    "palash25"
   ],
   "languages": {},
-  "fetched_at": "2018-09-06T06:44:26.758Z"
+  "fetched_at": "2018-09-09T13:12:41.830Z"
 }

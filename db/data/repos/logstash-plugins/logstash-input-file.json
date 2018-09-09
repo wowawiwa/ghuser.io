@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/logstash-plugins/logstash-input-file",
   "languages_url": "https://api.github.com/repos/logstash-plugins/logstash-input-file/languages",
   "created_at": "2014-10-16T17:03:03Z",
-  "updated_at": "2018-08-01T03:56:19Z",
-  "pushed_at": "2018-07-19T01:50:42Z",
+  "updated_at": "2018-09-09T07:27:52Z",
+  "pushed_at": "2018-09-07T11:33:25Z",
   "homepage": null,
   "size": 308,
-  "stargazers_count": 39,
+  "stargazers_count": 40,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -80,7 +80,7 @@
     "thbay": 1,
     "karenzone": 1
   },
-  "fetched_at": "2018-08-01T10:42:25.848Z",
+  "fetched_at": "2018-09-09T13:10:27.369Z",
   "pulls_url": "https://api.github.com/repos/logstash-plugins/logstash-input-file/pulls{/number}",
   "pulls_authors": [
     "karenzone",

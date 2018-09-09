@@ -251,7 +251,7 @@
     "sqlmapproject/sqlmap": {
       "full_name": "sqlmapproject/sqlmap",
       "name": "sqlmap",
-      "stargazers_count": 12208,
+      "stargazers_count": 12210,
       "popularity": 5,
       "percentage": 0,
       "maturity": 4.907321722919486,
@@ -1124,11 +1124,11 @@
       "name": "ghuser.io",
       "stargazers_count": 53,
       "popularity": 2.716876736929962,
-      "percentage": 0.7827788649706457,
-      "maturity": 3.6748490550167454,
-      "total_commits_count": 511,
+      "percentage": 0.78125,
+      "maturity": 3.6757699519889053,
+      "total_commits_count": 512,
       "activity": 5,
-      "total_score": 20.77680110031527,
+      "total_score": 20.778102908362143,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

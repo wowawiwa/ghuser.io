@@ -100,7 +100,7 @@
     "greenkeeper[bot]": 275,
     "erming": 658,
     "astorije": 1531,
-    "xPaw": 1281,
+    "xPaw": 1283,
     "aspotton": 1,
     "LFlare": 1,
     "benharri": 1,
@@ -130,11 +130,11 @@
   "url": "https://api.github.com/repos/thelounge/thelounge",
   "languages_url": "https://api.github.com/repos/thelounge/thelounge/languages",
   "created_at": "2016-02-09T03:16:03Z",
-  "updated_at": "2018-09-09T00:33:50Z",
-  "pushed_at": "2018-09-07T23:19:52Z",
+  "updated_at": "2018-09-09T12:40:53Z",
+  "pushed_at": "2018-09-09T12:27:05Z",
   "homepage": "https://thelounge.chat",
-  "size": 11112,
-  "stargazers_count": 2157,
+  "size": 11115,
+  "stargazers_count": 2158,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -168,7 +168,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 498519,
+      "bytes": 500062,
       "color": "#f1e05a"
     },
     "CSS": {
@@ -188,7 +188,7 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-09T03:07:18.494Z",
+  "fetched_at": "2018-09-09T13:07:55.026Z",
   "pulls_url": "https://api.github.com/repos/thelounge/thelounge/pulls{/number}",
   "pulls_authors": [
     "renovate[bot]",

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/nodejs/node-v0.x-archive",
   "languages_url": "https://api.github.com/repos/nodejs/node-v0.x-archive/languages",
   "created_at": "2009-05-27T16:29:46Z",
-  "updated_at": "2018-09-08T20:11:51Z",
+  "updated_at": "2018-09-09T05:59:15Z",
   "pushed_at": "2018-04-04T08:28:02Z",
   "homepage": "",
   "size": 144238,
-  "stargazers_count": 35752,
+  "stargazers_count": 35751,
   "language": null,
   "mirror_url": null,
   "archived": true,
@@ -45,7 +45,7 @@
     "refack": 1,
     "orangemocha": 1
   },
-  "fetched_at": "2018-09-09T03:09:59.439Z",
+  "fetched_at": "2018-09-09T13:10:40.707Z",
   "pulls_url": "https://api.github.com/repos/nodejs/node-v0.x-archive/pulls{/number}",
   "pulls_authors": [
     "refack",

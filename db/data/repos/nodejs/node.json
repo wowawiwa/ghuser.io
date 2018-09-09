@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/nodejs/node",
   "languages_url": "https://api.github.com/repos/nodejs/node/languages",
   "created_at": "2014-11-26T19:57:11Z",
-  "updated_at": "2018-09-09T03:03:07Z",
-  "pushed_at": "2018-09-09T03:08:25Z",
+  "updated_at": "2018-09-09T12:48:23Z",
+  "pushed_at": "2018-09-09T12:52:46Z",
   "homepage": "https://nodejs.org",
-  "size": 412384,
-  "stargazers_count": 53121,
+  "size": 412397,
+  "stargazers_count": 53128,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -52,11 +52,11 @@
       "color": "#f1e05a"
     },
     "C++": {
-      "bytes": 2530797,
+      "bytes": 2530614,
       "color": "#f34b7d"
     },
     "Python": {
-      "bytes": 2027195,
+      "bytes": 2027189,
       "color": "#3572A5"
     },
     "C": {
@@ -170,7 +170,7 @@
     "silverwind": 89,
     "refack": 101,
     "AndreasMadsen": 104,
-    "tniessen": 135,
+    "tniessen": 136,
     "ofrobots": 119,
     "mhdawson": 123,
     "felixge": 124,
@@ -190,7 +190,7 @@
     "BridgeAR": 355,
     "mscdex": 318,
     "rvagg": 324,
-    "danbev": 357,
+    "danbev": 358,
     "trevnorris": 363,
     "cjihrig": 402,
     "jasnell": 532,
@@ -575,7 +575,7 @@
     "Maledong": 8,
     "TomCoded": 3
   },
-  "fetched_at": "2018-09-09T03:11:51.657Z",
+  "fetched_at": "2018-09-09T13:12:39.298Z",
   "pulls_url": "https://api.github.com/repos/nodejs/node/pulls{/number}",
   "pulls_authors": [
     "mmarchini",

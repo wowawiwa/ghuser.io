@@ -441,11 +441,11 @@
   "url": "https://api.github.com/repos/godotengine/godot",
   "languages_url": "https://api.github.com/repos/godotengine/godot/languages",
   "created_at": "2014-01-04T16:05:36Z",
-  "updated_at": "2018-09-08T23:38:55Z",
-  "pushed_at": "2018-09-09T02:37:46Z",
+  "updated_at": "2018-09-09T12:54:01Z",
+  "pushed_at": "2018-09-09T12:53:31Z",
   "homepage": "https://godotengine.org",
   "size": 260941,
-  "stargazers_count": 16518,
+  "stargazers_count": 16520,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -479,11 +479,11 @@
   },
   "languages": {
     "C++": {
-      "bytes": 21351047,
+      "bytes": 21352331,
       "color": "#f34b7d"
     },
     "Java": {
-      "bytes": 493677,
+      "bytes": 494255,
       "color": "#b07219"
     },
     "Python": {
@@ -523,7 +523,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-09T03:07:07.139Z",
+  "fetched_at": "2018-09-09T13:07:43.669Z",
   "pulls_url": "https://api.github.com/repos/godotengine/godot/pulls{/number}",
   "pulls_authors": [
     "Calinou",

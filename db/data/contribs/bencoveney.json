@@ -121,13 +121,13 @@
     "Microsoft/vscode-docs": {
       "full_name": "Microsoft/vscode-docs",
       "name": "vscode-docs",
-      "stargazers_count": 1508,
-      "popularity": 4.178181155897501,
+      "stargazers_count": 1507,
+      "popularity": 4.177892894580335,
       "percentage": 0.013217023526301877,
       "maturity": 4.878306280119088,
       "total_commits_count": 7566,
       "activity": 5,
-      "total_score": 27.298335033353183,
+      "total_score": 27.297469754107325,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -238,7 +238,7 @@
     "DefinitelyTyped/DefinitelyTyped": {
       "full_name": "DefinitelyTyped/DefinitelyTyped",
       "name": "DefinitelyTyped",
-      "stargazers_count": 17314,
+      "stargazers_count": 17323,
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,

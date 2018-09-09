@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/ncw/rclone/languages",
   "pulls_url": "https://api.github.com/repos/ncw/rclone/pulls{/number}",
   "created_at": "2014-03-16T16:19:57Z",
-  "updated_at": "2018-09-09T00:33:45Z",
-  "pushed_at": "2018-09-08T22:15:32Z",
+  "updated_at": "2018-09-09T10:44:19Z",
+  "pushed_at": "2018-09-09T03:58:24Z",
   "homepage": "https://rclone.org",
-  "size": 118808,
-  "stargazers_count": 10700,
+  "size": 118805,
+  "stargazers_count": 10705,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -99,7 +99,7 @@
     "fornwall": 2,
     "xlucas": 2,
     "wernight": 2,
-    "sandeepkru": 4,
+    "sandeepkru": 5,
     "kir4h": 3,
     "mholt": 3,
     "bep": 3,
@@ -423,5 +423,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-09-09T03:11:45.043Z"
+  "fetched_at": "2018-09-09T13:12:31.815Z"
 }

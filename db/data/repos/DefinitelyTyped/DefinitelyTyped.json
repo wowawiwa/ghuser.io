@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/DefinitelyTyped/DefinitelyTyped/languages",
   "pulls_url": "https://api.github.com/repos/DefinitelyTyped/DefinitelyTyped/pulls{/number}",
   "created_at": "2012-10-05T16:39:45Z",
-  "updated_at": "2018-09-08T23:49:43Z",
-  "pushed_at": "2018-09-09T02:50:50Z",
+  "updated_at": "2018-09-09T13:02:50Z",
+  "pushed_at": "2018-09-09T12:46:40Z",
   "homepage": "http://definitelytyped.org/",
   "size": 352975,
-  "stargazers_count": 17314,
+  "stargazers_count": 17323,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -9012,7 +9012,8 @@
     "ZeroCho",
     "sandangel",
     "AgWillow",
-    "jamesloh"
+    "jamesloh",
+    "lukyth"
   ],
   "languages": {
     "TypeScript": {
@@ -9028,5 +9029,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-09T03:06:51.389Z"
+  "fetched_at": "2018-09-09T13:07:27.030Z"
 }
