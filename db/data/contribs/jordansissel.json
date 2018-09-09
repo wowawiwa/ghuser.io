@@ -1174,13 +1174,13 @@
     "zeromq/goczmq": {
       "full_name": "zeromq/goczmq",
       "name": "goczmq",
-      "stargazers_count": 253,
-      "popularity": 3.4016119188251994,
+      "stargazers_count": 254,
+      "popularity": 3.4033312183682662,
       "percentage": 0.8032128514056225,
       "maturity": 3.3220895227072265,
       "total_commits_count": 249,
       "activity": 5,
-      "total_score": 22.204203195020394,
+      "total_score": 22.209540618903088,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
