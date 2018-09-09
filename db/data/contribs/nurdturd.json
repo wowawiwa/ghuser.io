@@ -56,13 +56,13 @@
     "pi-hole/pi-hole": {
       "full_name": "pi-hole/pi-hole",
       "name": "pi-hole",
-      "stargazers_count": 9923,
-      "popularity": 4.9966426880235355,
+      "stargazers_count": 9925,
+      "popularity": 4.996730220041507,
       "percentage": 0,
       "maturity": 4.533355669016343,
       "total_commits_count": 3441,
       "activity": 5,
-      "total_score": 29.056639402103293,
+      "total_score": 29.05690199815721,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -82,7 +82,7 @@
     "Kickball/awesome-selfhosted": {
       "full_name": "Kickball/awesome-selfhosted",
       "name": "awesome-selfhosted",
-      "stargazers_count": 25677,
+      "stargazers_count": 25688,
       "popularity": 5,
       "percentage": 0.044642857142857144,
       "maturity": 4.344178660879163,
@@ -147,13 +147,13 @@
     "jsdelivr/jsdelivr": {
       "full_name": "jsdelivr/jsdelivr",
       "name": "jsdelivr",
-      "stargazers_count": 2355,
-      "popularity": 4.3718639943217905,
+      "stargazers_count": 2356,
+      "popularity": 4.372048439446266,
       "percentage": 0,
       "maturity": 0,
       "total_commits_count": 30,
       "activity": 5,
-      "total_score": 18.11559198296537,
+      "total_score": 18.1161453183388,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -290,7 +290,7 @@
     "ncw/rclone": {
       "full_name": "ncw/rclone",
       "name": "rclone",
-      "stargazers_count": 10705,
+      "stargazers_count": 10709,
       "popularity": 5,
       "percentage": 0.039401103230890466,
       "maturity": 4.399346068620911,

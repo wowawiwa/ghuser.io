@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/Pybonacci/pybonacci.github.io",
   "languages_url": "https://api.github.com/repos/Pybonacci/pybonacci.github.io/languages",
   "created_at": "2017-04-28T19:42:57Z",
-  "updated_at": "2018-09-01T13:31:43Z",
-  "pushed_at": "2018-09-01T13:33:59Z",
+  "updated_at": "2018-09-09T19:15:00Z",
+  "pushed_at": "2018-09-09T19:17:25Z",
   "homepage": "https://www.pybonacci.org",
-  "size": 60630,
+  "size": 60662,
   "stargazers_count": 2,
   "language": "Jupyter Notebook",
   "mirror_url": null,
@@ -53,7 +53,8 @@
     "AlexS12": 4,
     "manugarri": 16,
     "Juanlu001": 28,
-    "jakevdp": 31
+    "jakevdp": 31,
+    "pfsq": 2
   },
   "languages": {
     "Jupyter Notebook": {
@@ -81,7 +82,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-01T23:23:08.983Z",
+  "fetched_at": "2018-09-09T20:32:13.673Z",
   "pulls_url": "https://api.github.com/repos/Pybonacci/pybonacci.github.io/pulls{/number}",
   "pulls_authors": [
     "Juanlu001",
@@ -89,6 +90,7 @@
     "danielfrg",
     "mmngreco",
     "AlexS12",
-    "kikocorreoso"
+    "kikocorreoso",
+    "pfsq"
   ]
 }

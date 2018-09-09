@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/facebook/react",
   "languages_url": "https://api.github.com/repos/facebook/react/languages",
   "created_at": "2013-05-24T16:15:54Z",
-  "updated_at": "2018-09-09T12:47:42Z",
-  "pushed_at": "2018-09-09T05:33:18Z",
+  "updated_at": "2018-09-09T19:04:36Z",
+  "pushed_at": "2018-09-09T18:06:22Z",
   "homepage": "https://reactjs.org",
-  "size": 138320,
-  "stargazers_count": 110799,
+  "size": 138322,
+  "stargazers_count": 110814,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -145,7 +145,7 @@
     "acdlite": 445,
     "sebmarkbage": 645,
     "zpao": 1776,
-    "gaearon": 977,
+    "gaearon": 978,
     "sophiebits": 1233,
     "leebyron": 10,
     "puradox": 8,
@@ -516,7 +516,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 2161928,
+      "bytes": 2161932,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -556,7 +556,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-09T13:07:39.099Z",
+  "fetched_at": "2018-09-09T19:35:12.828Z",
   "pulls_url": "https://api.github.com/repos/facebook/react/pulls{/number}",
   "pulls_authors": [
     "gaearon",

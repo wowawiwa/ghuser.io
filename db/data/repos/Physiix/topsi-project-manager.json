@@ -11,8 +11,8 @@
   "languages_url": "https://api.github.com/repos/Physiix/topsi-project-manager/languages",
   "pulls_url": "https://api.github.com/repos/Physiix/topsi-project-manager/pulls{/number}",
   "created_at": "2018-01-20T02:07:18Z",
-  "updated_at": "2018-09-08T19:30:27Z",
-  "pushed_at": "2018-09-03T03:36:55Z",
+  "updated_at": "2018-09-09T19:45:15Z",
+  "pushed_at": "2018-09-09T19:45:13Z",
   "homepage": "",
   "size": 2074,
   "stargazers_count": 896,
@@ -29,7 +29,7 @@
   "default_branch": "master",
   "contributors": {
     "Calinou": 1,
-    "Physiix": 176
+    "Physiix": 178
   },
   "pulls_authors": [
     "Physiix",
@@ -37,11 +37,11 @@
   ],
   "languages": {
     "Vue": {
-      "bytes": 73328,
+      "bytes": 74035,
       "color": "#2c3e50"
     },
     "JavaScript": {
-      "bytes": 67994,
+      "bytes": 68740,
       "color": "#f1e05a"
     },
     "CSS": {
@@ -53,5 +53,5 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-09T03:07:27.369Z"
+  "fetched_at": "2018-09-09T20:29:49.747Z"
 }

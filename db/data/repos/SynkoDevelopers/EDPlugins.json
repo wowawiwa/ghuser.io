@@ -11,8 +11,8 @@
   "languages_url": "https://api.github.com/repos/SynkoDevelopers/EDPlugins/languages",
   "pulls_url": "https://api.github.com/repos/SynkoDevelopers/EDPlugins/pulls{/number}",
   "created_at": "2018-06-10T14:05:31Z",
-  "updated_at": "2018-09-04T17:18:00Z",
-  "pushed_at": "2018-09-04T17:17:58Z",
+  "updated_at": "2018-09-09T20:03:54Z",
+  "pushed_at": "2018-09-09T20:03:53Z",
   "homepage": "https://synko.com.br",
   "size": 72,
   "stargazers_count": 1,
@@ -49,7 +49,7 @@
   },
   "contributors": {
     "renovate-bot": 8,
-    "TiagoDanin": 39
+    "TiagoDanin": 42
   },
   "pulls_authors": [
     "renovate[bot]",
@@ -57,9 +57,9 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 27092,
+      "bytes": 32005,
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-05T02:24:40.587Z"
+  "fetched_at": "2018-09-09T20:35:06.732Z"
 }

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/elastic/elasticsearch",
   "languages_url": "https://api.github.com/repos/elastic/elasticsearch/languages",
   "created_at": "2010-02-08T13:20:56Z",
-  "updated_at": "2018-09-09T12:40:49Z",
-  "pushed_at": "2018-09-09T12:42:55Z",
+  "updated_at": "2018-09-09T20:05:31Z",
+  "pushed_at": "2018-09-09T19:24:41Z",
   "homepage": "https://www.elastic.co/products/elasticsearch",
-  "size": 510613,
-  "stargazers_count": 34203,
+  "size": 510649,
+  "stargazers_count": 34205,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "Java": {
-      "bytes": 70757848,
+      "bytes": 70760357,
       "color": "#b07219"
     },
     "Groovy": {
@@ -100,7 +100,7 @@
     "cwurm": 11,
     "a2lin": 11,
     "jprante": 11,
-    "original-brownbear": 62,
+    "original-brownbear": 63,
     "suyograo": 12,
     "gfyoung": 12,
     "ankon": 12,
@@ -154,7 +154,7 @@
     "tvernum": 133,
     "nknize": 130,
     "talevy": 185,
-    "dnhatn": 312,
+    "dnhatn": 313,
     "danielmitterdorfer": 190,
     "jdconrad": 243,
     "karmi": 184,
@@ -189,7 +189,7 @@
     "rjernst": 1804,
     "nik9000": 1664,
     "javanna": 1880,
-    "jasontedor": 2227,
+    "jasontedor": 2230,
     "martijnvg": 2235,
     "s1monw": 3115,
     "kimchy": 4781,
@@ -472,7 +472,7 @@
     "lipsill": 4,
     "codebrain": 2
   },
-  "fetched_at": "2018-09-09T13:10:27.614Z",
+  "fetched_at": "2018-09-09T20:31:33.333Z",
   "pulls_url": "https://api.github.com/repos/elastic/elasticsearch/pulls{/number}",
   "pulls_authors": [
     "benwtrent",

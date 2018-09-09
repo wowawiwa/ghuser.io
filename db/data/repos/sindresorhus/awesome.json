@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/sindresorhus/awesome",
   "languages_url": "https://api.github.com/repos/sindresorhus/awesome/languages",
   "created_at": "2014-07-11T13:42:37Z",
-  "updated_at": "2018-09-09T12:57:10Z",
-  "pushed_at": "2018-09-04T09:15:29Z",
+  "updated_at": "2018-09-09T19:34:05Z",
+  "pushed_at": "2018-09-09T19:19:51Z",
   "homepage": "",
   "size": 628,
-  "stargazers_count": 92136,
+  "stargazers_count": 92146,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -362,7 +362,7 @@
     "MatthewVi": 1
   },
   "languages": {},
-  "fetched_at": "2018-09-09T13:07:39.546Z",
+  "fetched_at": "2018-09-09T19:35:13.173Z",
   "pulls_url": "https://api.github.com/repos/sindresorhus/awesome/pulls{/number}",
   "pulls_authors": [
     "mayurc137",
@@ -1230,6 +1230,7 @@
     "seriousmac",
     "qianhfyeah",
     "frenck",
-    "BasixKOR"
+    "BasixKOR",
+    "avelino"
   ]
 }

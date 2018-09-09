@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/TheAlgorithms/Java",
   "languages_url": "https://api.github.com/repos/TheAlgorithms/Java/languages",
   "created_at": "2016-07-16T10:21:02Z",
-  "updated_at": "2018-09-09T12:17:10Z",
-  "pushed_at": "2018-09-09T12:30:05Z",
+  "updated_at": "2018-09-09T19:34:01Z",
+  "pushed_at": "2018-09-09T16:41:35Z",
   "homepage": null,
-  "size": 782,
-  "stargazers_count": 6524,
+  "size": 788,
+  "stargazers_count": 6533,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -132,7 +132,7 @@
     "dpacmen": 10,
     "theycallmemac": 19,
     "nikitap492": 21,
-    "varunu28": 79,
+    "varunu28": 80,
     "jack870131": 1,
     "ayushnagar123": 3,
     "sangjun2": 2,
@@ -144,15 +144,16 @@
     "dynamitechetan": 84,
     "AnupKumarPanwar": 31,
     "tifa64": 1,
-    "DDullahan": 2
+    "DDullahan": 2,
+    "MarisaAfuera": 1
   },
   "languages": {
     "Java": {
-      "bytes": 363120,
+      "bytes": 373689,
       "color": "#b07219"
     }
   },
-  "fetched_at": "2018-09-09T13:08:32.108Z",
+  "fetched_at": "2018-09-09T19:36:06.701Z",
   "pulls_url": "https://api.github.com/repos/TheAlgorithms/Java/pulls{/number}",
   "pulls_authors": [
     "MarisaAfuera",
