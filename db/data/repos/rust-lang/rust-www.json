@@ -314,11 +314,11 @@
   "url": "https://api.github.com/repos/rust-lang/rust-www",
   "languages_url": "https://api.github.com/repos/rust-lang/rust-www/languages",
   "created_at": "2011-08-31T16:42:32Z",
-  "updated_at": "2018-09-07T04:19:32Z",
-  "pushed_at": "2018-09-07T01:27:03Z",
+  "updated_at": "2018-09-09T15:16:05Z",
+  "pushed_at": "2018-09-09T14:29:24Z",
   "homepage": "https://www.rust-lang.org",
   "size": 15627,
-  "stargazers_count": 124,
+  "stargazers_count": 125,
   "language": "HTML",
   "mirror_url": null,
   "archived": false,
@@ -376,7 +376,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-07T11:20:43.649Z",
+  "fetched_at": "2018-09-09T17:59:41.507Z",
   "pulls_url": "https://api.github.com/repos/rust-lang/rust-www/pulls{/number}",
   "pulls_authors": [
     "pmarks",
@@ -735,6 +735,7 @@
     "tomarrell",
     "java1cprog",
     "faintbit",
-    "secretfader"
+    "secretfader",
+    "csmoe"
   ]
 }

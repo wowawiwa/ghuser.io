@@ -46,7 +46,7 @@
     "yglukhov": 12,
     "Araq": 28,
     "gradha": 30,
-    "dom96": 388,
+    "dom96": 391,
     "LemonBoy": 1,
     "trialism": 1
   },
@@ -60,11 +60,11 @@
   "url": "https://api.github.com/repos/nim-lang/nimble",
   "languages_url": "https://api.github.com/repos/nim-lang/nimble/languages",
   "created_at": "2011-01-27T15:03:53Z",
-  "updated_at": "2018-09-08T23:01:26Z",
-  "pushed_at": "2018-09-07T07:19:20Z",
+  "updated_at": "2018-09-09T17:16:33Z",
+  "pushed_at": "2018-09-09T17:16:31Z",
   "homepage": "",
-  "size": 1087,
-  "stargazers_count": 443,
+  "size": 1109,
+  "stargazers_count": 444,
   "language": "Nim",
   "mirror_url": null,
   "archived": false,
@@ -98,7 +98,7 @@
   },
   "languages": {
     "Nim": {
-      "bytes": 209406,
+      "bytes": 212659,
       "color": "#37775b"
     },
     "Shell": {
@@ -106,7 +106,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-09T03:07:13.832Z",
+  "fetched_at": "2018-09-09T17:59:40.509Z",
   "pulls_url": "https://api.github.com/repos/nim-lang/nimble/pulls{/number}",
   "pulls_authors": [
     "LemonBoy",

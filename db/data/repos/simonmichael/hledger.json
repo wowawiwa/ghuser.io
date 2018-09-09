@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/simonmichael/hledger/languages",
   "pulls_url": "https://api.github.com/repos/simonmichael/hledger/pulls{/number}",
   "created_at": "2013-04-08T16:41:47Z",
-  "updated_at": "2018-09-07T20:43:42Z",
-  "pushed_at": "2018-09-07T20:43:41Z",
+  "updated_at": "2018-09-09T15:35:28Z",
+  "pushed_at": "2018-09-09T15:35:26Z",
   "homepage": "http://hledger.org",
-  "size": 73164,
+  "size": 73166,
   "stargazers_count": 833,
   "language": "Haskell",
   "mirror_url": null,
@@ -112,7 +112,7 @@
     "ehildenb": 40,
     "adept": 49,
     "awjchen": 59,
-    "simonmichael": 6000,
+    "simonmichael": 6002,
     "lucamolteni": 1
   },
   "pulls_authors": [
@@ -215,7 +215,7 @@
       "color": "#ecdebe"
     },
     "Makefile": {
-      "bytes": 63294,
+      "bytes": 63043,
       "color": "#427819"
     },
     "Shell": {
@@ -255,5 +255,5 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-09-08T00:07:11.524Z"
+  "fetched_at": "2018-09-09T18:04:09.866Z"
 }

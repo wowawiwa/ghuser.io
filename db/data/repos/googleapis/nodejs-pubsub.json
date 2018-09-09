@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/googleapis/nodejs-pubsub/languages",
   "pulls_url": "https://api.github.com/repos/googleapis/nodejs-pubsub/pulls{/number}",
   "created_at": "2017-07-26T20:50:19Z",
-  "updated_at": "2018-09-04T17:55:56Z",
-  "pushed_at": "2018-09-04T17:55:54Z",
+  "updated_at": "2018-09-09T13:32:47Z",
+  "pushed_at": "2018-09-05T12:34:58Z",
   "homepage": "https://cloud.google.com/pubsub/",
   "size": 1978,
-  "stargazers_count": 61,
+  "stargazers_count": 62,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -105,7 +105,8 @@
     "STeveShary",
     "baronfel",
     "mkamioner",
-    "scragg0x"
+    "scragg0x",
+    "marcusnielsen"
   ],
   "languages": {
     "JavaScript": {
@@ -125,5 +126,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-09-05T02:18:36.759Z"
+  "fetched_at": "2018-09-09T17:58:38.078Z"
 }

@@ -212,13 +212,13 @@
     "slackhq/SlackTextViewController": {
       "full_name": "slackhq/SlackTextViewController",
       "name": "SlackTextViewController",
-      "stargazers_count": 8560,
-      "popularity": 4.932467188670139,
+      "stargazers_count": 8561,
+      "popularity": 4.932517926377842,
       "percentage": 0,
       "maturity": 2.9160773650635297,
       "total_commits_count": 122,
       "activity": 5,
-      "total_score": 25.629556296137476,
+      "total_score": 25.629708509260585,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -544,6 +544,19 @@
       "total_commits_count": 997,
       "activity": 5,
       "total_score": 19.530846681281723,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "cardoso/Rocket.Chat.ContentFilter": {
+      "full_name": "cardoso/Rocket.Chat.ContentFilter",
+      "name": "Rocket.Chat.ContentFilter",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 3,
+      "activity": 5,
+      "total_score": 5,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

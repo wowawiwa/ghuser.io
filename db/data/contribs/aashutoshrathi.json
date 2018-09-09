@@ -589,13 +589,13 @@
     "sindresorhus/amas": {
       "full_name": "sindresorhus/amas",
       "name": "amas",
-      "stargazers_count": 1006,
-      "popularity": 4.002248357752432,
+      "stargazers_count": 1007,
+      "popularity": 4.002680233768323,
       "percentage": 0.42735042735042733,
       "maturity": 3.289760961234559,
       "total_commits_count": 234,
       "activity": 5,
-      "total_score": 23.80861412671266,
+      "total_score": 23.809933747872325,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -615,13 +615,13 @@
     "docker/docker-py": {
       "full_name": "docker/docker-py",
       "name": "docker-py",
-      "stargazers_count": 3300,
-      "popularity": 4.518434567242392,
+      "stargazers_count": 3301,
+      "popularity": 4.518566187586194,
       "percentage": 0.03920031360250882,
       "maturity": 4.401600257648889,
       "total_commits_count": 2551,
       "activity": 5,
-      "total_score": 27.381530343788633,
+      "total_score": 27.38192587556268,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
