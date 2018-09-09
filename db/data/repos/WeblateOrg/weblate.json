@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/WeblateOrg/weblate/languages",
   "pulls_url": "https://api.github.com/repos/WeblateOrg/weblate/pulls{/number}",
   "created_at": "2012-02-27T09:33:29Z",
-  "updated_at": "2018-09-08T16:57:44Z",
-  "pushed_at": "2018-09-08T16:14:44Z",
+  "updated_at": "2018-09-08T19:21:53Z",
+  "pushed_at": "2018-09-08T19:26:37Z",
   "homepage": "https://weblate.org/",
-  "size": 170667,
+  "size": 170685,
   "stargazers_count": 1132,
   "language": "Python",
   "mirror_url": null,
@@ -128,12 +128,12 @@
     "tuharju": 77,
     "stefanb": 80,
     "lordark666": 90,
-    "f2404": 106,
+    "f2404": 107,
     "lyubomirv": 116,
     "belphegor-belbel": 139,
     "yarons": 146,
     "elchevive": 153,
-    "comradekingu": 174,
+    "comradekingu": 175,
     "monolifed": 163,
     "andriykopanytsia": 179,
     "rimy": 193,
@@ -379,7 +379,8 @@
     "GrahamDumpleton": 19,
     "wyznaga": 2,
     "tobiaswiese": 1,
-    "JoKeyser": 1
+    "JoKeyser": 1,
+    "Crystal-RainSlide": 2
   },
   "pulls_authors": [
     "nijel",
@@ -546,5 +547,5 @@
       "color": "#4F5D95"
     }
   },
-  "fetched_at": "2018-09-08T17:08:37.028Z"
+  "fetched_at": "2018-09-09T03:09:27.640Z"
 }

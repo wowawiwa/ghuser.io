@@ -82,7 +82,7 @@
     "daneden/animate.css": {
       "full_name": "daneden/animate.css",
       "name": "animate.css",
-      "stargazers_count": 54056,
+      "stargazers_count": 54061,
       "popularity": 5,
       "percentage": 2.6402640264026402,
       "maturity": 3.4218565080661945,
@@ -251,13 +251,13 @@
     "sqlmapproject/sqlmap": {
       "full_name": "sqlmapproject/sqlmap",
       "name": "sqlmap",
-      "stargazers_count": 12202,
+      "stargazers_count": 12208,
       "popularity": 5,
       "percentage": 0,
-      "maturity": 4.907159765392022,
-      "total_commits_count": 8083,
+      "maturity": 4.907321722919486,
+      "total_commits_count": 8086,
       "activity": 5,
-      "total_score": 29.814319530784044,
+      "total_score": 29.81464344583897,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -1124,11 +1124,11 @@
       "name": "ghuser.io",
       "stargazers_count": 53,
       "popularity": 2.716876736929962,
-      "percentage": 0.7889546351084813,
-      "maturity": 3.671145814916379,
-      "total_commits_count": 507,
+      "percentage": 0.7827788649706457,
+      "maturity": 3.6748490550167454,
+      "total_commits_count": 511,
       "activity": 5,
-      "total_score": 20.771575864923154,
+      "total_score": 20.77680110031527,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/Homebrew/homebrew-core/languages",
   "pulls_url": "https://api.github.com/repos/Homebrew/homebrew-core/pulls{/number}",
   "created_at": "2016-03-01T06:58:36Z",
-  "updated_at": "2018-09-08T12:09:45Z",
-  "pushed_at": "2018-09-08T12:35:58Z",
+  "updated_at": "2018-09-09T02:02:57Z",
+  "pushed_at": "2018-09-09T03:01:00Z",
   "homepage": "https://brew.sh",
-  "size": 202579,
-  "stargazers_count": 4232,
+  "size": 202816,
+  "stargazers_count": 4234,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -48,11 +48,11 @@
     "site_admin": false
   },
   "contributors": {
-    "BrewTestBot": 46695,
+    "BrewTestBot": 46711,
     "ilovezfs": 16338,
     "adamv": 4692,
     "jacknagel": 4476,
-    "DomT4": 3432,
+    "DomT4": 3436,
     "MikeMcQuaid": 3406,
     "asparagui": 2056,
     "vszakats": 2030,
@@ -61,7 +61,7 @@
     "nijikon": 888,
     "mistydemeo": 880,
     "bfontaine": 875,
-    "commitay": 834,
+    "commitay": 854,
     "zmwangx": 791,
     "xu-cheng": 772,
     "dunn": 699,
@@ -70,7 +70,7 @@
     "mxcl": 415,
     "Sharpie": 400,
     "tdsmith": 353,
-    "lembacon": 344,
+    "lembacon": 351,
     "0xffea": 274,
     "apjanke": 272,
     "afh": 249,
@@ -431,7 +431,7 @@
     "amitgilad3": 11,
     "amjith": 11,
     "auvi": 11,
-    "BePsvPT": 13,
+    "BePsvPT": 14,
     "robotblake": 11,
     "caius": 11,
     "acdha": 11,
@@ -3892,7 +3892,7 @@
   ],
   "languages": {
     "Ruby": {
-      "bytes": 8369658,
+      "bytes": 8373850,
       "color": "#701516"
     },
     "Perl": {
@@ -3900,5 +3900,5 @@
       "color": "#0298c3"
     }
   },
-  "fetched_at": "2018-09-08T12:39:35.597Z"
+  "fetched_at": "2018-09-09T03:10:48.922Z"
 }

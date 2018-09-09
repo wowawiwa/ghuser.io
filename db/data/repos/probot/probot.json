@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/probot/probot",
   "languages_url": "https://api.github.com/repos/probot/probot/languages",
   "created_at": "2016-09-16T20:56:13Z",
-  "updated_at": "2018-09-08T01:24:01Z",
+  "updated_at": "2018-09-08T22:03:18Z",
   "pushed_at": "2018-09-08T12:23:14Z",
   "homepage": "https://probot.github.io",
   "size": 1752,
-  "stargazers_count": 3203,
+  "stargazers_count": 3206,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -143,7 +143,7 @@
     "gupsho": 1,
     "borNfreee": 1
   },
-  "fetched_at": "2018-09-08T12:37:36.489Z",
+  "fetched_at": "2018-09-09T03:08:49.488Z",
   "pulls_url": "https://api.github.com/repos/probot/probot/pulls{/number}",
   "pulls_authors": [
     "JasonEtco",

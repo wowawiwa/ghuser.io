@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/pandas-dev/pandas",
   "languages_url": "https://api.github.com/repos/pandas-dev/pandas/languages",
   "created_at": "2010-08-24T01:37:33Z",
-  "updated_at": "2018-09-08T10:58:25Z",
-  "pushed_at": "2018-09-08T11:30:09Z",
+  "updated_at": "2018-09-09T02:43:37Z",
+  "pushed_at": "2018-09-09T01:46:27Z",
   "homepage": "http://pandas.pydata.org",
   "size": 130317,
-  "stargazers_count": 15905,
+  "stargazers_count": 15916,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -505,7 +505,7 @@
     "NikhilKumarM": 2,
     "HyunTruth": 2
   },
-  "fetched_at": "2018-09-08T12:35:40.577Z",
+  "fetched_at": "2018-09-09T03:06:55.084Z",
   "pulls_url": "https://api.github.com/repos/pandas-dev/pandas/pulls{/number}",
   "pulls_authors": [
     "WillAyd",
@@ -2260,6 +2260,7 @@
     "rhysparry",
     "merraksh",
     "Mottl",
-    "troels"
+    "troels",
+    "staftermath"
   ]
 }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/qtile/qtile/languages",
   "pulls_url": "https://api.github.com/repos/qtile/qtile/pulls{/number}",
   "created_at": "2008-08-30T00:16:40Z",
-  "updated_at": "2018-09-07T00:06:42Z",
-  "pushed_at": "2018-08-06T10:32:44Z",
+  "updated_at": "2018-09-09T02:57:35Z",
+  "pushed_at": "2018-09-07T11:58:14Z",
   "homepage": "http://qtile.org",
   "size": 6645,
-  "stargazers_count": 1358,
+  "stargazers_count": 1359,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -400,7 +400,8 @@
     "twm",
     "mattharrison",
     "Dieterbe",
-    "mccullerlp"
+    "mccullerlp",
+    "AartGoossens"
   ],
   "languages": {
     "Python": {
@@ -420,5 +421,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-07T03:35:49.464Z"
+  "fetched_at": "2018-09-09T03:12:42.051Z"
 }

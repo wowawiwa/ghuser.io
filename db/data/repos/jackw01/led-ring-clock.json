@@ -11,12 +11,12 @@
   "languages_url": "https://api.github.com/repos/jackw01/led-ring-clock/languages",
   "pulls_url": "https://api.github.com/repos/jackw01/led-ring-clock/pulls{/number}",
   "created_at": "2016-11-26T04:00:34Z",
-  "updated_at": "2018-04-29T10:48:37Z",
-  "pushed_at": "2017-12-24T23:07:36Z",
+  "updated_at": "2018-09-09T02:57:06Z",
+  "pushed_at": "2018-09-09T02:57:05Z",
   "homepage": null,
   "size": 439,
   "stargazers_count": 5,
-  "language": "Arduino",
+  "language": "C++",
   "mirror_url": null,
   "archived": false,
   "license": {
@@ -28,14 +28,18 @@
   },
   "default_branch": "master",
   "contributors": {
-    "jackw01": 7
+    "jackw01": 8
   },
   "pulls_authors": [],
   "languages": {
-    "Arduino": {
-      "bytes": 13091,
-      "color": "#ccc"
+    "C++": {
+      "bytes": 7657,
+      "color": "#f34b7d"
+    },
+    "C": {
+      "bytes": 3273,
+      "color": "#555555"
     }
   },
-  "fetched_at": "2018-08-17T15:49:04.110Z"
+  "fetched_at": "2018-09-09T03:09:04.082Z"
 }

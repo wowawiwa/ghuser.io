@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/kubernetes/website/languages",
   "pulls_url": "https://api.github.com/repos/kubernetes/website/pulls{/number}",
   "created_at": "2016-02-10T22:46:48Z",
-  "updated_at": "2018-09-08T09:04:55Z",
+  "updated_at": "2018-09-08T15:02:01Z",
   "pushed_at": "2018-09-08T11:00:47Z",
   "homepage": "https://kubernetes.io",
   "size": 157427,
-  "stargazers_count": 718,
+  "stargazers_count": 719,
   "language": "HTML",
   "mirror_url": null,
   "archived": false,
@@ -2396,5 +2396,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-08T12:34:52.973Z"
+  "fetched_at": "2018-09-09T03:06:09.800Z"
 }

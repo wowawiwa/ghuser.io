@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/apple/swift/languages",
   "pulls_url": "https://api.github.com/repos/apple/swift/pulls{/number}",
   "created_at": "2015-10-23T21:15:07Z",
-  "updated_at": "2018-09-08T12:32:33Z",
-  "pushed_at": "2018-09-08T11:27:04Z",
+  "updated_at": "2018-09-09T02:08:55Z",
+  "pushed_at": "2018-09-09T01:13:31Z",
   "homepage": "https://swift.org",
-  "size": 337874,
-  "stargazers_count": 45117,
+  "size": 337843,
+  "stargazers_count": 45122,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -143,12 +143,12 @@
     "dabrahams": 1916,
     "practicalswift": 2393,
     "jrose-apple": 3361,
-    "gottesmm": 3582,
+    "gottesmm": 3584,
     "slavapestov": 4221,
     "gribozavr": 4444,
     "jckarter": 4284,
     "lattner": 4536,
-    "DougGregor": 6123,
+    "DougGregor": 6129,
     "swift-ci": 10608,
     "divadretlaw": 25,
     "alblue": 23,
@@ -1316,11 +1316,11 @@
   ],
   "languages": {
     "C++": {
-      "bytes": 30307479,
+      "bytes": 30309113,
       "color": "#f34b7d"
     },
     "Swift": {
-      "bytes": 24686775,
+      "bytes": 24687602,
       "color": "#ffac45"
     },
     "Python": {
@@ -1384,5 +1384,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-09-08T12:40:54.603Z"
+  "fetched_at": "2018-09-09T03:12:03.846Z"
 }

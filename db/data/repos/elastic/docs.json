@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/elastic/docs",
   "languages_url": "https://api.github.com/repos/elastic/docs/languages",
   "created_at": "2015-02-25T16:26:02Z",
-  "updated_at": "2018-09-08T00:35:18Z",
-  "pushed_at": "2018-09-08T00:35:15Z",
+  "updated_at": "2018-09-08T15:29:20Z",
+  "pushed_at": "2018-09-08T15:29:17Z",
   "homepage": null,
-  "size": 863260,
+  "size": 863332,
   "stargazers_count": 117,
   "language": "HTML",
   "mirror_url": null,
@@ -42,7 +42,7 @@
   },
   "languages": {
     "HTML": {
-      "bytes": 2593659105,
+      "bytes": 2593658999,
       "color": "#e34c26"
     },
     "JavaScript": {
@@ -134,7 +134,7 @@
     "jarpy": 1,
     "graphaelli": 2
   },
-  "fetched_at": "2018-09-08T12:38:33.282Z",
+  "fetched_at": "2018-09-09T03:09:46.494Z",
   "pulls_url": "https://api.github.com/repos/elastic/docs/pulls{/number}",
   "pulls_authors": [
     "kellyemurphy",

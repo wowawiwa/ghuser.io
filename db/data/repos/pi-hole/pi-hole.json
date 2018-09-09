@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/pi-hole/pi-hole",
   "languages_url": "https://api.github.com/repos/pi-hole/pi-hole/languages",
   "created_at": "2014-06-08T15:02:55Z",
-  "updated_at": "2018-09-08T10:10:37Z",
+  "updated_at": "2018-09-08T22:38:56Z",
   "pushed_at": "2018-09-07T16:55:24Z",
   "homepage": "https://pi-hole.net",
   "size": 4176,
-  "stargazers_count": 9919,
+  "stargazers_count": 9924,
   "language": "Shell",
   "mirror_url": null,
   "archived": false,
@@ -186,7 +186,7 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-08T12:36:32.082Z",
+  "fetched_at": "2018-09-09T03:07:46.448Z",
   "pulls_url": "https://api.github.com/repos/pi-hole/pi-hole/pulls{/number}",
   "pulls_authors": [
     "DL6ER",

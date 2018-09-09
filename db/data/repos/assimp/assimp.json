@@ -274,11 +274,11 @@
   "url": "https://api.github.com/repos/assimp/assimp",
   "languages_url": "https://api.github.com/repos/assimp/assimp/languages",
   "created_at": "2010-05-05T12:53:45Z",
-  "updated_at": "2018-09-08T09:20:23Z",
-  "pushed_at": "2018-09-07T17:15:19Z",
+  "updated_at": "2018-09-08T23:51:36Z",
+  "pushed_at": "2018-09-08T17:17:11Z",
   "homepage": "http://www.assimp.org",
-  "size": 133969,
-  "stargazers_count": 3406,
+  "size": 133973,
+  "stargazers_count": 3409,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -416,7 +416,7 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-09-08T12:35:53.696Z",
+  "fetched_at": "2018-09-09T03:07:08.788Z",
   "pulls_url": "https://api.github.com/repos/assimp/assimp/pulls{/number}",
   "pulls_authors": [
     "eddiejames",

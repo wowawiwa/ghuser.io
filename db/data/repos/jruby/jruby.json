@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/jruby/jruby",
   "languages_url": "https://api.github.com/repos/jruby/jruby/languages",
   "created_at": "2009-04-05T03:54:35Z",
-  "updated_at": "2018-09-07T20:46:43Z",
+  "updated_at": "2018-09-09T01:51:55Z",
   "pushed_at": "2018-09-06T17:51:33Z",
   "homepage": "http://www.jruby.org",
   "size": 225713,
-  "stargazers_count": 3183,
+  "stargazers_count": 3184,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -466,7 +466,7 @@
     "igorbonadio": 1,
     "shseah601": 3
   },
-  "fetched_at": "2018-09-08T00:05:00.878Z",
+  "fetched_at": "2018-09-09T03:09:45.922Z",
   "pulls_url": "https://api.github.com/repos/jruby/jruby/pulls{/number}",
   "pulls_authors": [
     "ChrisBr",

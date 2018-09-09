@@ -73,9 +73,9 @@
       "popularity": 1.6128219920330789,
       "percentage": 100,
       "maturity": 0,
-      "total_commits_count": 7,
-      "activity": 1.2454117734729517,
-      "total_score": 27.050563646002214,
+      "total_commits_count": 8,
+      "activity": 5,
+      "total_score": 30.80515187252926,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -108,13 +108,13 @@
     "sebhildebrandt/systeminformation": {
       "full_name": "sebhildebrandt/systeminformation",
       "name": "systeminformation",
-      "stargazers_count": 553,
-      "popularity": 3.7420568287137352,
+      "stargazers_count": 554,
+      "popularity": 3.7428427400555626,
       "percentage": 0,
       "maturity": 3.473174140773305,
       "total_commits_count": 336,
       "activity": 5,
-      "total_score": 23.172518767687816,
+      "total_score": 23.1748765017133,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

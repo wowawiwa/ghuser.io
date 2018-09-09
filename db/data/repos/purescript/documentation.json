@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/purescript/documentation/languages",
   "pulls_url": "https://api.github.com/repos/purescript/documentation/pulls{/number}",
   "created_at": "2016-11-30T14:46:08Z",
-  "updated_at": "2018-09-07T06:24:22Z",
-  "pushed_at": "2018-09-05T12:56:42Z",
+  "updated_at": "2018-09-08T20:16:10Z",
+  "pushed_at": "2018-09-09T01:29:22Z",
   "homepage": null,
-  "size": 625,
+  "size": 629,
   "stargazers_count": 339,
   "language": null,
   "mirror_url": null,
@@ -168,7 +168,7 @@
     "VlachJosef": 1,
     "jgrosso": 1,
     "ryoia": 1,
-    "justinwoo": 1,
+    "justinwoo": 2,
     "kristianmandrup": 1,
     "kurtharriger": 1,
     "liammcdermott": 1,
@@ -268,5 +268,5 @@
     "grdryn"
   ],
   "languages": {},
-  "fetched_at": "2018-09-08T00:07:41.149Z"
+  "fetched_at": "2018-09-09T03:12:03.758Z"
 }

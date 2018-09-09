@@ -84,24 +84,24 @@
       "name": "cryptonote",
       "stargazers_count": 5,
       "popularity": 1.6128219920330789,
-      "percentage": 0.4424778761061947,
-      "maturity": 3.2714817605991215,
-      "total_commits_count": 226,
+      "percentage": 0.44052863436123346,
+      "maturity": 3.2738091799450744,
+      "total_commits_count": 227,
       "activity": 5,
-      "total_score": 16.47420244374186,
+      "total_score": 16.478448591039736,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "turtlecoin/turtlecoin": {
       "full_name": "turtlecoin/turtlecoin",
       "name": "turtlecoin",
-      "stargazers_count": 335,
-      "popularity": 3.5239155525922445,
+      "stargazers_count": 336,
+      "popularity": 3.5252135048242974,
       "percentage": 0.17152658662092624,
       "maturity": 3.7366158023353817,
       "total_commits_count": 583,
       "activity": 5,
-      "total_score": 23.12355613926345,
+      "total_score": 23.12747893829068,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -117,10 +117,24 @@
       "total_score": 12.428939683841136,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
+    },
+    "AmityCore/AmityCoin": {
+      "full_name": "AmityCore/AmityCoin",
+      "name": "AmityCoin",
+      "stargazers_count": 3,
+      "popularity": 1.3222565221025262,
+      "percentage": 4,
+      "maturity": 2.006040535099928,
+      "total_commits_count": 50,
+      "activity": 5,
+      "total_score": 13.666424028000748,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
     }
   },
   "organizations": [
     "turtlecoin",
-    "ForkMaps"
+    "ForkMaps",
+    "AmityCore"
   ]
 }

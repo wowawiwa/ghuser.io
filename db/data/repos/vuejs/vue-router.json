@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/vuejs/vue-router/languages",
   "pulls_url": "https://api.github.com/repos/vuejs/vue-router/pulls{/number}",
   "created_at": "2013-12-11T19:37:46Z",
-  "updated_at": "2018-09-08T10:32:01Z",
-  "pushed_at": "2018-09-06T20:31:04Z",
+  "updated_at": "2018-09-08T23:55:09Z",
+  "pushed_at": "2018-09-09T00:38:54Z",
   "homepage": "http://router.vuejs.org/",
-  "size": 7635,
-  "stargazers_count": 11168,
+  "size": 7645,
+  "stargazers_count": 11170,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -144,7 +144,7 @@
     "ChangJoo-Park": 10,
     "Jinjiang": 14,
     "kazupon": 14,
-    "Alex-Sokolov": 18,
+    "Alex-Sokolov": 19,
     "Haeresis": 25,
     "fnlctrl": 35,
     "posva": 89,
@@ -546,5 +546,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-08T12:34:56.037Z"
+  "fetched_at": "2018-09-09T03:06:13.035Z"
 }

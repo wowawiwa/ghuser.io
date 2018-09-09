@@ -337,10 +337,10 @@
   "url": "https://api.github.com/repos/minetest/minetest",
   "languages_url": "https://api.github.com/repos/minetest/minetest/languages",
   "created_at": "2011-08-07T13:48:36Z",
-  "updated_at": "2018-09-07T23:39:00Z",
-  "pushed_at": "2018-09-07T23:38:36Z",
+  "updated_at": "2018-09-08T19:07:27Z",
+  "pushed_at": "2018-09-08T18:32:11Z",
   "homepage": "http://minetest.net/",
-  "size": 59095,
+  "size": 59102,
   "stargazers_count": 3441,
   "language": "C++",
   "mirror_url": null,
@@ -415,7 +415,7 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-09-08T00:02:25.350Z",
+  "fetched_at": "2018-09-09T03:07:14.354Z",
   "pulls_url": "https://api.github.com/repos/minetest/minetest/pulls{/number}",
   "pulls_authors": [
     "hecktest",

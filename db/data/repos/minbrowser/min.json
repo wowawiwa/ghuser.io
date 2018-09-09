@@ -42,7 +42,7 @@
     "burnoutberni": 5,
     "BlueManCZ": 6,
     "revolter": 11,
-    "PalmerAL": 965,
+    "PalmerAL": 968,
     "slemony": 2,
     "abrarShariar": 2,
     "tem44": 1,
@@ -58,10 +58,10 @@
   "url": "https://api.github.com/repos/minbrowser/min",
   "languages_url": "https://api.github.com/repos/minbrowser/min/languages",
   "created_at": "2015-10-31T21:59:49Z",
-  "updated_at": "2018-09-08T16:19:55Z",
-  "pushed_at": "2018-09-04T22:30:16Z",
+  "updated_at": "2018-09-08T23:04:48Z",
+  "pushed_at": "2018-09-08T23:04:45Z",
   "homepage": "https://minbrowser.github.io/min",
-  "size": 147300,
+  "size": 147302,
   "stargazers_count": 2576,
   "language": "HTML",
   "mirror_url": null,
@@ -100,7 +100,7 @@
       "color": "#e34c26"
     },
     "JavaScript": {
-      "bytes": 434323,
+      "bytes": 434576,
       "color": "#f1e05a"
     },
     "CSS": {
@@ -108,7 +108,7 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-08T17:06:34.771Z",
+  "fetched_at": "2018-09-09T03:07:16.923Z",
   "pulls_url": "https://api.github.com/repos/minbrowser/min/pulls{/number}",
   "pulls_authors": [
     "slemony",
@@ -172,6 +172,7 @@
     "Calinou",
     "abrarShariar",
     "z-huang",
-    "welaq"
+    "welaq",
+    "cod3x69"
   ]
 }

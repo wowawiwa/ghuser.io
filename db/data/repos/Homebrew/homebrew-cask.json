@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/Homebrew/homebrew-cask/languages",
   "pulls_url": "https://api.github.com/repos/Homebrew/homebrew-cask/pulls{/number}",
   "created_at": "2012-03-05T02:05:17Z",
-  "updated_at": "2018-09-08T12:28:24Z",
-  "pushed_at": "2018-09-08T12:33:29Z",
+  "updated_at": "2018-09-09T01:50:45Z",
+  "pushed_at": "2018-09-09T03:01:17Z",
   "homepage": "https://brew.sh",
-  "size": 124053,
-  "stargazers_count": 13504,
+  "size": 124290,
+  "stargazers_count": 13508,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -49,7 +49,7 @@
   },
   "contributors": {
     "rolandwalker": 13873,
-    "vitorgalvao": 12099,
+    "vitorgalvao": 12100,
     "victorpopkov": 5362,
     "commitay": 2885,
     "brianmorton": 2426,
@@ -58,7 +58,7 @@
     "jawshooah": 1774,
     "nanoxd": 1747,
     "colindunn": 1450,
-    "gtmgianni": 1405,
+    "gtmgianni": 1406,
     "gobinathm": 1226,
     "miccal": 976,
     "Amorymeltzer": 666,
@@ -67,7 +67,7 @@
     "phinze": 586,
     "artdevjs": 464,
     "adidalal": 345,
-    "core-code": 328,
+    "core-code": 333,
     "neutric": 288,
     "buo": 281,
     "jcbot": 266,
@@ -95,7 +95,7 @@
     "lutzroeder": 87,
     "mauricerkelly": 81,
     "koenrh": 78,
-    "404NetworkError": 73,
+    "404NetworkError": 74,
     "crainiarc": 72,
     "RJHsiao": 72,
     "numbermaniac": 70,
@@ -224,7 +224,7 @@
     "Andygol": 18,
     "davejacobs": 18,
     "ezfe": 18,
-    "Jestre": 18,
+    "Jestre": 19,
     "poltak": 18,
     "martinlindhe": 18,
     "g-maxime": 18,
@@ -5881,11 +5881,13 @@
     "carson0321",
     "tommychinjr",
     "fimars",
-    "vraravam"
+    "vraravam",
+    "MatiasConTilde",
+    "tem44"
   ],
   "languages": {
     "Ruby": {
-      "bytes": 2168595,
+      "bytes": 2169516,
       "color": "#701516"
     },
     "Shell": {
@@ -5893,5 +5895,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-08T12:40:05.879Z"
+  "fetched_at": "2018-09-09T03:11:16.747Z"
 }

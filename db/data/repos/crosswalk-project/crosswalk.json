@@ -103,11 +103,11 @@
   "url": "https://api.github.com/repos/crosswalk-project/crosswalk",
   "languages_url": "https://api.github.com/repos/crosswalk-project/crosswalk/languages",
   "created_at": "2013-04-03T23:30:12Z",
-  "updated_at": "2018-09-07T11:57:41Z",
+  "updated_at": "2018-09-08T18:51:03Z",
   "pushed_at": "2018-07-19T16:06:20Z",
   "homepage": "https://crosswalk-project.org/blog/crosswalk-final-release.html",
   "size": 18123,
-  "stargazers_count": 2065,
+  "stargazers_count": 2066,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -181,7 +181,7 @@
       "color": "#438eff"
     }
   },
-  "fetched_at": "2018-09-08T00:02:31.856Z",
+  "fetched_at": "2018-09-09T03:07:20.177Z",
   "pulls_url": "https://api.github.com/repos/crosswalk-project/crosswalk/pulls{/number}",
   "pulls_authors": [
     "flavius-mester",

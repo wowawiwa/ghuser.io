@@ -11,8 +11,8 @@
   "languages_url": "https://api.github.com/repos/iiitv/algos/languages",
   "pulls_url": "https://api.github.com/repos/iiitv/algos/pulls{/number}",
   "created_at": "2017-03-08T16:49:57Z",
-  "updated_at": "2018-09-07T15:07:00Z",
-  "pushed_at": "2018-09-07T17:12:09Z",
+  "updated_at": "2018-09-08T17:39:28Z",
+  "pushed_at": "2018-09-08T18:47:12Z",
   "homepage": "",
   "size": 370,
   "stargazers_count": 680,
@@ -92,7 +92,8 @@
     "singhpratyush": 29,
     "Monal5031": 41,
     "aviaryan": 46,
-    "aashutoshrathi": 51
+    "aashutoshrathi": 51,
+    "shikherjaiswal": 1
   },
   "pulls_authors": [
     "prachi-ag",
@@ -185,11 +186,13 @@
     "codacy-badger",
     "sandeep201451066",
     "lalitmee",
-    "shikherjaiswal"
+    "shikherjaiswal",
+    "heisenberg-2505",
+    "rossoskull"
   ],
   "languages": {
     "Java": {
-      "bytes": 76663,
+      "bytes": 77556,
       "color": "#b07219"
     },
     "Python": {
@@ -221,5 +224,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-08T00:00:40.118Z"
+  "fetched_at": "2018-09-09T03:05:39.410Z"
 }

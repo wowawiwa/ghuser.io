@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/Fillll/reddit2telegram/languages",
   "pulls_url": "https://api.github.com/repos/Fillll/reddit2telegram/pulls{/number}",
   "created_at": "2016-09-08T17:39:46Z",
-  "updated_at": "2018-09-03T07:15:44Z",
-  "pushed_at": "2018-09-03T07:15:42Z",
+  "updated_at": "2018-09-08T18:56:27Z",
+  "pushed_at": "2018-09-08T18:56:25Z",
   "homepage": "https://t.me/r_channels",
-  "size": 396,
+  "size": 406,
   "stargazers_count": 29,
   "language": "Python",
   "mirror_url": null,
@@ -50,7 +50,7 @@
     "Tognee": 11,
     "iassis": 11,
     "luckydonald": 14,
-    "Fillll": 396
+    "Fillll": 397
   },
   "pulls_authors": [
     "elroxar",
@@ -86,7 +86,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 119092,
+      "bytes": 119247,
       "color": "#3572A5"
     },
     "Shell": {
@@ -94,5 +94,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-03T12:59:50.327Z"
+  "fetched_at": "2018-09-09T03:12:35.620Z"
 }
