@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/ghc/ghc/languages",
   "pulls_url": "https://api.github.com/repos/ghc/ghc/pulls{/number}",
   "created_at": "2011-04-02T19:39:34Z",
-  "updated_at": "2018-09-09T21:50:18Z",
-  "pushed_at": "2018-09-08T09:17:52Z",
+  "updated_at": "2018-09-10T10:54:30Z",
+  "pushed_at": "2018-09-10T14:38:31Z",
   "homepage": "http://www.haskell.org/ghc/",
-  "size": 209919,
+  "size": 209926,
   "stargazers_count": 1939,
   "language": "Haskell",
   "mirror_url": "http://git.haskell.org/ghc.git",
@@ -131,7 +131,7 @@
     "pcapriotti": 175,
     "dcoutts": 175,
     "dreixel": 246,
-    "osa1": 202,
+    "osa1": 204,
     "niteria": 216,
     "trofi": 248,
     "batterseapower": 271,
@@ -543,7 +543,8 @@
     "rodlogic",
     "the-real-blackh",
     "nominolo",
-    "dysinger"
+    "dysinger",
+    "merijn"
   ],
   "languages": {
     "Haskell": {
@@ -555,11 +556,11 @@
       "color": "#555555"
     },
     "Makefile": {
-      "bytes": 602262,
+      "bytes": 602334,
       "color": "#427819"
     },
     "Terra": {
-      "bytes": 514871,
+      "bytes": 514654,
       "color": "#00004c"
     },
     "Logos": {
@@ -655,5 +656,5 @@
       "color": "#da291c"
     }
   },
-  "fetched_at": "2018-09-09T22:44:08.419Z"
+  "fetched_at": "2018-09-10T15:10:18.312Z"
 }

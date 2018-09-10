@@ -1,0 +1,89 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cli",
+  "full_name": "netlify/cli",
+  "owner": "netlify",
+  "private": false,
+  "html_url": "https://github.com/netlify/cli",
+  "description": "New Netlify command line tool, now in beta",
+  "fork": false,
+  "url": "https://api.github.com/repos/netlify/cli",
+  "languages_url": "https://api.github.com/repos/netlify/cli/languages",
+  "pulls_url": "https://api.github.com/repos/netlify/cli/pulls{/number}",
+  "created_at": "2014-10-11T07:29:59Z",
+  "updated_at": "2018-09-10T11:43:37Z",
+  "pushed_at": "2018-09-10T08:49:30Z",
+  "homepage": "",
+  "size": 646,
+  "stargazers_count": 114,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "netlify",
+    "id": 7892489,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjc4OTI0ODk=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/7892489?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/netlify",
+    "html_url": "https://github.com/netlify",
+    "followers_url": "https://api.github.com/users/netlify/followers",
+    "following_url": "https://api.github.com/users/netlify/following{/other_user}",
+    "gists_url": "https://api.github.com/users/netlify/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/netlify/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/netlify/subscriptions",
+    "organizations_url": "https://api.github.com/users/netlify/orgs",
+    "repos_url": "https://api.github.com/users/netlify/repos",
+    "events_url": "https://api.github.com/users/netlify/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/netlify/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "tomdyson": 1,
+    "calavera": 1,
+    "verythorough": 2,
+    "fool": 2,
+    "mraerino": 2,
+    "sw-yx": 4,
+    "biilmann": 42,
+    "DavidWells": 172,
+    "bcomnes": 187
+  },
+  "pulls_authors": [
+    "DavidWells",
+    "verythorough",
+    "bcomnes",
+    "tomdyson",
+    "loicteixeira",
+    "fool",
+    "my8bit",
+    "calavera",
+    "mraerino",
+    "rybit",
+    "raphaelyancey"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 147262,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 753,
+      "color": "#e34c26"
+    },
+    "Batchfile": {
+      "bytes": 31,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-10T15:12:35.044Z"
+}

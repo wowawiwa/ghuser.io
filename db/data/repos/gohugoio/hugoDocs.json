@@ -100,7 +100,7 @@
     "anthonyfok": 430,
     "spf13": 625,
     "rdwatters": 686,
-    "bep": 2484,
+    "bep": 2485,
     "asifm": 4,
     "bmon": 4,
     "betaveros": 4,
@@ -466,10 +466,10 @@
   "url": "https://api.github.com/repos/gohugoio/hugoDocs",
   "languages_url": "https://api.github.com/repos/gohugoio/hugoDocs/languages",
   "created_at": "2017-06-14T07:52:37Z",
-  "updated_at": "2018-09-09T03:25:03Z",
-  "pushed_at": "2018-09-09T03:24:58Z",
+  "updated_at": "2018-09-10T09:01:19Z",
+  "pushed_at": "2018-09-10T09:01:15Z",
   "homepage": "",
-  "size": 119525,
+  "size": 119529,
   "stargazers_count": 200,
   "language": "HTML",
   "mirror_url": null,
@@ -520,7 +520,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-09T13:07:48.193Z",
+  "fetched_at": "2018-09-10T15:04:48.835Z",
   "pulls_url": "https://api.github.com/repos/gohugoio/hugoDocs/pulls{/number}",
   "pulls_authors": [
     "brentybh",

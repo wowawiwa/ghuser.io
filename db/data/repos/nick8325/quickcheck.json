@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/nick8325/quickcheck/languages",
   "pulls_url": "https://api.github.com/repos/nick8325/quickcheck/pulls{/number}",
   "created_at": "2012-07-28T22:50:15Z",
-  "updated_at": "2018-09-09T18:39:04Z",
-  "pushed_at": "2018-09-06T13:09:29Z",
+  "updated_at": "2018-09-10T12:33:40Z",
+  "pushed_at": "2018-09-10T12:33:38Z",
   "homepage": "",
-  "size": 1052,
+  "size": 1096,
   "stargazers_count": 398,
   "language": "Haskell",
   "mirror_url": null,
@@ -77,7 +77,7 @@
     "bringert": 32,
     "phadej": 42,
     "koengit": 74,
-    "nick8325": 552
+    "nick8325": 558
   },
   "pulls_authors": [
     "JonFowler",
@@ -134,7 +134,7 @@
   ],
   "languages": {
     "Haskell": {
-      "bytes": 206017,
+      "bytes": 208753,
       "color": "#5e5086"
     },
     "Shell": {
@@ -142,5 +142,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-09T19:08:28.748Z"
+  "fetched_at": "2018-09-10T15:10:29.928Z"
 }

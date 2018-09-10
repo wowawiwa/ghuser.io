@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/tweag/rules_haskell/languages",
   "pulls_url": "https://api.github.com/repos/tweag/rules_haskell/pulls{/number}",
   "created_at": "2017-11-06T08:50:01Z",
-  "updated_at": "2018-09-03T13:37:57Z",
-  "pushed_at": "2018-09-03T17:31:17Z",
+  "updated_at": "2018-09-10T14:17:31Z",
+  "pushed_at": "2018-09-10T14:17:28Z",
   "homepage": "https://haskell.build",
-  "size": 1278,
+  "size": 1279,
   "stargazers_count": 80,
   "language": "Python",
   "mirror_url": null,
@@ -58,11 +58,11 @@
     "aherrmann": 2,
     "nmattia": 2,
     "faineance": 2,
-    "philderbeast": 3,
+    "philderbeast": 4,
     "jin": 4,
     "gdeest": 5,
     "facundominguez": 7,
-    "Profpatsch": 10,
+    "Profpatsch": 11,
     "guibou": 13,
     "judah": 34,
     "Fuuzetsu": 51,
@@ -96,7 +96,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 192092,
+      "bytes": 192300,
       "color": "#3572A5"
     },
     "Haskell": {
@@ -120,5 +120,5 @@
       "color": "#f34b7d"
     }
   },
-  "fetched_at": "2018-09-08T00:07:32.673Z"
+  "fetched_at": "2018-09-10T15:11:22.255Z"
 }

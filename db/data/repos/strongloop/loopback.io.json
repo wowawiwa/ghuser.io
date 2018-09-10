@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/strongloop/loopback.io",
   "languages_url": "https://api.github.com/repos/strongloop/loopback.io/languages",
   "created_at": "2014-01-28T18:00:00Z",
-  "updated_at": "2018-09-08T21:27:46Z",
-  "pushed_at": "2018-09-08T21:27:43Z",
+  "updated_at": "2018-09-10T14:06:24Z",
+  "pushed_at": "2018-09-10T14:06:21Z",
   "homepage": "http://loopback.io",
-  "size": 65300,
+  "size": 65312,
   "stargazers_count": 152,
   "language": "CSS",
   "mirror_url": null,
@@ -211,7 +211,8 @@
     "spid3r007": 1,
     "asnowwolf": 1,
     "manojchandrashekar": 1,
-    "marioestradarosa": 1
+    "marioestradarosa": 1,
+    "ghsamm": 1
   },
   "languages": {
     "CSS": {
@@ -239,7 +240,7 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-09-09T03:08:52.289Z",
+  "fetched_at": "2018-09-10T15:06:59.192Z",
   "pulls_url": "https://api.github.com/repos/strongloop/loopback.io/pulls{/number}",
   "pulls_authors": [
     "CNSKnight",
@@ -434,6 +435,7 @@
     "DOSarrest",
     "marioestradarosa",
     "sifavahora",
-    "jubstuff"
+    "jubstuff",
+    "ghsamm"
   ]
 }

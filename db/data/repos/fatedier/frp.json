@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/fatedier/frp/languages",
   "pulls_url": "https://api.github.com/repos/fatedier/frp/pulls{/number}",
   "created_at": "2015-12-21T15:24:59Z",
-  "updated_at": "2018-09-10T06:53:59Z",
-  "pushed_at": "2018-09-09T14:47:44Z",
+  "updated_at": "2018-09-10T14:58:25Z",
+  "pushed_at": "2018-09-10T13:07:31Z",
   "homepage": "",
   "size": 11406,
-  "stargazers_count": 15101,
+  "stargazers_count": 15113,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -113,7 +113,8 @@
     "ericlarssen",
     "Hurricanezwf",
     "kingjcy",
-    "uin57"
+    "uin57",
+    "leptonyu"
   ],
   "languages": {
     "Go": {
@@ -149,5 +150,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-10T07:07:18.356Z"
+  "fetched_at": "2018-09-10T15:09:19.957Z"
 }

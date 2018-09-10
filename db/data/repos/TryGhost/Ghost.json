@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/TryGhost/Ghost",
   "languages_url": "https://api.github.com/repos/TryGhost/Ghost/languages",
   "created_at": "2013-05-04T11:09:13Z",
-  "updated_at": "2018-09-10T03:15:29Z",
-  "pushed_at": "2018-09-07T07:39:59Z",
+  "updated_at": "2018-09-10T12:39:59Z",
+  "pushed_at": "2018-09-10T14:13:22Z",
   "homepage": "https://ghost.org",
-  "size": 32967,
-  "stargazers_count": 27329,
+  "size": 32980,
+  "stargazers_count": 27330,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -70,7 +70,7 @@
     "nason": 2,
     "bnchdrff": 2,
     "M165437": 2,
-    "tiendq": 3,
+    "tiendq": 4,
     "zce": 3,
     "jomahoney": 3,
     "mixonic": 3,
@@ -148,7 +148,7 @@
     "kirrg001": 811,
     "ErisDS": 3165,
     "chilts": 2,
-    "billfienberg": 2,
+    "billfienberg": 4,
     "bhops": 2,
     "cameronviner": 2,
     "garyc40": 2,
@@ -242,10 +242,10 @@
     "kennym": 1,
     "blia": 1,
     "demesne": 1,
-    "larsnolden": 1,
+    "larsnolden": 2,
     "luk-": 1,
     "hkd987": 1,
-    "mandeepm91": 2,
+    "mandeepm91": 3,
     "mantebridts": 1,
     "marcbachmann": 1,
     "Gudahtt": 1,
@@ -337,11 +337,13 @@
     "zhenkyle": 1,
     "zinyando": 1,
     "allouis": 4,
-    "rishabhgrg": 2
+    "rishabhgrg": 2,
+    "iancottam91": 1,
+    "uqee": 1
   },
   "languages": {
     "JavaScript": {
-      "bytes": 3677507,
+      "bytes": 3677665,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -361,7 +363,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-10T07:06:12.221Z",
+  "fetched_at": "2018-09-10T15:08:01.764Z",
   "pulls_url": "https://api.github.com/repos/TryGhost/Ghost/pulls{/number}",
   "pulls_authors": [
     "kirrg001",

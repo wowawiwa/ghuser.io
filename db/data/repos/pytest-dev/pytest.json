@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/pytest-dev/pytest/languages",
   "pulls_url": "https://api.github.com/repos/pytest-dev/pytest/pulls{/number}",
   "created_at": "2015-06-15T20:28:27Z",
-  "updated_at": "2018-09-10T06:41:14Z",
-  "pushed_at": "2018-09-08T20:32:45Z",
+  "updated_at": "2018-09-10T10:36:35Z",
+  "pushed_at": "2018-09-10T11:53:15Z",
   "homepage": "https://pytest.org",
-  "size": 13758,
-  "stargazers_count": 3013,
+  "size": 13762,
+  "stargazers_count": 3014,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -787,7 +787,8 @@
     "hoefling",
     "dhirensr",
     "fabioz",
-    "crazymerlyn"
+    "crazymerlyn",
+    "tomsquest"
   ],
   "languages": {
     "Python": {
@@ -799,5 +800,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-09-10T07:06:06.283Z"
+  "fetched_at": "2018-09-10T15:07:55.510Z"
 }

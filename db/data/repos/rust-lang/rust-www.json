@@ -99,7 +99,7 @@
     "SphinxKnight": 42,
     "aturon": 77,
     "AndrewBrinker": 57,
-    "steveklabnik": 329,
+    "steveklabnik": 330,
     "brson": 453,
     "Wilo": 3,
     "kmcallister": 3,
@@ -302,7 +302,8 @@
     "wolf4ood": 1,
     "joshtriplett": 1,
     "tomprince": 1,
-    "pietroalbini": 1
+    "pietroalbini": 1,
+    "csmoe": 1
   },
   "name": "rust-www",
   "full_name": "rust-lang/rust-www",
@@ -314,8 +315,8 @@
   "url": "https://api.github.com/repos/rust-lang/rust-www",
   "languages_url": "https://api.github.com/repos/rust-lang/rust-www/languages",
   "created_at": "2011-08-31T16:42:32Z",
-  "updated_at": "2018-09-09T15:16:05Z",
-  "pushed_at": "2018-09-09T14:29:24Z",
+  "updated_at": "2018-09-10T14:50:00Z",
+  "pushed_at": "2018-09-10T14:49:51Z",
   "homepage": "https://www.rust-lang.org",
   "size": 15627,
   "stargazers_count": 125,
@@ -376,7 +377,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-09T17:59:41.507Z",
+  "fetched_at": "2018-09-10T15:04:53.490Z",
   "pulls_url": "https://api.github.com/repos/rust-lang/rust-www/pulls{/number}",
   "pulls_authors": [
     "pmarks",

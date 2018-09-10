@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/django/django/languages",
   "pulls_url": "https://api.github.com/repos/django/django/pulls{/number}",
   "created_at": "2012-04-28T02:47:18Z",
-  "updated_at": "2018-09-10T06:54:55Z",
-  "pushed_at": "2018-09-10T06:55:53Z",
+  "updated_at": "2018-09-10T14:22:18Z",
+  "pushed_at": "2018-09-10T14:51:59Z",
   "homepage": "https://www.djangoproject.com/",
-  "size": 182197,
-  "stargazers_count": 36270,
+  "size": 182210,
+  "stargazers_count": 36283,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -116,7 +116,7 @@
     "shaib": 69,
     "berkerpeksag": 69,
     "telenieko": 73,
-    "adamchainz": 74,
+    "adamchainz": 75,
     "atombrella": 80,
     "mjtamlyn": 139,
     "SmileyChris": 93,
@@ -350,7 +350,7 @@
     "jmichalicek": 3,
     "kaifeldhoff": 3,
     "ketanbhatt": 3,
-    "monoidal": 3,
+    "monoidal": 4,
     "eukreign": 3,
     "luoxzhg": 3,
     "mbox": 3,
@@ -3304,11 +3304,12 @@
     "dunkelstern",
     "alexh546",
     "stephenfin",
-    "hatgit"
+    "hatgit",
+    "flowerpp"
   ],
   "languages": {
     "Python": {
-      "bytes": 12697250,
+      "bytes": 12694400,
       "color": "#3572A5"
     },
     "JavaScript": {
@@ -3336,5 +3337,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-10T07:06:06.007Z"
+  "fetched_at": "2018-09-10T15:07:54.927Z"
 }

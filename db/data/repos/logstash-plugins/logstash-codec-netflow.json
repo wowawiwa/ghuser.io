@@ -10,8 +10,8 @@
   "url": "https://api.github.com/repos/logstash-plugins/logstash-codec-netflow",
   "languages_url": "https://api.github.com/repos/logstash-plugins/logstash-codec-netflow/languages",
   "created_at": "2014-09-30T12:16:06Z",
-  "updated_at": "2018-08-25T13:22:41Z",
-  "pushed_at": "2018-08-25T13:22:39Z",
+  "updated_at": "2018-09-10T09:13:35Z",
+  "pushed_at": "2018-09-10T09:13:34Z",
   "homepage": null,
   "size": 328,
   "stargazers_count": 67,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "Ruby": {
-      "bytes": 158663,
+      "bytes": 158675,
       "color": "#701516"
     },
     "Python": {
@@ -83,9 +83,9 @@
     "bodgit": 7,
     "ph": 40,
     "jorritfolmer": 80,
-    "yaauie": 1
+    "yaauie": 2
   },
-  "fetched_at": "2018-08-25T19:34:56.800Z",
+  "fetched_at": "2018-09-10T15:08:12.901Z",
   "pulls_url": "https://api.github.com/repos/logstash-plugins/logstash-codec-netflow/pulls{/number}",
   "pulls_authors": [
     "jorritfolmer",
@@ -113,6 +113,7 @@
     "elasticsearch-bot",
     "wrigby",
     "debadair",
-    "yaauie"
+    "yaauie",
+    "jsvd"
   ]
 }

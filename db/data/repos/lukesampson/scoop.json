@@ -100,7 +100,7 @@
     "rasa": 146,
     "deevus": 202,
     "lukesampson": 1426,
-    "r15ch13": 3609,
+    "r15ch13": 3613,
     "Mika-": 4,
     "masaeedu": 3,
     "quincunx": 3,
@@ -296,11 +296,11 @@
   "url": "https://api.github.com/repos/lukesampson/scoop",
   "languages_url": "https://api.github.com/repos/lukesampson/scoop/languages",
   "created_at": "2013-05-11T03:52:15Z",
-  "updated_at": "2018-09-10T06:21:19Z",
-  "pushed_at": "2018-09-10T01:18:22Z",
+  "updated_at": "2018-09-10T14:11:42Z",
+  "pushed_at": "2018-09-10T14:00:33Z",
   "homepage": "https://scoop.sh",
-  "size": 6543,
-  "stargazers_count": 4788,
+  "size": 6567,
+  "stargazers_count": 4792,
   "language": "PowerShell",
   "mirror_url": null,
   "archived": false,
@@ -314,7 +314,7 @@
   "default_branch": "master",
   "languages": {
     "PowerShell": {
-      "bytes": 239302,
+      "bytes": 239315,
       "color": "#012456"
     },
     "C#": {
@@ -322,7 +322,7 @@
       "color": "#178600"
     }
   },
-  "fetched_at": "2018-09-10T07:03:22.577Z",
+  "fetched_at": "2018-09-10T15:04:44.987Z",
   "pulls_url": "https://api.github.com/repos/lukesampson/scoop/pulls{/number}",
   "pulls_authors": [
     "leonyu",

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/elastic/kibana",
   "languages_url": "https://api.github.com/repos/elastic/kibana/languages",
   "created_at": "2013-01-26T04:00:59Z",
-  "updated_at": "2018-09-10T02:57:13Z",
-  "pushed_at": "2018-09-10T06:39:37Z",
+  "updated_at": "2018-09-10T14:04:03Z",
+  "pushed_at": "2018-09-10T14:54:23Z",
   "homepage": "https://www.elastic.co/products/kibana",
-  "size": 452613,
-  "stargazers_count": 10051,
+  "size": 452813,
+  "stargazers_count": 10054,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 18480644,
+      "bytes": 18505515,
       "color": "#f1e05a"
     },
     "TypeScript": {
@@ -60,7 +60,7 @@
       "color": "#e34c26"
     },
     "CSS": {
-      "bytes": 425575,
+      "bytes": 425621,
       "color": "#563d7c"
     },
     "Shell": {
@@ -108,7 +108,7 @@
     "meganwalker-ibm": 4,
     "colings86": 6,
     "nik9000": 4,
-    "legrego": 12,
+    "legrego": 14,
     "mattapperson": 5,
     "jpfxgood": 5,
     "sonenko": 5,
@@ -194,7 +194,7 @@
     "jribble": 2,
     "izeye": 2,
     "kellyemurphy": 2,
-    "markov00": 9,
+    "markov00": 10,
     "marius-dr": 4,
     "martijnvg": 2,
     "mcascallares": 2,
@@ -210,7 +210,7 @@
     "wenpos": 2,
     "stdweird": 2,
     "szydan": 2,
-    "TrumanDu": 2,
+    "TrumanDu": 3,
     "ck-lee": 2,
     "derickson": 2,
     "aaronjcaldwell": 2,
@@ -366,7 +366,7 @@
     "hvardhanx": 1,
     "watson": 1
   },
-  "fetched_at": "2018-09-10T07:06:24.203Z",
+  "fetched_at": "2018-09-10T15:08:18.156Z",
   "pulls_url": "https://api.github.com/repos/elastic/kibana/pulls{/number}",
   "pulls_authors": [
     "nreese",

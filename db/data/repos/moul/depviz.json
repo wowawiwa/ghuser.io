@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/moul/depviz/languages",
   "pulls_url": "https://api.github.com/repos/moul/depviz/pulls{/number}",
   "created_at": "2018-09-05T07:29:20Z",
-  "updated_at": "2018-09-09T07:49:15Z",
-  "pushed_at": "2018-09-09T07:49:14Z",
+  "updated_at": "2018-09-10T07:59:26Z",
+  "pushed_at": "2018-09-10T07:59:25Z",
   "homepage": "https://moul.io/depviz",
-  "size": 623,
+  "size": 632,
   "stargazers_count": 4,
   "language": "Go",
   "mirror_url": null,
@@ -31,7 +31,7 @@
     "ImgBotApp": 1,
     "renovate-bot": 1,
     "alexsland": 2,
-    "moul": 31
+    "moul": 32
   },
   "pulls_authors": [
     "alexsland",
@@ -49,9 +49,9 @@
       "color": "#0db7ed"
     },
     "Makefile": {
-      "bytes": 239,
+      "bytes": 269,
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-09T13:11:14.231Z"
+  "fetched_at": "2018-09-10T15:09:07.231Z"
 }

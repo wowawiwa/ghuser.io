@@ -95,13 +95,13 @@
     "probot/probot": {
       "full_name": "probot/probot",
       "name": "probot",
-      "stargazers_count": 3210,
-      "popularity": 4.506422337959109,
+      "stargazers_count": 3213,
+      "popularity": 4.5068281448313945,
       "percentage": 0.2296211251435132,
       "maturity": 3.9213893924190213,
       "total_commits_count": 871,
       "activity": 5,
-      "total_score": 26.496565868505193,
+      "total_score": 26.49779540276003,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -342,13 +342,13 @@
     "knrt10/asciiConvert": {
       "full_name": "knrt10/asciiConvert",
       "name": "asciiConvert",
-      "stargazers_count": 26,
-      "popularity": 2.3997126544096057,
+      "stargazers_count": 42,
+      "popularity": 2.6138808154274,
       "percentage": 100,
       "maturity": 0,
-      "total_commits_count": 7,
+      "total_commits_count": 8,
       "activity": 5,
-      "total_score": 43.39540247055369,
+      "total_score": 46.8220930468384,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

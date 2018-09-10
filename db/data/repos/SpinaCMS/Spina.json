@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/SpinaCMS/Spina",
   "languages_url": "https://api.github.com/repos/SpinaCMS/Spina/languages",
   "created_at": "2015-03-04T16:09:24Z",
-  "updated_at": "2018-09-09T03:48:20Z",
-  "pushed_at": "2018-08-22T19:17:58Z",
+  "updated_at": "2018-09-10T10:51:30Z",
+  "pushed_at": "2018-09-10T10:51:26Z",
   "homepage": "http://www.spinacms.com",
-  "size": 6849,
+  "size": 6848,
   "stargazers_count": 1563,
   "language": "HTML",
   "mirror_url": null,
@@ -104,7 +104,7 @@
     "simmerz": 19,
     "dankmitchell": 31,
     "harmdewit": 54,
-    "Bramjetten": 356,
+    "Bramjetten": 357,
     "thiagoaugusto": 2,
     "btg1998": 1,
     "JessicaCGlenn": 1
@@ -115,7 +115,7 @@
       "color": "#e34c26"
     },
     "Ruby": {
-      "bytes": 126445,
+      "bytes": 126429,
       "color": "#701516"
     },
     "CSS": {
@@ -131,7 +131,7 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-09T13:14:32.385Z",
+  "fetched_at": "2018-09-10T15:13:07.263Z",
   "pulls_url": "https://api.github.com/repos/SpinaCMS/Spina/pulls{/number}",
   "pulls_authors": [
     "simmerz",
@@ -213,6 +213,7 @@
     "ColDog",
     "Swatto",
     "JensDebergh",
-    "JessicaCGlenn"
+    "JessicaCGlenn",
+    "megawalker"
   ]
 }

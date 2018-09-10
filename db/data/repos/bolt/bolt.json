@@ -99,7 +99,7 @@
     "CarsonF": 1070,
     "rossriley": 2708,
     "rarila": 3687,
-    "bobdenotter": 6092,
+    "bobdenotter": 6093,
     "GawainLynch": 7555,
     "chubakur": 4,
     "jirimedved": 3,
@@ -249,7 +249,7 @@
     "tschreiner": 1,
     "znegva": 1,
     "kibax": 1,
-    "stryxx": 1,
+    "stryxx": 2,
     "laurens94": 1,
     "bmfp": 4
   },
@@ -263,10 +263,10 @@
   "url": "https://api.github.com/repos/bolt/bolt",
   "languages_url": "https://api.github.com/repos/bolt/bolt/languages",
   "created_at": "2012-06-14T16:07:54Z",
-  "updated_at": "2018-09-10T05:36:32Z",
-  "pushed_at": "2018-09-09T23:58:53Z",
+  "updated_at": "2018-09-10T11:45:20Z",
+  "pushed_at": "2018-09-10T11:49:33Z",
   "homepage": "",
-  "size": 79236,
+  "size": 79228,
   "stargazers_count": 3759,
   "language": "PHP",
   "mirror_url": null,
@@ -301,7 +301,7 @@
   },
   "languages": {
     "PHP": {
-      "bytes": 3193860,
+      "bytes": 3193721,
       "color": "#4F5D95"
     },
     "JavaScript": {
@@ -321,7 +321,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-10T07:03:34.049Z",
+  "fetched_at": "2018-09-10T15:04:58.575Z",
   "pulls_url": "https://api.github.com/repos/bolt/bolt/pulls{/number}",
   "pulls_authors": [
     "bobdenotter",

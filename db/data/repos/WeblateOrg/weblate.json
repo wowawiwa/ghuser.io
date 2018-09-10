@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/WeblateOrg/weblate/languages",
   "pulls_url": "https://api.github.com/repos/WeblateOrg/weblate/pulls{/number}",
   "created_at": "2012-02-27T09:33:29Z",
-  "updated_at": "2018-09-09T12:56:27Z",
-  "pushed_at": "2018-09-09T12:56:24Z",
+  "updated_at": "2018-09-10T13:28:26Z",
+  "pushed_at": "2018-09-10T13:28:23Z",
   "homepage": "https://weblate.org/",
-  "size": 170685,
+  "size": 171241,
   "stargazers_count": 1132,
   "language": "Python",
   "mirror_url": null,
@@ -59,19 +59,19 @@
     "ProgrammerStarter": 8,
     "stephan75": 8,
     "meixome": 8,
-    "asereze": 9,
+    "asereze": 10,
     "andrewshadura": 9,
     "nblock": 9,
     "madmuffin1": 9,
     "stefanor": 8,
     "Freso": 9,
-    "weblate": 1464,
+    "weblate": 1466,
     "Xuacu": 10,
     "ptrsk": 10,
     "mv-santos": 10,
     "Omankoy": 10,
     "readmanr": 10,
-    "emintufan": 14,
+    "emintufan": 15,
     "FTno": 11,
     "fitojb": 11,
     "belkacem77": 11,
@@ -80,7 +80,7 @@
     "bertm": 12,
     "sikmir": 13,
     "to-ba": 13,
-    "SantosSi": 18,
+    "SantosSi": 19,
     "skarmoutsosv": 14,
     "dtschan": 14,
     "urbalazs": 15,
@@ -131,7 +131,7 @@
     "f2404": 107,
     "lyubomirv": 116,
     "belphegor-belbel": 139,
-    "yarons": 146,
+    "yarons": 147,
     "elchevive": 153,
     "comradekingu": 175,
     "monolifed": 163,
@@ -147,7 +147,7 @@
     "ruleant": 502,
     "BouRock": 760,
     "franconian": 1120,
-    "nijel": 15935,
+    "nijel": 15939,
     "lukakama": 12,
     "pjcaldeira": 7,
     "glensc": 8,
@@ -206,7 +206,7 @@
     "adrianojbr": 3,
     "Bikarhener": 3,
     "buzbohdan": 3,
-    "stalker314314": 4,
+    "stalker314314": 5,
     "Christoph-Miebach": 3,
     "quantifiedcode-bot": 3,
     "daghoidahl": 3,
@@ -380,7 +380,8 @@
     "wyznaga": 2,
     "tobiaswiese": 1,
     "JoKeyser": 1,
-    "Crystal-RainSlide": 2
+    "Crystal-RainSlide": 2,
+    "Naruto0": 2
   },
   "pulls_authors": [
     "nijel",
@@ -515,7 +516,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 2487509,
+      "bytes": 2488072,
       "color": "#3572A5"
     },
     "JavaScript": {
@@ -547,5 +548,5 @@
       "color": "#4F5D95"
     }
   },
-  "fetched_at": "2018-09-09T13:10:06.196Z"
+  "fetched_at": "2018-09-10T15:07:42.904Z"
 }

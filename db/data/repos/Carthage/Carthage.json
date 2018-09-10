@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/Carthage/Carthage/languages",
   "pulls_url": "https://api.github.com/repos/Carthage/Carthage/pulls{/number}",
   "created_at": "2014-10-10T19:54:55Z",
-  "updated_at": "2018-09-09T21:42:05Z",
-  "pushed_at": "2018-09-08T17:38:25Z",
+  "updated_at": "2018-09-10T13:28:54Z",
+  "pushed_at": "2018-09-10T13:21:32Z",
   "homepage": "",
-  "size": 18643,
-  "stargazers_count": 11956,
+  "size": 18592,
+  "stargazers_count": 11957,
   "language": "Swift",
   "mirror_url": null,
   "archived": false,
@@ -145,9 +145,9 @@
     "robb": 102,
     "jdhealy": 126,
     "alanjrogers": 135,
-    "mdiep": 690,
+    "mdiep": 691,
     "jspahrsummers": 939,
-    "ikesyo": 926,
+    "ikesyo": 927,
     "joshvera": 4,
     "neilpa": 4,
     "walshie4": 1,
@@ -372,7 +372,7 @@
   ],
   "languages": {
     "Swift": {
-      "bytes": 510961,
+      "bytes": 510778,
       "color": "#ffac45"
     },
     "C": {
@@ -392,5 +392,5 @@
       "color": "#438eff"
     }
   },
-  "fetched_at": "2018-09-09T22:44:46.882Z"
+  "fetched_at": "2018-09-10T15:11:12.974Z"
 }

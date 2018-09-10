@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/Homebrew/homebrew-core/languages",
   "pulls_url": "https://api.github.com/repos/Homebrew/homebrew-core/pulls{/number}",
   "created_at": "2016-03-01T06:58:36Z",
-  "updated_at": "2018-09-10T03:19:24Z",
-  "pushed_at": "2018-09-10T07:04:35Z",
+  "updated_at": "2018-09-10T14:17:38Z",
+  "pushed_at": "2018-09-10T15:08:36Z",
   "homepage": "https://brew.sh",
-  "size": 202902,
-  "stargazers_count": 4240,
+  "size": 203038,
+  "stargazers_count": 4242,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
     "site_admin": false
   },
   "contributors": {
-    "BrewTestBot": 46719,
+    "BrewTestBot": 46735,
     "ilovezfs": 16338,
     "adamv": 4692,
     "jacknagel": 4476,
@@ -57,11 +57,11 @@
     "asparagui": 2056,
     "vszakats": 2030,
     "tschoonj": 1069,
-    "fxcoudert": 1028,
+    "fxcoudert": 1031,
     "nijikon": 888,
     "mistydemeo": 880,
     "bfontaine": 875,
-    "commitay": 855,
+    "commitay": 856,
     "zmwangx": 791,
     "xu-cheng": 772,
     "dunn": 699,
@@ -70,7 +70,7 @@
     "mxcl": 415,
     "Sharpie": 400,
     "tdsmith": 353,
-    "lembacon": 354,
+    "lembacon": 360,
     "0xffea": 274,
     "apjanke": 272,
     "afh": 249,
@@ -238,7 +238,7 @@
     "spaam": 24,
     "sdorra": 24,
     "quantumsteve": 24,
-    "dinkypumpkin": 24,
+    "dinkypumpkin": 25,
     "cehoffman": 23,
     "ed-flanagan": 23,
     "philn": 23,
@@ -468,7 +468,8 @@
     "paxswill": 11,
     "ELLIOTTCABLE": 11,
     "hydrajump": 11,
-    "nbari": 11
+    "nbari": 11,
+    "MediaAreaCI": 12
   },
   "pulls_authors": [
     "zzak",
@@ -3889,11 +3890,14 @@
     "aphex3k",
     "mmoehring",
     "skunkworker",
-    "LoreleiAurora"
+    "LoreleiAurora",
+    "bucweat",
+    "tstack",
+    "kzemek"
   ],
   "languages": {
     "Ruby": {
-      "bytes": 8375211,
+      "bytes": 8367733,
       "color": "#701516"
     },
     "Perl": {
@@ -3901,5 +3905,5 @@
       "color": "#0298c3"
     }
   },
-  "fetched_at": "2018-09-10T07:07:24.951Z"
+  "fetched_at": "2018-09-10T15:09:27.450Z"
 }

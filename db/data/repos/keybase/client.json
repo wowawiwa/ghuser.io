@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/keybase/client/languages",
   "pulls_url": "https://api.github.com/repos/keybase/client/pulls{/number}",
   "created_at": "2015-01-11T17:17:12Z",
-  "updated_at": "2018-09-10T02:30:23Z",
-  "pushed_at": "2018-09-10T05:13:37Z",
+  "updated_at": "2018-09-10T13:15:02Z",
+  "pushed_at": "2018-09-10T14:38:29Z",
   "homepage": "",
-  "size": 265747,
+  "size": 265054,
   "stargazers_count": 4038,
   "language": "Go",
   "mirror_url": null,
@@ -102,14 +102,14 @@
     "zapu": 385,
     "buoyad": 535,
     "chromakode": 728,
-    "mmaxim": 861,
+    "mmaxim": 863,
     "MarcoPolo": 887,
     "mlsteele": 907,
     "oconnor663": 922,
     "gabriel": 1427,
     "chrisnojima": 1594,
     "cjb": 1624,
-    "maxtaco": 2347,
+    "maxtaco": 2348,
     "patrickxb": 3032
   },
   "pulls_authors": [
@@ -205,7 +205,7 @@
   ],
   "languages": {
     "Go": {
-      "bytes": 13618128,
+      "bytes": 13618119,
       "color": "#375eab"
     },
     "JavaScript": {
@@ -277,5 +277,5 @@
       "color": "#EB8CEB"
     }
   },
-  "fetched_at": "2018-09-10T07:07:34.659Z"
+  "fetched_at": "2018-09-10T15:09:37.208Z"
 }
