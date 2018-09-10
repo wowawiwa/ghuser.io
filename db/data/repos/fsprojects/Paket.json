@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/fsprojects/Paket/languages",
   "pulls_url": "https://api.github.com/repos/fsprojects/Paket/pulls{/number}",
   "created_at": "2014-08-08T11:36:13Z",
-  "updated_at": "2018-09-10T06:55:23Z",
-  "pushed_at": "2018-09-06T17:40:12Z",
+  "updated_at": "2018-09-10T19:20:20Z",
+  "pushed_at": "2018-09-10T20:59:16Z",
   "homepage": "https://fsprojects.github.io/Paket/",
   "size": 240330,
-  "stargazers_count": 1311,
+  "stargazers_count": 1312,
   "language": "F#",
   "mirror_url": null,
   "archived": false,
@@ -543,7 +543,9 @@
     "rojepp",
     "khellang",
     "PatrickMcDonald",
-    "bartelink"
+    "bartelink",
+    "atlemann",
+    "TimLariviere"
   ],
   "languages": {
     "F#": {
@@ -571,5 +573,5 @@
       "color": "#555555"
     }
   },
-  "fetched_at": "2018-09-10T07:09:00.913Z"
+  "fetched_at": "2018-09-10T21:38:33.817Z"
 }

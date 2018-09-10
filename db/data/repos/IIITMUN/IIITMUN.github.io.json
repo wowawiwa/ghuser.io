@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/IIITMUN/IIITMUN.github.io/languages",
   "pulls_url": "https://api.github.com/repos/IIITMUN/IIITMUN.github.io/pulls{/number}",
   "created_at": "2018-09-07T08:50:25Z",
-  "updated_at": "2018-09-10T14:57:57Z",
-  "pushed_at": "2018-09-10T14:50:43Z",
+  "updated_at": "2018-09-10T19:57:08Z",
+  "pushed_at": "2018-09-10T19:35:58Z",
   "homepage": "",
-  "size": 5250,
-  "stargazers_count": 5,
+  "size": 5247,
+  "stargazers_count": 7,
   "language": "HTML",
   "mirror_url": null,
   "archived": false,
@@ -43,16 +43,16 @@
   },
   "contributors": {
     "suicide11": 1,
-    "debck": 12
+    "debck": 14
   },
   "pulls_authors": [],
   "languages": {
     "HTML": {
-      "bytes": 30526,
+      "bytes": 30480,
       "color": "#e34c26"
     },
     "CSS": {
-      "bytes": 11140,
+      "bytes": 11344,
       "color": "#563d7c"
     },
     "JavaScript": {
@@ -60,5 +60,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-10T15:05:46.964Z"
+  "fetched_at": "2018-09-10T21:33:21.846Z"
 }

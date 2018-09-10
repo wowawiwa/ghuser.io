@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/docker/docker-py/languages",
   "pulls_url": "https://api.github.com/repos/docker/docker-py/pulls{/number}",
   "created_at": "2013-05-23T16:15:07Z",
-  "updated_at": "2018-09-10T14:03:05Z",
+  "updated_at": "2018-09-10T21:23:14Z",
   "pushed_at": "2018-09-03T21:26:56Z",
   "homepage": "https://docker-py.readthedocs.io/",
   "size": 4174,
-  "stargazers_count": 3301,
+  "stargazers_count": 3302,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -809,5 +809,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-10T15:02:50.539Z"
+  "fetched_at": "2018-09-10T21:30:41.835Z"
 }

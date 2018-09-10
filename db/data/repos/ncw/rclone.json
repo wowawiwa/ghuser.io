@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/ncw/rclone/languages",
   "pulls_url": "https://api.github.com/repos/ncw/rclone/pulls{/number}",
   "created_at": "2014-03-16T16:19:57Z",
-  "updated_at": "2018-09-10T13:59:35Z",
-  "pushed_at": "2018-09-10T14:09:06Z",
+  "updated_at": "2018-09-10T20:47:49Z",
+  "pushed_at": "2018-09-10T20:19:26Z",
   "homepage": "https://rclone.org",
-  "size": 118805,
-  "stargazers_count": 10717,
+  "size": 118887,
+  "stargazers_count": 10723,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -125,9 +125,9 @@
     "ishuah": 21,
     "klauspost": 45,
     "remusb": 46,
-    "B4dM4n": 50,
+    "B4dM4n": 54,
     "breunigs": 61,
-    "ncw": 2028,
+    "ncw": 2029,
     "adragomir": 1,
     "sparkyman215": 1,
     "animosity22": 1,
@@ -188,10 +188,11 @@
     "themylogin": 1,
     "wolfv6": 1,
     "NurdTurd": 1,
-    "albertony": 5,
+    "albertony": 6,
     "cron410": 1,
     "darthShadow": 2,
-    "felixbrucker": 1
+    "felixbrucker": 1,
+    "scollazo": 1
   },
   "pulls_authors": [
     "NurdTurd",
@@ -395,7 +396,7 @@
   ],
   "languages": {
     "Go": {
-      "bytes": 2205732,
+      "bytes": 2206736,
       "color": "#375eab"
     },
     "HTML": {
@@ -423,5 +424,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-09-10T15:10:40.302Z"
+  "fetched_at": "2018-09-10T21:37:52.265Z"
 }

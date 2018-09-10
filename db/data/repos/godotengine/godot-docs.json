@@ -5,7 +5,7 @@
     "Kloppie5": 2,
     "mysticfall": 2,
     "exts": 2,
-    "cbscribe": 58,
+    "cbscribe": 59,
     "AndreaCatania": 2,
     "josephskelly": 2,
     "daglilley": 2,
@@ -286,7 +286,8 @@
     "pgruenbacher-TSUS": 1,
     "Andre-Rb": 1,
     "PrestonKnopp": 4,
-    "Turupawn": 1
+    "Turupawn": 1,
+    "UnknownSkyrimPasserby": 1
   },
   "name": "godot-docs",
   "full_name": "godotengine/godot-docs",
@@ -298,10 +299,10 @@
   "url": "https://api.github.com/repos/godotengine/godot-docs",
   "languages_url": "https://api.github.com/repos/godotengine/godot-docs/languages",
   "created_at": "2015-12-12T15:02:06Z",
-  "updated_at": "2018-09-10T11:51:03Z",
-  "pushed_at": "2018-09-10T11:51:01Z",
+  "updated_at": "2018-09-10T17:31:39Z",
+  "pushed_at": "2018-09-10T17:35:34Z",
   "homepage": "http://docs.godotengine.org",
-  "size": 293542,
+  "size": 293551,
   "stargazers_count": 377,
   "language": "Python",
   "mirror_url": null,
@@ -358,7 +359,7 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-09-10T15:04:42.975Z",
+  "fetched_at": "2018-09-10T21:32:22.380Z",
   "pulls_url": "https://api.github.com/repos/godotengine/godot-docs/pulls{/number}",
   "pulls_authors": [
     "vurpo",

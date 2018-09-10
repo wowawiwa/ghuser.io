@@ -77,7 +77,7 @@
     "renatobecker": 38,
     "HammyHavoc": 30,
     "kamilkisiela": 30,
-    "mrsimpson": 42,
+    "mrsimpson": 43,
     "timkinnane": 47,
     "fduraibi": 45,
     "AlecTroemel": 47,
@@ -403,11 +403,11 @@
   "url": "https://api.github.com/repos/RocketChat/Rocket.Chat",
   "languages_url": "https://api.github.com/repos/RocketChat/Rocket.Chat/languages",
   "created_at": "2015-05-19T07:36:09Z",
-  "updated_at": "2018-09-10T13:31:13Z",
-  "pushed_at": "2018-09-10T13:54:44Z",
+  "updated_at": "2018-09-10T19:40:23Z",
+  "pushed_at": "2018-09-10T21:14:11Z",
   "homepage": "https://rocket.chat/",
-  "size": 78311,
-  "stargazers_count": 19758,
+  "size": 78242,
+  "stargazers_count": 19762,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -441,7 +441,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 3986705,
+      "bytes": 3986821,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -481,7 +481,7 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-09-10T15:05:00.902Z",
+  "fetched_at": "2018-09-10T21:32:39.258Z",
   "pulls_url": "https://api.github.com/repos/RocketChat/Rocket.Chat/pulls{/number}",
   "pulls_authors": [
     "TheReal1604",

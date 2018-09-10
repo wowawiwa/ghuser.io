@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/jgm/pandoc/languages",
   "pulls_url": "https://api.github.com/repos/jgm/pandoc/pulls{/number}",
   "created_at": "2010-03-20T20:34:23Z",
-  "updated_at": "2018-09-10T14:21:51Z",
-  "pushed_at": "2018-09-10T11:28:44Z",
+  "updated_at": "2018-09-10T16:24:10Z",
+  "pushed_at": "2018-09-10T16:15:12Z",
   "homepage": "http://johnmacfarlane.net/pandoc",
-  "size": 33192,
-  "stargazers_count": 12936,
+  "size": 33197,
+  "stargazers_count": 12937,
   "language": "Haskell",
   "mirror_url": null,
   "archived": false,
@@ -273,7 +273,8 @@
     "tgkokk": 1,
     "wiefling": 1,
     "bersace": 1,
-    "pyssling": 1
+    "pyssling": 1,
+    "jbrains": 1
   },
   "pulls_authors": [
     "daamien",
@@ -640,5 +641,5 @@
       "color": "#3D6117"
     }
   },
-  "fetched_at": "2018-09-10T15:10:23.512Z"
+  "fetched_at": "2018-09-10T21:37:34.537Z"
 }

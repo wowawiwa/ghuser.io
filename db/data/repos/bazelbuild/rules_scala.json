@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/bazelbuild/rules_scala/languages",
   "pulls_url": "https://api.github.com/repos/bazelbuild/rules_scala/pulls{/number}",
   "created_at": "2016-02-17T14:57:24Z",
-  "updated_at": "2018-09-07T22:57:25Z",
-  "pushed_at": "2018-09-10T13:40:34Z",
+  "updated_at": "2018-09-10T17:45:29Z",
+  "pushed_at": "2018-09-10T17:45:27Z",
   "homepage": null,
-  "size": 1535,
+  "size": 1561,
   "stargazers_count": 144,
   "language": "Python",
   "mirror_url": null,
@@ -74,7 +74,7 @@
     "smparkes": 1,
     "ahumesky": 1,
     "haxorz": 1,
-    "nevillelyh": 2,
+    "nevillelyh": 3,
     "greggdonovan": 2,
     "BlueDragonX": 2,
     "jart": 2,
@@ -84,7 +84,7 @@
     "improbable-dino": 2,
     "davidzchen": 2,
     "anchlovi": 3,
-    "kevingessner": 3,
+    "kevingessner": 4,
     "cvcal": 3,
     "cushon": 3,
     "djudd-stripe": 3,
@@ -112,7 +112,7 @@
     "ianoc-stripe": 15,
     "oscar-stripe": 34,
     "ittaiz": 57,
-    "johnynek": 67
+    "johnynek": 68
   },
   "pulls_authors": [
     "kevingessner",
@@ -209,5 +209,5 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-09-10T15:12:14.165Z"
+  "fetched_at": "2018-09-10T21:39:27.189Z"
 }

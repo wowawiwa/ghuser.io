@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/WeblateOrg/weblate/languages",
   "pulls_url": "https://api.github.com/repos/WeblateOrg/weblate/pulls{/number}",
   "created_at": "2012-02-27T09:33:29Z",
-  "updated_at": "2018-09-10T13:28:26Z",
-  "pushed_at": "2018-09-10T13:28:23Z",
+  "updated_at": "2018-09-10T16:16:07Z",
+  "pushed_at": "2018-09-10T17:14:18Z",
   "homepage": "https://weblate.org/",
-  "size": 171241,
+  "size": 171325,
   "stargazers_count": 1132,
   "language": "Python",
   "mirror_url": null,
@@ -65,7 +65,7 @@
     "madmuffin1": 9,
     "stefanor": 8,
     "Freso": 9,
-    "weblate": 1466,
+    "weblate": 1467,
     "Xuacu": 10,
     "ptrsk": 10,
     "mv-santos": 10,
@@ -132,7 +132,7 @@
     "lyubomirv": 116,
     "belphegor-belbel": 139,
     "yarons": 147,
-    "elchevive": 153,
+    "elchevive": 155,
     "comradekingu": 175,
     "monolifed": 163,
     "andriykopanytsia": 179,
@@ -147,7 +147,7 @@
     "ruleant": 502,
     "BouRock": 760,
     "franconian": 1120,
-    "nijel": 15939,
+    "nijel": 15940,
     "lukakama": 12,
     "pjcaldeira": 7,
     "glensc": 8,
@@ -381,7 +381,8 @@
     "tobiaswiese": 1,
     "JoKeyser": 1,
     "Crystal-RainSlide": 2,
-    "Naruto0": 2
+    "Naruto0": 2,
+    "the-bionic": 2
   },
   "pulls_authors": [
     "nijel",
@@ -516,7 +517,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 2488072,
+      "bytes": 2488457,
       "color": "#3572A5"
     },
     "JavaScript": {
@@ -548,5 +549,5 @@
       "color": "#4F5D95"
     }
   },
-  "fetched_at": "2018-09-10T15:07:42.904Z"
+  "fetched_at": "2018-09-10T21:35:00.927Z"
 }

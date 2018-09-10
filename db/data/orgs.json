@@ -7747,6 +7747,49 @@
       "created_at": "2008-12-10T16:19:36Z",
       "updated_at": "2015-10-26T22:00:03Z",
       "type": "Organization"
+    },
+    "jordanopensource": {
+      "login": "jordanopensource",
+      "url": "https://api.github.com/orgs/jordanopensource",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/858218?v=4",
+      "name": "Jordan Open Source Association",
+      "is_verified": false,
+      "html_url": "https://github.com/jordanopensource",
+      "created_at": "2011-06-18T11:37:12Z",
+      "updated_at": "2015-02-24T10:35:17Z",
+      "type": "Organization"
+    },
+    "HospitalRun": {
+      "login": "HospitalRun",
+      "url": "https://api.github.com/orgs/HospitalRun",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/6797041?v=4",
+      "name": "HospitalRun",
+      "is_verified": false,
+      "html_url": "https://github.com/HospitalRun",
+      "created_at": "2014-02-26T18:49:19Z",
+      "updated_at": "2018-09-10T15:08:55Z",
+      "type": "Organization"
+    },
+    "charlestontechnology": {
+      "login": "charlestontechnology",
+      "url": "https://api.github.com/orgs/charlestontechnology",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/13442087?v=4",
+      "name": "Charleston Technology",
+      "is_verified": false,
+      "html_url": "https://github.com/charlestontechnology",
+      "created_at": "2015-07-21T22:15:03Z",
+      "updated_at": "2016-06-17T15:09:09Z",
+      "type": "Organization"
+    },
+    "hackathon-5": {
+      "login": "hackathon-5",
+      "url": "https://api.github.com/orgs/hackathon-5",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/13946160?v=4",
+      "is_verified": false,
+      "html_url": "https://github.com/hackathon-5",
+      "created_at": "2015-08-24T14:09:57Z",
+      "updated_at": "2015-10-09T15:19:39Z",
+      "type": "Organization"
     }
   }
 }

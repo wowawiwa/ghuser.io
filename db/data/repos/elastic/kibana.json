@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/elastic/kibana",
   "languages_url": "https://api.github.com/repos/elastic/kibana/languages",
   "created_at": "2013-01-26T04:00:59Z",
-  "updated_at": "2018-09-10T14:04:03Z",
-  "pushed_at": "2018-09-10T14:54:23Z",
+  "updated_at": "2018-09-10T21:10:37Z",
+  "pushed_at": "2018-09-10T20:57:38Z",
   "homepage": "https://www.elastic.co/products/kibana",
-  "size": 452813,
-  "stargazers_count": 10054,
+  "size": 453042,
+  "stargazers_count": 10055,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 18505515,
+      "bytes": 18503686,
       "color": "#f1e05a"
     },
     "TypeScript": {
-      "bytes": 1036400,
+      "bytes": 1047210,
       "color": "#2b7489"
     },
     "HTML": {
@@ -64,7 +64,7 @@
       "color": "#563d7c"
     },
     "Shell": {
-      "bytes": 18772,
+      "bytes": 18855,
       "color": "#89e051"
     },
     "Perl": {
@@ -108,7 +108,7 @@
     "meganwalker-ibm": 4,
     "colings86": 6,
     "nik9000": 4,
-    "legrego": 14,
+    "legrego": 15,
     "mattapperson": 5,
     "jpfxgood": 5,
     "sonenko": 5,
@@ -159,7 +159,7 @@
     "jimmyjones2": 36,
     "debadair": 50,
     "lcawl": 109,
-    "chrisronline": 74,
+    "chrisronline": 75,
     "kobelb": 91,
     "kimjoar": 95,
     "tylersmalley": 131,
@@ -167,7 +167,7 @@
     "bevacqua": 161,
     "thomasneirynck": 184,
     "timroes": 194,
-    "nreese": 215,
+    "nreese": 216,
     "panda01": 323,
     "BigFunger": 339,
     "Stacey-Gammon": 274,
@@ -176,15 +176,15 @@
     "ycombinator": 330,
     "epixa": 397,
     "lukasolson": 461,
-    "jbudz": 471,
-    "cjcenizal": 483,
+    "jbudz": 472,
+    "cjcenizal": 484,
     "Bargs": 569,
     "bleskes": 515,
     "simianhacker": 665,
     "rashidkpc": 1001,
     "stormpython": 1190,
     "w33ble": 1613,
-    "spalger": 4250,
+    "spalger": 4251,
     "ajebasingh": 2,
     "nellicus": 2,
     "formgeist": 6,
@@ -351,7 +351,7 @@
     "pjhampton": 1,
     "simitt": 2,
     "cchaos": 7,
-    "maryia-lapata": 4,
+    "maryia-lapata": 5,
     "dedemorton": 1,
     "sunui": 1,
     "joshdover": 3,
@@ -366,7 +366,7 @@
     "hvardhanx": 1,
     "watson": 1
   },
-  "fetched_at": "2018-09-10T15:08:18.156Z",
+  "fetched_at": "2018-09-10T21:35:32.478Z",
   "pulls_url": "https://api.github.com/repos/elastic/kibana/pulls{/number}",
   "pulls_authors": [
     "nreese",

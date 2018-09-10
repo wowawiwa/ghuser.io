@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/electron/electron/languages",
   "pulls_url": "https://api.github.com/repos/electron/electron/pulls{/number}",
   "created_at": "2013-04-12T01:47:36Z",
-  "updated_at": "2018-09-10T15:03:05Z",
-  "pushed_at": "2018-09-10T13:51:39Z",
+  "updated_at": "2018-09-10T20:40:28Z",
+  "pushed_at": "2018-09-10T21:32:33Z",
   "homepage": "https://electronjs.org",
-  "size": 42274,
-  "stargazers_count": 64328,
+  "size": 42291,
+  "stargazers_count": 64340,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -133,8 +133,8 @@
     "tarruda": 74,
     "tinydew4": 92,
     "gerhardberger": 95,
-    "jkleinsc": 252,
-    "nornagon": 150,
+    "jkleinsc": 253,
+    "nornagon": 151,
     "ckerr": 223,
     "brenca": 186,
     "paulcbetts": 245,
@@ -142,13 +142,13 @@
     "aroben": 280,
     "hokein": 267,
     "preco21": 347,
-    "alexeykuzmin": 334,
+    "alexeykuzmin": 335,
     "codebytere": 419,
     "MarshallOfSound": 432,
     "zeke": 593,
     "deepak1556": 701,
     "kevinsawicki": 2998,
-    "zcbenz": 8229,
+    "zcbenz": 8230,
     "maxogden": 167,
     "x-yao": 9,
     "mariozaizar": 8,
@@ -1439,19 +1439,20 @@
     "BeniCheni",
     "sgd2z",
     "Satoshipulse",
-    "asokolsky"
+    "asokolsky",
+    "jakubzitny"
   ],
   "languages": {
     "C++": {
-      "bytes": 2880180,
+      "bytes": 2880417,
       "color": "#f34b7d"
     },
     "JavaScript": {
-      "bytes": 991702,
+      "bytes": 995550,
       "color": "#f1e05a"
     },
     "Objective-C++": {
-      "bytes": 356756,
+      "bytes": 356933,
       "color": "#6866fb"
     },
     "Python": {
@@ -1483,5 +1484,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-10T15:11:12.604Z"
+  "fetched_at": "2018-09-10T21:38:21.758Z"
 }

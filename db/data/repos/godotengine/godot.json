@@ -56,10 +56,10 @@
     "StraToN": 33,
     "Max-Might": 37,
     "Ovnuniarchos": 35,
-    "AlexHolly": 41,
-    "Calinou": 59,
+    "AlexHolly": 42,
+    "Calinou": 61,
     "kubecz3k": 46,
-    "willnationsdev": 51,
+    "willnationsdev": 52,
     "NathanWarden": 42,
     "adolson": 46,
     "Zylann": 48,
@@ -85,13 +85,13 @@
     "toger5": 101,
     "hpvb": 169,
     "poke1024": 118,
-    "marcelofg55": 143,
+    "marcelofg55": 144,
     "marynate": 118,
     "karroffel": 296,
     "bojidar-bg": 130,
     "eska014": 163,
     "Faless": 173,
-    "Paulb23": 172,
+    "Paulb23": 173,
     "djrm": 169,
     "vnen": 278,
     "Noshyaar": 370,
@@ -99,7 +99,7 @@
     "Hinsbart": 303,
     "neikeq": 370,
     "volzhs": 303,
-    "akien-mga": 5006,
+    "akien-mga": 5020,
     "reduz": 2875,
     "cbscribe": 39,
     "Spooner": 16,
@@ -157,7 +157,7 @@
     "empyreanx": 5,
     "fire": 15,
     "mateka": 5,
-    "romlok": 6,
+    "romlok": 7,
     "Valentactive": 5,
     "dumitru-stama": 6,
     "antonyjones67": 5,
@@ -303,7 +303,7 @@
     "cooperra": 2,
     "rodolforg": 2,
     "rtroncoso": 2,
-    "RyanStein": 2,
+    "RyanStein": 3,
     "ficoos": 2,
     "pixelpicosean": 2,
     "QuentinCaffeino": 2,
@@ -419,7 +419,7 @@
     "ttencate": 3,
     "oisincar": 2,
     "malbach": 2,
-    "DualMatrix": 6,
+    "DualMatrix": 9,
     "kripken": 1,
     "elasota": 14,
     "natrim": 2,
@@ -430,7 +430,8 @@
     "tko": 3,
     "bmwiedemann": 3,
     "yurchor": 2,
-    "char0xff": 2
+    "char0xff": 2,
+    "avencherus": 2
   },
   "name": "godot",
   "full_name": "godotengine/godot",
@@ -442,10 +443,10 @@
   "url": "https://api.github.com/repos/godotengine/godot",
   "languages_url": "https://api.github.com/repos/godotengine/godot/languages",
   "created_at": "2014-01-04T16:05:36Z",
-  "updated_at": "2018-09-10T14:49:48Z",
-  "pushed_at": "2018-09-10T14:51:21Z",
+  "updated_at": "2018-09-10T21:12:27Z",
+  "pushed_at": "2018-09-10T21:12:00Z",
   "homepage": "https://godotengine.org",
-  "size": 261481,
+  "size": 261503,
   "stargazers_count": 16540,
   "language": "C++",
   "mirror_url": null,
@@ -480,7 +481,7 @@
   },
   "languages": {
     "C++": {
-      "bytes": 21350417,
+      "bytes": 21350852,
       "color": "#f34b7d"
     },
     "Java": {
@@ -524,7 +525,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-10T15:04:43.623Z",
+  "fetched_at": "2018-09-10T21:32:23.095Z",
   "pulls_url": "https://api.github.com/repos/godotengine/godot/pulls{/number}",
   "pulls_authors": [
     "Calinou",
@@ -1434,6 +1435,7 @@
     "avencherus",
     "reisraff",
     "merumelu",
-    "ZodmanPerth"
+    "ZodmanPerth",
+    "chaosdrop"
   ]
 }

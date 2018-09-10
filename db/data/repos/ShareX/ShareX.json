@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/ShareX/ShareX/languages",
   "pulls_url": "https://api.github.com/repos/ShareX/ShareX/pulls{/number}",
   "created_at": "2013-10-08T23:32:10Z",
-  "updated_at": "2018-09-10T15:10:21Z",
-  "pushed_at": "2018-09-10T14:13:22Z",
+  "updated_at": "2018-09-10T19:48:11Z",
+  "pushed_at": "2018-09-10T21:14:45Z",
   "homepage": "https://getsharex.com",
-  "size": 44195,
-  "stargazers_count": 8499,
+  "size": 44196,
+  "stargazers_count": 8501,
   "language": "C#",
   "mirror_url": null,
   "archived": false,
@@ -438,7 +438,8 @@
     "srchunter",
     "snakems",
     "SirCmpwn",
-    "3k2"
+    "3k2",
+    "jdon"
   ],
   "languages": {
     "C#": {
@@ -462,5 +463,5 @@
       "color": "#012456"
     }
   },
-  "fetched_at": "2018-09-10T15:12:55.170Z"
+  "fetched_at": "2018-09-10T21:40:04.302Z"
 }
