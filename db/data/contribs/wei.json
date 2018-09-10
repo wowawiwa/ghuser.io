@@ -108,7 +108,7 @@
     "gogs/gogs": {
       "full_name": "gogs/gogs",
       "name": "gogs",
-      "stargazers_count": 26919,
+      "stargazers_count": 26927,
       "popularity": 5,
       "percentage": 0.020395676116663267,
       "maturity": 4.688649483041196,
@@ -160,13 +160,13 @@
     "xuexb/github-bot": {
       "full_name": "xuexb/github-bot",
       "name": "github-bot",
-      "stargazers_count": 319,
-      "popularity": 3.5026027454730246,
+      "stargazers_count": 320,
+      "popularity": 3.5039658805976788,
       "percentage": 1.694915254237288,
       "maturity": 2.2827606132375395,
       "total_commits_count": 59,
-      "activity": 1.289554605548993,
-      "total_score": 17.13464399541178,
+      "activity": 1.2830116773567393,
+      "total_score": 17.132490824400612,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

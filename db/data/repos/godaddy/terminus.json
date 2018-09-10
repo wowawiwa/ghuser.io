@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/godaddy/terminus",
   "languages_url": "https://api.github.com/repos/godaddy/terminus/languages",
   "created_at": "2017-11-29T21:26:00Z",
-  "updated_at": "2018-09-09T05:54:40Z",
-  "pushed_at": "2018-09-05T22:30:31Z",
+  "updated_at": "2018-09-10T03:31:47Z",
+  "pushed_at": "2018-09-10T03:38:27Z",
   "homepage": "",
-  "size": 215,
+  "size": 216,
   "stargazers_count": 537,
   "language": "JavaScript",
   "mirror_url": null,
@@ -63,11 +63,12 @@
     "greenkeeper[bot]": 9,
     "gergelyke": 13,
     "gaillota": 1,
-    "d-winter": 1
+    "d-winter": 1,
+    "disintegrator": 1
   },
   "languages": {
     "JavaScript": {
-      "bytes": 18443,
+      "bytes": 19703,
       "color": "#f1e05a"
     },
     "TypeScript": {
@@ -79,7 +80,7 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-09T13:09:29.312Z",
+  "fetched_at": "2018-09-10T07:05:18.451Z",
   "pulls_url": "https://api.github.com/repos/godaddy/terminus/pulls{/number}",
   "pulls_authors": [
     "gergelyke",
@@ -99,6 +100,7 @@
     "bmeck",
     "remojansen",
     "gaillota",
-    "d-winter"
+    "d-winter",
+    "disintegrator"
   ]
 }

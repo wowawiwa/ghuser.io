@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/nodejs/node",
   "languages_url": "https://api.github.com/repos/nodejs/node/languages",
   "created_at": "2014-11-26T19:57:11Z",
-  "updated_at": "2018-09-09T20:02:41Z",
-  "pushed_at": "2018-09-09T20:14:45Z",
+  "updated_at": "2018-09-10T06:29:37Z",
+  "pushed_at": "2018-09-10T07:03:06Z",
   "homepage": "https://nodejs.org",
-  "size": 412483,
-  "stargazers_count": 53132,
+  "size": 412571,
+  "stargazers_count": 53147,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 6842274,
+      "bytes": 6842288,
       "color": "#f1e05a"
     },
     "C++": {
-      "bytes": 2528113,
+      "bytes": 2528201,
       "color": "#f34b7d"
     },
     "Python": {
@@ -106,7 +106,7 @@
     "DavidCai1993": 20,
     "rlidwka": 20,
     "davepacheco": 20,
-    "mmarchini": 32,
+    "mmarchini": 33,
     "XadillaX": 22,
     "princejwesley": 21,
     "mathiasbynens": 21,
@@ -195,7 +195,7 @@
     "cjihrig": 402,
     "jasnell": 532,
     "piscisaureus": 598,
-    "addaleax": 699,
+    "addaleax": 700,
     "indutny": 755,
     "Trott": 1336,
     "isaacs": 1647,
@@ -208,7 +208,7 @@
     "geek": 19,
     "estliberitas": 18,
     "jkrems": 18,
-    "kfarnung": 19,
+    "kfarnung": 20,
     "JungMinu": 18,
     "rsms": 18,
     "guybedford": 18,
@@ -575,7 +575,7 @@
     "Maledong": 8,
     "TomCoded": 3
   },
-  "fetched_at": "2018-09-09T20:33:39.478Z",
+  "fetched_at": "2018-09-10T07:08:33.974Z",
   "pulls_url": "https://api.github.com/repos/nodejs/node/pulls{/number}",
   "pulls_authors": [
     "mmarchini",

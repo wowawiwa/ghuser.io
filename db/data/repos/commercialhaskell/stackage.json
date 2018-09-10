@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/commercialhaskell/stackage/languages",
   "pulls_url": "https://api.github.com/repos/commercialhaskell/stackage/pulls{/number}",
   "created_at": "2012-11-20T07:41:30Z",
-  "updated_at": "2018-09-09T16:00:46Z",
-  "pushed_at": "2018-09-09T16:47:12Z",
+  "updated_at": "2018-09-10T03:23:55Z",
+  "pushed_at": "2018-09-10T03:23:53Z",
   "homepage": "https://www.stackage.org/",
-  "size": 10021,
+  "size": 10167,
   "stargazers_count": 350,
   "language": "Shell",
   "mirror_url": null,
@@ -61,7 +61,7 @@
     "andrevdm": 7,
     "ncaq": 7,
     "fizruk": 7,
-    "mitchellwrosen": 7,
+    "mitchellwrosen": 8,
     "jdreaver": 7,
     "AndrewRademacher": 9,
     "bartavelle": 7,
@@ -144,7 +144,7 @@
     "phadej": 76,
     "lwm": 205,
     "mihaimaruseac": 474,
-    "juhp": 1242,
+    "juhp": 1245,
     "bergmark": 1327,
     "DanBurton": 1498,
     "snoyberg": 3445,
@@ -1051,11 +1051,12 @@
     "rrnewton",
     "ekmett",
     "BartMassey",
-    "aslatter"
+    "aslatter",
+    "xenog"
   ],
   "languages": {
     "Shell": {
-      "bytes": 21098,
+      "bytes": 21337,
       "color": "#89e051"
     },
     "Haskell": {
@@ -1071,5 +1072,5 @@
       "color": "#c065db"
     }
   },
-  "fetched_at": "2018-09-09T18:04:01.098Z"
+  "fetched_at": "2018-09-10T07:08:12.838Z"
 }

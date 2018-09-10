@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/probot/stale",
   "languages_url": "https://api.github.com/repos/probot/stale/languages",
   "created_at": "2017-03-13T13:21:06Z",
-  "updated_at": "2018-09-08T14:54:43Z",
-  "pushed_at": "2018-09-05T21:15:21Z",
+  "updated_at": "2018-09-09T23:39:38Z",
+  "pushed_at": "2018-09-09T18:05:48Z",
   "homepage": "https://probot.github.io/apps/stale/",
   "size": 278,
-  "stargazers_count": 508,
+  "stargazers_count": 510,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -76,7 +76,7 @@
     "ragurney": 1,
     "fvcproductions": 4
   },
-  "fetched_at": "2018-09-09T03:08:52.203Z",
+  "fetched_at": "2018-09-10T07:05:19.266Z",
   "pulls_url": "https://api.github.com/repos/probot/stale/pulls{/number}",
   "pulls_authors": [
     "cduez",
@@ -108,6 +108,7 @@
     "rafaelfranca",
     "kytrinyx",
     "ragurney",
-    "fvcproductions"
+    "fvcproductions",
+    "jsjoeio"
   ]
 }

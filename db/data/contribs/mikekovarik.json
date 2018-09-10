@@ -108,13 +108,13 @@
     "discordjs/discord.js": {
       "full_name": "discordjs/discord.js",
       "name": "discord.js",
-      "stargazers_count": 2842,
-      "popularity": 4.453525607408002,
+      "stargazers_count": 2843,
+      "popularity": 4.4536784418983455,
       "percentage": 0.028097780275358246,
       "maturity": 4.548167877445759,
       "total_commits_count": 3559,
       "activity": 5,
-      "total_score": 27.473180021031318,
+      "total_score": 27.473639082762638,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -173,7 +173,7 @@
     "webtorrent/webtorrent": {
       "full_name": "webtorrent/webtorrent",
       "name": "webtorrent",
-      "stargazers_count": 17662,
+      "stargazers_count": 17661,
       "popularity": 5,
       "percentage": 0.0855431993156544,
       "maturity": 4.363105165949663,

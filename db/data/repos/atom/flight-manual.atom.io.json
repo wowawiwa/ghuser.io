@@ -99,7 +99,7 @@
     "izuzak": 65,
     "gjtorikian": 59,
     "schacon": 91,
-    "simurai": 97,
+    "simurai": 117,
     "lee-dohm": 349,
     "thomasjo": 5,
     "ericcornelissen": 2,
@@ -147,8 +147,8 @@
   "url": "https://api.github.com/repos/atom/flight-manual.atom.io",
   "languages_url": "https://api.github.com/repos/atom/flight-manual.atom.io/languages",
   "created_at": "2014-10-09T18:34:02Z",
-  "updated_at": "2018-09-06T21:07:06Z",
-  "pushed_at": "2018-09-06T21:33:49Z",
+  "updated_at": "2018-09-10T06:06:16Z",
+  "pushed_at": "2018-09-10T06:10:11Z",
   "homepage": "https://flight-manual.atom.io",
   "size": 42198,
   "stargazers_count": 302,
@@ -209,7 +209,7 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-09-07T03:30:59.004Z",
+  "fetched_at": "2018-09-10T07:03:41.224Z",
   "pulls_url": "https://api.github.com/repos/atom/flight-manual.atom.io/pulls{/number}",
   "pulls_authors": [
     "vidyutgharpure",

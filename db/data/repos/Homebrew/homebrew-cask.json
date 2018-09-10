@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/Homebrew/homebrew-cask/languages",
   "pulls_url": "https://api.github.com/repos/Homebrew/homebrew-cask/pulls{/number}",
   "created_at": "2012-03-05T02:05:17Z",
-  "updated_at": "2018-09-09T20:13:20Z",
-  "pushed_at": "2018-09-09T20:01:15Z",
+  "updated_at": "2018-09-10T02:56:05Z",
+  "pushed_at": "2018-09-10T02:07:27Z",
   "homepage": "https://brew.sh",
-  "size": 124103,
-  "stargazers_count": 13511,
+  "size": 124122,
+  "stargazers_count": 13509,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -49,9 +49,9 @@
   },
   "contributors": {
     "rolandwalker": 13873,
-    "vitorgalvao": 12101,
+    "vitorgalvao": 12103,
     "victorpopkov": 5362,
-    "commitay": 2886,
+    "commitay": 2887,
     "brianmorton": 2426,
     "tapeinosyne": 1873,
     "fanquake": 1831,
@@ -67,7 +67,7 @@
     "phinze": 586,
     "artdevjs": 464,
     "adidalal": 345,
-    "core-code": 359,
+    "core-code": 361,
     "neutric": 288,
     "buo": 281,
     "jcbot": 266,
@@ -95,7 +95,7 @@
     "lutzroeder": 87,
     "mauricerkelly": 81,
     "koenrh": 78,
-    "404NetworkError": 74,
+    "404NetworkError": 75,
     "crainiarc": 72,
     "RJHsiao": 72,
     "numbermaniac": 70,
@@ -5883,11 +5883,12 @@
     "fimars",
     "vraravam",
     "MatiasConTilde",
-    "tem44"
+    "tem44",
+    "futek"
   ],
   "languages": {
     "Ruby": {
-      "bytes": 2170272,
+      "bytes": 2171050,
       "color": "#701516"
     },
     "Shell": {
@@ -5895,5 +5896,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-09T20:33:05.246Z"
+  "fetched_at": "2018-09-10T07:07:56.465Z"
 }

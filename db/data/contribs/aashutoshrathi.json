@@ -4,13 +4,13 @@
     "Awesome-Windows/Awesome": {
       "full_name": "Awesome-Windows/Awesome",
       "name": "Awesome",
-      "stargazers_count": 5022,
-      "popularity": 4.700837958724515,
+      "stargazers_count": 5025,
+      "popularity": 4.70109736291493,
       "percentage": 1.2658227848101267,
       "maturity": 3.0739847489453496,
       "total_commits_count": 158,
       "activity": 5,
-      "total_score": 26.024038987525238,
+      "total_score": 26.024859886861996,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -407,13 +407,13 @@
     "coala/coala": {
       "full_name": "coala/coala",
       "name": "coala",
-      "stargazers_count": 2500,
-      "popularity": 4.397822721598748,
+      "stargazers_count": 2502,
+      "popularity": 4.3981701433071825,
       "percentage": 0.04892367906066536,
       "maturity": 4.608987508121058,
       "total_commits_count": 4088,
       "activity": 5,
-      "total_score": 27.439413677799998,
+      "total_score": 27.440458152554562,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -537,13 +537,13 @@
     "mohitkyadav/algos-ngular": {
       "full_name": "mohitkyadav/algos-ngular",
       "name": "algos-ngular",
-      "stargazers_count": 27,
-      "popularity": 2.416679446233313,
+      "stargazers_count": 28,
+      "popularity": 2.4330082352955733,
       "percentage": 19.17808219178082,
       "maturity": 2.5215590771505747,
       "total_commits_count": 73,
-      "activity": 1.0910446648488743,
-      "total_score": 19.40934717448644,
+      "activity": 1.0843139043308274,
+      "total_score": 19.492312912789853,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -602,13 +602,13 @@
     "TEAMMATES/teammates": {
       "full_name": "TEAMMATES/teammates",
       "name": "teammates",
-      "stargazers_count": 674,
-      "popularity": 3.828118673403023,
+      "stargazers_count": 676,
+      "popularity": 3.8294071908523004,
       "percentage": 0.00611583389395144,
       "maturity": 5,
       "total_commits_count": 16351,
       "activity": 5,
-      "total_score": 26.487399598140343,
+      "total_score": 26.491266174934804,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -648,6 +648,19 @@
       "total_commits_count": 71,
       "activity": 1.0454788307517844,
       "total_score": 6.034461102208741,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "iiitv/algos-web": {
+      "full_name": "iiitv/algos-web",
+      "name": "algos-web",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 1,
+      "activity": 5,
+      "total_score": 21.662851527087042,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

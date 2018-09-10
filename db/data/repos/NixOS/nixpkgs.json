@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/NixOS/nixpkgs/languages",
   "pulls_url": "https://api.github.com/repos/NixOS/nixpkgs/pulls{/number}",
   "created_at": "2012-06-04T02:49:46Z",
-  "updated_at": "2018-09-09T20:29:08Z",
-  "pushed_at": "2018-09-09T20:25:51Z",
+  "updated_at": "2018-09-10T06:51:23Z",
+  "pushed_at": "2018-09-10T06:48:02Z",
   "homepage": null,
-  "size": 850640,
-  "stargazers_count": 2764,
+  "size": 851044,
+  "stargazers_count": 2765,
   "language": "Nix",
   "mirror_url": null,
   "archived": false,
@@ -49,17 +49,17 @@
   },
   "contributors": {
     "8573": 24,
-    "peti": 15243,
+    "peti": 15244,
     "edolstra": 12052,
     "FRidh": 4789,
     "7c6f434c": 4701,
     "vcunat": 4369,
-    "Mic92": 4169,
+    "Mic92": 4170,
     "joachifm": 2720,
     "ttuegel": 2669,
     "domenkozar": 2657,
     "wkennington": 2538,
-    "fpletz": 2310,
+    "fpletz": 2313,
     "abbradar": 2309,
     "shlevy": 2309,
     "civodul": 2006,
@@ -68,7 +68,7 @@
     "matthewbauer": 1626,
     "volth": 1613,
     "globin": 1600,
-    "NeQuissimus": 1566,
+    "NeQuissimus": 1570,
     "aszlig": 1547,
     "dezgeg": 1511,
     "jagajaga": 1459,
@@ -78,11 +78,11 @@
     "bjornfor": 1193,
     "jtojnar": 1199,
     "Ericson2314": 1188,
-    "orivej": 1116,
-    "dtzWill": 1086,
-    "adisbladis": 1020,
+    "orivej": 1117,
+    "dtzWill": 1094,
+    "adisbladis": 1021,
     "LnL7": 1016,
-    "ryantm": 981,
+    "ryantm": 983,
     "MarcWeber": 953,
     "peterhoeg": 950,
     "grahamc": 941,
@@ -90,13 +90,13 @@
     "viric": 926,
     "cillianderoiste": 862,
     "rycee": 830,
-    "romildo": 811,
+    "romildo": 813,
     "offlinehacker": 756,
     "thoughtpolice": 743,
     "dotlambda": 724,
     "zimbatm": 672,
     "bluescreen303": 670,
-    "xeji": 645,
+    "xeji": 648,
     "nbp": 634,
     "Phreedom": 595,
     "Fuuzetsu": 523,
@@ -157,7 +157,7 @@
     "qknight": 164,
     "dguibert": 162,
     "gnidorah": 160,
-    "dywedir": 158,
+    "dywedir": 159,
     "wmertens": 156,
     "vrthra": 148,
     "flokli": 144,
@@ -184,7 +184,7 @@
     "madjar": 104,
     "spwhitt": 103,
     "pbogdan": 100,
-    "knedlsepp": 101,
+    "knedlsepp": 109,
     "gridaphobe": 97,
     "layus": 97,
     "lheckemann": 96,
@@ -193,7 +193,7 @@
     "chris-martin": 93,
     "ixmatus": 73,
     "deepfire": 93,
-    "samueldr": 93,
+    "samueldr": 94,
     "falsifian": 91,
     "acowley": 90,
     "ryantrinkle": 85,
@@ -262,7 +262,7 @@
     "jgillich": 47,
     "hSloan": 46,
     "robberer": 46,
-    "bhipple": 45,
+    "bhipple": 46,
     "johbo": 45,
     "nh2": 45,
     "vdemeester": 45,
@@ -2439,7 +2439,7 @@
   ],
   "languages": {
     "Nix": {
-      "bytes": 28283414,
+      "bytes": 28286014,
       "color": "#7e7eff"
     },
     "Shell": {
@@ -2454,13 +2454,13 @@
       "bytes": 159912,
       "color": "#701516"
     },
+    "Python": {
+      "bytes": 139602,
+      "color": "#3572A5"
+    },
     "C": {
       "bytes": 135802,
       "color": "#555555"
-    },
-    "Python": {
-      "bytes": 129770,
-      "color": "#3572A5"
     },
     "Common Lisp": {
       "bytes": 40518,
@@ -2555,5 +2555,5 @@
       "color": "#1e4aec"
     }
   },
-  "fetched_at": "2018-09-09T20:34:09.080Z"
+  "fetched_at": "2018-09-10T07:09:05.358Z"
 }
