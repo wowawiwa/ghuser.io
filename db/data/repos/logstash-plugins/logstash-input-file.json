@@ -10,8 +10,8 @@
   "url": "https://api.github.com/repos/logstash-plugins/logstash-input-file",
   "languages_url": "https://api.github.com/repos/logstash-plugins/logstash-input-file/languages",
   "created_at": "2014-10-16T17:03:03Z",
-  "updated_at": "2018-09-09T07:27:52Z",
-  "pushed_at": "2018-09-07T11:33:25Z",
+  "updated_at": "2018-09-10T18:22:46Z",
+  "pushed_at": "2018-09-10T18:49:57Z",
   "homepage": null,
   "size": 308,
   "stargazers_count": 40,
@@ -48,7 +48,7 @@
   },
   "languages": {
     "Ruby": {
-      "bytes": 207184,
+      "bytes": 207296,
       "color": "#701516"
     },
     "Java": {
@@ -58,6 +58,10 @@
     "Shell": {
       "bytes": 1643,
       "color": "#89e051"
+    },
+    "Dockerfile": {
+      "bytes": 493,
+      "color": "#0db7ed"
     }
   },
   "contributors": {
@@ -75,12 +79,12 @@
     "colinsurprenant": 3,
     "suyograo": 9,
     "jsvd": 18,
-    "guyboertje": 23,
+    "guyboertje": 24,
     "ph": 42,
     "thbay": 1,
     "karenzone": 1
   },
-  "fetched_at": "2018-09-09T13:10:27.369Z",
+  "fetched_at": "2018-09-10T19:02:45.431Z",
   "pulls_url": "https://api.github.com/repos/logstash-plugins/logstash-input-file/pulls{/number}",
   "pulls_authors": [
     "karenzone",

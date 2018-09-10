@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/rsnikhil/RISCV-ISA-Spec/languages",
   "pulls_url": "https://api.github.com/repos/rsnikhil/RISCV-ISA-Spec/pulls{/number}",
   "created_at": "2018-01-25T03:56:02Z",
-  "updated_at": "2018-09-08T06:51:32Z",
-  "pushed_at": "2018-09-06T18:52:08Z",
+  "updated_at": "2018-09-10T17:19:17Z",
+  "pushed_at": "2018-09-10T17:19:15Z",
   "homepage": null,
-  "size": 5813,
-  "stargazers_count": 35,
+  "size": 5902,
+  "stargazers_count": 36,
   "language": "Haskell",
   "mirror_url": null,
   "archived": false,
@@ -29,7 +29,8 @@
   "default_branch": "master",
   "contributors": {
     "nomeata": 4,
-    "rsnikhil": 41
+    "rsnikhil": 43,
+    "sweirich": 4
   },
   "pulls_authors": [
     "sweirich",
@@ -38,25 +39,25 @@
   ],
   "languages": {
     "Haskell": {
-      "bytes": 394642,
+      "bytes": 651609,
       "color": "#5e5086"
+    },
+    "Coq": {
+      "bytes": 470214,
+      "color": "#ccc"
+    },
+    "Makefile": {
+      "bytes": 35902,
+      "color": "#427819"
     },
     "C": {
       "bytes": 10433,
       "color": "#555555"
     },
-    "Makefile": {
-      "bytes": 9207,
-      "color": "#427819"
-    },
     "Python": {
       "bytes": 5689,
       "color": "#3572A5"
-    },
-    "Coq": {
-      "bytes": 483,
-      "color": "#ccc"
     }
   },
-  "fetched_at": "2018-09-08T12:40:15.752Z"
+  "fetched_at": "2018-09-10T19:04:57.363Z"
 }

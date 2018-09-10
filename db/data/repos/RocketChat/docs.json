@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/RocketChat/docs",
   "languages_url": "https://api.github.com/repos/RocketChat/docs/languages",
   "created_at": "2016-05-06T12:02:57Z",
-  "updated_at": "2018-09-05T17:42:27Z",
-  "pushed_at": "2018-09-06T06:35:21Z",
+  "updated_at": "2018-09-10T16:10:45Z",
+  "pushed_at": "2018-09-10T18:05:11Z",
   "homepage": "https://rocket.chat/docs/",
-  "size": 10005,
+  "size": 9942,
   "stargazers_count": 136,
   "language": "CSS",
   "mirror_url": null,
@@ -140,7 +140,7 @@
     "yyx990803": 50,
     "MarcosSpessatto": 91,
     "engelgabriel": 202,
-    "Sing-Li": 123,
+    "Sing-Li": 124,
     "marceloschmidt": 102,
     "SeanPackham": 135,
     "tmeasday": 119,
@@ -311,7 +311,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-06T06:39:41.767Z",
+  "fetched_at": "2018-09-10T18:59:45.961Z",
   "pulls_url": "https://api.github.com/repos/RocketChat/docs/pulls{/number}",
   "pulls_authors": [
     "MartinSchoeler",
@@ -554,6 +554,8 @@
     "tostanoski",
     "aferreira44",
     "shraddharsh",
-    "rteijeiro"
+    "rteijeiro",
+    "kjetilmjos",
+    "babuchimata"
   ]
 }

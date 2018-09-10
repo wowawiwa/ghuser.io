@@ -10,8 +10,8 @@
   "url": "https://api.github.com/repos/diegohaz/schm",
   "languages_url": "https://api.github.com/repos/diegohaz/schm/languages",
   "created_at": "2017-06-08T21:49:44Z",
-  "updated_at": "2018-09-06T14:20:51Z",
-  "pushed_at": "2018-07-13T16:14:16Z",
+  "updated_at": "2018-09-10T18:50:49Z",
+  "pushed_at": "2018-09-10T18:50:47Z",
   "homepage": "https://git.io/schm",
   "size": 402,
   "stargazers_count": 359,
@@ -29,19 +29,20 @@
   "contributors": {
     "J-F-Liu": 1,
     "itaditya": 1,
-    "diegohaz": 65
+    "diegohaz": 70
   },
   "languages": {
     "JavaScript": {
-      "bytes": 79081,
+      "bytes": 81685,
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-06T17:06:56.131Z",
+  "fetched_at": "2018-09-10T19:01:41.445Z",
   "pulls_url": "https://api.github.com/repos/diegohaz/schm/pulls{/number}",
   "pulls_authors": [
     "diegohaz",
     "J-F-Liu",
-    "itaditya"
+    "itaditya",
+    "Mikou"
   ]
 }

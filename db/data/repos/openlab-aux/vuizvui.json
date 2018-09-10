@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/openlab-aux/vuizvui/languages",
   "pulls_url": "https://api.github.com/repos/openlab-aux/vuizvui/pulls{/number}",
   "created_at": "2012-11-26T05:15:24Z",
-  "updated_at": "2018-09-09T12:57:01Z",
-  "pushed_at": "2018-09-09T12:56:59Z",
+  "updated_at": "2018-09-10T16:27:24Z",
+  "pushed_at": "2018-09-10T16:27:22Z",
   "homepage": "",
-  "size": 2584,
+  "size": 2588,
   "stargazers_count": 47,
   "language": "Nix",
   "mirror_url": null,
@@ -53,7 +53,7 @@
     "sternenseemann": 98,
     "Profpatsch": 307,
     "devhell": 601,
-    "aszlig": 1335
+    "aszlig": 1336
   },
   "pulls_authors": [
     "layus",
@@ -64,7 +64,7 @@
   ],
   "languages": {
     "Nix": {
-      "bytes": 373796,
+      "bytes": 376646,
       "color": "#7e7eff"
     },
     "C": {
@@ -96,5 +96,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-09T13:13:12.877Z"
+  "fetched_at": "2018-09-10T19:06:07.077Z"
 }

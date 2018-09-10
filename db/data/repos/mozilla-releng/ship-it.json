@@ -11,8 +11,8 @@
   "languages_url": "https://api.github.com/repos/mozilla-releng/ship-it/languages",
   "pulls_url": "https://api.github.com/repos/mozilla-releng/ship-it/pulls{/number}",
   "created_at": "2015-02-23T17:07:32Z",
-  "updated_at": "2018-09-05T14:40:38Z",
-  "pushed_at": "2018-09-05T14:40:37Z",
+  "updated_at": "2018-09-10T16:21:02Z",
+  "pushed_at": "2018-09-10T16:21:00Z",
   "homepage": null,
   "size": 3591,
   "stargazers_count": 16,
@@ -63,7 +63,7 @@
     "Callek": 11,
     "flodolo": 18,
     "nthomas-mozilla": 20,
-    "pascalchevrel": 23,
+    "pascalchevrel": 24,
     "rail": 38,
     "JohanLorenzo": 43,
     "mozbhearsum": 98,
@@ -105,7 +105,7 @@
       "color": "#f1e05a"
     },
     "HTML": {
-      "bytes": 34763,
+      "bytes": 34784,
       "color": "#e34c26"
     },
     "CSS": {
@@ -121,5 +121,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-05T20:21:17.911Z"
+  "fetched_at": "2018-09-10T19:04:03.869Z"
 }

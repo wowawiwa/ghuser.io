@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/js-org/js.org",
   "languages_url": "https://api.github.com/repos/js-org/js.org/languages",
   "created_at": "2015-04-08T01:43:18Z",
-  "updated_at": "2018-09-10T04:22:54Z",
-  "pushed_at": "2018-09-10T04:51:55Z",
+  "updated_at": "2018-09-10T15:08:50Z",
+  "pushed_at": "2018-09-10T15:18:53Z",
   "homepage": "https://js.org",
-  "size": 2874,
+  "size": 2955,
   "stargazers_count": 1887,
   "language": "JavaScript",
   "mirror_url": null,
@@ -141,7 +141,7 @@
     "tannerlinsley": 15,
     "pakastin": 16,
     "egoist": 16,
-    "indus": 1911,
+    "indus": 1914,
     "ccrraaiigg": 3,
     "danieljuarezp": 3,
     "dhruvdutt": 3,
@@ -511,15 +511,16 @@
     "roboncode": 2,
     "hijiangtao": 2,
     "pomber": 2,
-    "Sphinxxxx": 1
+    "Sphinxxxx": 1,
+    "dongwenxiao": 2
   },
   "languages": {
     "JavaScript": {
-      "bytes": 85085,
+      "bytes": 85138,
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-10T07:02:36.915Z",
+  "fetched_at": "2018-09-10T18:58:42.404Z",
   "pulls_url": "https://api.github.com/repos/js-org/js.org/pulls{/number}",
   "pulls_authors": [
     "ChandZhang",
@@ -1927,6 +1928,8 @@
     "egecue",
     "xeromat",
     "khareemnurulla",
-    "TroyXun"
+    "TroyXun",
+    "silkster",
+    "Ovyerus"
   ]
 }

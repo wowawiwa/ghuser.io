@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/koding/koding",
   "languages_url": "https://api.github.com/repos/koding/koding/languages",
   "created_at": "2014-06-29T05:46:24Z",
-  "updated_at": "2018-09-08T18:54:31Z",
-  "pushed_at": "2018-09-08T18:21:51Z",
+  "updated_at": "2018-09-10T15:43:47Z",
+  "pushed_at": "2018-09-10T18:46:59Z",
   "homepage": "https://www.koding.com",
   "size": 884163,
-  "stargazers_count": 748,
+  "stargazers_count": 749,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -182,7 +182,7 @@
       "color": "#dad8d8"
     }
   },
-  "fetched_at": "2018-09-09T03:08:09.722Z",
+  "fetched_at": "2018-09-10T19:00:58.028Z",
   "pulls_url": "https://api.github.com/repos/koding/koding/pulls{/number}",
   "pulls_authors": [
     "koding-bot",
@@ -246,6 +246,7 @@
     "AaronO",
     "SamyPesse",
     "kant",
-    "phenonymous"
+    "phenonymous",
+    "ChrisCates"
   ]
 }

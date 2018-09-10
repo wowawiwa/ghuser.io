@@ -199,13 +199,13 @@
     "Manisso/fsociety": {
       "full_name": "Manisso/fsociety",
       "name": "fsociety",
-      "stargazers_count": 3195,
-      "popularity": 4.5043875962164694,
+      "stargazers_count": 3196,
+      "popularity": 4.504523542653167,
       "percentage": 34.30232558139535,
       "maturity": 3.1226378244491784,
       "total_commits_count": 172,
-      "activity": 1.8584591136535682,
-      "total_score": 41.70332363432943,
+      "activity": 1.8541664163120122,
+      "total_score": 41.700045002559285,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -609,6 +609,19 @@
       "total_commits_count": 17,
       "activity": 5,
       "total_score": 15.016084208931279,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "thehappydinoa/leakz": {
+      "full_name": "thehappydinoa/leakz",
+      "name": "leakz",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 4,
+      "activity": 5,
+      "total_score": 5,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }
