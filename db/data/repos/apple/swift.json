@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/apple/swift/languages",
   "pulls_url": "https://api.github.com/repos/apple/swift/pulls{/number}",
   "created_at": "2015-10-23T21:15:07Z",
-  "updated_at": "2018-09-10T21:32:12Z",
-  "pushed_at": "2018-09-10T21:33:27Z",
+  "updated_at": "2018-09-11T09:32:52Z",
+  "pushed_at": "2018-09-11T07:29:51Z",
   "homepage": "https://swift.org",
-  "size": 336665,
-  "stargazers_count": 45141,
+  "size": 337190,
+  "stargazers_count": 45151,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -80,7 +80,7 @@
     "cooperp": 49,
     "denisvnukov": 50,
     "stephentyrone": 62,
-    "dduan": 1,
+    "dduan": 61,
     "frootloops": 54,
     "allevato": 66,
     "sonnyfalk": 61,
@@ -129,27 +129,27 @@
     "benlangmuir": 728,
     "bitjammer": 703,
     "davezarzycki": 722,
-    "moiseev": 888,
+    "moiseev": 890,
     "atrick": 759,
     "akyrtzi": 850,
     "swiftix": 974,
     "nadavrot": 880,
-    "adrian-prantl": 968,
-    "nkcsgexi": 1062,
-    "aschwaighofer": 1379,
+    "adrian-prantl": 969,
+    "nkcsgexi": 1065,
+    "aschwaighofer": 1380,
     "eeckstein": 1321,
-    "rudkx": 1664,
+    "rudkx": 1668,
     "rjmccall": 1881,
     "dabrahams": 1916,
     "practicalswift": 2393,
-    "jrose-apple": 3361,
+    "jrose-apple": 3364,
     "gottesmm": 3584,
-    "slavapestov": 4228,
+    "slavapestov": 4236,
     "gribozavr": 4444,
     "jckarter": 4284,
     "lattner": 4536,
-    "DougGregor": 6133,
-    "swift-ci": 10610,
+    "DougGregor": 6136,
+    "swift-ci": 10613,
     "divadretlaw": 25,
     "alblue": 23,
     "dingobye": 23,
@@ -199,7 +199,7 @@
     "sparkasaurusRex": 10,
     "regnerjr": 10,
     "keith": 10,
-    "rajbarik": 10,
+    "rajbarik": 13,
     "gibachan": 10,
     "millenomi": 10,
     "bryanpkc": 9,
@@ -460,7 +460,8 @@
     "Mitame": 1,
     "emlai": 1,
     "faheel": 1,
-    "ftchirou": 1
+    "ftchirou": 1,
+    "mzp": 3
   },
   "pulls_authors": [
     "rintaro",
@@ -1312,15 +1313,16 @@
     "passsy",
     "jhersh",
     "mooman219",
-    "filipw"
+    "filipw",
+    "mzp"
   ],
   "languages": {
     "C++": {
-      "bytes": 30320189,
+      "bytes": 30305845,
       "color": "#f34b7d"
     },
     "Swift": {
-      "bytes": 24699587,
+      "bytes": 24698872,
       "color": "#ffac45"
     },
     "Python": {
@@ -1356,7 +1358,7 @@
       "color": "#c065db"
     },
     "Vim script": {
-      "bytes": 15610,
+      "bytes": 15589,
       "color": "#199f4b"
     },
     "DTrace": {
@@ -1384,5 +1386,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-09-10T21:38:17.472Z"
+  "fetched_at": "2018-09-11T10:40:10.939Z"
 }

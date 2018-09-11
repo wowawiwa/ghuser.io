@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/wikimedia/translatewiki/languages",
   "pulls_url": "https://api.github.com/repos/wikimedia/translatewiki/pulls{/number}",
   "created_at": "2013-02-04T18:20:39Z",
-  "updated_at": "2018-09-10T11:48:40Z",
-  "pushed_at": "2018-09-10T14:37:43Z",
+  "updated_at": "2018-09-11T07:22:20Z",
+  "pushed_at": "2018-09-11T07:24:12Z",
   "homepage": "https://gerrit.wikimedia.org",
-  "size": 14774,
+  "size": 14736,
   "stargazers_count": 22,
   "language": "PHP",
   "mirror_url": null,
@@ -128,7 +128,7 @@
     "amire80": 146,
     "Nikerabbit": 696,
     "siebrand": 870,
-    "raymondde": 1466
+    "raymondde": 1467
   },
   "pulls_authors": [],
   "languages": {
@@ -169,5 +169,5 @@
       "color": "#87AED7"
     }
   },
-  "fetched_at": "2018-09-10T15:07:56.643Z"
+  "fetched_at": "2018-09-11T10:37:38.719Z"
 }

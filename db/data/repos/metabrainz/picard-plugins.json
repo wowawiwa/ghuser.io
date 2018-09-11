@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/metabrainz/picard-plugins/languages",
   "pulls_url": "https://api.github.com/repos/metabrainz/picard-plugins/pulls{/number}",
   "created_at": "2014-07-07T17:02:53Z",
-  "updated_at": "2018-09-10T18:35:35Z",
-  "pushed_at": "2018-09-10T18:35:34Z",
+  "updated_at": "2018-09-11T06:48:11Z",
+  "pushed_at": "2018-09-11T06:48:10Z",
   "homepage": "",
-  "size": 1070,
+  "size": 1074,
   "stargazers_count": 66,
   "language": "Python",
   "mirror_url": null,
@@ -59,7 +59,7 @@
     "Freso": 12,
     "madmouser1": 18,
     "dns53": 20,
-    "Sophist-UK": 26,
+    "Sophist-UK": 27,
     "zas": 30,
     "phw": 47,
     "mineo": 33,
@@ -100,9 +100,9 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 420183,
+      "bytes": 420234,
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-09-10T19:01:10.551Z"
+  "fetched_at": "2018-09-11T10:35:48.089Z"
 }

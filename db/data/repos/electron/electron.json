@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/electron/electron/languages",
   "pulls_url": "https://api.github.com/repos/electron/electron/pulls{/number}",
   "created_at": "2013-04-12T01:47:36Z",
-  "updated_at": "2018-09-10T20:40:28Z",
-  "pushed_at": "2018-09-10T21:32:33Z",
+  "updated_at": "2018-09-11T10:38:35Z",
+  "pushed_at": "2018-09-11T09:56:04Z",
   "homepage": "https://electronjs.org",
-  "size": 42291,
-  "stargazers_count": 64340,
+  "size": 42329,
+  "stargazers_count": 64363,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -127,14 +127,14 @@
     "juturu": 56,
     "poiru": 77,
     "seanchas116": 72,
-    "miniak": 90,
+    "miniak": 93,
     "alespergl": 73,
     "CharlieHess": 81,
     "tarruda": 74,
     "tinydew4": 92,
     "gerhardberger": 95,
     "jkleinsc": 253,
-    "nornagon": 151,
+    "nornagon": 153,
     "ckerr": 223,
     "brenca": 186,
     "paulcbetts": 245,
@@ -1440,7 +1440,8 @@
     "sgd2z",
     "Satoshipulse",
     "asokolsky",
-    "jakubzitny"
+    "jakubzitny",
+    "azure-pipelines[bot]"
   ],
   "languages": {
     "C++": {
@@ -1448,7 +1449,7 @@
       "color": "#f34b7d"
     },
     "JavaScript": {
-      "bytes": 995550,
+      "bytes": 993530,
       "color": "#f1e05a"
     },
     "Objective-C++": {
@@ -1484,5 +1485,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-10T21:38:21.758Z"
+  "fetched_at": "2018-09-11T10:40:15.754Z"
 }

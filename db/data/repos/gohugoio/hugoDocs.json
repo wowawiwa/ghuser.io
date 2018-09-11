@@ -142,7 +142,7 @@
     "ellerbrock": 3,
     "maruel": 3,
     "mikejt": 3,
-    "Nick-Rivera": 3,
+    "Nick-Rivera": 4,
     "rmetzler": 3,
     "kulla": 3,
     "sdomino": 3,
@@ -466,10 +466,10 @@
   "url": "https://api.github.com/repos/gohugoio/hugoDocs",
   "languages_url": "https://api.github.com/repos/gohugoio/hugoDocs/languages",
   "created_at": "2017-06-14T07:52:37Z",
-  "updated_at": "2018-09-10T17:52:03Z",
-  "pushed_at": "2018-09-10T09:01:15Z",
+  "updated_at": "2018-09-11T06:13:39Z",
+  "pushed_at": "2018-09-11T08:04:12Z",
   "homepage": "",
-  "size": 119529,
+  "size": 119535,
   "stargazers_count": 200,
   "language": "HTML",
   "mirror_url": null,
@@ -520,7 +520,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-10T21:32:27.999Z",
+  "fetched_at": "2018-09-11T10:33:44.942Z",
   "pulls_url": "https://api.github.com/repos/gohugoio/hugoDocs/pulls{/number}",
   "pulls_authors": [
     "brentybh",
@@ -743,6 +743,7 @@
     "codycraven",
     "AlexChambers",
     "brandur",
-    "junkboy0315"
+    "junkboy0315",
+    "neerajpal09"
   ]
 }

@@ -10,8 +10,8 @@
   "url": "https://api.github.com/repos/cython/cython",
   "languages_url": "https://api.github.com/repos/cython/cython/languages",
   "created_at": "2010-11-21T07:44:20Z",
-  "updated_at": "2018-09-10T07:11:17Z",
-  "pushed_at": "2018-09-09T06:19:42Z",
+  "updated_at": "2018-09-11T04:14:19Z",
+  "pushed_at": "2018-09-10T17:52:37Z",
   "homepage": "http://cython.org",
   "size": 52620,
   "stargazers_count": 3453,
@@ -335,9 +335,10 @@
     "TeamSpen210": 1,
     "CnlPepper": 4,
     "cjgibson": 11,
-    "alubbock": 2
+    "alubbock": 2,
+    "perkyleo": 1
   },
-  "fetched_at": "2018-09-10T15:04:31.923Z",
+  "fetched_at": "2018-09-11T10:33:22.074Z",
   "pulls_url": "https://api.github.com/repos/cython/cython/pulls{/number}",
   "pulls_authors": [
     "jakirkham",

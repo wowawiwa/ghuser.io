@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/bazelbuild/bazel/languages",
   "pulls_url": "https://api.github.com/repos/bazelbuild/bazel/pulls{/number}",
   "created_at": "2014-06-12T16:00:38Z",
-  "updated_at": "2018-09-10T21:22:57Z",
-  "pushed_at": "2018-09-10T19:56:48Z",
+  "updated_at": "2018-09-11T10:27:59Z",
+  "pushed_at": "2018-09-11T09:42:05Z",
   "homepage": "https://bazel.build",
-  "size": 498956,
-  "stargazers_count": 9966,
+  "size": 503774,
+  "stargazers_count": 9979,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -91,7 +91,7 @@
     "klimek": 49,
     "dbabkin": 55,
     "kush-c": 60,
-    "shreyax": 63,
+    "shreyax": 64,
     "rupertks": 63,
     "fanzier": 63,
     "chengniansun": 67,
@@ -125,13 +125,13 @@
     "fweikert": 178,
     "hanwen": 180,
     "cvcal": 187,
-    "michajlo": 211,
+    "michajlo": 212,
     "cgrushko": 216,
     "brandjon": 237,
     "tomlu": 264,
     "katre": 284,
     "gregestren": 301,
-    "mhlopko": 306,
+    "mhlopko": 307,
     "meteorcloudy": 347,
     "aj-michael": 352,
     "haxorz": 351,
@@ -140,7 +140,7 @@
     "philwo": 413,
     "c-parsons": 443,
     "kchodorow": 473,
-    "laurentlb": 536,
+    "laurentlb": 537,
     "aehlig": 543,
     "cushon": 617,
     "laszlocsomor": 636,
@@ -148,7 +148,7 @@
     "damienmg": 779,
     "ulfjack": 816,
     "lberki": 902,
-    "a-googler": 2051,
+    "a-googler": 2052,
     "AustinSchuh": 6,
     "brian-peloton": 6,
     "tetromino": 6,
@@ -397,7 +397,8 @@
     "wayou": 1,
     "fulldecent": 1,
     "XindaH": 1,
-    "wisechengyi": 1
+    "wisechengyi": 1,
+    "geoffmaddox": 1
   },
   "pulls_authors": [
     "dkelmer",
@@ -793,7 +794,7 @@
   ],
   "languages": {
     "Java": {
-      "bytes": 31368292,
+      "bytes": 31371293,
       "color": "#b07219"
     },
     "Python": {
@@ -805,7 +806,7 @@
       "color": "#89e051"
     },
     "C++": {
-      "bytes": 1320707,
+      "bytes": 1321310,
       "color": "#f34b7d"
     },
     "Smarty": {
@@ -845,5 +846,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-10T21:38:38.999Z"
+  "fetched_at": "2018-09-11T10:40:33.010Z"
 }

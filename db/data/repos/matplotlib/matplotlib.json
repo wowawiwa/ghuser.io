@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/matplotlib/matplotlib/languages",
   "pulls_url": "https://api.github.com/repos/matplotlib/matplotlib/pulls{/number}",
   "created_at": "2011-02-19T03:17:12Z",
-  "updated_at": "2018-09-10T19:32:58Z",
-  "pushed_at": "2018-09-10T20:19:25Z",
+  "updated_at": "2018-09-11T09:47:43Z",
+  "pushed_at": "2018-09-11T08:52:30Z",
   "homepage": "http://matplotlib.org/",
-  "size": 333885,
+  "size": 333892,
   "stargazers_count": 7868,
   "language": "Python",
   "mirror_url": null,
@@ -1483,7 +1483,8 @@
     "Lewn",
     "dabana",
     "ilopata1",
-    "TAdeJong"
+    "TAdeJong",
+    "simon-kraeusel"
   ],
   "languages": {
     "Python": {
@@ -1531,5 +1532,5 @@
       "color": "#3D6117"
     }
   },
-  "fetched_at": "2018-09-10T21:35:12.414Z"
+  "fetched_at": "2018-09-11T10:37:36.319Z"
 }

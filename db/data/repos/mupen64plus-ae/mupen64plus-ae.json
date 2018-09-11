@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/mupen64plus-ae/mupen64plus-ae/languages",
   "pulls_url": "https://api.github.com/repos/mupen64plus-ae/mupen64plus-ae/pulls{/number}",
   "created_at": "2012-05-05T23:18:43Z",
-  "updated_at": "2018-09-02T07:25:58Z",
-  "pushed_at": "2018-08-16T03:00:39Z",
+  "updated_at": "2018-09-11T04:02:06Z",
+  "pushed_at": "2018-09-11T04:02:03Z",
   "homepage": null,
-  "size": 99695,
+  "size": 99707,
   "stargazers_count": 181,
   "language": "C",
   "mirror_url": null,
@@ -80,7 +80,7 @@
     "lioncash": 244,
     "ecsv": 620,
     "richard42": 625,
-    "fzurita": 1253,
+    "fzurita": 1254,
     "littleguy77": 1559
   },
   "pulls_authors": [
@@ -111,11 +111,11 @@
   ],
   "languages": {
     "C": {
-      "bytes": 23379044,
+      "bytes": 23378950,
       "color": "#555555"
     },
     "C++": {
-      "bytes": 6731195,
+      "bytes": 6736123,
       "color": "#f34b7d"
     },
     "Java": {
@@ -199,5 +199,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-11T00:33:42.270Z"
+  "fetched_at": "2018-09-11T10:41:15.324Z"
 }

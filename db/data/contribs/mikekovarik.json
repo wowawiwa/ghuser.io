@@ -82,13 +82,13 @@
     "node-serialport/node-serialport": {
       "full_name": "node-serialport/node-serialport",
       "name": "node-serialport",
-      "stargazers_count": 3566,
-      "popularity": 4.552110803747333,
+      "stargazers_count": 3568,
+      "popularity": 4.552354372068121,
       "percentage": 0.08481764206955046,
       "maturity": 4.058298018344513,
       "total_commits_count": 1179,
       "activity": 5,
-      "total_score": 26.823121357556737,
+      "total_score": 26.823854748174888,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -108,13 +108,13 @@
     "discordjs/discord.js": {
       "full_name": "discordjs/discord.js",
       "name": "discord.js",
-      "stargazers_count": 2847,
-      "popularity": 4.454289242580269,
+      "stargazers_count": 2846,
+      "popularity": 4.454136622926155,
       "percentage": 0.028089887640449437,
       "maturity": 4.548291270596702,
       "total_commits_count": 3560,
       "activity": 5,
-      "total_score": 27.47571593189869,
+      "total_score": 27.475257515617386,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

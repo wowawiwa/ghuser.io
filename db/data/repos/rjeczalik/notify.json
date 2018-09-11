@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/rjeczalik/notify",
   "languages_url": "https://api.github.com/repos/rjeczalik/notify/languages",
   "created_at": "2014-09-08T16:09:34Z",
-  "updated_at": "2018-09-06T23:25:46Z",
+  "updated_at": "2018-09-11T04:54:47Z",
   "pushed_at": "2018-08-30T22:38:57Z",
   "homepage": "",
   "size": 682,
-  "stargazers_count": 378,
+  "stargazers_count": 379,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -50,7 +50,7 @@
       "color": "#375eab"
     }
   },
-  "fetched_at": "2018-09-07T03:31:48.882Z",
+  "fetched_at": "2018-09-11T10:35:35.806Z",
   "pulls_url": "https://api.github.com/repos/rjeczalik/notify/pulls{/number}",
   "pulls_authors": [
     "rjeczalik",

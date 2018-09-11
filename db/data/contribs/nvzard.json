@@ -95,13 +95,13 @@
     "coala/coala": {
       "full_name": "coala/coala",
       "name": "coala",
-      "stargazers_count": 2504,
-      "popularity": 4.39851728731149,
+      "stargazers_count": 2505,
+      "popularity": 4.398690755313263,
       "percentage": 0.09784735812133072,
       "maturity": 4.608987508121058,
       "total_commits_count": 4088,
       "activity": 5,
-      "total_score": 27.46947670668446,
+      "total_score": 27.46999931722992,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -134,13 +134,13 @@
     "sendgrid/php-http-client": {
       "full_name": "sendgrid/php-http-client",
       "name": "php-http-client",
-      "stargazers_count": 35,
-      "popularity": 2.532793353021433,
+      "stargazers_count": 36,
+      "popularity": 2.5453460937604104,
       "percentage": 1.2903225806451613,
       "maturity": 3.062810136718,
       "total_commits_count": 155,
       "activity": 5,
-      "total_score": 19.148855991716797,
+      "total_score": 19.188619834960914,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

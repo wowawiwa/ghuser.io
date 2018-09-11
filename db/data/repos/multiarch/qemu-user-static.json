@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/multiarch/qemu-user-static/languages",
   "pulls_url": "https://api.github.com/repos/multiarch/qemu-user-static/pulls{/number}",
   "created_at": "2015-12-03T15:59:05Z",
-  "updated_at": "2018-09-07T07:05:38Z",
+  "updated_at": "2018-09-11T09:02:15Z",
   "pushed_at": "2018-08-13T20:15:17Z",
   "homepage": "https://hub.docker.com/r/multiarch/qemu-user-static/",
   "size": 60,
-  "stargazers_count": 136,
+  "stargazers_count": 137,
   "language": "Shell",
   "mirror_url": null,
   "archived": false,
@@ -82,5 +82,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-07T11:25:00.590Z"
+  "fetched_at": "2018-09-11T10:38:22.476Z"
 }

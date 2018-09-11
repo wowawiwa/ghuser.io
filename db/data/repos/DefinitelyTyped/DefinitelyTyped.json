@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/DefinitelyTyped/DefinitelyTyped/languages",
   "pulls_url": "https://api.github.com/repos/DefinitelyTyped/DefinitelyTyped/pulls{/number}",
   "created_at": "2012-10-05T16:39:45Z",
-  "updated_at": "2018-09-10T21:28:29Z",
-  "pushed_at": "2018-09-10T21:31:52Z",
+  "updated_at": "2018-09-11T09:52:16Z",
+  "pushed_at": "2018-09-11T09:52:05Z",
   "homepage": "http://definitelytyped.org/",
-  "size": 353041,
-  "stargazers_count": 17343,
+  "size": 356149,
+  "stargazers_count": 17353,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -168,7 +168,7 @@
     "hinell": 37,
     "rokoroku": 37,
     "amiram": 37,
-    "dex4er": 37,
+    "dex4er": 38,
     "bgrieder": 36,
     "frogcjn": 35,
     "resir014": 35,
@@ -194,7 +194,7 @@
     "e-cloud": 29,
     "lijunle": 29,
     "alejo90": 31,
-    "Alorel": 32,
+    "Alorel": 33,
     "xt0rted": 28,
     "RReverser": 28,
     "janaagaard75": 28,
@@ -398,7 +398,7 @@
     "spielc": 14,
     "florentpoujol": 14,
     "staticfunction": 14,
-    "Ailrun": 15,
+    "Ailrun": 16,
     "mgroenhoff": 14,
     "Aankhen": 13,
     "kingdango": 13,
@@ -462,9 +462,9 @@
     "romain-faust": 31,
     "franklixuefei": 15,
     "meganrm": 21,
-    "danwbyrne": 27,
+    "danwbyrne": 29,
     "odahcam": 46,
-    "mike-north": 27
+    "mike-north": 32
   },
   "pulls_authors": [
     "saenglert",
@@ -9024,11 +9024,14 @@
     "sibelius",
     "whyn07m3",
     "Strobocop",
-    "zackzeno"
+    "zackzeno",
+    "phyrephox",
+    "thegalah",
+    "tsbehlman"
   ],
   "languages": {
     "TypeScript": {
-      "bytes": 25140361,
+      "bytes": 25222881,
       "color": "#2b7489"
     },
     "JavaScript": {
@@ -9040,5 +9043,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-10T21:32:04.527Z"
+  "fetched_at": "2018-09-11T10:33:13.577Z"
 }

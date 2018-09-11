@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/ncw/rclone/languages",
   "pulls_url": "https://api.github.com/repos/ncw/rclone/pulls{/number}",
   "created_at": "2014-03-16T16:19:57Z",
-  "updated_at": "2018-09-10T20:47:49Z",
-  "pushed_at": "2018-09-10T20:19:26Z",
+  "updated_at": "2018-09-11T09:51:40Z",
+  "pushed_at": "2018-09-11T06:57:31Z",
   "homepage": "https://rclone.org",
-  "size": 118887,
-  "stargazers_count": 10723,
+  "size": 118814,
+  "stargazers_count": 10730,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -83,7 +83,7 @@
     "andrewsomething": 2,
     "gramakri": 2,
     "jvarho": 2,
-    "jncraton": 2,
+    "jncraton": 3,
     "bpicode": 2,
     "cbruegg": 2,
     "Cubox-": 2,
@@ -127,7 +127,7 @@
     "remusb": 46,
     "B4dM4n": 54,
     "breunigs": 61,
-    "ncw": 2029,
+    "ncw": 2030,
     "adragomir": 1,
     "sparkyman215": 1,
     "animosity22": 1,
@@ -192,7 +192,8 @@
     "cron410": 1,
     "darthShadow": 2,
     "felixbrucker": 1,
-    "scollazo": 1
+    "scollazo": 1,
+    "craig-miskell-fluxfederation": 1
   },
   "pulls_authors": [
     "NurdTurd",
@@ -396,7 +397,7 @@
   ],
   "languages": {
     "Go": {
-      "bytes": 2206736,
+      "bytes": 2212267,
       "color": "#375eab"
     },
     "HTML": {
@@ -424,5 +425,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-09-10T21:37:52.265Z"
+  "fetched_at": "2018-09-11T10:39:42.613Z"
 }
