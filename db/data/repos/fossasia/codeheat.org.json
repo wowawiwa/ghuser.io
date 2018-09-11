@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/fossasia/codeheat.org/languages",
   "pulls_url": "https://api.github.com/repos/fossasia/codeheat.org/pulls{/number}",
   "created_at": "2016-09-15T13:52:39Z",
-  "updated_at": "2018-09-11T09:48:54Z",
-  "pushed_at": "2018-09-11T09:48:53Z",
+  "updated_at": "2018-09-11T15:22:30Z",
+  "pushed_at": "2018-09-11T15:10:24Z",
   "homepage": "",
-  "size": 28190,
-  "stargazers_count": 458,
+  "size": 28864,
+  "stargazers_count": 463,
   "language": "CSS",
   "mirror_url": null,
   "archived": false,
@@ -43,7 +43,7 @@
   },
   "contributors": {
     "gabru-md": 1,
-    "ritikamotwani": 1,
+    "ritikamotwani": 2,
     "jajodiaraghav": 1,
     "anshumanv": 2,
     "ankurg22": 1,
@@ -108,7 +108,10 @@
     "mariobehling": 141,
     "nikit19": 1,
     "jogendra": 1,
-    "akshatnitd": 1
+    "akshatnitd": 1,
+    "arundhati24": 1,
+    "praveenojha33": 1,
+    "Akshat-Jain": 2
   },
   "pulls_authors": [
     "gabru-md",
@@ -177,7 +180,10 @@
     "aviaryan",
     "nikit19",
     "jogendra",
-    "akshatnitd"
+    "akshatnitd",
+    "arundhati24",
+    "praveenojha33",
+    "Akshat-Jain"
   ],
   "languages": {
     "CSS": {
@@ -189,7 +195,7 @@
       "color": "#4F5D95"
     },
     "HTML": {
-      "bytes": 162798,
+      "bytes": 166512,
       "color": "#e34c26"
     },
     "JavaScript": {
@@ -197,5 +203,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-11T10:32:43.955Z"
+  "fetched_at": "2018-09-11T17:06:22.391Z"
 }

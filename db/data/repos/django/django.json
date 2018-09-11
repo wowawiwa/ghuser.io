@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/django/django/languages",
   "pulls_url": "https://api.github.com/repos/django/django/pulls{/number}",
   "created_at": "2012-04-28T02:47:18Z",
-  "updated_at": "2018-09-11T08:54:04Z",
-  "pushed_at": "2018-09-11T04:25:58Z",
+  "updated_at": "2018-09-11T17:10:04Z",
+  "pushed_at": "2018-09-11T17:00:27Z",
   "homepage": "https://www.djangoproject.com/",
-  "size": 182256,
-  "stargazers_count": 36297,
+  "size": 182271,
+  "stargazers_count": 36304,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -83,7 +83,7 @@
     "carltongibson": 22,
     "czpython": 21,
     "wrwrwr": 21,
-    "hramezani": 23,
+    "hramezani": 24,
     "marfire": 22,
     "edmorley": 23,
     "mmardini": 23,
@@ -98,7 +98,7 @@
     "coder9042": 30,
     "funkybob": 32,
     "francoisfreitag": 32,
-    "pope1ni": 41,
+    "pope1ni": 42,
     "desecho": 33,
     "mboersma": 34,
     "HonzaKral": 49,
@@ -148,7 +148,7 @@
     "freakboy3742": 1740,
     "malcolmt": 1872,
     "adrianholovaty": 2802,
-    "timgraham": 3239,
+    "timgraham": 3242,
     "dstufft": 20,
     "dbrgn": 12,
     "inglesp": 11,
@@ -454,7 +454,8 @@
     "EricBoersma": 2,
     "bigsassy": 2,
     "MyungSeKyo": 4,
-    "nijel": 3
+    "nijel": 3,
+    "knyghty": 3
   },
   "pulls_authors": [
     "MyungSeKyo",
@@ -3309,7 +3310,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 12703294,
+      "bytes": 12706856,
       "color": "#3572A5"
     },
     "JavaScript": {
@@ -3337,5 +3338,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-11T10:37:37.257Z"
+  "fetched_at": "2018-09-11T17:11:28.674Z"
 }

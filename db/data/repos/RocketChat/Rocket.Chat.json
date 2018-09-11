@@ -78,7 +78,7 @@
     "HammyHavoc": 30,
     "kamilkisiela": 30,
     "mrsimpson": 43,
-    "timkinnane": 47,
+    "timkinnane": 49,
     "fduraibi": 45,
     "AlecTroemel": 47,
     "Hudell": 63,
@@ -92,7 +92,7 @@
     "gmsecrieru": 137,
     "gdelavald": 124,
     "Sing-Li": 251,
-    "geekgonecrazy": 361,
+    "geekgonecrazy": 362,
     "ggazzo": 447,
     "graywolf336": 436,
     "MartinSchoeler": 600,
@@ -100,7 +100,7 @@
     "marceloschmidt": 1208,
     "sampaiodiego": 1329,
     "engelgabriel": 3247,
-    "rodrigok": 3886,
+    "rodrigok": 3887,
     "saplla": 16,
     "mnt": 11,
     "Huljo": 10,
@@ -136,7 +136,7 @@
     "sweetvvck": 5,
     "wtsarchive": 5,
     "teetrinkers": 5,
-    "cardoso": 6,
+    "cardoso": 7,
     "Joe-mcgee": 6,
     "torgeirl": 5,
     "ArchRoller": 4,
@@ -403,11 +403,11 @@
   "url": "https://api.github.com/repos/RocketChat/Rocket.Chat",
   "languages_url": "https://api.github.com/repos/RocketChat/Rocket.Chat/languages",
   "created_at": "2015-05-19T07:36:09Z",
-  "updated_at": "2018-09-11T10:04:16Z",
-  "pushed_at": "2018-09-11T04:07:58Z",
+  "updated_at": "2018-09-11T16:51:14Z",
+  "pushed_at": "2018-09-11T16:50:38Z",
   "homepage": "https://rocket.chat/",
-  "size": 78285,
-  "stargazers_count": 19776,
+  "size": 78307,
+  "stargazers_count": 19784,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -441,11 +441,11 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 3986821,
+      "bytes": 3986976,
       "color": "#f1e05a"
     },
     "HTML": {
-      "bytes": 415919,
+      "bytes": 415920,
       "color": "#e34c26"
     },
     "CSS": {
@@ -457,7 +457,7 @@
       "color": "#244776"
     },
     "Shell": {
-      "bytes": 29821,
+      "bytes": 30169,
       "color": "#89e051"
     },
     "Ruby": {
@@ -481,7 +481,7 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-09-11T10:33:59.297Z",
+  "fetched_at": "2018-09-11T17:07:40.156Z",
   "pulls_url": "https://api.github.com/repos/RocketChat/Rocket.Chat/pulls{/number}",
   "pulls_authors": [
     "TheReal1604",

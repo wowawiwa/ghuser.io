@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/Homebrew/homebrew-cask/languages",
   "pulls_url": "https://api.github.com/repos/Homebrew/homebrew-cask/pulls{/number}",
   "created_at": "2012-03-05T02:05:17Z",
-  "updated_at": "2018-09-11T09:52:59Z",
-  "pushed_at": "2018-09-11T08:36:14Z",
+  "updated_at": "2018-09-11T16:46:49Z",
+  "pushed_at": "2018-09-11T16:46:40Z",
   "homepage": "https://brew.sh",
-  "size": 124146,
-  "stargazers_count": 13521,
+  "size": 124192,
+  "stargazers_count": 13523,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -60,14 +60,14 @@
     "colindunn": 1450,
     "gtmgianni": 1406,
     "gobinathm": 1226,
-    "miccal": 977,
+    "miccal": 978,
     "Amorymeltzer": 666,
-    "reitermarkus": 634,
+    "reitermarkus": 635,
     "alebcay": 616,
     "phinze": 586,
     "artdevjs": 464,
     "adidalal": 345,
-    "core-code": 361,
+    "core-code": 365,
     "neutric": 288,
     "buo": 281,
     "jcbot": 266,
@@ -110,7 +110,7 @@
     "SentinelWarren": 56,
     "mahori": 56,
     "vszakats": 53,
-    "suschizu": 55,
+    "suschizu": 65,
     "warmwinter": 52,
     "mathbunnyru": 51,
     "fmaass": 50,
@@ -130,7 +130,7 @@
     "Saklad5": 43,
     "andyli": 41,
     "sjackman": 40,
-    "timsutton": 40,
+    "timsutton": 41,
     "danielbayley": 39,
     "jhen0409": 39,
     "zmwangx": 39,
@@ -362,12 +362,12 @@
     "lukasbestle": 11,
     "debo": 11,
     "t04glovern": 11,
-    "DerUser": 11,
+    "DerUser": 12,
     "oldsharp": 11,
     "Rbcafe": 11,
     "srod": 11,
     "stqism": 11,
-    "herrriehm": 12,
+    "herrriehm": 13,
     "sindresorhus": 11,
     "passerbyid": 11,
     "gaoyifan": 11,
@@ -458,7 +458,8 @@
     "trevorparker": 9,
     "xliiauo": 9,
     "grokdesigns": 10,
-    "chrisfinazzo": 11
+    "chrisfinazzo": 11,
+    "micdah": 9
   },
   "pulls_authors": [
     "jcbot",
@@ -5891,7 +5892,7 @@
   ],
   "languages": {
     "Ruby": {
-      "bytes": 2171691,
+      "bytes": 2171606,
       "color": "#701516"
     },
     "Shell": {
@@ -5899,5 +5900,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-11T10:39:11.354Z"
+  "fetched_at": "2018-09-11T17:13:02.393Z"
 }

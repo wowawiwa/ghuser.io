@@ -94,8 +94,8 @@
     "OwenEdwards": 33,
     "forbesjo": 35,
     "mister-ben": 43,
-    "greenkeeper[bot]": 51,
-    "BrandonOCasey": 94,
+    "greenkeeper[bot]": 53,
+    "BrandonOCasey": 95,
     "mmcc": 117,
     "misteroneill": 101,
     "dmlap": 121,
@@ -326,11 +326,11 @@
   "url": "https://api.github.com/repos/videojs/video.js",
   "languages_url": "https://api.github.com/repos/videojs/video.js/languages",
   "created_at": "2010-05-14T18:45:10Z",
-  "updated_at": "2018-09-11T09:57:57Z",
-  "pushed_at": "2018-09-10T22:12:21Z",
+  "updated_at": "2018-09-11T15:27:57Z",
+  "pushed_at": "2018-09-11T15:27:58Z",
   "homepage": "www.videojs.com",
-  "size": 118159,
-  "stargazers_count": 22451,
+  "size": 118327,
+  "stargazers_count": 22454,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -364,7 +364,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 1182123,
+      "bytes": 1182124,
       "color": "#f1e05a"
     },
     "CSS": {
@@ -380,7 +380,7 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-11T10:34:04.607Z",
+  "fetched_at": "2018-09-11T17:07:44.553Z",
   "pulls_url": "https://api.github.com/repos/videojs/video.js/pulls{/number}",
   "pulls_authors": [
     "greenkeeper[bot]",

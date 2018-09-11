@@ -81,10 +81,10 @@
     "mdpatrick": 32,
     "yceruto": 36,
     "xelaris": 35,
-    "dbu": 37,
+    "dbu": 38,
     "HeahDude": 43,
     "nicolas-grekas": 47,
-    "dunglas": 59,
+    "dunglas": 61,
     "peterrehm": 47,
     "snoek09": 48,
     "stof": 52,
@@ -99,7 +99,7 @@
     "fabpot": 684,
     "xabbuh": 2493,
     "wouterj": 2078,
-    "javiereguiluz": 3006,
+    "javiereguiluz": 3017,
     "weaverryan": 6389,
     "matthieu88160": 11,
     "lex111": 10,
@@ -399,7 +399,7 @@
     "Rootie": 3,
     "rcousens": 3,
     "rossmotley": 3,
-    "DonCallisto": 3,
+    "DonCallisto": 4,
     "schuylr": 3,
     "sgrodzicki": 3,
     "ismail1432": 3,
@@ -422,10 +422,10 @@
   "url": "https://api.github.com/repos/symfony/symfony-docs",
   "languages_url": "https://api.github.com/repos/symfony/symfony-docs/languages",
   "created_at": "2010-02-17T08:43:51Z",
-  "updated_at": "2018-09-11T08:30:23Z",
-  "pushed_at": "2018-09-11T09:21:49Z",
+  "updated_at": "2018-09-11T14:30:57Z",
+  "pushed_at": "2018-09-11T16:36:26Z",
   "homepage": "https://symfony.com/doc",
-  "size": 48995,
+  "size": 48983,
   "stargazers_count": 1481,
   "language": "PHP",
   "mirror_url": null,
@@ -490,7 +490,7 @@
       "color": "#5c7611"
     }
   },
-  "fetched_at": "2018-09-11T10:33:41.207Z",
+  "fetched_at": "2018-09-11T17:07:14.615Z",
   "pulls_url": "https://api.github.com/repos/symfony/symfony-docs/pulls{/number}",
   "pulls_authors": [
     "xabbuh",
@@ -2586,6 +2586,7 @@
     "ssmusoke",
     "nicoweb",
     "Einenlum",
-    "nouwaarom"
+    "nouwaarom",
+    "BackEndTea"
   ]
 }

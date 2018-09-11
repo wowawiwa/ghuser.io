@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/vuejs/vue-cli/languages",
   "pulls_url": "https://api.github.com/repos/vuejs/vue-cli/pulls{/number}",
   "created_at": "2015-12-26T23:11:20Z",
-  "updated_at": "2018-09-11T10:28:49Z",
-  "pushed_at": "2018-09-10T13:24:36Z",
+  "updated_at": "2018-09-11T16:40:00Z",
+  "pushed_at": "2018-09-11T15:43:50Z",
   "homepage": "https://cli.vuejs.org/",
-  "size": 8340,
-  "stargazers_count": 15875,
+  "size": 8378,
+  "stargazers_count": 15880,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -141,13 +141,13 @@
     "zigomir": 5,
     "kazupon": 6,
     "jkzing": 6,
-    "Alex-Sokolov": 10,
+    "Alex-Sokolov": 11,
     "elevatebart": 10,
     "LinusBorg": 12,
     "dhensche": 11,
-    "sodatea": 16,
+    "sodatea": 21,
     "Akryum": 596,
-    "yyx990803": 913,
+    "yyx990803": 915,
     "TESTPERSONAL": 7,
     "aweber1": 1,
     "CoolGoose": 1,
@@ -214,7 +214,9 @@
     "run-ze": 1,
     "yangmingshan": 1,
     "TaroXin": 1,
-    "PanJiaChen": 1
+    "PanJiaChen": 1,
+    "Humyang": 1,
+    "wubaodong": 1
   },
   "pulls_authors": [
     "znck",
@@ -501,11 +503,12 @@
     "watilde",
     "orlandoaleman",
     "skyronic",
-    "zhouwenbin"
+    "zhouwenbin",
+    "m0dch3n"
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 669956,
+      "bytes": 670100,
       "color": "#f1e05a"
     },
     "Vue": {
@@ -529,5 +532,5 @@
       "color": "#2b7489"
     }
   },
-  "fetched_at": "2018-09-11T10:39:49.317Z"
+  "fetched_at": "2018-09-11T17:13:49.514Z"
 }

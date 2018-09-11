@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/lhc70000/iina/languages",
   "pulls_url": "https://api.github.com/repos/lhc70000/iina/pulls{/number}",
   "created_at": "2016-12-19T07:18:45Z",
-  "updated_at": "2018-09-11T10:35:54Z",
-  "pushed_at": "2018-09-11T07:52:57Z",
+  "updated_at": "2018-09-11T16:17:57Z",
+  "pushed_at": "2018-09-11T16:40:35Z",
   "homepage": "https://lhc70000.github.io/iina/",
-  "size": 205191,
-  "stargazers_count": 13577,
+  "size": 205325,
+  "stargazers_count": 13579,
   "language": "Swift",
   "mirror_url": null,
   "archived": false,
@@ -80,8 +80,9 @@
     "shilch": 31,
     "darkbrow": 37,
     "saagarjha": 52,
-    "alejx": 321,
-    "lhc70000": 1148
+    "alejx": 323,
+    "lhc70000": 1148,
+    "LEoREo2247": 1
   },
   "pulls_authors": [
     "HarukaMa",
@@ -175,7 +176,7 @@
   ],
   "languages": {
     "Swift": {
-      "bytes": 851838,
+      "bytes": 851861,
       "color": "#ffac45"
     },
     "Objective-C": {
@@ -195,5 +196,5 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-11T10:41:25.373Z"
+  "fetched_at": "2018-09-11T17:15:33.024Z"
 }

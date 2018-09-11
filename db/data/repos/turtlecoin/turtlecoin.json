@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/turtlecoin/turtlecoin/languages",
   "pulls_url": "https://api.github.com/repos/turtlecoin/turtlecoin/pulls{/number}",
   "created_at": "2018-01-07T22:39:35Z",
-  "updated_at": "2018-09-11T01:34:22Z",
-  "pushed_at": "2018-09-11T04:46:47Z",
+  "updated_at": "2018-09-11T14:37:48Z",
+  "pushed_at": "2018-09-11T14:37:46Z",
   "homepage": "https://turtlecoin.lol",
-  "size": 20785,
+  "size": 20792,
   "stargazers_count": 337,
   "language": "C++",
   "mirror_url": null,
@@ -86,11 +86,12 @@
     "jprjr": 14,
     "nnamon": 15,
     "editfmah": 17,
-    "brandonlehmann": 109,
+    "brandonlehmann": 111,
     "RocksteadyTC": 105,
     "zpalmtree": 229,
     "Watt3r": 1,
-    "mark9064": 1
+    "mark9064": 1,
+    "crappyrules": 1
   },
   "pulls_authors": [
     "Watt3r",
@@ -151,7 +152,7 @@
   ],
   "languages": {
     "C++": {
-      "bytes": 2635050,
+      "bytes": 2631929,
       "color": "#f34b7d"
     },
     "C": {
@@ -179,5 +180,5 @@
       "color": "#6E4C13"
     }
   },
-  "fetched_at": "2018-09-11T10:42:06.872Z"
+  "fetched_at": "2018-09-11T17:16:26.541Z"
 }
