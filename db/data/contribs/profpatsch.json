@@ -56,13 +56,13 @@
     "NixOS/nixpkgs-channels": {
       "full_name": "NixOS/nixpkgs-channels",
       "name": "nixpkgs-channels",
-      "stargazers_count": 80,
-      "popularity": 2.898215522736416,
+      "stargazers_count": 81,
+      "popularity": 2.9036715559398876,
       "percentage": 0.18287040437126365,
       "maturity": 5,
       "total_commits_count": 136162,
       "activity": 5,
-      "total_score": 23.76354628800697,
+      "total_score": 23.780044094727153,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

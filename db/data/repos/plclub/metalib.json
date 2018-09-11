@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/plclub/metalib/languages",
   "pulls_url": "https://api.github.com/repos/plclub/metalib/pulls{/number}",
   "created_at": "2013-04-10T16:49:03Z",
-  "updated_at": "2018-08-29T17:48:54Z",
-  "pushed_at": "2018-03-09T15:31:35Z",
+  "updated_at": "2018-09-11T12:47:44Z",
+  "pushed_at": "2018-09-11T12:47:42Z",
   "homepage": null,
-  "size": 2957,
+  "size": 2968,
   "stargazers_count": 31,
   "language": "Coq",
   "mirror_url": null,
@@ -55,7 +55,8 @@
     "liyishuai": 3,
     "lastland": 5,
     "toineo": 7,
-    "sweirich": 68
+    "sweirich": 68,
+    "HuStmpHrrr": 1
   },
   "pulls_authors": [
     "Zdancewic",
@@ -64,11 +65,12 @@
     "lastland",
     "liyishuai",
     "nomeata",
-    "sstrickl"
+    "sstrickl",
+    "HuStmpHrrr"
   ],
   "languages": {
     "Coq": {
-      "bytes": 736270,
+      "bytes": 736278,
       "color": "#ccc"
     },
     "TeX": {
@@ -90,7 +92,11 @@
     "CSS": {
       "bytes": 1332,
       "color": "#563d7c"
+    },
+    "Dockerfile": {
+      "bytes": 326,
+      "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-07T11:26:06.861Z"
+  "fetched_at": "2018-09-11T13:49:39.204Z"
 }

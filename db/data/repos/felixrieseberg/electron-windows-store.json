@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/felixrieseberg/electron-windows-store/languages",
   "pulls_url": "https://api.github.com/repos/felixrieseberg/electron-windows-store/pulls{/number}",
   "created_at": "2016-04-15T17:35:50Z",
-  "updated_at": "2018-09-06T07:42:37Z",
-  "pushed_at": "2018-05-03T09:46:53Z",
+  "updated_at": "2018-09-11T13:09:38Z",
+  "pushed_at": "2018-09-11T13:09:39Z",
   "homepage": "",
-  "size": 415,
+  "size": 418,
   "stargazers_count": 348,
   "language": "JavaScript",
   "mirror_url": null,
@@ -42,7 +42,8 @@
     "black-snow": 4,
     "jacobq": 5,
     "ritazh": 7,
-    "felixrieseberg": 119
+    "felixrieseberg": 129,
+    "netop": 1
   },
   "pulls_authors": [
     "netop",
@@ -64,7 +65,7 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 78167,
+      "bytes": 75052,
       "color": "#f1e05a"
     },
     "C#": {
@@ -72,9 +73,9 @@
       "color": "#178600"
     },
     "PowerShell": {
-      "bytes": 3494,
+      "bytes": 2453,
       "color": "#012456"
     }
   },
-  "fetched_at": "2018-09-09T22:43:11.761Z"
+  "fetched_at": "2018-09-11T13:48:20.996Z"
 }
