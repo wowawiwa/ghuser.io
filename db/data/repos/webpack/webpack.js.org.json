@@ -307,7 +307,7 @@
     "langri-sha": 1,
     "srsandy": 1,
     "fdidron": 1,
-    "franjohn21": 1,
+    "franjohn21": 2,
     "yanlee26": 1,
     "dignifiedquire": 1,
     "GMTechBen": 1,
@@ -509,10 +509,10 @@
   "url": "https://api.github.com/repos/webpack/webpack.js.org",
   "languages_url": "https://api.github.com/repos/webpack/webpack.js.org/languages",
   "created_at": "2016-06-24T13:22:52Z",
-  "updated_at": "2018-09-09T12:36:14Z",
-  "pushed_at": "2018-09-08T22:29:13Z",
+  "updated_at": "2018-09-10T23:00:52Z",
+  "pushed_at": "2018-09-10T23:31:40Z",
   "homepage": "https://webpack.js.org",
-  "size": 303795,
+  "size": 304812,
   "stargazers_count": 1296,
   "language": "JavaScript",
   "mirror_url": null,
@@ -563,7 +563,7 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-09T13:06:46.233Z",
+  "fetched_at": "2018-09-10T23:38:46.135Z",
   "pulls_url": "https://api.github.com/repos/webpack/webpack.js.org/pulls{/number}",
   "pulls_authors": [
     "HarshwardhanSingh",

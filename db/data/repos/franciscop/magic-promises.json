@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "magic-promises",
+  "full_name": "franciscop/magic-promises",
+  "owner": "franciscop",
+  "private": false,
+  "html_url": "https://github.com/franciscop/magic-promises",
+  "description": "✨ Simplify dealing with promises for async-heavy situations",
+  "fork": false,
+  "url": "https://api.github.com/repos/franciscop/magic-promises",
+  "languages_url": "https://api.github.com/repos/franciscop/magic-promises/languages",
+  "pulls_url": "https://api.github.com/repos/franciscop/magic-promises/pulls{/number}",
+  "created_at": "2018-08-24T14:12:13Z",
+  "updated_at": "2018-08-24T17:39:16Z",
+  "pushed_at": "2018-08-24T15:19:56Z",
+  "homepage": "",
+  "size": 73,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "franciscop": 9
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 14699,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T00:04:56.110Z"
+}

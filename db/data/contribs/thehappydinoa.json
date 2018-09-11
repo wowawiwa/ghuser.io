@@ -624,12 +624,26 @@
       "total_score": 5,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
+    },
+    "GitHackTools/Leaked": {
+      "full_name": "GitHackTools/Leaked",
+      "name": "Leaked",
+      "stargazers_count": 31,
+      "popularity": 2.478605454390306,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 6,
+      "activity": 5,
+      "total_score": 12.435816363170918,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
     }
   },
   "organizations": [
     "Project-WARMIND",
     "Magisk-Modules-Repo",
     "hak5",
-    "wifiphisher"
+    "wifiphisher",
+    "GitHackTools"
   ]
 }
