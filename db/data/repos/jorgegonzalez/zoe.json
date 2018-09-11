@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/jorgegonzalez/zoe/languages",
   "pulls_url": "https://api.github.com/repos/jorgegonzalez/zoe/pulls{/number}",
   "created_at": "2018-07-05T19:42:15Z",
-  "updated_at": "2018-09-10T15:08:51Z",
-  "pushed_at": "2018-09-10T15:08:50Z",
+  "updated_at": "2018-09-11T00:59:47Z",
+  "pushed_at": "2018-09-11T00:59:45Z",
   "homepage": "https://zoe.js.org",
-  "size": 1537,
+  "size": 1541,
   "stargazers_count": 80,
   "language": "TypeScript",
   "mirror_url": null,
@@ -30,7 +30,7 @@
   "contributors": {
     "j0hnm4r5": 1,
     "azdanov": 68,
-    "jorgegonzalez": 305,
+    "jorgegonzalez": 306,
     "renovate[bot]": 12
   },
   "pulls_authors": [
@@ -53,5 +53,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-10T18:58:57.456Z"
+  "fetched_at": "2018-09-11T01:10:19.078Z"
 }

@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/BlockScope/flare-timing/languages",
   "pulls_url": "https://api.github.com/repos/BlockScope/flare-timing/pulls{/number}",
   "created_at": "2017-09-03T18:24:05Z",
-  "updated_at": "2018-09-10T17:03:12Z",
-  "pushed_at": "2018-09-10T17:03:10Z",
+  "updated_at": "2018-09-11T01:06:55Z",
+  "pushed_at": "2018-09-11T01:15:17Z",
   "homepage": "",
-  "size": 3250,
+  "size": 3251,
   "stargazers_count": 3,
   "language": "Haskell",
   "mirror_url": null,
@@ -48,7 +48,7 @@
     "site_admin": false
   },
   "contributors": {
-    "philderbeast": 2139
+    "philderbeast": 2143
   },
   "pulls_authors": [],
   "languages": {
@@ -61,7 +61,7 @@
       "color": "#f1e05a"
     },
     "Nix": {
-      "bytes": 66530,
+      "bytes": 66529,
       "color": "#7e7eff"
     },
     "Python": {
@@ -93,5 +93,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-10T19:05:54.602Z"
+  "fetched_at": "2018-09-11T01:15:51.206Z"
 }

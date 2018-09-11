@@ -405,5 +405,15 @@
       "max_total_score": 95
     }
   },
-  "organizations": []
+  "organizations": [
+    "cginternals",
+    "vulkano-rs",
+    "KhronosGroup",
+    "immersive-web",
+    "actix",
+    "gltf-rs",
+    "TypeStrong",
+    "three-rs",
+    "slack-rs"
+  ]
 }
