@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/travis-ci/docs-travis-ci-com",
   "languages_url": "https://api.github.com/repos/travis-ci/docs-travis-ci-com/languages",
   "created_at": "2014-01-16T16:57:49Z",
-  "updated_at": "2018-09-10T17:50:34Z",
-  "pushed_at": "2018-09-10T18:52:36Z",
+  "updated_at": "2018-09-11T14:27:49Z",
+  "pushed_at": "2018-09-11T14:27:39Z",
   "homepage": "http://docs.travis-ci.com",
-  "size": 22204,
+  "size": 22205,
   "stargazers_count": 292,
   "language": "CSS",
   "mirror_url": null,
@@ -157,7 +157,7 @@
     "rkh": 215,
     "michaelklishin": 424,
     "roidrage": 576,
-    "BanzaiMan": 1055,
+    "BanzaiMan": 1057,
     "plaindocs": 1347,
     "stefangotz": 6,
     "anarosas": 5,
@@ -471,9 +471,11 @@
     "jdburnet": 1,
     "simonbyrne": 2,
     "grahamc": 6,
-    "lunagraysen": 3
+    "lunagraysen": 3,
+    "falcon78921": 2,
+    "anishkny": 1
   },
-  "fetched_at": "2018-09-10T21:34:49.159Z",
+  "fetched_at": "2018-09-11T15:14:53.867Z",
   "pulls_url": "https://api.github.com/repos/travis-ci/docs-travis-ci-com/pulls{/number}",
   "pulls_authors": [
     "DrTorte",
@@ -1116,6 +1118,7 @@
     "adyavanapalli",
     "felixfbecker",
     "falcon78921",
-    "poch345"
+    "poch345",
+    "anishkny"
   ]
 }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/coala/community/languages",
   "pulls_url": "https://api.github.com/repos/coala/community/pulls{/number}",
   "created_at": "2017-11-30T22:51:36Z",
-  "updated_at": "2018-09-01T13:07:36Z",
-  "pushed_at": "2018-09-01T13:25:38Z",
+  "updated_at": "2018-09-11T14:49:21Z",
+  "pushed_at": "2018-09-11T10:14:55Z",
   "homepage": "http://coala-community.netlify.com/",
-  "size": 3532,
-  "stargazers_count": 15,
+  "size": 4522,
+  "stargazers_count": 16,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -89,7 +89,9 @@
     "ashwini0529",
     "dob9601",
     "m4tr1k",
-    "Prince-sharma"
+    "Prince-sharma",
+    "shikharvaish28",
+    "Priya997"
   ],
   "languages": {
     "Python": {
@@ -113,5 +115,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-01T23:21:58.464Z"
+  "fetched_at": "2018-09-11T15:14:53.782Z"
 }
