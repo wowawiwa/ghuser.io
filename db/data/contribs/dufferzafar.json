@@ -1265,13 +1265,13 @@
     "metabrainz/picard": {
       "full_name": "metabrainz/picard",
       "name": "picard",
-      "stargazers_count": 1525,
-      "popularity": 4.183052549170615,
+      "stargazers_count": 1526,
+      "popularity": 4.183337407166179,
       "percentage": 0.045351473922902494,
       "maturity": 4.642227653902848,
       "total_commits_count": 4410,
       "activity": 5,
-      "total_score": 26.858274943135783,
+      "total_score": 26.859131196557367,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

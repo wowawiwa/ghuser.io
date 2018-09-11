@@ -186,13 +186,13 @@
     "elastic/logstash": {
       "full_name": "elastic/logstash",
       "name": "logstash",
-      "stargazers_count": 9364,
-      "popularity": 4.971458750007683,
+      "stargazers_count": 9366,
+      "popularity": 4.9715515073434595,
       "percentage": 0.011951715071112704,
       "maturity": 4.922230077924516,
       "total_commits_count": 8367,
       "activity": 5,
-      "total_score": 29.766560675472903,
+      "total_score": 29.766839091599437,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

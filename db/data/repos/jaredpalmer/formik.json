@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/jaredpalmer/formik/languages",
   "pulls_url": "https://api.github.com/repos/jaredpalmer/formik/pulls{/number}",
   "created_at": "2017-06-14T19:50:59Z",
-  "updated_at": "2018-09-11T15:17:21Z",
-  "pushed_at": "2018-09-11T14:59:58Z",
+  "updated_at": "2018-09-11T22:17:52Z",
+  "pushed_at": "2018-09-11T18:45:04Z",
   "homepage": "https://jaredpalmer.com/formik",
-  "size": 2216,
-  "stargazers_count": 9254,
+  "size": 2215,
+  "stargazers_count": 9261,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -142,7 +142,8 @@
     "whtsky": 1,
     "xiaotian-tan": 1,
     "houkanshan": 1,
-    "steadylearner": 1
+    "steadylearner": 1,
+    "gnapse": 1
   },
   "pulls_authors": [
     "gnapse",
@@ -317,7 +318,7 @@
   ],
   "languages": {
     "TypeScript": {
-      "bytes": 158001,
+      "bytes": 158080,
       "color": "#2b7489"
     },
     "JavaScript": {
@@ -329,5 +330,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-11T15:19:28.621Z"
+  "fetched_at": "2018-09-11T22:36:28.976Z"
 }

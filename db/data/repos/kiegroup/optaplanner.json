@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/kiegroup/optaplanner/languages",
   "pulls_url": "https://api.github.com/repos/kiegroup/optaplanner/pulls{/number}",
   "created_at": "2011-02-15T19:38:23Z",
-  "updated_at": "2018-09-11T03:22:26Z",
-  "pushed_at": "2018-09-11T13:44:17Z",
+  "updated_at": "2018-09-11T19:23:57Z",
+  "pushed_at": "2018-09-11T19:24:13Z",
   "homepage": "https://www.optaplanner.org",
-  "size": 172428,
+  "size": 172411,
   "stargazers_count": 902,
   "language": "Java",
   "mirror_url": null,
@@ -104,7 +104,7 @@
     "lczmdr": 13,
     "mbiarnes": 14,
     "gsheldon": 15,
-    "rsynek": 20,
+    "rsynek": 21,
     "psiroky": 22,
     "Rikkola": 26,
     "enzhao": 27,
@@ -198,7 +198,7 @@
   ],
   "languages": {
     "Java": {
-      "bytes": 8069233,
+      "bytes": 8071291,
       "color": "#b07219"
     },
     "JavaScript": {
@@ -226,5 +226,5 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-11T15:15:48.429Z"
+  "fetched_at": "2018-09-11T22:32:40.058Z"
 }
