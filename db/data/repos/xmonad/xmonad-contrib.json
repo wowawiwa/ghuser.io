@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/xmonad/xmonad-contrib/languages",
   "pulls_url": "https://api.github.com/repos/xmonad/xmonad-contrib/pulls{/number}",
   "created_at": "2015-08-22T17:45:35Z",
-  "updated_at": "2018-09-11T01:00:04Z",
-  "pushed_at": "2018-09-05T11:57:56Z",
+  "updated_at": "2018-09-11T10:56:17Z",
+  "pushed_at": "2018-09-11T10:56:13Z",
   "homepage": null,
-  "size": 9798,
+  "size": 9789,
   "stargazers_count": 178,
   "language": "Haskell",
   "mirror_url": null,
@@ -145,7 +145,7 @@
     "joachifm": 74,
     "twifkak": 109,
     "gwern": 136,
-    "byorgey": 256,
+    "byorgey": 257,
     "aavogt": 279,
     "spencerjanssen": 290,
     "audunska": 3,
@@ -298,7 +298,7 @@
   ],
   "languages": {
     "Haskell": {
-      "bytes": 1902733,
+      "bytes": 1902753,
       "color": "#5e5086"
     },
     "Shell": {
@@ -310,5 +310,5 @@
       "color": "#555555"
     }
   },
-  "fetched_at": "2018-09-11T01:15:05.887Z"
+  "fetched_at": "2018-09-11T12:41:13.963Z"
 }

@@ -11,8 +11,8 @@
   "languages_url": "https://api.github.com/repos/purescript-contrib/atom-language-purescript/languages",
   "pulls_url": "https://api.github.com/repos/purescript-contrib/atom-language-purescript/pulls{/number}",
   "created_at": "2014-06-21T00:33:56Z",
-  "updated_at": "2018-07-18T09:27:23Z",
-  "pushed_at": "2018-07-18T09:27:22Z",
+  "updated_at": "2018-09-11T12:23:51Z",
+  "pushed_at": "2018-09-11T12:23:49Z",
   "homepage": null,
   "size": 73,
   "stargazers_count": 24,
@@ -55,7 +55,8 @@
     "freebroccolo": 8,
     "hdgarrood": 15,
     "nwolverson": 19,
-    "ianbollinger": 22
+    "ianbollinger": 22,
+    "timjs": 1
   },
   "pulls_authors": [
     "colbyn",
@@ -65,13 +66,14 @@
     "ianbollinger",
     "hdgarrood",
     "e-jigsaw",
-    "paulyoung"
+    "paulyoung",
+    "timjs"
   ],
   "languages": {
     "CoffeeScript": {
-      "bytes": 20922,
+      "bytes": 20925,
       "color": "#244776"
     }
   },
-  "fetched_at": "2018-09-08T12:40:59.253Z"
+  "fetched_at": "2018-09-11T12:41:54.945Z"
 }

@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/wxWidgets/website/languages",
   "pulls_url": "https://api.github.com/repos/wxWidgets/website/pulls{/number}",
   "created_at": "2012-05-02T07:07:38Z",
-  "updated_at": "2018-09-02T21:43:16Z",
-  "pushed_at": "2018-09-02T21:43:15Z",
+  "updated_at": "2018-09-11T11:28:36Z",
+  "pushed_at": "2018-09-11T11:28:34Z",
   "homepage": "https://www.wxwidgets.org/",
-  "size": 10253,
+  "size": 10248,
   "stargazers_count": 10,
   "language": "HTML",
   "mirror_url": null,
@@ -51,8 +51,9 @@
     "JulianSmart": 2,
     "mtangoo": 2,
     "catalinr": 11,
-    "vadz": 72,
-    "tierra": 119
+    "vadz": 73,
+    "tierra": 119,
+    "jogendra": 1
   },
   "pulls_authors": [
     "utelle",
@@ -69,7 +70,8 @@
     "mtangoo",
     "JulianSmart",
     "aasselin",
-    "redtide"
+    "redtide",
+    "jogendra"
   ],
   "languages": {
     "HTML": {
@@ -93,5 +95,5 @@
       "color": "#0298c3"
     }
   },
-  "fetched_at": "2018-09-03T18:26:35.179Z"
+  "fetched_at": "2018-09-11T12:38:36.700Z"
 }
