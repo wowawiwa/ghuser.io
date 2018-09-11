@@ -238,13 +238,13 @@
     "diegohaz/schm": {
       "full_name": "diegohaz/schm",
       "name": "schm",
-      "stargazers_count": 359,
-      "popularity": 3.5540433987500983,
+      "stargazers_count": 360,
+      "popularity": 3.5552544828946644,
       "percentage": 1.3333333333333333,
       "maturity": 2.547038498146359,
       "total_commits_count": 75,
       "activity": 5,
-      "total_score": 21.3722413816597,
+      "total_score": 21.37608455534512,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -342,13 +342,13 @@
     "probot/stale": {
       "full_name": "probot/stale",
       "name": "stale",
-      "stargazers_count": 510,
-      "popularity": 3.706842178012966,
+      "stargazers_count": 511,
+      "popularity": 3.707694404521866,
       "percentage": 0.6211180124223602,
       "maturity": 3.084879030823698,
       "total_commits_count": 161,
       "activity": 5,
-      "total_score": 22.589594833662495,
+      "total_score": 22.59222032650979,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -1044,7 +1044,7 @@
     "sampotts/plyr": {
       "full_name": "sampotts/plyr",
       "name": "plyr",
-      "stargazers_count": 12029,
+      "stargazers_count": 12031,
       "popularity": 5,
       "percentage": 0.16515276630883569,
       "maturity": 4.070330151618474,

@@ -11,8 +11,8 @@
   "languages_url": "https://api.github.com/repos/EmoteCollector/bot/languages",
   "pulls_url": "https://api.github.com/repos/EmoteCollector/bot/pulls{/number}",
   "created_at": "2018-01-21T05:54:13Z",
-  "updated_at": "2018-09-11T05:47:33Z",
-  "pushed_at": "2018-09-11T05:47:32Z",
+  "updated_at": "2018-09-11T20:17:28Z",
+  "pushed_at": "2018-09-11T20:17:27Z",
   "homepage": "",
   "size": 688,
   "stargazers_count": 6,
@@ -48,7 +48,7 @@
     "site_admin": false
   },
   "contributors": {
-    "bmintz": 678
+    "bmintz": 679
   },
   "pulls_authors": [
     "bmintz",
@@ -56,7 +56,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 122991,
+      "bytes": 123933,
       "color": "#3572A5"
     },
     "PLpgSQL": {
@@ -68,5 +68,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-11T13:49:32.619Z"
+  "fetched_at": "2018-09-11T20:51:40.510Z"
 }

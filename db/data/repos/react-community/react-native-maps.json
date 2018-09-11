@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/react-community/react-native-maps/languages",
   "pulls_url": "https://api.github.com/repos/react-community/react-native-maps/pulls{/number}",
   "created_at": "2015-12-29T19:54:20Z",
-  "updated_at": "2018-09-11T07:45:16Z",
-  "pushed_at": "2018-09-10T11:40:35Z",
+  "updated_at": "2018-09-11T20:53:42Z",
+  "pushed_at": "2018-09-11T19:00:27Z",
   "homepage": null,
-  "size": 61370,
-  "stargazers_count": 8091,
+  "size": 61371,
+  "stargazers_count": 8092,
   "language": "Objective-C",
   "mirror_url": null,
   "archived": false,
@@ -129,7 +129,7 @@
     "frankrowe": 4,
     "cascadian": 4,
     "satori-ytolstoguzov": 5,
-    "alvelig": 23,
+    "alvelig": 24,
     "ochanje210": 5,
     "skellock": 5,
     "terribleben": 6,
@@ -662,7 +662,7 @@
       "color": "#f1e05a"
     },
     "Java": {
-      "bytes": 139364,
+      "bytes": 139356,
       "color": "#b07219"
     },
     "Ruby": {
@@ -674,5 +674,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-11T10:41:12.715Z"
+  "fetched_at": "2018-09-11T20:54:00.963Z"
 }

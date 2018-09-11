@@ -11,8 +11,8 @@
   "languages_url": "https://api.github.com/repos/tomaka/glutin/languages",
   "pulls_url": "https://api.github.com/repos/tomaka/glutin/pulls{/number}",
   "created_at": "2014-07-27T07:13:16Z",
-  "updated_at": "2018-09-07T05:17:36Z",
-  "pushed_at": "2018-09-05T23:45:05Z",
+  "updated_at": "2018-09-11T19:51:53Z",
+  "pushed_at": "2018-09-11T19:51:48Z",
   "homepage": null,
   "size": 2412,
   "stargazers_count": 944,
@@ -164,7 +164,8 @@
     "jshrake": 1,
     "mraof": 1,
     "mtak-": 1,
-    "stuartnelson3": 1
+    "stuartnelson3": 1,
+    "ZeGentzy": 1
   },
   "pulls_authors": [
     "ZeGentzy",
@@ -331,9 +332,9 @@
   ],
   "languages": {
     "Rust": {
-      "bytes": 221422,
+      "bytes": 219684,
       "color": "#dea584"
     }
   },
-  "fetched_at": "2018-09-11T00:29:54.979Z"
+  "fetched_at": "2018-09-11T20:44:53.426Z"
 }

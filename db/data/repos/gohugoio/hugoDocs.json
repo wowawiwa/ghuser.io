@@ -92,7 +92,7 @@
     "mohae": 28,
     "budparr": 29,
     "tatsushid": 40,
-    "kaushalmodi": 83,
+    "kaushalmodi": 84,
     "bogem": 71,
     "noahcampbell": 115,
     "moorereason": 158,
@@ -454,7 +454,8 @@
     "divinerites": 2,
     "coliff": 2,
     "peterkappus": 2,
-    "AlexChambers": 2
+    "AlexChambers": 2,
+    "alihusnainarshad": 1
   },
   "name": "hugoDocs",
   "full_name": "gohugoio/hugoDocs",
@@ -466,8 +467,8 @@
   "url": "https://api.github.com/repos/gohugoio/hugoDocs",
   "languages_url": "https://api.github.com/repos/gohugoio/hugoDocs/languages",
   "created_at": "2017-06-14T07:52:37Z",
-  "updated_at": "2018-09-11T06:13:39Z",
-  "pushed_at": "2018-09-11T08:04:12Z",
+  "updated_at": "2018-09-11T20:28:54Z",
+  "pushed_at": "2018-09-11T20:28:51Z",
   "homepage": "",
   "size": 119535,
   "stargazers_count": 200,
@@ -520,7 +521,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-11T10:33:44.942Z",
+  "fetched_at": "2018-09-11T20:45:00.113Z",
   "pulls_url": "https://api.github.com/repos/gohugoio/hugoDocs/pulls{/number}",
   "pulls_authors": [
     "brentybh",

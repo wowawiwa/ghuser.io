@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/salsify/ember-css-modules",
   "languages_url": "https://api.github.com/repos/salsify/ember-css-modules/languages",
   "created_at": "2016-02-16T15:16:29Z",
-  "updated_at": "2018-09-10T20:18:47Z",
-  "pushed_at": "2018-09-10T20:18:46Z",
+  "updated_at": "2018-09-11T18:11:18Z",
+  "pushed_at": "2018-09-11T18:11:16Z",
   "homepage": "",
-  "size": 824,
+  "size": 825,
   "stargazers_count": 216,
   "language": "JavaScript",
   "mirror_url": null,
@@ -61,11 +61,11 @@
     "alexlafroscia": 4,
     "kehphin": 4,
     "jasonmit": 7,
-    "dfreeman": 183
+    "dfreeman": 184
   },
   "languages": {
     "JavaScript": {
-      "bytes": 83720,
+      "bytes": 83944,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -77,7 +77,7 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-10T21:35:19.256Z",
+  "fetched_at": "2018-09-11T20:49:31.091Z",
   "pulls_url": "https://api.github.com/repos/salsify/ember-css-modules/pulls{/number}",
   "pulls_authors": [
     "buschtoens",

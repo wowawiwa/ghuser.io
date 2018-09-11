@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/SergioBenitez/Rocket/languages",
   "pulls_url": "https://api.github.com/repos/SergioBenitez/Rocket/pulls{/number}",
   "created_at": "2016-03-18T02:50:18Z",
-  "updated_at": "2018-09-11T08:42:19Z",
-  "pushed_at": "2018-09-11T02:26:48Z",
+  "updated_at": "2018-09-11T19:57:18Z",
+  "pushed_at": "2018-09-11T19:44:15Z",
   "homepage": "https://rocket.rs",
-  "size": 2710,
-  "stargazers_count": 5157,
+  "size": 2713,
+  "stargazers_count": 5156,
   "language": "Rust",
   "mirror_url": null,
   "archived": false,
@@ -126,12 +126,13 @@
     "shssoichiro": 4,
     "messense": 5,
     "sethlopezme": 5,
-    "jebrosen": 13,
+    "jebrosen": 14,
     "SergioBenitez": 956,
     "alfiedotwtf": 1,
     "EloD10": 1,
     "dereckson": 1,
-    "talg": 1
+    "talg": 1,
+    "kri5": 1
   },
   "pulls_authors": [
     "kri5",
@@ -298,7 +299,7 @@
   ],
   "languages": {
     "Rust": {
-      "bytes": 1070647,
+      "bytes": 1070603,
       "color": "#dea584"
     },
     "Shell": {
@@ -310,5 +311,5 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-11T10:35:54.755Z"
+  "fetched_at": "2018-09-11T20:46:48.901Z"
 }

@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/cljsjs/packages/languages",
   "pulls_url": "https://api.github.com/repos/cljsjs/packages/pulls{/number}",
   "created_at": "2014-12-03T22:47:01Z",
-  "updated_at": "2018-09-10T15:28:36Z",
-  "pushed_at": "2018-09-06T07:41:53Z",
+  "updated_at": "2018-09-11T17:00:50Z",
+  "pushed_at": "2018-09-11T17:00:47Z",
   "homepage": "http://cljsjs.github.io",
-  "size": 7681,
+  "size": 7687,
   "stargazers_count": 640,
   "language": "JavaScript",
   "mirror_url": null,
@@ -107,7 +107,7 @@
     "dhruvbhatia": 9,
     "rwillig": 11,
     "transducer": 10,
-    "sandhu": 10,
+    "sandhu": 11,
     "mynomoto": 10,
     "piranha": 10,
     "fehrenbach": 10,
@@ -132,7 +132,7 @@
     "pupeno": 24,
     "vbedegi": 29,
     "bago2k4": 24,
-    "miikka": 69,
+    "miikka": 70,
     "pandeiro": 33,
     "crisptrutski": 48,
     "flyboarder": 76,
@@ -140,8 +140,8 @@
     "ducky427": 108,
     "EmergentBehavior": 72,
     "martinklepsch": 111,
-    "deraen-robot": 309,
-    "Deraen": 1464,
+    "deraen-robot": 310,
+    "Deraen": 1465,
     "rotaliator": 5,
     "namenu": 5,
     "hlolli": 5,
@@ -968,11 +968,11 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 14393168,
+      "bytes": 14395556,
       "color": "#f1e05a"
     },
     "Clojure": {
-      "bytes": 741538,
+      "bytes": 742670,
       "color": "#db5855"
     },
     "Shell": {
@@ -980,5 +980,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-11T13:51:46.202Z"
+  "fetched_at": "2018-09-11T20:54:14.865Z"
 }
