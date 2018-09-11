@@ -2708,13 +2708,13 @@
     "gliderlabs/docker-alpine": {
       "full_name": "gliderlabs/docker-alpine",
       "name": "docker-alpine",
-      "stargazers_count": 4677,
-      "popularity": 4.669922877942735,
+      "stargazers_count": 4678,
+      "popularity": 4.670015743375826,
       "percentage": 0.6451612903225806,
       "maturity": 3.062810136718,
       "total_commits_count": 155,
       "activity": 5,
-      "total_score": 25.527059858317468,
+      "total_score": 25.527346243330484,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

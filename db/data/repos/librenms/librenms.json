@@ -10,8 +10,8 @@
   "url": "https://api.github.com/repos/librenms/librenms",
   "languages_url": "https://api.github.com/repos/librenms/librenms/languages",
   "created_at": "2013-10-28T01:37:13Z",
-  "updated_at": "2018-09-10T14:16:42Z",
-  "pushed_at": "2018-09-10T14:16:33Z",
+  "updated_at": "2018-09-11T01:59:35Z",
+  "pushed_at": "2018-09-11T02:05:49Z",
   "homepage": "http://www.librenms.org/",
   "size": 134409,
   "stargazers_count": 1156,
@@ -139,13 +139,13 @@
     "neveldo": 119,
     "wdalmut": 189,
     "clinta": 168,
-    "crcro": 212,
+    "crcro": 213,
     "vieron": 216,
     "f0o": 951,
     "Rosiak": 431,
     "paulgear": 645,
     "danzel": 469,
-    "murrant": 1060,
+    "murrant": 1061,
     "laf": 3576,
     "vizay": 11,
     "ericmann": 9,
@@ -418,7 +418,7 @@
   },
   "languages": {
     "PHP": {
-      "bytes": 6805825,
+      "bytes": 6805824,
       "color": "#4F5D95"
     },
     "JavaScript": {
@@ -462,7 +462,7 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-09-10T15:05:36.885Z",
+  "fetched_at": "2018-09-11T02:24:46.084Z",
   "pulls_url": "https://api.github.com/repos/librenms/librenms/pulls{/number}",
   "pulls_authors": [
     "eastmane",
@@ -987,6 +987,7 @@
     "Landrash",
     "sippe2",
     "Nesousx",
-    "lug-gh"
+    "lug-gh",
+    "sjtarik"
   ]
 }
