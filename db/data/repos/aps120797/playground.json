@@ -24,16 +24,15 @@
     "weekly-digest[bot]": 5,
     "aps120797": 19,
     "abhijeetps": 1,
-    "chaos-monkey-app[bot]": 77
+    "chaos-monkey-app[bot]": 79
   },
   "languages": {},
-  "fetched_at": "2018-09-11T12:38:43.744Z",
+  "fetched_at": "2018-09-12T15:45:34.546Z",
   "pulls_url": "https://api.github.com/repos/abhijeetps/playground/pulls{/number}",
   "pulls_authors": [
     "chaos-monkey-app[bot]",
     "abhijeetps",
     "itaditya",
     "Anubhav-Bhargava"
-  ],
-  "fetching_since": "2018-09-12T15:45:34.546Z"
+  ]
 }

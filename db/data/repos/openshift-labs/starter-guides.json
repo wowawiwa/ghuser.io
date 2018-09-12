@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:48:32.782Z",
   "name": "starter-guides",
   "full_name": "openshift-labs/starter-guides",
   "owner": "openshift-labs",
@@ -47,5 +46,67 @@
     "received_events_url": "https://api.github.com/users/openshift-labs/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "bentterp": 1,
+    "gregswift": 1,
+    "infraredgirl": 1,
+    "bliemli": 1,
+    "JPinkney": 1,
+    "torsava": 1,
+    "stalldandelion": 1,
+    "chrira": 1,
+    "alberttwong": 1,
+    "thesteve0": 2,
+    "matehall": 2,
+    "Christopher-Chianelli": 2,
+    "nickboldt": 2,
+    "ganto": 2,
+    "gshipley": 4,
+    "thoraxe": 10,
+    "marekjelen": 28,
+    "jorgemoralespou": 31,
+    "siamaksade": 50
+  },
+  "pulls_authors": [
+    "jorgemoralespou",
+    "alberttwong",
+    "marekjelen",
+    "ryanj",
+    "thesteve0",
+    "gshipley",
+    "matehall",
+    "bentterp",
+    "nikolausschueler",
+    "gregswift",
+    "infraredgirl",
+    "bliemli",
+    "kmurudi",
+    "Christopher-Chianelli",
+    "JPinkney",
+    "nickboldt",
+    "torsava",
+    "stalldandelion",
+    "thoraxe",
+    "ganto",
+    "chrira",
+    "piggyvenus",
+    "kenthua",
+    "siamaksade"
+  ],
+  "languages": {
+    "Dockerfile": {
+      "bytes": 4770,
+      "color": "#0db7ed"
+    },
+    "Shell": {
+      "bytes": 4427,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 424,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T15:48:32.782Z"
 }

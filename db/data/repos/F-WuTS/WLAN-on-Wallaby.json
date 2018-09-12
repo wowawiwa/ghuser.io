@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:55:14.831Z",
   "name": "WLAN-on-Wallaby",
   "full_name": "F-WuTS/WLAN-on-Wallaby",
   "owner": "F-WuTS",
@@ -41,5 +40,16 @@
     "received_events_url": "https://api.github.com/users/F-WuTS/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "PhilipTrauner": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Shell": {
+      "bytes": 587,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T15:55:14.831Z"
 }

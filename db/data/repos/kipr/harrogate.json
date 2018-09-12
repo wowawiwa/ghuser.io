@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:55:15.858Z",
   "name": "harrogate",
   "full_name": "kipr/harrogate",
   "owner": "kipr",
@@ -47,5 +46,43 @@
     "received_events_url": "https://api.github.com/users/kipr/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "PhilipTrauner": 1,
+    "swatkins": 8,
+    "navzam": 10,
+    "bmcdorman": 46,
+    "jsoutherland": 87,
+    "zeltner": 302
+  },
+  "pulls_authors": [
+    "jsoutherland",
+    "bmcdorman",
+    "swatkins",
+    "zeltner",
+    "PhilipTrauner"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 4446306,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 532890,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 41211,
+      "color": "#563d7c"
+    },
+    "C": {
+      "bytes": 776,
+      "color": "#555555"
+    },
+    "Batchfile": {
+      "bytes": 207,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-12T15:55:15.858Z"
 }

@@ -72,7 +72,7 @@
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-09-12T04:58:32.526Z",
+  "fetched_at": "2018-09-12T15:37:24.098Z",
   "pulls_url": "https://api.github.com/repos/watchexec/watchexec/pulls{/number}",
   "pulls_authors": [
     "tailhook",
@@ -118,6 +118,5 @@
     "received_events_url": "https://api.github.com/users/watchexec/received_events",
     "type": "Organization",
     "site_admin": false
-  },
-  "fetching_since": "2018-09-12T15:37:24.098Z"
+  }
 }

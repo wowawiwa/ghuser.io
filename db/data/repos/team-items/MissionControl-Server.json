@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:55:15.563Z",
   "name": "MissionControl-Server",
   "full_name": "team-items/MissionControl-Server",
   "owner": "team-items",
@@ -47,5 +46,24 @@
     "received_events_url": "https://api.github.com/users/team-items/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "danielhonies": 2,
+    "marone507": 2,
+    "snoato": 133
+  },
+  "pulls_authors": [
+    "PhilipTrauner"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 74184,
+      "color": "#555555"
+    },
+    "Python": {
+      "bytes": 36145,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T15:55:15.563Z"
 }

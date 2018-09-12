@@ -27,7 +27,7 @@
   },
   "default_branch": "master",
   "contributors": {
-    "AurelienLourot": 586,
+    "AurelienLourot": 594,
     "brillout": 4,
     "jamesgeorge007": 4
   },
@@ -49,7 +49,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 89489,
+      "bytes": 90295,
       "color": "#f1e05a"
     },
     "Shell": {
@@ -65,12 +65,11 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-12T04:57:20.401Z",
+  "fetched_at": "2018-09-12T15:34:24.374Z",
   "pulls_url": "https://api.github.com/repos/AurelienLourot/ghuser.io/pulls{/number}",
   "pulls_authors": [
     "AurelienLourot",
     "brillout",
     "jamesgeorge007"
-  ],
-  "fetching_since": "2018-09-12T15:34:24.374Z"
+  ]
 }

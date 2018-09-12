@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:44:38.928Z",
   "name": "airdispatch-go",
   "full_name": "airdispatch/airdispatch-go",
   "owner": "airdispatch",
@@ -47,5 +46,28 @@
     "received_events_url": "https://api.github.com/users/airdispatch/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "msilvprog7": 11,
+    "brentbaum": 14,
+    "huntaub": 252
+  },
+  "pulls_authors": [
+    "bitjson"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 73662,
+      "color": "#375eab"
+    },
+    "Protocol Buffer": {
+      "bytes": 2889,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 609,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T15:44:38.928Z"
 }

@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:36:20.449Z",
   "name": "ofxMask",
   "full_name": "nariakiiwatani/ofxMask",
   "owner": "nariakiiwatani",
@@ -21,5 +20,23 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "nariakiiwatani": 23
+  },
+  "pulls_authors": [
+    "eelke",
+    "btparker"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 9183,
+      "color": "#f34b7d"
+    },
+    "Makefile": {
+      "bytes": 6947,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T15:36:20.449Z"
 }

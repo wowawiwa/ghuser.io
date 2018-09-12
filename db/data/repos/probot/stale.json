@@ -76,7 +76,7 @@
     "ragurney": 1,
     "fvcproductions": 4
   },
-  "fetched_at": "2018-09-11T20:48:31.301Z",
+  "fetched_at": "2018-09-12T15:45:41.031Z",
   "pulls_url": "https://api.github.com/repos/probot/stale/pulls{/number}",
   "pulls_authors": [
     "cduez",
@@ -111,6 +111,5 @@
     "fvcproductions",
     "jsjoeio",
     "waldyrious"
-  ],
-  "fetching_since": "2018-09-12T15:45:41.031Z"
+  ]
 }

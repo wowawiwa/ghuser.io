@@ -92,7 +92,7 @@
     "mohae": 28,
     "budparr": 29,
     "tatsushid": 40,
-    "kaushalmodi": 86,
+    "kaushalmodi": 87,
     "bogem": 71,
     "noahcampbell": 115,
     "moorereason": 158,
@@ -521,7 +521,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T04:58:17.792Z",
+  "fetched_at": "2018-09-12T15:36:48.729Z",
   "pulls_url": "https://api.github.com/repos/gohugoio/hugoDocs/pulls{/number}",
   "pulls_authors": [
     "brentybh",
@@ -746,6 +746,5 @@
     "brandur",
     "junkboy0315",
     "neerajpal09"
-  ],
-  "fetching_since": "2018-09-12T15:36:48.729Z"
+  ]
 }

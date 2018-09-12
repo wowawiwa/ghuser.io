@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:47:45.596Z",
   "name": "verdigris",
   "full_name": "woboq/verdigris",
   "owner": "woboq",
@@ -47,5 +46,34 @@
     "received_events_url": "https://api.github.com/users/woboq/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "WSoptics": 1,
+    "guruz": 1,
+    "gillesfernandez": 1,
+    "jcelerier": 2,
+    "pkrenz": 2,
+    "shuffle2": 2,
+    "rakhimov": 6,
+    "ogoffart": 205
+  },
+  "pulls_authors": [
+    "jcelerier",
+    "fiesh",
+    "pkrenz",
+    "rakhimov",
+    "guruz",
+    "gillesfernandez"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 608061,
+      "color": "#f34b7d"
+    },
+    "QMake": {
+      "bytes": 2283,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:45.596Z"
 }

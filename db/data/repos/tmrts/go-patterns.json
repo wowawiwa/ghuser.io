@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:36:25.531Z",
   "name": "go-patterns",
   "full_name": "tmrts/go-patterns",
   "owner": "tmrts",
@@ -27,5 +26,58 @@
     "url": "https://api.github.com/licenses/apache-2.0",
     "node_id": "MDc6TGljZW5zZTI="
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "LinMAD": 1,
+    "Philiphil": 1,
+    "niranjan92": 1,
+    "leonklingele": 1,
+    "james4e": 1,
+    "dlion": 1,
+    "mehdy": 1,
+    "legendtkl": 1,
+    "simon-xia": 1,
+    "kataras": 1,
+    "sha1sum": 9,
+    "tmrts": 51
+  },
+  "pulls_authors": [
+    "mohammedfakhar",
+    "nitesh420",
+    "kirecek",
+    "butuzov",
+    "brendancsmith",
+    "mafredri",
+    "cce",
+    "BPing",
+    "singchia",
+    "SeriyBg",
+    "LinMAD",
+    "gungorugur",
+    "alexpantyukhin",
+    "axifive",
+    "Pisush",
+    "Inux",
+    "adriantam",
+    "coreydaley",
+    "Philiphil",
+    "fuweid",
+    "niranjan92",
+    "leonklingele",
+    "ishare",
+    "james4e",
+    "dlion",
+    "ghost",
+    "simon-xia",
+    "mehdy",
+    "legendtkl",
+    "sha1sum"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 12193,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-12T15:36:25.531Z"
 }

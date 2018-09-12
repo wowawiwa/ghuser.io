@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:47:57.706Z",
   "name": "JamomaPureData",
   "full_name": "jamoma/JamomaPureData",
   "owner": "jamoma",
@@ -41,5 +40,61 @@
     "received_events_url": "https://api.github.com/users/jamoma/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "jcelerier": 1,
+    "reno-": 2,
+    "avilleret": 441
+  },
+  "pulls_authors": [
+    "reno-",
+    "avilleret"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 610590,
+      "color": "#f34b7d"
+    },
+    "JavaScript": {
+      "bytes": 86982,
+      "color": "#f1e05a"
+    },
+    "Pure Data": {
+      "bytes": 51494,
+      "color": "#ccc"
+    },
+    "CMake": {
+      "bytes": 39267,
+      "color": "#ccc"
+    },
+    "C": {
+      "bytes": 36347,
+      "color": "#555555"
+    },
+    "Shell": {
+      "bytes": 21777,
+      "color": "#89e051"
+    },
+    "CSS": {
+      "bytes": 17484,
+      "color": "#563d7c"
+    },
+    "Max": {
+      "bytes": 9444,
+      "color": "#c4a79c"
+    },
+    "HTML": {
+      "bytes": 2267,
+      "color": "#e34c26"
+    },
+    "Makefile": {
+      "bytes": 945,
+      "color": "#427819"
+    },
+    "Ruby": {
+      "bytes": 358,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:57.706Z"
 }

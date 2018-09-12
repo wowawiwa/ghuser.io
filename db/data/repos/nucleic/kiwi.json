@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:47:57.057Z",
   "name": "kiwi",
   "full_name": "nucleic/kiwi",
   "owner": "nucleic",
@@ -47,5 +46,43 @@
     "received_events_url": "https://api.github.com/users/nucleic/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "hugovk": 1,
+    "felipealmeida": 1,
+    "Qix-": 1,
+    "jklymak": 2,
+    "dwillmer": 2,
+    "jwiggins": 18,
+    "MatthieuDartiailh": 34,
+    "sccolbert": 101
+  },
+  "pulls_authors": [
+    "MatthieuDartiailh",
+    "hugovk",
+    "jyaif",
+    "jklymak",
+    "Qix-",
+    "hfossli",
+    "jcelerier",
+    "jwiggins",
+    "IjzerenHein",
+    "felipealmeida",
+    "dwillmer"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 171919,
+      "color": "#f34b7d"
+    },
+    "Python": {
+      "bytes": 20683,
+      "color": "#3572A5"
+    },
+    "C": {
+      "bytes": 3036,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:57.057Z"
 }

@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:47:51.957Z",
   "name": "nodeeditor",
   "full_name": "paceholder/nodeeditor",
   "owner": "paceholder",
@@ -27,5 +26,53 @@
     "url": "https://api.github.com/licenses/bsd-3-clause",
     "node_id": "MDc6TGljZW5zZTU="
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "DanielBorn": 1,
+    "ypnos": 1,
+    "tuvok": 1,
+    "kPanesar": 1,
+    "schumacb": 1,
+    "mtbrobotanist": 1,
+    "jcelerier": 1,
+    "MigFerreira": 1,
+    "rkollataj": 3,
+    "facontidavide": 7,
+    "LandonJerre": 7,
+    "Quincunx271": 8,
+    "russelltg": 32,
+    "paceholder": 231
+  },
+  "pulls_authors": [
+    "facontidavide",
+    "chriamue",
+    "Quincunx271",
+    "DanielBorn",
+    "paceholder",
+    "Lishen1",
+    "iclosure",
+    "rkollataj",
+    "ReubenJCarter",
+    "ypnos",
+    "russelltg",
+    "tuvok",
+    "kPanesar",
+    "ebischreck",
+    "schumacb",
+    "mtbrobotanist",
+    "LandonJerre",
+    "jcelerier",
+    "MigFerreira"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 147880,
+      "color": "#f34b7d"
+    },
+    "CMake": {
+      "bytes": 4571,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:51.957Z"
 }

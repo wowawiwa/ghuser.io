@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:31:07.625Z",
   "name": "atom-lint",
   "full_name": "ahmetabdi/atom-lint",
   "owner": "ahmetabdi",
@@ -27,5 +26,42 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "oura": 1,
+    "acrogenesis": 1,
+    "rgoupil": 1,
+    "menakite": 1,
+    "guillaume86": 1,
+    "rochefort": 1,
+    "bryanhunter": 1,
+    "skevy": 1,
+    "shtirlic": 1,
+    "wesbland": 1,
+    "pborreli": 1,
+    "richrace": 2,
+    "elrolito": 2,
+    "benjohnson": 2,
+    "Kev": 3,
+    "moshee": 3,
+    "danielgtaylor": 3,
+    "jonrohan": 5,
+    "yujinakayama": 284
+  },
+  "pulls_authors": [],
+  "languages": {
+    "CoffeeScript": {
+      "bytes": 101093,
+      "color": "#244776"
+    },
+    "CSS": {
+      "bytes": 4547,
+      "color": "#563d7c"
+    },
+    "Ruby": {
+      "bytes": 743,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:07.625Z"
 }

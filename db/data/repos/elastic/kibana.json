@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/elastic/kibana/languages",
   "pulls_url": "https://api.github.com/repos/elastic/kibana/pulls{/number}",
   "created_at": "2013-01-26T04:00:59Z",
-  "updated_at": "2018-09-12T07:39:07Z",
-  "pushed_at": "2018-09-12T07:12:28Z",
+  "updated_at": "2018-09-12T16:20:05Z",
+  "pushed_at": "2018-09-12T16:49:38Z",
   "homepage": "https://www.elastic.co/products/kibana",
-  "size": 453578,
-  "stargazers_count": 10061,
+  "size": 453896,
+  "stargazers_count": 10062,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -116,11 +116,11 @@
     "jimmyjones2": 36,
     "archanid": 35,
     "weltenwort": 40,
-    "walterra": 40,
+    "walterra": 41,
     "bmcconaghy": 45,
     "debadair": 50,
     "sqren": 55,
-    "lcawl": 109,
+    "lcawl": 110,
     "jgowdyelastic": 63,
     "chrisronline": 75,
     "kobelb": 91,
@@ -135,7 +135,7 @@
     "BigFunger": 339,
     "LeeDr": 328,
     "Stacey-Gammon": 275,
-    "ppisljar": 284,
+    "ppisljar": 285,
     "ycombinator": 330,
     "epixa": 397,
     "lukasolson": 461,
@@ -965,7 +965,7 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 18502674,
+      "bytes": 18513474,
       "color": "#f1e05a"
     },
     "TypeScript": {
@@ -977,7 +977,7 @@
       "color": "#e34c26"
     },
     "CSS": {
-      "bytes": 425438,
+      "bytes": 425667,
       "color": "#563d7c"
     },
     "Shell": {
@@ -1001,5 +1001,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-12T07:44:26.774Z"
+  "fetched_at": "2018-09-12T16:53:54.618Z"
 }

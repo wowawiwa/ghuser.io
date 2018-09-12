@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:55:20.501Z",
   "name": "octopress",
   "full_name": "octopress/octopress",
   "owner": "octopress",
@@ -47,5 +46,51 @@
     "received_events_url": "https://api.github.com/users/octopress/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "pra85": 1,
+    "phatblat": 1,
+    "mebezac": 1,
+    "hazzik": 1,
+    "kgautreaux": 1,
+    "arches": 1,
+    "JohnMorales": 2,
+    "SteveEdson": 4,
+    "parkr": 22,
+    "imathis": 219
+  },
+  "pulls_authors": [
+    "randycoulman",
+    "professor",
+    "ianklatzco",
+    "jeremyz",
+    "plttn",
+    "andrewgarner",
+    "pra85",
+    "phatblat",
+    "mebezac",
+    "SteveEdson",
+    "imathis",
+    "hazzik",
+    "JohnMorales",
+    "philspitler",
+    "kgautreaux",
+    "arches",
+    "parkr"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 44396,
+      "color": "#701516"
+    },
+    "CSS": {
+      "bytes": 6258,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 2968,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T15:55:20.501Z"
 }

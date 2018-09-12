@@ -29,7 +29,7 @@
   "default_branch": "master",
   "contributors": {
     "paralax": 1,
-    "kdaoudieh": 3
+    "kdaoudieh": 5
   },
   "pulls_authors": [
     "skim-milk",
@@ -37,11 +37,11 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 186657,
+      "bytes": 186648,
       "color": "#3572A5"
     },
     "Shell": {
-      "bytes": 3875,
+      "bytes": 2414,
       "color": "#89e051"
     },
     "C": {
@@ -49,6 +49,5 @@
       "color": "#555555"
     }
   },
-  "fetched_at": "2018-09-10T21:35:52.980Z",
-  "fetching_since": "2018-09-12T15:48:56.816Z"
+  "fetched_at": "2018-09-12T15:48:56.816Z"
 }

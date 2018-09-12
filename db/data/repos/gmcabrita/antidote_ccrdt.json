@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:44:00.911Z",
   "name": "antidote_ccrdt",
   "full_name": "gmcabrita/antidote_ccrdt",
   "owner": "gmcabrita",
@@ -21,5 +20,20 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "gmcabrita": 77
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Erlang": {
+      "bytes": 66292,
+      "color": "#B83998"
+    },
+    "Makefile": {
+      "bytes": 527,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T15:44:00.911Z"
 }

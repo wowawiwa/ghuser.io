@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:48:00.614Z",
   "name": "node-midi",
   "full_name": "jcelerier/node-midi",
   "owner": "jcelerier",
@@ -27,5 +26,35 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "jcelerier": 1,
+    "imyller": 1,
+    "a-rodin": 1,
+    "malyn": 1,
+    "michael-lawrence": 2,
+    "szymonkaliski": 2,
+    "julianduque": 2,
+    "hhromic": 4,
+    "tmpvar": 4,
+    "luxigo": 9,
+    "drewish": 24,
+    "justinlatimer": 27
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 11572,
+      "color": "#f34b7d"
+    },
+    "JavaScript": {
+      "bytes": 11231,
+      "color": "#f1e05a"
+    },
+    "Python": {
+      "bytes": 1916,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T15:48:00.614Z"
 }

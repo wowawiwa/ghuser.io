@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:49:24.395Z",
   "name": "letter-boilerplate",
   "full_name": "mrzool/letter-boilerplate",
   "owner": "mrzool",
@@ -21,5 +20,31 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "raffomania": 1,
+    "saesh": 1,
+    "Kraymer": 2,
+    "mrzool": 61
+  },
+  "pulls_authors": [
+    "HaoZeke",
+    "sebastiansauer",
+    "Tamriel",
+    "nerab",
+    "raffomania",
+    "Kraymer",
+    "saesh"
+  ],
+  "languages": {
+    "TeX": {
+      "bytes": 2628,
+      "color": "#3D6117"
+    },
+    "Makefile": {
+      "bytes": 188,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:24.395Z"
 }

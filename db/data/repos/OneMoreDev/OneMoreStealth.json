@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:49:29.369Z",
   "name": "OneMoreStealth",
   "full_name": "OneMoreDev/OneMoreStealth",
   "owner": "OneMoreDev",
@@ -47,5 +46,24 @@
     "received_events_url": "https://api.github.com/users/OneMoreDev/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "pedroslopez": 2,
+    "AtmoEntity": 3,
+    "ZeroDelta": 10,
+    "kroltan": 25,
+    "Sebane1": 41
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C#": {
+      "bytes": 156064,
+      "color": "#178600"
+    },
+    "Java": {
+      "bytes": 14006,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:29.369Z"
 }

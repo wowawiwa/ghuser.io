@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:30:40.912Z",
   "name": "geotracker-client",
   "full_name": "abrenaut/geotracker-client",
   "owner": "abrenaut",
@@ -27,5 +26,16 @@
     "url": "https://api.github.com/licenses/apache-2.0",
     "node_id": "MDc6TGljZW5zZTI="
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "abrenaut": 12
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Java": {
+      "bytes": 19414,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-12T15:30:40.912Z"
 }

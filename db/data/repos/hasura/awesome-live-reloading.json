@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:47:45.705Z",
   "name": "awesome-live-reloading",
   "full_name": "hasura/awesome-live-reloading",
   "owner": "hasura",
@@ -47,5 +46,41 @@
     "received_events_url": "https://api.github.com/users/hasura/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "onqtam": 1,
+    "jiyinyiyong": 1,
+    "mo": 1,
+    "dividuum": 1,
+    "mattsgarrison": 1,
+    "mozinator": 1,
+    "1wheel": 1,
+    "alaingilbert": 1,
+    "mmerickel": 1,
+    "sbromberger": 1,
+    "ivar": 1,
+    "westurner": 1,
+    "jcelerier": 2,
+    "skybber": 2,
+    "coco98": 2,
+    "wawhal": 18
+  },
+  "pulls_authors": [
+    "onqtam",
+    "jiyinyiyong",
+    "mo",
+    "jcelerier",
+    "skybber",
+    "dividuum",
+    "mattsgarrison",
+    "mozinator",
+    "1wheel",
+    "alaingilbert",
+    "mmerickel",
+    "ivar",
+    "sbromberger",
+    "westurner"
+  ],
+  "languages": {},
+  "fetched_at": "2018-09-12T15:47:45.705Z"
 }

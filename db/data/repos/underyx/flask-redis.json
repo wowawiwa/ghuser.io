@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:31:35.695Z",
   "name": "flask-redis",
   "full_name": "underyx/flask-redis",
   "owner": "underyx",
@@ -27,5 +26,44 @@
     "url": null,
     "node_id": "MDc6TGljZW5zZTA="
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "gricey432": 1,
+    "alexraileanu": 1,
+    "DuncanBetts": 1,
+    "csueiras": 1,
+    "plaes": 1,
+    "ariscn": 1,
+    "giyyapan": 1,
+    "lyschoening": 1,
+    "thekuffs": 2,
+    "rhyselsmore": 32,
+    "underyx": 33
+  },
+  "pulls_authors": [
+    "dayiguizhen",
+    "alexraileanu",
+    "gricey432",
+    "HarumiKiyama",
+    "ghost",
+    "DuncanBetts",
+    "codacy-badger",
+    "underyx",
+    "max-k",
+    "giyyapan",
+    "plaes",
+    "lyschoening",
+    "thekuffs",
+    "grivescorbett",
+    "csueiras",
+    "rhyselsmore",
+    "mtsgrd"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 5933,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:35.695Z"
 }

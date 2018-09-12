@@ -80,7 +80,7 @@
     "Profpatsch": 3,
     "aleator": 3,
     "sellout": 4,
-    "f-f": 7,
+    "f-f": 8,
     "FintanH": 5,
     "PierreR": 5,
     "jneira": 6,
@@ -141,7 +141,7 @@
   ],
   "languages": {
     "Haskell": {
-      "bytes": 764222,
+      "bytes": 764238,
       "color": "#5e5086"
     },
     "Nix": {
@@ -149,6 +149,5 @@
       "color": "#7e7eff"
     }
   },
-  "fetched_at": "2018-09-11T17:14:35.794Z",
-  "fetching_since": "2018-09-12T15:55:30.377Z"
+  "fetched_at": "2018-09-12T15:55:30.377Z"
 }

@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:48:33.818Z",
   "name": "robotskirt",
   "full_name": "benmills/robotskirt",
   "owner": "benmills",
@@ -27,5 +26,48 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "blakmatrix": 1,
+    "jeremyckahn": 1,
+    "tbranyen": 1,
+    "lhagan": 2,
+    "jgoz": 3,
+    "rmg": 4,
+    "benmills": 15,
+    "jmendeth": 121
+  },
+  "pulls_authors": [
+    "JPinkney",
+    "jgoz",
+    "jmendeth",
+    "node-migrator-bot",
+    "lhagan",
+    "rmg",
+    "jeremyckahn",
+    "tbranyen"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 159404,
+      "color": "#555555"
+    },
+    "C++": {
+      "bytes": 67938,
+      "color": "#f34b7d"
+    },
+    "JavaScript": {
+      "bytes": 13491,
+      "color": "#f1e05a"
+    },
+    "Python": {
+      "bytes": 1005,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 111,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T15:48:33.818Z"
 }

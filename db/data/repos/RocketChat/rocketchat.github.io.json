@@ -63,8 +63,8 @@
     "sampaiodiego": 3,
     "timkinnane": 3,
     "mrinaldhar": 3,
-    "rssilva": 8,
-    "MartinSchoeler": 10,
+    "rssilva": 9,
+    "MartinSchoeler": 12,
     "marceloschmidt": 10,
     "rodrigok": 10,
     "juliagrala": 11,
@@ -115,15 +115,15 @@
   ],
   "languages": {
     "HTML": {
-      "bytes": 194722,
+      "bytes": 195310,
       "color": "#e34c26"
     },
     "CSS": {
-      "bytes": 82887,
+      "bytes": 83230,
       "color": "#563d7c"
     },
     "JavaScript": {
-      "bytes": 37792,
+      "bytes": 40147,
       "color": "#f1e05a"
     },
     "Ruby": {
@@ -131,6 +131,5 @@
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-09-10T21:32:53.554Z",
-  "fetching_since": "2018-09-12T15:38:23.850Z"
+  "fetched_at": "2018-09-12T15:38:23.850Z"
 }

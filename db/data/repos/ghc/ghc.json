@@ -146,7 +146,7 @@
     "hvr": 775,
     "bgamari": 1605,
     "simonmar": 11487,
-    "simonpj": 9358,
+    "simonpj": 9359,
     "igfoo": 7113,
     "julian-seward1": 1041,
     "rrthomas": 648,
@@ -445,7 +445,8 @@
     "nkaretnikov": 1,
     "niksaz": 1,
     "nad": 1,
-    "ocharles": 1
+    "ocharles": 1,
+    "aeyerstaylor": 1
   },
   "pulls_authors": [
     "sergv",
@@ -549,7 +550,7 @@
   ],
   "languages": {
     "Haskell": {
-      "bytes": 23163252,
+      "bytes": 23164119,
       "color": "#5e5086"
     },
     "C": {
@@ -557,11 +558,11 @@
       "color": "#555555"
     },
     "Makefile": {
-      "bytes": 602334,
+      "bytes": 602529,
       "color": "#427819"
     },
     "Terra": {
-      "bytes": 514654,
+      "bytes": 514746,
       "color": "#00004c"
     },
     "Logos": {
@@ -657,6 +658,5 @@
       "color": "#da291c"
     }
   },
-  "fetched_at": "2018-09-12T07:38:37.964Z",
-  "fetching_since": "2018-09-12T15:53:06.059Z"
+  "fetched_at": "2018-09-12T15:53:06.059Z"
 }

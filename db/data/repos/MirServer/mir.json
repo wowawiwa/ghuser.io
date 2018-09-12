@@ -90,7 +90,7 @@
     "afrantzis": 1026,
     "RAOF": 1800,
     "racarr-ubuntu": 2086,
-    "AlanGriffiths": 5485,
+    "AlanGriffiths": 5494,
     "kdub": 6134
   },
   "pulls_authors": [
@@ -109,7 +109,7 @@
   ],
   "languages": {
     "C++": {
-      "bytes": 8694064,
+      "bytes": 8701392,
       "color": "#f34b7d"
     },
     "C": {
@@ -117,7 +117,7 @@
       "color": "#555555"
     },
     "CMake": {
-      "bytes": 188309,
+      "bytes": 188355,
       "color": "#ccc"
     },
     "Python": {
@@ -145,6 +145,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-11T17:08:23.497Z",
-  "fetching_since": "2018-09-12T15:40:21.942Z"
+  "fetched_at": "2018-09-12T15:40:21.942Z"
 }

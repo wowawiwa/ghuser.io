@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:31:03.004Z",
   "name": "watchkit-app",
   "full_name": "ahmetabdi/watchkit-app",
   "owner": "ahmetabdi",
@@ -21,5 +20,16 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "ahmetabdi": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 3981,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:03.004Z"
 }

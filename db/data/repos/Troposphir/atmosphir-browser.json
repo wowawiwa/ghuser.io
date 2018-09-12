@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:49:25.979Z",
   "name": "atmosphir-browser",
   "full_name": "Troposphir/atmosphir-browser",
   "owner": "Troposphir",
@@ -47,5 +46,28 @@
     "received_events_url": "https://api.github.com/users/Troposphir/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "kroltan": 14
+  },
+  "pulls_authors": [],
+  "languages": {
+    "TypeScript": {
+      "bytes": 37025,
+      "color": "#2b7489"
+    },
+    "CSS": {
+      "bytes": 9708,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 6036,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 1763,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:25.979Z"
 }

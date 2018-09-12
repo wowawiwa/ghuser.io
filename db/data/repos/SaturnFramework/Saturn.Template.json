@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:35:38.557Z",
   "name": "Saturn.Template",
   "full_name": "SaturnFramework/Saturn.Template",
   "owner": "SaturnFramework",
@@ -47,5 +46,43 @@
     "received_events_url": "https://api.github.com/users/SaturnFramework/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "brase": 1,
+    "tmpreston": 1,
+    "theimowski": 2,
+    "rmunn": 2,
+    "Krzysztof-Cieslak": 30
+  },
+  "pulls_authors": [
+    "mvsmal",
+    "vivainio",
+    "theimowski",
+    "brase",
+    "rmunn",
+    "tmpreston"
+  ],
+  "languages": {
+    "F#": {
+      "bytes": 12826,
+      "color": "#b845fc"
+    },
+    "JavaScript": {
+      "bytes": 1456,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 1260,
+      "color": "#89e051"
+    },
+    "Batchfile": {
+      "bytes": 323,
+      "color": "#C1F12E"
+    },
+    "CSS": {
+      "bytes": 49,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T15:35:38.557Z"
 }

@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/snapcore/snapd/languages",
   "pulls_url": "https://api.github.com/repos/snapcore/snapd/pulls{/number}",
   "created_at": "2015-10-21T11:51:46Z",
-  "updated_at": "2018-09-12T07:06:09Z",
-  "pushed_at": "2018-09-12T07:14:25Z",
+  "updated_at": "2018-09-12T11:58:35Z",
+  "pushed_at": "2018-09-12T15:38:57Z",
   "homepage": "",
-  "size": 71927,
+  "size": 72094,
   "stargazers_count": 998,
   "language": "Go",
   "mirror_url": null,
@@ -352,5 +352,5 @@
       "color": "#007800"
     }
   },
-  "fetched_at": "2018-09-12T07:42:56.084Z"
+  "fetched_at": "2018-09-12T16:51:22.986Z"
 }

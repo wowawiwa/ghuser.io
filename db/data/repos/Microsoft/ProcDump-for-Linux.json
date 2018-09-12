@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:44:00.608Z",
   "name": "ProcDump-for-Linux",
   "full_name": "Microsoft/ProcDump-for-Linux",
   "owner": "Microsoft",
@@ -47,5 +46,47 @@
     "received_events_url": "https://api.github.com/users/Microsoft/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "jahabibi": 1,
+    "josalem": 1,
+    "msftgits": 1,
+    "microsoftopensource": 2
+  },
+  "pulls_authors": [
+    "jahabibi",
+    "Conan-Kudo",
+    "josalem",
+    "polyzen",
+    "svenvandescheur",
+    "sebastiaanfranken",
+    "Fake4d",
+    "aidanharris",
+    "vrdse",
+    "ckozler",
+    "Lupino",
+    "gmcabrita",
+    "marc-etienne",
+    "mikesart",
+    "dearchap"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 93879,
+      "color": "#555555"
+    },
+    "Shell": {
+      "bytes": 6121,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 1735,
+      "color": "#427819"
+    },
+    "Roff": {
+      "bytes": 959,
+      "color": "#ecdebe"
+    }
+  },
+  "fetched_at": "2018-09-12T15:44:00.608Z"
 }

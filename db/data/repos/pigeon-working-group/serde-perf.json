@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:55:07.141Z",
   "name": "serde-perf",
   "full_name": "pigeon-working-group/serde-perf",
   "owner": "pigeon-working-group",
@@ -47,5 +46,16 @@
     "received_events_url": "https://api.github.com/users/pigeon-working-group/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "PhilipTrauner": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Rust": {
+      "bytes": 4534,
+      "color": "#dea584"
+    }
+  },
+  "fetched_at": "2018-09-12T15:55:07.141Z"
 }

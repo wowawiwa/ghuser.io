@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:49:29.965Z",
   "name": "Task-solutions",
   "full_name": "kronos/Task-solutions",
   "owner": "kronos",
@@ -21,5 +20,32 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "kronos": 67
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 227789,
+      "color": "#f34b7d"
+    },
+    "Java": {
+      "bytes": 144626,
+      "color": "#b07219"
+    },
+    "Go": {
+      "bytes": 34360,
+      "color": "#375eab"
+    },
+    "Ruby": {
+      "bytes": 16128,
+      "color": "#701516"
+    },
+    "OCaml": {
+      "bytes": 4884,
+      "color": "#3be133"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:29.965Z"
 }

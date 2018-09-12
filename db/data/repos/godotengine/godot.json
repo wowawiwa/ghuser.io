@@ -56,7 +56,7 @@
     "StraToN": 33,
     "Max-Might": 37,
     "Ovnuniarchos": 35,
-    "AlexHolly": 42,
+    "AlexHolly": 43,
     "Calinou": 63,
     "kubecz3k": 46,
     "willnationsdev": 52,
@@ -81,16 +81,16 @@
     "YeldhamDev": 89,
     "punto-": 121,
     "BastiaanOlij": 97,
-    "groud": 148,
+    "groud": 149,
     "toger5": 101,
-    "hpvb": 170,
+    "hpvb": 171,
     "poke1024": 118,
     "marcelofg55": 144,
     "marynate": 118,
     "karroffel": 296,
     "bojidar-bg": 130,
     "eska014": 163,
-    "Faless": 173,
+    "Faless": 179,
     "Paulb23": 173,
     "djrm": 169,
     "vnen": 278,
@@ -99,7 +99,7 @@
     "Hinsbart": 303,
     "neikeq": 377,
     "volzhs": 303,
-    "akien-mga": 5049,
+    "akien-mga": 5057,
     "reduz": 2875,
     "cbscribe": 39,
     "Spooner": 16,
@@ -303,7 +303,7 @@
     "cooperra": 2,
     "rodolforg": 2,
     "rtroncoso": 2,
-    "RyanStein": 4,
+    "RyanStein": 5,
     "ficoos": 2,
     "pixelpicosean": 2,
     "QuentinCaffeino": 2,
@@ -410,7 +410,7 @@
     "TGRCdev": 3,
     "wcb88": 2,
     "Ertain": 3,
-    "goodyttoor": 2,
+    "goodyttoor": 3,
     "martindzejky": 6,
     "Overblob": 3,
     "Tunous": 2,
@@ -419,7 +419,7 @@
     "ttencate": 3,
     "oisincar": 2,
     "malbach": 2,
-    "DualMatrix": 10,
+    "DualMatrix": 11,
     "kripken": 1,
     "elasota": 14,
     "natrim": 2,
@@ -481,7 +481,7 @@
   },
   "languages": {
     "C++": {
-      "bytes": 21317971,
+      "bytes": 21334820,
       "color": "#f34b7d"
     },
     "Java": {
@@ -525,7 +525,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-12T04:58:13.211Z",
+  "fetched_at": "2018-09-12T15:36:38.577Z",
   "pulls_url": "https://api.github.com/repos/godotengine/godot/pulls{/number}",
   "pulls_authors": [
     "Calinou",
@@ -1437,6 +1437,5 @@
     "merumelu",
     "ZodmanPerth",
     "chaosdrop"
-  ],
-  "fetching_since": "2018-09-12T15:36:38.577Z"
+  ]
 }

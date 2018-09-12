@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:35:38.786Z",
   "name": "discourse-youtrack-plugin",
   "full_name": "rheinspree/discourse-youtrack-plugin",
   "owner": "rheinspree",
@@ -47,5 +46,24 @@
     "received_events_url": "https://api.github.com/users/rheinspree/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "brase": 9
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 4444,
+      "color": "#f1e05a"
+    },
+    "Ruby": {
+      "bytes": 3631,
+      "color": "#701516"
+    },
+    "CSS": {
+      "bytes": 737,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T15:35:38.786Z"
 }

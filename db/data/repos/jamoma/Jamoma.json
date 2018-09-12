@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:47:57.583Z",
   "name": "Jamoma",
   "full_name": "jamoma/Jamoma",
   "owner": "jamoma",
@@ -47,5 +46,43 @@
     "received_events_url": "https://api.github.com/users/jamoma/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "matcham": 1,
+    "tap": 2,
+    "caseybasichis": 3,
+    "jcelerier": 7,
+    "reno-": 12,
+    "jamomabuild": 12,
+    "hems": 26,
+    "avilleret": 28,
+    "nwolek": 32,
+    "bltzr": 45,
+    "jln-": 62,
+    "Nilson": 103
+  },
+  "pulls_authors": [],
+  "languages": {
+    "PostScript": {
+      "bytes": 97152,
+      "color": "#da291c"
+    },
+    "Shell": {
+      "bytes": 7748,
+      "color": "#89e051"
+    },
+    "TeX": {
+      "bytes": 5462,
+      "color": "#3D6117"
+    },
+    "CMake": {
+      "bytes": 3529,
+      "color": "#ccc"
+    },
+    "Ruby": {
+      "bytes": 1404,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:57.583Z"
 }

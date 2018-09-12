@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:47:56.159Z",
   "name": "cotire",
   "full_name": "sakra/cotire",
   "owner": "sakra",
@@ -27,5 +26,57 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "gcamp": 1,
+    "bilke": 1,
+    "kbinani": 1,
+    "misery": 1,
+    "jcelerier": 1,
+    "kode9": 1,
+    "ArnaudD-FR": 1,
+    "dpantele": 1,
+    "smspillaz": 1,
+    "gjasny": 1,
+    "sakra": 154
+  },
+  "pulls_authors": [
+    "valentinvanelslande",
+    "MaartenBent",
+    "Quincunx271",
+    "Naios",
+    "fkorsa",
+    "traceon",
+    "kazarmy",
+    "huelsenfruchtzwerg",
+    "chfast",
+    "jschueller",
+    "gcamp",
+    "bilke",
+    "nocnokneo",
+    "kbinani",
+    "elipsion",
+    "jakirkham",
+    "misery",
+    "jcelerier",
+    "kode9",
+    "alkino",
+    "peterhuene",
+    "ArnaudD-FR",
+    "nickhutchinson",
+    "dpantele",
+    "smspillaz",
+    "gjasny"
+  ],
+  "languages": {
+    "CMake": {
+      "bytes": 175809,
+      "color": "#ccc"
+    },
+    "C++": {
+      "bytes": 1100,
+      "color": "#f34b7d"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:56.159Z"
 }

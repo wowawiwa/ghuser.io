@@ -57,11 +57,11 @@
     "rogaha": 2,
     "cpuguy83": 2,
     "corbin-coleman": 4,
-    "dhiltgen": 8,
+    "dhiltgen": 9,
     "jose-bigio": 9,
     "thaJeztah": 22,
     "andrewhsu": 31,
-    "seemethere": 110
+    "seemethere": 115
   },
   "pulls_authors": [
     "jose-bigio",
@@ -93,7 +93,7 @@
   ],
   "languages": {
     "Makefile": {
-      "bytes": 18315,
+      "bytes": 18371,
       "color": "#427819"
     },
     "Dockerfile": {
@@ -101,10 +101,9 @@
       "color": "#0db7ed"
     },
     "Shell": {
-      "bytes": 9071,
+      "bytes": 8960,
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-11T20:50:19.935Z",
-  "fetching_since": "2018-09-12T15:50:52.134Z"
+  "fetched_at": "2018-09-12T15:50:52.134Z"
 }

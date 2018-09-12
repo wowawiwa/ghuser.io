@@ -145,7 +145,7 @@
     "acdlite": 445,
     "sebmarkbage": 645,
     "zpao": 1776,
-    "gaearon": 981,
+    "gaearon": 984,
     "sophiebits": 1233,
     "leebyron": 10,
     "puradox": 8,
@@ -512,11 +512,12 @@
     "mgol": 2,
     "gebilaoxiong": 2,
     "alexmckenley": 1,
-    "ali-master": 1
+    "ali-master": 1,
+    "link-alex": 1
   },
   "languages": {
     "JavaScript": {
-      "bytes": 2174886,
+      "bytes": 2177427,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -540,7 +541,7 @@
       "color": "#563d7c"
     },
     "Shell": {
-      "bytes": 5733,
+      "bytes": 5860,
       "color": "#89e051"
     },
     "C": {
@@ -556,7 +557,7 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-12T04:58:01.001Z",
+  "fetched_at": "2018-09-12T15:35:46.723Z",
   "pulls_url": "https://api.github.com/repos/facebook/react/pulls{/number}",
   "pulls_authors": [
     "gaearon",
@@ -2625,6 +2626,5 @@
     "poeschko",
     "link-alex",
     "lyhper"
-  ],
-  "fetching_since": "2018-09-12T15:35:46.723Z"
+  ]
 }

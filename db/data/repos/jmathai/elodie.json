@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:49:24.262Z",
   "name": "elodie",
   "full_name": "jmathai/elodie",
   "owner": "jmathai",
@@ -27,5 +26,82 @@
     "url": "https://api.github.com/licenses/apache-2.0",
     "node_id": "MDc6TGljZW5zZTI="
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "QasimK": 1,
+    "mattca": 1,
+    "rkoster": 1,
+    "petertiedemann": 1,
+    "adamcandy": 1,
+    "adamantike": 1,
+    "edent": 1,
+    "Ramblurr": 1,
+    "davisonio": 1,
+    "arikfr": 1,
+    "zingo": 1,
+    "ibizaman": 1,
+    "patricksan": 1,
+    "ostavnaas": 2,
+    "misterpipine": 2,
+    "srynot4sale": 2,
+    "phifogg": 5,
+    "Kraymer": 9,
+    "zserg": 15,
+    "noonat": 16,
+    "jmathai": 194
+  },
+  "pulls_authors": [
+    "QasimK",
+    "hackacad",
+    "jmathai",
+    "mattca",
+    "rkoster",
+    "petertiedemann",
+    "ojacques",
+    "adamcandy",
+    "ostavnaas",
+    "adamantike",
+    "danwhite85",
+    "bdillahu",
+    "phifogg",
+    "misterpipine",
+    "edent",
+    "zserg",
+    "Ramblurr",
+    "davisonio",
+    "srynot4sale",
+    "noonat",
+    "arikfr",
+    "Kraymer",
+    "zingo",
+    "ibizaman",
+    "patricksan"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 205371,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 17406,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 12517,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 8996,
+      "color": "#e34c26"
+    },
+    "Dockerfile": {
+      "bytes": 1231,
+      "color": "#0db7ed"
+    },
+    "Shell": {
+      "bytes": 89,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:24.262Z"
 }

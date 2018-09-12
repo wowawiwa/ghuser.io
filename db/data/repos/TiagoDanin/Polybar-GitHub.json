@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/TiagoDanin/Polybar-GitHub/languages",
   "pulls_url": "https://api.github.com/repos/TiagoDanin/Polybar-GitHub/pulls{/number}",
   "created_at": "2018-05-02T19:23:44Z",
-  "updated_at": "2018-09-09T15:00:29Z",
-  "pushed_at": "2018-09-09T15:00:31Z",
+  "updated_at": "2018-09-12T11:14:32Z",
+  "pushed_at": "2018-09-12T11:14:35Z",
   "homepage": null,
-  "size": 121,
+  "size": 146,
   "stargazers_count": 1,
   "language": "JavaScript",
   "mirror_url": null,
@@ -29,7 +29,7 @@
   "default_branch": "master",
   "contributors": {
     "TiagoDanin": 8,
-    "renovate-bot": 15,
+    "renovate-bot": 16,
     "snyk-bot": 1
   },
   "pulls_authors": [
@@ -42,5 +42,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-09T18:05:47.901Z"
+  "fetched_at": "2018-09-12T16:52:35.288Z"
 }

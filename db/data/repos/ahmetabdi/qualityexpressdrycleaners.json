@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:30:59.224Z",
   "name": "qualityexpressdrycleaners",
   "full_name": "ahmetabdi/qualityexpressdrycleaners",
   "owner": "ahmetabdi",
@@ -21,5 +20,28 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "ahmetabdi": 12
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 208272,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 70966,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 22958,
+      "color": "#f1e05a"
+    },
+    "Ruby": {
+      "bytes": 18086,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T15:30:59.224Z"
 }

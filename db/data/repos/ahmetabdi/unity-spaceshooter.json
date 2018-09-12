@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:31:02.219Z",
   "name": "unity-spaceshooter",
   "full_name": "ahmetabdi/unity-spaceshooter",
   "owner": "ahmetabdi",
@@ -21,5 +20,16 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "ahmetabdi": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C#": {
+      "bytes": 6934,
+      "color": "#178600"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:02.219Z"
 }

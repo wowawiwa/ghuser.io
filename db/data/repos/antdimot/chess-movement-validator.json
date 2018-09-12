@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:34:16.694Z",
   "name": "chess-movement-validator",
   "full_name": "antdimot/chess-movement-validator",
   "owner": "antdimot",
@@ -21,5 +20,16 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "antdimot": 22
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C#": {
+      "bytes": 30955,
+      "color": "#178600"
+    }
+  },
+  "fetched_at": "2018-09-12T15:34:16.694Z"
 }

@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:30:55.097Z",
   "name": "anagram_finder",
   "full_name": "ahmetabdi/anagram_finder",
   "owner": "ahmetabdi",
@@ -21,5 +20,31 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "gitter-badger": 1,
+    "ahmetabdi": 4
+  },
+  "pulls_authors": [
+    "gitter-badger"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 24670,
+      "color": "#701516"
+    },
+    "HTML": {
+      "bytes": 3129,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 641,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 639,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T15:30:55.097Z"
 }

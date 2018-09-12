@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:55:15.224Z",
   "name": "GPIB-USBTMC-Serial-Connector",
   "full_name": "PythonLabInstControl/GPIB-USBTMC-Serial-Connector",
   "owner": "PythonLabInstControl",
@@ -41,5 +40,28 @@
     "received_events_url": "https://api.github.com/users/PythonLabInstControl/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "elektronomikon": 8,
+    "HoWilgh": 8,
+    "PhilipTrauner": 106
+  },
+  "pulls_authors": [
+    "elektronomikon"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 130550,
+      "color": "#3572A5"
+    },
+    "C": {
+      "bytes": 750,
+      "color": "#555555"
+    },
+    "Shell": {
+      "bytes": 407,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T15:55:15.224Z"
 }

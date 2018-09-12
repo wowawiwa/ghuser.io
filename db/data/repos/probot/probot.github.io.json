@@ -84,7 +84,7 @@
     "z0al": 15,
     "koddsson": 16,
     "JasonEtco": 28,
-    "hiimbex": 57,
+    "hiimbex": 58,
     "bkeepers": 545,
     "SvanBoxel": 5,
     "zeke": 3,
@@ -121,7 +121,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-11T22:31:09.853Z",
+  "fetched_at": "2018-09-12T15:45:56.040Z",
   "pulls_url": "https://api.github.com/repos/probot/probot.github.io/pulls{/number}",
   "pulls_authors": [
     "abhijeetps",
@@ -182,7 +182,7 @@
     "KengoTODA",
     "Chan4077",
     "jnewland",
-    "bobvanderlinden"
-  ],
-  "fetching_since": "2018-09-12T15:45:56.040Z"
+    "bobvanderlinden",
+    "akosyakov"
+  ]
 }

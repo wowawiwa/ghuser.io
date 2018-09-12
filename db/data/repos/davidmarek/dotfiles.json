@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:41:15.349Z",
   "name": "dotfiles",
   "full_name": "davidmarek/dotfiles",
   "owner": "davidmarek",
@@ -21,5 +20,22 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "clee": 1,
+    "paulirish": 1,
+    "kitcambridge": 1,
+    "danawoodman": 1,
+    "jrk": 1,
+    "iloveitaly": 1,
+    "gburtini": 1,
+    "yaykyle": 1,
+    "jpsirois": 1,
+    "pkruithof": 2,
+    "matijs": 3,
+    "mathiasbynens": 142
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T15:41:15.349Z"
 }

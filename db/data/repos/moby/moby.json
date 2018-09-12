@@ -48,7 +48,7 @@
   },
   "languages": {
     "Go": {
-      "bytes": 7290785,
+      "bytes": 7290229,
       "color": "#375eab"
     },
     "Shell": {
@@ -97,7 +97,7 @@
     "chris-crone": 26,
     "charleswhchan": 26,
     "shishir-a412ed": 28,
-    "adshmh": 32,
+    "adshmh": 33,
     "ewindisch": 31,
     "titanous": 29,
     "jpoimboe": 29,
@@ -141,7 +141,7 @@
     "jamtur01": 438,
     "rhvgoyal": 95,
     "ahmetb": 98,
-    "AkihiroSuda": 208,
+    "AkihiroSuda": 209,
     "kolyshkin": 133,
     "anusha-ragunathan": 169,
     "darstahl": 101,
@@ -541,7 +541,7 @@
     "RenaudWasTaken": 5,
     "boaz1337": 35
   },
-  "fetched_at": "2018-09-12T05:00:55.586Z",
+  "fetched_at": "2018-09-12T15:41:43.585Z",
   "pulls_url": "https://api.github.com/repos/moby/moby/pulls{/number}",
   "pulls_authors": [
     "dperny",
@@ -3295,6 +3295,5 @@
     "Lihua93",
     "nashasha1",
     "Vereas"
-  ],
-  "fetching_since": "2018-09-12T15:41:43.585Z"
+  ]
 }

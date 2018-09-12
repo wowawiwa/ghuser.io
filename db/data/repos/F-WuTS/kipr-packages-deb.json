@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:55:07.040Z",
   "name": "kipr-packages-deb",
   "full_name": "F-WuTS/kipr-packages-deb",
   "owner": "F-WuTS",
@@ -41,5 +40,17 @@
     "received_events_url": "https://api.github.com/users/F-WuTS/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "christoph-heiss": 1,
+    "PhilipTrauner": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Shell": {
+      "bytes": 2295,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T15:55:07.040Z"
 }

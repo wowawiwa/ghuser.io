@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:30:58.731Z",
   "name": "sublime-text-3",
   "full_name": "ahmetabdi/sublime-text-3",
   "owner": "ahmetabdi",
@@ -21,5 +20,40 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "ahmetabdi": 21
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 20966128,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 547930,
+      "color": "#f1e05a"
+    },
+    "Tcl": {
+      "bytes": 88877,
+      "color": "#e4cc98"
+    },
+    "Elixir": {
+      "bytes": 6028,
+      "color": "#6e4a7e"
+    },
+    "Shell": {
+      "bytes": 2262,
+      "color": "#89e051"
+    },
+    "PowerShell": {
+      "bytes": 978,
+      "color": "#012456"
+    },
+    "Batchfile": {
+      "bytes": 752,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-12T15:30:58.731Z"
 }

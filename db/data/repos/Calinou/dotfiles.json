@@ -1,7 +1,7 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
   "contributors": {
-    "Calinou": 49
+    "Calinou": 51
   },
   "name": "dotfiles",
   "full_name": "Calinou/dotfiles",
@@ -31,7 +31,7 @@
   "default_branch": "master",
   "languages": {
     "Shell": {
-      "bytes": 5791,
+      "bytes": 6471,
       "color": "#89e051"
     },
     "Vim script": {
@@ -39,8 +39,7 @@
       "color": "#199f4b"
     }
   },
-  "fetched_at": "2018-09-11T20:44:55.242Z",
+  "fetched_at": "2018-09-12T15:36:37.123Z",
   "pulls_url": "https://api.github.com/repos/Calinou/dotfiles/pulls{/number}",
-  "pulls_authors": [],
-  "fetching_since": "2018-09-12T15:36:37.123Z"
+  "pulls_authors": []
 }

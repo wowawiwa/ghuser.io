@@ -83,8 +83,8 @@
     "evdb": 366,
     "davewhiteland": 443,
     "davea": 465,
-    "struan": 1341,
-    "dracos": 2948
+    "struan": 1348,
+    "dracos": 2953
   },
   "pulls_authors": [
     "dracos",
@@ -135,7 +135,7 @@
   ],
   "languages": {
     "Perl": {
-      "bytes": 2305384,
+      "bytes": 2305828,
       "color": "#0298c3"
     },
     "HTML": {
@@ -147,7 +147,7 @@
       "color": "#563d7c"
     },
     "JavaScript": {
-      "bytes": 282578,
+      "bytes": 283280,
       "color": "#f1e05a"
     },
     "Perl 6": {
@@ -171,6 +171,5 @@
       "color": "#74283c"
     }
   },
-  "fetched_at": "2018-09-12T04:59:47.448Z",
-  "fetching_since": "2018-09-12T15:39:48.605Z"
+  "fetched_at": "2018-09-12T15:39:48.605Z"
 }

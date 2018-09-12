@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:47:42.605Z",
   "name": "RtMidi17",
   "full_name": "jcelerier/RtMidi17",
   "owner": "jcelerier",
@@ -27,5 +26,20 @@
     "url": "https://api.github.com/licenses/bsd-2-clause",
     "node_id": "MDc6TGljZW5zZTQ="
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "jcelerier": 44
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 179817,
+      "color": "#f34b7d"
+    },
+    "CMake": {
+      "bytes": 4671,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:42.605Z"
 }

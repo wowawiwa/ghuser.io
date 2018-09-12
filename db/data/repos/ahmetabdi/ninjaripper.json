@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:31:12.630Z",
   "name": "ninjaripper",
   "full_name": "ahmetabdi/ninjaripper",
   "owner": "ahmetabdi",
@@ -21,5 +20,32 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "blackninja2": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C": {
+      "bytes": 10451732,
+      "color": "#555555"
+    },
+    "C++": {
+      "bytes": 7020737,
+      "color": "#f34b7d"
+    },
+    "Objective-C": {
+      "bytes": 36518,
+      "color": "#438eff"
+    },
+    "Groff": {
+      "bytes": 18898,
+      "color": "#ccc"
+    },
+    "Logos": {
+      "bytes": 4044,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:12.630Z"
 }

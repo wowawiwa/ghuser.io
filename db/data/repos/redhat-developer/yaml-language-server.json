@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:48:29.728Z",
   "name": "yaml-language-server",
   "full_name": "redhat-developer/yaml-language-server",
   "owner": "redhat-developer",
@@ -47,5 +46,31 @@
     "received_events_url": "https://api.github.com/users/redhat-developer/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "iquiw": 1,
+    "containscafeine": 1,
+    "mickaelistria": 1,
+    "apupier": 3,
+    "rcjsuen": 4,
+    "928PJY": 5,
+    "andxu": 9,
+    "gorkem": 19,
+    "JPinkney": 279
+  },
+  "pulls_authors": [
+    "928PJY",
+    "andxu",
+    "iquiw",
+    "rcjsuen",
+    "JPinkney",
+    "containscafeine"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 235262,
+      "color": "#2b7489"
+    }
+  },
+  "fetched_at": "2018-09-12T15:48:29.728Z"
 }

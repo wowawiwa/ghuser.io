@@ -43,10 +43,11 @@
     "sw-yx": 30,
     "NullVoxPopuli": 1,
     "lazarljubenovic": 1,
-    "orta": 1
+    "orta": 1,
+    "mjkramer": 1
   },
   "languages": {},
-  "fetched_at": "2018-09-12T07:31:44.842Z",
+  "fetched_at": "2018-09-12T15:34:42.873Z",
   "pulls_url": "https://api.github.com/repos/sw-yx/react-typescript-cheatsheet/pulls{/number}",
   "pulls_authors": [
     "orta",
@@ -67,6 +68,5 @@
     "jasanst",
     "tsiq-swyx",
     "mjkramer"
-  ],
-  "fetching_since": "2018-09-12T15:34:42.873Z"
+  ]
 }

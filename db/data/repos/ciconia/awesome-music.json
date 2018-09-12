@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:47:52.395Z",
   "name": "awesome-music",
   "full_name": "ciconia/awesome-music",
   "owner": "ciconia",
@@ -21,5 +20,34 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "jnetterf": 1,
+    "httpNick": 1,
+    "jcelerier": 1,
+    "davidstephengrant": 1,
+    "troglotit": 1,
+    "MichalPaszkiewicz": 1,
+    "EdenSG": 1,
+    "alejandro-isaza": 2,
+    "chenlianMT": 3,
+    "snappizz": 4,
+    "ciconia": 30
+  },
+  "pulls_authors": [
+    "nafanz",
+    "jnetterf",
+    "httpNick",
+    "StefLinde",
+    "jcelerier",
+    "davidstephengrant",
+    "snappizz",
+    "alejandro-isaza",
+    "chenlianMT",
+    "troglotit",
+    "MichalPaszkiewicz",
+    "EdenSG"
+  ],
+  "languages": {},
+  "fetched_at": "2018-09-12T15:47:52.395Z"
 }

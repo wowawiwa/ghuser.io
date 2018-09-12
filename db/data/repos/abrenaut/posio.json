@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:30:40.677Z",
   "name": "posio",
   "full_name": "abrenaut/posio",
   "owner": "abrenaut",
@@ -27,5 +26,35 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "liviu-": 1,
+    "SlashmanX": 1,
+    "rbutler-us": 3,
+    "abrenaut": 25
+  },
+  "pulls_authors": [
+    "liviu-",
+    "rbutler-us",
+    "SlashmanX"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 19094,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 10017,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 3486,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 2560,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T15:30:40.677Z"
 }

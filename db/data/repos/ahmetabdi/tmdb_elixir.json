@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:31:01.495Z",
   "name": "tmdb_elixir",
   "full_name": "ahmetabdi/tmdb_elixir",
   "owner": "ahmetabdi",
@@ -21,5 +20,16 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "ahmetabdi": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Elixir": {
+      "bytes": 3387,
+      "color": "#6e4a7e"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:01.495Z"
 }

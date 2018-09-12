@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:31:37.033Z",
   "name": "PimcoreBulkpump",
   "full_name": "YouweGit/PimcoreBulkpump",
   "owner": "YouweGit",
@@ -41,5 +40,28 @@
     "received_events_url": "https://api.github.com/users/YouweGit/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "jorisros": 79
+  },
+  "pulls_authors": [
+    "jorisros",
+    "manea-eugen",
+    "alexraileanu"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 142891,
+      "color": "#4F5D95"
+    },
+    "JavaScript": {
+      "bytes": 104027,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 303,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:37.033Z"
 }

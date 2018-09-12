@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:47:53.670Z",
   "name": "ofxMSAPhysics",
   "full_name": "memo/ofxMSAPhysics",
   "owner": "memo",
@@ -27,5 +26,31 @@
     "url": null,
     "node_id": "MDc6TGljZW5zZTA="
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "jcelerier": 1,
+    "memo": 17
+  },
+  "pulls_authors": [
+    "jcelerier"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 76642,
+      "color": "#f34b7d"
+    },
+    "QML": {
+      "bytes": 1808,
+      "color": "#44a51c"
+    },
+    "C": {
+      "bytes": 630,
+      "color": "#555555"
+    },
+    "Objective-C": {
+      "bytes": 97,
+      "color": "#438eff"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:53.670Z"
 }

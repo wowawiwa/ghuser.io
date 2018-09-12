@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:49:28.701Z",
   "name": "metroidvania",
   "full_name": "OneMoreDev/metroidvania",
   "owner": "OneMoreDev",
@@ -41,5 +40,18 @@
     "received_events_url": "https://api.github.com/users/OneMoreDev/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "gtarmetro": 1,
+    "pedroslopez": 1,
+    "kroltan": 12
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C#": {
+      "bytes": 288669,
+      "color": "#178600"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:28.701Z"
 }

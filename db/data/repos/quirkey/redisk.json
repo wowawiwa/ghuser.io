@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:49:32.005Z",
   "name": "redisk",
   "full_name": "quirkey/redisk",
   "owner": "quirkey",
@@ -27,5 +26,19 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "kronos": 1,
+    "quirkey": 40
+  },
+  "pulls_authors": [
+    "willglynn"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 68823,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:32.005Z"
 }

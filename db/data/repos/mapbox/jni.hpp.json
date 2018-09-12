@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:47:52.181Z",
   "name": "jni.hpp",
   "full_name": "mapbox/jni.hpp",
   "owner": "mapbox",
@@ -47,5 +46,44 @@
     "received_events_url": "https://api.github.com/users/mapbox/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "manaswinidas": 1,
+    "spinorx": 1,
+    "ivovandongen": 1,
+    "xezon": 2,
+    "daedric": 2,
+    "jcelerier": 2,
+    "kkaefer": 8,
+    "jfirebaugh": 68
+  },
+  "pulls_authors": [
+    "jfirebaugh",
+    "manaswinidas",
+    "kkaefer",
+    "spinorx",
+    "xezon",
+    "daedric",
+    "ivovandongen",
+    "jcelerier"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 291816,
+      "color": "#f34b7d"
+    },
+    "Makefile": {
+      "bytes": 2494,
+      "color": "#427819"
+    },
+    "C": {
+      "bytes": 1575,
+      "color": "#555555"
+    },
+    "Shell": {
+      "bytes": 144,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:52.181Z"
 }

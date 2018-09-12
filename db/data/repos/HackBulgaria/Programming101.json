@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:42:52.207Z",
   "name": "Programming101",
   "full_name": "HackBulgaria/Programming101",
   "owner": "HackBulgaria",
@@ -41,5 +40,32 @@
     "received_events_url": "https://api.github.com/users/HackBulgaria/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "EmanuelaMollova": 1,
+    "tdhris": 1,
+    "stormbreakerbg": 1,
+    "EmilianStankov": 2,
+    "tblazhev": 3,
+    "syndbg": 5,
+    "Ivaylo-Bachvarov": 9,
+    "RadoRado": 97
+  },
+  "pulls_authors": [
+    "EmanuelaMollova",
+    "RadoRado",
+    "tblazhev",
+    "syndbg",
+    "tdhris",
+    "leohaskell",
+    "EmilianStankov",
+    "georgyangelov"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 5212,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T15:42:52.207Z"
 }

@@ -116,7 +116,7 @@
     "ChristopherBiscardi": 9,
     "resir014": 15,
     "szimek": 12,
-    "DSchau": 20,
+    "DSchau": 23,
     "kripod": 12,
     "dennari": 12,
     "daydream05": 12,
@@ -142,9 +142,9 @@
     "sebastienfi": 50,
     "calcsam": 94,
     "ryanditjia": 59,
-    "jquense": 119,
+    "jquense": 120,
     "fk": 194,
-    "pieh": 413,
+    "pieh": 417,
     "shannonbux": 164,
     "m-allanson": 748,
     "KyleAMathews": 4561,
@@ -1156,7 +1156,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 1573225,
+      "bytes": 1573702,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -1176,7 +1176,7 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-12T04:57:28.582Z",
+  "fetched_at": "2018-09-12T15:34:41.164Z",
   "pulls_url": "https://api.github.com/repos/gatsbyjs/gatsby/pulls{/number}",
   "pulls_authors": [
     "shannonbux",
@@ -2418,7 +2418,7 @@
     "busstram",
     "JohnONolan",
     "amit-deligence",
-    "vadimshvetsov"
-  ],
-  "fetching_since": "2018-09-12T15:34:41.164Z"
+    "vadimshvetsov",
+    "joltmode"
+  ]
 }

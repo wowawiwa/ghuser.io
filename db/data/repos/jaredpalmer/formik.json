@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/jaredpalmer/formik/languages",
   "pulls_url": "https://api.github.com/repos/jaredpalmer/formik/pulls{/number}",
   "created_at": "2017-06-14T19:50:59Z",
-  "updated_at": "2018-09-12T03:13:52Z",
-  "pushed_at": "2018-09-12T02:40:04Z",
+  "updated_at": "2018-09-12T16:37:29Z",
+  "pushed_at": "2018-09-12T15:37:02Z",
   "homepage": "https://jaredpalmer.com/formik",
   "size": 2256,
-  "stargazers_count": 9267,
+  "stargazers_count": 9278,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -314,7 +314,8 @@
     "jdreesen",
     "gs-akhan",
     "stephensauceda",
-    "quentin-sommer"
+    "quentin-sommer",
+    "ematipico"
   ],
   "languages": {
     "TypeScript": {
@@ -330,5 +331,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-12T07:42:23.504Z"
+  "fetched_at": "2018-09-12T16:50:29.922Z"
 }

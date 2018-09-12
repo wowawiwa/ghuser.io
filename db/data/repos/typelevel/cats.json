@@ -141,12 +141,12 @@
     "LukaJCB": 49,
     "erik-stripe": 65,
     "peterneyens": 78,
-    "travisbrown": 93,
-    "stew": 196,
+    "travisbrown": 94,
+    "stew": 197,
     "fthomas": 185,
     "adelbertc": 324,
     "non": 464,
-    "kailuowang": 279,
+    "kailuowang": 280,
     "ceedubs": 619,
     "asakaev": 2,
     "afiore": 2,
@@ -173,7 +173,7 @@
     "olafurpg": 2,
     "BenFradet": 2,
     "hrhino": 2,
-    "satansk": 2,
+    "satansk": 3,
     "n4to4": 2,
     "3rdLaw": 1,
     "alonsodomin": 1,
@@ -284,7 +284,7 @@
     "tek": 1,
     "valydia": 1,
     "V-Lamp": 1,
-    "vlovgr": 1,
+    "vlovgr": 2,
     "Leammas": 1,
     "Wogan": 1,
     "Zhen-hao": 1,
@@ -300,7 +300,10 @@
     "nigredo-tori": 1,
     "phderome": 1,
     "zaneli": 1,
-    "Atry": 1
+    "Atry": 1,
+    "zarthross": 1,
+    "mberndt123": 1,
+    "YuvalItzchakov": 1
   },
   "pulls_authors": [
     "kailuowang",
@@ -599,7 +602,7 @@
   ],
   "languages": {
     "Scala": {
-      "bytes": 1594874,
+      "bytes": 1598918,
       "color": "#c22d40"
     },
     "Shell": {
@@ -607,6 +610,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T04:56:25.372Z",
-  "fetching_since": "2018-09-12T15:32:25.726Z"
+  "fetched_at": "2018-09-12T15:32:25.726Z"
 }

@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:47:58.026Z",
   "name": "qt-android-cmake",
   "full_name": "LaurentGomila/qt-android-cmake",
   "owner": "LaurentGomila",
@@ -27,5 +26,29 @@
     "url": null,
     "node_id": "MDc6TGljZW5zZTA="
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "dirkhh": 1,
+    "Kakadu": 1,
+    "LaurentGomila": 1,
+    "jcelerier": 1,
+    "LaurentGomilaPlexant": 6
+  },
+  "pulls_authors": [
+    "dirkhh",
+    "Kakadu",
+    "bergstr11",
+    "notmart",
+    "klaussnd",
+    "Earthwings",
+    "Garrappachc",
+    "jcelerier"
+  ],
+  "languages": {
+    "CMake": {
+      "bytes": 89447,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:58.026Z"
 }

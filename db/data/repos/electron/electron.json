@@ -127,14 +127,14 @@
     "juturu": 56,
     "poiru": 77,
     "seanchas116": 72,
-    "miniak": 93,
+    "miniak": 94,
     "alespergl": 73,
     "CharlieHess": 81,
     "tarruda": 74,
     "tinydew4": 92,
     "gerhardberger": 95,
-    "jkleinsc": 254,
-    "nornagon": 164,
+    "jkleinsc": 256,
+    "nornagon": 165,
     "ckerr": 223,
     "brenca": 187,
     "paulcbetts": 245,
@@ -142,11 +142,11 @@
     "aroben": 280,
     "hokein": 267,
     "preco21": 347,
-    "alexeykuzmin": 350,
+    "alexeykuzmin": 351,
     "codebytere": 421,
     "MarshallOfSound": 443,
     "zeke": 593,
-    "deepak1556": 712,
+    "deepak1556": 713,
     "kevinsawicki": 2998,
     "zcbenz": 8230,
     "maxogden": 167,
@@ -1446,7 +1446,7 @@
   ],
   "languages": {
     "C++": {
-      "bytes": 2881638,
+      "bytes": 2846898,
       "color": "#f34b7d"
     },
     "JavaScript": {
@@ -1462,7 +1462,7 @@
       "color": "#3572A5"
     },
     "Objective-C": {
-      "bytes": 60470,
+      "bytes": 60476,
       "color": "#438eff"
     },
     "HTML": {
@@ -1486,6 +1486,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-12T07:36:18.563Z",
-  "fetching_since": "2018-09-12T15:49:58.989Z"
+  "fetched_at": "2018-09-12T15:49:58.989Z"
 }

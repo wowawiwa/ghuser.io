@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:47:44.994Z",
   "name": "flat",
   "full_name": "pubby/flat",
   "owner": "pubby",
@@ -27,5 +26,19 @@
     "url": "https://api.github.com/licenses/bsl-1.0",
     "node_id": "MDc6TGljZW5zZTI4"
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "jcelerier": 4,
+    "pubby": 9
+  },
+  "pulls_authors": [
+    "jcelerier"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 35620,
+      "color": "#f34b7d"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:44.994Z"
 }

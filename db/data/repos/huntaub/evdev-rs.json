@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:44:43.668Z",
   "name": "evdev-rs",
   "full_name": "huntaub/evdev-rs",
   "owner": "huntaub",
@@ -21,5 +20,18 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "huntaub": 2,
+    "whot": 12,
+    "ndesh26": 78
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Rust": {
+      "bytes": 113345,
+      "color": "#dea584"
+    }
+  },
+  "fetched_at": "2018-09-12T15:44:43.668Z"
 }

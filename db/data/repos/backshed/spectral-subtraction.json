@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:48:00.111Z",
   "name": "spectral-subtraction",
   "full_name": "backshed/spectral-subtraction",
   "owner": "backshed",
@@ -47,5 +46,40 @@
     "received_events_url": "https://api.github.com/users/backshed/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "jcelerier": 82
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 141618,
+      "color": "#f34b7d"
+    },
+    "Python": {
+      "bytes": 20562,
+      "color": "#3572A5"
+    },
+    "C#": {
+      "bytes": 15879,
+      "color": "#178600"
+    },
+    "C": {
+      "bytes": 11856,
+      "color": "#555555"
+    },
+    "Prolog": {
+      "bytes": 6595,
+      "color": "#74283c"
+    },
+    "Shell": {
+      "bytes": 252,
+      "color": "#89e051"
+    },
+    "Objective-C": {
+      "bytes": 188,
+      "color": "#438eff"
+    }
+  },
+  "fetched_at": "2018-09-12T15:48:00.111Z"
 }

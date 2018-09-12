@@ -117,7 +117,7 @@
     "serynth": 130,
     "aoeui": 131,
     "ahumesky": 134,
-    "iirina": 139,
+    "iirina": 140,
     "vladmos": 138,
     "davidzchen": 141,
     "buchgr": 173,
@@ -127,7 +127,7 @@
     "cvcal": 187,
     "michajlo": 212,
     "cgrushko": 216,
-    "brandjon": 239,
+    "brandjon": 240,
     "tomlu": 264,
     "katre": 285,
     "gregestren": 301,
@@ -142,13 +142,13 @@
     "kchodorow": 473,
     "laurentlb": 539,
     "aehlig": 543,
-    "cushon": 618,
+    "cushon": 620,
     "laszlocsomor": 637,
     "janakdr": 722,
     "damienmg": 779,
     "ulfjack": 816,
     "lberki": 903,
-    "a-googler": 2057,
+    "a-googler": 2058,
     "AustinSchuh": 6,
     "brian-peloton": 6,
     "tetromino": 6,
@@ -794,15 +794,15 @@
   ],
   "languages": {
     "Java": {
-      "bytes": 31403926,
+      "bytes": 31411727,
       "color": "#b07219"
     },
     "Python": {
-      "bytes": 1521983,
+      "bytes": 1523240,
       "color": "#3572A5"
     },
     "Shell": {
-      "bytes": 1335632,
+      "bytes": 1335658,
       "color": "#89e051"
     },
     "C++": {
@@ -846,6 +846,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-12T07:39:57.524Z",
-  "fetching_since": "2018-09-12T15:55:28.691Z"
+  "fetched_at": "2018-09-12T15:55:28.691Z"
 }

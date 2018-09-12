@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:49:21.703Z",
   "name": "F-dotfiles",
   "full_name": "Kraymer/F-dotfiles",
   "owner": "Kraymer",
@@ -21,5 +20,22 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "Kraymer": 289
+  },
+  "pulls_authors": [
+    "alanyee"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 8182,
+      "color": "#89e051"
+    },
+    "Ruby": {
+      "bytes": 413,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:21.703Z"
 }

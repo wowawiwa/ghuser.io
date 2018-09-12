@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:41:12.720Z",
   "name": "vim-config",
   "full_name": "davidmarek/vim-config",
   "owner": "davidmarek",
@@ -21,5 +20,16 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "davidmarek": 7
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Vim script": {
+      "bytes": 2456,
+      "color": "#199f4b"
+    }
+  },
+  "fetched_at": "2018-09-12T15:41:12.720Z"
 }

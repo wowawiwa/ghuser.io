@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:31:00.019Z",
   "name": "swtor-caster",
   "full_name": "pjmagee/swtor-caster",
   "owner": "pjmagee",
@@ -27,5 +26,23 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "swtorpotato": 1,
+    "ahmetabdi": 1,
+    "atesca09": 2,
+    "pjmagee": 86
+  },
+  "pulls_authors": [
+    "atesca09",
+    "swtorpotato",
+    "ahmetabdi"
+  ],
+  "languages": {
+    "C#": {
+      "bytes": 172642,
+      "color": "#178600"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:00.019Z"
 }

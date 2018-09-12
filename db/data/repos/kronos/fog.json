@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:49:32.328Z",
   "name": "fog",
   "full_name": "kronos/fog",
   "owner": "kronos",
@@ -21,5 +20,29 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "drnic": 1,
+    "benburkert": 1,
+    "rizwanreza": 1,
+    "technicalpickles": 1,
+    "jcrosby": 1,
+    "kronos": 2,
+    "marios": 2,
+    "martinemde": 3,
+    "calavera": 3,
+    "sr": 3,
+    "halorgium": 3,
+    "smerritt": 3,
+    "demonbane": 9,
+    "geemus": 273
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 819757,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:32.328Z"
 }

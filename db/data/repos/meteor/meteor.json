@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/meteor/meteor/languages",
   "pulls_url": "https://api.github.com/repos/meteor/meteor/pulls{/number}",
   "created_at": "2012-01-19T01:58:17Z",
-  "updated_at": "2018-09-12T06:18:38Z",
-  "pushed_at": "2018-09-11T18:39:24Z",
+  "updated_at": "2018-09-12T15:55:48Z",
+  "pushed_at": "2018-09-12T16:37:10Z",
   "homepage": "https://www.meteor.com",
-  "size": 76661,
-  "stargazers_count": 40250,
+  "size": 76801,
+  "stargazers_count": 40251,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -63,7 +63,7 @@
     "arbesfeld": 223,
     "hwillson": 166,
     "awwx": 131,
-    "debergalis": 130,
+    "debergalis": 89,
     "mitar": 97,
     "zol": 62,
     "laosb": 60,
@@ -438,7 +438,8 @@
     "krazyeom": 1,
     "tcastelli": 1,
     "vix3": 1,
-    "zebra-lucky": 1
+    "zebra-lucky": 1,
+    "mrauhu": 1
   },
   "pulls_authors": [
     "sebakerckhof",
@@ -1172,7 +1173,7 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 7238512,
+      "bytes": 7238510,
       "color": "#f1e05a"
     },
     "Shell": {
@@ -1208,5 +1209,5 @@
       "color": "#b07219"
     }
   },
-  "fetched_at": "2018-09-12T07:45:03.590Z"
+  "fetched_at": "2018-09-12T16:54:57.374Z"
 }

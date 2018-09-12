@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:30:57.100Z",
   "name": "igdb",
   "full_name": "ahmetabdi/igdb",
   "owner": "ahmetabdi",
@@ -27,5 +26,27 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "naveed-ahmad": 5,
+    "ahmetabdi": 35
+  },
+  "pulls_authors": [
+    "Fortich",
+    "kalynrobinson",
+    "tastycake",
+    "ahmetabdi",
+    "naveed-ahmad"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 18179,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 115,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T15:30:57.100Z"
 }

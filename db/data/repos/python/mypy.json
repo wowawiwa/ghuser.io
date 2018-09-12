@@ -141,13 +141,13 @@
     "ecprice": 68,
     "Michael0x2a": 85,
     "elazarg": 112,
-    "msullivan": 137,
+    "msullivan": 138,
     "ivuk": 147,
     "ddfisher": 166,
     "ilevkivskyi": 192,
     "spkersten": 202,
     "gvanrossum": 597,
-    "JukkaL": 4133,
+    "JukkaL": 4134,
     "zhangwen0411": 16,
     "agentydragon": 3,
     "bendtherules": 1,
@@ -247,7 +247,8 @@
     "leo-dur": 1,
     "yedpodtrzitko": 1,
     "ChasingRainbows": 1,
-    "snarkmaster": 1
+    "snarkmaster": 1,
+    "sqwishy": 1
   },
   "pulls_authors": [
     "msullivan",
@@ -505,7 +506,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 3143797,
+      "bytes": 3145389,
       "color": "#3572A5"
     },
     "PLSQL": {
@@ -529,6 +530,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T07:40:56.739Z",
-  "fetching_since": "2018-09-12T15:57:26.619Z"
+  "fetched_at": "2018-09-12T15:57:26.619Z"
 }

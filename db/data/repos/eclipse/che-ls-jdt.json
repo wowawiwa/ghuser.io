@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:48:30.235Z",
   "name": "che-ls-jdt",
   "full_name": "eclipse/che-ls-jdt",
   "owner": "eclipse",
@@ -47,5 +46,34 @@
     "received_events_url": "https://api.github.com/users/eclipse/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "fbricon": 1,
+    "benoitf": 1,
+    "bdshadow": 2,
+    "JPinkney": 3,
+    "vrubezhny": 6,
+    "mmorhun": 6,
+    "tsmaeder": 18,
+    "svor": 25,
+    "tolusha": 30
+  },
+  "pulls_authors": [
+    "tsmaeder",
+    "svor",
+    "vrubezhny",
+    "tolusha",
+    "JPinkney",
+    "fbricon",
+    "riuvshin",
+    "mmorhun",
+    "bdshadow"
+  ],
+  "languages": {
+    "Java": {
+      "bytes": 454188,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-12T15:48:30.235Z"
 }

@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:31:36.235Z",
   "name": "PimcoreFixtures",
   "full_name": "YouweGit/PimcoreFixtures",
   "owner": "YouweGit",
@@ -41,5 +40,35 @@
     "received_events_url": "https://api.github.com/users/YouweGit/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "paulovitorbal": 1,
+    "Sunohara666": 1,
+    "griselta": 2,
+    "faridmovsumov": 2,
+    "qiang-youwe": 4,
+    "jorisros": 14
+  },
+  "pulls_authors": [
+    "paulovitorbal",
+    "jorisros",
+    "manea-eugen",
+    "qiang-youwe",
+    "alexraileanu"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 59192,
+      "color": "#4F5D95"
+    },
+    "JavaScript": {
+      "bytes": 6355,
+      "color": "#f1e05a"
+    },
+    "Hack": {
+      "bytes": 91,
+      "color": "#878787"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:36.235Z"
 }

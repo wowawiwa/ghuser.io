@@ -42,7 +42,7 @@
     "dennislloydjr": 4,
     "jlchoike": 5,
     "LordZepto": 4,
-    "leonyu": 11,
+    "leonyu": 12,
     "wangzq": 5,
     "mikhail-tsennykh": 5,
     "RobBlackwell": 5,
@@ -100,7 +100,7 @@
     "rasa": 146,
     "deevus": 202,
     "lukesampson": 1426,
-    "r15ch13": 3634,
+    "r15ch13": 3637,
     "Mika-": 4,
     "masaeedu": 3,
     "quincunx": 3,
@@ -323,7 +323,7 @@
       "color": "#178600"
     }
   },
-  "fetched_at": "2018-09-12T04:58:14.234Z",
+  "fetched_at": "2018-09-12T15:36:41.934Z",
   "pulls_url": "https://api.github.com/repos/lukesampson/scoop/pulls{/number}",
   "pulls_authors": [
     "leonyu",
@@ -650,6 +650,5 @@
     "MarkTiedemann",
     "passcod",
     "Hazardius"
-  ],
-  "fetching_since": "2018-09-12T15:36:41.934Z"
+  ]
 }

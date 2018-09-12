@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:55:13.641Z",
   "name": "surveillance-b0t",
   "full_name": "F-WuTS/surveillance-b0t",
   "owner": "F-WuTS",
@@ -41,5 +40,16 @@
     "received_events_url": "https://api.github.com/users/F-WuTS/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "PhilipTrauner": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 1995,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T15:55:13.641Z"
 }

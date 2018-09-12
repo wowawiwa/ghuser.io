@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:49:21.822Z",
   "name": "ezkill",
   "full_name": "Kraymer/ezkill",
   "owner": "Kraymer",
@@ -21,5 +20,16 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "Kraymer": 26
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Shell": {
+      "bytes": 2333,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:21.822Z"
 }

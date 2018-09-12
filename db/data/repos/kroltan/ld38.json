@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:49:26.938Z",
   "name": "ld38",
   "full_name": "kroltan/ld38",
   "owner": "kroltan",
@@ -21,5 +20,20 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "kroltan": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C#": {
+      "bytes": 31349,
+      "color": "#178600"
+    },
+    "Mask": {
+      "bytes": 318,
+      "color": "#f97732"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:26.938Z"
 }

@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:55:06.619Z",
   "name": "diploma-thesis",
   "full_name": "pigeon-working-group/diploma-thesis",
   "owner": "pigeon-working-group",
@@ -41,5 +40,29 @@
     "received_events_url": "https://api.github.com/users/pigeon-working-group/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "Sybee": 5,
+    "PhilipTrauner": 89
+  },
+  "pulls_authors": [],
+  "languages": {
+    "TeX": {
+      "bytes": 201360,
+      "color": "#3D6117"
+    },
+    "Shell": {
+      "bytes": 3840,
+      "color": "#89e051"
+    },
+    "Python": {
+      "bytes": 2726,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 538,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T15:55:06.619Z"
 }

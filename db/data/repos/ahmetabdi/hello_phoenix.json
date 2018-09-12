@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:31:01.740Z",
   "name": "hello_phoenix",
   "full_name": "ahmetabdi/hello_phoenix",
   "owner": "ahmetabdi",
@@ -21,5 +20,24 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "ahmetabdi": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "CSS": {
+      "bytes": 92015,
+      "color": "#563d7c"
+    },
+    "Elixir": {
+      "bytes": 13657,
+      "color": "#6e4a7e"
+    },
+    "JavaScript": {
+      "bytes": 1096,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:01.740Z"
 }

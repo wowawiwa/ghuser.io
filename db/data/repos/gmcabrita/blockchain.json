@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:43:59.507Z",
   "name": "blockchain",
   "full_name": "gmcabrita/blockchain",
   "owner": "gmcabrita",
@@ -27,5 +26,20 @@
     "url": "https://api.github.com/licenses/apache-2.0",
     "node_id": "MDc6TGljZW5zZTI="
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "gmcabrita": 15
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 17626,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 623,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T15:43:59.507Z"
 }

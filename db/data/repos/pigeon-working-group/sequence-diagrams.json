@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:55:07.881Z",
   "name": "sequence-diagrams",
   "full_name": "pigeon-working-group/sequence-diagrams",
   "owner": "pigeon-working-group",
@@ -47,5 +46,20 @@
     "received_events_url": "https://api.github.com/users/pigeon-working-group/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "PhilipTrauner": 11
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 4495,
+      "color": "#e34c26"
+    },
+    "Python": {
+      "bytes": 2463,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T15:55:07.881Z"
 }

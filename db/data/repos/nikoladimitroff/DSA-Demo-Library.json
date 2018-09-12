@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:42:49.557Z",
   "name": "DSA-Demo-Library",
   "full_name": "nikoladimitroff/DSA-Demo-Library",
   "owner": "nikoladimitroff",
@@ -27,5 +26,56 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "nikoladimitroff": 63
+  },
+  "pulls_authors": [
+    "frisibeli",
+    "igmehandzhiev",
+    "6desislava6",
+    "antonpetkoff",
+    "ToniJeleva",
+    "radoAngelov",
+    "slaviana88",
+    "dianvaltodorov",
+    "slav4o9405",
+    "Pavaka",
+    "Lubomira",
+    "AxiL94",
+    "dafinakaramanoleva",
+    "AntonioFilipov",
+    "Novkirishki",
+    "preslavsh",
+    "BoriNedeva",
+    "stefany19",
+    "vpechev",
+    "hristy93",
+    "irnik",
+    "mrhellish",
+    "TediEve",
+    "Mitko-Kerezov",
+    "KrumTy",
+    "sttodorov",
+    "catiepg",
+    "antoan-angelov",
+    "impact-tenzin",
+    "mileto94",
+    "valkirilov",
+    "toshko07",
+    "leoharreh",
+    "Ruinlol",
+    "StefanSinapov",
+    "EmilianStankov",
+    "kalodsun",
+    "Kras4ooo",
+    "lyuboraykov"
+  ],
+  "languages": {
+    "Java": {
+      "bytes": 53490,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-12T15:42:49.557Z"
 }

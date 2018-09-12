@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:47:58.866Z",
   "name": "dpetri",
   "full_name": "jcelerier/dpetri",
   "owner": "jcelerier",
@@ -27,5 +26,24 @@
     "url": "https://api.github.com/licenses/gpl-3.0",
     "node_id": "MDc6TGljZW5zZTk="
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "jcelerier": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 90001,
+      "color": "#f34b7d"
+    },
+    "IDL": {
+      "bytes": 4807,
+      "color": "#a3522f"
+    },
+    "C": {
+      "bytes": 3938,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:58.866Z"
 }

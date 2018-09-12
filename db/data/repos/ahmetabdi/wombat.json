@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:31:16.769Z",
   "name": "wombat",
   "full_name": "ahmetabdi/wombat",
   "owner": "ahmetabdi",
@@ -27,5 +26,19 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "algo31031": 1,
+    "gkop": 1,
+    "phortx": 1,
+    "sigi": 1,
+    "bluekeys": 2,
+    "viniciusdaniel": 2,
+    "orendon": 4,
+    "danielnc": 5,
+    "felipecsl": 157
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T15:31:16.769Z"
 }

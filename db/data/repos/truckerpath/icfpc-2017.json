@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:49:30.819Z",
   "name": "icfpc-2017",
   "full_name": "truckerpath/icfpc-2017",
   "owner": "truckerpath",
@@ -47,5 +46,31 @@
     "received_events_url": "https://api.github.com/users/truckerpath/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "kronos": 19,
+    "neverov": 26
+  },
+  "pulls_authors": [
+    "kronos"
+  ],
+  "languages": {
+    "Clojure": {
+      "bytes": 38824,
+      "color": "#db5855"
+    },
+    "HTML": {
+      "bytes": 12332,
+      "color": "#e34c26"
+    },
+    "Ruby": {
+      "bytes": 11243,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 258,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:30.819Z"
 }

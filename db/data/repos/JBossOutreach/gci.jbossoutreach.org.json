@@ -103,7 +103,8 @@
     "vijay35": 5,
     "zwliew": 7,
     "SachinRammoorthy": 17,
-    "KeenWarrior": 53
+    "KeenWarrior": 53,
+    "Khukhuna": 1
   },
   "pulls_authors": [
     "Ananthavijay",
@@ -137,15 +138,17 @@
     "yashii",
     "Hatollint",
     "songokucadic1423",
-    "ErikBoesen"
+    "ErikBoesen",
+    "KeenWarrior",
+    "Khukhuna"
   ],
   "languages": {
     "CSS": {
-      "bytes": 25158,
+      "bytes": 24919,
       "color": "#563d7c"
     },
     "HTML": {
-      "bytes": 17114,
+      "bytes": 14864,
       "color": "#e34c26"
     },
     "Ruby": {
@@ -153,7 +156,7 @@
       "color": "#701516"
     },
     "JavaScript": {
-      "bytes": 8901,
+      "bytes": 9664,
       "color": "#f1e05a"
     },
     "Shell": {
@@ -161,6 +164,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-05T16:59:35.909Z",
-  "fetching_since": "2018-09-12T15:30:36.159Z"
+  "fetched_at": "2018-09-12T15:30:36.159Z"
 }

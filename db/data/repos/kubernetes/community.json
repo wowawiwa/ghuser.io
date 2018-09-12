@@ -104,7 +104,7 @@
     "brendandburns": 22,
     "kow3ns": 18,
     "gmarek": 20,
-    "nikhita": 20,
+    "nikhita": 21,
     "lixiaobing1": 18,
     "xiangpengzhao": 22,
     "gnufied": 19,
@@ -148,7 +148,7 @@
     "cblecker": 142,
     "bgrant0607": 170,
     "k8s-merge-robot": 714,
-    "k8s-ci-robot": 711,
+    "k8s-ci-robot": 713,
     "resouer": 19,
     "chrislovecnm": 17,
     "dims": 16,
@@ -447,7 +447,7 @@
     "janosi": 8,
     "13rac1": 9,
     "anothertobi": 2,
-    "seans3": 4,
+    "seans3": 5,
     "linericyang": 2,
     "benmoss": 1,
     "bruceauyeung": 2,
@@ -472,7 +472,7 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-12T07:39:11.788Z",
+  "fetched_at": "2018-09-12T15:53:46.914Z",
   "pulls_url": "https://api.github.com/repos/kubernetes/community/pulls{/number}",
   "pulls_authors": [
     "castrojo",
@@ -1077,6 +1077,5 @@
     "Rajat-0",
     "Noah-Huppert",
     "tao12345666333"
-  ],
-  "fetching_since": "2018-09-12T15:53:46.914Z"
+  ]
 }

@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:44:04.939Z",
   "name": "pyml",
   "full_name": "gmcabrita/pyml",
   "owner": "gmcabrita",
@@ -27,5 +26,24 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "gmcabrita": 15
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C": {
+      "bytes": 7840,
+      "color": "#555555"
+    },
+    "OCaml": {
+      "bytes": 1762,
+      "color": "#3be133"
+    },
+    "Python": {
+      "bytes": 1086,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T15:44:04.939Z"
 }

@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:47:45.265Z",
   "name": "multi_index",
   "full_name": "Alexhuszagh/multi_index",
   "owner": "Alexhuszagh",
@@ -27,5 +26,22 @@
     "url": "https://api.github.com/licenses/bsl-1.0",
     "node_id": "MDc6TGljZW5zZTI4"
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "Alexhuszagh": 10
+  },
+  "pulls_authors": [
+    "jcelerier"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 595068,
+      "color": "#f34b7d"
+    },
+    "CMake": {
+      "bytes": 2214,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:45.265Z"
 }

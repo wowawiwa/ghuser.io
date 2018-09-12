@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:48:33.240Z",
   "name": "NIne-Men-Morris",
   "full_name": "dz14/NIne-Men-Morris",
   "owner": "dz14",
@@ -21,5 +20,21 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "jafar25": 10,
+    "dz14": 18,
+    "JPinkney": 41
+  },
+  "pulls_authors": [
+    "Sarevok110",
+    "JPinkney"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 19746,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T15:48:33.240Z"
 }

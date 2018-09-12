@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:31:08.464Z",
   "name": "chef-repo",
   "full_name": "ahmetabdi/chef-repo",
   "owner": "ahmetabdi",
@@ -21,5 +20,25 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "ahmetabdi": 1,
+    "bswinnerton": 1,
+    "kevinold": 1,
+    "joejwright": 1,
+    "geopet": 1,
+    "sentience": 2,
+    "oiuzikov": 13,
+    "emilebosch": 14,
+    "AlexanderZaytsev": 14,
+    "michiels": 288
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 9856,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:08.464Z"
 }

@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:47:50.525Z",
   "name": "awesome-livecoding",
   "full_name": "toplap/awesome-livecoding",
   "owner": "toplap",
@@ -41,5 +40,50 @@
     "received_events_url": "https://api.github.com/users/toplap/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "keszegh": 1,
+    "merongivian": 1,
+    "fand": 1,
+    "neuromancer85": 1,
+    "hellocatfood": 1,
+    "kostik1337": 1,
+    "paullucas": 1,
+    "iyzsong": 1,
+    "azimut": 1,
+    "smokris": 1,
+    "ajrussellaudio": 1,
+    "mortuosplango": 1,
+    "theseanco": 1,
+    "jcelerier": 1,
+    "davidedc": 1,
+    "charlieroberts": 2,
+    "grz0zrg": 2,
+    "sicchio": 3,
+    "yaxu": 4,
+    "lvm": 43
+  },
+  "pulls_authors": [
+    "keszegh",
+    "merongivian",
+    "charlieroberts",
+    "fand",
+    "neuromancer85",
+    "hellocatfood",
+    "kostik1337",
+    "paullucas",
+    "iyzsong",
+    "azimut",
+    "smokris",
+    "ajrussellaudio",
+    "mortuosplango",
+    "grz0zrg",
+    "theseanco",
+    "yaxu",
+    "sicchio",
+    "jcelerier",
+    "davidedc"
+  ],
+  "languages": {},
+  "fetched_at": "2018-09-12T15:47:50.525Z"
 }

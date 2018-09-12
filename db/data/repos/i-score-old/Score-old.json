@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:47:58.249Z",
   "name": "Score-old",
   "full_name": "i-score-old/Score-old",
   "owner": "i-score-old",
@@ -47,5 +46,42 @@
     "received_events_url": "https://api.github.com/users/i-score-old/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "BorisMansencal": 2,
+    "reno-": 2,
+    "ChristianFrisson": 2,
+    "jaimechao": 2,
+    "bltzr": 3,
+    "jln-": 3,
+    "jcelerier": 9,
+    "cbossut": 38
+  },
+  "pulls_authors": [
+    "jcelerier",
+    "ChristianFrisson"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 534459,
+      "color": "#f34b7d"
+    },
+    "Ruby": {
+      "bytes": 5848,
+      "color": "#701516"
+    },
+    "TeX": {
+      "bytes": 5462,
+      "color": "#3D6117"
+    },
+    "Makefile": {
+      "bytes": 1473,
+      "color": "#427819"
+    },
+    "C": {
+      "bytes": 937,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:58.249Z"
 }

@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/canonical-ols/talisker/languages",
   "pulls_url": "https://api.github.com/repos/canonical-ols/talisker/pulls{/number}",
   "created_at": "2016-07-15T18:25:59Z",
-  "updated_at": "2018-09-11T09:12:27Z",
-  "pushed_at": "2018-09-11T13:19:25Z",
+  "updated_at": "2018-09-12T13:54:18Z",
+  "pushed_at": "2018-09-12T15:36:15Z",
   "homepage": null,
-  "size": 816,
+  "size": 822,
   "stargazers_count": 15,
   "language": "Python",
   "mirror_url": null,
@@ -59,7 +59,7 @@
     "maxiberta": 4,
     "tomwardill": 6,
     "pyup-bot": 34,
-    "bloodearnest": 310
+    "bloodearnest": 315
   },
   "pulls_authors": [
     "bloodearnest",
@@ -80,7 +80,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 305637,
+      "bytes": 307663,
       "color": "#3572A5"
     },
     "Makefile": {
@@ -92,5 +92,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-11T17:15:36.155Z"
+  "fetched_at": "2018-09-12T16:51:21.054Z"
 }

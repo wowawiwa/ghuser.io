@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:49:25.132Z",
   "name": "keylogger",
   "full_name": "Kraymer/keylogger",
   "owner": "Kraymer",
@@ -21,5 +20,21 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "Kraymer": 8,
+    "caseyscarborough": 33
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C": {
+      "bytes": 6874,
+      "color": "#555555"
+    },
+    "Makefile": {
+      "bytes": 431,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:25.132Z"
 }

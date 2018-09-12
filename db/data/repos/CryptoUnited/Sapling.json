@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:36:04.119Z",
   "name": "Sapling",
   "full_name": "CryptoUnited/Sapling",
   "owner": "CryptoUnited",
@@ -41,5 +40,32 @@
     "received_events_url": "https://api.github.com/users/CryptoUnited/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "troymccabe": 2,
+    "Greg-Griffith": 13
+  },
+  "pulls_authors": [
+    "gl3nda85",
+    "dnieboer",
+    "Greg-Griffith",
+    "troymccabe",
+    "brunoalano",
+    "danmolitor"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 200892,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 17704,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 1310,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T15:36:04.119Z"
 }

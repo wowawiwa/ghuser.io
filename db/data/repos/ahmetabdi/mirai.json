@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:30:56.856Z",
   "name": "mirai",
   "full_name": "ahmetabdi/mirai",
   "owner": "ahmetabdi",
@@ -21,5 +20,28 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "ahmetabdi": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C": {
+      "bytes": 315460,
+      "color": "#555555"
+    },
+    "Go": {
+      "bytes": 39170,
+      "color": "#375eab"
+    },
+    "Shell": {
+      "bytes": 10135,
+      "color": "#89e051"
+    },
+    "Objective-C": {
+      "bytes": 2400,
+      "color": "#438eff"
+    }
+  },
+  "fetched_at": "2018-09-12T15:30:56.856Z"
 }

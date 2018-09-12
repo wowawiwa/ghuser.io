@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:55:23.655Z",
   "name": "autocomplete-emojis",
   "full_name": "atom/autocomplete-emojis",
   "owner": "atom",
@@ -47,5 +46,40 @@
     "received_events_url": "https://api.github.com/users/atom/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "ReadmeCritic": 1,
+    "despairblue": 1,
+    "plttn": 2,
+    "aatrostle": 2,
+    "benogle": 3,
+    "OttoWinter": 4,
+    "eqot": 102
+  },
+  "pulls_authors": [
+    "guiled",
+    "vinkla",
+    "rsese",
+    "iplusplus42",
+    "plttn",
+    "ReadmeCritic",
+    "aatrostle",
+    "OttoWinter",
+    "despairblue"
+  ],
+  "languages": {
+    "CoffeeScript": {
+      "bytes": 9169,
+      "color": "#244776"
+    },
+    "JavaScript": {
+      "bytes": 1042,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 935,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T15:55:23.655Z"
 }

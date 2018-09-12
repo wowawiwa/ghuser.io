@@ -70,7 +70,7 @@
     "terezamch": 106,
     "galroter-sap": 106,
     "machwitt": 125,
-    "KleinL31": 121,
+    "KleinL31": 127,
     "xtatica": 113,
     "PetyoKostakov": 144,
     "NikolayCholakov": 146,
@@ -90,7 +90,7 @@
     "d060270": 176,
     "evkatsarski": 216,
     "rtuider": 188,
-    "elenastoyanovaa": 209,
+    "elenastoyanovaa": 211,
     "ironmanager": 202,
     "Tanbari": 199,
     "nikolay-kolarov": 274,
@@ -109,7 +109,7 @@
     "czuendorf": 270,
     "ghristanov": 298,
     "GeneralDuke": 361,
-    "akudev": 311,
+    "akudev": 313,
     "EugenResch": 264,
     "nvankov": 332,
     "webdude21": 412,
@@ -127,21 +127,21 @@
     "MapTo0": 521,
     "JumpNRun": 496,
     "goligo": 527,
-    "kineticjs": 590,
+    "kineticjs": 591,
     "stopcoder": 541,
     "aborjinik": 547,
     "bendkt": 569,
     "ilhan007": 671,
     "Michadelic": 559,
-    "adrian-bobev": 610,
+    "adrian-bobev": 612,
     "petermuessig": 573,
     "TobiasOetzel": 666,
     "Nanovsky": 675,
     "matz3": 761,
-    "TeodorTaushanov": 930,
-    "myordanov": 923,
+    "TeodorTaushanov": 931,
+    "myordanov": 926,
     "marinparushev": 847,
-    "Stanley-78": 843,
+    "Stanley-78": 845,
     "ThomasChadzelek": 842,
     "UweReeder": 934,
     "codeworrior": 905,
@@ -354,19 +354,20 @@
     "sirion",
     "machwitt",
     "jcla1",
-    "Incognito"
+    "Incognito",
+    "rpanneel"
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 57183372,
+      "bytes": 57200358,
       "color": "#f1e05a"
     },
     "HTML": {
-      "bytes": 13154706,
+      "bytes": 13157664,
       "color": "#e34c26"
     },
     "CSS": {
-      "bytes": 2974095,
+      "bytes": 2973907,
       "color": "#563d7c"
     },
     "Java": {
@@ -378,6 +379,5 @@
       "color": "#5B2063"
     }
   },
-  "fetched_at": "2018-09-12T07:35:08.214Z",
-  "fetching_since": "2018-09-12T15:48:05.981Z"
+  "fetched_at": "2018-09-12T15:48:05.981Z"
 }

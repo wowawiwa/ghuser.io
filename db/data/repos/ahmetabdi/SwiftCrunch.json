@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:31:04.031Z",
   "name": "SwiftCrunch",
   "full_name": "ahmetabdi/SwiftCrunch",
   "owner": "ahmetabdi",
@@ -27,5 +26,16 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "ahmetabdi": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Swift": {
+      "bytes": 24590,
+      "color": "#ffac45"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:04.031Z"
 }

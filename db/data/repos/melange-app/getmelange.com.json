@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:44:39.909Z",
   "name": "getmelange.com",
   "full_name": "melange-app/getmelange.com",
   "owner": "melange-app",
@@ -41,5 +40,20 @@
     "received_events_url": "https://api.github.com/users/melange-app/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "huntaub": 30
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 25456,
+      "color": "#375eab"
+    },
+    "CSS": {
+      "bytes": 2063,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T15:44:39.909Z"
 }

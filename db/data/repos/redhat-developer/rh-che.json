@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:48:31.656Z",
   "name": "rh-che",
   "full_name": "redhat-developer/rh-che",
   "owner": "redhat-developer",
@@ -47,5 +46,102 @@
     "received_events_url": "https://api.github.com/users/redhat-developer/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "eivantsov": 1,
+    "vparfonov": 1,
+    "openshiftio-launchpad": 1,
+    "jfchevrette": 1,
+    "invincibleJai": 1,
+    "humaton": 1,
+    "jerboaa": 2,
+    "snjeza": 4,
+    "msrb": 4,
+    "tsmaeder": 4,
+    "jmelis": 6,
+    "JPinkney": 6,
+    "gorkem": 6,
+    "Katka92": 8,
+    "mlabuda": 9,
+    "rhopp": 10,
+    "riuvshin": 11,
+    "ScrewTSW": 21,
+    "garagatyi": 21,
+    "sleshchenko": 25,
+    "amisevsk": 27,
+    "benoitf": 33,
+    "sunix": 49,
+    "l0rd": 87,
+    "ibuziuk": 88,
+    "davidfestal": 94
+  },
+  "pulls_authors": [
+    "Katka92",
+    "rhopp",
+    "amisevsk",
+    "ibuziuk",
+    "garagatyi",
+    "fabric8cd",
+    "ScrewTSW",
+    "riuvshin",
+    "davidfestal",
+    "eivantsov",
+    "jmelis",
+    "l0rd",
+    "vparfonov",
+    "sleshchenko",
+    "sunix",
+    "JPinkney",
+    "jerboaa",
+    "sbose78",
+    "benoitf",
+    "jfchevrette",
+    "kameshsampath",
+    "Jooho",
+    "mlabuda",
+    "invincibleJai",
+    "humaton",
+    "snjeza",
+    "msrb",
+    "gorkem",
+    "sbryzak",
+    "tsmaeder",
+    "vpavlin",
+    "shaded-enmity"
+  ],
+  "languages": {
+    "Java": {
+      "bytes": 205550,
+      "color": "#b07219"
+    },
+    "Shell": {
+      "bytes": 80417,
+      "color": "#89e051"
+    },
+    "JavaScript": {
+      "bytes": 76151,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 10772,
+      "color": "#e34c26"
+    },
+    "Ceylon": {
+      "bytes": 8054,
+      "color": "#dfa535"
+    },
+    "Dockerfile": {
+      "bytes": 5232,
+      "color": "#0db7ed"
+    },
+    "TypeScript": {
+      "bytes": 3629,
+      "color": "#2b7489"
+    },
+    "CSS": {
+      "bytes": 746,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T15:48:31.656Z"
 }

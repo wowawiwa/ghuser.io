@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:49:27.765Z",
   "name": "AtmoSerialize",
   "full_name": "Troposphir/AtmoSerialize",
   "owner": "Troposphir",
@@ -41,5 +40,17 @@
     "received_events_url": "https://api.github.com/users/Troposphir/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "AtmoEntity": 2,
+    "kroltan": 6
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C#": {
+      "bytes": 45910,
+      "color": "#178600"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:27.765Z"
 }

@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:48:00.228Z",
   "name": "pfa_guitar_tutor",
   "full_name": "jcelerier/pfa_guitar_tutor",
   "owner": "jcelerier",
@@ -21,5 +20,37 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "bastien612": 1,
+    "acherif": 3,
+    "ademartin": 5,
+    "pakokrew": 34,
+    "julienc91": 155,
+    "jcelerier": 239
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C": {
+      "bytes": 367755,
+      "color": "#555555"
+    },
+    "C++": {
+      "bytes": 347078,
+      "color": "#f34b7d"
+    },
+    "C#": {
+      "bytes": 340060,
+      "color": "#178600"
+    },
+    "TypeScript": {
+      "bytes": 29188,
+      "color": "#2b7489"
+    },
+    "Prolog": {
+      "bytes": 5375,
+      "color": "#74283c"
+    }
+  },
+  "fetched_at": "2018-09-12T15:48:00.228Z"
 }

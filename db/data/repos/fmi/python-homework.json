@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:42:51.829Z",
   "name": "python-homework",
   "full_name": "fmi/python-homework",
   "owner": "fmi",
@@ -47,5 +46,40 @@
     "received_events_url": "https://api.github.com/users/fmi/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "victoria92": 1,
+    "nhubanov": 1,
+    "mimikrmvrr": 1,
+    "skeleta": 1,
+    "georgyangelov": 1,
+    "StelaDD": 1,
+    "dimitkoto": 1,
+    "GerganaPetrova": 2,
+    "gshopov": 2,
+    "smarinov": 2,
+    "liudmil-mitev": 3,
+    "aandr": 4,
+    "kunev": 12,
+    "joankaradimov": 12,
+    "skanev": 24,
+    "vladimiroff": 67
+  },
+  "pulls_authors": [
+    "mdimitrov",
+    "lddelchev",
+    "AlexanderTankov",
+    "bobeff",
+    "GerganaPetrova",
+    "smarinov",
+    "EmilianStankov",
+    "dragonator"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 201702,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T15:42:51.829Z"
 }

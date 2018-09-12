@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:49:33.010Z",
   "name": "resque-status",
   "full_name": "kronos/resque-status",
   "owner": "kronos",
@@ -27,5 +26,21 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "dbalatero": 1,
+    "karmi": 1,
+    "AndrewO": 1,
+    "kronos": 3,
+    "zapnap": 3,
+    "quirkey": 51
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 26688,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:33.010Z"
 }

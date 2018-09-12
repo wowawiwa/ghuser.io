@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:48:11.442Z",
   "name": "Littlecoin",
   "full_name": "jeffbarg/Littlecoin",
   "owner": "jeffbarg",
@@ -21,5 +20,24 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "jeffbarg": 34
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 586287,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 2470,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 1549,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T15:48:11.442Z"
 }

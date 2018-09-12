@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:49:24.142Z",
   "name": "deus_ex_tmachina",
   "full_name": "Kraymer/deus_ex_tmachina",
   "owner": "Kraymer",
@@ -27,5 +26,16 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "Kraymer": 6
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Shell": {
+      "bytes": 491,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:24.142Z"
 }

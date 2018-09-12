@@ -124,14 +124,14 @@
     "bodymindarts": 22,
     "adamhjk": 23,
     "johnjelinek": 31,
-    "bdangit": 30,
+    "bdangit": 31,
     "wduncanfraser": 32,
     "juliandunn": 37,
-    "srenatus": 40,
+    "srenatus": 41,
     "Defilan": 69,
     "themightychris": 46,
     "eeyun": 176,
-    "smacfarlane": 121,
+    "smacfarlane": 125,
     "jtimberman": 68,
     "miketheman": 58,
     "elliott-davis": 150,
@@ -139,7 +139,7 @@
     "reset": 345,
     "mwrock": 122,
     "nellshamrell": 344,
-    "predominant": 200,
+    "predominant": 205,
     "rsertelon": 212,
     "fnichol": 610,
     "thommay": 28,
@@ -307,11 +307,13 @@
     "billmeyer",
     "bscott",
     "tyler-ball",
-    "mdrobnak"
+    "mdrobnak",
+    "indradhanush",
+    "jamesc"
   ],
   "languages": {
     "Shell": {
-      "bytes": 908811,
+      "bytes": 908173,
       "color": "#89e051"
     },
     "PowerShell": {
@@ -339,6 +341,5 @@
       "color": "#148AA8"
     }
   },
-  "fetched_at": "2018-09-11T17:08:22.600Z",
-  "fetching_since": "2018-09-12T15:40:20.646Z"
+  "fetched_at": "2018-09-12T15:40:20.646Z"
 }

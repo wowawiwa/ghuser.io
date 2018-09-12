@@ -56,7 +56,7 @@
     "eskimor": 4,
     "mulderr": 4,
     "dfordivam": 5,
-    "hamishmack": 149
+    "hamishmack": 150
   },
   "pulls_authors": [
     "dfordivam",
@@ -76,12 +76,16 @@
   ],
   "languages": {
     "Haskell": {
-      "bytes": 5037442,
+      "bytes": 5037448,
       "color": "#5e5086"
     },
     "Nix": {
       "bytes": 1462,
       "color": "#7e7eff"
+    },
+    "Dockerfile": {
+      "bytes": 1029,
+      "color": "#0db7ed"
     },
     "Shell": {
       "bytes": 730,
@@ -92,6 +96,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-08T00:07:45.061Z",
-  "fetching_since": "2018-09-12T15:55:37.236Z"
+  "fetched_at": "2018-09-12T15:55:37.236Z"
 }

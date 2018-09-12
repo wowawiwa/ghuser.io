@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:55:06.906Z",
   "name": "c0re",
   "full_name": "F-WuTS/c0re",
   "owner": "F-WuTS",
@@ -47,5 +46,16 @@
     "received_events_url": "https://api.github.com/users/F-WuTS/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "PhilipTrauner": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 11751,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T15:55:06.906Z"
 }

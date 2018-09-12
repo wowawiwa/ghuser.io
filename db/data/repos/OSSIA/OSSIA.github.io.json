@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:47:43.628Z",
   "name": "OSSIA.github.io",
   "full_name": "OSSIA/OSSIA.github.io",
   "owner": "OSSIA",
@@ -41,5 +40,26 @@
     "received_events_url": "https://api.github.com/users/OSSIA/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "aklevy": 2,
+    "pchdev": 4,
+    "jcelerier": 8,
+    "jln-": 20,
+    "bltzr": 26
+  },
+  "pulls_authors": [
+    "pchdev"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 445827,
+      "color": "#e34c26"
+    },
+    "Max": {
+      "bytes": 71132,
+      "color": "#c4a79c"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:43.628Z"
 }

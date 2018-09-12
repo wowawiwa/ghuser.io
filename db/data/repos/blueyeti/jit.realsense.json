@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:47:45.371Z",
   "name": "jit.realsense",
   "full_name": "blueyeti/jit.realsense",
   "owner": "blueyeti",
@@ -21,5 +20,24 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "jcelerier": 22
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 19565,
+      "color": "#f34b7d"
+    },
+    "Max": {
+      "bytes": 19338,
+      "color": "#c4a79c"
+    },
+    "CMake": {
+      "bytes": 5340,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:45.371Z"
 }

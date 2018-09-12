@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:31:16.123Z",
   "name": "tinymce-rails",
   "full_name": "ahmetabdi/tinymce-rails",
   "owner": "ahmetabdi",
@@ -27,5 +26,14 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "pmatsinopoulos": 1,
+    "rgc": 1,
+    "nexneo": 2,
+    "spohlenz": 89
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T15:31:16.123Z"
 }

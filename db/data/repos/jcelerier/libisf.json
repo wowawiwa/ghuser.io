@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:47:44.714Z",
   "name": "libisf",
   "full_name": "jcelerier/libisf",
   "owner": "jcelerier",
@@ -27,5 +26,20 @@
     "url": "https://api.github.com/licenses/agpl-3.0",
     "node_id": "MDc6TGljZW5zZTE="
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "jcelerier": 30
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 269248,
+      "color": "#f34b7d"
+    },
+    "CMake": {
+      "bytes": 1221,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:44.714Z"
 }

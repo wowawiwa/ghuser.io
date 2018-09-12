@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:49:25.856Z",
   "name": "troposphir",
   "full_name": "Troposphir/troposphir",
   "owner": "Troposphir",
@@ -41,5 +40,42 @@
     "received_events_url": "https://api.github.com/users/Troposphir/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "AtmoEntity": 15,
+    "pedroslopez": 29,
+    "kroltan": 60,
+    "kevson": 95
+  },
+  "pulls_authors": [
+    "pedroslopez",
+    "AtmoEntity"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 318965,
+      "color": "#4F5D95"
+    },
+    "C#": {
+      "bytes": 63774,
+      "color": "#178600"
+    },
+    "CSS": {
+      "bytes": 11101,
+      "color": "#563d7c"
+    },
+    "Java": {
+      "bytes": 7838,
+      "color": "#b07219"
+    },
+    "JavaScript": {
+      "bytes": 7344,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 3678,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:25.856Z"
 }

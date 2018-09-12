@@ -56,7 +56,7 @@
     "mewmew": 26,
     "davidlazar": 27,
     "fsouza": 27,
-    "zhangfannie": 28,
+    "zhangfannie": 30,
     "fhs": 28,
     "Sajmani": 26,
     "osocurioso": 28,
@@ -100,7 +100,7 @@
     "rhencke": 67,
     "DanielMorsing": 69,
     "Quasilyte": 70,
-    "laboger": 71,
+    "laboger": 72,
     "bcmills": 73,
     "atomsymbol": 74,
     "kardianos": 76,
@@ -124,7 +124,7 @@
     "ALTree": 208,
     "mundaym": 210,
     "0intro": 210,
-    "mvdan": 211,
+    "mvdan": 213,
     "mwhudson": 259,
     "cherrymui": 275,
     "remyoudompheng": 323,
@@ -708,11 +708,11 @@
   ],
   "languages": {
     "Go": {
-      "bytes": 40785766,
+      "bytes": 40786335,
       "color": "#375eab"
     },
     "Assembly": {
-      "bytes": 4014837,
+      "bytes": 4017782,
       "color": "#6E4C13"
     },
     "HTML": {
@@ -772,6 +772,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-12T04:56:26.271Z",
-  "fetching_since": "2018-09-12T15:32:27.057Z"
+  "fetched_at": "2018-09-12T15:32:27.057Z"
 }

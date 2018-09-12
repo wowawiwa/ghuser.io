@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:47:53.353Z",
   "name": "JamomaCore",
   "full_name": "jamoma/JamomaCore",
   "owner": "jamoma",
@@ -47,5 +46,95 @@
     "received_events_url": "https://api.github.com/users/jamoma/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "j45ch": 1,
+    "ChristianFrisson": 1,
+    "krisny": 1,
+    "jaimechao": 2,
+    "BorisMansencal": 4,
+    "caseybasichis": 5,
+    "jamomabuild": 5,
+    "reno-": 6,
+    "adrian-gierakowski": 7,
+    "tap": 17,
+    "diemoschwarz": 23,
+    "avilleret": 74,
+    "jcelerier": 108,
+    "jln-": 126,
+    "bltzr": 379,
+    "nwolek": 664,
+    "Nilson": 1189
+  },
+  "pulls_authors": [
+    "tap",
+    "jcelerier",
+    "avilleret",
+    "reno-",
+    "lossius",
+    "ChristianFrisson"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 5698245,
+      "color": "#f34b7d"
+    },
+    "C": {
+      "bytes": 3830490,
+      "color": "#555555"
+    },
+    "Shell": {
+      "bytes": 880872,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 614501,
+      "color": "#427819"
+    },
+    "HTML": {
+      "bytes": 172434,
+      "color": "#e34c26"
+    },
+    "Smarty": {
+      "bytes": 168351,
+      "color": "#ccc"
+    },
+    "CMake": {
+      "bytes": 131387,
+      "color": "#ccc"
+    },
+    "Objective-C": {
+      "bytes": 70758,
+      "color": "#438eff"
+    },
+    "M4": {
+      "bytes": 55942,
+      "color": "#ccc"
+    },
+    "Roff": {
+      "bytes": 23492,
+      "color": "#ecdebe"
+    },
+    "Python": {
+      "bytes": 15477,
+      "color": "#3572A5"
+    },
+    "M": {
+      "bytes": 6224,
+      "color": "#ccc"
+    },
+    "Matlab": {
+      "bytes": 1942,
+      "color": "#e16737"
+    },
+    "CSS": {
+      "bytes": 1562,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 1184,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:53.353Z"
 }

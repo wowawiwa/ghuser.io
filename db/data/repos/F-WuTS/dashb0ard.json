@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:55:13.382Z",
   "name": "dashb0ard",
   "full_name": "F-WuTS/dashb0ard",
   "owner": "F-WuTS",
@@ -41,5 +40,20 @@
     "received_events_url": "https://api.github.com/users/F-WuTS/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "PhilipTrauner": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 240342,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 15501,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T15:55:13.382Z"
 }

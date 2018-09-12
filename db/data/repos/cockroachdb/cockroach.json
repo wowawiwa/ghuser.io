@@ -127,24 +127,24 @@
     "justinj": 361,
     "andy-kimball": 325,
     "kkaneda": 429,
-    "couchand": 385,
+    "couchand": 418,
     "mrtracy": 609,
     "mjibson": 698,
     "danhhz": 750,
-    "BramGruneir": 749,
-    "mberhault": 743,
+    "BramGruneir": 750,
+    "mberhault": 744,
     "vivekmenezes": 863,
-    "jordanlewis": 870,
+    "jordanlewis": 871,
     "spencerkimball": 898,
     "dt": 1027,
     "andreimatei": 929,
     "a-robinson": 1089,
-    "benesch": 1257,
+    "benesch": 1258,
     "nvanbenschoten": 1536,
     "bdarnell": 1526,
     "RaduBerinde": 1791,
-    "knz": 1977,
-    "petermattis": 3142,
+    "knz": 1978,
+    "petermattis": 3144,
     "tschottdorf": 2831,
     "tamird": 3212,
     "maxlang": 96,
@@ -261,15 +261,16 @@
     "llvim": 1,
     "changangela": 2,
     "ridwanmsharif": 1,
-    "sankt-petersbug": 2
+    "sankt-petersbug": 2,
+    "mvijaykarthik": 5
   },
   "languages": {
     "Go": {
-      "bytes": 20452519,
+      "bytes": 20454453,
       "color": "#375eab"
     },
     "TypeScript": {
-      "bytes": 877297,
+      "bytes": 884908,
       "color": "#2b7489"
     },
     "C++": {
@@ -293,7 +294,7 @@
       "color": "#427819"
     },
     "CSS": {
-      "bytes": 56920,
+      "bytes": 57446,
       "color": "#563d7c"
     },
     "Python": {
@@ -353,7 +354,7 @@
       "color": "#4d41b1"
     }
   },
-  "fetched_at": "2018-09-12T05:00:56.140Z",
+  "fetched_at": "2018-09-12T15:41:44.270Z",
   "pulls_url": "https://api.github.com/repos/cockroachdb/cockroach/pulls{/number}",
   "pulls_authors": [
     "danhhz",
@@ -592,6 +593,5 @@
     "ridwanmsharif",
     "eriktrinh",
     "sankt-petersbug"
-  ],
-  "fetching_since": "2018-09-12T15:41:44.270Z"
+  ]
 }

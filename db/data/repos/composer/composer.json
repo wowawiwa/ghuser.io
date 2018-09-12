@@ -100,7 +100,7 @@
     "igorw": 117,
     "alcohol": 293,
     "naderman": 526,
-    "Seldaek": 4288,
+    "Seldaek": 4290,
     "ntoniazzi": 13,
     "maximcherny": 7,
     "msiebeneicher": 7,
@@ -464,7 +464,7 @@
   },
   "languages": {
     "PHP": {
-      "bytes": 5407128,
+      "bytes": 5407352,
       "color": "#4F5D95"
     },
     "Hack": {
@@ -472,7 +472,7 @@
       "color": "#878787"
     }
   },
-  "fetched_at": "2018-09-12T04:58:15.390Z",
+  "fetched_at": "2018-09-12T15:36:43.601Z",
   "pulls_url": "https://api.github.com/repos/composer/composer/pulls{/number}",
   "pulls_authors": [
     "shalvah",
@@ -1517,7 +1517,7 @@
     "shulard",
     "rieves",
     "lamp-of-god",
-    "xuanquynh"
-  ],
-  "fetching_since": "2018-09-12T15:36:43.601Z"
+    "xuanquynh",
+    "glaubinix"
+  ]
 }

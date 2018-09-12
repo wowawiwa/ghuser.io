@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:49:28.814Z",
   "name": "dota2lua",
   "full_name": "kroltan/dota2lua",
   "owner": "kroltan",
@@ -21,5 +20,16 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "kroltan": 17
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Lua": {
+      "bytes": 5801,
+      "color": "#000080"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:28.814Z"
 }

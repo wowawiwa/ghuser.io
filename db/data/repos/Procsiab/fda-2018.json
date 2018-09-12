@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:49:06.703Z",
   "name": "fda-2018",
   "full_name": "Procsiab/fda-2018",
   "owner": "Procsiab",
@@ -27,5 +26,19 @@
     "url": "https://api.github.com/licenses/gpl-3.0",
     "node_id": "MDc6TGljZW5zZTk="
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "klaa97": 1,
+    "Procsiab": 35
+  },
+  "pulls_authors": [
+    "klaa97"
+  ],
+  "languages": {
+    "TeX": {
+      "bytes": 507614,
+      "color": "#3D6117"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:06.703Z"
 }

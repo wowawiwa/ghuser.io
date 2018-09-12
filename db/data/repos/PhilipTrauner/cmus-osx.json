@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:55:08.960Z",
   "name": "cmus-osx",
   "full_name": "PhilipTrauner/cmus-osx",
   "owner": "PhilipTrauner",
@@ -27,5 +26,22 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "cclauss": 2,
+    "azadkuh": 25,
+    "PhilipTrauner": 46
+  },
+  "pulls_authors": [
+    "cclauss",
+    "danielopitz",
+    "PhilipTrauner"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 8896,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T15:55:08.960Z"
 }

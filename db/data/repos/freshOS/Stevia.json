@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:55:15.120Z",
   "name": "Stevia",
   "full_name": "freshOS/Stevia",
   "owner": "freshOS",
@@ -47,5 +46,61 @@
     "received_events_url": "https://api.github.com/users/freshOS/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "onurgenes": 1,
+    "nemesis": 1,
+    "liberty4me": 1,
+    "sai-prasanna": 1,
+    "szotp": 1,
+    "pjambet": 1,
+    "PhilipTrauner": 1,
+    "orta": 1,
+    "khaelou": 1,
+    "gitter-badger": 1,
+    "trupin": 2,
+    "cowgp": 2,
+    "waternotwords": 2,
+    "tmcw": 2,
+    "ezisazis": 3,
+    "0x7fs": 7,
+    "YannickDot": 8,
+    "s4cha": 230
+  },
+  "pulls_authors": [
+    "s4cha",
+    "onurgenes",
+    "nemesis",
+    "ezisazis",
+    "b1az",
+    "trupin",
+    "jyliang",
+    "liberty4me",
+    "cowgp",
+    "sai-prasanna",
+    "ghost",
+    "mgallagher",
+    "waternotwords",
+    "0x7fs",
+    "tmcw",
+    "pjambet",
+    "PhilipTrauner",
+    "orta",
+    "gitter-badger"
+  ],
+  "languages": {
+    "Swift": {
+      "bytes": 154525,
+      "color": "#ffac45"
+    },
+    "Objective-C": {
+      "bytes": 1002,
+      "color": "#438eff"
+    },
+    "Ruby": {
+      "bytes": 747,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T15:55:15.120Z"
 }

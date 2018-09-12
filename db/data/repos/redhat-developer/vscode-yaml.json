@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:48:29.821Z",
   "name": "vscode-yaml",
   "full_name": "redhat-developer/vscode-yaml",
   "owner": "redhat-developer",
@@ -47,5 +46,31 @@
     "received_events_url": "https://api.github.com/users/redhat-developer/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "lostintangent": 1,
+    "fbricon": 1,
+    "mickaelistria": 1,
+    "containscafeine": 2,
+    "andxu": 3,
+    "apupier": 3,
+    "gorkem": 22,
+    "JPinkney": 179
+  },
+  "pulls_authors": [
+    "lostintangent",
+    "andxu",
+    "JPinkney",
+    "containscafeine",
+    "fbricon",
+    "apupier",
+    "mickaelistria"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 8669,
+      "color": "#2b7489"
+    }
+  },
+  "fetched_at": "2018-09-12T15:48:29.821Z"
 }

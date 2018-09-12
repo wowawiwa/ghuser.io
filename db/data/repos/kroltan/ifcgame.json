@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:49:27.439Z",
   "name": "ifcgame",
   "full_name": "kroltan/ifcgame",
   "owner": "kroltan",
@@ -21,5 +20,24 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "kroltan": 11
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C": {
+      "bytes": 95229,
+      "color": "#555555"
+    },
+    "C++": {
+      "bytes": 1837,
+      "color": "#f34b7d"
+    },
+    "Shell": {
+      "bytes": 1818,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:27.439Z"
 }

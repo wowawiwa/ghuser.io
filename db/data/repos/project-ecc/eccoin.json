@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:36:03.790Z",
   "name": "eccoin",
   "full_name": "project-ecc/eccoin",
   "owner": "project-ecc",
@@ -47,5 +46,76 @@
     "received_events_url": "https://api.github.com/users/project-ecc/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "ptrus": 1,
+    "AltJ": 4,
+    "danmolitor": 6,
+    "brunoalano": 24,
+    "Greg-Griffith": 143
+  },
+  "pulls_authors": [
+    "troymccabe",
+    "Greg-Griffith",
+    "HenryYoung42",
+    "imdevin567",
+    "brunoalano",
+    "ptrus",
+    "AltJ",
+    "danmolitor",
+    "sheepman0",
+    "MaryjanecoinDev",
+    "CryptoBarTeam"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 4227904,
+      "color": "#f34b7d"
+    },
+    "Python": {
+      "bytes": 862353,
+      "color": "#3572A5"
+    },
+    "C": {
+      "bytes": 628818,
+      "color": "#555555"
+    },
+    "CMake": {
+      "bytes": 251415,
+      "color": "#ccc"
+    },
+    "M4": {
+      "bytes": 180957,
+      "color": "#ccc"
+    },
+    "Makefile": {
+      "bytes": 102759,
+      "color": "#427819"
+    },
+    "Java": {
+      "bytes": 30290,
+      "color": "#b07219"
+    },
+    "Assembly": {
+      "bytes": 28453,
+      "color": "#6E4C13"
+    },
+    "HTML": {
+      "bytes": 20970,
+      "color": "#e34c26"
+    },
+    "QMake": {
+      "bytes": 16740,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 11810,
+      "color": "#89e051"
+    },
+    "Objective-C": {
+      "bytes": 2162,
+      "color": "#438eff"
+    }
+  },
+  "fetched_at": "2018-09-12T15:36:03.790Z"
 }

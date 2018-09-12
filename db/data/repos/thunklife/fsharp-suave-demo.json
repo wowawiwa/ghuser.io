@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:35:38.906Z",
   "name": "fsharp-suave-demo",
   "full_name": "thunklife/fsharp-suave-demo",
   "owner": "thunklife",
@@ -21,5 +20,18 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "brase": 1
+  },
+  "pulls_authors": [
+    "brase"
+  ],
+  "languages": {
+    "F#": {
+      "bytes": 6876,
+      "color": "#b845fc"
+    }
+  },
+  "fetched_at": "2018-09-12T15:35:38.906Z"
 }

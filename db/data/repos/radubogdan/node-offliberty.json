@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:55:14.583Z",
   "name": "node-offliberty",
   "full_name": "radubogdan/node-offliberty",
   "owner": "radubogdan",
@@ -27,5 +26,22 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "PhilipTrauner": 1,
+    "IonicaBizau": 5,
+    "radubogdan": 13
+  },
+  "pulls_authors": [
+    "radubogdan",
+    "PhilipTrauner",
+    "IonicaBizau"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2719,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T15:55:14.583Z"
 }

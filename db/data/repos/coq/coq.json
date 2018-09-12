@@ -121,7 +121,7 @@
     "fajb": 44,
     "gmalecha": 17,
     "zeldovich": 18,
-    "jfehrle": 22,
+    "jfehrle": 23,
     "Zeimer": 22,
     "forestjulien": 164,
     "RalfJung": 26,
@@ -143,11 +143,11 @@
     "pirbo": 438,
     "ejgallego": 599,
     "aspiwack": 558,
-    "maximedenes": 1999,
-    "gares": 949,
-    "mattam82": 1747,
-    "herbelin": 7143,
-    "ppedrot": 2555,
+    "maximedenes": 2001,
+    "gares": 950,
+    "mattam82": 1748,
+    "herbelin": 7145,
+    "ppedrot": 2557,
     "invalid-email-address": 5,
     "bafain": 1,
     "siddharthist": 1,
@@ -277,11 +277,11 @@
   ],
   "languages": {
     "OCaml": {
-      "bytes": 9806821,
+      "bytes": 9817142,
       "color": "#3be133"
     },
     "Coq": {
-      "bytes": 7819071,
+      "bytes": 7820093,
       "color": "#ccc"
     },
     "Shell": {
@@ -297,7 +297,7 @@
       "color": "#555555"
     },
     "Makefile": {
-      "bytes": 37189,
+      "bytes": 37251,
       "color": "#427819"
     },
     "Batchfile": {
@@ -353,6 +353,5 @@
       "color": "#64b970"
     }
   },
-  "fetched_at": "2018-09-12T07:38:39.465Z",
-  "fetching_since": "2018-09-12T15:53:07.814Z"
+  "fetched_at": "2018-09-12T15:53:07.814Z"
 }

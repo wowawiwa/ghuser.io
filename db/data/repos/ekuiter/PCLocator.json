@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:42:14.485Z",
   "name": "PCLocator",
   "full_name": "ekuiter/PCLocator",
   "owner": "ekuiter",
@@ -21,5 +20,32 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "ekuiter": 45
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C": {
+      "bytes": 325134,
+      "color": "#555555"
+    },
+    "Java": {
+      "bytes": 188726,
+      "color": "#b07219"
+    },
+    "Shell": {
+      "bytes": 9364,
+      "color": "#89e051"
+    },
+    "Ruby": {
+      "bytes": 3146,
+      "color": "#701516"
+    },
+    "HTML": {
+      "bytes": 97,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T15:42:14.485Z"
 }

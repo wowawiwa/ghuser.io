@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:34:16.892Z",
   "name": "antdimot.github.io",
   "full_name": "antdimot/antdimot.github.io",
   "owner": "antdimot",
@@ -21,5 +20,24 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "antdimot": 76
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 58617,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 5285,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 725,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T15:34:16.892Z"
 }

@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:30:39.973Z",
   "name": "superset",
   "full_name": "amancevice/superset",
   "owner": "amancevice",
@@ -27,5 +26,61 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "2ur1st": 1,
+    "cstrap": 1,
+    "abrenaut": 1,
+    "ishpreet-singh": 1,
+    "frankhsu": 1,
+    "vloup": 1,
+    "bugchecker": 1,
+    "jornh": 1,
+    "burkostya": 1,
+    "ebuildy": 1,
+    "ErikThoreson": 1,
+    "frankfarrell": 2,
+    "zkan": 2,
+    "icy": 3,
+    "amancevice": 80
+  },
+  "pulls_authors": [
+    "millar",
+    "2ur1st",
+    "amancevice",
+    "duynguyenhoang",
+    "pelayoarbues",
+    "minh5",
+    "cstrap",
+    "icy",
+    "zyclonite",
+    "abrenaut",
+    "acherici",
+    "frankfarrell",
+    "ishpreet-singh",
+    "runarbu",
+    "frankhsu",
+    "zkan",
+    "mnagaku",
+    "jonascript",
+    "shawnzhu",
+    "vloup",
+    "bugchecker",
+    "jornh",
+    "anmolgarg",
+    "burkostya",
+    "ebuildy",
+    "ErikThoreson"
+  ],
+  "languages": {
+    "Dockerfile": {
+      "bytes": 2393,
+      "color": "#0db7ed"
+    },
+    "Shell": {
+      "bytes": 290,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T15:30:39.973Z"
 }

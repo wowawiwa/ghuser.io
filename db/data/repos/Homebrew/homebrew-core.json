@@ -48,7 +48,7 @@
     "site_admin": false
   },
   "contributors": {
-    "BrewTestBot": 46782,
+    "BrewTestBot": 46798,
     "ilovezfs": 16338,
     "adamv": 4692,
     "jacknagel": 4476,
@@ -57,7 +57,7 @@
     "asparagui": 2056,
     "vszakats": 2030,
     "tschoonj": 1069,
-    "fxcoudert": 1033,
+    "fxcoudert": 1069,
     "nijikon": 888,
     "mistydemeo": 880,
     "bfontaine": 875,
@@ -70,7 +70,7 @@
     "mxcl": 415,
     "Sharpie": 400,
     "tdsmith": 353,
-    "lembacon": 368,
+    "lembacon": 369,
     "0xffea": 274,
     "apjanke": 272,
     "afh": 249,
@@ -144,7 +144,7 @@
     "brbe": 43,
     "edporras": 43,
     "tomyun": 43,
-    "iMichka": 43,
+    "iMichka": 44,
     "HeEAaD": 43,
     "bartleusink": 42,
     "michaelpq": 42,
@@ -3897,11 +3897,16 @@
     "nchelluri",
     "SteveNewson",
     "ellismg",
-    "mastahyeti"
+    "mastahyeti",
+    "mhubig",
+    "aaronwalker",
+    "laurentsebag",
+    "jysperm",
+    "boltomli"
   ],
   "languages": {
     "Ruby": {
-      "bytes": 8367522,
+      "bytes": 8367470,
       "color": "#701516"
     },
     "Perl": {
@@ -3909,6 +3914,5 @@
       "color": "#0298c3"
     }
   },
-  "fetched_at": "2018-09-12T04:55:45.286Z",
-  "fetching_since": "2018-09-12T15:30:51.674Z"
+  "fetched_at": "2018-09-12T15:30:51.674Z"
 }

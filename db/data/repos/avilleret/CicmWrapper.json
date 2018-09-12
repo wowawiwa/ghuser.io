@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:47:51.094Z",
   "name": "CicmWrapper",
   "full_name": "avilleret/CicmWrapper",
   "owner": "avilleret",
@@ -27,5 +26,42 @@
     "url": "https://api.github.com/licenses/bsd-2-clause",
     "node_id": "MDc6TGljZW5zZTQ="
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "jcelerier": 1,
+    "thomasLeMeur": 6,
+    "avilleret": 17,
+    "pierreguillot": 361
+  },
+  "pulls_authors": [
+    "jcelerier",
+    "avilleret"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 288640,
+      "color": "#555555"
+    },
+    "C++": {
+      "bytes": 2322,
+      "color": "#f34b7d"
+    },
+    "M4": {
+      "bytes": 1343,
+      "color": "#ccc"
+    },
+    "Makefile": {
+      "bytes": 401,
+      "color": "#427819"
+    },
+    "CMake": {
+      "bytes": 352,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 55,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:51.094Z"
 }

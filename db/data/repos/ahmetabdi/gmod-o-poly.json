@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:31:03.935Z",
   "name": "gmod-o-poly",
   "full_name": "ahmetabdi/gmod-o-poly",
   "owner": "ahmetabdi",
@@ -21,5 +20,17 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "ahmetabdi": 3,
+    "bentech": 7
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Lua": {
+      "bytes": 177908,
+      "color": "#000080"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:03.935Z"
 }

@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:44:39.227Z",
   "name": "hft-simulator",
   "full_name": "huntaub/hft-simulator",
   "owner": "huntaub",
@@ -21,5 +20,28 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "huntaub": 23
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 19518,
+      "color": "#375eab"
+    },
+    "JavaScript": {
+      "bytes": 13356,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 10615,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 354,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T15:44:39.227Z"
 }

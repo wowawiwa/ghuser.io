@@ -97,7 +97,8 @@
     "psibi": 12,
     "sol": 16,
     "gregwebs": 130,
-    "snoyberg": 495
+    "snoyberg": 497,
+    "ncaq": 4
   },
   "pulls_authors": [
     "ncaq",
@@ -160,7 +161,7 @@
   ],
   "languages": {
     "Haskell": {
-      "bytes": 239589,
+      "bytes": 238125,
       "color": "#5e5086"
     },
     "CoffeeScript": {
@@ -168,6 +169,5 @@
       "color": "#244776"
     }
   },
-  "fetched_at": "2018-09-07T11:26:20.461Z",
-  "fetching_since": "2018-09-12T15:53:25.161Z"
+  "fetched_at": "2018-09-12T15:53:25.161Z"
 }

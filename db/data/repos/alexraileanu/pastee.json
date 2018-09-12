@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:31:36.921Z",
   "name": "pastee",
   "full_name": "alexraileanu/pastee",
   "owner": "alexraileanu",
@@ -27,5 +26,36 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "benjamingarcia": 1,
+    "vibrantabhi19": 2,
+    "alexraileanu": 27
+  },
+  "pulls_authors": [
+    "alexraileanu",
+    "vibrantabhi19",
+    "miyurusankalpa",
+    "benjamingarcia",
+    "belfazt"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 14339,
+      "color": "#e34c26"
+    },
+    "Python": {
+      "bytes": 7240,
+      "color": "#3572A5"
+    },
+    "CSS": {
+      "bytes": 3257,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 1449,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:36.921Z"
 }

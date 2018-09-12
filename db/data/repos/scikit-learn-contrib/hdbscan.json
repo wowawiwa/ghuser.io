@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:36:06.826Z",
   "name": "hdbscan",
   "full_name": "scikit-learn-contrib/hdbscan",
   "owner": "scikit-learn-contrib",
@@ -47,5 +46,88 @@
     "received_events_url": "https://api.github.com/users/scikit-learn-contrib/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "CKrawczyk": 1,
+    "hamidzr": 1,
+    "tholoz": 1,
+    "mdunnlp": 1,
+    "moi90": 1,
+    "m-dz": 1,
+    "ahirner": 1,
+    "craigmcnamara": 1,
+    "atkawa7": 1,
+    "zyrikby": 1,
+    "danielskatz": 1,
+    "christopherjenness": 1,
+    "Horndev": 1,
+    "dvro": 1,
+    "kmike": 1,
+    "taalexander": 1,
+    "AllanLRH": 1,
+    "zachwill": 1,
+    "dmarkos": 2,
+    "michaelaye": 2,
+    "alugowski": 3,
+    "rlhelinski": 4,
+    "LGro": 4,
+    "sauln": 4,
+    "jc-healy": 7,
+    "brunoalano": 7,
+    "glemaitre": 10,
+    "sastels": 11,
+    "lmcinnes": 566
+  },
+  "pulls_authors": [
+    "alugowski",
+    "CKrawczyk",
+    "hamidzr",
+    "tholoz",
+    "mdunnlp",
+    "tadejmagajna",
+    "rlhelinski",
+    "LGro",
+    "moi90",
+    "thclark",
+    "m-dz",
+    "helske",
+    "sauln",
+    "ahirner",
+    "craigmcnamara",
+    "dmarkos",
+    "atkawa7",
+    "zyrikby",
+    "mechaman",
+    "danielskatz",
+    "christopherjenness",
+    "Horndev",
+    "michaelaye",
+    "dvro",
+    "kmike",
+    "glemaitre",
+    "brunoalano",
+    "taalexander",
+    "AllanLRH",
+    "sastels",
+    "zachwill"
+  ],
+  "languages": {
+    "Jupyter Notebook": {
+      "bytes": 5136799,
+      "color": "#DA5B0B"
+    },
+    "Python": {
+      "bytes": 312265,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 3173,
+      "color": "#89e051"
+    },
+    "TeX": {
+      "bytes": 1790,
+      "color": "#3D6117"
+    }
+  },
+  "fetched_at": "2018-09-12T15:36:06.826Z"
 }

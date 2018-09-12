@@ -29,7 +29,7 @@
   "default_branch": "master",
   "contributors": {
     "Calinou": 1,
-    "Physiix": 180,
+    "Physiix": 181,
     "fakaka": 1
   },
   "pulls_authors": [
@@ -40,11 +40,11 @@
   ],
   "languages": {
     "Vue": {
-      "bytes": 75132,
+      "bytes": 75219,
       "color": "#2c3e50"
     },
     "JavaScript": {
-      "bytes": 71702,
+      "bytes": 71938,
       "color": "#f1e05a"
     },
     "CSS": {
@@ -56,6 +56,5 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-12T04:58:33.579Z",
-  "fetching_since": "2018-09-12T15:37:25.617Z"
+  "fetched_at": "2018-09-12T15:37:25.617Z"
 }

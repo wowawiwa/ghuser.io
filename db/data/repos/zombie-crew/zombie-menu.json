@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:49:29.611Z",
   "name": "zombie-menu",
   "full_name": "zombie-crew/zombie-menu",
   "owner": "zombie-crew",
@@ -47,5 +46,15 @@
     "received_events_url": "https://api.github.com/users/zombie-crew/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "kroltan": 6,
+    "zMEOW": 15
+  },
+  "pulls_authors": [
+    "Croydon",
+    "8075"
+  ],
+  "languages": {},
+  "fetched_at": "2018-09-12T15:49:29.611Z"
 }

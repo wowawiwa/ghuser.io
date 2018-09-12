@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:31:13.949Z",
   "name": "phez",
   "full_name": "ahmetabdi/phez",
   "owner": "ahmetabdi",
@@ -27,5 +26,35 @@
     "url": null,
     "node_id": "MDc6TGljZW5zZTA="
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "voyera": 1,
+    "krekoten": 1,
+    "aspencer8111": 1,
+    "phezco": 78
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 145973,
+      "color": "#701516"
+    },
+    "HTML": {
+      "bytes": 75700,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 9999,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 5730,
+      "color": "#563d7c"
+    },
+    "CoffeeScript": {
+      "bytes": 104,
+      "color": "#244776"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:13.949Z"
 }

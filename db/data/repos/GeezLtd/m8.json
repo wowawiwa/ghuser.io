@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:31:05.221Z",
   "name": "m8",
   "full_name": "GeezLtd/m8",
   "owner": "GeezLtd",
@@ -41,5 +40,15 @@
     "received_events_url": "https://api.github.com/users/GeezLtd/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "pjmagee": 1,
+    "MichalPaszkiewicz": 1,
+    "ahmetabdi": 1
+  },
+  "pulls_authors": [
+    "MichalPaszkiewicz"
+  ],
+  "languages": {},
+  "fetched_at": "2018-09-12T15:31:05.221Z"
 }

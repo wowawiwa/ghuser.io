@@ -105,7 +105,7 @@
     "lixiaobing1": 119,
     "anusha-ragunathan": 206,
     "estesp": 282,
-    "seemethere": 197,
+    "seemethere": 208,
     "WeiZhang555": 135,
     "mavenugo": 174,
     "AkihiroSuda": 253,
@@ -139,10 +139,10 @@
     "creack": 1264,
     "dnephin": 921,
     "albers": 772,
-    "thaJeztah": 3349,
+    "thaJeztah": 3352,
     "crosbymichael": 2111,
     "vieux": 1986,
-    "GordonTheTurtle": 471,
+    "GordonTheTurtle": 473,
     "metalivedev": 134,
     "moxiegirl": 59,
     "johnstep": 42,
@@ -161,7 +161,7 @@
     "ijc": 22,
     "cespare": 21,
     "chenhanxiao": 21,
-    "dhiltgen": 21,
+    "dhiltgen": 22,
     "monnand": 21,
     "StefanScherer": 21,
     "docker-unir[bot]": 21,
@@ -448,15 +448,15 @@
   ],
   "languages": {
     "Go": {
-      "bytes": 9543138,
+      "bytes": 9543139,
       "color": "#375eab"
     },
     "Shell": {
-      "bytes": 433855,
+      "bytes": 433744,
       "color": "#89e051"
     },
     "Makefile": {
-      "bytes": 32596,
+      "bytes": 32652,
       "color": "#427819"
     },
     "PowerShell": {
@@ -484,6 +484,5 @@
       "color": "#6E4C13"
     }
   },
-  "fetched_at": "2018-09-11T20:50:19.855Z",
-  "fetching_since": "2018-09-12T15:50:51.972Z"
+  "fetched_at": "2018-09-12T15:50:51.972Z"
 }

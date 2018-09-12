@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:55:13.288Z",
   "name": "Offliberate",
   "full_name": "PhilipTrauner/Offliberate",
   "owner": "PhilipTrauner",
@@ -27,5 +26,16 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "PhilipTrauner": 23
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 15783,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T15:55:13.288Z"
 }

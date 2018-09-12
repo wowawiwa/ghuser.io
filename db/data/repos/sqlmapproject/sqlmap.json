@@ -112,14 +112,14 @@
     "Meatballs1": 19,
     "guinslym": 20,
     "inquisb": 1816,
-    "stamparm": 6134,
+    "stamparm": 6135,
     "kxcode": 1,
     "cnotin": 1,
     "Ehsan-Nezami": 1
   },
   "languages": {
     "Python": {
-      "bytes": 1710552,
+      "bytes": 1710539,
       "color": "#3572A5"
     },
     "C": {
@@ -143,7 +143,7 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-09-12T05:03:38.759Z",
+  "fetched_at": "2018-09-12T15:46:07.710Z",
   "pulls_url": "https://api.github.com/repos/sqlmapproject/sqlmap/pulls{/number}",
   "pulls_authors": [
     "stasinopoulos",
@@ -279,6 +279,5 @@
     "ghost",
     "cnotin",
     "Ehsan-Nezami"
-  ],
-  "fetching_since": "2018-09-12T15:46:07.710Z"
+  ]
 }

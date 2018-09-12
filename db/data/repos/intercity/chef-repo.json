@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:31:04.725Z",
   "name": "chef-repo",
   "full_name": "intercity/chef-repo",
   "owner": "intercity",
@@ -47,5 +46,57 @@
     "received_events_url": "https://api.github.com/users/intercity/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "yourivdlans": 1,
+    "pkotnis": 1,
+    "hapiben": 1,
+    "ahmetabdi": 1,
+    "bswinnerton": 1,
+    "kevinold": 1,
+    "joejwright": 1,
+    "geopet": 1,
+    "sentience": 2,
+    "joshuajansen": 7,
+    "stansidel": 7,
+    "emilebosch": 14,
+    "AlexanderZaytsev": 14,
+    "oiuzikov": 15,
+    "berkes": 21,
+    "jvanbaarsen": 55,
+    "michiels": 346
+  },
+  "pulls_authors": [
+    "berkes",
+    "michiels",
+    "yourivdlans",
+    "jvanbaarsen",
+    "joshuajansen",
+    "pkotnis",
+    "hapiben",
+    "ghost",
+    "stephenyeargin",
+    "jirikolarik",
+    "ahmetabdi",
+    "stansidel",
+    "kball",
+    "bswinnerton",
+    "kevinold",
+    "emilebosch",
+    "nt591",
+    "krismeister",
+    "sentience",
+    "darylrobbins",
+    "joejwright",
+    "geopet",
+    "lauborges",
+    "AlexanderZaytsev"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 18790,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:04.725Z"
 }

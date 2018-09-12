@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:55:15.336Z",
   "name": "iTunesConnector",
   "full_name": "PhilipTrauner/iTunesConnector",
   "owner": "PhilipTrauner",
@@ -21,5 +20,16 @@
   "mirror_url": null,
   "archived": true,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "PhilipTrauner": 37
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 30496,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T15:55:15.336Z"
 }

@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:49:27.048Z",
   "name": "troposync",
   "full_name": "Troposphir/troposync",
   "owner": "Troposphir",
@@ -41,5 +40,27 @@
     "received_events_url": "https://api.github.com/users/Troposphir/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "pedroslopez": 6,
+    "kroltan": 31
+  },
+  "pulls_authors": [
+    "pedroslopez"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 38581,
+      "color": "#2b7489"
+    },
+    "HTML": {
+      "bytes": 8136,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 3292,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:27.048Z"
 }

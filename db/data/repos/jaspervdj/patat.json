@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:49:23.751Z",
   "name": "patat",
   "full_name": "jaspervdj/patat",
   "owner": "jaspervdj",
@@ -27,5 +26,43 @@
     "url": "https://api.github.com/licenses/gpl-2.0",
     "node_id": "MDc6TGljZW5zZTg="
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "2mol": 1,
+    "pthariensflame": 1,
+    "EdwardBetts": 1,
+    "mrshu": 1,
+    "Kraymer": 1,
+    "aspiwack": 1,
+    "tivervac": 1,
+    "Tenchi2xh": 3,
+    "jaspervdj": 187
+  },
+  "pulls_authors": [
+    "Tenchi2xh",
+    "jaspervdj",
+    "pthariensflame",
+    "EdwardBetts",
+    "mrshu",
+    "legrostdg",
+    "Kraymer",
+    "Ibot02",
+    "aspiwack",
+    "tivervac"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 103362,
+      "color": "#5e5086"
+    },
+    "Shell": {
+      "bytes": 2288,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 726,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:23.751Z"
 }

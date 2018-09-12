@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:48:00.319Z",
   "name": "CompilerExplorer",
   "full_name": "jcelerier/CompilerExplorer",
   "owner": "jcelerier",
@@ -27,5 +26,21 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "jcelerier": 1,
+    "dobokirisame": 102
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 37884,
+      "color": "#f34b7d"
+    },
+    "QMake": {
+      "bytes": 2177,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-12T15:48:00.319Z"
 }

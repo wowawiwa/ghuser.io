@@ -50,18 +50,18 @@
   "contributors": {
     "ptrain": 1,
     "jayvdb": 1,
-    "simon-weber": 16
+    "simon-weber": 18
   },
   "pulls_authors": [
     "ptrain",
-    "jayvdb"
+    "jayvdb",
+    "simon-weber"
   ],
   "languages": {
     "Python": {
-      "bytes": 6847,
+      "bytes": 6884,
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-08-13T13:13:40.598Z",
-  "fetching_since": "2018-09-12T15:46:56.886Z"
+  "fetched_at": "2018-09-12T15:46:56.886Z"
 }

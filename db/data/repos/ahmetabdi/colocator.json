@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:30:52.761Z",
   "name": "colocator",
   "full_name": "ahmetabdi/colocator",
   "owner": "ahmetabdi",
@@ -21,5 +20,44 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "ahmetabdi": 11
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Objective-C": {
+      "bytes": 20927,
+      "color": "#438eff"
+    },
+    "C": {
+      "bytes": 20356,
+      "color": "#555555"
+    },
+    "Java": {
+      "bytes": 5279,
+      "color": "#b07219"
+    },
+    "Ruby": {
+      "bytes": 3428,
+      "color": "#701516"
+    },
+    "JavaScript": {
+      "bytes": 608,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 270,
+      "color": "#89e051"
+    },
+    "Swift": {
+      "bytes": 158,
+      "color": "#ffac45"
+    },
+    "Batchfile": {
+      "bytes": 88,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-12T15:30:52.761Z"
 }

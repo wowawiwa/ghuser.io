@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:36:20.145Z",
   "name": "ofxSimpleHttp",
   "full_name": "armadillu/ofxSimpleHttp",
   "owner": "armadillu",
@@ -27,5 +26,32 @@
     "url": null,
     "node_id": "MDc6TGljZW5zZTA="
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "borg": 1,
+    "jmarsico": 1,
+    "btparker": 1,
+    "markkorput": 6,
+    "armadillu": 187
+  },
+  "pulls_authors": [
+    "markkorput",
+    "jmarsico",
+    "btparker"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 95727,
+      "color": "#f34b7d"
+    },
+    "C": {
+      "bytes": 49418,
+      "color": "#555555"
+    },
+    "Makefile": {
+      "bytes": 1747,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T15:36:20.145Z"
 }

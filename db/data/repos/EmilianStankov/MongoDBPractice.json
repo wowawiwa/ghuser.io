@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:42:49.068Z",
   "name": "MongoDBPractice",
   "full_name": "EmilianStankov/MongoDBPractice",
   "owner": "EmilianStankov",
@@ -21,5 +20,24 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "EmilianStankov": 36
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Java": {
+      "bytes": 19836,
+      "color": "#b07219"
+    },
+    "HTML": {
+      "bytes": 7811,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 3617,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T15:42:49.068Z"
 }

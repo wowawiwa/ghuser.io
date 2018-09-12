@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:31:16.592Z",
   "name": "UnofficialCocos2DTemplate",
   "full_name": "ahmetabdi/UnofficialCocos2DTemplate",
   "owner": "ahmetabdi",
@@ -21,5 +20,28 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "slembcke": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Objective-C": {
+      "bytes": 9013,
+      "color": "#438eff"
+    },
+    "Ruby": {
+      "bytes": 1708,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 191,
+      "color": "#89e051"
+    },
+    "Swift": {
+      "bytes": 50,
+      "color": "#ffac45"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:16.592Z"
 }

@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:47:48.530Z",
   "name": "pres-scrime-2017",
   "full_name": "jcelerier/pres-scrime-2017",
   "owner": "jcelerier",
@@ -21,5 +20,36 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "jcelerier": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "QML": {
+      "bytes": 58157,
+      "color": "#44a51c"
+    },
+    "Pure Data": {
+      "bytes": 9522,
+      "color": "#ccc"
+    },
+    "GLSL": {
+      "bytes": 3125,
+      "color": "#ccc"
+    },
+    "TeX": {
+      "bytes": 1634,
+      "color": "#3D6117"
+    },
+    "QMake": {
+      "bytes": 1103,
+      "color": "#ccc"
+    },
+    "C++": {
+      "bytes": 686,
+      "color": "#f34b7d"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:48.530Z"
 }

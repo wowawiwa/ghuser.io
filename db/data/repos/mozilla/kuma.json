@@ -111,7 +111,7 @@
     "fwenzel": 31,
     "MikkCZ": 32,
     "willkg": 60,
-    "MatonAnthony": 35,
+    "MatonAnthony": 36,
     "mozilla-pontoon": 37,
     "avelper": 42,
     "koehlermichael": 42,
@@ -480,15 +480,16 @@
     "DavidBruant",
     "LucianU",
     "nickolay",
-    "connor"
+    "connor",
+    "joshJarr"
   ],
   "languages": {
     "Python": {
-      "bytes": 2254951,
+      "bytes": 2257161,
       "color": "#3572A5"
     },
     "HTML": {
-      "bytes": 1669675,
+      "bytes": 1669671,
       "color": "#e34c26"
     },
     "JavaScript": {
@@ -520,6 +521,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-12T04:57:55.174Z",
-  "fetching_since": "2018-09-12T15:35:33.121Z"
+  "fetched_at": "2018-09-12T15:35:33.121Z"
 }

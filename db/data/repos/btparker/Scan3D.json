@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:36:21.837Z",
   "name": "Scan3D",
   "full_name": "btparker/Scan3D",
   "owner": "btparker",
@@ -21,5 +20,18 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "GTDev87": 7,
+    "auginator": 20,
+    "btparker": 71
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 100688,
+      "color": "#f34b7d"
+    }
+  },
+  "fetched_at": "2018-09-12T15:36:21.837Z"
 }

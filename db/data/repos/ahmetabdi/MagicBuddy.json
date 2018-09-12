@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:30:55.200Z",
   "name": "MagicBuddy",
   "full_name": "ahmetabdi/MagicBuddy",
   "owner": "ahmetabdi",
@@ -21,5 +20,28 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "ahmetabdi": 15
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 71974,
+      "color": "#f1e05a"
+    },
+    "Objective-C": {
+      "bytes": 4428,
+      "color": "#438eff"
+    },
+    "Python": {
+      "bytes": 1645,
+      "color": "#3572A5"
+    },
+    "Java": {
+      "bytes": 1626,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-12T15:30:55.200Z"
 }

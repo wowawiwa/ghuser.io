@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:55:06.249Z",
   "name": "volctl",
   "full_name": "buzz/volctl",
   "owner": "buzz",
@@ -27,5 +26,25 @@
     "url": "https://api.github.com/licenses/gpl-2.0",
     "node_id": "MDc6TGljZW5zZTg="
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "PhilipTrauner": 1,
+    "Narrat": 1,
+    "ckorn": 1,
+    "stubb": 1,
+    "buzz": 29
+  },
+  "pulls_authors": [
+    "PhilipTrauner",
+    "Narrat",
+    "ckorn",
+    "stubb"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 154428,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T15:55:06.249Z"
 }

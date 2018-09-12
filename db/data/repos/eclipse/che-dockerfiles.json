@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:48:30.098Z",
   "name": "che-dockerfiles",
   "full_name": "eclipse/che-dockerfiles",
   "owner": "eclipse",
@@ -47,5 +46,89 @@
     "received_events_url": "https://api.github.com/users/eclipse/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "Daniel-Dos": 1,
+    "zacharysang": 1,
+    "bobmcwhirter": 1,
+    "heiko-braun": 1,
+    "gorkem": 1,
+    "bmicklea": 1,
+    "gytis": 1,
+    "mshaposhnik": 1,
+    "rogersachan": 1,
+    "AndrienkoAleksandr": 1,
+    "slemeur": 1,
+    "ibuziuk": 2,
+    "michalszynkiewicz": 2,
+    "kameshsampath": 2,
+    "sr229": 2,
+    "JPinkney": 3,
+    "kenfinnigan": 3,
+    "skabashnyuk": 3,
+    "mkuznyetsov": 4,
+    "davidfestal": 4,
+    "cescoffier": 5,
+    "kaloyan-raev": 5,
+    "monaka": 6,
+    "riuvshin": 7,
+    "l0rd": 11,
+    "dharmit": 11,
+    "TylerJewell": 27,
+    "eivantsov": 31,
+    "benoitf": 83
+  },
+  "pulls_authors": [
+    "eivantsov",
+    "mkuznyetsov",
+    "ibuziuk",
+    "philcali",
+    "cescoffier",
+    "JPinkney",
+    "filips123",
+    "michalszynkiewicz",
+    "zacharysang",
+    "Daniel-Dos",
+    "kenfinnigan",
+    "ivanaslamov",
+    "jgroom33",
+    "rogersachan",
+    "l0rd",
+    "kameshsampath",
+    "bobmcwhirter",
+    "dharmit",
+    "benoitf",
+    "sr229",
+    "riuvshin",
+    "monaka",
+    "davidfestal",
+    "kaloyan-raev",
+    "heiko-braun",
+    "gorkem",
+    "gytis",
+    "JamesDrummond",
+    "bmicklea",
+    "mshaposhnik",
+    "skabashnyuk",
+    "TylerJewell",
+    "AndrienkoAleksandr",
+    "tolusha",
+    "sbryzak",
+    "mariosotil"
+  ],
+  "languages": {
+    "Dockerfile": {
+      "bytes": 67785,
+      "color": "#0db7ed"
+    },
+    "Shell": {
+      "bytes": 14291,
+      "color": "#89e051"
+    },
+    "HTML": {
+      "bytes": 1785,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T15:48:30.098Z"
 }

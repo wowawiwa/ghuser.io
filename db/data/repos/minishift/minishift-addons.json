@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:48:31.312Z",
   "name": "minishift-addons",
   "full_name": "minishift/minishift-addons",
   "owner": "minishift",
@@ -47,5 +46,96 @@
     "received_events_url": "https://api.github.com/users/minishift/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "liangxia": 1,
+    "philips": 1,
+    "jemacom": 1,
+    "huntley": 1,
+    "bgulla": 1,
+    "JPinkney": 1,
+    "robin-owen": 1,
+    "garagatyi": 1,
+    "davidkarlsen": 1,
+    "gbraad": 1,
+    "jpechane": 1,
+    "sabre1041": 1,
+    "durandom": 1,
+    "kadel": 1,
+    "jstrachan": 1,
+    "thatdocslady": 1,
+    "l0rd": 2,
+    "eriknelson": 2,
+    "matzew": 2,
+    "VeerMuchandi": 3,
+    "gordillo-ramon-redhat": 3,
+    "hferentschik": 3,
+    "LalatenduMohanty": 4,
+    "kameshsampath": 5,
+    "agajdosi": 7,
+    "jorgemoralespou": 8,
+    "budhram": 9
+  },
+  "pulls_authors": [
+    "liangxia",
+    "literalice",
+    "philips",
+    "agajdosi",
+    "LalatenduMohanty",
+    "budhram",
+    "vorburger",
+    "amisevsk",
+    "huntley",
+    "cunningt",
+    "jorgemoralespou",
+    "tripledes",
+    "kameshsampath",
+    "jemacom",
+    "VeerMuchandi",
+    "rhoads-zach",
+    "l0rd",
+    "eriknelson",
+    "edmacabebe",
+    "bgulla",
+    "philbrookes",
+    "firemanxbr",
+    "johnkim76",
+    "garagatyi",
+    "davidkarlsen",
+    "gbraad",
+    "matzew",
+    "ibuziuk",
+    "JamesDrummond",
+    "sabre1041",
+    "durandom",
+    "jpechane",
+    "sunix",
+    "kadel",
+    "gordillo-ramon-redhat",
+    "jstrachan",
+    "thatdocslady"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 24006,
+      "color": "#375eab"
+    },
+    "Gherkin": {
+      "bytes": 7024,
+      "color": "#5B2063"
+    },
+    "Shell": {
+      "bytes": 4679,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 2013,
+      "color": "#427819"
+    },
+    "Python": {
+      "bytes": 523,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T15:48:31.312Z"
 }

@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:47:47.508Z",
   "name": "ofxOssia",
   "full_name": "OSSIA/ofxOssia",
   "owner": "OSSIA",
@@ -41,5 +40,38 @@
     "received_events_url": "https://api.github.com/users/OSSIA/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "avilleret": 13,
+    "aklevy": 20,
+    "pach": 26,
+    "jcelerier": 37,
+    "bltzr": 65
+  },
+  "pulls_authors": [
+    "firegreen"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 86060,
+      "color": "#f34b7d"
+    },
+    "Makefile": {
+      "bytes": 3717,
+      "color": "#427819"
+    },
+    "QML": {
+      "bytes": 2496,
+      "color": "#44a51c"
+    },
+    "CMake": {
+      "bytes": 1326,
+      "color": "#ccc"
+    },
+    "C": {
+      "bytes": 870,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:47.508Z"
 }

@@ -52,8 +52,8 @@
     "tphoney": 1,
     "clairecadman": 3,
     "shermdog": 3,
-    "da-ar": 34,
-    "DavidS": 236
+    "da-ar": 35,
+    "DavidS": 245
   },
   "pulls_authors": [
     "DavidS",
@@ -67,7 +67,7 @@
   ],
   "languages": {
     "Ruby": {
-      "bytes": 191392,
+      "bytes": 198553,
       "color": "#701516"
     },
     "Shell": {
@@ -75,6 +75,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-11T17:08:22.906Z",
-  "fetching_since": "2018-09-12T15:40:21.052Z"
+  "fetched_at": "2018-09-12T15:40:21.052Z"
 }

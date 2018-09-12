@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:43:59.233Z",
   "name": "cuckoo",
   "full_name": "gmcabrita/cuckoo",
   "owner": "gmcabrita",
@@ -27,5 +26,19 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "dependabot-bot": 12,
+    "gmcabrita": 83
+  },
+  "pulls_authors": [
+    "dependabot[bot]"
+  ],
+  "languages": {
+    "Elixir": {
+      "bytes": 21322,
+      "color": "#6e4a7e"
+    }
+  },
+  "fetched_at": "2018-09-12T15:43:59.233Z"
 }

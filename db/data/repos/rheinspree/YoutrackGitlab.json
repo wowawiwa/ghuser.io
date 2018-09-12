@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:35:40.610Z",
   "name": "YoutrackGitlab",
   "full_name": "rheinspree/YoutrackGitlab",
   "owner": "rheinspree",
@@ -47,5 +46,24 @@
     "received_events_url": "https://api.github.com/users/rheinspree/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "brase": 52
+  },
+  "pulls_authors": [],
+  "languages": {
+    "F#": {
+      "bytes": 10075,
+      "color": "#b845fc"
+    },
+    "Shell": {
+      "bytes": 423,
+      "color": "#89e051"
+    },
+    "Batchfile": {
+      "bytes": 216,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-12T15:35:40.610Z"
 }

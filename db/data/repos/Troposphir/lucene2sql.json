@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:49:25.703Z",
   "name": "lucene2sql",
   "full_name": "Troposphir/lucene2sql",
   "owner": "Troposphir",
@@ -47,5 +46,16 @@
     "received_events_url": "https://api.github.com/users/Troposphir/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "kroltan": 14
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Rust": {
+      "bytes": 14550,
+      "color": "#dea584"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:25.703Z"
 }

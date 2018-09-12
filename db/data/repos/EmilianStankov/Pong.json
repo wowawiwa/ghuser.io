@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:42:52.319Z",
   "name": "Pong",
   "full_name": "EmilianStankov/Pong",
   "owner": "EmilianStankov",
@@ -27,5 +26,23 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "kalodsun": 17,
+    "EmilianStankov": 27
+  },
+  "pulls_authors": [
+    "kalodsun"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 13594,
+      "color": "#f34b7d"
+    },
+    "C": {
+      "bytes": 8826,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-12T15:42:52.319Z"
 }

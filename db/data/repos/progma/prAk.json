@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:41:13.614Z",
   "name": "prAk",
   "full_name": "progma/prAk",
   "owner": "progma",
@@ -41,5 +40,32 @@
     "received_events_url": "https://api.github.com/users/progma/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "jirkamarsik": 2,
+    "davidmarek": 13,
+    "lukas-lansky": 69,
+    "JackeLee": 97
+  },
+  "pulls_authors": [
+    "JackeLee",
+    "lukas-lansky",
+    "davidmarek",
+    "jirkamarsik"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 959310,
+      "color": "#f1e05a"
+    },
+    "CoffeeScript": {
+      "bytes": 115201,
+      "color": "#244776"
+    },
+    "Shell": {
+      "bytes": 353,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T15:41:13.614Z"
 }

@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:36:24.703Z",
   "name": "WP-Using-Non-Default-URIs",
   "full_name": "butuzov/WP-Using-Non-Default-URIs",
   "owner": "butuzov",
@@ -21,5 +20,11 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "butuzov": 29
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T15:36:24.703Z"
 }

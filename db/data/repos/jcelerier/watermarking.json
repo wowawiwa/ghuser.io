@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:47:59.863Z",
   "name": "watermarking",
   "full_name": "jcelerier/watermarking",
   "owner": "jcelerier",
@@ -27,5 +26,45 @@
     "url": "https://api.github.com/licenses/gpl-3.0",
     "node_id": "MDc6TGljZW5zZTk="
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "mqueirossoares": 1,
+    "enseirb": 3,
+    "vsarthou": 5,
+    "jcelerier": 9,
+    "qmidy": 11,
+    "ademartin": 28
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 956856,
+      "color": "#f34b7d"
+    },
+    "TeX": {
+      "bytes": 273099,
+      "color": "#3D6117"
+    },
+    "C": {
+      "bytes": 32109,
+      "color": "#555555"
+    },
+    "CSS": {
+      "bytes": 9893,
+      "color": "#563d7c"
+    },
+    "IDL": {
+      "bytes": 5910,
+      "color": "#a3522f"
+    },
+    "Matlab": {
+      "bytes": 4359,
+      "color": "#e16737"
+    },
+    "Objective-C": {
+      "bytes": 926,
+      "color": "#438eff"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:59.863Z"
 }

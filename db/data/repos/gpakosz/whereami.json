@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:47:43.107Z",
   "name": "whereami",
   "full_name": "gpakosz/whereami",
   "owner": "gpakosz",
@@ -27,5 +26,28 @@
     "url": null,
     "node_id": "MDc6TGljZW5zZTA="
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "jcelerier": 1,
+    "willtho89": 1,
+    "jbeich": 1,
+    "gpakosz": 24
+  },
+  "pulls_authors": [
+    "jcelerier",
+    "willtho89",
+    "jbeich",
+    "ericcurtin"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 19313,
+      "color": "#555555"
+    },
+    "Makefile": {
+      "bytes": 3327,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:43.107Z"
 }

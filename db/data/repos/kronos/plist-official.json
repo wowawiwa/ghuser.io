@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:49:32.623Z",
   "name": "plist-official",
   "full_name": "kronos/plist-official",
   "owner": "kronos",
@@ -27,5 +26,18 @@
     "url": null,
     "node_id": "MDc6TGljZW5zZTA="
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "kronos": 1,
+    "patsplat": 2,
+    "bleything": 37
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 65348,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:32.623Z"
 }

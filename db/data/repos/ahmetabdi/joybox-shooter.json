@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:31:06.375Z",
   "name": "joybox-shooter",
   "full_name": "ahmetabdi/joybox-shooter",
   "owner": "ahmetabdi",
@@ -21,5 +20,20 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "ahmetabdi": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Objective-C": {
+      "bytes": 23883,
+      "color": "#438eff"
+    },
+    "Ruby": {
+      "bytes": 4674,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:06.375Z"
 }

@@ -127,7 +127,7 @@
     "Lixire": 111,
     "JacksonKearl": 156,
     "sbatten": 221,
-    "egamma": 228,
+    "egamma": 229,
     "octref": 243,
     "kieferrm": 242,
     "RMacfarlane": 241,
@@ -136,18 +136,18 @@
     "rebornix": 705,
     "weinand": 693,
     "ramya-rao-a": 702,
-    "dbaeumer": 751,
+    "dbaeumer": 752,
     "chrmarti": 708,
     "roblourens": 1581,
     "Tyriar": 2172,
-    "aeschli": 2098,
+    "aeschli": 2100,
     "mjbvz": 2193,
-    "sandy081": 2269,
-    "alexandrudima": 3336,
+    "sandy081": 2272,
+    "alexandrudima": 3347,
     "isidorn": 3454,
-    "jrieken": 4125,
-    "joaomoreno": 4711,
-    "bpasero": 5383,
+    "jrieken": 4132,
+    "joaomoreno": 4730,
+    "bpasero": 5388,
     "melvin0008": 7,
     "noahjg": 7,
     "ihalip": 6,
@@ -338,7 +338,7 @@
     "saighost": 2,
     "vincentLiuxiang": 2,
     "wmb0117": 2,
-    "wistcc": 2,
+    "wistcc": 8,
     "amtlib-dot-dll": 2,
     "svipben": 2,
     "DickvdBrink": 2,
@@ -424,7 +424,9 @@
     "davidtadams": 1,
     "dten": 1,
     "DavidPortoUP": 1,
-    "dericcain": 1
+    "dericcain": 1,
+    "Hirico": 2,
+    "tombasche": 2
   },
   "pulls_authors": [
     "headmelted",
@@ -1547,15 +1549,15 @@
   ],
   "languages": {
     "TypeScript": {
-      "bytes": 18801463,
+      "bytes": 18816990,
       "color": "#2b7489"
     },
     "JavaScript": {
-      "bytes": 941341,
+      "bytes": 941382,
       "color": "#f1e05a"
     },
     "CSS": {
-      "bytes": 497492,
+      "bytes": 497233,
       "color": "#563d7c"
     },
     "Inno Setup": {
@@ -1679,6 +1681,5 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-09-12T05:01:52.104Z",
-  "fetching_since": "2018-09-12T15:43:09.001Z"
+  "fetched_at": "2018-09-12T15:43:09.001Z"
 }

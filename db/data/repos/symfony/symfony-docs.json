@@ -410,7 +410,8 @@
     "norkunas": 5,
     "aequasi": 4,
     "fmata": 4,
-    "nicoweb": 6
+    "nicoweb": 6,
+    "caponica": 6
   },
   "name": "symfony-docs",
   "full_name": "symfony/symfony-docs",
@@ -490,7 +491,7 @@
       "color": "#5c7611"
     }
   },
-  "fetched_at": "2018-09-11T17:07:14.615Z",
+  "fetched_at": "2018-09-12T15:36:42.071Z",
   "pulls_url": "https://api.github.com/repos/symfony/symfony-docs/pulls{/number}",
   "pulls_authors": [
     "xabbuh",
@@ -2587,7 +2588,7 @@
     "nicoweb",
     "Einenlum",
     "nouwaarom",
-    "BackEndTea"
-  ],
-  "fetching_since": "2018-09-12T15:36:42.071Z"
+    "BackEndTea",
+    "kadimi"
+  ]
 }

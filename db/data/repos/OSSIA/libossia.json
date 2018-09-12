@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:47:42.380Z",
   "name": "libossia",
   "full_name": "OSSIA/libossia",
   "owner": "OSSIA",
@@ -47,5 +46,96 @@
     "received_events_url": "https://api.github.com/users/OSSIA/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "evanmtp": 1,
+    "LancelThaledric": 1,
+    "sletz": 2,
+    "aliefhooghe": 5,
+    "aklevy": 7,
+    "pchdev": 10,
+    "nvuaille": 19,
+    "jln-": 54,
+    "cbossut": 118,
+    "reno-": 158,
+    "bltzr": 180,
+    "avilleret": 956,
+    "jcelerier": 1801
+  },
+  "pulls_authors": [
+    "evanmtp",
+    "bltzr",
+    "aliefhooghe",
+    "gitter-badger",
+    "jcelerier",
+    "aklevy",
+    "sletz",
+    "theod",
+    "fossabot",
+    "LancelThaledric",
+    "avilleret"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 4567581,
+      "color": "#f34b7d"
+    },
+    "Max": {
+      "bytes": 1881719,
+      "color": "#c4a79c"
+    },
+    "CMake": {
+      "bytes": 162399,
+      "color": "#ccc"
+    },
+    "Python": {
+      "bytes": 126820,
+      "color": "#3572A5"
+    },
+    "C#": {
+      "bytes": 80093,
+      "color": "#178600"
+    },
+    "C": {
+      "bytes": 79273,
+      "color": "#555555"
+    },
+    "XSLT": {
+      "bytes": 73985,
+      "color": "#EB8CEB"
+    },
+    "Shell": {
+      "bytes": 33293,
+      "color": "#89e051"
+    },
+    "QML": {
+      "bytes": 33064,
+      "color": "#44a51c"
+    },
+    "Java": {
+      "bytes": 25357,
+      "color": "#b07219"
+    },
+    "PowerShell": {
+      "bytes": 20498,
+      "color": "#012456"
+    },
+    "HTML": {
+      "bytes": 17007,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 11932,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 230,
+      "color": "#f1e05a"
+    },
+    "Batchfile": {
+      "bytes": 86,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:42.380Z"
 }

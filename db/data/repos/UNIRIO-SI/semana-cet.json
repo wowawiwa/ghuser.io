@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:43:02.183Z",
   "name": "semana-cet",
   "full_name": "UNIRIO-SI/semana-cet",
   "owner": "UNIRIO-SI",
@@ -41,5 +40,19 @@
     "received_events_url": "https://api.github.com/users/UNIRIO-SI/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "arruda": 2,
+    "yuripourre": 10
+  },
+  "pulls_authors": [
+    "arruda"
+  ],
+  "languages": {
+    "Java": {
+      "bytes": 50684,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-12T15:43:02.183Z"
 }

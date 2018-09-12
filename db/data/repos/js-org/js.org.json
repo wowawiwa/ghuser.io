@@ -141,7 +141,7 @@
     "tannerlinsley": 15,
     "pakastin": 16,
     "egoist": 16,
-    "indus": 1916,
+    "indus": 1918,
     "ccrraaiigg": 3,
     "danieljuarezp": 3,
     "dhruvdutt": 3,
@@ -513,15 +513,16 @@
     "pomber": 2,
     "Sphinxxxx": 1,
     "dongwenxiao": 2,
-    "scriptex": 1
+    "scriptex": 1,
+    "Zachify": 3
   },
   "languages": {
     "JavaScript": {
-      "bytes": 85210,
+      "bytes": 85271,
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-11T12:36:07.613Z",
+  "fetched_at": "2018-09-12T15:34:10.792Z",
   "pulls_url": "https://api.github.com/repos/js-org/js.org/pulls{/number}",
   "pulls_authors": [
     "ChandZhang",
@@ -1932,7 +1933,9 @@
     "TroyXun",
     "silkster",
     "Ovyerus",
-    "scriptex"
-  ],
-  "fetching_since": "2018-09-12T15:34:10.792Z"
+    "scriptex",
+    "kodipe",
+    "douglasjunior",
+    "Zachify"
+  ]
 }

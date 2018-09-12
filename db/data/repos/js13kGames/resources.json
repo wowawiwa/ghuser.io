@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/js13kGames/resources/languages",
   "pulls_url": "https://api.github.com/repos/js13kGames/resources/pulls{/number}",
   "created_at": "2015-08-11T08:38:17Z",
-  "updated_at": "2018-09-11T07:28:46Z",
-  "pushed_at": "2018-09-11T07:28:44Z",
+  "updated_at": "2018-09-12T12:58:51Z",
+  "pushed_at": "2018-09-12T12:58:50Z",
   "homepage": "https://js13kgames.github.io/resources/",
-  "size": 201,
+  "size": 202,
   "stargazers_count": 63,
   "language": "HTML",
   "mirror_url": null,
@@ -84,7 +84,8 @@
     "gheja": 3,
     "EvoluoGames": 3,
     "xem": 11,
-    "end3r": 59
+    "end3r": 59,
+    "codyebberson": 1
   },
   "pulls_authors": [
     "codyebberson",
@@ -137,7 +138,7 @@
   ],
   "languages": {
     "HTML": {
-      "bytes": 23355,
+      "bytes": 23482,
       "color": "#e34c26"
     },
     "CSS": {
@@ -145,5 +146,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-12T07:41:59.924Z"
+  "fetched_at": "2018-09-12T16:49:52.372Z"
 }

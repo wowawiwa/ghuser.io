@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:31:02.744Z",
   "name": "PathFindingTest",
   "full_name": "ahmetabdi/PathFindingTest",
   "owner": "ahmetabdi",
@@ -21,5 +20,48 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "ahmetabdi": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Objective-C": {
+      "bytes": 2200796,
+      "color": "#438eff"
+    },
+    "M": {
+      "bytes": 333590,
+      "color": "#ccc"
+    },
+    "C": {
+      "bytes": 258606,
+      "color": "#555555"
+    },
+    "CSS": {
+      "bytes": 18960,
+      "color": "#563d7c"
+    },
+    "C++": {
+      "bytes": 14011,
+      "color": "#f34b7d"
+    },
+    "Mercury": {
+      "bytes": 5493,
+      "color": "#ff2b2b"
+    },
+    "Java": {
+      "bytes": 2968,
+      "color": "#b07219"
+    },
+    "Matlab": {
+      "bytes": 2853,
+      "color": "#e16737"
+    },
+    "Swift": {
+      "bytes": 1225,
+      "color": "#ffac45"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:02.744Z"
 }

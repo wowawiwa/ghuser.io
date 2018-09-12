@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:55:07.284Z",
   "name": "9001d",
   "full_name": "pigeon-working-group/9001d",
   "owner": "pigeon-working-group",
@@ -41,5 +40,32 @@
     "received_events_url": "https://api.github.com/users/pigeon-working-group/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "PhilipTrauner": 19
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Rust": {
+      "bytes": 28841,
+      "color": "#dea584"
+    },
+    "Shell": {
+      "bytes": 1623,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 1439,
+      "color": "#427819"
+    },
+    "Python": {
+      "bytes": 703,
+      "color": "#3572A5"
+    },
+    "CMake": {
+      "bytes": 559,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-12T15:55:07.284Z"
 }

@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:44:40.030Z",
   "name": "tracker",
   "full_name": "airdispatch/tracker",
   "owner": "airdispatch",
@@ -41,5 +40,20 @@
     "received_events_url": "https://api.github.com/users/airdispatch/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "huntaub": 23
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 25377,
+      "color": "#375eab"
+    },
+    "Shell": {
+      "bytes": 106,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T15:44:40.030Z"
 }

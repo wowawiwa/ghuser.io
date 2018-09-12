@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:36:04.488Z",
   "name": "react-diagrams",
   "full_name": "projectstorm/react-diagrams",
   "owner": "projectstorm",
@@ -47,5 +46,84 @@
     "received_events_url": "https://api.github.com/users/projectstorm/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "brian-eightsolutions": 1,
+    "ajthinking": 1,
+    "ganesh-sankey": 1,
+    "tomitrescak": 1,
+    "Schlesiger": 1,
+    "mwozniczak": 1,
+    "gitter-badger": 1,
+    "wader": 2,
+    "smeijer": 2,
+    "chlumper": 2,
+    "maxleiko": 3,
+    "gothy": 3,
+    "gitbook-bot": 4,
+    "kfrajtak": 4,
+    "alex-enchi": 4,
+    "brunoalano": 6,
+    "JokerNN": 7,
+    "DrummerHead": 7,
+    "yngndrw": 8,
+    "dedelp": 8,
+    "klauspaiva": 11,
+    "gen4sp": 19,
+    "dylanvorster": 165
+  },
+  "pulls_authors": [
+    "mitchhentges",
+    "mreishus",
+    "brian-eightsolutions",
+    "ajthinking",
+    "dylanvorster",
+    "ganesh-sankey",
+    "yngndrw",
+    "wader",
+    "johnetrent",
+    "maxleiko",
+    "smeijer",
+    "klauspaiva",
+    "gmpersons",
+    "tomitrescak",
+    "dedelp",
+    "kfrajtak",
+    "JokerNN",
+    "alex-enchi",
+    "Schlesiger",
+    "DrummerHead",
+    "chlumper",
+    "sanfilippopablo",
+    "sompylasar",
+    "brunoalano",
+    "garywong89",
+    "gen4sp",
+    "gothy",
+    "mwozniczak",
+    "gitter-badger"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 107456,
+      "color": "#2b7489"
+    },
+    "JavaScript": {
+      "bytes": 7187,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 2964,
+      "color": "#563d7c"
+    },
+    "Dockerfile": {
+      "bytes": 1016,
+      "color": "#0db7ed"
+    },
+    "HTML": {
+      "bytes": 129,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T15:36:04.488Z"
 }

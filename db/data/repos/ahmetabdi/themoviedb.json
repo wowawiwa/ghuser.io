@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:30:52.880Z",
   "name": "themoviedb",
   "full_name": "ahmetabdi/themoviedb",
   "owner": "ahmetabdi",
@@ -21,5 +20,57 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "jurgens": 1,
+    "vld": 1,
+    "armandofox": 1,
+    "decioferreira": 1,
+    "rossnoble": 1,
+    "druzn3k": 1,
+    "liwei78": 1,
+    "miguelghz": 1,
+    "dmcneil": 1,
+    "jzgdev": 2,
+    "josem": 2,
+    "rectifyer": 2,
+    "NwLyer": 3,
+    "breyten": 5,
+    "yesmeck": 7,
+    "bitboxer": 7,
+    "dankimio": 11,
+    "ahmetabdi": 60
+  },
+  "pulls_authors": [
+    "jurgens",
+    "NwLyer",
+    "vikas-wadhwa",
+    "vld",
+    "armandofox",
+    "dankimio",
+    "wzph",
+    "kinoute",
+    "notnek",
+    "jzgdev",
+    "decioferreira",
+    "snusmu",
+    "rossnoble",
+    "druzn3k",
+    "yesmeck",
+    "josem",
+    "bitdeli-chef",
+    "liwei78",
+    "breyten",
+    "miguelghz",
+    "rectifyer",
+    "bitboxer",
+    "dmcneil"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 59071,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T15:30:52.880Z"
 }

@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:49:28.262Z",
   "name": "exosphir",
   "full_name": "Exosphir/exosphir",
   "owner": "Exosphir",
@@ -41,5 +40,33 @@
     "received_events_url": "https://api.github.com/users/Exosphir/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "The-Retro-Bandit": 6,
+    "zardini123": 21,
+    "kroltan": 23
+  },
+  "pulls_authors": [
+    "The-Retro-Bandit",
+    "zardini123"
+  ],
+  "languages": {
+    "C#": {
+      "bytes": 465043,
+      "color": "#178600"
+    },
+    "GLSL": {
+      "bytes": 303674,
+      "color": "#ccc"
+    },
+    "HTML": {
+      "bytes": 169310,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 1807,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:28.262Z"
 }

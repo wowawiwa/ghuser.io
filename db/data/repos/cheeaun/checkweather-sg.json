@@ -23,18 +23,18 @@
   "default_branch": "master",
   "contributors": {
     "li-xinyang": 1,
-    "cheeaun": 83
+    "cheeaun": 85
   },
   "pulls_authors": [
     "li-xinyang"
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 18946,
+      "bytes": 19587,
       "color": "#f1e05a"
     },
     "CSS": {
-      "bytes": 4623,
+      "bytes": 4663,
       "color": "#563d7c"
     },
     "HTML": {
@@ -42,6 +42,5 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-11T10:34:20.689Z",
-  "fetching_since": "2018-09-12T15:38:31.549Z"
+  "fetched_at": "2018-09-12T15:38:31.549Z"
 }

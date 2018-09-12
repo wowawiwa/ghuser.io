@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:48:31.066Z",
   "name": "eclipse.jdt.ls",
   "full_name": "eclipse/eclipse.jdt.ls",
   "owner": "eclipse",
@@ -47,5 +46,93 @@
     "received_events_url": "https://api.github.com/users/eclipse/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "kittaakos": 1,
+    "BoykoAlex": 1,
+    "adelarsq": 1,
+    "pixystone": 1,
+    "bdshadow": 1,
+    "kdvolder": 1,
+    "tolusha": 1,
+    "puremourning": 1,
+    "btstream": 1,
+    "apupier": 1,
+    "mickaelistria": 1,
+    "dgileadi": 1,
+    "svarlamov": 1,
+    "tsmaeder": 2,
+    "JPinkney": 2,
+    "ansyral": 2,
+    "rcjsuen": 2,
+    "vrubezhny": 3,
+    "rgrunber": 3,
+    "amiramw": 3,
+    "svor": 6,
+    "SummerSun": 8,
+    "jjohnstn": 8,
+    "aeschli": 21,
+    "yaohaizh": 28,
+    "gorkem": 33,
+    "snjeza": 98,
+    "fbricon": 230
+  },
+  "pulls_authors": [
+    "snjeza",
+    "yaohaizh",
+    "tsmaeder",
+    "fbricon",
+    "svor",
+    "Flanker32",
+    "vrubezhny",
+    "jjohnstn",
+    "kittaakos",
+    "rgrunber",
+    "SummerSun",
+    "BoykoAlex",
+    "adelarsq",
+    "pixystone",
+    "gorkem",
+    "kdvolder",
+    "JPinkney",
+    "tolusha",
+    "puremourning",
+    "bdshadow",
+    "btstream",
+    "gatesn",
+    "ansyral",
+    "aeschli",
+    "damieng",
+    "apupier",
+    "mickaelistria",
+    "dgileadi",
+    "andxu",
+    "amiramw",
+    "rcjsuen",
+    "alexeykazakov",
+    "svarlamov",
+    "othomann",
+    "ire603",
+    "nickboldt",
+    "maxandersen"
+  ],
+  "languages": {
+    "Java": {
+      "bytes": 4899330,
+      "color": "#b07219"
+    },
+    "HTML": {
+      "bytes": 85839,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 21802,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 19309,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T15:48:31.066Z"
 }

@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:56:08.697Z",
   "name": "fuel-graph",
   "full_name": "rbarisic/fuel-graph",
   "owner": "rbarisic",
@@ -21,5 +20,24 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "rbarisic": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "PHP": {
+      "bytes": 3205,
+      "color": "#4F5D95"
+    },
+    "JavaScript": {
+      "bytes": 2638,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 628,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T15:56:08.697Z"
 }

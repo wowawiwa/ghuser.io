@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:47:46.986Z",
   "name": "chobo-shl",
   "full_name": "Chobolabs/chobo-shl",
   "owner": "Chobolabs",
@@ -47,5 +46,27 @@
     "received_events_url": "https://api.github.com/users/Chobolabs/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "jcelerier": 2,
+    "iboB": 32
+  },
+  "pulls_authors": [
+    "jcelerier"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 323084,
+      "color": "#f34b7d"
+    },
+    "CMake": {
+      "bytes": 547,
+      "color": "#ccc"
+    },
+    "Batchfile": {
+      "bytes": 144,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:46.986Z"
 }

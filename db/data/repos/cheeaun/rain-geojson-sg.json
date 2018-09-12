@@ -22,15 +22,18 @@
   "license": null,
   "default_branch": "master",
   "contributors": {
-    "cheeaun": 65
+    "cheeaun": 66
   },
   "pulls_authors": [],
   "languages": {
     "JavaScript": {
-      "bytes": 11004,
+      "bytes": 12216,
       "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 111,
+      "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-10T18:59:51.622Z",
-  "fetching_since": "2018-09-12T15:38:30.865Z"
+  "fetched_at": "2018-09-12T15:38:30.865Z"
 }

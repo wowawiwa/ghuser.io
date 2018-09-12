@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:49:32.884Z",
   "name": "rcov",
   "full_name": "kronos/rcov",
   "owner": "kronos",
@@ -27,5 +26,46 @@
     "url": null,
     "node_id": "MDc6TGljZW5zZTA="
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "kronos": 1,
+    "mdkent": 1,
+    "jgeiger": 1,
+    "mchung": 1,
+    "kofno": 1,
+    "clojure-site": 5,
+    "abedra": 14,
+    "rsanheim": 20,
+    "rubikitch": 28,
+    "spicycode": 44,
+    "mfp": 296
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 146402,
+      "color": "#701516"
+    },
+    "JavaScript": {
+      "bytes": 71520,
+      "color": "#f1e05a"
+    },
+    "C": {
+      "bytes": 26681,
+      "color": "#555555"
+    },
+    "Java": {
+      "bytes": 12347,
+      "color": "#b07219"
+    },
+    "Emacs Lisp": {
+      "bytes": 5062,
+      "color": "#c065db"
+    },
+    "Vim script": {
+      "bytes": 914,
+      "color": "#199f4b"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:32.884Z"
 }

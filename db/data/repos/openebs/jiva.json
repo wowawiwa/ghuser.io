@@ -56,7 +56,7 @@
     "AmitKumarDas": 1,
     "pawanpraka1": 2,
     "dargasudarshan": 2,
-    "utkarshmani1997": 13,
+    "utkarshmani1997": 14,
     "vishnuitta": 9,
     "ksatchit": 5,
     "imikushin": 7,
@@ -71,7 +71,7 @@
   },
   "languages": {
     "Go": {
-      "bytes": 337478,
+      "bytes": 337610,
       "color": "#375eab"
     },
     "Python": {
@@ -79,7 +79,7 @@
       "color": "#3572A5"
     },
     "Shell": {
-      "bytes": 43109,
+      "bytes": 43110,
       "color": "#89e051"
     },
     "Makefile": {
@@ -91,7 +91,7 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-05T02:23:30.712Z",
+  "fetched_at": "2018-09-12T15:53:34.530Z",
   "pulls_url": "https://api.github.com/repos/openebs/jiva/pulls{/number}",
   "pulls_authors": [
     "utkarshmani1997",
@@ -112,6 +112,5 @@
     "BaoTran91",
     "AliceWonderland",
     "maheshreddy7797"
-  ],
-  "fetching_since": "2018-09-12T15:53:34.530Z"
+  ]
 }

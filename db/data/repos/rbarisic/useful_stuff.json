@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:56:08.822Z",
   "name": "useful_stuff",
   "full_name": "rbarisic/useful_stuff",
   "owner": "rbarisic",
@@ -27,5 +26,16 @@
     "url": "https://api.github.com/licenses/gpl-2.0",
     "node_id": "MDc6TGljZW5zZTg="
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "rbarisic": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Shell": {
+      "bytes": 91,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T15:56:08.822Z"
 }

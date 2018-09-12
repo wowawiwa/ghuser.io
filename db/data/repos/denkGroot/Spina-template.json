@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:31:00.820Z",
   "name": "Spina-template",
   "full_name": "denkGroot/Spina-template",
   "owner": "denkGroot",
@@ -47,5 +46,41 @@
     "received_events_url": "https://api.github.com/users/denkGroot/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "contributors": {
+    "ThomasBush": 1,
+    "ahmetabdi": 1,
+    "deanpcmad": 1,
+    "lilfaf": 5,
+    "harmdewit": 8,
+    "Bramjetten": 239
+  },
+  "pulls_authors": [
+    "lilfaf",
+    "ThomasBush",
+    "dankmitchell",
+    "ahmetabdi",
+    "deanpcmad",
+    "Swatto",
+    "Bramjetten"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 117081,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 59553,
+      "color": "#563d7c"
+    },
+    "CoffeeScript": {
+      "bytes": 8838,
+      "color": "#244776"
+    },
+    "Ruby": {
+      "bytes": 1267,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:00.820Z"
 }

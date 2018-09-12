@@ -49,25 +49,25 @@
   },
   "contributors": {
     "8573": 24,
-    "peti": 15244,
+    "peti": 15253,
     "edolstra": 12052,
     "FRidh": 4789,
-    "7c6f434c": 4701,
+    "7c6f434c": 4702,
     "vcunat": 4369,
-    "Mic92": 4189,
+    "Mic92": 4193,
     "joachifm": 2723,
     "ttuegel": 2671,
     "domenkozar": 2660,
     "wkennington": 2538,
     "fpletz": 2314,
     "abbradar": 2309,
-    "shlevy": 2309,
+    "shlevy": 2311,
     "civodul": 2006,
     "pSub": 1949,
     "urkud": 1718,
     "matthewbauer": 1637,
     "volth": 1614,
-    "globin": 1600,
+    "globin": 1602,
     "NeQuissimus": 1571,
     "aszlig": 1547,
     "dezgeg": 1511,
@@ -93,7 +93,7 @@
     "romildo": 815,
     "offlinehacker": 756,
     "thoughtpolice": 743,
-    "dotlambda": 724,
+    "dotlambda": 725,
     "zimbatm": 673,
     "bluescreen303": 670,
     "xeji": 652,
@@ -229,7 +229,7 @@
     "ElvishJerricco": 63,
     "eqyiel": 63,
     "nico202": 63,
-    "jluttine": 62,
+    "jluttine": 71,
     "nathanielbaxter": 62,
     "andsild": 61,
     "mpickering": 61,
@@ -2445,7 +2445,7 @@
   ],
   "languages": {
     "Nix": {
-      "bytes": 28343560,
+      "bytes": 28359893,
       "color": "#7e7eff"
     },
     "Shell": {
@@ -2561,6 +2561,5 @@
       "color": "#1e4aec"
     }
   },
-  "fetched_at": "2018-09-12T07:39:57.332Z",
-  "fetching_since": "2018-09-12T15:55:28.462Z"
+  "fetched_at": "2018-09-12T15:55:28.462Z"
 }

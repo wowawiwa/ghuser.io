@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:30:54.630Z",
   "name": "trackr",
   "full_name": "ahmetabdi/trackr",
   "owner": "ahmetabdi",
@@ -21,5 +20,28 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "ahmetabdi": 170
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 118082,
+      "color": "#701516"
+    },
+    "JavaScript": {
+      "bytes": 45065,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 41944,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 26519,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T15:30:54.630Z"
 }

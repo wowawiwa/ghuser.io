@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:48:32.363Z",
   "name": "textme",
   "full_name": "JPinkney/textme",
   "owner": "JPinkney",
@@ -27,5 +26,17 @@
     "url": "https://api.github.com/licenses/mit",
     "node_id": "MDc6TGljZW5zZTEz"
   },
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "JPinkney": 3,
+    "Christopher-Chianelli": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C": {
+      "bytes": 10166,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-12T15:48:32.363Z"
 }

@@ -1,6 +1,5 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
-  "fetching_since": "2018-09-12T15:36:04.699Z",
   "name": "lambda-packages",
   "full_name": "Miserlou/lambda-packages",
   "owner": "Miserlou",
@@ -21,5 +20,85 @@
   "mirror_url": null,
   "archived": false,
   "license": null,
-  "default_branch": "master"
+  "default_branch": "master",
+  "contributors": {
+    "pickfire": 1,
+    "Raekkeri": 1,
+    "grantmcconnaughey": 1,
+    "cspollar": 1,
+    "schuyler1d": 1,
+    "Winter-Guerra": 1,
+    "aectann": 1,
+    "jakul": 2,
+    "cscetbon": 2,
+    "hyrsky": 2,
+    "FrederikP": 2,
+    "lukephillippi": 2,
+    "funkybob": 2,
+    "bhodorog": 2,
+    "wchatx": 3,
+    "maebert": 4,
+    "FlipperPA": 5,
+    "jneves": 6,
+    "nikbora": 6,
+    "brunoalano": 6,
+    "theochit": 8,
+    "jDmacD": 9,
+    "lextoumbourou": 10,
+    "Miserlou": 69
+  },
+  "pulls_authors": [
+    "jakul",
+    "itcakm",
+    "pickfire",
+    "khamaileon",
+    "perbeatus",
+    "Raekkeri",
+    "jneves",
+    "lextoumbourou",
+    "FlipperPA",
+    "grantmcconnaughey",
+    "cscetbon",
+    "cspollar",
+    "theochit",
+    "madalinoprea",
+    "hyrsky",
+    "schuyler1d",
+    "gene1wood",
+    "Tobi042",
+    "nikbora",
+    "jbencook",
+    "saj",
+    "brunoalano",
+    "FrederikP",
+    "lukephillippi",
+    "funkybob",
+    "maebert",
+    "mcrowson",
+    "wchatx",
+    "Winter-Guerra",
+    "lucasnoah",
+    "bhodorog",
+    "johnwheeler",
+    "aectann",
+    "randuhmm",
+    "dtenenba",
+    "cyril94440",
+    "jDmacD"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 24343,
+      "color": "#89e051"
+    },
+    "Python": {
+      "bytes": 8240,
+      "color": "#3572A5"
+    },
+    "Ruby": {
+      "bytes": 1827,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T15:36:04.699Z"
 }
