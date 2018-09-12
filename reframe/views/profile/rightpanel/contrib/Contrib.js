@@ -5,6 +5,7 @@ import Badge from './Badge';
 import RepoDescrAndDetails from './RepoDescrAndDetails';
 import './Contrib.css';
 import Avatar from '../../Avatar';
+import AvatarAdd from '../../AvatarAdd';
 import * as db from '../../db';
 import {withSeparator} from '../../css';
 import {bigNum, roundHalf} from '../../numbers';
@@ -47,7 +48,7 @@ class Contrib extends React.Component {
         return <Avatar url={this.state.repo.organization.avatar_url} classes="avatar-small" />;
       }
       return <a href={`${urls.docs}/repo-settings.md`} title="Add an avatar"
-                target="_blank"><Avatar type="add" classes="avatar-small avatar-add text-gray" /></a>;
+                target="_blank"><AvatarAdd/></a>;
     };
 
     const badges = (owner, isFork, percentage, numContributors, popularity, numStars, activity,
