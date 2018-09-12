@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/phpmd/phpmd/languages",
   "pulls_url": "https://api.github.com/repos/phpmd/phpmd/pulls{/number}",
   "created_at": "2011-01-29T21:51:55Z",
-  "updated_at": "2018-09-11T11:17:34Z",
-  "pushed_at": "2018-09-11T12:44:43Z",
+  "updated_at": "2018-09-12T10:15:10Z",
+  "pushed_at": "2018-09-12T08:31:23Z",
   "homepage": "http://phpmd.org",
   "size": 3177,
-  "stargazers_count": 1222,
+  "stargazers_count": 1223,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -245,5 +245,6 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-09-11T20:47:13.832Z"
+  "fetched_at": "2018-09-11T20:47:13.832Z",
+  "fetching_since": "2018-09-12T15:42:54.793Z"
 }

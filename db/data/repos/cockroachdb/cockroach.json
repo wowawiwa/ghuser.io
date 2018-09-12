@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/cockroachdb/cockroach",
   "languages_url": "https://api.github.com/repos/cockroachdb/cockroach/languages",
   "created_at": "2014-02-06T00:18:47Z",
-  "updated_at": "2018-09-12T03:23:06Z",
-  "pushed_at": "2018-09-12T04:13:53Z",
+  "updated_at": "2018-09-12T15:34:08Z",
+  "pushed_at": "2018-09-12T15:41:23Z",
   "homepage": "https://www.cockroachlabs.com",
-  "size": 1036343,
-  "stargazers_count": 14240,
+  "size": 1036376,
+  "stargazers_count": 14242,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -592,5 +592,6 @@
     "ridwanmsharif",
     "eriktrinh",
     "sankt-petersbug"
-  ]
+  ],
+  "fetching_since": "2018-09-12T15:41:44.270Z"
 }

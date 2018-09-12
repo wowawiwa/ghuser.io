@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/box/spout/languages",
   "pulls_url": "https://api.github.com/repos/box/spout/pulls{/number}",
   "created_at": "2015-01-14T00:36:25Z",
-  "updated_at": "2018-09-11T02:44:57Z",
+  "updated_at": "2018-09-12T13:24:03Z",
   "pushed_at": "2018-09-03T09:15:10Z",
   "homepage": "http://opensource.box.com/spout/",
   "size": 9582,
-  "stargazers_count": 1714,
+  "stargazers_count": 1717,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -124,5 +124,6 @@
       "color": "#4F5D95"
     }
   },
-  "fetched_at": "2018-09-12T07:35:28.258Z"
+  "fetched_at": "2018-09-12T07:35:28.258Z",
+  "fetching_since": "2018-09-12T15:48:37.778Z"
 }

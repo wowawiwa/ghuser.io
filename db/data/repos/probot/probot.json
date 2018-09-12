@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/probot/probot",
   "languages_url": "https://api.github.com/repos/probot/probot/languages",
   "created_at": "2016-09-16T20:56:13Z",
-  "updated_at": "2018-09-12T01:45:33Z",
-  "pushed_at": "2018-09-11T23:30:10Z",
+  "updated_at": "2018-09-12T15:23:54Z",
+  "pushed_at": "2018-09-12T10:08:04Z",
   "homepage": "https://probot.github.io",
-  "size": 1757,
-  "stargazers_count": 3224,
+  "size": 1738,
+  "stargazers_count": 3226,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -235,5 +235,6 @@
     "augustogoulart",
     "gupsho",
     "borNfreee"
-  ]
+  ],
+  "fetching_since": "2018-09-12T15:45:36.938Z"
 }

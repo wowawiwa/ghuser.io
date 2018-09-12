@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/standard/standard/languages",
   "pulls_url": "https://api.github.com/repos/standard/standard/pulls{/number}",
   "created_at": "2015-01-27T01:23:31Z",
-  "updated_at": "2018-09-12T03:01:09Z",
+  "updated_at": "2018-09-12T12:10:02Z",
   "pushed_at": "2018-09-12T01:13:20Z",
   "homepage": "https://standardjs.com",
   "size": 2182,
-  "stargazers_count": 19097,
+  "stargazers_count": 19101,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -338,5 +338,6 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T04:55:57.532Z"
+  "fetched_at": "2018-09-12T04:55:57.532Z",
+  "fetching_since": "2018-09-12T15:31:32.975Z"
 }

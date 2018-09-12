@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/commons-app/apps-android-commons/languages",
   "pulls_url": "https://api.github.com/repos/commons-app/apps-android-commons/pulls{/number}",
   "created_at": "2015-09-07T05:23:27Z",
-  "updated_at": "2018-09-11T15:44:46Z",
-  "pushed_at": "2018-09-11T15:44:42Z",
+  "updated_at": "2018-09-12T11:11:03Z",
+  "pushed_at": "2018-09-12T11:10:59Z",
   "homepage": "",
-  "size": 201973,
+  "size": 201976,
   "stargazers_count": 290,
   "language": "Java",
   "mirror_url": null,
@@ -318,5 +318,6 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-11T17:11:21.031Z"
+  "fetched_at": "2018-09-11T17:11:21.031Z",
+  "fetching_since": "2018-09-12T15:46:45.484Z"
 }

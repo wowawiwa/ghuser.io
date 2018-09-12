@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/oblique/create_ap/languages",
   "pulls_url": "https://api.github.com/repos/oblique/create_ap/pulls{/number}",
   "created_at": "2013-09-28T05:41:48Z",
-  "updated_at": "2018-09-11T16:44:55Z",
+  "updated_at": "2018-09-12T11:26:15Z",
   "pushed_at": "2018-09-06T01:25:13Z",
   "homepage": "",
   "size": 349,
-  "stargazers_count": 2495,
+  "stargazers_count": 2496,
   "language": "Shell",
   "mirror_url": null,
   "archived": false,
@@ -115,5 +115,6 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-11T20:46:56.154Z"
+  "fetched_at": "2018-09-11T20:46:56.154Z",
+  "fetching_since": "2018-09-12T15:42:33.774Z"
 }

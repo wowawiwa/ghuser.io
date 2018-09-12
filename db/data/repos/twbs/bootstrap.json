@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/twbs/bootstrap/languages",
   "pulls_url": "https://api.github.com/repos/twbs/bootstrap/pulls{/number}",
   "created_at": "2011-07-29T21:19:00Z",
-  "updated_at": "2018-09-12T03:57:58Z",
-  "pushed_at": "2018-09-11T11:01:12Z",
+  "updated_at": "2018-09-12T15:23:29Z",
+  "pushed_at": "2018-09-12T08:25:20Z",
   "homepage": "http://getbootstrap.com",
-  "size": 126258,
-  "stargazers_count": 127287,
+  "size": 126259,
+  "stargazers_count": 127304,
   "language": "CSS",
   "mirror_url": null,
   "archived": false,
@@ -4008,5 +4008,6 @@
       "color": "#012456"
     }
   },
-  "fetched_at": "2018-09-12T04:55:42.904Z"
+  "fetched_at": "2018-09-12T04:55:42.904Z",
+  "fetching_since": "2018-09-12T15:30:47.943Z"
 }

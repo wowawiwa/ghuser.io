@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/quintel/etsource/languages",
   "pulls_url": "https://api.github.com/repos/quintel/etsource/pulls{/number}",
   "created_at": "2011-10-03T12:58:51Z",
-  "updated_at": "2018-09-12T07:29:59Z",
-  "pushed_at": "2018-09-12T07:29:58Z",
+  "updated_at": "2018-09-12T08:19:09Z",
+  "pushed_at": "2018-09-12T08:19:11Z",
   "homepage": "www.energytransitionmodel.com",
-  "size": 74983,
+  "size": 75002,
   "stargazers_count": 7,
   "language": "Ruby",
   "mirror_url": null,
@@ -115,5 +115,6 @@
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-09-12T07:31:20.548Z"
+  "fetched_at": "2018-09-12T07:31:20.548Z",
+  "fetching_since": "2018-09-12T15:33:12.429Z"
 }

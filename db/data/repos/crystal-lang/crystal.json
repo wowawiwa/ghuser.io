@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/crystal-lang/crystal/languages",
   "pulls_url": "https://api.github.com/repos/crystal-lang/crystal/pulls{/number}",
   "created_at": "2012-11-27T17:32:32Z",
-  "updated_at": "2018-09-12T04:08:47Z",
-  "pushed_at": "2018-09-12T02:46:26Z",
+  "updated_at": "2018-09-12T14:59:10Z",
+  "pushed_at": "2018-09-12T14:58:49Z",
   "homepage": "https://crystal-lang.org",
-  "size": 38122,
-  "stargazers_count": 11768,
+  "size": 38143,
+  "stargazers_count": 11771,
   "language": "Crystal",
   "mirror_url": null,
   "archived": false,
@@ -813,5 +813,6 @@
       "color": "#555555"
     }
   },
-  "fetched_at": "2018-09-12T05:00:03.962Z"
+  "fetched_at": "2018-09-12T05:00:03.962Z",
+  "fetching_since": "2018-09-12T15:40:22.707Z"
 }

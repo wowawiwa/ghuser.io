@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/reduxjs/redux/languages",
   "pulls_url": "https://api.github.com/repos/reduxjs/redux/pulls{/number}",
   "created_at": "2015-05-29T23:53:15Z",
-  "updated_at": "2018-09-12T04:32:20Z",
-  "pushed_at": "2018-09-11T17:26:48Z",
+  "updated_at": "2018-09-12T15:20:52Z",
+  "pushed_at": "2018-09-12T09:04:26Z",
   "homepage": "http://redux.js.org",
   "size": 7045,
-  "stargazers_count": 43888,
+  "stargazers_count": 43906,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -1519,5 +1519,6 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-12T04:58:35.373Z"
+  "fetched_at": "2018-09-12T04:58:35.373Z",
+  "fetching_since": "2018-09-12T15:37:28.615Z"
 }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/mitmproxy/mitmproxy/languages",
   "pulls_url": "https://api.github.com/repos/mitmproxy/mitmproxy/pulls{/number}",
   "created_at": "2010-02-16T04:10:13Z",
-  "updated_at": "2018-09-12T04:35:29Z",
+  "updated_at": "2018-09-12T15:11:39Z",
   "pushed_at": "2018-09-11T16:23:58Z",
   "homepage": "https://mitmproxy.org/",
   "size": 44980,
-  "stargazers_count": 12439,
+  "stargazers_count": 12448,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -624,5 +624,6 @@
       "color": "#012456"
     }
   },
-  "fetched_at": "2018-09-12T05:01:08.414Z"
+  "fetched_at": "2018-09-12T05:01:08.414Z",
+  "fetching_since": "2018-09-12T15:42:00.796Z"
 }

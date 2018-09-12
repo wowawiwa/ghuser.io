@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/mrdoob/three.js/languages",
   "pulls_url": "https://api.github.com/repos/mrdoob/three.js/pulls{/number}",
   "created_at": "2010-03-23T18:58:01Z",
-  "updated_at": "2018-09-12T07:09:19Z",
-  "pushed_at": "2018-09-12T03:21:22Z",
+  "updated_at": "2018-09-12T15:47:17Z",
+  "pushed_at": "2018-09-12T14:36:07Z",
   "homepage": "https://threejs.org/",
   "size": 681907,
-  "stargazers_count": 44747,
+  "stargazers_count": 44758,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -1948,5 +1948,6 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T07:40:22.165Z"
+  "fetched_at": "2018-09-12T07:40:22.165Z",
+  "fetching_since": "2018-09-12T15:56:21.249Z"
 }

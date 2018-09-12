@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/nodezoo/nodezoo-workshop/languages",
   "pulls_url": "https://api.github.com/repos/nodezoo/nodezoo-workshop/pulls{/number}",
   "created_at": "2012-11-19T15:27:49Z",
-  "updated_at": "2018-09-02T15:32:43Z",
+  "updated_at": "2018-09-12T15:14:45Z",
   "pushed_at": "2017-08-25T18:22:12Z",
   "homepage": "http://senecajs.org",
   "size": 331,
-  "stargazers_count": 184,
+  "stargazers_count": 185,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -90,5 +90,6 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-11T17:13:20.069Z"
+  "fetched_at": "2018-09-11T17:13:20.069Z",
+  "fetching_since": "2018-09-12T15:52:53.932Z"
 }

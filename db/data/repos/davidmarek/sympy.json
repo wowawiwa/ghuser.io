@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:41:15.587Z",
+  "name": "sympy",
+  "full_name": "davidmarek/sympy",
+  "owner": "davidmarek",
+  "private": false,
+  "html_url": "https://github.com/davidmarek/sympy",
+  "description": "The main development repo for SymPy",
+  "fork": true,
+  "url": "https://api.github.com/repos/davidmarek/sympy",
+  "languages_url": "https://api.github.com/repos/davidmarek/sympy/languages",
+  "pulls_url": "https://api.github.com/repos/davidmarek/sympy/pulls{/number}",
+  "created_at": "2011-03-21T09:54:25Z",
+  "updated_at": "2013-12-14T19:57:16Z",
+  "pushed_at": "2011-03-21T03:51:24Z",
+  "homepage": "http://sympy.org/",
+  "size": 22804,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master"
+}

@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:31:14.107Z",
+  "name": "phoenix",
+  "full_name": "ahmetabdi/phoenix",
+  "owner": "ahmetabdi",
+  "private": false,
+  "html_url": "https://github.com/ahmetabdi/phoenix",
+  "description": "Productive. Reliable. Fast. Most web frameworks make you choose between speed and a productive environment. Phoenix gives you both. ",
+  "fork": true,
+  "url": "https://api.github.com/repos/ahmetabdi/phoenix",
+  "languages_url": "https://api.github.com/repos/ahmetabdi/phoenix/languages",
+  "pulls_url": "https://api.github.com/repos/ahmetabdi/phoenix/pulls{/number}",
+  "created_at": "2015-06-22T10:51:54Z",
+  "updated_at": "2015-11-03T15:21:05Z",
+  "pushed_at": "2015-06-22T06:37:29Z",
+  "homepage": "http://www.phoenixframework.org",
+  "size": 3265,
+  "stargazers_count": 1,
+  "language": "Elixir",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master"
+}

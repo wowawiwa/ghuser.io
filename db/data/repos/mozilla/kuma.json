@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/mozilla/kuma/languages",
   "pulls_url": "https://api.github.com/repos/mozilla/kuma/pulls{/number}",
   "created_at": "2011-02-10T21:48:06Z",
-  "updated_at": "2018-09-11T17:13:31Z",
-  "pushed_at": "2018-09-11T17:13:25Z",
+  "updated_at": "2018-09-12T11:16:04Z",
+  "pushed_at": "2018-09-12T08:46:54Z",
   "homepage": "https://developer.mozilla.org",
   "size": 205402,
-  "stargazers_count": 1304,
+  "stargazers_count": 1305,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -520,5 +520,6 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-12T04:57:55.174Z"
+  "fetched_at": "2018-09-12T04:57:55.174Z",
+  "fetching_since": "2018-09-12T15:35:33.121Z"
 }

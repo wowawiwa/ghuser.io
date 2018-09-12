@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:53:01.579Z",
+  "name": "event_storage_prototype",
+  "full_name": "nmt1994/event_storage_prototype",
+  "owner": "nmt1994",
+  "private": false,
+  "html_url": "https://github.com/nmt1994/event_storage_prototype",
+  "description": "Prototype of an event storage system using Typescript and MongoDB",
+  "fork": false,
+  "url": "https://api.github.com/repos/nmt1994/event_storage_prototype",
+  "languages_url": "https://api.github.com/repos/nmt1994/event_storage_prototype/languages",
+  "pulls_url": "https://api.github.com/repos/nmt1994/event_storage_prototype/pulls{/number}",
+  "created_at": "2017-08-26T16:39:50Z",
+  "updated_at": "2018-03-26T16:03:37Z",
+  "pushed_at": "2018-03-26T16:03:36Z",
+  "homepage": "",
+  "size": 93,
+  "stargazers_count": 0,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master"
+}

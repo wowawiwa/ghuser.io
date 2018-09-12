@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/RPi-Distro/pi-gen/languages",
   "pulls_url": "https://api.github.com/repos/RPi-Distro/pi-gen/pulls{/number}",
   "created_at": "2016-04-11T06:37:31Z",
-  "updated_at": "2018-09-11T17:12:45Z",
+  "updated_at": "2018-09-12T11:46:49Z",
   "pushed_at": "2018-08-20T16:41:22Z",
   "homepage": null,
   "size": 768,
-  "stargazers_count": 611,
+  "stargazers_count": 614,
   "language": "Shell",
   "mirror_url": null,
   "archived": false,
@@ -139,5 +139,6 @@
       "color": "#64b970"
     }
   },
-  "fetched_at": "2018-09-12T05:02:08.841Z"
+  "fetched_at": "2018-09-12T05:02:08.841Z",
+  "fetching_since": "2018-09-12T15:43:33.681Z"
 }

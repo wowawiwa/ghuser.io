@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:50:45.551Z",
+  "name": "ANSIPresent",
+  "full_name": "meyskens/ANSIPresent",
+  "owner": "meyskens",
+  "private": false,
+  "html_url": "https://github.com/meyskens/ANSIPresent",
+  "description": "PowerPoint/Keynote for Arduino ",
+  "fork": false,
+  "url": "https://api.github.com/repos/meyskens/ANSIPresent",
+  "languages_url": "https://api.github.com/repos/meyskens/ANSIPresent/languages",
+  "pulls_url": "https://api.github.com/repos/meyskens/ANSIPresent/pulls{/number}",
+  "created_at": "2018-06-15T13:53:20Z",
+  "updated_at": "2018-06-17T17:50:43Z",
+  "pushed_at": "2018-06-17T17:50:42Z",
+  "homepage": null,
+  "size": 20,
+  "stargazers_count": 0,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master"
+}

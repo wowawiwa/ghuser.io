@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/factor/factor/languages",
   "pulls_url": "https://api.github.com/repos/factor/factor/pulls{/number}",
   "created_at": "2009-03-24T13:17:48Z",
-  "updated_at": "2018-09-07T22:29:07Z",
-  "pushed_at": "2018-09-07T22:29:02Z",
+  "updated_at": "2018-09-12T14:04:42Z",
+  "pushed_at": "2018-09-12T14:04:34Z",
   "homepage": "https://factorcode.org/",
-  "size": 134283,
+  "size": 134298,
   "stargazers_count": 682,
   "language": "Factor",
   "mirror_url": null,
@@ -268,5 +268,6 @@
       "color": "#dea584"
     }
   },
-  "fetched_at": "2018-09-08T00:07:50.089Z"
+  "fetched_at": "2018-09-08T00:07:50.089Z",
+  "fetching_since": "2018-09-12T15:55:45.042Z"
 }

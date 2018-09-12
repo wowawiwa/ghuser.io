@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/hyperledger/sawtooth-supply-chain/languages",
   "pulls_url": "https://api.github.com/repos/hyperledger/sawtooth-supply-chain/pulls{/number}",
   "created_at": "2017-10-03T04:48:37Z",
-  "updated_at": "2018-09-04T12:49:50Z",
+  "updated_at": "2018-09-12T09:14:24Z",
   "pushed_at": "2018-08-31T16:14:15Z",
   "homepage": null,
   "size": 16459,
-  "stargazers_count": 140,
+  "stargazers_count": 141,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -140,5 +140,6 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-11T17:14:21.120Z"
+  "fetched_at": "2018-09-11T17:14:21.120Z",
+  "fetching_since": "2018-09-12T15:54:47.284Z"
 }

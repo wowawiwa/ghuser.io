@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/google/lovefield/languages",
   "pulls_url": "https://api.github.com/repos/google/lovefield/pulls{/number}",
   "created_at": "2014-09-30T18:29:14Z",
-  "updated_at": "2018-09-12T02:12:35Z",
+  "updated_at": "2018-09-12T13:52:10Z",
   "pushed_at": "2018-08-01T20:59:07Z",
   "homepage": "https://google.github.io/lovefield/",
   "size": 52600,
-  "stargazers_count": 5925,
+  "stargazers_count": 5928,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -119,5 +119,6 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T04:59:16.698Z"
+  "fetched_at": "2018-09-12T04:59:16.698Z",
+  "fetching_since": "2018-09-12T15:38:53.059Z"
 }

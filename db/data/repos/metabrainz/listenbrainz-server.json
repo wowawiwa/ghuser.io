@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/metabrainz/listenbrainz-server/languages",
   "pulls_url": "https://api.github.com/repos/metabrainz/listenbrainz-server/pulls{/number}",
   "created_at": "2015-09-05T12:30:49Z",
-  "updated_at": "2018-09-10T09:08:49Z",
+  "updated_at": "2018-09-12T15:31:51Z",
   "pushed_at": "2018-09-05T08:41:00Z",
   "homepage": "https://listenbrainz.org/",
   "size": 3111,
-  "stargazers_count": 195,
+  "stargazers_count": 196,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -138,5 +138,6 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-10T15:10:15.854Z"
+  "fetched_at": "2018-09-10T15:10:15.854Z",
+  "fetching_since": "2018-09-12T15:52:48.216Z"
 }

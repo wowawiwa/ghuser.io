@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/pimoroni/pibrella/languages",
   "pulls_url": "https://api.github.com/repos/pimoroni/pibrella/pulls{/number}",
   "created_at": "2013-10-15T14:02:17Z",
-  "updated_at": "2018-09-01T23:26:37Z",
+  "updated_at": "2018-09-12T05:10:34Z",
   "pushed_at": "2017-05-03T15:07:28Z",
   "homepage": "",
   "size": 157,
-  "stargazers_count": 64,
+  "stargazers_count": 65,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -78,5 +78,6 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-12T05:02:11.153Z"
+  "fetched_at": "2018-09-12T05:02:11.153Z",
+  "fetching_since": "2018-09-12T15:43:37.296Z"
 }

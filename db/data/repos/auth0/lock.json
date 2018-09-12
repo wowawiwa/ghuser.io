@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/auth0/lock/languages",
   "pulls_url": "https://api.github.com/repos/auth0/lock/pulls{/number}",
   "created_at": "2014-08-12T18:28:41Z",
-  "updated_at": "2018-09-11T12:48:38Z",
+  "updated_at": "2018-09-12T09:09:09Z",
   "pushed_at": "2018-09-11T12:51:37Z",
   "homepage": "https://auth0.com/docs/libraries/lock",
   "size": 134475,
-  "stargazers_count": 780,
+  "stargazers_count": 781,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -378,5 +378,6 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T05:00:31.210Z"
+  "fetched_at": "2018-09-12T05:00:31.210Z",
+  "fetching_since": "2018-09-12T15:41:06.668Z"
 }

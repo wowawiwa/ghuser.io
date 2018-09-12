@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/Alamofire/Alamofire/languages",
   "pulls_url": "https://api.github.com/repos/Alamofire/Alamofire/pulls{/number}",
   "created_at": "2014-07-31T05:56:19Z",
-  "updated_at": "2018-09-12T03:08:47Z",
+  "updated_at": "2018-09-12T12:06:40Z",
   "pushed_at": "2018-09-07T22:55:11Z",
   "homepage": "",
   "size": 6771,
-  "stargazers_count": 28925,
+  "stargazers_count": 28934,
   "language": "Swift",
   "mirror_url": null,
   "archived": false,
@@ -622,5 +622,6 @@
       "color": "#438eff"
     }
   },
-  "fetched_at": "2018-09-12T05:00:11.924Z"
+  "fetched_at": "2018-09-12T05:00:11.924Z",
+  "fetching_since": "2018-09-12T15:40:35.681Z"
 }

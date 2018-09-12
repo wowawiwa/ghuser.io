@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/bitwarden/web/languages",
   "pulls_url": "https://api.github.com/repos/bitwarden/web/pulls{/number}",
   "created_at": "2015-11-23T23:44:23Z",
-  "updated_at": "2018-09-12T04:33:24Z",
-  "pushed_at": "2018-09-12T04:33:22Z",
+  "updated_at": "2018-09-12T05:30:52Z",
+  "pushed_at": "2018-09-12T13:57:33Z",
   "homepage": "https://vault.bitwarden.com",
-  "size": 23888,
-  "stargazers_count": 441,
+  "size": 23889,
+  "stargazers_count": 442,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -103,5 +103,6 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-12T04:57:38.394Z"
+  "fetched_at": "2018-09-12T04:57:38.394Z",
+  "fetching_since": "2018-09-12T15:34:56.252Z"
 }

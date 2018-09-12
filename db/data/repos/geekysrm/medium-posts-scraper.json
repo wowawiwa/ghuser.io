@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:43:49.014Z",
+  "name": "medium-posts-scraper",
+  "full_name": "geekysrm/medium-posts-scraper",
+  "owner": "geekysrm",
+  "private": false,
+  "html_url": "https://github.com/geekysrm/medium-posts-scraper",
+  "description": "A simple web scraper running in Node.JS to fetch posts of a medium user.",
+  "fork": false,
+  "url": "https://api.github.com/repos/geekysrm/medium-posts-scraper",
+  "languages_url": "https://api.github.com/repos/geekysrm/medium-posts-scraper/languages",
+  "pulls_url": "https://api.github.com/repos/geekysrm/medium-posts-scraper/pulls{/number}",
+  "created_at": "2018-03-26T16:25:18Z",
+  "updated_at": "2018-03-26T16:45:24Z",
+  "pushed_at": "2018-03-26T16:45:23Z",
+  "homepage": null,
+  "size": 2,
+  "stargazers_count": 0,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master"
+}

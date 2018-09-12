@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/requests/httpbin/languages",
   "pulls_url": "https://api.github.com/repos/requests/httpbin/pulls{/number}",
   "created_at": "2011-05-20T21:14:01Z",
-  "updated_at": "2018-09-12T07:07:03Z",
+  "updated_at": "2018-09-12T10:56:16Z",
   "pushed_at": "2018-09-11T12:13:22Z",
   "homepage": "https://httpbin.org",
   "size": 739,
-  "stargazers_count": 6516,
+  "stargazers_count": 6518,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -309,5 +309,6 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-12T07:37:27.112Z"
+  "fetched_at": "2018-09-12T07:37:27.112Z",
+  "fetching_since": "2018-09-12T15:51:35.654Z"
 }

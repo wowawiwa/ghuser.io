@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/StreisandEffect/streisand/languages",
   "pulls_url": "https://api.github.com/repos/StreisandEffect/streisand/pulls{/number}",
   "created_at": "2014-03-23T21:56:19Z",
-  "updated_at": "2018-09-11T21:50:31Z",
+  "updated_at": "2018-09-12T15:21:50Z",
   "pushed_at": "2018-09-09T17:49:55Z",
   "homepage": "https://twitter.com/streisandvpn",
   "size": 3365,
-  "stargazers_count": 15648,
+  "stargazers_count": 15653,
   "language": "Shell",
   "mirror_url": null,
   "archived": false,
@@ -329,5 +329,6 @@
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-09-11T23:08:00.791Z"
+  "fetched_at": "2018-09-11T23:08:00.791Z",
+  "fetching_since": "2018-09-12T15:49:40.393Z"
 }

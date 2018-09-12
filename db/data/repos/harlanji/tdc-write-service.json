@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:44:17.483Z",
+  "name": "tdc-write-service",
+  "full_name": "harlanji/tdc-write-service",
+  "owner": "harlanji",
+  "private": false,
+  "html_url": "https://github.com/harlanji/tdc-write-service",
+  "description": "A demo upload service in Clojure. Dockerized with owner perms",
+  "fork": false,
+  "url": "https://api.github.com/repos/harlanji/tdc-write-service",
+  "languages_url": "https://api.github.com/repos/harlanji/tdc-write-service/languages",
+  "pulls_url": "https://api.github.com/repos/harlanji/tdc-write-service/pulls{/number}",
+  "created_at": "2018-09-04T19:25:29Z",
+  "updated_at": "2018-09-10T02:32:45Z",
+  "pushed_at": "2018-09-10T02:32:44Z",
+  "homepage": null,
+  "size": 37,
+  "stargazers_count": 0,
+  "language": "Clojure",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "epl-1.0",
+    "name": "Eclipse Public License 1.0",
+    "spdx_id": "EPL-1.0",
+    "url": "https://api.github.com/licenses/epl-1.0",
+    "node_id": "MDc6TGljZW5zZTc="
+  },
+  "default_branch": "master"
+}

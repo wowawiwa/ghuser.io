@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/jest-community/eslint-plugin-jest/languages",
   "pulls_url": "https://api.github.com/repos/jest-community/eslint-plugin-jest/pulls{/number}",
   "created_at": "2017-11-08T20:46:32Z",
-  "updated_at": "2018-09-11T04:50:10Z",
+  "updated_at": "2018-09-12T08:28:44Z",
   "pushed_at": "2018-09-11T23:16:39Z",
   "homepage": "",
   "size": 441,
-  "stargazers_count": 195,
+  "stargazers_count": 196,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -122,5 +122,6 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-12T04:58:34.878Z"
+  "fetched_at": "2018-09-12T04:58:34.878Z",
+  "fetching_since": "2018-09-12T15:37:27.862Z"
 }

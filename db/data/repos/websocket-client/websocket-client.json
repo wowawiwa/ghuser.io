@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/websocket-client/websocket-client/languages",
   "pulls_url": "https://api.github.com/repos/websocket-client/websocket-client/pulls{/number}",
   "created_at": "2010-12-28T06:35:25Z",
-  "updated_at": "2018-09-12T03:48:36Z",
+  "updated_at": "2018-09-12T09:56:18Z",
   "pushed_at": "2018-09-09T13:20:49Z",
   "homepage": "https://github.com/websocket-client/websocket-client",
   "size": 1013,
-  "stargazers_count": 1539,
+  "stargazers_count": 1540,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -343,5 +343,6 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T05:04:11.847Z"
+  "fetched_at": "2018-09-12T05:04:11.847Z",
+  "fetching_since": "2018-09-12T15:46:56.547Z"
 }

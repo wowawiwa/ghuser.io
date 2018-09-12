@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/chartjs/Chart.js/languages",
   "pulls_url": "https://api.github.com/repos/chartjs/Chart.js/pulls{/number}",
   "created_at": "2013-03-17T23:56:36Z",
-  "updated_at": "2018-09-12T07:06:54Z",
+  "updated_at": "2018-09-12T15:43:45Z",
   "pushed_at": "2018-09-11T07:12:29Z",
   "homepage": "http://www.chartjs.org/",
   "size": 10121,
-  "stargazers_count": 39268,
+  "stargazers_count": 39276,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -916,5 +916,6 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T07:34:57.606Z"
+  "fetched_at": "2018-09-12T07:34:57.606Z",
+  "fetching_since": "2018-09-12T15:47:32.466Z"
 }

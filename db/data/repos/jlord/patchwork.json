@@ -11,8 +11,8 @@
   "languages_url": "https://api.github.com/repos/jlord/patchwork/languages",
   "pulls_url": "https://api.github.com/repos/jlord/patchwork/pulls{/number}",
   "created_at": "2014-01-10T00:00:11Z",
-  "updated_at": "2018-09-12T03:10:28Z",
-  "pushed_at": "2018-09-11T23:58:02Z",
+  "updated_at": "2018-09-12T14:51:59Z",
+  "pushed_at": "2018-09-12T14:40:22Z",
   "homepage": "http://jlord.github.io/patchwork",
   "size": 118355,
   "stargazers_count": 771,
@@ -22262,5 +22262,6 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-12T04:59:18.794Z"
+  "fetched_at": "2018-09-12T04:59:18.794Z",
+  "fetching_since": "2018-09-12T15:39:06.260Z"
 }

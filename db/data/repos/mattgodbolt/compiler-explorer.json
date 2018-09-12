@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:47:46.606Z",
+  "name": "compiler-explorer",
+  "full_name": "mattgodbolt/compiler-explorer",
+  "owner": "mattgodbolt",
+  "private": false,
+  "html_url": "https://github.com/mattgodbolt/compiler-explorer",
+  "description": "Run compilers interactively from your web browser and interact with the assembly",
+  "fork": false,
+  "url": "https://api.github.com/repos/mattgodbolt/compiler-explorer",
+  "languages_url": "https://api.github.com/repos/mattgodbolt/compiler-explorer/languages",
+  "pulls_url": "https://api.github.com/repos/mattgodbolt/compiler-explorer/pulls{/number}",
+  "created_at": "2012-05-23T01:31:17Z",
+  "updated_at": "2018-09-12T11:04:36Z",
+  "pushed_at": "2018-09-11T10:13:11Z",
+  "homepage": "https://godbolt.org/",
+  "size": 8962,
+  "stargazers_count": 4526,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-2-clause",
+    "name": "BSD 2-Clause \"Simplified\" License",
+    "spdx_id": "BSD-2-Clause",
+    "url": "https://api.github.com/licenses/bsd-2-clause",
+    "node_id": "MDc6TGljZW5zZTQ="
+  },
+  "default_branch": "master"
+}

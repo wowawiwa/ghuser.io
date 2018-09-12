@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/gothinkster/realworld/languages",
   "pulls_url": "https://api.github.com/repos/gothinkster/realworld/pulls{/number}",
   "created_at": "2016-02-26T20:49:53Z",
-  "updated_at": "2018-09-12T04:56:05Z",
+  "updated_at": "2018-09-12T15:22:07Z",
   "pushed_at": "2018-09-11T16:34:50Z",
   "homepage": "https://realworld.io/",
   "size": 2612,
-  "stargazers_count": 18898,
+  "stargazers_count": 18909,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -117,5 +117,6 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T04:56:53.491Z"
+  "fetched_at": "2018-09-12T04:56:53.491Z",
+  "fetching_since": "2018-09-12T15:33:30.394Z"
 }

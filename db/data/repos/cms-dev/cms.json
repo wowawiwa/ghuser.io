@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/cms-dev/cms/languages",
   "pulls_url": "https://api.github.com/repos/cms-dev/cms/pulls{/number}",
   "created_at": "2011-10-03T13:37:02Z",
-  "updated_at": "2018-09-11T15:28:29Z",
-  "pushed_at": "2018-09-11T15:28:25Z",
+  "updated_at": "2018-09-12T12:25:00Z",
+  "pushed_at": "2018-09-12T09:03:59Z",
   "homepage": "http://cms-dev.github.io/",
-  "size": 17860,
-  "stargazers_count": 435,
+  "size": 17863,
+  "stargazers_count": 434,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -238,5 +238,6 @@
       "color": "#3D6117"
     }
   },
-  "fetched_at": "2018-09-12T05:02:24.759Z"
+  "fetched_at": "2018-09-12T05:02:24.759Z",
+  "fetching_since": "2018-09-12T15:43:55.686Z"
 }

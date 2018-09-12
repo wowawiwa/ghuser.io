@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/ReactiveCocoa/ReactiveCocoa/languages",
   "pulls_url": "https://api.github.com/repos/ReactiveCocoa/ReactiveCocoa/pulls{/number}",
   "created_at": "2012-03-02T22:11:24Z",
-  "updated_at": "2018-09-12T06:09:25Z",
+  "updated_at": "2018-09-12T15:48:03Z",
   "pushed_at": "2018-09-10T14:22:40Z",
   "homepage": "",
   "size": 16990,
-  "stargazers_count": 19007,
+  "stargazers_count": 19011,
   "language": "Swift",
   "mirror_url": null,
   "archived": false,
@@ -570,5 +570,6 @@
       "color": "#438eff"
     }
   },
-  "fetched_at": "2018-09-12T07:39:31.053Z"
+  "fetched_at": "2018-09-12T07:39:31.053Z",
+  "fetching_since": "2018-09-12T15:54:30.951Z"
 }

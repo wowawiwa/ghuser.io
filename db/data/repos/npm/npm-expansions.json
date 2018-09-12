@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/npm/npm-expansions/languages",
   "pulls_url": "https://api.github.com/repos/npm/npm-expansions/pulls{/number}",
   "created_at": "2014-09-17T20:54:09Z",
-  "updated_at": "2018-09-12T07:27:44Z",
-  "pushed_at": "2018-09-12T07:22:46Z",
+  "updated_at": "2018-09-12T12:54:59Z",
+  "pushed_at": "2018-09-12T10:28:36Z",
   "homepage": "http://npm.im/npm-expansions",
   "size": 795,
-  "stargazers_count": 860,
+  "stargazers_count": 861,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -1823,5 +1823,6 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-12T07:39:55.556Z"
+  "fetched_at": "2018-09-12T07:39:55.556Z",
+  "fetching_since": "2018-09-12T15:55:16.302Z"
 }

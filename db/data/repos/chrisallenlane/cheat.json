@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/chrisallenlane/cheat/languages",
   "pulls_url": "https://api.github.com/repos/chrisallenlane/cheat/pulls{/number}",
   "created_at": "2013-07-30T01:32:12Z",
-  "updated_at": "2018-09-12T07:04:53Z",
+  "updated_at": "2018-09-12T14:41:22Z",
   "pushed_at": "2018-09-11T07:22:36Z",
   "homepage": "",
   "size": 636,
-  "stargazers_count": 4423,
+  "stargazers_count": 4425,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -301,5 +301,6 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T07:33:10.411Z"
+  "fetched_at": "2018-09-12T07:33:10.411Z",
+  "fetching_since": "2018-09-12T15:42:00.157Z"
 }

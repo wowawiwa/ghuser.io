@@ -11,7 +11,7 @@
   "languages_url": "https://api.github.com/repos/hlandau/acme/languages",
   "pulls_url": "https://api.github.com/repos/hlandau/acme/pulls{/number}",
   "created_at": "2015-11-15T01:56:02Z",
-  "updated_at": "2018-09-11T14:25:43Z",
+  "updated_at": "2018-09-12T09:46:48Z",
   "pushed_at": "2018-08-10T15:16:39Z",
   "homepage": "https://hlandau.github.io/acme/",
   "size": 1117,
@@ -101,5 +101,6 @@
       "color": "#555555"
     }
   },
-  "fetched_at": "2018-09-11T20:50:29.739Z"
+  "fetched_at": "2018-09-11T20:50:29.739Z",
+  "fetching_since": "2018-09-12T15:49:38.975Z"
 }

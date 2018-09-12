@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/yesodweb/shakespeare/languages",
   "pulls_url": "https://api.github.com/repos/yesodweb/shakespeare/pulls{/number}",
   "created_at": "2010-03-21T07:27:36Z",
-  "updated_at": "2018-08-26T05:29:54Z",
-  "pushed_at": "2018-08-30T02:37:03Z",
+  "updated_at": "2018-09-12T07:47:46Z",
+  "pushed_at": "2018-09-12T08:20:39Z",
   "homepage": "http://www.yesodweb.com/book/shakespearean-templates",
-  "size": 1512,
+  "size": 1533,
   "stargazers_count": 103,
   "language": "Haskell",
   "mirror_url": null,
@@ -168,5 +168,6 @@
       "color": "#244776"
     }
   },
-  "fetched_at": "2018-09-07T11:26:20.461Z"
+  "fetched_at": "2018-09-07T11:26:20.461Z",
+  "fetching_since": "2018-09-12T15:53:25.161Z"
 }

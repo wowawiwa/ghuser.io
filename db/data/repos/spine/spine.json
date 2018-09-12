@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/spine/spine/languages",
   "pulls_url": "https://api.github.com/repos/spine/spine/pulls{/number}",
   "created_at": "2011-03-29T06:34:32Z",
-  "updated_at": "2018-09-11T12:28:31Z",
+  "updated_at": "2018-09-12T09:33:28Z",
   "pushed_at": "2017-10-09T17:48:19Z",
   "homepage": "http://spine.github.io",
   "size": 2005,
-  "stargazers_count": 3434,
+  "stargazers_count": 3435,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -277,5 +277,6 @@
       "color": "#244776"
     }
   },
-  "fetched_at": "2018-09-11T17:14:19.500Z"
+  "fetched_at": "2018-09-11T17:14:19.500Z",
+  "fetching_since": "2018-09-12T15:39:52.862Z"
 }

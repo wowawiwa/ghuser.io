@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/Masterminds/sprig/languages",
   "pulls_url": "https://api.github.com/repos/Masterminds/sprig/pulls{/number}",
   "created_at": "2013-11-22T01:20:40Z",
-  "updated_at": "2018-09-11T18:22:48Z",
+  "updated_at": "2018-09-12T09:29:14Z",
   "pushed_at": "2018-08-09T20:38:52Z",
   "homepage": "http://masterminds.github.io/sprig/",
   "size": 299,
-  "stargazers_count": 651,
+  "stargazers_count": 652,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -140,5 +140,6 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-12T07:37:31.337Z"
+  "fetched_at": "2018-09-12T07:37:31.337Z",
+  "fetching_since": "2018-09-12T15:51:41.419Z"
 }

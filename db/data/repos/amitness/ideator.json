@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:32:38.304Z",
+  "name": "ideator",
+  "full_name": "amitness/ideator",
+  "owner": "amitness",
+  "private": false,
+  "html_url": "https://github.com/amitness/ideator",
+  "description": "A web application to share your ideas.",
+  "fork": false,
+  "url": "https://api.github.com/repos/amitness/ideator",
+  "languages_url": "https://api.github.com/repos/amitness/ideator/languages",
+  "pulls_url": "https://api.github.com/repos/amitness/ideator/pulls{/number}",
+  "created_at": "2017-06-27T12:32:28Z",
+  "updated_at": "2017-09-11T08:55:25Z",
+  "pushed_at": "2017-09-11T09:05:50Z",
+  "homepage": "http://ideaness.herokuapp.com/",
+  "size": 63,
+  "stargazers_count": 0,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master"
+}

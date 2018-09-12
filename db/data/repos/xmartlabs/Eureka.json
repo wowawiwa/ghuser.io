@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/xmartlabs/Eureka/languages",
   "pulls_url": "https://api.github.com/repos/xmartlabs/Eureka/pulls{/number}",
   "created_at": "2015-09-28T22:20:53Z",
-  "updated_at": "2018-09-12T07:05:51Z",
+  "updated_at": "2018-09-12T15:28:07Z",
   "pushed_at": "2018-09-10T21:40:45Z",
   "homepage": "https://eurekacommunity.github.io",
   "size": 20648,
-  "stargazers_count": 8972,
+  "stargazers_count": 8973,
   "language": "Swift",
   "mirror_url": null,
   "archived": false,
@@ -349,5 +349,6 @@
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-09-12T07:36:11.138Z"
+  "fetched_at": "2018-09-12T07:36:11.138Z",
+  "fetching_since": "2018-09-12T15:49:49.267Z"
 }

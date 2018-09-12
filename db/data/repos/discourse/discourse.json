@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/discourse/discourse/languages",
   "pulls_url": "https://api.github.com/repos/discourse/discourse/pulls{/number}",
   "created_at": "2013-01-12T00:25:55Z",
-  "updated_at": "2018-09-12T03:17:20Z",
-  "pushed_at": "2018-09-12T04:21:29Z",
+  "updated_at": "2018-09-12T13:54:01Z",
+  "pushed_at": "2018-09-12T15:09:42Z",
   "homepage": "https://www.discourse.org",
-  "size": 233999,
-  "stargazers_count": 26033,
+  "size": 233998,
+  "stargazers_count": 26039,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -1446,5 +1446,6 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T05:01:35.724Z"
+  "fetched_at": "2018-09-12T05:01:35.724Z",
+  "fetching_since": "2018-09-12T15:42:40.647Z"
 }

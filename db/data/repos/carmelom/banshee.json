@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:43:56.810Z",
+  "name": "banshee",
+  "full_name": "carmelom/banshee",
+  "owner": "carmelom",
+  "private": false,
+  "html_url": "https://github.com/carmelom/banshee",
+  "description": "Sistema di controllo elettronico per array di clacson",
+  "fork": false,
+  "url": "https://api.github.com/repos/carmelom/banshee",
+  "languages_url": "https://api.github.com/repos/carmelom/banshee/languages",
+  "pulls_url": "https://api.github.com/repos/carmelom/banshee/pulls{/number}",
+  "created_at": "2014-10-27T15:01:33Z",
+  "updated_at": "2015-02-21T02:25:34Z",
+  "pushed_at": "2014-10-29T17:30:25Z",
+  "homepage": "",
+  "size": 192,
+  "stargazers_count": 0,
+  "language": "Objective-C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master"
+}

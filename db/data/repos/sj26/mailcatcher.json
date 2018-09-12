@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/sj26/mailcatcher/languages",
   "pulls_url": "https://api.github.com/repos/sj26/mailcatcher/pulls{/number}",
   "created_at": "2010-10-25T01:29:06Z",
-  "updated_at": "2018-09-11T10:08:39Z",
+  "updated_at": "2018-09-12T14:13:35Z",
   "pushed_at": "2018-07-25T04:41:31Z",
   "homepage": "http://mailcatcher.me",
   "size": 662,
-  "stargazers_count": 4427,
+  "stargazers_count": 4428,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -189,5 +189,6 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-12T04:58:42.370Z"
+  "fetched_at": "2018-09-12T04:58:42.370Z",
+  "fetching_since": "2018-09-12T15:37:42.617Z"
 }

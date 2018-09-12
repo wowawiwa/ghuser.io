@@ -11,8 +11,8 @@
   "languages_url": "https://api.github.com/repos/joke2k/faker/languages",
   "pulls_url": "https://api.github.com/repos/joke2k/faker/pulls{/number}",
   "created_at": "2012-11-12T23:00:09Z",
-  "updated_at": "2018-09-12T07:04:58Z",
-  "pushed_at": "2018-09-10T20:52:50Z",
+  "updated_at": "2018-09-12T14:00:25Z",
+  "pushed_at": "2018-09-12T11:25:52Z",
   "homepage": "http://faker.rtfd.org",
   "size": 3390,
   "stargazers_count": 6642,
@@ -512,5 +512,6 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-12T07:35:35.784Z"
+  "fetched_at": "2018-09-12T07:35:35.784Z",
+  "fetching_since": "2018-09-12T15:48:48.117Z"
 }

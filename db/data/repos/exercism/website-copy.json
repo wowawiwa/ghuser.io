@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/exercism/website-copy/languages",
   "pulls_url": "https://api.github.com/repos/exercism/website-copy/pulls{/number}",
   "created_at": "2017-08-08T13:34:19Z",
-  "updated_at": "2018-09-11T17:10:05Z",
-  "pushed_at": "2018-09-11T17:10:03Z",
+  "updated_at": "2018-09-12T14:39:05Z",
+  "pushed_at": "2018-09-12T14:39:03Z",
   "homepage": null,
-  "size": 1973,
+  "size": 1968,
   "stargazers_count": 33,
   "language": "HTML",
   "mirror_url": null,
@@ -681,5 +681,6 @@
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-09-11T20:46:48.999Z"
+  "fetched_at": "2018-09-11T20:46:48.999Z",
+  "fetching_since": "2018-09-12T15:42:20.800Z"
 }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/pimoroni/clean-shutdown/languages",
   "pulls_url": "https://api.github.com/repos/pimoroni/clean-shutdown/pulls{/number}",
   "created_at": "2017-03-22T16:49:19Z",
-  "updated_at": "2018-09-09T20:01:47Z",
+  "updated_at": "2018-09-12T11:19:38Z",
   "pushed_at": "2018-09-06T21:41:38Z",
   "homepage": "",
   "size": 58,
-  "stargazers_count": 49,
+  "stargazers_count": 50,
   "language": "Shell",
   "mirror_url": null,
   "archived": false,
@@ -67,5 +67,6 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T05:02:06.951Z"
+  "fetched_at": "2018-09-12T05:02:06.951Z",
+  "fetching_since": "2018-09-12T15:43:31.152Z"
 }

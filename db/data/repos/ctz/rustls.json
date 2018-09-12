@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/ctz/rustls/languages",
   "pulls_url": "https://api.github.com/repos/ctz/rustls/pulls{/number}",
   "created_at": "2016-05-02T20:50:44Z",
-  "updated_at": "2018-09-06T13:36:04Z",
+  "updated_at": "2018-09-12T08:02:20Z",
   "pushed_at": "2018-08-25T18:18:12Z",
   "homepage": "",
   "size": 3286,
-  "stargazers_count": 765,
+  "stargazers_count": 766,
   "language": "Rust",
   "mirror_url": null,
   "archived": false,
@@ -106,5 +106,6 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-12T05:00:15.231Z"
+  "fetched_at": "2018-09-12T05:00:15.231Z",
+  "fetching_since": "2018-09-12T15:40:43.125Z"
 }

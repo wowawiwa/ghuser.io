@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:50:42.299Z",
+  "name": "helmet",
+  "full_name": "meyskens/helmet",
+  "owner": "meyskens",
+  "private": false,
+  "html_url": "https://github.com/meyskens/helmet",
+  "description": "Stateless Kubernetes Templating",
+  "fork": false,
+  "url": "https://api.github.com/repos/meyskens/helmet",
+  "languages_url": "https://api.github.com/repos/meyskens/helmet/languages",
+  "pulls_url": "https://api.github.com/repos/meyskens/helmet/pulls{/number}",
+  "created_at": "2018-03-31T19:31:45Z",
+  "updated_at": "2018-09-03T16:01:21Z",
+  "pushed_at": "2018-09-03T16:01:20Z",
+  "homepage": null,
+  "size": 2149,
+  "stargazers_count": 0,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master"
+}

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/ag-grid/ag-grid/languages",
   "pulls_url": "https://api.github.com/repos/ag-grid/ag-grid/pulls{/number}",
   "created_at": "2014-12-23T16:20:14Z",
-  "updated_at": "2018-09-11T17:32:40Z",
-  "pushed_at": "2018-09-11T20:58:12Z",
+  "updated_at": "2018-09-12T13:15:40Z",
+  "pushed_at": "2018-09-12T15:15:58Z",
   "homepage": "http://www.ag-grid.com",
-  "size": 541546,
-  "stargazers_count": 4265,
+  "size": 541923,
+  "stargazers_count": 4268,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -327,5 +327,6 @@
       "color": "#64b970"
     }
   },
-  "fetched_at": "2018-09-12T07:36:27.358Z"
+  "fetched_at": "2018-09-12T07:36:27.358Z",
+  "fetching_since": "2018-09-12T15:50:13.049Z"
 }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/hashicorp/terraform/languages",
   "pulls_url": "https://api.github.com/repos/hashicorp/terraform/pulls{/number}",
   "created_at": "2014-03-13T22:25:48Z",
-  "updated_at": "2018-09-12T02:07:51Z",
-  "pushed_at": "2018-09-12T00:42:42Z",
+  "updated_at": "2018-09-12T10:43:08Z",
+  "pushed_at": "2018-09-12T12:31:06Z",
   "homepage": "https://www.terraform.io/",
   "size": 138330,
-  "stargazers_count": 13405,
+  "stargazers_count": 13407,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -2154,5 +2154,6 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-12T07:35:16.935Z"
+  "fetched_at": "2018-09-12T07:35:16.935Z",
+  "fetching_since": "2018-09-12T15:36:23.465Z"
 }

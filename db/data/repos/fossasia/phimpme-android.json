@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/fossasia/phimpme-android/languages",
   "pulls_url": "https://api.github.com/repos/fossasia/phimpme-android/pulls{/number}",
   "created_at": "2012-09-07T07:14:54Z",
-  "updated_at": "2018-09-12T02:03:32Z",
-  "pushed_at": "2018-09-11T15:29:54Z",
+  "updated_at": "2018-09-12T14:52:55Z",
+  "pushed_at": "2018-09-12T14:01:43Z",
   "homepage": "",
   "size": 197707,
-  "stargazers_count": 852,
+  "stargazers_count": 854,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -217,5 +217,6 @@
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-09-12T04:57:17.097Z"
+  "fetched_at": "2018-09-12T04:57:17.097Z",
+  "fetching_since": "2018-09-12T15:34:12.654Z"
 }

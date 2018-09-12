@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/coleifer/sqlite-web/languages",
   "pulls_url": "https://api.github.com/repos/coleifer/sqlite-web/pulls{/number}",
   "created_at": "2014-11-08T05:26:31Z",
-  "updated_at": "2018-09-11T05:30:31Z",
+  "updated_at": "2018-09-12T08:10:30Z",
   "pushed_at": "2018-08-08T14:46:34Z",
   "homepage": null,
   "size": 700,
-  "stargazers_count": 619,
+  "stargazers_count": 620,
   "language": "HTML",
   "mirror_url": null,
   "archived": false,
@@ -62,5 +62,6 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-11T10:39:58.465Z"
+  "fetched_at": "2018-09-11T10:39:58.465Z",
+  "fetching_since": "2018-09-12T15:53:53.986Z"
 }

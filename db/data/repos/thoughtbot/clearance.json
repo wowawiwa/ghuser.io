@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/thoughtbot/clearance/languages",
   "pulls_url": "https://api.github.com/repos/thoughtbot/clearance/pulls{/number}",
   "created_at": "2008-09-24T19:57:58Z",
-  "updated_at": "2018-09-07T14:44:33Z",
+  "updated_at": "2018-09-12T08:54:41Z",
   "pushed_at": "2018-05-17T00:13:14Z",
   "homepage": "https://thoughtbot.com/open-source",
   "size": 6408,
-  "stargazers_count": 2938,
+  "stargazers_count": 2939,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -320,5 +320,6 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T04:55:43.707Z"
+  "fetched_at": "2018-09-12T04:55:43.707Z",
+  "fetching_since": "2018-09-12T15:30:48.308Z"
 }

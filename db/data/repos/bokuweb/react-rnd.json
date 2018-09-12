@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/bokuweb/react-rnd/languages",
   "pulls_url": "https://api.github.com/repos/bokuweb/react-rnd/pulls{/number}",
   "created_at": "2016-01-02T07:47:27Z",
-  "updated_at": "2018-09-11T02:52:26Z",
-  "pushed_at": "2018-09-10T22:38:44Z",
+  "updated_at": "2018-09-12T08:23:54Z",
+  "pushed_at": "2018-09-11T12:55:27Z",
   "homepage": "https://bokuweb.github.io/react-rnd/stories",
   "size": 21100,
-  "stargazers_count": 689,
+  "stargazers_count": 690,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -102,5 +102,6 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-11T10:40:09.180Z"
+  "fetched_at": "2018-09-11T10:40:09.180Z",
+  "fetching_since": "2018-09-12T15:54:27.415Z"
 }

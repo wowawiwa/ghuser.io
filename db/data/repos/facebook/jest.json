@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/facebook/jest/languages",
   "pulls_url": "https://api.github.com/repos/facebook/jest/pulls{/number}",
   "created_at": "2013-12-10T00:18:04Z",
-  "updated_at": "2018-09-12T04:57:43Z",
-  "pushed_at": "2018-09-12T02:58:54Z",
+  "updated_at": "2018-09-12T15:23:59Z",
+  "pushed_at": "2018-09-12T13:42:53Z",
   "homepage": "https://facebook.github.io/jest/",
-  "size": 108065,
-  "stargazers_count": 20282,
+  "size": 108111,
+  "stargazers_count": 20303,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -1527,5 +1527,6 @@
       "color": "#2b7489"
     }
   },
-  "fetched_at": "2018-09-12T04:58:34.561Z"
+  "fetched_at": "2018-09-12T04:58:34.561Z",
+  "fetching_since": "2018-09-12T15:37:27.398Z"
 }

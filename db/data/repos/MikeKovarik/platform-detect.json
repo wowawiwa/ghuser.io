@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:51:09.225Z",
+  "name": "platform-detect",
+  "full_name": "MikeKovarik/platform-detect",
+  "owner": "MikeKovarik",
+  "private": false,
+  "html_url": "https://github.com/MikeKovarik/platform-detect",
+  "description": "🃏 Minimalistic isomorphic library for detection of platform, runtime, APIs and more.",
+  "fork": false,
+  "url": "https://api.github.com/repos/MikeKovarik/platform-detect",
+  "languages_url": "https://api.github.com/repos/MikeKovarik/platform-detect/languages",
+  "pulls_url": "https://api.github.com/repos/MikeKovarik/platform-detect/pulls{/number}",
+  "created_at": "2018-05-30T22:08:52Z",
+  "updated_at": "2018-06-15T00:46:36Z",
+  "pushed_at": "2018-06-15T00:46:36Z",
+  "homepage": null,
+  "size": 12,
+  "stargazers_count": 0,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master"
+}

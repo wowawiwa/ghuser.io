@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:45:45.501Z",
+  "name": "2048-pwa",
+  "full_name": "itaditya/2048-pwa",
+  "owner": "itaditya",
+  "private": false,
+  "html_url": "https://github.com/itaditya/2048-pwa",
+  "description": "The famous 2048 game now as a PWA",
+  "fork": true,
+  "url": "https://api.github.com/repos/itaditya/2048-pwa",
+  "languages_url": "https://api.github.com/repos/itaditya/2048-pwa/languages",
+  "pulls_url": "https://api.github.com/repos/itaditya/2048-pwa/pulls{/number}",
+  "created_at": "2017-09-27T06:42:52Z",
+  "updated_at": "2018-01-15T05:37:35Z",
+  "pushed_at": "2017-12-06T20:22:27Z",
+  "homepage": "https://2048.surge.sh/",
+  "size": 1966,
+  "stargazers_count": 0,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master"
+}

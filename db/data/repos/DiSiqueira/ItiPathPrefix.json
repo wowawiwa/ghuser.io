@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:41:41.486Z",
+  "name": "ItiPathPrefix",
+  "full_name": "DiSiqueira/ItiPathPrefix",
+  "owner": "DiSiqueira",
+  "private": false,
+  "html_url": "https://github.com/DiSiqueira/ItiPathPrefix",
+  "description": "Path Prefix Matcher to Itinerary Router",
+  "fork": false,
+  "url": "https://api.github.com/repos/DiSiqueira/ItiPathPrefix",
+  "languages_url": "https://api.github.com/repos/DiSiqueira/ItiPathPrefix/languages",
+  "pulls_url": "https://api.github.com/repos/DiSiqueira/ItiPathPrefix/pulls{/number}",
+  "created_at": "2017-02-26T02:49:06Z",
+  "updated_at": "2017-02-26T03:07:24Z",
+  "pushed_at": "2017-02-26T03:07:10Z",
+  "homepage": "https://disiqueira.github.io/ItiPathPrefix/",
+  "size": 3,
+  "stargazers_count": 0,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master"
+}

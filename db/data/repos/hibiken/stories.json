@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/hibiken/stories/languages",
   "pulls_url": "https://api.github.com/repos/hibiken/stories/pulls{/number}",
   "created_at": "2016-01-03T00:35:53Z",
-  "updated_at": "2018-09-11T08:54:03Z",
-  "pushed_at": "2018-09-11T04:39:48Z",
+  "updated_at": "2018-09-12T13:36:43Z",
+  "pushed_at": "2018-09-11T23:20:53Z",
   "homepage": "https://my-medium-clone.herokuapp.com/",
   "size": 2611,
-  "stargazers_count": 518,
+  "stargazers_count": 519,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -61,5 +61,6 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-11T10:32:05.547Z"
+  "fetched_at": "2018-09-11T10:32:05.547Z",
+  "fetching_since": "2018-09-12T15:32:47.051Z"
 }

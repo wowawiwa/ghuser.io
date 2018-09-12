@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/habitat-sh/core-plans/languages",
   "pulls_url": "https://api.github.com/repos/habitat-sh/core-plans/pulls{/number}",
   "created_at": "2015-11-17T13:45:46Z",
-  "updated_at": "2018-09-10T21:01:16Z",
-  "pushed_at": "2018-09-11T06:59:20Z",
+  "updated_at": "2018-09-12T15:30:47Z",
+  "pushed_at": "2018-09-12T15:30:41Z",
   "homepage": "",
-  "size": 15252,
+  "size": 15239,
   "stargazers_count": 94,
   "language": "Shell",
   "mirror_url": null,
@@ -339,5 +339,6 @@
       "color": "#148AA8"
     }
   },
-  "fetched_at": "2018-09-11T17:08:22.600Z"
+  "fetched_at": "2018-09-11T17:08:22.600Z",
+  "fetching_since": "2018-09-12T15:40:20.646Z"
 }

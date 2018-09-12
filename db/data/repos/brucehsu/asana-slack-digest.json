@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:35:53.905Z",
+  "name": "asana-slack-digest",
+  "full_name": "brucehsu/asana-slack-digest",
+  "owner": "brucehsu",
+  "private": false,
+  "html_url": "https://github.com/brucehsu/asana-slack-digest",
+  "description": "Daily Digest of a Asana team posted to a Slack channel",
+  "fork": false,
+  "url": "https://api.github.com/repos/brucehsu/asana-slack-digest",
+  "languages_url": "https://api.github.com/repos/brucehsu/asana-slack-digest/languages",
+  "pulls_url": "https://api.github.com/repos/brucehsu/asana-slack-digest/pulls{/number}",
+  "created_at": "2016-12-12T07:45:52Z",
+  "updated_at": "2016-12-12T07:46:57Z",
+  "pushed_at": "2017-02-13T04:24:34Z",
+  "homepage": null,
+  "size": 11,
+  "stargazers_count": 0,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master"
+}

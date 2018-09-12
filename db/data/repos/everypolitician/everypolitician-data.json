@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/everypolitician/everypolitician-data/languages",
   "pulls_url": "https://api.github.com/repos/everypolitician/everypolitician-data/pulls{/number}",
   "created_at": "2015-04-28T11:10:07Z",
-  "updated_at": "2018-09-10T15:02:41Z",
-  "pushed_at": "2018-09-12T04:52:04Z",
+  "updated_at": "2018-09-12T13:59:50Z",
+  "pushed_at": "2018-09-12T15:35:50Z",
   "homepage": "http://everypolitician.org/",
-  "size": 1963348,
+  "size": 1971023,
   "stargazers_count": 111,
   "language": "Ruby",
   "mirror_url": null,
@@ -100,5 +100,6 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T04:59:27.142Z"
+  "fetched_at": "2018-09-12T04:59:27.142Z",
+  "fetching_since": "2018-09-12T15:39:19.901Z"
 }

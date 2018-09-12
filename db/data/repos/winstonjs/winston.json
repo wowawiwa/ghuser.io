@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/winstonjs/winston/languages",
   "pulls_url": "https://api.github.com/repos/winstonjs/winston/pulls{/number}",
   "created_at": "2010-12-29T18:49:51Z",
-  "updated_at": "2018-09-12T06:42:46Z",
+  "updated_at": "2018-09-12T15:01:13Z",
   "pushed_at": "2018-09-12T01:31:16Z",
   "homepage": "http://github.com/winstonjs/winston",
   "size": 2220,
-  "stargazers_count": 11393,
+  "stargazers_count": 11398,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -726,5 +726,6 @@
       "color": "#2b7489"
     }
   },
-  "fetched_at": "2018-09-12T07:40:41.099Z"
+  "fetched_at": "2018-09-12T07:40:41.099Z",
+  "fetching_since": "2018-09-12T15:56:52.863Z"
 }

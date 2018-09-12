@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/mysociety/fixmystreet/languages",
   "pulls_url": "https://api.github.com/repos/mysociety/fixmystreet/pulls{/number}",
   "created_at": "2010-01-25T11:54:20Z",
-  "updated_at": "2018-09-11T14:20:42Z",
-  "pushed_at": "2018-09-11T16:53:50Z",
+  "updated_at": "2018-09-12T13:38:34Z",
+  "pushed_at": "2018-09-12T15:11:44Z",
   "homepage": "http://fixmystreet.org/",
-  "size": 124492,
+  "size": 124478,
   "stargazers_count": 360,
   "language": "Perl",
   "mirror_url": null,
@@ -171,5 +171,6 @@
       "color": "#74283c"
     }
   },
-  "fetched_at": "2018-09-12T04:59:47.448Z"
+  "fetched_at": "2018-09-12T04:59:47.448Z",
+  "fetching_since": "2018-09-12T15:39:48.605Z"
 }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/franciscop/server/languages",
   "pulls_url": "https://api.github.com/repos/franciscop/server/pulls{/number}",
   "created_at": "2016-12-20T20:51:08Z",
-  "updated_at": "2018-09-09T08:49:15Z",
+  "updated_at": "2018-09-12T11:48:39Z",
   "pushed_at": "2018-08-20T19:50:33Z",
   "homepage": "https://serverjs.io/",
   "size": 31856,
-  "stargazers_count": 3197,
+  "stargazers_count": 3196,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -57,5 +57,6 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-11T00:04:56.822Z"
+  "fetched_at": "2018-09-11T00:04:56.822Z",
+  "fetching_since": "2018-09-12T15:43:12.617Z"
 }

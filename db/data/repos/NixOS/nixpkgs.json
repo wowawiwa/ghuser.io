@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/NixOS/nixpkgs/languages",
   "pulls_url": "https://api.github.com/repos/NixOS/nixpkgs/pulls{/number}",
   "created_at": "2012-06-04T02:49:46Z",
-  "updated_at": "2018-09-12T06:56:43Z",
-  "pushed_at": "2018-09-12T07:38:29Z",
+  "updated_at": "2018-09-12T13:01:23Z",
+  "pushed_at": "2018-09-12T15:38:09Z",
   "homepage": null,
-  "size": 851026,
-  "stargazers_count": 2781,
+  "size": 851261,
+  "stargazers_count": 2785,
   "language": "Nix",
   "mirror_url": null,
   "archived": false,
@@ -2561,5 +2561,6 @@
       "color": "#1e4aec"
     }
   },
-  "fetched_at": "2018-09-12T07:39:57.332Z"
+  "fetched_at": "2018-09-12T07:39:57.332Z",
+  "fetching_since": "2018-09-12T15:55:28.462Z"
 }

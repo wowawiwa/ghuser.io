@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/avelino/awesome-go/languages",
   "pulls_url": "https://api.github.com/repos/avelino/awesome-go/pulls{/number}",
   "created_at": "2014-07-06T13:42:15Z",
-  "updated_at": "2018-09-12T04:33:29Z",
-  "pushed_at": "2018-09-11T21:22:00Z",
+  "updated_at": "2018-09-12T15:15:03Z",
+  "pushed_at": "2018-09-12T08:06:31Z",
   "homepage": "https://awesome-go.com/",
-  "size": 4451,
-  "stargazers_count": 35034,
+  "size": 4341,
+  "stargazers_count": 35053,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -1661,5 +1661,6 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-12T05:02:57.605Z"
+  "fetched_at": "2018-09-12T05:02:57.605Z",
+  "fetching_since": "2018-09-12T15:45:06.079Z"
 }

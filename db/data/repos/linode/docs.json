@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/linode/docs/languages",
   "pulls_url": "https://api.github.com/repos/linode/docs/pulls{/number}",
   "created_at": "2014-07-24T13:57:47Z",
-  "updated_at": "2018-09-11T18:45:01Z",
-  "pushed_at": "2018-09-11T21:10:44Z",
+  "updated_at": "2018-09-12T15:37:55Z",
+  "pushed_at": "2018-09-12T15:37:49Z",
   "homepage": "https://www.linode.com/docs/",
-  "size": 351427,
+  "size": 351429,
   "stargazers_count": 880,
   "language": "CSS",
   "mirror_url": null,
@@ -736,5 +736,6 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T07:40:24.443Z"
+  "fetched_at": "2018-09-12T07:40:24.443Z",
+  "fetching_since": "2018-09-12T15:56:25.372Z"
 }

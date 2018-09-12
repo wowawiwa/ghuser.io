@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/fzaninotto/Faker/languages",
   "pulls_url": "https://api.github.com/repos/fzaninotto/Faker/pulls{/number}",
   "created_at": "2011-10-14T22:49:02Z",
-  "updated_at": "2018-09-12T06:53:31Z",
+  "updated_at": "2018-09-12T13:47:13Z",
   "pushed_at": "2018-09-12T05:47:59Z",
   "homepage": "",
   "size": 7893,
-  "stargazers_count": 17211,
+  "stargazers_count": 17222,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -1102,5 +1102,6 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-12T07:35:29.388Z"
+  "fetched_at": "2018-09-12T07:35:29.388Z",
+  "fetching_since": "2018-09-12T15:48:39.387Z"
 }

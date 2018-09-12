@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/docker/machine/languages",
   "pulls_url": "https://api.github.com/repos/docker/machine/pulls{/number}",
   "created_at": "2014-12-03T15:52:06Z",
-  "updated_at": "2018-09-11T14:59:00Z",
+  "updated_at": "2018-09-12T10:34:44Z",
   "pushed_at": "2018-08-31T12:43:26Z",
   "homepage": "https://docs.docker.com/machine/",
   "size": 18905,
-  "stargazers_count": 4880,
+  "stargazers_count": 4882,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -837,5 +837,6 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-11T22:27:00.538Z"
+  "fetched_at": "2018-09-11T22:27:00.538Z",
+  "fetching_since": "2018-09-12T15:32:24.960Z"
 }

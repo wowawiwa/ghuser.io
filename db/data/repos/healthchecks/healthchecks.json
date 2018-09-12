@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/healthchecks/healthchecks/languages",
   "pulls_url": "https://api.github.com/repos/healthchecks/healthchecks/pulls{/number}",
   "created_at": "2015-06-25T18:38:33Z",
-  "updated_at": "2018-09-12T02:01:07Z",
+  "updated_at": "2018-09-12T11:33:01Z",
   "pushed_at": "2018-09-11T17:57:52Z",
   "homepage": "https://healthchecks.io",
   "size": 4929,
-  "stargazers_count": 1323,
+  "stargazers_count": 1324,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -123,5 +123,6 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T05:00:21.030Z"
+  "fetched_at": "2018-09-12T05:00:21.030Z",
+  "fetching_since": "2018-09-12T15:40:50.715Z"
 }

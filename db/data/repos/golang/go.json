@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/golang/go/languages",
   "pulls_url": "https://api.github.com/repos/golang/go/pulls{/number}",
   "created_at": "2014-08-19T04:33:40Z",
-  "updated_at": "2018-09-12T04:40:43Z",
-  "pushed_at": "2018-09-11T20:28:33Z",
+  "updated_at": "2018-09-12T15:12:28Z",
+  "pushed_at": "2018-09-12T07:50:42Z",
   "homepage": "https://golang.org",
-  "size": 184426,
-  "stargazers_count": 46749,
+  "size": 184432,
+  "stargazers_count": 46767,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -772,5 +772,6 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-12T04:56:26.271Z"
+  "fetched_at": "2018-09-12T04:56:26.271Z",
+  "fetching_since": "2018-09-12T15:32:27.057Z"
 }

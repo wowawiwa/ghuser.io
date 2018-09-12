@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:54:21.048Z",
+  "name": "rdf-lisp",
+  "full_name": "paulhoule/rdf-lisp",
+  "owner": "paulhoule",
+  "private": false,
+  "html_url": "https://github.com/paulhoule/rdf-lisp",
+  "description": "Lisp implemented with RDF data structures",
+  "fork": false,
+  "url": "https://api.github.com/repos/paulhoule/rdf-lisp",
+  "languages_url": "https://api.github.com/repos/paulhoule/rdf-lisp/languages",
+  "pulls_url": "https://api.github.com/repos/paulhoule/rdf-lisp/pulls{/number}",
+  "created_at": "2016-01-27T01:34:08Z",
+  "updated_at": "2016-01-27T15:02:43Z",
+  "pushed_at": "2016-01-27T15:02:41Z",
+  "homepage": null,
+  "size": 21,
+  "stargazers_count": 0,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master"
+}

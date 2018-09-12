@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/yast/yast-translations/languages",
   "pulls_url": "https://api.github.com/repos/yast/yast-translations/pulls{/number}",
   "created_at": "2016-08-30T09:05:04Z",
-  "updated_at": "2018-09-12T02:29:46Z",
-  "pushed_at": "2018-09-12T02:29:41Z",
+  "updated_at": "2018-09-12T15:05:59Z",
+  "pushed_at": "2018-09-12T15:05:58Z",
   "homepage": null,
-  "size": 311201,
+  "size": 311228,
   "stargazers_count": 9,
   "language": "Shell",
   "mirror_url": null,
@@ -191,5 +191,6 @@
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-09-12T05:03:57.459Z"
+  "fetched_at": "2018-09-12T05:03:57.459Z",
+  "fetching_since": "2018-09-12T15:46:37.150Z"
 }

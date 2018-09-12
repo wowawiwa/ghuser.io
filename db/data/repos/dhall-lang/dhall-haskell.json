@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/dhall-lang/dhall-haskell/languages",
   "pulls_url": "https://api.github.com/repos/dhall-lang/dhall-haskell/pulls{/number}",
   "created_at": "2016-09-07T16:18:15Z",
-  "updated_at": "2018-09-11T13:38:17Z",
-  "pushed_at": "2018-09-11T16:34:42Z",
+  "updated_at": "2018-09-12T13:55:24Z",
+  "pushed_at": "2018-09-12T15:29:38Z",
   "homepage": null,
-  "size": 1797,
+  "size": 1803,
   "stargazers_count": 369,
   "language": "Haskell",
   "mirror_url": null,
@@ -149,5 +149,6 @@
       "color": "#7e7eff"
     }
   },
-  "fetched_at": "2018-09-11T17:14:35.794Z"
+  "fetched_at": "2018-09-11T17:14:35.794Z",
+  "fetching_since": "2018-09-12T15:55:30.377Z"
 }

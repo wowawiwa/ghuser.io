@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/vuejs/vue-devtools/languages",
   "pulls_url": "https://api.github.com/repos/vuejs/vue-devtools/pulls{/number}",
   "created_at": "2014-09-29T03:52:07Z",
-  "updated_at": "2018-09-12T03:56:29Z",
+  "updated_at": "2018-09-12T14:53:46Z",
   "pushed_at": "2018-09-11T22:10:38Z",
   "homepage": "",
   "size": 7020,
-  "stargazers_count": 10162,
+  "stargazers_count": 10174,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -214,5 +214,6 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-12T04:58:33.322Z"
+  "fetched_at": "2018-09-12T04:58:33.322Z",
+  "fetching_since": "2018-09-12T15:37:25.248Z"
 }

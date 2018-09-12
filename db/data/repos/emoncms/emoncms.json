@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/emoncms/emoncms/languages",
   "pulls_url": "https://api.github.com/repos/emoncms/emoncms/pulls{/number}",
   "created_at": "2012-10-15T20:28:36Z",
-  "updated_at": "2018-09-05T13:46:31Z",
+  "updated_at": "2018-09-12T06:23:59Z",
   "pushed_at": "2018-09-11T14:05:02Z",
   "homepage": "https://emoncms.org",
   "size": 8134,
-  "stargazers_count": 713,
+  "stargazers_count": 714,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -275,5 +275,6 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-12T05:02:00.846Z"
+  "fetched_at": "2018-09-12T05:02:00.846Z",
+  "fetching_since": "2018-09-12T15:43:23.669Z"
 }

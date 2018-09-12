@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/electron/apps/languages",
   "pulls_url": "https://api.github.com/repos/electron/apps/pulls{/number}",
   "created_at": "2016-08-31T19:35:56Z",
-  "updated_at": "2018-09-12T05:05:54Z",
-  "pushed_at": "2018-09-11T20:40:04Z",
+  "updated_at": "2018-09-12T11:43:22Z",
+  "pushed_at": "2018-09-12T11:06:20Z",
   "homepage": "https://electronjs.org/apps",
   "size": 200896,
-  "stargazers_count": 521,
+  "stargazers_count": 523,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -901,5 +901,6 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T07:36:20.773Z"
+  "fetched_at": "2018-09-12T07:36:20.773Z",
+  "fetching_since": "2018-09-12T15:50:01.206Z"
 }

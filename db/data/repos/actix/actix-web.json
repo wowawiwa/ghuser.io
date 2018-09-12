@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/actix/actix-web/languages",
   "pulls_url": "https://api.github.com/repos/actix/actix-web/pulls{/number}",
   "created_at": "2017-09-30T15:30:02Z",
-  "updated_at": "2018-09-12T04:04:12Z",
+  "updated_at": "2018-09-12T12:25:34Z",
   "pushed_at": "2018-09-11T20:02:59Z",
   "homepage": "https://actix.rs",
   "size": 6599,
-  "stargazers_count": 2401,
+  "stargazers_count": 2402,
   "language": "Rust",
   "mirror_url": null,
   "archived": false,
@@ -213,5 +213,6 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-12T04:58:09.935Z"
+  "fetched_at": "2018-09-12T04:58:09.935Z",
+  "fetching_since": "2018-09-12T15:36:30.521Z"
 }

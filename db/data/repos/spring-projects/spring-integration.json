@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/spring-projects/spring-integration/languages",
   "pulls_url": "https://api.github.com/repos/spring-projects/spring-integration/pulls{/number}",
   "created_at": "2011-07-22T21:47:27Z",
-  "updated_at": "2018-09-11T20:16:36Z",
-  "pushed_at": "2018-09-11T20:58:39Z",
+  "updated_at": "2018-09-12T14:15:22Z",
+  "pushed_at": "2018-09-12T14:15:17Z",
   "homepage": "http://projects.spring.io/spring-integration/",
-  "size": 47287,
+  "size": 47292,
   "stargazers_count": 755,
   "language": "Java",
   "mirror_url": null,
@@ -331,5 +331,6 @@
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-09-12T04:56:00.233Z"
+  "fetched_at": "2018-09-12T04:56:00.233Z",
+  "fetching_since": "2018-09-12T15:31:39.718Z"
 }

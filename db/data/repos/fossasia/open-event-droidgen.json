@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/fossasia/open-event-droidgen/languages",
   "pulls_url": "https://api.github.com/repos/fossasia/open-event-droidgen/pulls{/number}",
   "created_at": "2015-05-08T09:04:11Z",
-  "updated_at": "2018-09-12T07:33:43Z",
+  "updated_at": "2018-09-12T15:50:33Z",
   "pushed_at": "2018-08-28T15:50:46Z",
   "homepage": "",
   "size": 76660,
-  "stargazers_count": 932,
+  "stargazers_count": 935,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -354,5 +354,6 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-12T07:37:23.912Z"
+  "fetched_at": "2018-09-12T07:37:23.912Z",
+  "fetching_since": "2018-09-12T15:51:30.588Z"
 }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/720kb/ndm/languages",
   "pulls_url": "https://api.github.com/repos/720kb/ndm/pulls{/number}",
   "created_at": "2016-11-16T09:42:09Z",
-  "updated_at": "2018-09-11T13:51:42Z",
+  "updated_at": "2018-09-12T08:20:54Z",
   "pushed_at": "2018-08-13T05:27:42Z",
   "homepage": "",
   "size": 9732,
-  "stargazers_count": 1469,
+  "stargazers_count": 1470,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -91,5 +91,6 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-11T20:49:33.232Z"
+  "fetched_at": "2018-09-11T20:49:33.232Z",
+  "fetching_since": "2018-09-12T15:48:19.979Z"
 }

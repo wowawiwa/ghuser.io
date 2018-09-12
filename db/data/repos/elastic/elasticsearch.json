@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/elastic/elasticsearch/languages",
   "pulls_url": "https://api.github.com/repos/elastic/elasticsearch/pulls{/number}",
   "created_at": "2010-02-08T13:20:56Z",
-  "updated_at": "2018-09-12T04:16:26Z",
-  "pushed_at": "2018-09-12T04:15:37Z",
+  "updated_at": "2018-09-12T15:19:23Z",
+  "pushed_at": "2018-09-12T15:41:28Z",
   "homepage": "https://www.elastic.co/products/elasticsearch",
-  "size": 511246,
-  "stargazers_count": 34286,
+  "size": 511381,
+  "stargazers_count": 34308,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -2304,5 +2304,6 @@
       "color": "#0050b2"
     }
   },
-  "fetched_at": "2018-09-12T05:01:45.035Z"
+  "fetched_at": "2018-09-12T05:01:45.035Z",
+  "fetching_since": "2018-09-12T15:42:57.945Z"
 }

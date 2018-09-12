@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/hyperledger/sawtooth-sdk-go/languages",
   "pulls_url": "https://api.github.com/repos/hyperledger/sawtooth-sdk-go/pulls{/number}",
   "created_at": "2018-03-16T23:05:06Z",
-  "updated_at": "2018-09-02T23:11:54Z",
+  "updated_at": "2018-09-12T13:18:52Z",
   "pushed_at": "2018-09-07T16:22:47Z",
   "homepage": null,
   "size": 20573,
-  "stargazers_count": 3,
+  "stargazers_count": 4,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -139,5 +139,6 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-11T17:14:20.224Z"
+  "fetched_at": "2018-09-11T17:14:20.224Z",
+  "fetching_since": "2018-09-12T15:54:45.897Z"
 }

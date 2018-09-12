@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/OriginProtocol/origin-dapp/languages",
   "pulls_url": "https://api.github.com/repos/OriginProtocol/origin-dapp/pulls{/number}",
   "created_at": "2017-08-01T22:06:57Z",
-  "updated_at": "2018-09-12T04:09:14Z",
-  "pushed_at": "2018-09-12T04:43:55Z",
+  "updated_at": "2018-09-12T14:18:05Z",
+  "pushed_at": "2018-09-12T14:18:02Z",
   "homepage": "https://demo.originprotocol.com",
-  "size": 52280,
+  "size": 52296,
   "stargazers_count": 295,
   "language": "JavaScript",
   "mirror_url": null,
@@ -149,5 +149,6 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-12T04:57:13.750Z"
+  "fetched_at": "2018-09-12T04:57:13.750Z",
+  "fetching_since": "2018-09-12T15:34:03.825Z"
 }

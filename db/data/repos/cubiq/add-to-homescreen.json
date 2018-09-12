@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/cubiq/add-to-homescreen/languages",
   "pulls_url": "https://api.github.com/repos/cubiq/add-to-homescreen/pulls{/number}",
   "created_at": "2011-01-21T16:43:35Z",
-  "updated_at": "2018-09-10T12:53:09Z",
+  "updated_at": "2018-09-12T08:53:35Z",
   "pushed_at": "2018-03-26T01:05:11Z",
   "homepage": "http://cubiq.org/add-to-home-screen",
   "size": 694,
-  "stargazers_count": 2005,
+  "stargazers_count": 2004,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -182,5 +182,6 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-12T04:59:05.346Z"
+  "fetched_at": "2018-09-12T04:59:05.346Z",
+  "fetching_since": "2018-09-12T15:38:26.435Z"
 }

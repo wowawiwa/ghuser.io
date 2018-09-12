@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/puppetlabs/puppet-resource_api/languages",
   "pulls_url": "https://api.github.com/repos/puppetlabs/puppet-resource_api/pulls{/number}",
   "created_at": "2017-08-31T12:11:51Z",
-  "updated_at": "2018-09-10T08:27:17Z",
-  "pushed_at": "2018-09-11T15:23:35Z",
+  "updated_at": "2018-09-12T15:10:43Z",
+  "pushed_at": "2018-09-12T15:10:40Z",
   "homepage": "",
-  "size": 485,
+  "size": 488,
   "stargazers_count": 14,
   "language": "Ruby",
   "mirror_url": null,
@@ -75,5 +75,6 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-11T17:08:22.906Z"
+  "fetched_at": "2018-09-11T17:08:22.906Z",
+  "fetching_since": "2018-09-12T15:40:21.052Z"
 }

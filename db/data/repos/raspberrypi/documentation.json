@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/raspberrypi/documentation/languages",
   "pulls_url": "https://api.github.com/repos/raspberrypi/documentation/pulls{/number}",
   "created_at": "2014-02-06T11:18:08Z",
-  "updated_at": "2018-09-11T16:12:54Z",
-  "pushed_at": "2018-09-05T12:37:23Z",
+  "updated_at": "2018-09-12T11:05:24Z",
+  "pushed_at": "2018-09-12T15:34:24Z",
   "homepage": "https://www.raspberrypi.org/documentation/",
-  "size": 104964,
-  "stargazers_count": 2129,
+  "size": 104969,
+  "stargazers_count": 2130,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -644,5 +644,6 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T05:02:13.005Z"
+  "fetched_at": "2018-09-12T05:02:13.005Z",
+  "fetching_since": "2018-09-12T15:43:40.076Z"
 }

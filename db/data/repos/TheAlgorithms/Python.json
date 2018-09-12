@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/TheAlgorithms/Python/languages",
   "pulls_url": "https://api.github.com/repos/TheAlgorithms/Python/pulls{/number}",
   "created_at": "2016-07-16T09:44:01Z",
-  "updated_at": "2018-09-12T04:32:47Z",
+  "updated_at": "2018-09-12T15:33:51Z",
   "pushed_at": "2018-09-10T02:43:51Z",
   "homepage": null,
   "size": 1767,
-  "stargazers_count": 6736,
+  "stargazers_count": 6883,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -328,5 +328,6 @@
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-09-12T04:57:18.176Z"
+  "fetched_at": "2018-09-12T04:57:18.176Z",
+  "fetching_since": "2018-09-12T15:34:15.059Z"
 }

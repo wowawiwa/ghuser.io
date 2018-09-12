@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/catfan/Medoo/languages",
   "pulls_url": "https://api.github.com/repos/catfan/Medoo/pulls{/number}",
   "created_at": "2013-03-30T11:20:52Z",
-  "updated_at": "2018-09-11T11:45:27Z",
+  "updated_at": "2018-09-12T14:50:57Z",
   "pushed_at": "2018-09-10T12:35:14Z",
   "homepage": "https://medoo.in",
   "size": 314,
-  "stargazers_count": 3319,
+  "stargazers_count": 3322,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -191,5 +191,6 @@
       "color": "#4F5D95"
     }
   },
-  "fetched_at": "2018-09-12T05:02:45.441Z"
+  "fetched_at": "2018-09-12T05:02:45.441Z",
+  "fetching_since": "2018-09-12T15:44:36.238Z"
 }

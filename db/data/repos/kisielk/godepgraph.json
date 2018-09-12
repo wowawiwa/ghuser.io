@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/kisielk/godepgraph/languages",
   "pulls_url": "https://api.github.com/repos/kisielk/godepgraph/pulls{/number}",
   "created_at": "2013-02-13T22:29:38Z",
-  "updated_at": "2018-09-11T22:51:04Z",
+  "updated_at": "2018-09-12T09:39:09Z",
   "pushed_at": "2018-09-11T22:51:02Z",
   "homepage": null,
   "size": 2167,
-  "stargazers_count": 316,
+  "stargazers_count": 317,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -68,5 +68,6 @@
       "color": "#375eab"
     }
   },
-  "fetched_at": "2018-09-12T07:37:34.397Z"
+  "fetched_at": "2018-09-12T07:37:34.397Z",
+  "fetching_since": "2018-09-12T15:51:45.678Z"
 }

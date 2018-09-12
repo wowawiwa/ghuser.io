@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/docker/docker-ce/languages",
   "pulls_url": "https://api.github.com/repos/docker/docker-ce/pulls{/number}",
   "created_at": "2017-05-19T23:09:47Z",
-  "updated_at": "2018-09-11T17:22:00Z",
-  "pushed_at": "2018-09-11T17:04:29Z",
+  "updated_at": "2018-09-12T14:17:56Z",
+  "pushed_at": "2018-09-12T14:17:53Z",
   "homepage": "https://www.docker.com/community-edition",
-  "size": 148295,
-  "stargazers_count": 1562,
+  "size": 148309,
+  "stargazers_count": 1564,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -484,5 +484,6 @@
       "color": "#6E4C13"
     }
   },
-  "fetched_at": "2018-09-11T20:50:19.855Z"
+  "fetched_at": "2018-09-11T20:50:19.855Z",
+  "fetching_since": "2018-09-12T15:50:51.972Z"
 }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/bos/aeson/languages",
   "pulls_url": "https://api.github.com/repos/bos/aeson/pulls{/number}",
   "created_at": "2011-01-21T21:24:26Z",
-  "updated_at": "2018-09-11T02:40:31Z",
-  "pushed_at": "2018-09-04T16:51:25Z",
+  "updated_at": "2018-09-12T15:26:36Z",
+  "pushed_at": "2018-09-12T13:03:09Z",
   "homepage": "",
   "size": 40380,
-  "stargazers_count": 758,
+  "stargazers_count": 759,
   "language": "Haskell",
   "mirror_url": null,
   "archived": false,
@@ -294,5 +294,6 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-11T10:40:27.573Z"
+  "fetched_at": "2018-09-11T10:40:27.573Z",
+  "fetching_since": "2018-09-12T15:54:58.485Z"
 }

@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/ActivityWatch/docs/languages",
   "pulls_url": "https://api.github.com/repos/ActivityWatch/docs/pulls{/number}",
   "created_at": "2017-10-31T17:21:48Z",
-  "updated_at": "2018-08-27T12:33:36Z",
-  "pushed_at": "2018-08-27T12:33:34Z",
+  "updated_at": "2018-09-12T10:45:34Z",
+  "pushed_at": "2018-09-12T10:45:33Z",
   "homepage": null,
-  "size": 311,
+  "size": 314,
   "stargazers_count": 2,
   "language": "Python",
   "mirror_url": null,
@@ -70,5 +70,6 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-03T12:56:54.875Z"
+  "fetched_at": "2018-09-03T12:56:54.875Z",
+  "fetching_since": "2018-09-12T15:41:58.049Z"
 }

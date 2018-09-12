@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:36:25.531Z",
+  "name": "go-patterns",
+  "full_name": "tmrts/go-patterns",
+  "owner": "tmrts",
+  "private": false,
+  "html_url": "https://github.com/tmrts/go-patterns",
+  "description": "Curated list of Go design patterns, recipes and idioms",
+  "fork": false,
+  "url": "https://api.github.com/repos/tmrts/go-patterns",
+  "languages_url": "https://api.github.com/repos/tmrts/go-patterns/languages",
+  "pulls_url": "https://api.github.com/repos/tmrts/go-patterns/pulls{/number}",
+  "created_at": "2015-12-14T22:05:06Z",
+  "updated_at": "2018-09-12T13:26:29Z",
+  "pushed_at": "2018-09-10T08:58:45Z",
+  "homepage": "http://tmrts.com/go-patterns",
+  "size": 927,
+  "stargazers_count": 6598,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master"
+}

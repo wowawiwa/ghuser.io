@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/ethereum/go-ethereum",
   "languages_url": "https://api.github.com/repos/ethereum/go-ethereum/languages",
   "created_at": "2013-12-26T13:05:46Z",
-  "updated_at": "2018-09-12T04:57:53Z",
-  "pushed_at": "2018-09-12T04:48:35Z",
+  "updated_at": "2018-09-12T15:36:03Z",
+  "pushed_at": "2018-09-12T13:34:54Z",
   "homepage": "https://geth.ethereum.org",
-  "size": 94447,
-  "stargazers_count": 20624,
+  "size": 94464,
+  "stargazers_count": 20639,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -980,5 +980,6 @@
     "pschlump",
     "netpoe",
     "ngrinkevich"
-  ]
+  ],
+  "fetching_since": "2018-09-12T15:41:44.008Z"
 }

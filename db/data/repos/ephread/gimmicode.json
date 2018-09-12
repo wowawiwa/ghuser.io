@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:43:06.409Z",
+  "name": "gimmicode",
+  "full_name": "ephread/gimmicode",
+  "owner": "ephread",
+  "private": false,
+  "html_url": "https://github.com/ephread/gimmicode",
+  "description": "Gimmicode is a small command-line utility displaying the Unicode code point of a an entered character.",
+  "fork": false,
+  "url": "https://api.github.com/repos/ephread/gimmicode",
+  "languages_url": "https://api.github.com/repos/ephread/gimmicode/languages",
+  "pulls_url": "https://api.github.com/repos/ephread/gimmicode/pulls{/number}",
+  "created_at": "2013-03-19T14:40:35Z",
+  "updated_at": "2015-07-23T12:22:41Z",
+  "pushed_at": "2013-03-22T21:36:03Z",
+  "homepage": null,
+  "size": 520,
+  "stargazers_count": 0,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "wtfpl",
+    "name": "Do What The F*ck You Want To Public License",
+    "spdx_id": "WTFPL",
+    "url": "https://api.github.com/licenses/wtfpl",
+    "node_id": "MDc6TGljZW5zZTE4"
+  },
+  "default_branch": "master"
+}

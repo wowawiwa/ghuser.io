@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:49:24.262Z",
+  "name": "elodie",
+  "full_name": "jmathai/elodie",
+  "owner": "jmathai",
+  "private": false,
+  "html_url": "https://github.com/jmathai/elodie",
+  "description": "An EXIF-based photo assistant, organizer and workflow automation tool.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jmathai/elodie",
+  "languages_url": "https://api.github.com/repos/jmathai/elodie/languages",
+  "pulls_url": "https://api.github.com/repos/jmathai/elodie/pulls{/number}",
+  "created_at": "2015-09-09T21:53:43Z",
+  "updated_at": "2018-09-12T07:54:08Z",
+  "pushed_at": "2018-09-03T17:19:04Z",
+  "homepage": "https://bit.ly/introducing-elodie",
+  "size": 3821,
+  "stargazers_count": 509,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master"
+}

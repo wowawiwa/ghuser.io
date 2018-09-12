@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/donnemartin/awesome-aws/languages",
   "pulls_url": "https://api.github.com/repos/donnemartin/awesome-aws/pulls{/number}",
   "created_at": "2015-10-12T12:02:47Z",
-  "updated_at": "2018-09-12T02:26:03Z",
+  "updated_at": "2018-09-12T15:37:30Z",
   "pushed_at": "2018-09-10T21:09:59Z",
   "homepage": "",
   "size": 577,
-  "stargazers_count": 6013,
+  "stargazers_count": 6017,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -152,5 +152,6 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T05:02:54.900Z"
+  "fetched_at": "2018-09-12T05:02:54.900Z",
+  "fetching_since": "2018-09-12T15:44:59.945Z"
 }

@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:45:09.370Z",
+  "name": "mqqsig192",
+  "full_name": "imdario/mqqsig192",
+  "owner": "imdario",
+  "private": false,
+  "html_url": "https://github.com/imdario/mqqsig192",
+  "description": "SUPERCOP package's reference C code for MQQ-SIG (Multivariate Quadratic Quasigroups) public-key signature scheme's basic Go wrappers",
+  "fork": false,
+  "url": "https://api.github.com/repos/imdario/mqqsig192",
+  "languages_url": "https://api.github.com/repos/imdario/mqqsig192/languages",
+  "pulls_url": "https://api.github.com/repos/imdario/mqqsig192/pulls{/number}",
+  "created_at": "2014-07-03T21:04:37Z",
+  "updated_at": "2014-07-03T21:05:43Z",
+  "pushed_at": "2014-07-03T21:07:28Z",
+  "homepage": null,
+  "size": 156,
+  "stargazers_count": 0,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master"
+}

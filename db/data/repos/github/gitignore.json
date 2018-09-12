@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/github/gitignore/languages",
   "pulls_url": "https://api.github.com/repos/github/gitignore/pulls{/number}",
   "created_at": "2010-11-08T20:17:14Z",
-  "updated_at": "2018-09-12T04:30:56Z",
-  "pushed_at": "2018-09-12T03:58:16Z",
+  "updated_at": "2018-09-12T15:16:12Z",
+  "pushed_at": "2018-09-12T12:23:29Z",
   "homepage": "",
-  "size": 1697,
-  "stargazers_count": 72484,
+  "size": 1695,
+  "stargazers_count": 72514,
   "language": null,
   "mirror_url": null,
   "archived": false,
@@ -2688,5 +2688,6 @@
     "louistio"
   ],
   "languages": {},
-  "fetched_at": "2018-09-12T05:03:51.062Z"
+  "fetched_at": "2018-09-12T05:03:51.062Z",
+  "fetching_since": "2018-09-12T15:46:27.842Z"
 }

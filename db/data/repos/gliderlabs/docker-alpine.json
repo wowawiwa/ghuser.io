@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/gliderlabs/docker-alpine/languages",
   "pulls_url": "https://api.github.com/repos/gliderlabs/docker-alpine/pulls{/number}",
   "created_at": "2015-01-23T23:20:58Z",
-  "updated_at": "2018-09-11T20:17:50Z",
+  "updated_at": "2018-09-12T08:17:19Z",
   "pushed_at": "2018-09-11T20:24:52Z",
   "homepage": "http://gliderlabs.viewdocs.io/docker-alpine",
-  "size": 73233,
-  "stargazers_count": 4679,
+  "size": 73435,
+  "stargazers_count": 4680,
   "language": "Shell",
   "mirror_url": null,
   "archived": false,
@@ -123,5 +123,6 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-11T20:51:01.515Z"
+  "fetched_at": "2018-09-11T20:51:01.515Z",
+  "fetching_since": "2018-09-12T15:52:04.781Z"
 }

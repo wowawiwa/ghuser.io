@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/rust-lang/rust/languages",
   "pulls_url": "https://api.github.com/repos/rust-lang/rust/pulls{/number}",
   "created_at": "2010-06-16T20:39:03Z",
-  "updated_at": "2018-09-12T07:23:53Z",
-  "pushed_at": "2018-09-12T07:31:33Z",
+  "updated_at": "2018-09-12T15:35:03Z",
+  "pushed_at": "2018-09-12T15:34:36Z",
   "homepage": "https://www.rust-lang.org",
-  "size": 392487,
-  "stargazers_count": 30576,
+  "size": 392523,
+  "stargazers_count": 30581,
   "language": "Rust",
   "mirror_url": null,
   "archived": false,
@@ -3176,5 +3176,6 @@
       "color": "#6E4C13"
     }
   },
-  "fetched_at": "2018-09-12T07:42:37.854Z"
+  "fetched_at": "2018-09-12T07:42:37.854Z",
+  "fetching_since": "2018-09-12T15:44:05.350Z"
 }

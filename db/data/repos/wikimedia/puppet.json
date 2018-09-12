@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/wikimedia/puppet/languages",
   "pulls_url": "https://api.github.com/repos/wikimedia/puppet/pulls{/number}",
   "created_at": "2013-02-04T18:20:32Z",
-  "updated_at": "2018-09-12T02:45:17Z",
-  "pushed_at": "2018-09-12T02:45:14Z",
+  "updated_at": "2018-09-12T15:28:32Z",
+  "pushed_at": "2018-09-12T15:28:30Z",
   "homepage": "https://wikitech.wikimedia.org/wiki/Puppet_coding",
-  "size": 244611,
+  "size": 244720,
   "stargazers_count": 142,
   "language": "Puppet",
   "mirror_url": null,
@@ -315,5 +315,6 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-09-12T05:04:10.019Z"
+  "fetched_at": "2018-09-12T05:04:10.019Z",
+  "fetching_since": "2018-09-12T15:46:54.271Z"
 }

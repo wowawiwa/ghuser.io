@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/moul/depviz/languages",
   "pulls_url": "https://api.github.com/repos/moul/depviz/pulls{/number}",
   "created_at": "2018-09-05T07:29:20Z",
-  "updated_at": "2018-09-12T07:11:13Z",
+  "updated_at": "2018-09-12T15:25:08Z",
   "pushed_at": "2018-09-12T00:07:29Z",
   "homepage": "https://moul.io/depviz",
   "size": 656,
-  "stargazers_count": 29,
+  "stargazers_count": 39,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -53,5 +53,6 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-12T07:37:24.173Z"
+  "fetched_at": "2018-09-12T07:37:24.173Z",
+  "fetching_since": "2018-09-12T15:51:30.957Z"
 }

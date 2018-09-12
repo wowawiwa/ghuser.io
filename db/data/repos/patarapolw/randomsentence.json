@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:54:15.113Z",
+  "name": "randomsentence",
+  "full_name": "patarapolw/randomsentence",
+  "owner": "patarapolw",
+  "private": false,
+  "html_url": "https://github.com/patarapolw/randomsentence",
+  "description": "Generate a sentence, randomly or from a list of keywords/initials. This is based on Brown corpus.",
+  "fork": false,
+  "url": "https://api.github.com/repos/patarapolw/randomsentence",
+  "languages_url": "https://api.github.com/repos/patarapolw/randomsentence/languages",
+  "pulls_url": "https://api.github.com/repos/patarapolw/randomsentence/pulls{/number}",
+  "created_at": "2018-04-16T11:30:14Z",
+  "updated_at": "2018-05-10T09:28:57Z",
+  "pushed_at": "2018-05-10T09:28:55Z",
+  "homepage": "",
+  "size": 1936,
+  "stargazers_count": 0,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master"
+}

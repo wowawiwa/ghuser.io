@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:34:07.656Z",
+  "name": "issue-type-label",
+  "full_name": "anshumanv/issue-type-label",
+  "owner": "anshumanv",
+  "private": false,
+  "html_url": "https://github.com/anshumanv/issue-type-label",
+  "description": "Label issues depending on their type",
+  "fork": false,
+  "url": "https://api.github.com/repos/anshumanv/issue-type-label",
+  "languages_url": "https://api.github.com/repos/anshumanv/issue-type-label/languages",
+  "pulls_url": "https://api.github.com/repos/anshumanv/issue-type-label/pulls{/number}",
+  "created_at": "2018-03-24T22:08:03Z",
+  "updated_at": "2018-03-25T05:32:17Z",
+  "pushed_at": "2018-03-25T05:32:16Z",
+  "homepage": null,
+  "size": 824,
+  "stargazers_count": 0,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "isc",
+    "name": "ISC License",
+    "spdx_id": "ISC",
+    "url": "https://api.github.com/licenses/isc",
+    "node_id": "MDc6TGljZW5zZTEw"
+  },
+  "default_branch": "master"
+}

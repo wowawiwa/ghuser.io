@@ -13,10 +13,10 @@
   "url": "https://api.github.com/repos/Calinou/dotfiles",
   "languages_url": "https://api.github.com/repos/Calinou/dotfiles/languages",
   "created_at": "2018-02-07T19:04:12Z",
-  "updated_at": "2018-09-11T19:43:22Z",
-  "pushed_at": "2018-09-11T19:43:21Z",
+  "updated_at": "2018-09-12T11:40:17Z",
+  "pushed_at": "2018-09-12T11:40:16Z",
   "homepage": null,
-  "size": 212,
+  "size": 215,
   "stargazers_count": 1,
   "language": "Shell",
   "mirror_url": null,
@@ -41,5 +41,6 @@
   },
   "fetched_at": "2018-09-11T20:44:55.242Z",
   "pulls_url": "https://api.github.com/repos/Calinou/dotfiles/pulls{/number}",
-  "pulls_authors": []
+  "pulls_authors": [],
+  "fetching_since": "2018-09-12T15:36:37.123Z"
 }

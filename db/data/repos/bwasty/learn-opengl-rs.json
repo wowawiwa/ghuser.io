@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/bwasty/learn-opengl-rs/languages",
   "pulls_url": "https://api.github.com/repos/bwasty/learn-opengl-rs/pulls{/number}",
   "created_at": "2017-06-04T19:41:11Z",
-  "updated_at": "2018-09-10T07:59:25Z",
+  "updated_at": "2018-09-12T15:25:13Z",
   "pushed_at": "2018-08-20T20:11:18Z",
   "homepage": "",
   "size": 53456,
-  "stargazers_count": 228,
+  "stargazers_count": 229,
   "language": "Rust",
   "mirror_url": null,
   "archived": false,
@@ -51,5 +51,6 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-11T00:29:53.258Z"
+  "fetched_at": "2018-09-11T00:29:53.258Z",
+  "fetching_since": "2018-09-12T15:36:29.402Z"
 }

@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/kalessil/phpinspectionsea/languages",
   "pulls_url": "https://api.github.com/repos/kalessil/phpinspectionsea/pulls{/number}",
   "created_at": "2016-10-15T15:08:36Z",
-  "updated_at": "2018-09-12T01:02:23Z",
-  "pushed_at": "2018-09-08T19:49:01Z",
+  "updated_at": "2018-09-12T10:46:52Z",
+  "pushed_at": "2018-09-12T10:46:51Z",
   "homepage": "https://plugins.jetbrains.com/plugin/7622?pr=phpStorm",
-  "size": 117464,
+  "size": 117466,
   "stargazers_count": 762,
   "language": "Java",
   "mirror_url": null,
@@ -126,5 +126,6 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T05:01:43.410Z"
+  "fetched_at": "2018-09-12T05:01:43.410Z",
+  "fetching_since": "2018-09-12T15:42:55.583Z"
 }

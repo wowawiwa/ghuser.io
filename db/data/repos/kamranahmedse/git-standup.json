@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/kamranahmedse/git-standup/languages",
   "pulls_url": "https://api.github.com/repos/kamranahmedse/git-standup/pulls{/number}",
   "created_at": "2016-04-09T17:59:00Z",
-  "updated_at": "2018-09-11T08:55:08Z",
+  "updated_at": "2018-09-12T14:32:09Z",
   "pushed_at": "2018-08-25T17:52:26Z",
   "homepage": "",
   "size": 83,
-  "stargazers_count": 5391,
+  "stargazers_count": 5394,
   "language": "Shell",
   "mirror_url": null,
   "archived": false,
@@ -98,5 +98,6 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-12T07:35:38.339Z"
+  "fetched_at": "2018-09-12T07:35:38.339Z",
+  "fetching_since": "2018-09-12T15:48:51.308Z"
 }

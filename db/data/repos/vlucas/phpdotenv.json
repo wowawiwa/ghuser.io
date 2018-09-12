@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/vlucas/phpdotenv/languages",
   "pulls_url": "https://api.github.com/repos/vlucas/phpdotenv/pulls{/number}",
   "created_at": "2013-01-23T06:57:12Z",
-  "updated_at": "2018-09-12T07:10:42Z",
+  "updated_at": "2018-09-12T11:46:40Z",
   "pushed_at": "2018-08-22T19:34:06Z",
   "homepage": null,
   "size": 165,
-  "stargazers_count": 7676,
+  "stargazers_count": 7681,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -165,5 +165,6 @@
       "color": "#4F5D95"
     }
   },
-  "fetched_at": "2018-09-12T07:34:56.495Z"
+  "fetched_at": "2018-09-12T07:34:56.495Z",
+  "fetching_since": "2018-09-12T15:47:31.109Z"
 }

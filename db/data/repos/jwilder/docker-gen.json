@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/jwilder/docker-gen/languages",
   "pulls_url": "https://api.github.com/repos/jwilder/docker-gen/pulls{/number}",
   "created_at": "2014-03-14T22:34:35Z",
-  "updated_at": "2018-09-11T09:13:23Z",
+  "updated_at": "2018-09-12T08:40:25Z",
   "pushed_at": "2018-08-04T15:23:04Z",
   "homepage": null,
   "size": 4786,
-  "stargazers_count": 2959,
+  "stargazers_count": 2960,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -159,5 +159,6 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-11T10:39:03.990Z"
+  "fetched_at": "2018-09-11T10:39:03.990Z",
+  "fetching_since": "2018-09-12T15:52:27.226Z"
 }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/infinum/dox/languages",
   "pulls_url": "https://api.github.com/repos/infinum/dox/pulls{/number}",
   "created_at": "2016-06-06T17:07:25Z",
-  "updated_at": "2018-09-10T20:55:56Z",
+  "updated_at": "2018-09-12T10:27:31Z",
   "pushed_at": "2018-02-20T16:42:07Z",
   "homepage": null,
   "size": 126,
-  "stargazers_count": 123,
+  "stargazers_count": 124,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -74,5 +74,6 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-10T21:33:12.695Z"
+  "fetched_at": "2018-09-10T21:33:12.695Z",
+  "fetching_since": "2018-09-12T15:40:56.182Z"
 }

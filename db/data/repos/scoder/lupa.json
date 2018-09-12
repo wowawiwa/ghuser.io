@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/scoder/lupa/languages",
   "pulls_url": "https://api.github.com/repos/scoder/lupa/pulls{/number}",
   "created_at": "2011-02-09T19:16:15Z",
-  "updated_at": "2018-09-09T22:09:11Z",
+  "updated_at": "2018-09-12T15:25:56Z",
   "pushed_at": "2018-08-06T10:20:49Z",
   "homepage": "http://pypi.python.org/pypi/lupa",
   "size": 681,
-  "stargazers_count": 459,
+  "stargazers_count": 460,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -68,5 +68,6 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-09T22:42:15.212Z"
+  "fetched_at": "2018-09-09T22:42:15.212Z",
+  "fetching_since": "2018-09-12T15:46:51.216Z"
 }

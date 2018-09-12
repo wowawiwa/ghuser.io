@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/firebase/firebase-js-sdk/languages",
   "pulls_url": "https://api.github.com/repos/firebase/firebase-js-sdk/pulls{/number}",
   "created_at": "2017-04-24T21:52:11Z",
-  "updated_at": "2018-09-12T01:55:55Z",
+  "updated_at": "2018-09-12T14:36:07Z",
   "pushed_at": "2018-09-11T00:44:28Z",
   "homepage": "https://firebase.google.com/docs/web/setup",
   "size": 16015,
-  "stargazers_count": 1414,
+  "stargazers_count": 1416,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -199,5 +199,6 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-12T04:55:47.754Z"
+  "fetched_at": "2018-09-12T04:55:47.754Z",
+  "fetching_since": "2018-09-12T15:31:19.512Z"
 }

@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/TEAMMATES/teammates/languages",
   "pulls_url": "https://api.github.com/repos/TEAMMATES/teammates/pulls{/number}",
   "created_at": "2014-05-02T07:43:00Z",
-  "updated_at": "2018-09-10T03:08:27Z",
-  "pushed_at": "2018-09-10T05:33:14Z",
+  "updated_at": "2018-09-12T14:23:54Z",
+  "pushed_at": "2018-09-12T14:56:56Z",
   "homepage": "https://teammatesv4.appspot.com/",
-  "size": 201368,
+  "size": 201386,
   "stargazers_count": 676,
   "language": "Java",
   "mirror_url": null,
@@ -883,5 +883,6 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-10T07:01:42.020Z"
+  "fetched_at": "2018-09-10T07:01:42.020Z",
+  "fetching_since": "2018-09-12T15:30:38.885Z"
 }

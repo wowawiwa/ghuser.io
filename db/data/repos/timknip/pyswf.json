@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/timknip/pyswf/languages",
   "pulls_url": "https://api.github.com/repos/timknip/pyswf/pulls{/number}",
   "created_at": "2011-05-29T19:24:35Z",
-  "updated_at": "2018-09-12T03:27:49Z",
+  "updated_at": "2018-09-12T07:39:25Z",
   "pushed_at": "2017-06-23T17:25:01Z",
   "homepage": "https://github.com/timknip/pyswf/wiki",
   "size": 182,
-  "stargazers_count": 114,
+  "stargazers_count": 115,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -64,5 +64,6 @@
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-09-12T05:00:20.379Z"
+  "fetched_at": "2018-09-12T05:00:20.379Z",
+  "fetching_since": "2018-09-12T15:40:49.887Z"
 }

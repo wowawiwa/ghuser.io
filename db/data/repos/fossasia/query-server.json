@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/fossasia/query-server/languages",
   "pulls_url": "https://api.github.com/repos/fossasia/query-server/pulls{/number}",
   "created_at": "2016-11-25T20:24:01Z",
-  "updated_at": "2018-09-12T06:50:27Z",
+  "updated_at": "2018-09-12T14:59:37Z",
   "pushed_at": "2018-09-06T14:51:00Z",
   "homepage": "",
   "size": 5306,
-  "stargazers_count": 522,
+  "stargazers_count": 524,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -204,5 +204,6 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-12T07:31:35.291Z"
+  "fetched_at": "2018-09-12T07:31:35.291Z",
+  "fetching_since": "2018-09-12T15:34:13.625Z"
 }

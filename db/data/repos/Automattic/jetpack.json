@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/Automattic/jetpack/languages",
   "pulls_url": "https://api.github.com/repos/Automattic/jetpack/pulls{/number}",
   "created_at": "2013-12-16T16:43:01Z",
-  "updated_at": "2018-09-12T02:05:58Z",
-  "pushed_at": "2018-09-12T02:05:46Z",
+  "updated_at": "2018-09-12T13:49:56Z",
+  "pushed_at": "2018-09-12T15:44:52Z",
   "homepage": "https://jetpack.com/",
-  "size": 214662,
-  "stargazers_count": 838,
+  "size": 215283,
+  "stargazers_count": 839,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -830,5 +830,6 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-09-12T07:36:17.340Z"
+  "fetched_at": "2018-09-12T07:36:17.340Z",
+  "fetching_since": "2018-09-12T15:49:57.231Z"
 }

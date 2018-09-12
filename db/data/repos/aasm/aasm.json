@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/aasm/aasm/languages",
   "pulls_url": "https://api.github.com/repos/aasm/aasm/pulls{/number}",
   "created_at": "2008-02-28T20:40:04Z",
-  "updated_at": "2018-09-11T20:59:23Z",
+  "updated_at": "2018-09-12T14:05:05Z",
   "pushed_at": "2018-09-07T08:31:06Z",
   "homepage": "",
   "size": 1738,
-  "stargazers_count": 3433,
+  "stargazers_count": 3434,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -367,5 +367,6 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-12T04:55:41.737Z"
+  "fetched_at": "2018-09-12T04:55:41.737Z",
+  "fetching_since": "2018-09-12T15:30:46.081Z"
 }

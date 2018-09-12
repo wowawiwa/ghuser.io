@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/CocoaPods/Core/languages",
   "pulls_url": "https://api.github.com/repos/CocoaPods/Core/pulls{/number}",
   "created_at": "2012-11-09T11:24:08Z",
-  "updated_at": "2018-09-11T22:02:37Z",
+  "updated_at": "2018-09-12T08:20:31Z",
   "pushed_at": "2018-09-11T22:02:34Z",
   "homepage": "",
-  "size": 12086,
+  "size": 12095,
   "stargazers_count": 77,
   "language": "Ruby",
   "mirror_url": null,
@@ -262,5 +262,6 @@
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-09-11T22:35:09.798Z"
+  "fetched_at": "2018-09-11T22:35:09.798Z",
+  "fetching_since": "2018-09-12T15:54:41.564Z"
 }

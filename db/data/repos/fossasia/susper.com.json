@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/fossasia/susper.com/languages",
   "pulls_url": "https://api.github.com/repos/fossasia/susper.com/pulls{/number}",
   "created_at": "2017-01-19T13:54:24Z",
-  "updated_at": "2018-09-12T06:50:10Z",
+  "updated_at": "2018-09-12T14:59:46Z",
   "pushed_at": "2018-08-25T07:41:12Z",
   "homepage": "",
   "size": 135297,
-  "stargazers_count": 517,
+  "stargazers_count": 520,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -174,5 +174,6 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-12T07:30:47.597Z"
+  "fetched_at": "2018-09-12T07:30:47.597Z",
+  "fetching_since": "2018-09-12T15:30:36.378Z"
 }

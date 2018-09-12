@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/bundler/bundler/languages",
   "pulls_url": "https://api.github.com/repos/bundler/bundler/pulls{/number}",
   "created_at": "2010-01-26T00:46:38Z",
-  "updated_at": "2018-09-11T21:34:01Z",
-  "pushed_at": "2018-09-12T00:35:43Z",
+  "updated_at": "2018-09-12T14:15:06Z",
+  "pushed_at": "2018-09-12T09:39:00Z",
   "homepage": "https://bundler.io",
   "size": 34822,
-  "stargazers_count": 4293,
+  "stargazers_count": 4295,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -1295,5 +1295,6 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T04:56:44.179Z"
+  "fetched_at": "2018-09-12T04:56:44.179Z",
+  "fetching_since": "2018-09-12T15:32:54.166Z"
 }

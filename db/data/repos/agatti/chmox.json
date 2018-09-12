@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:30:50.417Z",
+  "name": "chmox",
+  "full_name": "agatti/chmox",
+  "owner": "agatti",
+  "private": false,
+  "html_url": "https://github.com/agatti/chmox",
+  "description": "CHM file viewer for macOS",
+  "fork": false,
+  "url": "https://api.github.com/repos/agatti/chmox",
+  "languages_url": "https://api.github.com/repos/agatti/chmox/languages",
+  "pulls_url": "https://api.github.com/repos/agatti/chmox/pulls{/number}",
+  "created_at": "2017-10-01T05:53:26Z",
+  "updated_at": "2017-10-03T04:43:02Z",
+  "pushed_at": "2017-11-02T03:32:58Z",
+  "homepage": "",
+  "size": 839,
+  "stargazers_count": 0,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "lgpl-2.1",
+    "name": "GNU Lesser General Public License v2.1",
+    "spdx_id": "LGPL-2.1",
+    "url": "https://api.github.com/licenses/lgpl-2.1",
+    "node_id": "MDc6TGljZW5zZTEx"
+  },
+  "default_branch": "master"
+}

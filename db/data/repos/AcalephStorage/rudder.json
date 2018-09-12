@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/AcalephStorage/rudder/languages",
   "pulls_url": "https://api.github.com/repos/AcalephStorage/rudder/pulls{/number}",
   "created_at": "2016-10-26T13:48:36Z",
-  "updated_at": "2018-08-30T21:34:55Z",
+  "updated_at": "2018-09-12T08:22:51Z",
   "pushed_at": "2018-04-29T21:08:40Z",
   "homepage": "",
   "size": 827,
-  "stargazers_count": 47,
+  "stargazers_count": 48,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -74,5 +74,6 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-11T22:26:59.038Z"
+  "fetched_at": "2018-09-11T22:26:59.038Z",
+  "fetching_since": "2018-09-12T15:32:22.841Z"
 }

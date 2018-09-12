@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/thephpleague/glide/languages",
   "pulls_url": "https://api.github.com/repos/thephpleague/glide/pulls{/number}",
   "created_at": "2014-12-22T17:09:01Z",
-  "updated_at": "2018-09-11T07:36:44Z",
+  "updated_at": "2018-09-12T14:52:18Z",
   "pushed_at": "2018-08-15T17:11:49Z",
   "homepage": "http://glide.thephpleague.com",
   "size": 408,
-  "stargazers_count": 1499,
+  "stargazers_count": 1501,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -113,5 +113,6 @@
       "color": "#4F5D95"
     }
   },
-  "fetched_at": "2018-09-12T05:04:16.437Z"
+  "fetched_at": "2018-09-12T05:04:16.437Z",
+  "fetching_since": "2018-09-12T15:47:02.723Z"
 }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/PyCQA/astroid/languages",
   "pulls_url": "https://api.github.com/repos/PyCQA/astroid/pulls{/number}",
   "created_at": "2015-12-08T21:12:00Z",
-  "updated_at": "2018-09-10T19:37:37Z",
+  "updated_at": "2018-09-12T12:22:27Z",
   "pushed_at": "2018-09-10T15:44:28Z",
   "homepage": null,
   "size": 13358,
-  "stargazers_count": 167,
+  "stargazers_count": 168,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -167,5 +167,6 @@
       "color": "#012456"
     }
   },
-  "fetched_at": "2018-09-10T21:35:13.794Z"
+  "fetched_at": "2018-09-10T21:35:13.794Z",
+  "fetching_since": "2018-09-12T15:46:56.441Z"
 }

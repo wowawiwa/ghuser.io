@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/jquery/jquery-ui/languages",
   "pulls_url": "https://api.github.com/repos/jquery/jquery-ui/pulls{/number}",
   "created_at": "2010-01-19T14:40:34Z",
-  "updated_at": "2018-09-12T05:07:11Z",
+  "updated_at": "2018-09-12T11:20:55Z",
   "pushed_at": "2018-08-14T11:07:12Z",
   "homepage": "https://jqueryui.com/",
   "size": 26513,
-  "stargazers_count": 10534,
+  "stargazers_count": 10533,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -1206,5 +1206,6 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-12T07:32:34.632Z"
+  "fetched_at": "2018-09-12T07:32:34.632Z",
+  "fetching_since": "2018-09-12T15:39:10.394Z"
 }

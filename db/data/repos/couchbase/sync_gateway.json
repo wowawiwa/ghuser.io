@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/couchbase/sync_gateway/languages",
   "pulls_url": "https://api.github.com/repos/couchbase/sync_gateway/pulls{/number}",
   "created_at": "2012-10-04T22:25:43Z",
-  "updated_at": "2018-09-11T13:54:35Z",
+  "updated_at": "2018-09-12T12:02:22Z",
   "pushed_at": "2018-09-11T11:55:48Z",
   "homepage": "https://www.couchbase.com/products/sync-gateway",
   "size": 29672,
-  "stargazers_count": 373,
+  "stargazers_count": 374,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -172,5 +172,6 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-12T04:57:36.607Z"
+  "fetched_at": "2018-09-12T04:57:36.607Z",
+  "fetching_since": "2018-09-12T15:34:53.774Z"
 }

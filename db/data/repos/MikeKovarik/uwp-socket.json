@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:51:09.418Z",
+  "name": "uwp-socket",
+  "full_name": "MikeKovarik/uwp-socket",
+  "owner": "MikeKovarik",
+  "private": false,
+  "html_url": "https://github.com/MikeKovarik/uwp-socket",
+  "description": "🔌 Simple Node-like wrapper for DataWriter and DataReader used in Windows UWP APP Apis like StreamSocket, Serial communication, etc...",
+  "fork": false,
+  "url": "https://api.github.com/repos/MikeKovarik/uwp-socket",
+  "languages_url": "https://api.github.com/repos/MikeKovarik/uwp-socket/languages",
+  "pulls_url": "https://api.github.com/repos/MikeKovarik/uwp-socket/pulls{/number}",
+  "created_at": "2016-10-17T11:09:27Z",
+  "updated_at": "2018-05-30T20:43:50Z",
+  "pushed_at": "2018-05-01T11:52:27Z",
+  "homepage": "",
+  "size": 42,
+  "stargazers_count": 0,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master"
+}

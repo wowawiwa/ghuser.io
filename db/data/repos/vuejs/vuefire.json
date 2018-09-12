@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/vuejs/vuefire/languages",
   "pulls_url": "https://api.github.com/repos/vuejs/vuefire/pulls{/number}",
   "created_at": "2016-01-07T22:57:53Z",
-  "updated_at": "2018-09-12T02:07:48Z",
+  "updated_at": "2018-09-12T08:42:58Z",
   "pushed_at": "2018-08-21T18:01:48Z",
   "homepage": "",
   "size": 1438,
-  "stargazers_count": 1833,
+  "stargazers_count": 1835,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -102,5 +102,6 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-12T04:56:56.871Z"
+  "fetched_at": "2018-09-12T04:56:56.871Z",
+  "fetching_since": "2018-09-12T15:33:35.650Z"
 }

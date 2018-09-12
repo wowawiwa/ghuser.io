@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/lightningnetwork/lnd/languages",
   "pulls_url": "https://api.github.com/repos/lightningnetwork/lnd/pulls{/number}",
   "created_at": "2016-01-16T08:19:33Z",
-  "updated_at": "2018-09-12T06:19:53Z",
-  "pushed_at": "2018-09-12T07:05:25Z",
+  "updated_at": "2018-09-12T15:12:45Z",
+  "pushed_at": "2018-09-12T15:10:22Z",
   "homepage": "",
   "size": 19908,
-  "stargazers_count": 3023,
+  "stargazers_count": 3026,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -427,5 +427,6 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-12T07:38:25.763Z"
+  "fetched_at": "2018-09-12T07:38:25.763Z",
+  "fetching_since": "2018-09-12T15:52:49.181Z"
 }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/nuxt/nuxt.js/languages",
   "pulls_url": "https://api.github.com/repos/nuxt/nuxt.js/pulls{/number}",
   "created_at": "2016-10-26T11:18:47Z",
-  "updated_at": "2018-09-12T04:40:06Z",
-  "pushed_at": "2018-09-11T22:35:34Z",
+  "updated_at": "2018-09-12T15:01:20Z",
+  "pushed_at": "2018-09-12T08:41:55Z",
   "homepage": "https://nuxtjs.org",
   "size": 6131,
-  "stargazers_count": 14686,
+  "stargazers_count": 14705,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -410,5 +410,6 @@
       "color": "#2c3e50"
     }
   },
-  "fetched_at": "2018-09-12T04:55:57.357Z"
+  "fetched_at": "2018-09-12T04:55:57.357Z",
+  "fetching_since": "2018-09-12T15:31:32.712Z"
 }

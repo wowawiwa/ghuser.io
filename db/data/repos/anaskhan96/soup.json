@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/anaskhan96/soup/languages",
   "pulls_url": "https://api.github.com/repos/anaskhan96/soup/pulls{/number}",
   "created_at": "2017-02-23T19:28:58Z",
-  "updated_at": "2018-09-10T22:27:09Z",
+  "updated_at": "2018-09-12T11:03:12Z",
   "pushed_at": "2018-08-16T04:30:12Z",
   "homepage": "",
   "size": 57,
-  "stargazers_count": 839,
+  "stargazers_count": 840,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -53,5 +53,6 @@
       "color": "#375eab"
     }
   },
-  "fetched_at": "2018-09-11T20:48:00.626Z"
+  "fetched_at": "2018-09-11T20:48:00.626Z",
+  "fetching_since": "2018-09-12T15:44:59.418Z"
 }

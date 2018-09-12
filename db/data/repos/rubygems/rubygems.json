@@ -11,7 +11,7 @@
   "languages_url": "https://api.github.com/repos/rubygems/rubygems/languages",
   "pulls_url": "https://api.github.com/repos/rubygems/rubygems/pulls{/number}",
   "created_at": "2010-04-16T19:02:44Z",
-  "updated_at": "2018-09-12T03:30:33Z",
+  "updated_at": "2018-09-12T14:27:55Z",
   "pushed_at": "2018-09-12T01:59:37Z",
   "homepage": "https://rubygems.org/",
   "size": 14897,
@@ -706,5 +706,6 @@
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-09-12T04:56:45.556Z"
+  "fetched_at": "2018-09-12T04:56:45.556Z",
+  "fetching_since": "2018-09-12T15:33:07.231Z"
 }

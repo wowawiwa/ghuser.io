@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/doctrine/data-fixtures/languages",
   "pulls_url": "https://api.github.com/repos/doctrine/data-fixtures/pulls{/number}",
   "created_at": "2010-09-20T21:28:26Z",
-  "updated_at": "2018-09-11T10:36:27Z",
+  "updated_at": "2018-09-12T10:15:07Z",
   "pushed_at": "2018-06-15T01:26:31Z",
   "homepage": "http://www.doctrine-project.org",
   "size": 480,
-  "stargazers_count": 911,
+  "stargazers_count": 914,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -253,5 +253,6 @@
       "color": "#4F5D95"
     }
   },
-  "fetched_at": "2018-09-12T07:35:29.289Z"
+  "fetched_at": "2018-09-12T07:35:29.289Z",
+  "fetching_since": "2018-09-12T15:48:39.156Z"
 }

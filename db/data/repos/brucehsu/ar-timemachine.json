@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:35:54.146Z",
+  "name": "ar-timemachine",
+  "full_name": "brucehsu/ar-timemachine",
+  "owner": "brucehsu",
+  "private": false,
+  "html_url": "https://github.com/brucehsu/ar-timemachine",
+  "description": "ActiveRecord::TimeMachine: A way to rollback your CRUD operations",
+  "fork": false,
+  "url": "https://api.github.com/repos/brucehsu/ar-timemachine",
+  "languages_url": "https://api.github.com/repos/brucehsu/ar-timemachine/languages",
+  "pulls_url": "https://api.github.com/repos/brucehsu/ar-timemachine/pulls{/number}",
+  "created_at": "2016-12-23T13:04:46Z",
+  "updated_at": "2016-12-23T13:04:46Z",
+  "pushed_at": "2016-12-23T13:04:46Z",
+  "homepage": null,
+  "size": 1,
+  "stargazers_count": 0,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master"
+}

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/aws/aws-sdk-php/languages",
   "pulls_url": "https://api.github.com/repos/aws/aws-sdk-php/pulls{/number}",
   "created_at": "2012-10-17T21:28:32Z",
-  "updated_at": "2018-09-12T00:15:55Z",
+  "updated_at": "2018-09-12T10:17:26Z",
   "pushed_at": "2018-09-11T20:48:25Z",
   "homepage": "http://aws.amazon.com/sdkforphp",
   "size": 47070,
-  "stargazers_count": 3364,
+  "stargazers_count": 3366,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -348,5 +348,6 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-12T05:01:45.849Z"
+  "fetched_at": "2018-09-12T05:01:45.849Z",
+  "fetching_since": "2018-09-12T15:42:58.524Z"
 }

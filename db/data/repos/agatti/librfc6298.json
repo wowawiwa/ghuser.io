@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:30:50.757Z",
+  "name": "librfc6298",
+  "full_name": "agatti/librfc6298",
+  "owner": "agatti",
+  "private": false,
+  "html_url": "https://github.com/agatti/librfc6298",
+  "description": "Simple library to calculate retransmission times according to RFC 6298",
+  "fork": false,
+  "url": "https://api.github.com/repos/agatti/librfc6298",
+  "languages_url": "https://api.github.com/repos/agatti/librfc6298/languages",
+  "pulls_url": "https://api.github.com/repos/agatti/librfc6298/pulls{/number}",
+  "created_at": "2016-11-10T17:59:30Z",
+  "updated_at": "2016-11-10T17:59:53Z",
+  "pushed_at": "2016-11-10T17:59:52Z",
+  "homepage": null,
+  "size": 3,
+  "stargazers_count": 0,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master"
+}

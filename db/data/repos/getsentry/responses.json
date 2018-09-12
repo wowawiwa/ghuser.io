@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/getsentry/responses/languages",
   "pulls_url": "https://api.github.com/repos/getsentry/responses/pulls{/number}",
   "created_at": "2013-11-15T23:28:18Z",
-  "updated_at": "2018-09-11T15:28:38Z",
+  "updated_at": "2018-09-12T12:56:00Z",
   "pushed_at": "2018-09-08T17:23:14Z",
   "homepage": "",
   "size": 209,
-  "stargazers_count": 2019,
+  "stargazers_count": 2021,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -196,5 +196,6 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-12T07:35:33.299Z"
+  "fetched_at": "2018-09-12T07:35:33.299Z",
+  "fetching_since": "2018-09-12T15:48:45.108Z"
 }

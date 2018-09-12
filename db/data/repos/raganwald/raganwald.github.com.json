@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/raganwald/raganwald.github.com/languages",
   "pulls_url": "https://api.github.com/repos/raganwald/raganwald.github.com/pulls{/number}",
   "created_at": "2012-02-19T03:15:00Z",
-  "updated_at": "2018-09-10T19:46:40Z",
-  "pushed_at": "2018-09-10T19:46:35Z",
+  "updated_at": "2018-09-12T13:58:16Z",
+  "pushed_at": "2018-09-12T13:58:10Z",
   "homepage": "http://raganwald.github.com",
-  "size": 332338,
+  "size": 332356,
   "stargazers_count": 24,
   "language": "HTML",
   "mirror_url": null,
@@ -166,5 +166,6 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T04:58:40.997Z"
+  "fetched_at": "2018-09-12T04:58:40.997Z",
+  "fetching_since": "2018-09-12T15:37:40.944Z"
 }

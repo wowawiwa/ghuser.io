@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/vakata/jstree/languages",
   "pulls_url": "https://api.github.com/repos/vakata/jstree/pulls{/number}",
   "created_at": "2009-10-28T23:59:02Z",
-  "updated_at": "2018-09-12T03:42:26Z",
+  "updated_at": "2018-09-12T09:22:36Z",
   "pushed_at": "2018-08-23T13:00:26Z",
   "homepage": "http://jstree.com",
   "size": 13061,
-  "stargazers_count": 4046,
+  "stargazers_count": 4047,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -249,5 +249,6 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-12T04:56:07.481Z"
+  "fetched_at": "2018-09-12T04:56:07.481Z",
+  "fetching_since": "2018-09-12T15:31:50.594Z"
 }

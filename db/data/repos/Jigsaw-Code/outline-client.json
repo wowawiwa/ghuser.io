@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/Jigsaw-Code/outline-client/languages",
   "pulls_url": "https://api.github.com/repos/Jigsaw-Code/outline-client/pulls{/number}",
   "created_at": "2018-03-13T21:42:30Z",
-  "updated_at": "2018-09-12T03:29:38Z",
+  "updated_at": "2018-09-12T14:47:58Z",
   "pushed_at": "2018-09-11T22:23:54Z",
   "homepage": "https://getoutline.org/",
   "size": 43319,
-  "stargazers_count": 1831,
+  "stargazers_count": 1834,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -124,5 +124,6 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-12T05:00:01.948Z"
+  "fetched_at": "2018-09-12T05:00:01.948Z",
+  "fetching_since": "2018-09-12T15:40:22.047Z"
 }

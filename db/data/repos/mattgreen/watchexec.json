@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/watchexec/watchexec",
   "languages_url": "https://api.github.com/repos/watchexec/watchexec/languages",
   "created_at": "2016-09-18T20:41:31Z",
-  "updated_at": "2018-09-12T00:49:48Z",
+  "updated_at": "2018-09-12T11:53:36Z",
   "pushed_at": "2018-09-09T04:16:48Z",
   "homepage": "",
   "size": 279,
-  "stargazers_count": 643,
+  "stargazers_count": 646,
   "language": "Rust",
   "mirror_url": null,
   "archived": false,
@@ -118,5 +118,6 @@
     "received_events_url": "https://api.github.com/users/watchexec/received_events",
     "type": "Organization",
     "site_admin": false
-  }
+  },
+  "fetching_since": "2018-09-12T15:37:24.098Z"
 }

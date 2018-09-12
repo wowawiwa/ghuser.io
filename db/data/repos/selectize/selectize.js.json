@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/selectize/selectize.js/languages",
   "pulls_url": "https://api.github.com/repos/selectize/selectize.js/pulls{/number}",
   "created_at": "2012-08-29T18:31:57Z",
-  "updated_at": "2018-09-11T23:14:11Z",
+  "updated_at": "2018-09-12T15:22:40Z",
   "pushed_at": "2018-08-28T22:19:41Z",
   "homepage": "http://selectize.github.io/selectize.js/",
   "size": 2589,
-  "stargazers_count": 11252,
+  "stargazers_count": 11254,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -400,5 +400,6 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-12T07:35:02.109Z"
+  "fetched_at": "2018-09-12T07:35:02.109Z",
+  "fetching_since": "2018-09-12T15:47:37.302Z"
 }

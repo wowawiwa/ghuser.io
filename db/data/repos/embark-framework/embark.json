@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/embark-framework/embark/languages",
   "pulls_url": "https://api.github.com/repos/embark-framework/embark/pulls{/number}",
   "created_at": "2015-05-24T13:10:10Z",
-  "updated_at": "2018-09-11T23:13:14Z",
-  "pushed_at": "2018-09-12T02:57:56Z",
+  "updated_at": "2018-09-12T14:07:58Z",
+  "pushed_at": "2018-09-12T15:11:34Z",
   "homepage": "https://embark.status.im/",
-  "size": 12053,
+  "size": 11940,
   "stargazers_count": 2327,
   "language": "JavaScript",
   "mirror_url": null,
@@ -162,5 +162,6 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-12T04:56:43.333Z"
+  "fetched_at": "2018-09-12T04:56:43.333Z",
+  "fetching_since": "2018-09-12T15:32:52.973Z"
 }

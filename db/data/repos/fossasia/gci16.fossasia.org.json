@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/fossasia/gci16.fossasia.org/languages",
   "pulls_url": "https://api.github.com/repos/fossasia/gci16.fossasia.org/pulls{/number}",
   "created_at": "2016-08-13T13:05:34Z",
-  "updated_at": "2018-09-12T02:00:47Z",
+  "updated_at": "2018-09-12T14:58:52Z",
   "pushed_at": "2018-05-11T14:39:22Z",
   "homepage": "",
   "size": 54781,
-  "stargazers_count": 591,
+  "stargazers_count": 593,
   "language": "HTML",
   "mirror_url": null,
   "archived": false,
@@ -437,5 +437,6 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T05:03:59.876Z"
+  "fetched_at": "2018-09-12T05:03:59.876Z",
+  "fetching_since": "2018-09-12T15:46:40.582Z"
 }

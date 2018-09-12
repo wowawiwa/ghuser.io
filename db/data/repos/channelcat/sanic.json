@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/channelcat/sanic/languages",
   "pulls_url": "https://api.github.com/repos/channelcat/sanic/pulls{/number}",
   "created_at": "2016-05-26T04:38:22Z",
-  "updated_at": "2018-09-12T03:11:10Z",
+  "updated_at": "2018-09-12T15:08:09Z",
   "pushed_at": "2018-09-10T17:57:32Z",
   "homepage": "",
   "size": 1512,
-  "stargazers_count": 10206,
+  "stargazers_count": 10212,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -466,5 +466,6 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-12T07:38:34.206Z"
+  "fetched_at": "2018-09-12T07:38:34.206Z",
+  "fetching_since": "2018-09-12T15:52:59.105Z"
 }

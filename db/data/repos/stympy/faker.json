@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/stympy/faker/languages",
   "pulls_url": "https://api.github.com/repos/stympy/faker/pulls{/number}",
   "created_at": "2008-12-24T17:20:37Z",
-  "updated_at": "2018-09-11T20:14:03Z",
+  "updated_at": "2018-09-12T13:09:30Z",
   "pushed_at": "2018-09-11T09:46:41Z",
   "homepage": "",
   "size": 3693,
-  "stargazers_count": 6955,
+  "stargazers_count": 6956,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -1150,5 +1150,6 @@
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-09-12T07:37:18.994Z"
+  "fetched_at": "2018-09-12T07:37:18.994Z",
+  "fetching_since": "2018-09-12T15:51:24.430Z"
 }

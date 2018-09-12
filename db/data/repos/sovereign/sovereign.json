@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/sovereign/sovereign/languages",
   "pulls_url": "https://api.github.com/repos/sovereign/sovereign/pulls{/number}",
   "created_at": "2013-08-19T22:09:16Z",
-  "updated_at": "2018-09-11T18:13:48Z",
+  "updated_at": "2018-09-12T13:53:34Z",
   "pushed_at": "2018-08-05T11:43:30Z",
   "homepage": null,
   "size": 1013,
-  "stargazers_count": 7082,
+  "stargazers_count": 7085,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -265,5 +265,6 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-11T20:51:11.701Z"
+  "fetched_at": "2018-09-11T20:51:11.701Z",
+  "fetching_since": "2018-09-12T15:52:15.281Z"
 }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/zzzeek/sqlalchemy/languages",
   "pulls_url": "https://api.github.com/repos/zzzeek/sqlalchemy/pulls{/number}",
   "created_at": "2013-05-25T20:05:42Z",
-  "updated_at": "2018-09-12T03:47:39Z",
-  "pushed_at": "2018-09-11T12:17:34Z",
+  "updated_at": "2018-09-12T15:46:25Z",
+  "pushed_at": "2018-09-12T15:46:20Z",
   "homepage": "http://sqlalchemy.org/develop.html",
   "size": 52857,
-  "stargazers_count": 3016,
+  "stargazers_count": 3020,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -634,5 +634,6 @@
       "color": "#555555"
     }
   },
-  "fetched_at": "2018-09-12T05:04:06.714Z"
+  "fetched_at": "2018-09-12T05:04:06.714Z",
+  "fetching_since": "2018-09-12T15:46:49.724Z"
 }

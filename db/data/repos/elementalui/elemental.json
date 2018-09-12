@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/elementalui/elemental/languages",
   "pulls_url": "https://api.github.com/repos/elementalui/elemental/pulls{/number}",
   "created_at": "2015-04-10T03:02:59Z",
-  "updated_at": "2018-09-11T03:33:40Z",
+  "updated_at": "2018-09-12T12:47:18Z",
   "pushed_at": "2017-11-03T00:12:18Z",
   "homepage": "elemental-ui.com",
   "size": 2043,
-  "stargazers_count": 4119,
+  "stargazers_count": 4121,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -136,5 +136,6 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T04:59:57.006Z"
+  "fetched_at": "2018-09-12T04:59:57.006Z",
+  "fetching_since": "2018-09-12T15:40:06.114Z"
 }

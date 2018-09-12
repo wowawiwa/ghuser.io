@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/opentracing/opentracing-go",
   "languages_url": "https://api.github.com/repos/opentracing/opentracing-go/languages",
   "created_at": "2015-11-26T04:52:54Z",
-  "updated_at": "2018-09-12T04:15:30Z",
+  "updated_at": "2018-09-12T11:51:20Z",
   "pushed_at": "2018-09-08T21:19:33Z",
   "homepage": "http://opentracing.io",
   "size": 367,
-  "stargazers_count": 1342,
+  "stargazers_count": 1345,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -135,5 +135,6 @@
     "tschottdorf",
     "tamird",
     "jeremyxu2010"
-  ]
+  ],
+  "fetching_since": "2018-09-12T15:41:31.939Z"
 }

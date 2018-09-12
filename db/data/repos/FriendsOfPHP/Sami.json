@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/FriendsOfPHP/Sami/languages",
   "pulls_url": "https://api.github.com/repos/FriendsOfPHP/Sami/pulls{/number}",
   "created_at": "2012-05-15T11:20:10Z",
-  "updated_at": "2018-09-12T02:05:01Z",
+  "updated_at": "2018-09-12T09:45:03Z",
   "pushed_at": "2018-09-11T15:12:53Z",
   "homepage": null,
   "size": 754,
-  "stargazers_count": 1932,
+  "stargazers_count": 1934,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -210,5 +210,6 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-12T05:01:44.700Z"
+  "fetched_at": "2018-09-12T05:01:44.700Z",
+  "fetching_since": "2018-09-12T15:42:57.479Z"
 }

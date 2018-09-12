@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:44:03.415Z",
+  "name": "atom-elixir-playground",
+  "full_name": "gmcabrita/atom-elixir-playground",
+  "owner": "gmcabrita",
+  "private": false,
+  "html_url": "https://github.com/gmcabrita/atom-elixir-playground",
+  "description": "A package to share Elixir code on Elixir Playground!",
+  "fork": false,
+  "url": "https://api.github.com/repos/gmcabrita/atom-elixir-playground",
+  "languages_url": "https://api.github.com/repos/gmcabrita/atom-elixir-playground/languages",
+  "pulls_url": "https://api.github.com/repos/gmcabrita/atom-elixir-playground/pulls{/number}",
+  "created_at": "2015-09-19T12:46:09Z",
+  "updated_at": "2018-06-03T09:00:09Z",
+  "pushed_at": "2015-09-19T13:25:03Z",
+  "homepage": null,
+  "size": 128,
+  "stargazers_count": 0,
+  "language": "CoffeeScript",
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master"
+}

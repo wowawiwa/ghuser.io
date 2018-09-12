@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/venmo/nose-detecthttp/languages",
   "pulls_url": "https://api.github.com/repos/venmo/nose-detecthttp/pulls{/number}",
   "created_at": "2014-11-21T21:28:16Z",
-  "updated_at": "2018-08-02T00:53:24Z",
-  "pushed_at": "2018-08-02T00:53:23Z",
+  "updated_at": "2018-09-12T15:03:49Z",
+  "pushed_at": "2018-09-12T15:04:11Z",
   "homepage": null,
-  "size": 11,
+  "size": 12,
   "stargazers_count": 6,
   "language": "Python",
   "mirror_url": null,
@@ -62,5 +62,6 @@
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-08-13T13:13:40.598Z"
+  "fetched_at": "2018-08-13T13:13:40.598Z",
+  "fetching_since": "2018-09-12T15:46:56.886Z"
 }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/multiarch/crossbuild/languages",
   "pulls_url": "https://api.github.com/repos/multiarch/crossbuild/pulls{/number}",
   "created_at": "2015-12-14T11:04:41Z",
-  "updated_at": "2018-09-10T21:15:15Z",
+  "updated_at": "2018-09-12T09:00:17Z",
   "pushed_at": "2017-09-06T18:19:33Z",
   "homepage": null,
   "size": 25809,
-  "stargazers_count": 272,
+  "stargazers_count": 273,
   "language": "Shell",
   "mirror_url": null,
   "archived": false,
@@ -75,5 +75,6 @@
       "color": "#555555"
     }
   },
-  "fetched_at": "2018-09-10T21:36:29.678Z"
+  "fetched_at": "2018-09-10T21:36:29.678Z",
+  "fetching_since": "2018-09-12T15:51:42.706Z"
 }

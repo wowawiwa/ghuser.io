@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/beberlei/assert/languages",
   "pulls_url": "https://api.github.com/repos/beberlei/assert/pulls{/number}",
   "created_at": "2012-05-20T20:24:17Z",
-  "updated_at": "2018-09-11T11:42:54Z",
+  "updated_at": "2018-09-12T10:21:49Z",
   "pushed_at": "2018-07-20T11:49:51Z",
   "homepage": null,
   "size": 597,
-  "stargazers_count": 1446,
+  "stargazers_count": 1448,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -189,5 +189,6 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-11T20:47:14.814Z"
+  "fetched_at": "2018-09-11T20:47:14.814Z",
+  "fetching_since": "2018-09-12T15:42:55.781Z"
 }

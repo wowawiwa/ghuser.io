@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/nikic/PHP-Parser/languages",
   "pulls_url": "https://api.github.com/repos/nikic/PHP-Parser/pulls{/number}",
   "created_at": "2011-04-18T17:03:47Z",
-  "updated_at": "2018-09-12T06:34:40Z",
+  "updated_at": "2018-09-12T11:46:34Z",
   "pushed_at": "2018-09-06T21:39:23Z",
   "homepage": "",
   "size": 4663,
-  "stargazers_count": 7533,
+  "stargazers_count": 7542,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -229,5 +229,6 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T07:34:56.686Z"
+  "fetched_at": "2018-09-12T07:34:56.686Z",
+  "fetching_since": "2018-09-12T15:47:31.311Z"
 }

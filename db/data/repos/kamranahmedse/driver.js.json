@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/kamranahmedse/driver.js/languages",
   "pulls_url": "https://api.github.com/repos/kamranahmedse/driver.js/pulls{/number}",
   "created_at": "2018-03-11T19:52:13Z",
-  "updated_at": "2018-09-12T06:48:54Z",
-  "pushed_at": "2018-09-08T16:14:55Z",
+  "updated_at": "2018-09-12T13:54:16Z",
+  "pushed_at": "2018-09-12T15:21:59Z",
   "homepage": "http://kamranahmed.info/driver.js",
   "size": 748,
-  "stargazers_count": 8719,
+  "stargazers_count": 8720,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -99,5 +99,6 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-12T07:35:37.019Z"
+  "fetched_at": "2018-09-12T07:35:37.019Z",
+  "fetching_since": "2018-09-12T15:48:49.735Z"
 }

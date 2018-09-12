@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/celery/celery/languages",
   "pulls_url": "https://api.github.com/repos/celery/celery/pulls{/number}",
   "created_at": "2009-04-24T11:31:24Z",
-  "updated_at": "2018-09-12T02:39:55Z",
+  "updated_at": "2018-09-12T13:59:25Z",
   "pushed_at": "2018-09-11T03:12:50Z",
   "homepage": "http://celeryproject.org",
   "size": 46559,
-  "stargazers_count": 10463,
+  "stargazers_count": 10468,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -1335,5 +1335,6 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-12T05:00:33.816Z"
+  "fetched_at": "2018-09-12T05:00:33.816Z",
+  "fetching_since": "2018-09-12T15:41:10.347Z"
 }

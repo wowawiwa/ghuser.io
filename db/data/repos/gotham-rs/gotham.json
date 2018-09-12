@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/gotham-rs/gotham/languages",
   "pulls_url": "https://api.github.com/repos/gotham-rs/gotham/pulls{/number}",
   "created_at": "2017-07-22T08:35:07Z",
-  "updated_at": "2018-09-12T00:03:16Z",
+  "updated_at": "2018-09-12T12:25:41Z",
   "pushed_at": "2018-09-11T20:44:59Z",
   "homepage": "https://gotham.rs",
   "size": 1645,
-  "stargazers_count": 977,
+  "stargazers_count": 979,
   "language": "Rust",
   "mirror_url": null,
   "archived": false,
@@ -119,5 +119,6 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-12T05:01:23.686Z"
+  "fetched_at": "2018-09-12T05:01:23.686Z",
+  "fetching_since": "2018-09-12T15:42:22.363Z"
 }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/ottoyiu/django-cors-headers/languages",
   "pulls_url": "https://api.github.com/repos/ottoyiu/django-cors-headers/pulls{/number}",
   "created_at": "2013-01-19T08:39:17Z",
-  "updated_at": "2018-09-11T20:37:32Z",
+  "updated_at": "2018-09-12T13:40:32Z",
   "pushed_at": "2018-09-11T20:37:30Z",
   "homepage": null,
   "size": 1225,
-  "stargazers_count": 2455,
+  "stargazers_count": 2456,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -132,5 +132,6 @@
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-09-12T05:00:32.672Z"
+  "fetched_at": "2018-09-12T05:00:32.672Z",
+  "fetching_since": "2018-09-12T15:41:09.240Z"
 }

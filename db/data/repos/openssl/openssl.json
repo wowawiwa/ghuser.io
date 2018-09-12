@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/openssl/openssl/languages",
   "pulls_url": "https://api.github.com/repos/openssl/openssl/pulls{/number}",
   "created_at": "2013-01-15T22:34:48Z",
-  "updated_at": "2018-09-12T04:34:04Z",
-  "pushed_at": "2018-09-12T00:48:12Z",
+  "updated_at": "2018-09-12T15:07:53Z",
+  "pushed_at": "2018-09-12T12:48:15Z",
   "homepage": "https://www.openssl.org",
-  "size": 156409,
-  "stargazers_count": 8144,
+  "size": 156532,
+  "stargazers_count": 8154,
   "language": "C",
   "mirror_url": null,
   "archived": false,
@@ -1009,5 +1009,6 @@
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-09-12T05:00:16.900Z"
+  "fetched_at": "2018-09-12T05:00:16.900Z",
+  "fetching_since": "2018-09-12T15:40:45.393Z"
 }

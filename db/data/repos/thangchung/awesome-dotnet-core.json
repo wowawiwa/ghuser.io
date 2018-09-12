@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/thangchung/awesome-dotnet-core/languages",
   "pulls_url": "https://api.github.com/repos/thangchung/awesome-dotnet-core/pulls{/number}",
   "created_at": "2016-03-17T03:52:09Z",
-  "updated_at": "2018-09-12T01:54:28Z",
-  "pushed_at": "2018-09-11T20:20:00Z",
+  "updated_at": "2018-09-12T13:54:41Z",
+  "pushed_at": "2018-09-12T14:06:01Z",
   "homepage": "",
   "size": 905,
-  "stargazers_count": 6047,
+  "stargazers_count": 6049,
   "language": "C#",
   "mirror_url": null,
   "archived": false,
@@ -350,5 +350,6 @@
       "color": "#178600"
     }
   },
-  "fetched_at": "2018-09-12T04:56:13.276Z"
+  "fetched_at": "2018-09-12T04:56:13.276Z",
+  "fetching_since": "2018-09-12T15:32:00.034Z"
 }

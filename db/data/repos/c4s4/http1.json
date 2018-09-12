@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:46:58.406Z",
+  "name": "http1",
+  "full_name": "c4s4/http1",
+  "owner": "c4s4",
+  "private": false,
+  "html_url": "https://github.com/c4s4/http1",
+  "description": "http1 is an API to perform HTTP requests in a single call",
+  "fork": false,
+  "url": "https://api.github.com/repos/c4s4/http1",
+  "languages_url": "https://api.github.com/repos/c4s4/http1/languages",
+  "pulls_url": "https://api.github.com/repos/c4s4/http1/pulls{/number}",
+  "created_at": "2014-04-04T11:52:46Z",
+  "updated_at": "2016-04-30T15:08:09Z",
+  "pushed_at": "2018-02-06T22:59:49Z",
+  "homepage": null,
+  "size": 42,
+  "stargazers_count": 0,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master"
+}

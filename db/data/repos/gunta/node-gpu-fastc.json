@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:44:06.589Z",
+  "name": "node-gpu-fastc",
+  "full_name": "gunta/node-gpu-fastc",
+  "owner": "gunta",
+  "private": false,
+  "html_url": "https://github.com/gunta/node-gpu-fastc",
+  "description": "Node module for compressing GPU textures in various formats (BPTC, ETC1, DXT1, DXT5, PVRTC)",
+  "fork": false,
+  "url": "https://api.github.com/repos/gunta/node-gpu-fastc",
+  "languages_url": "https://api.github.com/repos/gunta/node-gpu-fastc/languages",
+  "pulls_url": "https://api.github.com/repos/gunta/node-gpu-fastc/pulls{/number}",
+  "created_at": "2016-02-16T10:21:29Z",
+  "updated_at": "2016-03-14T09:05:11Z",
+  "pushed_at": "2016-03-16T09:34:51Z",
+  "homepage": null,
+  "size": 6,
+  "stargazers_count": 0,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master"
+}

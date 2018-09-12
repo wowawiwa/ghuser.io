@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:48:10.410Z",
+  "name": "potato",
+  "full_name": "jdelman/potato",
+  "owner": "jdelman",
+  "private": false,
+  "html_url": "https://github.com/jdelman/potato",
+  "description": "collect & serve videos as a podcast feed",
+  "fork": false,
+  "url": "https://api.github.com/repos/jdelman/potato",
+  "languages_url": "https://api.github.com/repos/jdelman/potato/languages",
+  "pulls_url": "https://api.github.com/repos/jdelman/potato/pulls{/number}",
+  "created_at": "2015-11-26T16:43:43Z",
+  "updated_at": "2015-11-26T17:48:24Z",
+  "pushed_at": "2015-11-26T20:54:32Z",
+  "homepage": null,
+  "size": 5460,
+  "stargazers_count": 0,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master"
+}

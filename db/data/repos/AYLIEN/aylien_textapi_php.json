@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/AYLIEN/aylien_textapi_php/languages",
   "pulls_url": "https://api.github.com/repos/AYLIEN/aylien_textapi_php/pulls{/number}",
   "created_at": "2014-12-03T16:44:42Z",
-  "updated_at": "2018-09-05T07:55:54Z",
+  "updated_at": "2018-09-12T12:57:04Z",
   "pushed_at": "2018-08-21T07:59:18Z",
   "homepage": null,
   "size": 58,
-  "stargazers_count": 8,
+  "stargazers_count": 9,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -64,5 +64,6 @@
       "color": "#4F5D95"
     }
   },
-  "fetched_at": "2018-09-12T07:36:37.393Z"
+  "fetched_at": "2018-09-12T07:36:37.393Z",
+  "fetching_since": "2018-09-12T15:50:27.570Z"
 }

@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/IBM-Swift/kitura.io/languages",
   "pulls_url": "https://api.github.com/repos/IBM-Swift/kitura.io/pulls{/number}",
   "created_at": "2016-06-20T13:54:39Z",
-  "updated_at": "2018-09-10T12:22:09Z",
-  "pushed_at": "2018-09-10T12:22:07Z",
+  "updated_at": "2018-09-12T12:56:01Z",
+  "pushed_at": "2018-09-12T13:03:21Z",
   "homepage": "",
-  "size": 40616,
+  "size": 42989,
   "stargazers_count": 25,
   "language": "HTML",
   "mirror_url": null,
@@ -126,5 +126,6 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-10T15:06:46.925Z"
+  "fetched_at": "2018-09-10T15:06:46.925Z",
+  "fetching_since": "2018-09-12T15:45:22.773Z"
 }

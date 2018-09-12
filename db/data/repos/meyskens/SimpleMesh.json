@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:50:52.264Z",
+  "name": "SimpleMesh",
+  "full_name": "meyskens/SimpleMesh",
+  "owner": "meyskens",
+  "private": false,
+  "html_url": "https://github.com/meyskens/SimpleMesh",
+  "description": "mesh networking with the RFM69",
+  "fork": false,
+  "url": "https://api.github.com/repos/meyskens/SimpleMesh",
+  "languages_url": "https://api.github.com/repos/meyskens/SimpleMesh/languages",
+  "pulls_url": "https://api.github.com/repos/meyskens/SimpleMesh/pulls{/number}",
+  "created_at": "2017-11-25T11:13:08Z",
+  "updated_at": "2017-11-25T12:59:11Z",
+  "pushed_at": "2017-12-05T19:50:35Z",
+  "homepage": null,
+  "size": 18,
+  "stargazers_count": 0,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master"
+}

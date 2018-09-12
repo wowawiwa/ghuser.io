@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/gsamokovarov/jump/languages",
   "pulls_url": "https://api.github.com/repos/gsamokovarov/jump/pulls{/number}",
   "created_at": "2015-08-16T22:07:17Z",
-  "updated_at": "2018-09-10T17:09:40Z",
+  "updated_at": "2018-09-12T13:50:01Z",
   "pushed_at": "2018-09-08T08:45:52Z",
   "homepage": "http://gsamokovarov.com/jump",
   "size": 3151,
-  "stargazers_count": 494,
+  "stargazers_count": 495,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -49,5 +49,6 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-10T19:01:16.044Z"
+  "fetched_at": "2018-09-10T19:01:16.044Z",
+  "fetching_since": "2018-09-12T15:42:14.275Z"
 }

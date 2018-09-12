@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:44:05.593Z",
+  "name": "basho_bench",
+  "full_name": "gmcabrita/basho_bench",
+  "owner": "gmcabrita",
+  "private": false,
+  "html_url": "https://github.com/gmcabrita/basho_bench",
+  "description": ":seat: A load-generation and testing tool for basically whatever you can write a returning Erlang function for.",
+  "fork": true,
+  "url": "https://api.github.com/repos/gmcabrita/basho_bench",
+  "languages_url": "https://api.github.com/repos/gmcabrita/basho_bench/languages",
+  "pulls_url": "https://api.github.com/repos/gmcabrita/basho_bench/pulls{/number}",
+  "created_at": "2017-02-06T15:56:53Z",
+  "updated_at": "2018-06-03T09:04:36Z",
+  "pushed_at": "2017-10-22T21:55:15Z",
+  "homepage": "",
+  "size": 10069,
+  "stargazers_count": 1,
+  "language": "Erlang",
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master"
+}

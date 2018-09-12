@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/magento/magento2/languages",
   "pulls_url": "https://api.github.com/repos/magento/magento2/pulls{/number}",
   "created_at": "2011-11-30T15:30:13Z",
-  "updated_at": "2018-09-12T03:26:03Z",
-  "pushed_at": "2018-09-12T04:51:13Z",
+  "updated_at": "2018-09-12T12:58:56Z",
+  "pushed_at": "2018-09-12T14:56:23Z",
   "homepage": "http://www.magento.com",
-  "size": 479864,
-  "stargazers_count": 6078,
+  "size": 479989,
+  "stargazers_count": 6079,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -1638,5 +1638,6 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T05:01:51.798Z"
+  "fetched_at": "2018-09-12T05:01:51.798Z",
+  "fetching_since": "2018-09-12T15:43:08.606Z"
 }

@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:50:58.974Z",
+  "name": "image-debian",
+  "full_name": "meyskens/image-debian",
+  "owner": "meyskens",
+  "private": false,
+  "html_url": "https://github.com/meyskens/image-debian",
+  "description": ":penguin: Official Debian Linux image on Online Labs",
+  "fork": true,
+  "url": "https://api.github.com/repos/meyskens/image-debian",
+  "languages_url": "https://api.github.com/repos/meyskens/image-debian/languages",
+  "pulls_url": "https://api.github.com/repos/meyskens/image-debian/pulls{/number}",
+  "created_at": "2016-02-23T12:17:19Z",
+  "updated_at": "2016-02-23T12:17:20Z",
+  "pushed_at": "2017-06-25T21:12:48Z",
+  "homepage": "https://doc.cloud.online.net",
+  "size": 134,
+  "stargazers_count": 0,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master"
+}

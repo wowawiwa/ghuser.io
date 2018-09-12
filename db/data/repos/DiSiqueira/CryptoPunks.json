@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:41:37.550Z",
+  "name": "CryptoPunks",
+  "full_name": "DiSiqueira/CryptoPunks",
+  "owner": "DiSiqueira",
+  "private": false,
+  "html_url": "https://github.com/DiSiqueira/CryptoPunks",
+  "description": "Simple script to scrape CryptoPunks data",
+  "fork": false,
+  "url": "https://api.github.com/repos/DiSiqueira/CryptoPunks",
+  "languages_url": "https://api.github.com/repos/DiSiqueira/CryptoPunks/languages",
+  "pulls_url": "https://api.github.com/repos/DiSiqueira/CryptoPunks/pulls{/number}",
+  "created_at": "2017-06-10T15:32:29Z",
+  "updated_at": "2017-06-10T18:20:14Z",
+  "pushed_at": "2017-06-10T18:20:13Z",
+  "homepage": null,
+  "size": 91,
+  "stargazers_count": 0,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master"
+}

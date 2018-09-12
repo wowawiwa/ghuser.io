@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/kubernetes/community",
   "languages_url": "https://api.github.com/repos/kubernetes/community/languages",
   "created_at": "2016-05-03T03:36:05Z",
-  "updated_at": "2018-09-12T00:08:48Z",
-  "pushed_at": "2018-09-11T22:51:55Z",
+  "updated_at": "2018-09-12T15:09:51Z",
+  "pushed_at": "2018-09-12T15:10:20Z",
   "homepage": "",
   "size": 32033,
-  "stargazers_count": 2465,
+  "stargazers_count": 2466,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -1077,5 +1077,6 @@
     "Rajat-0",
     "Noah-Huppert",
     "tao12345666333"
-  ]
+  ],
+  "fetching_since": "2018-09-12T15:53:46.914Z"
 }

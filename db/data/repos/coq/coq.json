@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/coq/coq/languages",
   "pulls_url": "https://api.github.com/repos/coq/coq/pulls{/number}",
   "created_at": "2011-02-17T05:49:37Z",
-  "updated_at": "2018-09-12T07:35:21Z",
-  "pushed_at": "2018-09-12T07:20:37Z",
+  "updated_at": "2018-09-12T15:27:30Z",
+  "pushed_at": "2018-09-12T15:37:13Z",
   "homepage": "https://coq.inria.fr/",
-  "size": 115069,
+  "size": 115090,
   "stargazers_count": 1450,
   "language": "OCaml",
   "mirror_url": null,
@@ -353,5 +353,6 @@
       "color": "#64b970"
     }
   },
-  "fetched_at": "2018-09-12T07:38:39.465Z"
+  "fetched_at": "2018-09-12T07:38:39.465Z",
+  "fetching_since": "2018-09-12T15:53:07.814Z"
 }

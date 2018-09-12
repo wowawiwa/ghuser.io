@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:49:38.871Z",
+  "name": "teafortwo",
+  "full_name": "L-P/teafortwo",
+  "owner": "L-P",
+  "private": false,
+  "html_url": "https://github.com/L-P/teafortwo",
+  "description": "CLI version of 2048 made with Golang.",
+  "fork": false,
+  "url": "https://api.github.com/repos/L-P/teafortwo",
+  "languages_url": "https://api.github.com/repos/L-P/teafortwo/languages",
+  "pulls_url": "https://api.github.com/repos/L-P/teafortwo/pulls{/number}",
+  "created_at": "2017-04-25T05:16:37Z",
+  "updated_at": "2017-04-25T05:17:22Z",
+  "pushed_at": "2017-05-03T19:18:22Z",
+  "homepage": null,
+  "size": 54,
+  "stargazers_count": 0,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master"
+}

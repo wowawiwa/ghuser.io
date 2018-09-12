@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/octokit/rest.js/languages",
   "pulls_url": "https://api.github.com/repos/octokit/rest.js/pulls{/number}",
   "created_at": "2010-06-09T17:07:03Z",
-  "updated_at": "2018-09-12T00:08:56Z",
-  "pushed_at": "2018-09-11T23:30:52Z",
+  "updated_at": "2018-09-12T15:00:08Z",
+  "pushed_at": "2018-09-12T14:47:22Z",
   "homepage": "https://octokit.github.io/rest.js/",
-  "size": 5901,
+  "size": 5954,
   "stargazers_count": 2749,
   "language": "JavaScript",
   "mirror_url": null,
@@ -460,5 +460,6 @@
       "color": "#2b7489"
     }
   },
-  "fetched_at": "2018-09-12T04:57:14.959Z"
+  "fetched_at": "2018-09-12T04:57:14.959Z",
+  "fetching_since": "2018-09-12T15:34:08.395Z"
 }

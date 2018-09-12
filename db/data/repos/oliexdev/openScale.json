@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/oliexdev/openScale/languages",
   "pulls_url": "https://api.github.com/repos/oliexdev/openScale/pulls{/number}",
   "created_at": "2014-12-13T08:36:53Z",
-  "updated_at": "2018-09-11T11:16:58Z",
+  "updated_at": "2018-09-12T09:38:32Z",
   "pushed_at": "2018-09-08T07:31:25Z",
   "homepage": "",
   "size": 137975,
-  "stargazers_count": 278,
+  "stargazers_count": 280,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -128,5 +128,6 @@
       "color": "#555555"
     }
   },
-  "fetched_at": "2018-09-12T05:02:00.922Z"
+  "fetched_at": "2018-09-12T05:02:00.922Z",
+  "fetching_since": "2018-09-12T15:43:23.789Z"
 }

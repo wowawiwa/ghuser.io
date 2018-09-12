@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/ramsey/uuid/languages",
   "pulls_url": "https://api.github.com/repos/ramsey/uuid/pulls{/number}",
   "created_at": "2012-07-05T23:24:53Z",
-  "updated_at": "2018-09-12T04:10:49Z",
+  "updated_at": "2018-09-12T11:46:36Z",
   "pushed_at": "2018-09-07T16:01:47Z",
   "homepage": "",
   "size": 1192,
-  "stargazers_count": 6671,
+  "stargazers_count": 6677,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -163,5 +163,6 @@
       "color": "#4F5D95"
     }
   },
-  "fetched_at": "2018-09-12T05:01:48.181Z"
+  "fetched_at": "2018-09-12T05:01:48.181Z",
+  "fetching_since": "2018-09-12T15:43:01.699Z"
 }

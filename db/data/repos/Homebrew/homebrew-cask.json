@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/Homebrew/homebrew-cask/languages",
   "pulls_url": "https://api.github.com/repos/Homebrew/homebrew-cask/pulls{/number}",
   "created_at": "2012-03-05T02:05:17Z",
-  "updated_at": "2018-09-12T07:23:35Z",
-  "pushed_at": "2018-09-12T06:39:59Z",
+  "updated_at": "2018-09-12T15:11:22Z",
+  "pushed_at": "2018-09-12T15:47:41Z",
   "homepage": "https://brew.sh",
-  "size": 124602,
+  "size": 125643,
   "stargazers_count": 13524,
   "language": "Ruby",
   "mirror_url": null,
@@ -5902,5 +5902,6 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T07:38:13.030Z"
+  "fetched_at": "2018-09-12T07:38:13.030Z",
+  "fetching_since": "2018-09-12T15:47:56.247Z"
 }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/sketchplugins/plugin-directory/languages",
   "pulls_url": "https://api.github.com/repos/sketchplugins/plugin-directory/pulls{/number}",
   "created_at": "2014-05-11T14:12:42Z",
-  "updated_at": "2018-09-12T03:15:02Z",
-  "pushed_at": "2018-09-12T01:51:16Z",
+  "updated_at": "2018-09-12T08:04:43Z",
+  "pushed_at": "2018-09-12T10:43:50Z",
   "homepage": "http://sketchapp.com/extensions/plugins",
   "size": 2299,
-  "stargazers_count": 3055,
+  "stargazers_count": 3058,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -507,5 +507,6 @@
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-09-12T05:02:38.378Z"
+  "fetched_at": "2018-09-12T05:02:38.378Z",
+  "fetching_since": "2018-09-12T15:44:26.037Z"
 }

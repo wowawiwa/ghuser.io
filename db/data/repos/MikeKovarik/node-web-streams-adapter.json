@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:51:10.446Z",
+  "name": "node-web-streams-adapter",
+  "full_name": "MikeKovarik/node-web-streams-adapter",
+  "owner": "MikeKovarik",
+  "private": false,
+  "html_url": "https://github.com/MikeKovarik/node-web-streams-adapter",
+  "description": "Use the new Web Streams API built on top of Node Streams",
+  "fork": false,
+  "url": "https://api.github.com/repos/MikeKovarik/node-web-streams-adapter",
+  "languages_url": "https://api.github.com/repos/MikeKovarik/node-web-streams-adapter/languages",
+  "pulls_url": "https://api.github.com/repos/MikeKovarik/node-web-streams-adapter/pulls{/number}",
+  "created_at": "2017-10-11T12:36:03Z",
+  "updated_at": "2017-10-11T12:36:09Z",
+  "pushed_at": "2017-10-11T15:33:17Z",
+  "homepage": null,
+  "size": 12,
+  "stargazers_count": 0,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master"
+}

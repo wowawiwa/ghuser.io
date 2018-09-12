@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/justdeleteme/justdelete.me/languages",
   "pulls_url": "https://api.github.com/repos/justdeleteme/justdelete.me/pulls{/number}",
   "created_at": "2013-08-16T12:35:04Z",
-  "updated_at": "2018-09-11T03:12:09Z",
+  "updated_at": "2018-09-12T14:46:03Z",
   "pushed_at": "2018-07-27T09:52:44Z",
   "homepage": "http://backgroundchecks.org/justdeleteme",
   "size": 7662,
-  "stargazers_count": 911,
+  "stargazers_count": 912,
   "language": "CSS",
   "mirror_url": null,
   "archived": false,
@@ -601,5 +601,6 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-11T10:41:27.302Z"
+  "fetched_at": "2018-09-11T10:41:27.302Z",
+  "fetching_since": "2018-09-12T15:47:34.095Z"
 }

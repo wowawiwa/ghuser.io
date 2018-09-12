@@ -11,8 +11,8 @@
   "languages_url": "https://api.github.com/repos/dvandal/cryptonote-nodejs-pool/languages",
   "pulls_url": "https://api.github.com/repos/dvandal/cryptonote-nodejs-pool/pulls{/number}",
   "created_at": "2018-02-22T17:22:47Z",
-  "updated_at": "2018-09-11T06:59:15Z",
-  "pushed_at": "2018-09-08T01:52:17Z",
+  "updated_at": "2018-09-12T14:06:16Z",
+  "pushed_at": "2018-09-11T21:25:00Z",
   "homepage": "",
   "size": 1607,
   "stargazers_count": 101,
@@ -107,5 +107,6 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-11T10:39:40.696Z"
+  "fetched_at": "2018-09-11T10:39:40.696Z",
+  "fetching_since": "2018-09-12T15:53:29.487Z"
 }

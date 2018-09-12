@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:48:36.096Z",
+  "name": "ansible-php",
+  "full_name": "jtreminio/ansible-php",
+  "owner": "jtreminio",
+  "private": false,
+  "html_url": "https://github.com/jtreminio/ansible-php",
+  "description": "Ansible role for PHP, Composer and Xdebug",
+  "fork": false,
+  "url": "https://api.github.com/repos/jtreminio/ansible-php",
+  "languages_url": "https://api.github.com/repos/jtreminio/ansible-php/languages",
+  "pulls_url": "https://api.github.com/repos/jtreminio/ansible-php/pulls{/number}",
+  "created_at": "2017-12-13T22:33:08Z",
+  "updated_at": "2017-12-13T23:47:26Z",
+  "pushed_at": "2018-01-03T07:12:49Z",
+  "homepage": "",
+  "size": 9,
+  "stargazers_count": 0,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master"
+}

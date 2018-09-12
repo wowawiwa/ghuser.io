@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:38:22.017Z",
+  "name": "hydra-downloader",
+  "full_name": "cardoso/hydra-downloader",
+  "owner": "cardoso",
+  "private": false,
+  "html_url": "https://github.com/cardoso/hydra-downloader",
+  "description": "A multi-platform multi-link file downloader written in C using libcurl to finally help you (probably just me) get that file from that terrible chinese host.",
+  "fork": false,
+  "url": "https://api.github.com/repos/cardoso/hydra-downloader",
+  "languages_url": "https://api.github.com/repos/cardoso/hydra-downloader/languages",
+  "pulls_url": "https://api.github.com/repos/cardoso/hydra-downloader/pulls{/number}",
+  "created_at": "2016-11-19T13:28:35Z",
+  "updated_at": "2016-11-19T14:09:36Z",
+  "pushed_at": "2016-11-19T19:39:49Z",
+  "homepage": null,
+  "size": 9,
+  "stargazers_count": 0,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master"
+}

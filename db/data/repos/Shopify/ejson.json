@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/Shopify/ejson/languages",
   "pulls_url": "https://api.github.com/repos/Shopify/ejson/pulls{/number}",
   "created_at": "2014-04-28T17:12:08Z",
-  "updated_at": "2018-09-10T17:16:54Z",
+  "updated_at": "2018-09-12T08:52:24Z",
   "pushed_at": "2018-09-10T17:16:56Z",
   "homepage": "",
   "size": 2782,
-  "stargazers_count": 710,
+  "stargazers_count": 711,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -96,5 +96,6 @@
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-09-11T10:32:15.811Z"
+  "fetched_at": "2018-09-11T10:32:15.811Z",
+  "fetching_since": "2018-09-12T15:33:04.961Z"
 }

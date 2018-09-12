@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/99designs/aws-vault/languages",
   "pulls_url": "https://api.github.com/repos/99designs/aws-vault/pulls{/number}",
   "created_at": "2015-08-11T12:09:34Z",
-  "updated_at": "2018-09-12T06:54:05Z",
-  "pushed_at": "2018-09-06T00:11:28Z",
+  "updated_at": "2018-09-12T15:13:40Z",
+  "pushed_at": "2018-09-12T09:19:58Z",
   "homepage": null,
-  "size": 8654,
-  "stargazers_count": 1484,
+  "size": 8658,
+  "stargazers_count": 1486,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -144,5 +144,6 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-12T07:32:42.763Z"
+  "fetched_at": "2018-09-12T07:32:42.763Z",
+  "fetching_since": "2018-09-12T15:40:22.934Z"
 }

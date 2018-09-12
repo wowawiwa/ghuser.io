@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/Zizaco/entrust/languages",
   "pulls_url": "https://api.github.com/repos/Zizaco/entrust/pulls{/number}",
   "created_at": "2013-02-07T06:30:20Z",
-  "updated_at": "2018-09-12T02:01:54Z",
+  "updated_at": "2018-09-12T14:29:38Z",
   "pushed_at": "2018-08-29T23:59:11Z",
   "homepage": "",
   "size": 443,
-  "stargazers_count": 5881,
+  "stargazers_count": 5886,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -327,5 +327,6 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-12T05:01:46.857Z"
+  "fetched_at": "2018-09-12T05:01:46.857Z",
+  "fetching_since": "2018-09-12T15:42:59.959Z"
 }

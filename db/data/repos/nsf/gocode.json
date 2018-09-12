@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/nsf/gocode/languages",
   "pulls_url": "https://api.github.com/repos/nsf/gocode/pulls{/number}",
   "created_at": "2010-07-05T00:13:16Z",
-  "updated_at": "2018-09-11T11:02:34Z",
+  "updated_at": "2018-09-12T14:08:33Z",
   "pushed_at": "2018-09-02T12:53:26Z",
   "homepage": "",
   "size": 1486,
-  "stargazers_count": 4435,
+  "stargazers_count": 4436,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -205,5 +205,6 @@
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-09-11T22:27:01.642Z"
+  "fetched_at": "2018-09-11T22:27:01.642Z",
+  "fetching_since": "2018-09-12T15:32:26.456Z"
 }

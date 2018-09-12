@@ -426,11 +426,11 @@
   "url": "https://api.github.com/repos/composer/composer",
   "languages_url": "https://api.github.com/repos/composer/composer/languages",
   "created_at": "2011-06-08T08:53:00Z",
-  "updated_at": "2018-09-11T23:16:06Z",
-  "pushed_at": "2018-09-11T14:04:00Z",
+  "updated_at": "2018-09-12T15:14:31Z",
+  "pushed_at": "2018-09-12T15:00:05Z",
   "homepage": "https://getcomposer.org/",
-  "size": 12981,
-  "stargazers_count": 16080,
+  "size": 13050,
+  "stargazers_count": 16090,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -1518,5 +1518,6 @@
     "rieves",
     "lamp-of-god",
     "xuanquynh"
-  ]
+  ],
+  "fetching_since": "2018-09-12T15:36:43.601Z"
 }

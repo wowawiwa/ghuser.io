@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/jmoiron/sqlx",
   "languages_url": "https://api.github.com/repos/jmoiron/sqlx/languages",
   "created_at": "2013-01-28T19:40:00Z",
-  "updated_at": "2018-09-10T18:35:49Z",
+  "updated_at": "2018-09-12T12:50:59Z",
   "pushed_at": "2018-09-03T22:24:36Z",
   "homepage": "http://jmoiron.github.io/sqlx/",
   "size": 736,
-  "stargazers_count": 4930,
+  "stargazers_count": 4934,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -190,5 +190,6 @@
     "prenagha",
     "flibustenet",
     "samjohnduke"
-  ]
+  ],
+  "fetching_since": "2018-09-12T15:41:36.335Z"
 }

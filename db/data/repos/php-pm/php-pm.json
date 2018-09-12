@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/php-pm/php-pm/languages",
   "pulls_url": "https://api.github.com/repos/php-pm/php-pm/pulls{/number}",
   "created_at": "2014-02-24T23:25:40Z",
-  "updated_at": "2018-09-11T15:39:20Z",
+  "updated_at": "2018-09-12T12:07:38Z",
   "pushed_at": "2018-09-11T16:56:08Z",
   "homepage": "",
   "size": 651,
-  "stargazers_count": 5244,
+  "stargazers_count": 5245,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -185,5 +185,6 @@
       "color": "#4F5D95"
     }
   },
-  "fetched_at": "2018-09-11T20:47:15.963Z"
+  "fetched_at": "2018-09-11T20:47:15.963Z",
+  "fetching_since": "2018-09-12T15:42:56.965Z"
 }

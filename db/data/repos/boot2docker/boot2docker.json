@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/boot2docker/boot2docker/languages",
   "pulls_url": "https://api.github.com/repos/boot2docker/boot2docker/pulls{/number}",
   "created_at": "2013-12-04T17:26:57Z",
-  "updated_at": "2018-09-12T06:53:13Z",
+  "updated_at": "2018-09-12T09:34:46Z",
   "pushed_at": "2018-09-11T20:51:11Z",
   "homepage": "",
   "size": 1395,
-  "stargazers_count": 7553,
+  "stargazers_count": 7554,
   "language": "Shell",
   "mirror_url": null,
   "archived": false,
@@ -384,5 +384,6 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-12T07:32:39.128Z"
+  "fetched_at": "2018-09-12T07:32:39.128Z",
+  "fetching_since": "2018-09-12T15:39:48.493Z"
 }

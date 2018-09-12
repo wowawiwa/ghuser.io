@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:30:51.450Z",
+  "name": "disholtek",
+  "full_name": "agatti/disholtek",
+  "owner": "agatti",
+  "private": false,
+  "html_url": "https://github.com/agatti/disholtek",
+  "description": "A simple disassembler for Holtek BS83B08A-3 microcontroller binaries.",
+  "fork": false,
+  "url": "https://api.github.com/repos/agatti/disholtek",
+  "languages_url": "https://api.github.com/repos/agatti/disholtek/languages",
+  "pulls_url": "https://api.github.com/repos/agatti/disholtek/pulls{/number}",
+  "created_at": "2016-06-17T18:44:55Z",
+  "updated_at": "2016-06-19T05:45:07Z",
+  "pushed_at": "2016-06-21T00:07:38Z",
+  "homepage": null,
+  "size": 6,
+  "stargazers_count": 0,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "zlib",
+    "name": "zlib License",
+    "spdx_id": "Zlib",
+    "url": "https://api.github.com/licenses/zlib",
+    "node_id": "MDc6TGljZW5zZTI3"
+  },
+  "default_branch": "master"
+}

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/grpc/grpc/languages",
   "pulls_url": "https://api.github.com/repos/grpc/grpc/pulls{/number}",
   "created_at": "2014-12-08T18:58:53Z",
-  "updated_at": "2018-09-12T03:04:23Z",
-  "pushed_at": "2018-09-12T01:11:55Z",
+  "updated_at": "2018-09-12T15:06:04Z",
+  "pushed_at": "2018-09-12T07:33:57Z",
   "homepage": "https://grpc.io",
   "size": 192178,
-  "stargazers_count": 17068,
+  "stargazers_count": 17082,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -1102,5 +1102,6 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-12T04:56:43.993Z"
+  "fetched_at": "2018-09-12T04:56:43.993Z",
+  "fetching_since": "2018-09-12T15:32:53.956Z"
 }

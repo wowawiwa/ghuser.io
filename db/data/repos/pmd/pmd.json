@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/pmd/pmd",
   "languages_url": "https://api.github.com/repos/pmd/pmd/languages",
   "created_at": "2012-07-11T18:03:00Z",
-  "updated_at": "2018-09-11T16:58:43Z",
-  "pushed_at": "2018-09-11T13:59:38Z",
+  "updated_at": "2018-09-12T13:20:09Z",
+  "pushed_at": "2018-09-12T08:45:55Z",
   "homepage": "https://pmd.github.io",
   "size": 249024,
-  "stargazers_count": 1772,
+  "stargazers_count": 1777,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -376,5 +376,6 @@
     "matifraga",
     "jeffhube",
     "kris-scheibe"
-  ]
+  ],
+  "fetching_since": "2018-09-12T15:45:29.965Z"
 }

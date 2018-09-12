@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/facebook/dataloader/languages",
   "pulls_url": "https://api.github.com/repos/facebook/dataloader/pulls{/number}",
   "created_at": "2015-09-10T10:05:23Z",
-  "updated_at": "2018-09-12T05:43:37Z",
+  "updated_at": "2018-09-12T08:15:07Z",
   "pushed_at": "2018-06-04T14:49:08Z",
   "homepage": null,
   "size": 211,
-  "stargazers_count": 5628,
+  "stargazers_count": 5629,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -129,5 +129,6 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T07:36:35.304Z"
+  "fetched_at": "2018-09-12T07:36:35.304Z",
+  "fetching_since": "2018-09-12T15:50:24.965Z"
 }

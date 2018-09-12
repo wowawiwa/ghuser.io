@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:44:56.900Z",
+  "name": "xdr",
+  "full_name": "imdario/xdr",
+  "owner": "imdario",
+  "private": false,
+  "html_url": "https://github.com/imdario/xdr",
+  "description": "XDR (External Data Representation; RFC 4506) pure Go implementation",
+  "fork": false,
+  "url": "https://api.github.com/repos/imdario/xdr",
+  "languages_url": "https://api.github.com/repos/imdario/xdr/languages",
+  "pulls_url": "https://api.github.com/repos/imdario/xdr/pulls{/number}",
+  "created_at": "2018-08-17T22:18:30Z",
+  "updated_at": "2018-08-25T09:11:17Z",
+  "pushed_at": "2018-08-25T18:21:08Z",
+  "homepage": "",
+  "size": 59,
+  "stargazers_count": 0,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master"
+}

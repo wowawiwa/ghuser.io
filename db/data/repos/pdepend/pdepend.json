@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/pdepend/pdepend/languages",
   "pulls_url": "https://api.github.com/repos/pdepend/pdepend/pulls{/number}",
   "created_at": "2010-11-05T21:39:03Z",
-  "updated_at": "2018-09-11T11:17:34Z",
+  "updated_at": "2018-09-12T10:15:09Z",
   "pushed_at": "2018-08-06T19:46:14Z",
   "homepage": "https://pdepend.org/",
   "size": 13816,
-  "stargazers_count": 435,
+  "stargazers_count": 436,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -191,5 +191,6 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-11T20:47:13.372Z"
+  "fetched_at": "2018-09-11T20:47:13.372Z",
+  "fetching_since": "2018-09-12T15:42:54.306Z"
 }

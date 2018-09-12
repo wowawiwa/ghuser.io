@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:47:57.820Z",
+  "name": "libaudiotool",
+  "full_name": "jcelerier/libaudiotool",
+  "owner": "jcelerier",
+  "private": false,
+  "html_url": "https://github.com/jcelerier/libaudiotool",
+  "description": "C++ framework to make audio processing software",
+  "fork": false,
+  "url": "https://api.github.com/repos/jcelerier/libaudiotool",
+  "languages_url": "https://api.github.com/repos/jcelerier/libaudiotool/languages",
+  "pulls_url": "https://api.github.com/repos/jcelerier/libaudiotool/pulls{/number}",
+  "created_at": "2014-06-29T22:12:05Z",
+  "updated_at": "2015-11-25T18:11:23Z",
+  "pushed_at": "2015-04-14T20:57:58Z",
+  "homepage": null,
+  "size": 11512,
+  "stargazers_count": 1,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master"
+}

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/avajs/ava/languages",
   "pulls_url": "https://api.github.com/repos/avajs/ava/pulls{/number}",
   "created_at": "2014-11-18T17:20:26Z",
-  "updated_at": "2018-09-12T04:05:08Z",
+  "updated_at": "2018-09-12T14:35:30Z",
   "pushed_at": "2018-09-09T15:26:08Z",
   "homepage": "",
   "size": 7655,
-  "stargazers_count": 14672,
+  "stargazers_count": 14681,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -514,5 +514,6 @@
       "color": "#2b7489"
     }
   },
-  "fetched_at": "2018-09-12T07:36:43.933Z"
+  "fetched_at": "2018-09-12T07:36:43.933Z",
+  "fetching_since": "2018-09-12T15:50:35.777Z"
 }

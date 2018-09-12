@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/openstf/stf/languages",
   "pulls_url": "https://api.github.com/repos/openstf/stf/pulls{/number}",
   "created_at": "2015-06-22T02:23:43Z",
-  "updated_at": "2018-09-12T01:02:15Z",
-  "pushed_at": "2018-08-20T02:24:36Z",
+  "updated_at": "2018-09-12T14:08:26Z",
+  "pushed_at": "2018-09-12T08:18:23Z",
   "homepage": "https://openstf.io",
   "size": 64410,
-  "stargazers_count": 7844,
+  "stargazers_count": 7847,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -139,5 +139,6 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T07:33:43.219Z"
+  "fetched_at": "2018-09-12T07:33:43.219Z",
+  "fetching_since": "2018-09-12T15:44:05.858Z"
 }

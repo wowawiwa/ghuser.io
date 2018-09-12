@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:48:31.189Z",
+  "name": "eclipse.jdt.ls",
+  "full_name": "JPinkney/eclipse.jdt.ls",
+  "owner": "JPinkney",
+  "private": false,
+  "html_url": "https://github.com/JPinkney/eclipse.jdt.ls",
+  "description": "Java language server",
+  "fork": true,
+  "url": "https://api.github.com/repos/JPinkney/eclipse.jdt.ls",
+  "languages_url": "https://api.github.com/repos/JPinkney/eclipse.jdt.ls/languages",
+  "pulls_url": "https://api.github.com/repos/JPinkney/eclipse.jdt.ls/pulls{/number}",
+  "created_at": "2018-02-20T21:52:09Z",
+  "updated_at": "2018-02-20T21:52:12Z",
+  "pushed_at": "2018-03-28T18:02:48Z",
+  "homepage": null,
+  "size": 4356,
+  "stargazers_count": 0,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "epl-1.0",
+    "name": "Eclipse Public License 1.0",
+    "spdx_id": "EPL-1.0",
+    "url": "https://api.github.com/licenses/epl-1.0",
+    "node_id": "MDc6TGljZW5zZTc="
+  },
+  "default_branch": "master"
+}

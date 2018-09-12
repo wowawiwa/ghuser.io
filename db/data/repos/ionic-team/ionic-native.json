@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/ionic-team/ionic-native/languages",
   "pulls_url": "https://api.github.com/repos/ionic-team/ionic-native/pulls{/number}",
   "created_at": "2015-11-24T16:54:58Z",
-  "updated_at": "2018-09-11T01:27:25Z",
-  "pushed_at": "2018-09-11T07:20:59Z",
+  "updated_at": "2018-09-12T09:32:45Z",
+  "pushed_at": "2018-09-12T04:10:12Z",
   "homepage": "http://ionicframework.com/docs/v2/native/",
   "size": 10373,
-  "stargazers_count": 1766,
+  "stargazers_count": 1767,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -994,5 +994,6 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-11T13:47:46.391Z"
+  "fetched_at": "2018-09-11T13:47:46.391Z",
+  "fetching_since": "2018-09-12T15:48:19.860Z"
 }

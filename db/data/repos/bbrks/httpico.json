@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:34:58.702Z",
+  "name": "httpico",
+  "full_name": "bbrks/httpico",
+  "owner": "bbrks",
+  "private": false,
+  "html_url": "https://github.com/bbrks/httpico",
+  "description": "🐳🌐 Think of it as Docker's own SimpleHTTPServer. Nothing more. Nothing less.",
+  "fork": false,
+  "url": "https://api.github.com/repos/bbrks/httpico",
+  "languages_url": "https://api.github.com/repos/bbrks/httpico/languages",
+  "pulls_url": "https://api.github.com/repos/bbrks/httpico/pulls{/number}",
+  "created_at": "2016-01-27T07:45:40Z",
+  "updated_at": "2017-06-14T16:57:03Z",
+  "pushed_at": "2016-05-11T17:59:37Z",
+  "homepage": "",
+  "size": 2,
+  "stargazers_count": 0,
+  "language": "Makefile",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master"
+}

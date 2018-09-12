@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/tomakehurst/wiremock/languages",
   "pulls_url": "https://api.github.com/repos/tomakehurst/wiremock/pulls{/number}",
   "created_at": "2011-10-09T20:27:24Z",
-  "updated_at": "2018-09-11T18:50:25Z",
+  "updated_at": "2018-09-12T15:25:25Z",
   "pushed_at": "2018-09-09T17:34:18Z",
   "homepage": "",
   "size": 12063,
-  "stargazers_count": 2673,
+  "stargazers_count": 2675,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -341,5 +341,6 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-11T20:43:53.398Z"
+  "fetched_at": "2018-09-11T20:43:53.398Z",
+  "fetching_since": "2018-09-12T15:33:39.342Z"
 }

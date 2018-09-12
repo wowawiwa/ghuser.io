@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "fetching_since": "2018-09-12T15:41:50.330Z",
+  "name": "charity-mentions",
+  "full_name": "drkane/charity-mentions",
+  "owner": "drkane",
+  "private": false,
+  "html_url": "https://github.com/drkane/charity-mentions",
+  "description": "Replies to mentions of a charity number or name",
+  "fork": false,
+  "url": "https://api.github.com/repos/drkane/charity-mentions",
+  "languages_url": "https://api.github.com/repos/drkane/charity-mentions/languages",
+  "pulls_url": "https://api.github.com/repos/drkane/charity-mentions/pulls{/number}",
+  "created_at": "2017-05-10T21:23:36Z",
+  "updated_at": "2017-05-10T21:25:49Z",
+  "pushed_at": "2018-02-11T20:29:39Z",
+  "homepage": null,
+  "size": 16,
+  "stargazers_count": 0,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master"
+}

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/jasoncoon/esp8266-fastled-webserver/languages",
   "pulls_url": "https://api.github.com/repos/jasoncoon/esp8266-fastled-webserver/pulls{/number}",
   "created_at": "2016-03-10T13:56:25Z",
-  "updated_at": "2018-09-11T03:44:49Z",
+  "updated_at": "2018-09-12T07:42:21Z",
   "pushed_at": "2018-08-11T16:04:01Z",
   "homepage": null,
   "size": 28596,
-  "stargazers_count": 235,
+  "stargazers_count": 236,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -70,5 +70,6 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-11T23:04:43.302Z"
+  "fetched_at": "2018-09-11T23:04:43.302Z",
+  "fetching_since": "2018-09-12T15:40:39.773Z"
 }

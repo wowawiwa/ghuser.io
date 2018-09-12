@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/ucsd-progsys/liquidhaskell/languages",
   "pulls_url": "https://api.github.com/repos/ucsd-progsys/liquidhaskell/pulls{/number}",
   "created_at": "2012-09-22T15:06:55Z",
-  "updated_at": "2018-09-11T08:52:03Z",
-  "pushed_at": "2018-09-10T22:32:41Z",
+  "updated_at": "2018-09-12T09:52:20Z",
+  "pushed_at": "2018-09-12T13:17:03Z",
   "homepage": null,
-  "size": 24985,
-  "stargazers_count": 565,
+  "size": 25203,
+  "stargazers_count": 566,
   "language": "Haskell",
   "mirror_url": null,
   "archived": false,
@@ -190,5 +190,6 @@
       "color": "#0298c3"
     }
   },
-  "fetched_at": "2018-09-11T10:39:24.762Z"
+  "fetched_at": "2018-09-11T10:39:24.762Z",
+  "fetching_since": "2018-09-12T15:53:08.730Z"
 }

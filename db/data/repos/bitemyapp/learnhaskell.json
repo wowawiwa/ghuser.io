@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/bitemyapp/learnhaskell/languages",
   "pulls_url": "https://api.github.com/repos/bitemyapp/learnhaskell/pulls{/number}",
   "created_at": "2014-05-19T19:43:26Z",
-  "updated_at": "2018-09-11T05:12:36Z",
+  "updated_at": "2018-09-12T12:31:49Z",
   "pushed_at": "2018-08-24T08:07:12Z",
   "homepage": null,
   "size": 3620,
-  "stargazers_count": 5715,
+  "stargazers_count": 5716,
   "language": "Makefile",
   "mirror_url": null,
   "archived": false,
@@ -190,5 +190,6 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-11T10:39:31.208Z"
+  "fetched_at": "2018-09-11T10:39:31.208Z",
+  "fetching_since": "2018-09-12T15:53:16.208Z"
 }

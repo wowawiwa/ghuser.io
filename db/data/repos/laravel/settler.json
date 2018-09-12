@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/laravel/settler/languages",
   "pulls_url": "https://api.github.com/repos/laravel/settler/pulls{/number}",
   "created_at": "2014-05-12T15:58:57Z",
-  "updated_at": "2018-09-09T19:27:57Z",
+  "updated_at": "2018-09-12T10:35:30Z",
   "pushed_at": "2018-09-09T19:27:59Z",
   "homepage": "",
   "size": 210,
-  "stargazers_count": 805,
+  "stargazers_count": 806,
   "language": "Shell",
   "mirror_url": null,
   "archived": false,
@@ -185,5 +185,6 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T07:34:48.117Z"
+  "fetched_at": "2018-09-12T07:34:48.117Z",
+  "fetching_since": "2018-09-12T15:47:21.869Z"
 }

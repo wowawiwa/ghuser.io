@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/tholman/inspiring-online/languages",
   "pulls_url": "https://api.github.com/repos/tholman/inspiring-online/pulls{/number}",
   "created_at": "2015-09-10T21:44:02Z",
-  "updated_at": "2018-09-11T19:21:22Z",
-  "pushed_at": "2018-09-10T04:57:54Z",
+  "updated_at": "2018-09-12T12:49:37Z",
+  "pushed_at": "2018-09-12T12:49:36Z",
   "homepage": "http://inspiring.online",
-  "size": 115598,
+  "size": 115800,
   "stargazers_count": 163,
   "language": "HTML",
   "mirror_url": null,
@@ -97,5 +97,6 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-12T04:58:34.366Z"
+  "fetched_at": "2018-09-12T04:58:34.366Z",
+  "fetching_since": "2018-09-12T15:37:27.137Z"
 }
