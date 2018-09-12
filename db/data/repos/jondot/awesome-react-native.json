@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/jondot/awesome-react-native/languages",
   "pulls_url": "https://api.github.com/repos/jondot/awesome-react-native/pulls{/number}",
   "created_at": "2015-03-26T19:58:06Z",
-  "updated_at": "2018-09-11T16:47:15Z",
-  "pushed_at": "2018-09-11T06:54:28Z",
+  "updated_at": "2018-09-12T03:18:31Z",
+  "pushed_at": "2018-09-11T20:20:25Z",
   "homepage": "http://www.awesome-react-native.com",
   "size": 2601,
-  "stargazers_count": 21219,
+  "stargazers_count": 21225,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -891,7 +891,8 @@
     "alexandregz",
     "gangster",
     "shrugs",
-    "jdnichollsc"
+    "jdnichollsc",
+    "henninghall"
   ],
   "languages": {
     "Ruby": {
@@ -911,5 +912,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-11T17:08:01.858Z"
+  "fetched_at": "2018-09-12T04:59:14.171Z"
 }

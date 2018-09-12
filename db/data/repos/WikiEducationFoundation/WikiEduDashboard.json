@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/WikiEducationFoundation/WikiEduDashboard/languages",
   "pulls_url": "https://api.github.com/repos/WikiEducationFoundation/WikiEduDashboard/pulls{/number}",
   "created_at": "2014-12-12T22:13:19Z",
-  "updated_at": "2018-09-10T20:12:03Z",
-  "pushed_at": "2018-09-11T17:01:58Z",
+  "updated_at": "2018-09-11T19:27:25Z",
+  "pushed_at": "2018-09-12T00:03:38Z",
   "homepage": "https://dashboard.wikiedu.org",
-  "size": 68548,
+  "size": 68560,
   "stargazers_count": 102,
   "language": "Ruby",
   "mirror_url": null,
@@ -127,7 +127,7 @@
     "hudakdidit": 432,
     "thenickcox": 551,
     "ntdb": 752,
-    "ragesoss": 4509
+    "ragesoss": 4510
   },
   "pulls_authors": [
     "AmitJoki",
@@ -223,7 +223,8 @@
     "Kenua",
     "WinnySilva",
     "amire80",
-    "ntdb"
+    "ntdb",
+    "Kachulio1"
   ],
   "languages": {
     "Ruby": {
@@ -231,7 +232,7 @@
       "color": "#701516"
     },
     "JavaScript": {
-      "bytes": 949617,
+      "bytes": 949623,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -259,5 +260,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-11T17:08:24.497Z"
+  "fetched_at": "2018-09-12T05:00:04.316Z"
 }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/endless-sky/endless-sky/languages",
   "pulls_url": "https://api.github.com/repos/endless-sky/endless-sky/pulls{/number}",
   "created_at": "2015-03-14T20:44:39Z",
-  "updated_at": "2018-09-11T12:46:35Z",
-  "pushed_at": "2018-09-11T15:25:07Z",
+  "updated_at": "2018-09-12T04:38:59Z",
+  "pushed_at": "2018-09-11T22:53:45Z",
   "homepage": "http://endless-sky.github.io/",
-  "size": 160106,
-  "stargazers_count": 1536,
+  "size": 160152,
+  "stargazers_count": 1538,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -115,7 +115,7 @@
     "MessyMix": 14,
     "jmhorjus": 16,
     "colbygallup": 15,
-    "warp-core": 15,
+    "warp-core": 16,
     "EndrosG": 16,
     "flaviojs": 17,
     "toilethinges": 20,
@@ -338,5 +338,5 @@
       "color": "#555555"
     }
   },
-  "fetched_at": "2018-09-11T17:09:12.806Z"
+  "fetched_at": "2018-09-12T05:01:07.419Z"
 }

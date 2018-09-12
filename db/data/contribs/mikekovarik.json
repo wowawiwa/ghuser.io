@@ -56,13 +56,13 @@
     "felixrieseberg/electron-windows-store": {
       "full_name": "felixrieseberg/electron-windows-store",
       "name": "electron-windows-store",
-      "stargazers_count": 348,
-      "popularity": 3.540493691063696,
+      "stargazers_count": 349,
+      "popularity": 3.5417431007089224,
       "percentage": 0,
       "maturity": 3.098992243127268,
       "total_commits_count": 165,
       "activity": 5,
-      "total_score": 21.819465559445625,
+      "total_score": 21.823213788381302,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -82,13 +82,13 @@
     "node-serialport/node-serialport": {
       "full_name": "node-serialport/node-serialport",
       "name": "node-serialport",
-      "stargazers_count": 3568,
-      "popularity": 4.552354372068121,
-      "percentage": 0.08481764206955046,
-      "maturity": 4.058298018344513,
-      "total_commits_count": 1179,
+      "stargazers_count": 3570,
+      "popularity": 4.552597803863402,
+      "percentage": 0.0847457627118644,
+      "maturity": 4.058679112291362,
+      "total_commits_count": 1180,
       "activity": 5,
-      "total_score": 26.823854748174888,
+      "total_score": 26.82530737469007,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -173,7 +173,7 @@
     "webtorrent/webtorrent": {
       "full_name": "webtorrent/webtorrent",
       "name": "webtorrent",
-      "stargazers_count": 17668,
+      "stargazers_count": 17674,
       "popularity": 5,
       "percentage": 0.0855431993156544,
       "maturity": 4.363105165949663,
@@ -199,13 +199,13 @@
     "ModClean/modclean": {
       "full_name": "ModClean/modclean",
       "name": "modclean",
-      "stargazers_count": 222,
-      "popularity": 3.344627813553609,
+      "stargazers_count": 223,
+      "popularity": 3.3465876296029653,
       "percentage": 1.1363636363636365,
       "maturity": 2.6838777923650987,
       "total_commits_count": 88,
-      "activity": 1.659778473519014,
-      "total_score": 17.555510244094094,
+      "activity": 1.6469750196030568,
+      "total_score": 17.548875756606225,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

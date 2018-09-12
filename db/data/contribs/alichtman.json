@@ -17,7 +17,7 @@
     "jaywcjlove/awesome-mac": {
       "full_name": "jaywcjlove/awesome-mac",
       "name": "awesome-mac",
-      "stargazers_count": 20851,
+      "stargazers_count": 20863,
       "popularity": 5,
       "percentage": 6.748466257668712,
       "maturity": 4.043562923872629,
@@ -56,13 +56,13 @@
     "selfagency/microsoft-drop-ice": {
       "full_name": "selfagency/microsoft-drop-ice",
       "name": "microsoft-drop-ice",
-      "stargazers_count": 555,
-      "popularity": 3.7436272317590547,
+      "stargazers_count": 557,
+      "popularity": 3.7451919767014212,
       "percentage": 0.2824858757062147,
       "maturity": 3.8265775309931898,
       "total_commits_count": 708,
       "activity": 5,
-      "total_score": 24.021514593458086,
+      "total_score": 24.026266290670073,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -82,7 +82,7 @@
     "alebcay/awesome-shell": {
       "full_name": "alebcay/awesome-shell",
       "name": "awesome-shell",
-      "stargazers_count": 13240,
+      "stargazers_count": 13243,
       "popularity": 5,
       "percentage": 0.6060606060606061,
       "maturity": 3.6598427733530157,
@@ -160,7 +160,7 @@
     "drduh/macOS-Security-and-Privacy-Guide": {
       "full_name": "drduh/macOS-Security-and-Privacy-Guide",
       "name": "macOS-Security-and-Privacy-Guide",
-      "stargazers_count": 13758,
+      "stargazers_count": 13763,
       "popularity": 5,
       "percentage": 0.8645533141210374,
       "maturity": 3.489015570789262,
@@ -238,13 +238,13 @@
     "serhii-londar/open-source-mac-os-apps": {
       "full_name": "serhii-londar/open-source-mac-os-apps",
       "name": "open-source-mac-os-apps",
-      "stargazers_count": 13875,
+      "stargazers_count": 13884,
       "popularity": 5,
-      "percentage": 2.5547445255474455,
-      "maturity": 3.371136992086918,
-      "total_commits_count": 274,
+      "percentage": 2.536231884057971,
+      "maturity": 3.3748315717394153,
+      "total_commits_count": 276,
       "activity": 5,
-      "total_score": 28.402857925779674,
+      "total_score": 28.39821386811651,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -253,11 +253,11 @@
       "name": "osx-and-ios-security-awesome",
       "stargazers_count": 453,
       "popularity": 3.6552735870419375,
-      "percentage": 14.285714285714286,
+      "percentage": 13.043478260869565,
       "maturity": 0,
-      "total_commits_count": 21,
+      "total_commits_count": 23,
       "activity": 5,
-      "total_score": 22.7541859942037,
+      "total_score": 22.1638933652404,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -277,13 +277,13 @@
     "agarrharr/awesome-cli-apps": {
       "full_name": "agarrharr/awesome-cli-apps",
       "name": "awesome-cli-apps",
-      "stargazers_count": 2710,
-      "popularity": 4.432864123490091,
+      "stargazers_count": 2712,
+      "popularity": 4.4331846242118775,
       "percentage": 1.408450704225352,
       "maturity": 3.0107603634824787,
       "total_commits_count": 142,
       "activity": 5,
-      "total_score": 25.131764274975673,
+      "total_score": 25.13278446037178,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -329,13 +329,13 @@
     "shobrook/rebound": {
       "full_name": "shobrook/rebound",
       "name": "rebound",
-      "stargazers_count": 2244,
-      "popularity": 4.3508877222770765,
+      "stargazers_count": 2246,
+      "popularity": 4.351274776786583,
       "percentage": 0.7751937984496124,
       "maturity": 2.951612077802432,
       "total_commits_count": 129,
-      "activity": 2.285631783289481,
-      "total_score": 21.679980659133342,
+      "activity": 2.2775324019560386,
+      "total_score": 21.673081446821623,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -381,26 +381,26 @@
     "k4m4/terminals-are-sexy": {
       "full_name": "k4m4/terminals-are-sexy",
       "name": "terminals-are-sexy",
-      "stargazers_count": 6678,
-      "popularity": 4.824626968588171,
+      "stargazers_count": 6679,
+      "popularity": 4.824692006099148,
       "percentage": 0.4807692307692308,
       "maturity": 3.227303001201905,
       "total_commits_count": 208,
       "activity": 5,
-      "total_score": 26.23002609370508,
+      "total_score": 26.23022527108245,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "enaqx/awesome-pentest": {
       "full_name": "enaqx/awesome-pentest",
       "name": "awesome-pentest",
-      "stargazers_count": 7587,
-      "popularity": 4.880057651414101,
+      "stargazers_count": 7589,
+      "popularity": 4.8801721337551625,
       "percentage": 0.31545741324921134,
       "maturity": 3.4443722190388564,
       "total_commits_count": 317,
       "activity": 5,
-      "total_score": 26.729045939538892,
+      "total_score": 26.72939408142149,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -443,6 +443,19 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
+    "cs125-illinois/gradlegrader": {
+      "full_name": "cs125-illinois/gradlegrader",
+      "name": "gradlegrader",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 2.1739130434782608,
+      "maturity": 1.7870377452764827,
+      "total_commits_count": 46,
+      "activity": 5,
+      "total_score": 8.574075490552966,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
     "eonist/How-to-collaborate-on-github": {
       "full_name": "eonist/How-to-collaborate-on-github",
       "name": "How-to-collaborate-on-github",
@@ -459,7 +472,7 @@
     "yaronn/blessed-contrib": {
       "full_name": "yaronn/blessed-contrib",
       "name": "blessed-contrib",
-      "stargazers_count": 11744,
+      "stargazers_count": 11747,
       "popularity": 5,
       "percentage": 0,
       "maturity": 3.3403911896658194,
@@ -472,16 +485,18 @@
     "matiassingers/awesome-readme": {
       "full_name": "matiassingers/awesome-readme",
       "name": "awesome-readme",
-      "stargazers_count": 3030,
-      "popularity": 4.4813526983422705,
+      "stargazers_count": 3032,
+      "popularity": 4.481639351917374,
       "percentage": 0,
       "maturity": 2.5215590771505747,
       "total_commits_count": 73,
       "activity": 5,
-      "total_score": 23.48717624932796,
+      "total_score": 23.488036210053274,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }
   },
-  "organizations": []
+  "organizations": [
+    "cs125-illinois"
+  ]
 }

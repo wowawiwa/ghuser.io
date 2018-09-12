@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/Homebrew/homebrew-cask/languages",
   "pulls_url": "https://api.github.com/repos/Homebrew/homebrew-cask/pulls{/number}",
   "created_at": "2012-03-05T02:05:17Z",
-  "updated_at": "2018-09-11T16:46:49Z",
-  "pushed_at": "2018-09-11T16:46:40Z",
+  "updated_at": "2018-09-12T07:23:35Z",
+  "pushed_at": "2018-09-12T06:39:59Z",
   "homepage": "https://brew.sh",
-  "size": 124192,
-  "stargazers_count": 13523,
+  "size": 124602,
+  "stargazers_count": 13524,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -51,18 +51,18 @@
     "rolandwalker": 13873,
     "vitorgalvao": 12103,
     "victorpopkov": 5362,
-    "commitay": 2887,
+    "commitay": 2893,
     "brianmorton": 2426,
     "tapeinosyne": 1873,
     "fanquake": 1831,
     "jawshooah": 1774,
     "nanoxd": 1747,
     "colindunn": 1450,
-    "gtmgianni": 1406,
+    "gtmgianni": 1410,
     "gobinathm": 1226,
     "miccal": 978,
     "Amorymeltzer": 666,
-    "reitermarkus": 635,
+    "reitermarkus": 636,
     "alebcay": 616,
     "phinze": 586,
     "artdevjs": 464,
@@ -344,7 +344,7 @@
     "nicholasngai": 12,
     "y00rb": 12,
     "eunikolsky": 12,
-    "dasMulli": 12,
+    "dasMulli": 14,
     "leonardvandriel": 12,
     "AlexKucera": 11,
     "benreyn": 11,
@@ -5888,11 +5888,13 @@
     "tem44",
     "futek",
     "davidculley",
-    "ShivaHuang"
+    "ShivaHuang",
+    "luosheng",
+    "damianarias"
   ],
   "languages": {
     "Ruby": {
-      "bytes": 2171606,
+      "bytes": 2171279,
       "color": "#701516"
     },
     "Shell": {
@@ -5900,5 +5902,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-11T17:13:02.393Z"
+  "fetched_at": "2018-09-12T07:38:13.030Z"
 }

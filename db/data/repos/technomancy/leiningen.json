@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/technomancy/leiningen/languages",
   "pulls_url": "https://api.github.com/repos/technomancy/leiningen/pulls{/number}",
   "created_at": "2009-11-01T05:50:07Z",
-  "updated_at": "2018-09-11T11:45:55Z",
+  "updated_at": "2018-09-12T07:40:52Z",
   "pushed_at": "2018-08-22T16:24:21Z",
   "homepage": "https://leiningen.org",
   "size": 6102,
-  "stargazers_count": 6064,
+  "stargazers_count": 6065,
   "language": "Clojure",
   "mirror_url": null,
   "archived": false,
@@ -750,5 +750,5 @@
       "color": "#b07219"
     }
   },
-  "fetched_at": "2018-09-11T13:51:50.258Z"
+  "fetched_at": "2018-09-12T07:42:49.400Z"
 }

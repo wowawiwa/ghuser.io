@@ -11,8 +11,8 @@
   "languages_url": "https://api.github.com/repos/woodyjon/TurtleCoin-Nest/languages",
   "pulls_url": "https://api.github.com/repos/woodyjon/TurtleCoin-Nest/pulls{/number}",
   "created_at": "2018-03-19T13:08:22Z",
-  "updated_at": "2018-09-03T12:48:12Z",
-  "pushed_at": "2018-08-23T19:00:18Z",
+  "updated_at": "2018-09-12T06:50:58Z",
+  "pushed_at": "2018-09-12T06:50:56Z",
   "homepage": "",
   "size": 1046,
   "stargazers_count": 2,
@@ -31,20 +31,22 @@
     "SoreGums": 1,
     "Sajo8": 1,
     "zpalmtree": 8,
-    "woodyjon": 168
+    "woodyjon": 180,
+    "brandonlehmann": 1,
+    "rashedmyt": 3
   },
   "pulls_authors": [
     "zpalmtree"
   ],
   "languages": {
     "QML": {
-      "bytes": 109504,
+      "bytes": 122696,
       "color": "#44a51c"
     },
     "Go": {
-      "bytes": 76083,
+      "bytes": 78635,
       "color": "#375eab"
     }
   },
-  "fetched_at": "2018-09-11T22:35:54.135Z"
+  "fetched_at": "2018-09-12T07:41:01.029Z"
 }

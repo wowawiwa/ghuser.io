@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/git/git/languages",
   "pulls_url": "https://api.github.com/repos/git/git/pulls{/number}",
   "created_at": "2008-07-23T14:21:26Z",
-  "updated_at": "2018-09-11T20:46:50Z",
-  "pushed_at": "2018-09-11T17:49:41Z",
+  "updated_at": "2018-09-12T07:04:45Z",
+  "pushed_at": "2018-09-11T23:35:04Z",
   "homepage": "",
-  "size": 108538,
-  "stargazers_count": 24025,
+  "size": 108523,
+  "stargazers_count": 24034,
   "language": "C",
   "mirror_url": null,
   "archived": false,
@@ -773,7 +773,8 @@
     "dansmith65",
     "tvogel",
     "jmil",
-    "derrickstolee"
+    "derrickstolee",
+    "bnhassin"
   ],
   "languages": {
     "C": {
@@ -845,5 +846,5 @@
       "color": "#c065db"
     }
   },
-  "fetched_at": "2018-09-11T20:49:28.597Z"
+  "fetched_at": "2018-09-12T07:35:12.392Z"
 }

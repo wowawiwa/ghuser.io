@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/elastic/kibana/languages",
   "pulls_url": "https://api.github.com/repos/elastic/kibana/pulls{/number}",
   "created_at": "2013-01-26T04:00:59Z",
-  "updated_at": "2018-09-11T22:30:50Z",
-  "pushed_at": "2018-09-11T23:07:49Z",
+  "updated_at": "2018-09-12T07:39:07Z",
+  "pushed_at": "2018-09-12T07:12:28Z",
   "homepage": "https://www.elastic.co/products/kibana",
-  "size": 453569,
-  "stargazers_count": 10059,
+  "size": 453578,
+  "stargazers_count": 10061,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -1001,5 +1001,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-11T23:12:51.798Z"
+  "fetched_at": "2018-09-12T07:44:26.774Z"
 }

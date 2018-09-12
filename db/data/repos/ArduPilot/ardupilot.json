@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/ArduPilot/ardupilot/languages",
   "pulls_url": "https://api.github.com/repos/ArduPilot/ardupilot/pulls{/number}",
   "created_at": "2013-01-09T00:58:52Z",
-  "updated_at": "2018-09-11T12:24:52Z",
-  "pushed_at": "2018-09-11T17:12:01Z",
+  "updated_at": "2018-09-12T06:52:23Z",
+  "pushed_at": "2018-09-12T07:23:02Z",
   "homepage": "http://ardupilot.org/",
-  "size": 113640,
-  "stargazers_count": 3455,
+  "size": 113679,
+  "stargazers_count": 3457,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -135,7 +135,7 @@
     "R-Lefebvre": 327,
     "khancyr": 383,
     "pchickey": 404,
-    "lthall": 434,
+    "lthall": 436,
     "meee1": 459,
     "jaxxzer": 448,
     "guludo": 510,
@@ -145,9 +145,9 @@
     "jason4short": 774,
     "priseborough": 920,
     "lucasdemarchi": 1393,
-    "peterbarker": 2179,
+    "peterbarker": 2180,
     "rmackay9": 5487,
-    "tridge": 10963,
+    "tridge": 10966,
     "eskaflon": 9,
     "lekston": 9,
     "jpkh": 9,
@@ -1049,7 +1049,7 @@
   ],
   "languages": {
     "C++": {
-      "bytes": 11809329,
+      "bytes": 11809600,
       "color": "#f34b7d"
     },
     "C": {
@@ -1057,7 +1057,7 @@
       "color": "#555555"
     },
     "Python": {
-      "bytes": 1086559,
+      "bytes": 1086555,
       "color": "#3572A5"
     },
     "Matlab": {
@@ -1133,5 +1133,5 @@
       "color": "#c065db"
     }
   },
-  "fetched_at": "2018-09-11T17:15:13.199Z"
+  "fetched_at": "2018-09-12T07:41:13.684Z"
 }

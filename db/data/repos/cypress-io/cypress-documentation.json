@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/cypress-io/cypress-documentation/languages",
   "pulls_url": "https://api.github.com/repos/cypress-io/cypress-documentation/pulls{/number}",
   "created_at": "2016-01-11T04:40:50Z",
-  "updated_at": "2018-09-11T15:06:17Z",
-  "pushed_at": "2018-09-11T20:30:30Z",
+  "updated_at": "2018-09-12T07:27:51Z",
+  "pushed_at": "2018-09-12T07:33:39Z",
   "homepage": "http://docs.cypress.io",
-  "size": 287540,
+  "size": 285944,
   "stargazers_count": 51,
   "language": "JavaScript",
   "mirror_url": null,
@@ -138,7 +138,7 @@
     "richdouglasevans": 34,
     "greenkeeper[bot]": 37,
     "chrisbreiding": 58,
-    "renovate[bot]": 81,
+    "renovate[bot]": 84,
     "bahmutov": 109,
     "brian-mann": 323,
     "jennifer-shehane": 352
@@ -273,5 +273,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-11T22:37:07.054Z"
+  "fetched_at": "2018-09-12T07:43:25.673Z"
 }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/haskell/haddock/languages",
   "pulls_url": "https://api.github.com/repos/haskell/haddock/pulls{/number}",
   "created_at": "2014-05-08T19:42:26Z",
-  "updated_at": "2018-09-08T21:50:22Z",
-  "pushed_at": "2018-09-08T12:17:04Z",
+  "updated_at": "2018-09-12T00:22:49Z",
+  "pushed_at": "2018-09-11T20:20:27Z",
   "homepage": "www.haskell.org/haddock/",
-  "size": 14143,
-  "stargazers_count": 147,
+  "size": 14208,
+  "stargazers_count": 148,
   "language": "HTML",
   "mirror_url": null,
   "archived": false,
@@ -252,5 +252,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-09T03:11:33.261Z"
+  "fetched_at": "2018-09-12T07:38:45.559Z"
 }

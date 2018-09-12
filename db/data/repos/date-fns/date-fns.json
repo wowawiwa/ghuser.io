@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/date-fns/date-fns/languages",
   "pulls_url": "https://api.github.com/repos/date-fns/date-fns/pulls{/number}",
   "created_at": "2014-10-06T10:24:22Z",
-  "updated_at": "2018-09-11T17:01:36Z",
-  "pushed_at": "2018-09-11T13:34:10Z",
+  "updated_at": "2018-09-12T04:54:02Z",
+  "pushed_at": "2018-09-11T21:26:08Z",
   "homepage": "https://date-fns.org",
   "size": 8577,
-  "stargazers_count": 12774,
+  "stargazers_count": 12827,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -63,7 +63,7 @@
     "Landish": 1,
     "priithansen": 1,
     "Zyten": 1,
-    "Nirlah": 1,
+    "Nirlah": 2,
     "badre429": 1,
     "mesqueeb": 1,
     "sabrinamiao": 1,
@@ -314,7 +314,7 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 2280528,
+      "bytes": 2303230,
       "color": "#f1e05a"
     },
     "Shell": {
@@ -322,5 +322,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-11T17:06:26.825Z"
+  "fetched_at": "2018-09-12T04:57:19.988Z"
 }

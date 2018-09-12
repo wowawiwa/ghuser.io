@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/gdassori/spruned/languages",
   "pulls_url": "https://api.github.com/repos/gdassori/spruned/pulls{/number}",
   "created_at": "2018-02-11T13:53:20Z",
-  "updated_at": "2018-09-11T13:19:06Z",
-  "pushed_at": "2018-09-08T09:20:23Z",
+  "updated_at": "2018-09-11T23:07:30Z",
+  "pushed_at": "2018-09-11T23:07:29Z",
   "homepage": "",
-  "size": 506,
+  "size": 521,
   "stargazers_count": 65,
   "language": "Python",
   "mirror_url": null,
@@ -32,7 +32,7 @@
     "Stadicus": 1,
     "romanz": 1,
     "grubles": 1,
-    "gdassori": 325
+    "gdassori": 329
   },
   "pulls_authors": [
     "cdecker",
@@ -45,7 +45,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 368923,
+      "bytes": 371558,
       "color": "#3572A5"
     },
     "Shell": {
@@ -53,5 +53,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-11T17:09:51.811Z"
+  "fetched_at": "2018-09-12T05:02:17.038Z"
 }

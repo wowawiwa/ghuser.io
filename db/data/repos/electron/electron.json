@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/electron/electron/languages",
   "pulls_url": "https://api.github.com/repos/electron/electron/pulls{/number}",
   "created_at": "2013-04-12T01:47:36Z",
-  "updated_at": "2018-09-11T16:38:57Z",
-  "pushed_at": "2018-09-11T16:58:38Z",
+  "updated_at": "2018-09-12T06:46:42Z",
+  "pushed_at": "2018-09-12T06:50:50Z",
   "homepage": "https://electronjs.org",
-  "size": 42354,
-  "stargazers_count": 64368,
+  "size": 42442,
+  "stargazers_count": 64384,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -134,19 +134,19 @@
     "tinydew4": 92,
     "gerhardberger": 95,
     "jkleinsc": 254,
-    "nornagon": 154,
+    "nornagon": 164,
     "ckerr": 223,
-    "brenca": 186,
+    "brenca": 187,
     "paulcbetts": 245,
     "felixrieseberg": 256,
     "aroben": 280,
     "hokein": 267,
     "preco21": 347,
-    "alexeykuzmin": 336,
-    "codebytere": 419,
-    "MarshallOfSound": 432,
+    "alexeykuzmin": 350,
+    "codebytere": 421,
+    "MarshallOfSound": 443,
     "zeke": 593,
-    "deepak1556": 701,
+    "deepak1556": 712,
     "kevinsawicki": 2998,
     "zcbenz": 8230,
     "maxogden": 167,
@@ -1446,23 +1446,23 @@
   ],
   "languages": {
     "C++": {
-      "bytes": 2880417,
+      "bytes": 2881638,
       "color": "#f34b7d"
     },
     "JavaScript": {
-      "bytes": 993530,
+      "bytes": 993275,
       "color": "#f1e05a"
     },
     "Objective-C++": {
-      "bytes": 356933,
+      "bytes": 357284,
       "color": "#6866fb"
     },
     "Python": {
-      "bytes": 125020,
+      "bytes": 125172,
       "color": "#3572A5"
     },
     "Objective-C": {
-      "bytes": 60493,
+      "bytes": 60470,
       "color": "#438eff"
     },
     "HTML": {
@@ -1474,7 +1474,7 @@
       "color": "#89e051"
     },
     "C": {
-      "bytes": 3134,
+      "bytes": 3133,
       "color": "#555555"
     },
     "CSS": {
@@ -1486,5 +1486,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-11T17:11:59.770Z"
+  "fetched_at": "2018-09-12T07:36:18.563Z"
 }

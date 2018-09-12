@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/openebs/openebs",
   "languages_url": "https://api.github.com/repos/openebs/openebs/languages",
   "created_at": "2016-08-01T09:33:32Z",
-  "updated_at": "2018-09-11T15:49:23Z",
+  "updated_at": "2018-09-11T18:00:29Z",
   "pushed_at": "2018-09-11T15:49:19Z",
   "homepage": "https://www.openebs.io",
   "size": 21157,
-  "stargazers_count": 5337,
+  "stargazers_count": 5338,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -150,7 +150,7 @@
       "color": "#375eab"
     }
   },
-  "fetched_at": "2018-09-11T17:08:42.303Z",
+  "fetched_at": "2018-09-12T05:00:36.816Z",
   "pulls_url": "https://api.github.com/repos/openebs/openebs/pulls{/number}",
   "pulls_authors": [
     "gprasath",

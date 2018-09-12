@@ -1,0 +1,21 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "rails/rails": {
+      "full_name": "rails/rails",
+      "name": "rails",
+      "stargazers_count": 40805,
+      "popularity": 5,
+      "percentage": 0,
+      "maturity": 5,
+      "total_commits_count": 59723,
+      "activity": 5,
+      "total_score": 30,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "rails"
+  ]
+}

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/serverless/serverless/languages",
   "pulls_url": "https://api.github.com/repos/serverless/serverless/pulls{/number}",
   "created_at": "2015-04-21T03:48:40Z",
-  "updated_at": "2018-09-11T17:03:27Z",
-  "pushed_at": "2018-09-11T16:55:58Z",
+  "updated_at": "2018-09-12T04:42:49Z",
+  "pushed_at": "2018-09-12T01:47:18Z",
   "homepage": "https://serverless.com",
-  "size": 79594,
-  "stargazers_count": 25468,
+  "size": 79617,
+  "stargazers_count": 25483,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -142,7 +142,7 @@
     "RafalWilinski": 132,
     "HyperBrain": 148,
     "minibikini": 133,
-    "horike37": 389,
+    "horike37": 390,
     "nikgraf": 234,
     "DavidWells": 311,
     "eahefnawy": 1206,
@@ -1108,7 +1108,9 @@
     "shanehandley",
     "abbasdgr8",
     "mrrobot-anonymous",
-    "andriyor"
+    "andriyor",
+    "softprops",
+    "html5cat"
   ],
   "languages": {
     "JavaScript": {
@@ -1184,5 +1186,5 @@
       "color": "#4F5D95"
     }
   },
-  "fetched_at": "2018-09-11T17:05:52.077Z"
+  "fetched_at": "2018-09-12T04:56:57.953Z"
 }

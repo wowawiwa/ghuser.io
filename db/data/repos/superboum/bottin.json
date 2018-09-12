@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "bottin",
+  "full_name": "superboum/bottin",
+  "owner": "superboum",
+  "private": false,
+  "html_url": "https://github.com/superboum/bottin",
+  "description": "A cloud native LDAP server storing its data in Consul",
+  "fork": false,
+  "url": "https://api.github.com/repos/superboum/bottin",
+  "languages_url": "https://api.github.com/repos/superboum/bottin/languages",
+  "pulls_url": "https://api.github.com/repos/superboum/bottin/pulls{/number}",
+  "created_at": "2018-09-08T14:38:47Z",
+  "updated_at": "2018-09-08T20:58:31Z",
+  "pushed_at": "2018-09-08T14:46:06Z",
+  "homepage": null,
+  "size": 9,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "superboum": 14
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 7275,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:43:18.837Z"
+}

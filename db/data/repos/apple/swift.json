@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/apple/swift/languages",
   "pulls_url": "https://api.github.com/repos/apple/swift/pulls{/number}",
   "created_at": "2015-10-23T21:15:07Z",
-  "updated_at": "2018-09-11T17:10:11Z",
-  "pushed_at": "2018-09-11T17:10:02Z",
+  "updated_at": "2018-09-12T07:23:42Z",
+  "pushed_at": "2018-09-12T07:00:49Z",
   "homepage": "https://swift.org",
-  "size": 337214,
+  "size": 337439,
   "stargazers_count": 45155,
   "language": "C++",
   "mirror_url": null,
@@ -76,7 +76,7 @@
     "jtbandes": 46,
     "ikesyo": 62,
     "brentdax": 50,
-    "AnthonyLatsis": 54,
+    "AnthonyLatsis": 55,
     "cooperp": 49,
     "denisvnukov": 50,
     "stephentyrone": 62,
@@ -102,7 +102,7 @@
     "vedantk": 185,
     "mxswd": 157,
     "dcci": 204,
-    "airspeedswift": 214,
+    "airspeedswift": 218,
     "cwillmor": 207,
     "lorentey": 244,
     "devincoughlin": 198,
@@ -112,14 +112,14 @@
     "cwakamo": 236,
     "shahmishal": 376,
     "bob-wilson": 414,
-    "natecook1000": 273,
+    "natecook1000": 274,
     "hughbe": 306,
     "CodaFi": 256,
     "jopamer": 277,
     "AnnaZaks": 290,
     "davidungar": 454,
     "milseman": 546,
-    "compnerd": 556,
+    "compnerd": 558,
     "gparker42": 458,
     "graydon": 517,
     "tkremenek": 655,
@@ -131,25 +131,25 @@
     "davezarzycki": 722,
     "moiseev": 890,
     "atrick": 759,
-    "akyrtzi": 850,
+    "akyrtzi": 851,
     "swiftix": 974,
     "nadavrot": 880,
-    "adrian-prantl": 970,
+    "adrian-prantl": 972,
     "nkcsgexi": 1065,
     "aschwaighofer": 1380,
     "eeckstein": 1323,
-    "rudkx": 1668,
-    "rjmccall": 1881,
+    "rudkx": 1670,
+    "rjmccall": 1883,
     "dabrahams": 1916,
     "practicalswift": 2393,
-    "jrose-apple": 3366,
+    "jrose-apple": 3368,
     "gottesmm": 3584,
-    "slavapestov": 4236,
+    "slavapestov": 4241,
     "gribozavr": 4444,
     "jckarter": 4284,
     "lattner": 4536,
     "DougGregor": 6136,
-    "swift-ci": 10615,
+    "swift-ci": 10618,
     "divadretlaw": 25,
     "alblue": 23,
     "dingobye": 23,
@@ -1318,11 +1318,11 @@
   ],
   "languages": {
     "C++": {
-      "bytes": 30308937,
+      "bytes": 30312327,
       "color": "#f34b7d"
     },
     "Swift": {
-      "bytes": 24702152,
+      "bytes": 24697673,
       "color": "#ffac45"
     },
     "Python": {
@@ -1330,11 +1330,11 @@
       "color": "#3572A5"
     },
     "CMake": {
-      "bytes": 466448,
+      "bytes": 466590,
       "color": "#ccc"
     },
     "Objective-C": {
-      "bytes": 381475,
+      "bytes": 381524,
       "color": "#438eff"
     },
     "Objective-C++": {
@@ -1386,5 +1386,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-09-11T17:14:09.097Z"
+  "fetched_at": "2018-09-12T07:39:30.351Z"
 }

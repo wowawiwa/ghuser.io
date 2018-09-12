@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/rails/rails/languages",
   "pulls_url": "https://api.github.com/repos/rails/rails/pulls{/number}",
   "created_at": "2008-04-11T02:19:47Z",
-  "updated_at": "2018-09-11T17:06:12Z",
-  "pushed_at": "2018-09-11T16:54:23Z",
+  "updated_at": "2018-09-12T04:26:24Z",
+  "pushed_at": "2018-09-12T03:37:13Z",
   "homepage": "https://rubyonrails.org",
-  "size": 166205,
-  "stargazers_count": 40804,
+  "size": 166263,
+  "stargazers_count": 40805,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -99,7 +99,7 @@
     "fcheung": 149,
     "yhirano55": 148,
     "smartinez87": 148,
-    "yahonda": 152,
+    "yahonda": 153,
     "lukaszx0": 154,
     "claudiob": 260,
     "arthurnn": 384,
@@ -110,8 +110,8 @@
     "seckar": 231,
     "kennyj": 233,
     "yui-knk": 234,
-    "bogdanvlviv": 235,
-    "schneems": 430,
+    "bogdanvlviv": 236,
+    "schneems": 432,
     "georgeclaghorn": 352,
     "chancancode": 358,
     "ffmike": 248,
@@ -133,7 +133,7 @@
     "kaspth": 1132,
     "amatsuda": 650,
     "vijaydev": 1061,
-    "y-yagi": 772,
+    "y-yagi": 773,
     "sgrif": 1214,
     "jonleighton": 959,
     "senny": 1636,
@@ -143,8 +143,8 @@
     "josh": 1109,
     "kamipo": 1608,
     "josevalim": 2574,
-    "fxn": 2201,
-    "rafaelfranca": 5732,
+    "fxn": 2202,
+    "rafaelfranca": 5740,
     "jeremy": 3723,
     "dhh": 4233,
     "tenderlove": 4901,
@@ -427,7 +427,8 @@
     "szimek": 8,
     "sbagdat": 8,
     "k0kubun": 8,
-    "tomafro": 8
+    "tomafro": 8,
+    "yskkin": 9
   },
   "pulls_authors": [
     "marcotc",
@@ -5234,11 +5235,12 @@
     "acatighera",
     "marklazz",
     "m3talsmith",
-    "marsuboss"
+    "marsuboss",
+    "rigani"
   ],
   "languages": {
     "Ruby": {
-      "bytes": 12101929,
+      "bytes": 12105399,
       "color": "#701516"
     },
     "HTML": {
@@ -5266,5 +5268,5 @@
       "color": "#4B6C4B"
     }
   },
-  "fetched_at": "2018-09-11T17:15:50.249Z"
+  "fetched_at": "2018-09-12T04:59:04.562Z"
 }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/languages",
   "pulls_url": "https://api.github.com/repos/python-telegram-bot/python-telegram-bot/pulls{/number}",
   "created_at": "2015-07-07T15:30:39Z",
-  "updated_at": "2018-09-11T15:04:07Z",
-  "pushed_at": "2018-09-10T20:14:28Z",
+  "updated_at": "2018-09-12T07:42:38Z",
+  "pushed_at": "2018-09-11T21:10:27Z",
   "homepage": "https://python-telegram-bot.org",
   "size": 4490,
-  "stargazers_count": 5645,
+  "stargazers_count": 5646,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -261,7 +261,8 @@
     "ehsanonline",
     "alexbagirov",
     "reablaz",
-    "marcelogdeandrade"
+    "marcelogdeandrade",
+    "simonvorobjev"
   ],
   "languages": {
     "Python": {
@@ -273,5 +274,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-11T17:16:10.876Z"
+  "fetched_at": "2018-09-12T07:43:51.885Z"
 }

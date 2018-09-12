@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/snapcore/snapd/languages",
   "pulls_url": "https://api.github.com/repos/snapcore/snapd/pulls{/number}",
   "created_at": "2015-10-21T11:51:46Z",
-  "updated_at": "2018-09-11T06:35:04Z",
-  "pushed_at": "2018-09-11T17:05:29Z",
+  "updated_at": "2018-09-12T07:06:09Z",
+  "pushed_at": "2018-09-12T07:14:25Z",
   "homepage": "",
-  "size": 71889,
+  "size": 71927,
   "stargazers_count": 998,
   "language": "Go",
   "mirror_url": null,
@@ -123,7 +123,7 @@
     "mikix": 43,
     "Conan-Kudo": 33,
     "jocave": 34,
-    "alfonsosanchezbeato": 41,
+    "alfonsosanchezbeato": 42,
     "stevenwilkin": 45,
     "robert-ancell": 49,
     "kgunn": 67,
@@ -139,15 +139,15 @@
     "niemeyer": 706,
     "sergiusens": 319,
     "kyrofa": 338,
-    "sergiocazzolato": 667,
+    "sergiocazzolato": 671,
     "fgimenez": 1108,
-    "bboozzoo": 1232,
-    "stolowski": 1488,
+    "bboozzoo": 1271,
+    "stolowski": 1489,
     "jdstrand": 1350,
-    "chipaca": 1930,
+    "chipaca": 1932,
     "pedronis": 2448,
-    "zyga": 5431,
-    "mvo5": 8911,
+    "zyga": 5439,
+    "mvo5": 8931,
     "snappy-m-o": 3,
     "aimileus": 1,
     "asalminen": 1,
@@ -166,7 +166,8 @@
     "willdeberry": 1,
     "xavi-garcia-mena": 1,
     "datenhahn": 1,
-    "knitzsche": 1
+    "knitzsche": 1,
+    "eyusupov": 1
   },
   "pulls_authors": [
     "zyga",
@@ -311,15 +312,15 @@
   ],
   "languages": {
     "Go": {
-      "bytes": 8076105,
+      "bytes": 8090889,
       "color": "#375eab"
     },
     "C": {
-      "bytes": 449213,
+      "bytes": 449321,
       "color": "#555555"
     },
     "Shell": {
-      "bytes": 194250,
+      "bytes": 194385,
       "color": "#89e051"
     },
     "Makefile": {
@@ -351,5 +352,5 @@
       "color": "#007800"
     }
   },
-  "fetched_at": "2018-09-11T17:15:37.441Z"
+  "fetched_at": "2018-09-12T07:42:56.084Z"
 }

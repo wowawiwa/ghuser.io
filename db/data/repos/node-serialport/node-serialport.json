@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/node-serialport/node-serialport/languages",
   "pulls_url": "https://api.github.com/repos/node-serialport/node-serialport/pulls{/number}",
   "created_at": "2010-09-07T12:24:28Z",
-  "updated_at": "2018-09-11T04:02:46Z",
-  "pushed_at": "2018-09-11T10:34:06Z",
+  "updated_at": "2018-09-12T07:11:08Z",
+  "pushed_at": "2018-09-12T07:11:06Z",
   "homepage": "https://serialport.io",
-  "size": 2950,
-  "stargazers_count": 3568,
+  "size": 2997,
+  "stargazers_count": 3570,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -148,7 +148,7 @@
     "jacobrosenthal": 61,
     "voodootikigod": 282,
     "reconbot": 466,
-    "amilajack": 1,
+    "amilajack": 2,
     "Awk34": 1,
     "Zensey": 1,
     "dessant": 1,
@@ -336,7 +336,7 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 191711,
+      "bytes": 192131,
       "color": "#f1e05a"
     },
     "C++": {
@@ -360,5 +360,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-11T10:38:16.436Z"
+  "fetched_at": "2018-09-12T07:37:09.332Z"
 }

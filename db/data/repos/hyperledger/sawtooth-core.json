@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/hyperledger/sawtooth-core/languages",
   "pulls_url": "https://api.github.com/repos/hyperledger/sawtooth-core/pulls{/number}",
   "created_at": "2016-05-02T15:51:53Z",
-  "updated_at": "2018-09-11T15:54:20Z",
-  "pushed_at": "2018-09-11T15:54:14Z",
+  "updated_at": "2018-09-12T04:09:06Z",
+  "pushed_at": "2018-09-11T20:46:18Z",
   "homepage": "https://www.hyperledger.org/projects/sawtooth",
   "size": 28042,
-  "stargazers_count": 1001,
+  "stargazers_count": 1000,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -232,5 +232,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-11T17:14:20.045Z"
+  "fetched_at": "2018-09-12T07:39:42.639Z"
 }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/lightningnetwork/lnd/languages",
   "pulls_url": "https://api.github.com/repos/lightningnetwork/lnd/pulls{/number}",
   "created_at": "2016-01-16T08:19:33Z",
-  "updated_at": "2018-09-11T22:25:14Z",
-  "pushed_at": "2018-09-11T22:33:49Z",
+  "updated_at": "2018-09-12T06:19:53Z",
+  "pushed_at": "2018-09-12T07:05:25Z",
   "homepage": "",
-  "size": 19874,
-  "stargazers_count": 3021,
+  "size": 19908,
+  "stargazers_count": 3023,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -144,10 +144,10 @@
     "josephpoon": 40,
     "jimpo": 64,
     "AndrewSamokhvalov": 134,
-    "wpaulino": 238,
-    "halseth": 483,
-    "cfromknecht": 486,
-    "Roasbeef": 3142,
+    "wpaulino": 243,
+    "halseth": 485,
+    "cfromknecht": 489,
+    "Roasbeef": 3152,
     "asoltys": 1,
     "Osso": 1,
     "htims-xela": 1,
@@ -196,7 +196,8 @@
     "littleskunk": 1,
     "parth-choudhary": 1,
     "RvMp": 1,
-    "shtirlic": 1
+    "shtirlic": 1,
+    "davidknezic": 1
   },
   "pulls_authors": [
     "tsarpaul",
@@ -410,11 +411,11 @@
   ],
   "languages": {
     "Go": {
-      "bytes": 5424199,
+      "bytes": 5429695,
       "color": "#375eab"
     },
     "Shell": {
-      "bytes": 11418,
+      "bytes": 11589,
       "color": "#89e051"
     },
     "Makefile": {
@@ -426,5 +427,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-11T22:34:03.726Z"
+  "fetched_at": "2018-09-12T07:38:25.763Z"
 }

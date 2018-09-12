@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/ampproject/amphtml",
   "languages_url": "https://api.github.com/repos/ampproject/amphtml/languages",
   "created_at": "2015-09-01T22:10:53Z",
-  "updated_at": "2018-09-11T15:58:26Z",
-  "pushed_at": "2018-09-11T16:33:13Z",
+  "updated_at": "2018-09-12T02:12:54Z",
+  "pushed_at": "2018-09-12T05:15:54Z",
   "homepage": "https://www.ampproject.org",
-  "size": 496273,
-  "stargazers_count": 11970,
+  "size": 496329,
+  "stargazers_count": 11971,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -90,7 +90,7 @@
     "bobcassels": 11,
     "kentbrew": 13,
     "sebastianbenz": 13,
-    "sparhami": 32,
+    "sparhami": 34,
     "ithinkihaveacat": 15,
     "shawnbuso": 14,
     "tiendt": 15,
@@ -126,11 +126,11 @@
     "gmajoulet": 138,
     "greenkeeper[bot]": 111,
     "muxin": 118,
-    "newmuis": 130,
+    "newmuis": 132,
     "cvializ": 137,
     "bradfrizzell": 140,
     "keithwrightbos": 165,
-    "cathyxz": 179,
+    "cathyxz": 180,
     "mkhatib": 188,
     "Meggin": 166,
     "bpaduch": 185,
@@ -140,8 +140,8 @@
     "powdercloud": 261,
     "aghassemi": 288,
     "choumx": 344,
-    "lannka": 348,
-    "zhouyx": 340,
+    "lannka": 349,
+    "zhouyx": 341,
     "jridgewell": 439,
     "rsimha": 412,
     "erwinmombay": 708,
@@ -497,15 +497,15 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 12320844,
+      "bytes": 12329975,
       "color": "#f1e05a"
     },
     "HTML": {
-      "bytes": 1387136,
+      "bytes": 1398313,
       "color": "#e34c26"
     },
     "CSS": {
-      "bytes": 344075,
+      "bytes": 344133,
       "color": "#563d7c"
     },
     "Python": {
@@ -529,7 +529,7 @@
       "color": "#375eab"
     }
   },
-  "fetched_at": "2018-09-11T17:11:35.581Z",
+  "fetched_at": "2018-09-12T07:35:15.984Z",
   "pulls_url": "https://api.github.com/repos/ampproject/amphtml/pulls{/number}",
   "pulls_authors": [
     "keithwrightbos",

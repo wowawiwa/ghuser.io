@@ -11,8 +11,8 @@
   "languages_url": "https://api.github.com/repos/dbs-leipzig/gradoop/languages",
   "pulls_url": "https://api.github.com/repos/dbs-leipzig/gradoop/pulls{/number}",
   "created_at": "2014-11-07T14:42:45Z",
-  "updated_at": "2018-09-11T00:02:18Z",
-  "pushed_at": "2018-09-11T12:22:59Z",
+  "updated_at": "2018-09-12T06:45:20Z",
+  "pushed_at": "2018-09-12T06:45:17Z",
   "homepage": "http://www.gradoop.org",
   "size": 27235,
   "stargazers_count": 125,
@@ -60,7 +60,7 @@
     "chpengzh": 5,
     "rostam": 5,
     "cmoesler": 5,
-    "Rascat": 6,
+    "Rascat": 7,
     "timo95": 10,
     "smee": 11,
     "p-f": 14,
@@ -104,7 +104,7 @@
   ],
   "languages": {
     "Java": {
-      "bytes": 4743031,
+      "bytes": 4741501,
       "color": "#b07219"
     },
     "Shell": {
@@ -112,5 +112,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-11T13:51:46.304Z"
+  "fetched_at": "2018-09-12T07:42:44.023Z"
 }

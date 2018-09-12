@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/kubernetes/website/languages",
   "pulls_url": "https://api.github.com/repos/kubernetes/website/pulls{/number}",
   "created_at": "2016-02-10T22:46:48Z",
-  "updated_at": "2018-09-11T15:30:54Z",
-  "pushed_at": "2018-09-11T16:19:30Z",
+  "updated_at": "2018-09-12T04:19:31Z",
+  "pushed_at": "2018-09-12T04:48:33Z",
   "homepage": "https://kubernetes.io",
-  "size": 157736,
+  "size": 157758,
   "stargazers_count": 726,
   "language": "HTML",
   "mirror_url": null,
@@ -126,7 +126,7 @@
     "alexcontini": 45,
     "lichuqiang": 40,
     "foxish": 56,
-    "CaoShuFeng": 54,
+    "CaoShuFeng": 55,
     "cimomo": 43,
     "liggitt": 44,
     "islinwb": 44,
@@ -2366,7 +2366,8 @@
     "netgenius18",
     "Chenditang",
     "tossmilestone",
-    "syswuheng"
+    "syswuheng",
+    "anlunas"
   ],
   "languages": {
     "HTML": {
@@ -2402,5 +2403,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-11T17:05:49.516Z"
+  "fetched_at": "2018-09-12T04:56:55.231Z"
 }

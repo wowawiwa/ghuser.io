@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/watchexec/watchexec",
   "languages_url": "https://api.github.com/repos/watchexec/watchexec/languages",
   "created_at": "2016-09-18T20:41:31Z",
-  "updated_at": "2018-09-11T13:45:18Z",
+  "updated_at": "2018-09-12T00:49:48Z",
   "pushed_at": "2018-09-09T04:16:48Z",
   "homepage": "",
   "size": 279,
-  "stargazers_count": 640,
+  "stargazers_count": 643,
   "language": "Rust",
   "mirror_url": null,
   "archived": false,
@@ -72,7 +72,7 @@
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-09-11T17:07:46.703Z",
+  "fetched_at": "2018-09-12T04:58:32.526Z",
   "pulls_url": "https://api.github.com/repos/watchexec/watchexec/pulls{/number}",
   "pulls_authors": [
     "tailhook",

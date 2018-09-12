@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/mongodb/mongo-php-driver/languages",
   "pulls_url": "https://api.github.com/repos/mongodb/mongo-php-driver/pulls{/number}",
   "created_at": "2014-05-06T23:18:32Z",
-  "updated_at": "2018-09-11T05:38:43Z",
+  "updated_at": "2018-09-12T06:51:07Z",
   "pushed_at": "2018-09-07T16:46:03Z",
   "homepage": "https://pecl.php.net/package/mongodb",
   "size": 6829,
-  "stargazers_count": 551,
+  "stargazers_count": 552,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -138,5 +138,5 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-09-11T20:47:14.361Z"
+  "fetched_at": "2018-09-12T07:33:28.764Z"
 }

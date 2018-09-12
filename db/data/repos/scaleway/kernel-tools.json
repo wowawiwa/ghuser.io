@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/scaleway/kernel-tools/languages",
   "pulls_url": "https://api.github.com/repos/scaleway/kernel-tools/pulls{/number}",
   "created_at": "2014-10-16T08:55:50Z",
-  "updated_at": "2018-07-30T07:30:55Z",
+  "updated_at": "2018-09-12T01:50:34Z",
   "pushed_at": "2017-10-18T12:01:40Z",
   "homepage": "http://devhub.scaleway.com/#/bootscripts",
   "size": 15174,
-  "stargazers_count": 88,
+  "stargazers_count": 89,
   "language": "Makefile",
   "mirror_url": null,
   "archived": false,
@@ -98,5 +98,5 @@
       "color": "#555555"
     }
   },
-  "fetched_at": "2018-09-05T13:06:47.852Z"
+  "fetched_at": "2018-09-12T07:37:03.240Z"
 }

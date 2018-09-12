@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/agronholm/typeguard/languages",
   "pulls_url": "https://api.github.com/repos/agronholm/typeguard/pulls{/number}",
   "created_at": "2015-12-27T23:15:37Z",
-  "updated_at": "2018-09-09T21:28:44Z",
-  "pushed_at": "2018-08-13T11:42:06Z",
+  "updated_at": "2018-09-11T20:46:37Z",
+  "pushed_at": "2018-09-11T20:46:35Z",
   "homepage": null,
-  "size": 82,
+  "size": 85,
   "stargazers_count": 142,
   "language": "Python",
   "mirror_url": null,
@@ -32,20 +32,22 @@
     "reinhrst": 1,
     "jwilk": 1,
     "cotsog": 1,
-    "agronholm": 82
+    "agronholm": 82,
+    "tfiers": 1
   },
   "pulls_authors": [
     "dalejung",
     "obeleh",
     "reinhrst",
     "jwilk",
-    "cotsog"
+    "cotsog",
+    "tfiers"
   ],
   "languages": {
     "Python": {
-      "bytes": 53320,
+      "bytes": 53328,
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-09-11T17:08:27.858Z"
+  "fetched_at": "2018-09-12T05:00:07.842Z"
 }

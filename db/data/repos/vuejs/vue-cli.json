@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/vuejs/vue-cli/languages",
   "pulls_url": "https://api.github.com/repos/vuejs/vue-cli/pulls{/number}",
   "created_at": "2015-12-26T23:11:20Z",
-  "updated_at": "2018-09-11T16:40:00Z",
-  "pushed_at": "2018-09-11T15:43:50Z",
+  "updated_at": "2018-09-12T07:35:10Z",
+  "pushed_at": "2018-09-12T07:12:50Z",
   "homepage": "https://cli.vuejs.org/",
-  "size": 8378,
-  "stargazers_count": 15880,
+  "size": 8421,
+  "stargazers_count": 15900,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -145,7 +145,7 @@
     "elevatebart": 10,
     "LinusBorg": 12,
     "dhensche": 11,
-    "sodatea": 21,
+    "sodatea": 28,
     "Akryum": 596,
     "yyx990803": 915,
     "TESTPERSONAL": 7,
@@ -508,7 +508,7 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 670100,
+      "bytes": 669917,
       "color": "#f1e05a"
     },
     "Vue": {
@@ -532,5 +532,5 @@
       "color": "#2b7489"
     }
   },
-  "fetched_at": "2018-09-11T17:13:49.514Z"
+  "fetched_at": "2018-09-12T07:39:05.034Z"
 }

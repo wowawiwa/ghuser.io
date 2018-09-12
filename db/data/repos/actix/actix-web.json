@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/actix/actix-web/languages",
   "pulls_url": "https://api.github.com/repos/actix/actix-web/pulls{/number}",
   "created_at": "2017-09-30T15:30:02Z",
-  "updated_at": "2018-09-11T16:42:27Z",
-  "pushed_at": "2018-09-11T16:27:28Z",
+  "updated_at": "2018-09-12T04:04:12Z",
+  "pushed_at": "2018-09-11T20:02:59Z",
   "homepage": "https://actix.rs",
-  "size": 6585,
-  "stargazers_count": 2397,
+  "size": 6599,
+  "stargazers_count": 2401,
   "language": "Rust",
   "mirror_url": null,
   "archived": false,
@@ -110,11 +110,11 @@
     "adwhit": 6,
     "messense": 6,
     "mitsuhiko": 7,
-    "Neopallium": 8,
+    "Neopallium": 11,
     "andreevlex": 8,
     "DoumanAsh": 24,
     "memoryruins": 25,
-    "fafhrd91": 1420
+    "fafhrd91": 1422
   },
   "pulls_authors": [
     "uzytkownik",
@@ -205,7 +205,7 @@
   ],
   "languages": {
     "Rust": {
-      "bytes": 1378463,
+      "bytes": 1378583,
       "color": "#dea584"
     },
     "Makefile": {
@@ -213,5 +213,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-11T17:07:07.791Z"
+  "fetched_at": "2018-09-12T04:58:09.935Z"
 }

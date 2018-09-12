@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/webhintio/hint/languages",
   "pulls_url": "https://api.github.com/repos/webhintio/hint/pulls{/number}",
   "created_at": "2017-02-16T18:15:31Z",
-  "updated_at": "2018-09-11T19:42:25Z",
-  "pushed_at": "2018-09-11T19:42:22Z",
+  "updated_at": "2018-09-12T04:48:18Z",
+  "pushed_at": "2018-09-12T00:29:04Z",
   "homepage": "https://webhint.io/",
-  "size": 10771,
-  "stargazers_count": 1814,
+  "size": 10989,
+  "stargazers_count": 1821,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -84,9 +84,9 @@
     "qzhou1607": 48,
     "IAmHopp": 53,
     "greenkeeper[bot]": 70,
-    "sarvaje": 150,
+    "sarvaje": 151,
     "molant": 291,
-    "alrra": 1503
+    "alrra": 1519
   },
   "pulls_authors": [
     "sarvaje",
@@ -133,7 +133,7 @@
   ],
   "languages": {
     "TypeScript": {
-      "bytes": 1303638,
+      "bytes": 1303782,
       "color": "#2b7489"
     },
     "JavaScript": {
@@ -153,5 +153,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-09-11T20:45:31.340Z"
+  "fetched_at": "2018-09-12T04:59:09.691Z"
 }
