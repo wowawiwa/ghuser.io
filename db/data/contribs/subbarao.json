@@ -4,7 +4,7 @@
     "hashicorp/terraform": {
       "full_name": "hashicorp/terraform",
       "name": "terraform",
-      "stargazers_count": 13405,
+      "stargazers_count": 13418,
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,
@@ -74,8 +74,8 @@
       "percentage": 0,
       "maturity": 2.118994386183839,
       "total_commits_count": 53,
-      "activity": 0.9607570504719067,
-      "total_score": 16.047028645343623,
+      "activity": 0.9590358341602778,
+      "total_score": 16.045307429031993,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -121,13 +121,13 @@
     "rails/rails": {
       "full_name": "rails/rails",
       "name": "rails",
-      "stargazers_count": 40805,
+      "stargazers_count": 40809,
       "popularity": 5,
-      "percentage": 0.0318135391725131,
+      "percentage": 0.031808745730931495,
       "maturity": 5,
-      "total_commits_count": 59723,
+      "total_commits_count": 59732,
       "activity": 5,
-      "total_score": 30.020678800462132,
+      "total_score": 30.020675684725106,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

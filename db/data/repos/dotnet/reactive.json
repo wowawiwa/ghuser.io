@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/dotnet/reactive/languages",
   "pulls_url": "https://api.github.com/repos/dotnet/reactive/pulls{/number}",
   "created_at": "2013-09-03T22:33:51Z",
-  "updated_at": "2018-09-11T21:25:07Z",
-  "pushed_at": "2018-09-04T10:06:18Z",
+  "updated_at": "2018-09-12T17:14:41Z",
+  "pushed_at": "2018-09-12T17:14:40Z",
   "homepage": "http://reactivex.io",
-  "size": 33460,
+  "size": 33464,
   "stargazers_count": 3025,
   "language": "C#",
   "mirror_url": null,
@@ -91,7 +91,7 @@
     "akarnokd": 135,
     "danielcweber": 151,
     "bartdesmet": 583,
-    "onovotny": 587
+    "onovotny": 589
   },
   "pulls_authors": [
     "paulomorgado",
@@ -162,5 +162,5 @@
       "color": "#012456"
     }
   },
-  "fetched_at": "2018-09-12T07:41:21.497Z"
+  "fetched_at": "2018-09-13T00:24:47.316Z"
 }

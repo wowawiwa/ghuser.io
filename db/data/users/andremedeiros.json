@@ -15,7 +15,7 @@
   "bio": null,
   "public_gists": 26,
   "created_at": "2008-05-08T11:43:36Z",
-  "updated_at": "2018-09-06T21:06:00Z",
+  "updated_at": "2018-09-12T18:30:59Z",
   "organizations": [
     "rubygems",
     "bundler",
@@ -24,7 +24,7 @@
     "journalistrb"
   ],
   "contribs": {
-    "fetched_at": "2018-09-11T11:34:12.741Z",
+    "fetched_at": "2018-09-12T23:35:01.776Z",
     "repos": [
       "andremedeiros/dotfiles",
       "embark-framework/embark",
@@ -83,7 +83,8 @@
       "gmodarelli/ruby-deepclone",
       "aputs/wurfl_device",
       "clivecrous/wurfl-lite",
-      "andremedeiros/jemalloc-rb"
+      "andremedeiros/jemalloc-rb",
+      "embark-framework/embark-site"
     ]
   }
 }

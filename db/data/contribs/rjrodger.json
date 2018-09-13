@@ -706,13 +706,13 @@
     "nodezoo/nodezoo-workshop": {
       "full_name": "nodezoo/nodezoo-workshop",
       "name": "nodezoo-workshop",
-      "stargazers_count": 184,
-      "popularity": 3.262727411607676,
+      "stargazers_count": 185,
+      "popularity": 3.2650928559259493,
       "percentage": 45.562130177514796,
       "maturity": 3.1126612186182565,
       "total_commits_count": 169,
-      "activity": 1.0121845905059965,
-      "total_score": 36.35107470054946,
+      "activity": 1.0110212376275967,
+      "total_score": 36.37101838928027,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -1577,7 +1577,7 @@
     "winstonjs/winston": {
       "full_name": "winstonjs/winston",
       "name": "winston",
-      "stargazers_count": 11393,
+      "stargazers_count": 11399,
       "popularity": 5,
       "percentage": 0.0835421888053467,
       "maturity": 4.065107062437231,

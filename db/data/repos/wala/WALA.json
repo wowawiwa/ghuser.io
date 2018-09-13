@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/wala/WALA/languages",
   "pulls_url": "https://api.github.com/repos/wala/WALA/pulls{/number}",
   "created_at": "2012-04-05T18:57:03Z",
-  "updated_at": "2018-09-11T17:57:46Z",
-  "pushed_at": "2018-09-11T17:57:44Z",
+  "updated_at": "2018-09-12T19:56:00Z",
+  "pushed_at": "2018-09-12T19:55:58Z",
   "homepage": "http://wala.sourceforge.net",
-  "size": 50886,
+  "size": 50892,
   "stargazers_count": 196,
   "language": "Java",
   "mirror_url": null,
@@ -104,11 +104,12 @@
     "sblackshear",
     "michaelheilmann",
     "vazexqi",
-    "dperelman"
+    "dperelman",
+    "sifislag"
   ],
   "languages": {
     "Java": {
-      "bytes": 10282000,
+      "bytes": 10282119,
       "color": "#b07219"
     },
     "JavaScript": {
@@ -156,5 +157,5 @@
       "color": "#555555"
     }
   },
-  "fetched_at": "2018-09-12T04:59:58.880Z"
+  "fetched_at": "2018-09-12T23:48:39.217Z"
 }

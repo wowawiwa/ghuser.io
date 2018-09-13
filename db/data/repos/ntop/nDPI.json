@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/ntop/nDPI/languages",
   "pulls_url": "https://api.github.com/repos/ntop/nDPI/pulls{/number}",
   "created_at": "2015-04-19T04:56:52Z",
-  "updated_at": "2018-09-12T16:31:24Z",
-  "pushed_at": "2018-09-11T21:25:33Z",
+  "updated_at": "2018-09-12T22:14:21Z",
+  "pushed_at": "2018-09-12T22:14:20Z",
   "homepage": "http://www.ntop.org",
-  "size": 25340,
-  "stargazers_count": 1368,
+  "size": 25344,
+  "stargazers_count": 1370,
   "language": "C",
   "mirror_url": null,
   "archived": false,
@@ -98,7 +98,7 @@
     "cardigliano": 8,
     "zyingp": 10,
     "vel21ripn": 10,
-    "dsokoloski": 11,
+    "dsokoloski": 12,
     "Dark-Vex": 11,
     "c4stan": 15,
     "backer-and": 20,
@@ -108,7 +108,8 @@
     "jsoref": 34,
     "alagoutte": 49,
     "kYroL01": 186,
-    "lucaderi": 434
+    "lucaderi": 435,
+    "DanieleDeSensi": 1
   },
   "pulls_authors": [
     "dsokoloski",
@@ -194,11 +195,11 @@
   ],
   "languages": {
     "C": {
-      "bytes": 1527699,
+      "bytes": 1527752,
       "color": "#555555"
     },
     "PHP": {
-      "bytes": 564265,
+      "bytes": 564430,
       "color": "#4F5D95"
     },
     "Lua": {
@@ -230,5 +231,5 @@
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-09-12T16:40:36.194Z"
+  "fetched_at": "2018-09-12T23:52:24.052Z"
 }

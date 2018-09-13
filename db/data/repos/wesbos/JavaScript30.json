@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/wesbos/JavaScript30/languages",
   "pulls_url": "https://api.github.com/repos/wesbos/JavaScript30/pulls{/number}",
   "created_at": "2016-12-07T19:15:31Z",
-  "updated_at": "2018-09-12T16:47:35Z",
-  "pushed_at": "2018-08-27T20:10:57Z",
+  "updated_at": "2018-09-12T22:42:27Z",
+  "pushed_at": "2018-09-12T22:49:21Z",
   "homepage": "https://JavaScript30.com",
   "size": 1241,
-  "stargazers_count": 8321,
+  "stargazers_count": 8324,
   "language": "HTML",
   "mirror_url": null,
   "archived": false,
@@ -271,7 +271,8 @@
     "alexbaumgertner",
     "pertrai1",
     "infn8",
-    "tjbarbour"
+    "tjbarbour",
+    "tkjone"
   ],
   "languages": {
     "HTML": {
@@ -287,5 +288,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-12T16:54:14.282Z"
+  "fetched_at": "2018-09-13T00:29:29.909Z"
 }

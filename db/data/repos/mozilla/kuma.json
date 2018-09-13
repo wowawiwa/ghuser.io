@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/mozilla/kuma/languages",
   "pulls_url": "https://api.github.com/repos/mozilla/kuma/pulls{/number}",
   "created_at": "2011-02-10T21:48:06Z",
-  "updated_at": "2018-09-12T11:16:04Z",
-  "pushed_at": "2018-09-12T08:46:54Z",
+  "updated_at": "2018-09-12T22:39:52Z",
+  "pushed_at": "2018-09-12T23:44:26Z",
   "homepage": "https://developer.mozilla.org",
-  "size": 205402,
-  "stargazers_count": 1305,
+  "size": 205453,
+  "stargazers_count": 1306,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -138,7 +138,7 @@
     "erikrose": 130,
     "craigcook": 166,
     "robhudson": 215,
-    "escattone": 517,
+    "escattone": 518,
     "rlr": 289,
     "openjck": 729,
     "ubernostrum": 506,
@@ -146,7 +146,7 @@
     "lmorchard": 1260,
     "jezdez": 1184,
     "groovecoder": 2098,
-    "jwhitlock": 1525,
+    "jwhitlock": 1526,
     "darkwing": 1863,
     "adusca": 3,
     "Andriy-K": 3,
@@ -485,7 +485,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 2257161,
+      "bytes": 2257042,
       "color": "#3572A5"
     },
     "HTML": {
@@ -521,5 +521,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-12T15:35:33.121Z"
+  "fetched_at": "2018-09-12T23:45:12.921Z"
 }

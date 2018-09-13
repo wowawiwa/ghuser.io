@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/joke2k/faker/languages",
   "pulls_url": "https://api.github.com/repos/joke2k/faker/pulls{/number}",
   "created_at": "2012-11-12T23:00:09Z",
-  "updated_at": "2018-09-12T14:00:25Z",
-  "pushed_at": "2018-09-12T11:25:52Z",
+  "updated_at": "2018-09-12T21:04:43Z",
+  "pushed_at": "2018-09-12T20:54:39Z",
   "homepage": "http://faker.rtfd.org",
-  "size": 3390,
+  "size": 3397,
   "stargazers_count": 6642,
   "language": "Python",
   "mirror_url": null,
@@ -55,7 +55,7 @@
     "alasdairnicol": 2,
     "gitaristby": 2,
     "milliquet": 2,
-    "micahstrube": 3,
+    "micahstrube": 5,
     "frangiz": 3,
     "kivipe": 3,
     "cloveras": 3,
@@ -127,7 +127,7 @@
     "mdxs": 52,
     "Newman101": 52,
     "joke2k": 192,
-    "fcurella": 823,
+    "fcurella": 824,
     "ramwin": 3,
     "anantauprety": 2,
     "noirbizarre": 2,
@@ -504,7 +504,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 2649287,
+      "bytes": 2650026,
       "color": "#3572A5"
     },
     "Makefile": {
@@ -512,5 +512,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-12T15:48:48.117Z"
+  "fetched_at": "2018-09-12T23:57:04.942Z"
 }

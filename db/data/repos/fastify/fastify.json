@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/fastify/fastify/languages",
   "pulls_url": "https://api.github.com/repos/fastify/fastify/pulls{/number}",
   "created_at": "2016-09-28T19:10:14Z",
-  "updated_at": "2018-09-12T08:17:01Z",
-  "pushed_at": "2018-09-12T09:52:37Z",
+  "updated_at": "2018-09-12T22:59:19Z",
+  "pushed_at": "2018-09-12T17:23:41Z",
   "homepage": "https://www.fastify.io",
-  "size": 1727,
-  "stargazers_count": 8063,
+  "size": 1728,
+  "stargazers_count": 8068,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -131,7 +131,7 @@
     "sigkell": 6,
     "fralonra": 6,
     "vincent178": 7,
-    "cemremengu": 7,
+    "cemremengu": 8,
     "lependu": 8,
     "lmammino": 8,
     "gj": 8,
@@ -290,5 +290,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T15:49:26.138Z"
+  "fetched_at": "2018-09-12T23:57:44.908Z"
 }

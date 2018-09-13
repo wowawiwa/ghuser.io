@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/facebook/nuclide/languages",
   "pulls_url": "https://api.github.com/repos/facebook/nuclide/pulls{/number}",
   "created_at": "2015-03-02T05:25:27Z",
-  "updated_at": "2018-09-12T13:44:12Z",
-  "pushed_at": "2018-09-12T00:15:01Z",
+  "updated_at": "2018-09-12T22:19:13Z",
+  "pushed_at": "2018-09-12T22:19:10Z",
   "homepage": "https://nuclide.io",
-  "size": 151014,
+  "size": 163477,
   "stargazers_count": 7891,
   "language": "JavaScript",
   "mirror_url": null,
@@ -97,7 +97,7 @@
     "shunfu": 23,
     "azich": 23,
     "Wj2ma": 27,
-    "cs01": 28,
+    "cs01": 30,
     "emilyhorsman": 28,
     "asiandrummer": 28,
     "ConderS": 30,
@@ -126,13 +126,13 @@
     "jamesgpearce": 124,
     "Goom11": 128,
     "scv119": 149,
-    "aaronabramov": 143,
+    "aaronabramov": 144,
     "JoelMarcey": 148,
     "ljw1004": 174,
     "velocityboy": 193,
     "shushz": 195,
     "aadisriram": 215,
-    "pelmers": 226,
+    "pelmers": 229,
     "a20012251": 239,
     "yinghuitan": 278,
     "wbinnssmith": 294,
@@ -141,7 +141,7 @@
     "ssorallen": 386,
     "bolinfest": 396,
     "ebluestein": 417,
-    "jgebhardt": 601,
+    "jgebhardt": 602,
     "peterhal": 701,
     "zertosh": 854,
     "mostafaeweda": 951,
@@ -435,11 +435,11 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 8818031,
+      "bytes": 8826959,
       "color": "#f1e05a"
     },
     "Python": {
-      "bytes": 2318626,
+      "bytes": 2318914,
       "color": "#3572A5"
     },
     "Java": {
@@ -447,7 +447,7 @@
       "color": "#b07219"
     },
     "CSS": {
-      "bytes": 119131,
+      "bytes": 118822,
       "color": "#563d7c"
     },
     "Hack": {
@@ -487,5 +487,5 @@
       "color": "#4F5D95"
     }
   },
-  "fetched_at": "2018-09-12T15:37:26.406Z"
+  "fetched_at": "2018-09-12T23:46:28.839Z"
 }

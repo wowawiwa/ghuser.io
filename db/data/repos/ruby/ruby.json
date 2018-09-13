@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/ruby/ruby/languages",
   "pulls_url": "https://api.github.com/repos/ruby/ruby/pulls{/number}",
   "created_at": "2010-02-27T15:55:23Z",
-  "updated_at": "2018-09-12T14:39:27Z",
-  "pushed_at": "2018-09-12T14:37:59Z",
+  "updated_at": "2018-09-12T22:55:35Z",
+  "pushed_at": "2018-09-12T20:49:32Z",
   "homepage": "https://www.ruby-lang.org/",
-  "size": 182684,
+  "size": 182689,
   "stargazers_count": 14753,
   "language": "Ruby",
   "mirror_url": null,
@@ -989,11 +989,11 @@
   ],
   "languages": {
     "Ruby": {
-      "bytes": 24942066,
+      "bytes": 24942380,
       "color": "#701516"
     },
     "C": {
-      "bytes": 11806095,
+      "bytes": 11806448,
       "color": "#555555"
     },
     "Objective-C": {
@@ -1081,5 +1081,5 @@
       "color": "#0000fb"
     }
   },
-  "fetched_at": "2018-09-12T15:30:54.054Z"
+  "fetched_at": "2018-09-12T23:42:29.061Z"
 }

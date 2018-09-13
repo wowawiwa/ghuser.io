@@ -121,13 +121,13 @@
     "symfony/symfony-docs": {
       "full_name": "symfony/symfony-docs",
       "name": "symfony-docs",
-      "stargazers_count": 1481,
-      "popularity": 4.170330144637839,
+      "stargazers_count": 1480,
+      "popularity": 4.17003662307723,
       "percentage": 0,
       "maturity": 5,
-      "total_commits_count": 18940,
+      "total_commits_count": 18946,
       "activity": 5,
-      "total_score": 27.51099043391352,
+      "total_score": 27.51010986923169,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -160,13 +160,13 @@
     "frappe/frappe": {
       "full_name": "frappe/frappe",
       "name": "frappe",
-      "stargazers_count": 967,
-      "popularity": 3.985061166716965,
-      "percentage": 0.006054734802615646,
+      "stargazers_count": 968,
+      "popularity": 3.985510467901201,
+      "percentage": 0.006054001695120475,
       "maturity": 5,
-      "total_commits_count": 16516,
+      "total_commits_count": 16518,
       "activity": 5,
-      "total_score": 26.958320203660662,
+      "total_score": 26.959668081030323,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

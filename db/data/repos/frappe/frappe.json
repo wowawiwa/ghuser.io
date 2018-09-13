@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/frappe/frappe/languages",
   "pulls_url": "https://api.github.com/repos/frappe/frappe/pulls{/number}",
   "created_at": "2011-06-08T08:14:16Z",
-  "updated_at": "2018-09-12T12:44:16Z",
-  "pushed_at": "2018-09-12T12:44:13Z",
+  "updated_at": "2018-09-12T21:44:39Z",
+  "pushed_at": "2018-09-12T16:55:43Z",
   "homepage": "http://frappe.io",
-  "size": 170803,
-  "stargazers_count": 967,
+  "size": 170778,
+  "stargazers_count": 968,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -98,7 +98,7 @@
     "bcornwellmott": 9,
     "system19": 8,
     "saguas": 9,
-    "szufisher": 9,
+    "szufisher": 10,
     "dalwadani": 9,
     "shreyasp": 9,
     "mhbu50": 11,
@@ -565,5 +565,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-12T15:52:46.248Z"
+  "fetched_at": "2018-09-13T00:01:30.935Z"
 }

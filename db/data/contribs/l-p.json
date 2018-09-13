@@ -20,10 +20,10 @@
       "stargazers_count": 8,
       "popularity": 1.8512968868523627,
       "percentage": 100,
-      "maturity": 3.762233893045995,
-      "total_commits_count": 616,
+      "maturity": 3.7629870926493414,
+      "total_commits_count": 617,
       "activity": 5,
-      "total_score": 42.14521797572979,
+      "total_score": 42.14672437493648,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -74,8 +74,8 @@
       "percentage": 0.6369426751592356,
       "maturity": 3.4396447219516837,
       "total_commits_count": 314,
-      "activity": 3.2030626597664558,
-      "total_score": 23.030417989308315,
+      "activity": 3.0731168630353105,
+      "total_score": 22.90047219257717,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -160,7 +160,7 @@
     "StreisandEffect/streisand": {
       "full_name": "StreisandEffect/streisand",
       "name": "streisand",
-      "stargazers_count": 15648,
+      "stargazers_count": 15653,
       "popularity": 5,
       "percentage": 0.0758150113722517,
       "maturity": 4.108640682071048,

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/gabime/spdlog/languages",
   "pulls_url": "https://api.github.com/repos/gabime/spdlog/pulls{/number}",
   "created_at": "2014-11-01T01:28:53Z",
-  "updated_at": "2018-09-12T08:08:03Z",
-  "pushed_at": "2018-09-06T23:12:29Z",
+  "updated_at": "2018-09-12T20:33:39Z",
+  "pushed_at": "2018-09-12T20:33:37Z",
   "homepage": "",
-  "size": 38199,
-  "stargazers_count": 4143,
+  "size": 38203,
+  "stargazers_count": 4145,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -127,11 +127,12 @@
     "godbyk": 23,
     "DanielChabrowski": 27,
     "Gabi120": 264,
-    "gabime": 1270,
+    "gabime": 1271,
     "epruesse": 1,
     "jwnimmer-tri": 1,
     "maciekgajewski": 1,
-    "yhchen": 1
+    "yhchen": 1,
+    "taketwo": 1
   },
   "pulls_authors": [
     "gabime",
@@ -303,7 +304,8 @@
     "jbreitbart",
     "fooinha",
     "mintyc",
-    "bitwigglers"
+    "bitwigglers",
+    "taketwo"
   ],
   "languages": {
     "C++": {
@@ -311,7 +313,7 @@
       "color": "#f34b7d"
     },
     "CMake": {
-      "bytes": 11892,
+      "bytes": 12151,
       "color": "#ccc"
     },
     "C": {
@@ -327,5 +329,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T15:47:49.409Z"
+  "fetched_at": "2018-09-12T23:56:05.542Z"
 }

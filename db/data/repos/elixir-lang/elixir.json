@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/elixir-lang/elixir/languages",
   "pulls_url": "https://api.github.com/repos/elixir-lang/elixir/pulls{/number}",
   "created_at": "2011-01-09T08:43:57Z",
-  "updated_at": "2018-09-12T13:57:31Z",
-  "pushed_at": "2018-09-12T08:43:52Z",
+  "updated_at": "2018-09-12T22:26:24Z",
+  "pushed_at": "2018-09-12T23:04:47Z",
   "homepage": "http://elixir-lang.org/",
-  "size": 37745,
-  "stargazers_count": 13827,
+  "size": 37758,
+  "stargazers_count": 13829,
   "language": "Elixir",
   "mirror_url": null,
   "archived": false,
@@ -136,7 +136,7 @@
     "ericentin": 47,
     "fertapric": 53,
     "mururu": 58,
-    "wojtekmach": 61,
+    "wojtekmach": 62,
     "rafaelfranca": 99,
     "michalmuskala": 97,
     "fishcakez": 150,
@@ -147,7 +147,7 @@
     "ericmj": 491,
     "whatyouhide": 438,
     "lexmag": 670,
-    "josevalim": 8630,
+    "josevalim": 8631,
     "mhinz": 7,
     "uesteibar": 7,
     "davydog187": 7,
@@ -1420,7 +1420,7 @@
   ],
   "languages": {
     "Elixir": {
-      "bytes": 4512974,
+      "bytes": 4513204,
       "color": "#6e4a7e"
     },
     "Erlang": {
@@ -1448,5 +1448,5 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-12T15:30:44.163Z"
+  "fetched_at": "2018-09-12T23:42:21.259Z"
 }

@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/Shopify/statsd-instrument/languages",
   "pulls_url": "https://api.github.com/repos/Shopify/statsd-instrument/pulls{/number}",
   "created_at": "2011-07-27T15:46:23Z",
-  "updated_at": "2018-08-31T11:56:16Z",
-  "pushed_at": "2018-08-09T13:59:29Z",
+  "updated_at": "2018-09-12T18:16:42Z",
+  "pushed_at": "2018-09-12T18:18:25Z",
   "homepage": "http://shopify.github.io/statsd-instrument",
-  "size": 314,
+  "size": 319,
   "stargazers_count": 412,
   "language": "Ruby",
   "mirror_url": null,
@@ -96,7 +96,7 @@
     "fw42": 6,
     "titanous": 6,
     "smith": 6,
-    "pallan": 14,
+    "pallan": 16,
     "jstorimer": 35,
     "wvanbergen": 102
   },
@@ -170,9 +170,9 @@
   ],
   "languages": {
     "Ruby": {
-      "bytes": 95078,
+      "bytes": 95072,
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-09-11T10:32:14.971Z"
+  "fetched_at": "2018-09-12T23:43:38.268Z"
 }

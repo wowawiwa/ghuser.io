@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/bazelbuild/bazel/languages",
   "pulls_url": "https://api.github.com/repos/bazelbuild/bazel/pulls{/number}",
   "created_at": "2014-06-12T16:00:38Z",
-  "updated_at": "2018-09-12T15:06:03Z",
-  "pushed_at": "2018-09-12T15:05:49Z",
+  "updated_at": "2018-09-12T23:53:03Z",
+  "pushed_at": "2018-09-12T23:52:49Z",
   "homepage": "https://bazel.build",
-  "size": 504166,
-  "stargazers_count": 9991,
+  "size": 504220,
+  "stargazers_count": 9993,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -106,7 +106,7 @@
     "aragos": 93,
     "sergiocampama": 97,
     "asteinb": 101,
-    "ola-rozenfeld": 104,
+    "ola-rozenfeld": 105,
     "hermione521": 104,
     "jin": 105,
     "dmishe": 108,
@@ -115,7 +115,7 @@
     "meisterT": 119,
     "oquenchil": 121,
     "serynth": 130,
-    "aoeui": 131,
+    "aoeui": 132,
     "ahumesky": 134,
     "iirina": 140,
     "vladmos": 138,
@@ -125,20 +125,20 @@
     "fweikert": 178,
     "hanwen": 180,
     "cvcal": 187,
-    "michajlo": 212,
+    "michajlo": 213,
     "cgrushko": 216,
     "brandjon": 240,
     "tomlu": 264,
-    "katre": 285,
+    "katre": 286,
     "gregestren": 301,
     "mhlopko": 307,
     "meteorcloudy": 347,
     "aj-michael": 352,
-    "haxorz": 351,
+    "haxorz": 352,
     "calpeyser": 370,
     "dslomov": 375,
     "philwo": 413,
-    "c-parsons": 443,
+    "c-parsons": 444,
     "kchodorow": 473,
     "laurentlb": 539,
     "aehlig": 543,
@@ -794,15 +794,15 @@
   ],
   "languages": {
     "Java": {
-      "bytes": 31411727,
+      "bytes": 31428868,
       "color": "#b07219"
     },
     "Python": {
-      "bytes": 1523240,
+      "bytes": 1523541,
       "color": "#3572A5"
     },
     "Shell": {
-      "bytes": 1335658,
+      "bytes": 1338090,
       "color": "#89e051"
     },
     "C++": {
@@ -846,5 +846,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-12T15:55:28.691Z"
+  "fetched_at": "2018-09-13T00:22:44.658Z"
 }

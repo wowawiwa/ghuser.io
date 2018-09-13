@@ -82,7 +82,7 @@
     "daneden/animate.css": {
       "full_name": "daneden/animate.css",
       "name": "animate.css",
-      "stargazers_count": 54110,
+      "stargazers_count": 54139,
       "popularity": 5,
       "percentage": 2.6402640264026402,
       "maturity": 3.4218565080661945,
@@ -251,13 +251,13 @@
     "sqlmapproject/sqlmap": {
       "full_name": "sqlmapproject/sqlmap",
       "name": "sqlmap",
-      "stargazers_count": 12229,
+      "stargazers_count": 12234,
       "popularity": 5,
       "percentage": 0,
-      "maturity": 4.90759151798782,
-      "total_commits_count": 8091,
+      "maturity": 4.907645456894867,
+      "total_commits_count": 8092,
       "activity": 5,
-      "total_score": 29.81518303597564,
+      "total_score": 29.815290913789735,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -862,13 +862,13 @@
     "hacktoberfest17/programming": {
       "full_name": "hacktoberfest17/programming",
       "name": "programming",
-      "stargazers_count": 245,
-      "popularity": 3.3876068520578055,
+      "stargazers_count": 246,
+      "popularity": 3.3893823839580257,
       "percentage": 0,
       "maturity": 4.049049979026302,
       "total_commits_count": 1155,
       "activity": 5,
-      "total_score": 23.260920514226022,
+      "total_score": 23.26624710992668,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -1122,13 +1122,13 @@
     "AurelienLourot/ghuser.io": {
       "full_name": "AurelienLourot/ghuser.io",
       "name": "ghuser.io",
-      "stargazers_count": 448,
-      "popularity": 3.6504437497789897,
-      "percentage": 0.6734006734006734,
-      "maturity": 3.7453241560367827,
-      "total_commits_count": 594,
+      "stargazers_count": 512,
+      "popularity": 3.7085449619609085,
+      "percentage": 0.6622516556291391,
+      "maturity": 3.753092111146201,
+      "total_commits_count": 604,
       "activity": 5,
-      "total_score": 23.76154702772115,
+      "total_score": 23.95109781350951,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

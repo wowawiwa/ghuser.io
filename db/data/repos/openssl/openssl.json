@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/openssl/openssl/languages",
   "pulls_url": "https://api.github.com/repos/openssl/openssl/pulls{/number}",
   "created_at": "2013-01-15T22:34:48Z",
-  "updated_at": "2018-09-12T15:07:53Z",
-  "pushed_at": "2018-09-12T12:48:15Z",
+  "updated_at": "2018-09-12T23:33:43Z",
+  "pushed_at": "2018-09-12T23:43:43Z",
   "homepage": "https://www.openssl.org",
-  "size": 156532,
-  "stargazers_count": 8154,
+  "size": 156537,
+  "stargazers_count": 8164,
   "language": "C",
   "mirror_url": null,
   "archived": false,
@@ -132,7 +132,7 @@
     "ghedo": 56,
     "davidben": 60,
     "InfoHunter": 79,
-    "mspncp": 79,
+    "mspncp": 80,
     "tmshort": 86,
     "RJPercival": 114,
     "bernd-edlinger": 139,
@@ -146,7 +146,7 @@
     "richsalz": 896,
     "mattcaswell": 2576,
     "dot-asm": 2771,
-    "levitte": 4316,
+    "levitte": 4318,
     "snhenson": 4844,
     "bdonlan": 3,
     "finnhakansson": 3,
@@ -969,11 +969,11 @@
   ],
   "languages": {
     "C": {
-      "bytes": 22366113,
+      "bytes": 22366438,
       "color": "#555555"
     },
     "Perl": {
-      "bytes": 5686176,
+      "bytes": 5686249,
       "color": "#0298c3"
     },
     "C++": {
@@ -1009,5 +1009,5 @@
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-09-12T15:40:45.393Z"
+  "fetched_at": "2018-09-12T23:49:05.445Z"
 }

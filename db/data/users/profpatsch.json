@@ -26,7 +26,7 @@
     "dhall-lang"
   ],
   "contribs": {
-    "fetched_at": "2018-09-11T11:36:11.729Z",
+    "fetched_at": "2018-09-12T23:39:55.373Z",
     "repos": [
       "Profpatsch/repros",
       "NixOS/nixpkgs",
@@ -152,7 +152,8 @@
       "Profpatsch/defectlog",
       "openlab-aux/infoscreen",
       "spf13/snipmate-snippets",
-      "Profpatsch/song-xml"
+      "Profpatsch/song-xml",
+      "adamsmasher/hs-cdb"
     ]
   }
 }

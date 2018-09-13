@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/spring-projects/spring-boot/languages",
   "pulls_url": "https://api.github.com/repos/spring-projects/spring-boot/pulls{/number}",
   "created_at": "2012-10-19T15:02:57Z",
-  "updated_at": "2018-09-12T15:21:24Z",
-  "pushed_at": "2018-09-12T11:58:57Z",
+  "updated_at": "2018-09-12T23:21:24Z",
+  "pushed_at": "2018-09-12T23:21:09Z",
   "homepage": "https://spring.io/projects/spring-boot",
-  "size": 80502,
-  "stargazers_count": 28834,
+  "size": 80555,
+  "stargazers_count": 28844,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -142,10 +142,10 @@
     "vpavic": 110,
     "cdupuis": 127,
     "bclozel": 228,
-    "mbhave": 559,
+    "mbhave": 561,
     "izeye": 418,
     "dsyer": 1649,
-    "philwebb": 2671,
+    "philwebb": 2675,
     "snicoll": 4761,
     "wilkinsona": 5493,
     "akihyro": 2,
@@ -1294,7 +1294,7 @@
   ],
   "languages": {
     "Java": {
-      "bytes": 14042598,
+      "bytes": 14050055,
       "color": "#b07219"
     },
     "HTML": {
@@ -1346,5 +1346,5 @@
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-09-12T15:31:38.515Z"
+  "fetched_at": "2018-09-12T23:42:51.253Z"
 }

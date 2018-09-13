@@ -11,8 +11,8 @@
   "languages_url": "https://api.github.com/repos/wbond/package_control_channel/languages",
   "pulls_url": "https://api.github.com/repos/wbond/package_control_channel/pulls{/number}",
   "created_at": "2011-08-05T03:56:41Z",
-  "updated_at": "2018-09-12T01:04:41Z",
-  "pushed_at": "2018-09-12T01:04:33Z",
+  "updated_at": "2018-09-12T23:32:49Z",
+  "pushed_at": "2018-09-12T23:32:33Z",
   "homepage": "https://packagecontrol.io/docs/developers",
   "size": 15021,
   "stargazers_count": 1098,
@@ -4326,7 +4326,8 @@
     "brianriley",
     "jeffturcotte",
     "zxqfl",
-    "aziis98"
+    "aziis98",
+    "flau"
   ],
   "languages": {
     "Python": {
@@ -4334,5 +4335,5 @@
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-09-12T07:34:52.112Z"
+  "fetched_at": "2018-09-12T23:52:31.860Z"
 }

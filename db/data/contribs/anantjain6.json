@@ -8,7 +8,7 @@
       "popularity": 4.526520521352906,
       "percentage": 0,
       "maturity": 5,
-      "total_commits_count": 82748,
+      "total_commits_count": 82755,
       "activity": 5,
       "total_score": 28.579561564058718,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
@@ -52,10 +52,24 @@
       "total_score": 0.9626851595414578,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
+    },
+    "ncs-jss/plexus": {
+      "full_name": "ncs-jss/plexus",
+      "name": "plexus",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 0,
+      "maturity": 2.9889537639082238,
+      "total_commits_count": 137,
+      "activity": 1.5591916038438551,
+      "total_score": 7.537099131660303,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
     }
   },
   "organizations": [
     "phpmyadmin",
-    "MMIL"
+    "MMIL",
+    "ncs-jss"
   ]
 }

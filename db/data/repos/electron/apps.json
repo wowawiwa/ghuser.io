@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/electron/apps/languages",
   "pulls_url": "https://api.github.com/repos/electron/apps/pulls{/number}",
   "created_at": "2016-08-31T19:35:56Z",
-  "updated_at": "2018-09-12T11:43:22Z",
-  "pushed_at": "2018-09-12T11:06:20Z",
+  "updated_at": "2018-09-12T20:41:05Z",
+  "pushed_at": "2018-09-12T20:40:58Z",
   "homepage": "https://electronjs.org/apps",
-  "size": 200896,
+  "size": 201293,
   "stargazers_count": 523,
   "language": "JavaScript",
   "mirror_url": null,
@@ -42,7 +42,7 @@
     "site_admin": false
   },
   "contributors": {
-    "electron-bot": 5951,
+    "electron-bot": 5953,
     "zeke": 383,
     "vanessayuenn": 60,
     "codebytere": 47,
@@ -441,7 +441,9 @@
     "CyanSalt": 1,
     "oldj": 1,
     "amtlib-dot-dll": 1,
-    "aizuyan": 1
+    "aizuyan": 1,
+    "mattgoorley": 1,
+    "mauris": 1
   },
   "pulls_authors": [
     "ahmtcn123",
@@ -890,7 +892,8 @@
     "yanue",
     "foozzi",
     "gch1p",
-    "mauris"
+    "mauris",
+    "mattgoorley"
   ],
   "languages": {
     "JavaScript": {
@@ -902,5 +905,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T15:50:01.206Z"
+  "fetched_at": "2018-09-12T23:58:23.563Z"
 }

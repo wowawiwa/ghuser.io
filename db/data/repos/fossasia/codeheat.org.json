@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/fossasia/codeheat.org/languages",
   "pulls_url": "https://api.github.com/repos/fossasia/codeheat.org/pulls{/number}",
   "created_at": "2016-09-15T13:52:39Z",
-  "updated_at": "2018-09-12T14:59:11Z",
-  "pushed_at": "2018-09-12T08:29:08Z",
+  "updated_at": "2018-09-12T18:30:11Z",
+  "pushed_at": "2018-09-12T22:12:33Z",
   "homepage": "",
-  "size": 28887,
-  "stargazers_count": 468,
+  "size": 28913,
+  "stargazers_count": 469,
   "language": "CSS",
   "mirror_url": null,
   "archived": false,
@@ -113,7 +113,8 @@
     "praveenojha33": 1,
     "Akshat-Jain": 2,
     "DNS-404": 1,
-    "hkedia321": 1
+    "hkedia321": 1,
+    "simsausaurabh": 1
   },
   "pulls_authors": [
     "gabru-md",
@@ -188,7 +189,10 @@
     "Akshat-Jain",
     "hkedia321",
     "DNS-404",
-    "sk9331657"
+    "sk9331657",
+    "harsh-2711",
+    "stealthanthrax",
+    "simsausaurabh"
   ],
   "languages": {
     "CSS": {
@@ -200,7 +204,7 @@
       "color": "#4F5D95"
     },
     "HTML": {
-      "bytes": 168268,
+      "bytes": 169231,
       "color": "#e34c26"
     },
     "JavaScript": {
@@ -208,5 +212,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-12T15:34:09.591Z"
+  "fetched_at": "2018-09-12T23:44:10.729Z"
 }

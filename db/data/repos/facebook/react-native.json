@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/facebook/react-native/languages",
   "pulls_url": "https://api.github.com/repos/facebook/react-native/pulls{/number}",
   "created_at": "2015-01-09T18:10:16Z",
-  "updated_at": "2018-09-12T15:14:14Z",
-  "pushed_at": "2018-09-12T15:30:57Z",
+  "updated_at": "2018-09-12T23:34:20Z",
+  "pushed_at": "2018-09-12T23:33:05Z",
   "homepage": "https://facebook.github.io/react-native/",
-  "size": 263740,
-  "stargazers_count": 68568,
+  "size": 263735,
+  "stargazers_count": 68576,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -94,7 +94,7 @@
     "michalgr": 44,
     "mikearmstrong001": 44,
     "mjesun": 51,
-    "mmmulani": 54,
+    "mmmulani": 55,
     "rsnara": 54,
     "sebmarkbage": 54,
     "majak": 53,
@@ -125,7 +125,7 @@
     "cpojer": 122,
     "andreicoman11": 139,
     "fkgozali": 138,
-    "mdvacca": 143,
+    "mdvacca": 144,
     "astreet": 153,
     "TheSavior": 157,
     "yungsters": 163,
@@ -3117,19 +3117,20 @@
     "chantastic",
     "robz",
     "ZYSzys",
-    "BlakeSimpson"
+    "BlakeSimpson",
+    "olfek"
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 4878555,
+      "bytes": 4878832,
       "color": "#f1e05a"
     },
     "Java": {
-      "bytes": 2952120,
+      "bytes": 2955409,
       "color": "#b07219"
     },
     "Objective-C": {
-      "bytes": 1766793,
+      "bytes": 1767152,
       "color": "#438eff"
     },
     "C++": {
@@ -3189,5 +3190,5 @@
       "color": "#74283c"
     }
   },
-  "fetched_at": "2018-09-12T15:38:40.276Z"
+  "fetched_at": "2018-09-12T23:47:33.004Z"
 }

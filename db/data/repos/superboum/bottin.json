@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/superboum/bottin/languages",
   "pulls_url": "https://api.github.com/repos/superboum/bottin/pulls{/number}",
   "created_at": "2018-09-08T14:38:47Z",
-  "updated_at": "2018-09-08T20:58:31Z",
-  "pushed_at": "2018-09-08T14:46:06Z",
+  "updated_at": "2018-09-12T17:58:26Z",
+  "pushed_at": "2018-09-12T17:58:25Z",
   "homepage": null,
-  "size": 9,
+  "size": 11,
   "stargazers_count": 1,
   "language": "JavaScript",
   "mirror_url": null,
@@ -22,14 +22,18 @@
   "license": null,
   "default_branch": "master",
   "contributors": {
-    "superboum": 14
+    "superboum": 17
   },
   "pulls_authors": [],
   "languages": {
     "JavaScript": {
-      "bytes": 7275,
+      "bytes": 7621,
       "color": "#f1e05a"
+    },
+    "Dockerfile": {
+      "bytes": 354,
+      "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-12T07:43:18.837Z"
+  "fetched_at": "2018-09-13T00:27:29.916Z"
 }

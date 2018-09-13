@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/SAP/openui5/languages",
   "pulls_url": "https://api.github.com/repos/SAP/openui5/pulls{/number}",
   "created_at": "2013-12-10T18:11:33Z",
-  "updated_at": "2018-09-12T13:42:51Z",
-  "pushed_at": "2018-09-12T14:59:52Z",
+  "updated_at": "2018-09-12T17:36:52Z",
+  "pushed_at": "2018-09-12T20:00:23Z",
   "homepage": "http://openui5.org",
-  "size": 407334,
+  "size": 407343,
   "stargazers_count": 1721,
   "language": "JavaScript",
   "mirror_url": null,
@@ -50,7 +50,7 @@
   "contributors": {
     "domianer": 45,
     "LidiaBobeva": 51,
-    "plamenivanov91": 61,
+    "plamenivanov91": 63,
     "nand0o97": 70,
     "qkt": 97,
     "asa1-lp-git-test": 38,
@@ -359,7 +359,7 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 57200358,
+      "bytes": 57201599,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -379,5 +379,5 @@
       "color": "#5B2063"
     }
   },
-  "fetched_at": "2018-09-12T15:48:05.981Z"
+  "fetched_at": "2018-09-12T23:56:20.350Z"
 }

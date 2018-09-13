@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/apple/swift/languages",
   "pulls_url": "https://api.github.com/repos/apple/swift/pulls{/number}",
   "created_at": "2015-10-23T21:15:07Z",
-  "updated_at": "2018-09-12T14:38:25Z",
-  "pushed_at": "2018-09-12T15:41:42Z",
+  "updated_at": "2018-09-13T00:04:18Z",
+  "pushed_at": "2018-09-13T00:08:22Z",
   "homepage": "https://swift.org",
-  "size": 337523,
-  "stargazers_count": 45158,
+  "size": 337595,
+  "stargazers_count": 45166,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -119,7 +119,7 @@
     "AnnaZaks": 290,
     "davidungar": 454,
     "milseman": 546,
-    "compnerd": 558,
+    "compnerd": 562,
     "gparker42": 458,
     "graydon": 517,
     "tkremenek": 655,
@@ -131,7 +131,7 @@
     "davezarzycki": 722,
     "moiseev": 890,
     "atrick": 759,
-    "akyrtzi": 851,
+    "akyrtzi": 854,
     "swiftix": 974,
     "nadavrot": 880,
     "adrian-prantl": 972,
@@ -142,14 +142,14 @@
     "rjmccall": 1883,
     "dabrahams": 1916,
     "practicalswift": 2393,
-    "jrose-apple": 3368,
+    "jrose-apple": 3370,
     "gottesmm": 3584,
     "slavapestov": 4243,
     "gribozavr": 4444,
-    "jckarter": 4284,
+    "jckarter": 4286,
     "lattner": 4536,
     "DougGregor": 6138,
-    "swift-ci": 10618,
+    "swift-ci": 10620,
     "divadretlaw": 25,
     "alblue": 23,
     "dingobye": 23,
@@ -1314,23 +1314,24 @@
     "jhersh",
     "mooman219",
     "filipw",
-    "mzp"
+    "mzp",
+    "daniel-grumberg"
   ],
   "languages": {
     "C++": {
-      "bytes": 30314222,
+      "bytes": 30314346,
       "color": "#f34b7d"
     },
     "Swift": {
-      "bytes": 24698274,
+      "bytes": 24698284,
       "color": "#ffac45"
     },
     "Python": {
-      "bytes": 1331512,
+      "bytes": 1331551,
       "color": "#3572A5"
     },
     "CMake": {
-      "bytes": 466590,
+      "bytes": 466731,
       "color": "#ccc"
     },
     "Objective-C": {
@@ -1386,5 +1387,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-09-12T15:54:30.073Z"
+  "fetched_at": "2018-09-13T00:21:56.820Z"
 }

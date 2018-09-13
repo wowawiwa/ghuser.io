@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/vuejs-templates/webpack/languages",
   "pulls_url": "https://api.github.com/repos/vuejs-templates/webpack/pulls{/number}",
   "created_at": "2015-12-26T05:25:41Z",
-  "updated_at": "2018-09-12T15:11:56Z",
-  "pushed_at": "2018-09-06T08:52:30Z",
+  "updated_at": "2018-09-12T17:42:37Z",
+  "pushed_at": "2018-09-12T18:33:55Z",
   "homepage": "",
   "size": 1231,
-  "stargazers_count": 8105,
+  "stargazers_count": 8106,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -196,7 +196,8 @@
     "keepgoingwm": 1,
     "yibuyisheng": 1,
     "SirM2z": 1,
-    "KagamiChan": 1
+    "KagamiChan": 1,
+    "RomanEmpires": 1
   },
   "pulls_authors": [
     "abetomo",
@@ -531,7 +532,9 @@
     "wy-z",
     "nblackburn",
     "rascada",
-    "wujun8008"
+    "wujun8008",
+    "Leo-Nicolle",
+    "RomanEmpires"
   ],
   "languages": {
     "JavaScript": {
@@ -551,5 +554,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T15:33:38.860Z"
+  "fetched_at": "2018-09-12T23:43:57.024Z"
 }

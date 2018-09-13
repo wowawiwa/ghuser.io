@@ -27,19 +27,6 @@
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
-    "MattRyder/StructuredSearch": {
-      "full_name": "MattRyder/StructuredSearch",
-      "name": "StructuredSearch",
-      "stargazers_count": 1,
-      "popularity": 0,
-      "percentage": 100,
-      "maturity": 0,
-      "total_commits_count": 24,
-      "activity": 0.5619626433553133,
-      "total_score": 0.5619626433553133,
-      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
-      "max_total_score": 95
-    },
     "MattRyder/SteamAPI": {
       "full_name": "MattRyder/SteamAPI",
       "name": "SteamAPI",

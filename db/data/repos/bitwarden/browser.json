@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/bitwarden/browser/languages",
   "pulls_url": "https://api.github.com/repos/bitwarden/browser/pulls{/number}",
   "created_at": "2016-03-09T23:14:01Z",
-  "updated_at": "2018-09-12T03:54:45Z",
-  "pushed_at": "2018-09-12T03:54:43Z",
+  "updated_at": "2018-09-12T18:04:34Z",
+  "pushed_at": "2018-09-12T17:24:31Z",
   "homepage": "https://bitwarden.com",
-  "size": 8207,
-  "stargazers_count": 658,
+  "size": 8219,
+  "stargazers_count": 659,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -82,7 +82,8 @@
     "felixqu": 7,
     "SW1FT": 9,
     "Hinton": 24,
-    "kspearrin": 1571
+    "kspearrin": 1572,
+    "garygreen": 1
   },
   "pulls_authors": [
     "Crocmagnon",
@@ -128,7 +129,8 @@
     "ArtemNikolaev",
     "bikegriffith",
     "benmezger",
-    "igeligel"
+    "igeligel",
+    "garygreen"
   ],
   "languages": {
     "TypeScript": {
@@ -136,7 +138,7 @@
       "color": "#2b7489"
     },
     "JavaScript": {
-      "bytes": 131080,
+      "bytes": 129072,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -152,5 +154,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-09-12T04:57:38.574Z"
+  "fetched_at": "2018-09-12T23:44:44.592Z"
 }

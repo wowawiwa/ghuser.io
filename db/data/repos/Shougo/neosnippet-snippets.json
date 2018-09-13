@@ -11,8 +11,8 @@
   "languages_url": "https://api.github.com/repos/Shougo/neosnippet-snippets/languages",
   "pulls_url": "https://api.github.com/repos/Shougo/neosnippet-snippets/pulls{/number}",
   "created_at": "2013-12-30T01:51:51Z",
-  "updated_at": "2018-09-12T05:27:03Z",
-  "pushed_at": "2018-09-12T15:08:28Z",
+  "updated_at": "2018-09-12T23:27:06Z",
+  "pushed_at": "2018-09-12T23:27:05Z",
   "homepage": "",
   "size": 233,
   "stargazers_count": 221,
@@ -95,7 +95,8 @@
     "rgrinberg": 14,
     "pocke": 18,
     "e-kwsm": 28,
-    "Shougo": 38
+    "Shougo": 38,
+    "Inazuma110": 1
   },
   "pulls_authors": [
     "Inazuma110",
@@ -181,5 +182,5 @@
       "color": "#199f4b"
     }
   },
-  "fetched_at": "2018-09-12T15:44:01.636Z"
+  "fetched_at": "2018-09-12T23:52:30.659Z"
 }

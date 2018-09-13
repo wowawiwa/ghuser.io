@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/aws/aws-sdk-php/languages",
   "pulls_url": "https://api.github.com/repos/aws/aws-sdk-php/pulls{/number}",
   "created_at": "2012-10-17T21:28:32Z",
-  "updated_at": "2018-09-12T10:17:26Z",
-  "pushed_at": "2018-09-11T20:48:25Z",
+  "updated_at": "2018-09-12T22:05:49Z",
+  "pushed_at": "2018-09-12T22:05:46Z",
   "homepage": "http://aws.amazon.com/sdkforphp",
-  "size": 47070,
-  "stargazers_count": 3366,
+  "size": 47250,
+  "stargazers_count": 3368,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -113,7 +113,7 @@
     "claylo": 1,
     "buley": 1,
     "adrienbrault": 1,
-    "jschwarzwalder": 4,
+    "jschwarzwalder": 7,
     "weirdan": 2,
     "rquadling": 2,
     "EronHennessey": 2,
@@ -134,7 +134,7 @@
     "pcolby": 3,
     "martinssipenko": 4,
     "poisa": 4,
-    "howardlopez": 10,
+    "howardlopez": 11,
     "rairlie": 5,
     "hacfi": 5,
     "AlexKovalevych": 5,
@@ -142,7 +142,7 @@
     "carusogabriel": 9,
     "huntsper": 17,
     "GrahamCampbell": 12,
-    "kstich": 78,
+    "kstich": 79,
     "cjyclaire": 196,
     "imshashank": 259,
     "jeskew": 554,
@@ -332,7 +332,7 @@
   ],
   "languages": {
     "PHP": {
-      "bytes": 27625323,
+      "bytes": 27631622,
       "color": "#4F5D95"
     },
     "Roff": {
@@ -348,5 +348,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-12T15:42:58.524Z"
+  "fetched_at": "2018-09-12T23:51:25.528Z"
 }

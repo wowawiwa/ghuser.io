@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/adambard/learnxinyminutes-docs/languages",
   "pulls_url": "https://api.github.com/repos/adambard/learnxinyminutes-docs/pulls{/number}",
   "created_at": "2013-06-26T17:58:34Z",
-  "updated_at": "2018-09-12T14:17:03Z",
-  "pushed_at": "2018-09-12T14:16:57Z",
+  "updated_at": "2018-09-12T20:21:40Z",
+  "pushed_at": "2018-09-12T19:22:00Z",
   "homepage": "http://learnxinyminutes.com/",
-  "size": 14154,
-  "stargazers_count": 5544,
+  "size": 14139,
+  "stargazers_count": 5545,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -117,7 +117,7 @@
     "samcv": 36,
     "adambrenecki": 53,
     "ian-bertolacci": 43,
-    "divayprakash": 88,
+    "divayprakash": 92,
     "levibostian": 330,
     "prertik": 184,
     "vendethiel": 653,
@@ -1831,7 +1831,7 @@
       "color": "#db5855"
     },
     "C": {
-      "bytes": 130625,
+      "bytes": 130639,
       "color": "#555555"
     },
     "Elixir": {
@@ -1963,5 +1963,5 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-09-12T15:31:52.099Z"
+  "fetched_at": "2018-09-12T23:42:58.842Z"
 }

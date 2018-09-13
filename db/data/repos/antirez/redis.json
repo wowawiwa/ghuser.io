@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/antirez/redis/languages",
   "pulls_url": "https://api.github.com/repos/antirez/redis/pulls{/number}",
   "created_at": "2009-03-21T22:32:25Z",
-  "updated_at": "2018-09-12T15:42:59Z",
-  "pushed_at": "2018-09-12T10:41:46Z",
+  "updated_at": "2018-09-12T21:30:55Z",
+  "pushed_at": "2018-09-12T21:22:14Z",
   "homepage": "http://redis.io",
-  "size": 74451,
-  "stargazers_count": 31471,
+  "size": 74461,
+  "stargazers_count": 31487,
   "language": "C",
   "mirror_url": null,
   "archived": false,
@@ -127,7 +127,7 @@
     "artix75": 72,
     "mattsta": 151,
     "pietern": 510,
-    "antirez": 5646,
+    "antirez": 5647,
     "rojingeorge": 3,
     "hylepo": 2,
     "0x20h": 1,
@@ -301,7 +301,8 @@
     "yihuang": 1,
     "yyoshiki41": 1,
     "zshipko": 1,
-    "zwkno1": 1
+    "zwkno1": 1,
+    "slobo": 1
   },
   "pulls_authors": [
     "fdingiit",
@@ -1246,7 +1247,9 @@
     "tbassetto",
     "TimothyFitz",
     "rikarends",
-    "ankopainting"
+    "ankopainting",
+    "moskyb",
+    "slobo"
   ],
   "languages": {
     "C": {
@@ -1282,5 +1285,5 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-09-12T15:44:15.885Z"
+  "fetched_at": "2018-09-12T23:52:44.043Z"
 }

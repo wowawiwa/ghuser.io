@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/mattgodbolt/compiler-explorer/languages",
   "pulls_url": "https://api.github.com/repos/mattgodbolt/compiler-explorer/pulls{/number}",
   "created_at": "2012-05-23T01:31:17Z",
-  "updated_at": "2018-09-12T11:04:36Z",
+  "updated_at": "2018-09-12T21:12:28Z",
   "pushed_at": "2018-09-11T10:13:11Z",
   "homepage": "https://godbolt.org/",
   "size": 8962,
-  "stargazers_count": 4526,
+  "stargazers_count": 4527,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -235,5 +235,5 @@
       "color": "#5e5086"
     }
   },
-  "fetched_at": "2018-09-12T15:47:46.606Z"
+  "fetched_at": "2018-09-12T23:56:02.011Z"
 }

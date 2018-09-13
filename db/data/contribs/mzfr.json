@@ -121,26 +121,26 @@
     "PyCQA/astroid": {
       "full_name": "PyCQA/astroid",
       "name": "astroid",
-      "stargazers_count": 167,
-      "popularity": 3.2204086975725215,
+      "stargazers_count": 168,
+      "popularity": 3.2230155151553452,
       "percentage": 0,
       "maturity": 4.061715884621727,
       "total_commits_count": 1188,
       "activity": 5,
-      "total_score": 22.78465786196102,
+      "total_score": 22.79247831470949,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
     "GiacomoLaw/Keylogger": {
       "full_name": "GiacomoLaw/Keylogger",
       "name": "Keylogger",
-      "stargazers_count": 452,
-      "popularity": 3.6543119070861882,
+      "stargazers_count": 453,
+      "popularity": 3.6552735870419375,
       "percentage": 0.7874015748031497,
       "maturity": 2.9417524841153866,
       "total_commits_count": 127,
-      "activity": 1.6545470549533934,
-      "total_score": 18.875051168002734,
+      "activity": 1.6461958037088218,
+      "total_score": 18.86968339630592,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -212,13 +212,13 @@
     "metabrainz/listenbrainz-server": {
       "full_name": "metabrainz/listenbrainz-server",
       "name": "listenbrainz-server",
-      "stargazers_count": 195,
-      "popularity": 3.2880646039041324,
+      "stargazers_count": 196,
+      "popularity": 3.290296338013504,
       "percentage": 0.06269592476489028,
       "maturity": 4.193494528549919,
       "total_commits_count": 1595,
       "activity": 5,
-      "total_score": 23.27798214144594,
+      "total_score": 23.28469553345645,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -260,6 +260,32 @@
       "total_score": 18.955138153935398,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
+    },
+    "mzfr/99Problems": {
+      "full_name": "mzfr/99Problems",
+      "name": "99Problems",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 3,
+      "activity": 5,
+      "total_score": 21.662851527087042,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "IPECLabs/Findmeacomp": {
+      "full_name": "IPECLabs/Findmeacomp",
+      "name": "Findmeacomp",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 80,
+      "maturity": 0,
+      "total_commits_count": 30,
+      "activity": 5,
+      "total_score": 18.955138153935398,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
     }
   },
   "organizations": [
@@ -267,6 +293,7 @@
     "PyCQA",
     "mushorg",
     "metabrainz",
-    "IpecLabs"
+    "IpecLabs",
+    "IPECLabs"
   ]
 }

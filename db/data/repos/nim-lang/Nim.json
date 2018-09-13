@@ -53,7 +53,7 @@
     "barcharcraz": 17,
     "ventor3000": 15,
     "exhu": 15,
-    "genotrance": 16,
+    "genotrance": 18,
     "chrisheller": 16,
     "boydgreenfield": 16,
     "rudis": 17,
@@ -69,7 +69,7 @@
     "rokups": 25,
     "oprypin": 26,
     "ReneSac": 27,
-    "LemonBoy": 76,
+    "LemonBoy": 77,
     "cooldome": 39,
     "avsej": 30,
     "Parashurama": 31,
@@ -366,11 +366,11 @@
   "url": "https://api.github.com/repos/nim-lang/Nim",
   "languages_url": "https://api.github.com/repos/nim-lang/Nim/languages",
   "created_at": "2010-08-16T20:38:58Z",
-  "updated_at": "2018-09-12T12:50:37Z",
-  "pushed_at": "2018-09-12T15:05:48Z",
+  "updated_at": "2018-09-12T22:43:39Z",
+  "pushed_at": "2018-09-12T23:29:15Z",
   "homepage": "https://nim-lang.org/",
-  "size": 71066,
-  "stargazers_count": 5438,
+  "size": 70971,
+  "stargazers_count": 5441,
   "language": "Nim",
   "mirror_url": null,
   "archived": false,
@@ -404,7 +404,7 @@
   },
   "languages": {
     "Nim": {
-      "bytes": 8387166,
+      "bytes": 8387522,
       "color": "#37775b"
     },
     "C": {
@@ -452,7 +452,7 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-12T15:36:56.986Z",
+  "fetched_at": "2018-09-12T23:46:08.050Z",
   "pulls_url": "https://api.github.com/repos/nim-lang/Nim/pulls{/number}",
   "pulls_authors": [
     "michael72",

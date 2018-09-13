@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/cljsjs/packages/languages",
   "pulls_url": "https://api.github.com/repos/cljsjs/packages/pulls{/number}",
   "created_at": "2014-12-03T22:47:01Z",
-  "updated_at": "2018-09-12T12:00:21Z",
-  "pushed_at": "2018-09-12T12:26:18Z",
+  "updated_at": "2018-09-12T20:00:21Z",
+  "pushed_at": "2018-09-12T20:00:19Z",
   "homepage": "http://cljsjs.github.io",
-  "size": 7654,
+  "size": 7673,
   "stargazers_count": 640,
   "language": "JavaScript",
   "mirror_url": null,
@@ -140,8 +140,8 @@
     "ducky427": 108,
     "EmergentBehavior": 72,
     "martinklepsch": 111,
-    "deraen-robot": 311,
-    "Deraen": 1470,
+    "deraen-robot": 312,
+    "Deraen": 1471,
     "rotaliator": 5,
     "namenu": 5,
     "hlolli": 5,
@@ -452,7 +452,7 @@
     "rafd": 1,
     "rasmuserik": 1,
     "rtaboada": 1,
-    "rangeoshun": 3
+    "rangeoshun": 8
   },
   "pulls_authors": [
     "miikka",
@@ -974,7 +974,7 @@
       "color": "#f1e05a"
     },
     "Clojure": {
-      "bytes": 745170,
+      "bytes": 745173,
       "color": "#db5855"
     },
     "Shell": {
@@ -982,5 +982,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T16:51:05.032Z"
+  "fetched_at": "2018-09-13T00:26:44.091Z"
 }

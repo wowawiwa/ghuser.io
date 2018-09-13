@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/descarteslabs/descarteslabs-python/languages",
   "pulls_url": "https://api.github.com/repos/descarteslabs/descarteslabs-python/pulls{/number}",
   "created_at": "2017-03-10T23:27:12Z",
-  "updated_at": "2018-09-12T15:55:05Z",
-  "pushed_at": "2018-09-12T15:55:02Z",
+  "updated_at": "2018-09-12T21:34:46Z",
+  "pushed_at": "2018-09-12T22:03:02Z",
   "homepage": "https://docs.descarteslabs.com/",
-  "size": 852,
+  "size": 892,
   "stargazers_count": 72,
   "language": "Python",
   "mirror_url": null,
@@ -57,7 +57,7 @@
     "karla-descartes": 2,
     "aliasmrchips": 2,
     "ClarkZinzow": 7,
-    "gjoseph92": 24,
+    "gjoseph92": 30,
     "nikhaldi": 31,
     "hrfuller": 41,
     "kornholi": 58,
@@ -77,9 +77,9 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 450617,
+      "bytes": 482032,
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-09-12T16:43:16.716Z"
+  "fetched_at": "2018-09-12T23:56:57.572Z"
 }

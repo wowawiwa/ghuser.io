@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/puppetlabs/facter/languages",
   "pulls_url": "https://api.github.com/repos/puppetlabs/facter/pulls{/number}",
   "created_at": "2010-09-14T19:31:04Z",
-  "updated_at": "2018-09-10T06:02:36Z",
-  "pushed_at": "2018-09-11T21:53:20Z",
+  "updated_at": "2018-09-12T16:55:43Z",
+  "pushed_at": "2018-09-12T18:38:45Z",
   "homepage": "https://tickets.puppet.com/browse/FACT",
-  "size": 14000,
+  "size": 13997,
   "stargazers_count": 514,
   "language": "C++",
   "mirror_url": null,
@@ -122,7 +122,7 @@
     "pcarlisle": 13,
     "caseywilliams": 27,
     "stahnma": 28,
-    "ekinanp": 17,
+    "ekinanp": 18,
     "smortex": 14,
     "parisiale": 13,
     "ScottGarman": 27,
@@ -565,7 +565,7 @@
   ],
   "languages": {
     "C++": {
-      "bytes": 1132023,
+      "bytes": 1130850,
       "color": "#f34b7d"
     },
     "Ruby": {
@@ -601,5 +601,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-09-12T04:55:42.095Z"
+  "fetched_at": "2018-09-12T23:42:23.679Z"
 }

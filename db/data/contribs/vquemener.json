@@ -17,13 +17,13 @@
     "elastic/kibana": {
       "full_name": "elastic/kibana",
       "name": "kibana",
-      "stargazers_count": 10061,
+      "stargazers_count": 10062,
       "popularity": 5,
-      "percentage": 0.006173601679219657,
+      "percentage": 0.006171696599395174,
       "maturity": 5,
-      "total_commits_count": 16198,
+      "total_commits_count": 16203,
       "activity": 5,
-      "total_score": 30.00401284109149,
+      "total_score": 30.004011602789607,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

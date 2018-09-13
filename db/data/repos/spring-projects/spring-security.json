@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/spring-projects/spring-security/languages",
   "pulls_url": "https://api.github.com/repos/spring-projects/spring-security/pulls{/number}",
   "created_at": "2012-01-10T21:50:57Z",
-  "updated_at": "2018-09-12T14:21:14Z",
-  "pushed_at": "2018-09-12T02:03:40Z",
+  "updated_at": "2018-09-12T22:05:26Z",
+  "pushed_at": "2018-09-12T22:05:14Z",
   "homepage": "http://spring.io/spring-security",
-  "size": 32204,
+  "size": 32245,
   "stargazers_count": 2775,
   "language": "Java",
   "mirror_url": null,
@@ -145,8 +145,8 @@
     "inspektr": 38,
     "izeye": 42,
     "jzheaux": 65,
-    "jgrandja": 324,
-    "rwinch": 1920,
+    "jgrandja": 325,
+    "rwinch": 1922,
     "tekul": 2823,
     "djechelon": 1,
     "agebhar1": 1,
@@ -570,7 +570,7 @@
   ],
   "languages": {
     "Java": {
-      "bytes": 9078024,
+      "bytes": 9077900,
       "color": "#b07219"
     },
     "Groovy": {
@@ -606,5 +606,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-12T15:31:39.909Z"
+  "fetched_at": "2018-09-12T23:42:51.717Z"
 }

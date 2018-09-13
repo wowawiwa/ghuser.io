@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/travis-ci/travis-web/languages",
   "pulls_url": "https://api.github.com/repos/travis-ci/travis-web/pulls{/number}",
   "created_at": "2012-06-17T16:30:56Z",
-  "updated_at": "2018-09-12T14:46:11Z",
-  "pushed_at": "2018-09-12T14:47:16Z",
+  "updated_at": "2018-09-12T23:33:53Z",
+  "pushed_at": "2018-09-12T23:33:48Z",
   "homepage": "https://travis-ci.org/",
-  "size": 97236,
+  "size": 96946,
   "stargazers_count": 531,
   "language": "JavaScript",
   "mirror_url": null,
@@ -130,7 +130,7 @@
     "berraknil": 13,
     "chistopher": 14,
     "gusaiani": 18,
-    "paulthegeek": 22,
+    "paulthegeek": 25,
     "rwjblue": 22,
     "randym": 24,
     "joshk": 46,
@@ -299,11 +299,11 @@
       "color": "#f1e05a"
     },
     "HTML": {
-      "bytes": 171674,
+      "bytes": 171781,
       "color": "#e34c26"
     },
     "CSS": {
-      "bytes": 169425,
+      "bytes": 169743,
       "color": "#563d7c"
     },
     "Ruby": {
@@ -319,5 +319,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-12T15:40:19.839Z"
+  "fetched_at": "2018-09-12T23:48:40.921Z"
 }

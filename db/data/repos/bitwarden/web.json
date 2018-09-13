@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/bitwarden/web/languages",
   "pulls_url": "https://api.github.com/repos/bitwarden/web/pulls{/number}",
   "created_at": "2015-11-23T23:44:23Z",
-  "updated_at": "2018-09-12T05:30:52Z",
-  "pushed_at": "2018-09-12T13:57:33Z",
+  "updated_at": "2018-09-12T19:18:43Z",
+  "pushed_at": "2018-09-12T19:18:41Z",
   "homepage": "https://vault.bitwarden.com",
-  "size": 23889,
+  "size": 26822,
   "stargazers_count": 442,
   "language": "TypeScript",
   "mirror_url": null,
@@ -57,7 +57,7 @@
     "ysshah": 1,
     "bbrks": 1,
     "Mart124": 3,
-    "kspearrin": 1336
+    "kspearrin": 1338
   },
   "pulls_authors": [
     "lightswitch05",
@@ -79,7 +79,7 @@
   ],
   "languages": {
     "TypeScript": {
-      "bytes": 362083,
+      "bytes": 361822,
       "color": "#2b7489"
     },
     "HTML": {
@@ -103,5 +103,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-12T15:34:56.252Z"
+  "fetched_at": "2018-09-12T23:44:44.334Z"
 }

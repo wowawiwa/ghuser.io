@@ -30,7 +30,7 @@
     "gitignore-org"
   ],
   "contribs": {
-    "fetched_at": "2018-09-11T11:36:41.522Z",
+    "fetched_at": "2018-09-12T23:41:24.085Z",
     "repos": [
       "TiagoDanin/resXClone",
       "TiagoDanin/Unsplash-Source-Node",
@@ -163,7 +163,11 @@
       "gitignore-org/gitignore-org",
       "devtranslate/api",
       "TiagoDanin/NPM-Package-to-GitHub",
-      "TiagoDanin/gitignore-sync-bot"
+      "TiagoDanin/gitignore-sync-bot",
+      "TiagoDanin/ghuser.io.settings"
     ]
+  },
+  "settings": {
+    "twitter_username": "_TiagoEDGE"
   }
 }

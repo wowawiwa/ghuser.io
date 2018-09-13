@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/pmd/pmd",
   "languages_url": "https://api.github.com/repos/pmd/pmd/languages",
   "created_at": "2012-07-11T18:03:00Z",
-  "updated_at": "2018-09-12T13:20:09Z",
+  "updated_at": "2018-09-12T16:25:18Z",
   "pushed_at": "2018-09-12T08:45:55Z",
   "homepage": "https://pmd.github.io",
   "size": 249024,
-  "stargazers_count": 1777,
+  "stargazers_count": 1779,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -247,7 +247,7 @@
       "color": "#2b7489"
     }
   },
-  "fetched_at": "2018-09-12T15:45:29.965Z",
+  "fetched_at": "2018-09-12T23:53:49.329Z",
   "pulls_url": "https://api.github.com/repos/pmd/pmd/pulls{/number}",
   "pulls_authors": [
     "djydewang",

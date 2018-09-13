@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/ajaxorg/ace/languages",
   "pulls_url": "https://api.github.com/repos/ajaxorg/ace/pulls{/number}",
   "created_at": "2010-10-27T10:43:36Z",
-  "updated_at": "2018-09-12T15:51:22Z",
-  "pushed_at": "2018-08-29T15:20:25Z",
+  "updated_at": "2018-09-12T22:19:30Z",
+  "pushed_at": "2018-09-12T20:09:26Z",
   "homepage": "https://ace.c9.io",
   "size": 37101,
-  "stargazers_count": 18167,
+  "stargazers_count": 18169,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -868,7 +868,8 @@
     "sshwsfc",
     "leftshoe",
     "wittemann",
-    "feisty"
+    "feisty",
+    "doveccl"
   ],
   "languages": {
     "JavaScript": {
@@ -892,5 +893,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-12T16:48:58.915Z"
+  "fetched_at": "2018-09-13T00:24:53.307Z"
 }

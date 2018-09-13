@@ -21,7 +21,7 @@
     "mirrorba"
   ],
   "contribs": {
-    "fetched_at": "2018-09-11T01:43:01.125Z",
+    "fetched_at": "2018-09-12T23:36:46.380Z",
     "repos": [
       "emirb/emirb.github.io",
       "zhutik/klarna-api-go",
@@ -101,7 +101,9 @@
       "matomo-org/matomo",
       "cakephp/phinx",
       "emirb/rt6-startup-screen",
-      "ramsey/uuid"
+      "ramsey/uuid",
+      "emirb/golang-builder-image",
+      "Propertyfinder/golang-builder-image"
     ]
   }
 }

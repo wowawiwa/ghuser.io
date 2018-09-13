@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/rust-lang/rust/languages",
   "pulls_url": "https://api.github.com/repos/rust-lang/rust/pulls{/number}",
   "created_at": "2010-06-16T20:39:03Z",
-  "updated_at": "2018-09-12T15:35:03Z",
-  "pushed_at": "2018-09-12T15:34:36Z",
+  "updated_at": "2018-09-12T23:49:20Z",
+  "pushed_at": "2018-09-12T23:52:18Z",
   "homepage": "https://www.rust-lang.org",
-  "size": 392523,
-  "stargazers_count": 30581,
+  "size": 392565,
+  "stargazers_count": 30596,
   "language": "Rust",
   "mirror_url": null,
   "archived": false,
@@ -136,12 +136,12 @@
     "thestinger": 780,
     "jseyfried": 813,
     "huonw": 809,
-    "michaelwoerister": 889,
+    "michaelwoerister": 890,
     "pnkfelix": 925,
     "steveklabnik": 1767,
     "marijnh": 1007,
     "eddyb": 1294,
-    "GuillaumeGomez": 1685,
+    "GuillaumeGomez": 1689,
     "oli-obk": 506,
     "catamorphism": 1523,
     "graydon": 2228,
@@ -149,7 +149,7 @@
     "alexcrichton": 4681,
     "nikomatsakis": 3643,
     "brson": 5503,
-    "bors": 13629,
+    "bors": 13631,
     "jonathandturner": 277,
     "kmcallister": 146,
     "pietroalbini": 116,
@@ -3092,7 +3092,7 @@
   ],
   "languages": {
     "Rust": {
-      "bytes": 34363862,
+      "bytes": 34362598,
       "color": "#dea584"
     },
     "Python": {
@@ -3100,7 +3100,7 @@
       "color": "#3572A5"
     },
     "JavaScript": {
-      "bytes": 129929,
+      "bytes": 129902,
       "color": "#f1e05a"
     },
     "C++": {
@@ -3124,7 +3124,7 @@
       "color": "#0db7ed"
     },
     "CSS": {
-      "bytes": 49982,
+      "bytes": 50090,
       "color": "#563d7c"
     },
     "C": {
@@ -3176,5 +3176,5 @@
       "color": "#6E4C13"
     }
   },
-  "fetched_at": "2018-09-12T15:44:05.350Z"
+  "fetched_at": "2018-09-12T23:52:33.160Z"
 }

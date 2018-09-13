@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/jhipster/generator-jhipster/languages",
   "pulls_url": "https://api.github.com/repos/jhipster/generator-jhipster/pulls{/number}",
   "created_at": "2013-10-21T20:07:22Z",
-  "updated_at": "2018-09-12T15:33:07Z",
-  "pushed_at": "2018-09-12T13:43:38Z",
+  "updated_at": "2018-09-12T20:05:58Z",
+  "pushed_at": "2018-09-12T21:40:56Z",
   "homepage": "https://www.jhipster.tech",
-  "size": 33367,
-  "stargazers_count": 11479,
+  "size": 33381,
+  "stargazers_count": 11480,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -137,7 +137,7 @@
     "agaspardcilia": 179,
     "LeovR": 194,
     "andidev": 237,
-    "atomfrede": 248,
+    "atomfrede": 252,
     "mraible": 264,
     "cbornet": 248,
     "jmirc": 349,
@@ -364,7 +364,9 @@
     "mkresse": 1,
     "MartinLichtblau": 1,
     "Hades32": 1,
-    "mhicauber": 1
+    "mhicauber": 1,
+    "jonathanba": 3,
+    "amatosg": 2
   },
   "pulls_authors": [
     "ecostanzi",
@@ -923,7 +925,7 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 1239141,
+      "bytes": 1239171,
       "color": "#f1e05a"
     },
     "Java": {
@@ -951,5 +953,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-12T15:50:17.466Z"
+  "fetched_at": "2018-09-12T23:58:37.795Z"
 }

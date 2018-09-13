@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/fsharp/FAKE/languages",
   "pulls_url": "https://api.github.com/repos/fsharp/FAKE/pulls{/number}",
   "created_at": "2010-02-08T10:02:28Z",
-  "updated_at": "2018-09-11T23:47:15Z",
+  "updated_at": "2018-09-12T21:28:35Z",
   "pushed_at": "2018-09-11T23:47:14Z",
   "homepage": "https://fake.build",
   "size": 190279,
-  "stargazers_count": 903,
+  "stargazers_count": 904,
   "language": "F#",
   "mirror_url": null,
   "archived": false,
@@ -750,5 +750,5 @@
       "color": "#945db7"
     }
   },
-  "fetched_at": "2018-09-12T07:44:40.122Z"
+  "fetched_at": "2018-09-12T23:45:19.984Z"
 }

@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/web-platform-tests/wpt/languages",
   "pulls_url": "https://api.github.com/repos/web-platform-tests/wpt/pulls{/number}",
   "created_at": "2012-03-04T12:58:11Z",
-  "updated_at": "2018-09-12T11:08:40Z",
-  "pushed_at": "2018-09-12T15:37:59Z",
+  "updated_at": "2018-09-12T20:24:03Z",
+  "pushed_at": "2018-09-12T23:05:25Z",
   "homepage": "http://irc.w3.org/?channels=testing",
-  "size": 303507,
+  "size": 303525,
   "stargazers_count": 1771,
   "language": "HTML",
   "mirror_url": null,
@@ -1007,7 +1007,7 @@
   ],
   "languages": {
     "HTML": {
-      "bytes": 89028827,
+      "bytes": 89032591,
       "color": "#e34c26"
     },
     "JavaScript": {
@@ -1055,5 +1055,5 @@
       "color": "#ecdebe"
     }
   },
-  "fetched_at": "2018-09-12T15:44:10.890Z"
+  "fetched_at": "2018-09-12T23:52:38.672Z"
 }

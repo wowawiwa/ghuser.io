@@ -61,8 +61,8 @@
       "percentage": 0,
       "maturity": 0,
       "total_commits_count": 6,
-      "activity": 1.7824287564246486,
-      "total_score": 15.66804998303657,
+      "activity": 1.7746073474246127,
+      "total_score": 15.660228574036534,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -95,13 +95,13 @@
     "reactiflux/discord-irc": {
       "full_name": "reactiflux/discord-irc",
       "name": "discord-irc",
-      "stargazers_count": 587,
-      "popularity": 3.768010803365912,
+      "stargazers_count": 588,
+      "popularity": 3.768751162373316,
       "percentage": 0,
       "maturity": 3.575882920789487,
       "total_commits_count": 415,
       "activity": 5,
-      "total_score": 23.45579825167671,
+      "total_score": 23.45801932869892,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

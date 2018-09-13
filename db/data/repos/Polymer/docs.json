@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/Polymer/docs/languages",
   "pulls_url": "https://api.github.com/repos/Polymer/docs/pulls{/number}",
   "created_at": "2013-01-24T19:11:00Z",
-  "updated_at": "2018-09-05T09:49:59Z",
-  "pushed_at": "2018-08-21T19:05:21Z",
+  "updated_at": "2018-09-12T19:13:18Z",
+  "pushed_at": "2018-09-12T19:13:08Z",
   "homepage": "https://www.polymer-project.org",
-  "size": 117339,
+  "size": 117344,
   "stargazers_count": 1055,
   "language": "HTML",
   "mirror_url": null,
@@ -141,7 +141,7 @@
     "tjsavage": 99,
     "arthurevans": 769,
     "notwaldorf": 394,
-    "katejeffreys": 609,
+    "katejeffreys": 610,
     "addyosmani": 2,
     "Lange": 1,
     "AlphaWong": 1,
@@ -183,7 +183,8 @@
     "victor-yarema": 1,
     "takahiro-saeki": 1,
     "web-padawan": 1,
-    "wilson-alcantara": 1
+    "wilson-alcantara": 1,
+    "GuillaumeCR": 1
   },
   "pulls_authors": [
     "JohnBergant",
@@ -632,7 +633,8 @@
     "bsatrom",
     "sjmiles",
     "dominiccooney",
-    "Zoramite"
+    "Zoramite",
+    "GuillaumeCR"
   ],
   "languages": {
     "HTML": {
@@ -656,5 +658,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-05T13:00:41.144Z"
+  "fetched_at": "2018-09-12T23:43:51.315Z"
 }

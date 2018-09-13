@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/Shippable/buildami/languages",
   "pulls_url": "https://api.github.com/repos/Shippable/buildami/pulls{/number}",
   "created_at": "2016-11-10T04:23:00Z",
-  "updated_at": "2018-08-27T04:35:04Z",
-  "pushed_at": "2018-08-27T04:35:03Z",
+  "updated_at": "2018-09-12T21:13:58Z",
+  "pushed_at": "2018-09-12T21:13:56Z",
   "homepage": null,
-  "size": 948,
+  "size": 950,
   "stargazers_count": 1,
   "language": "Shell",
   "mirror_url": null,
@@ -55,7 +55,7 @@
     "trriplejay": 59,
     "ric03uec": 74,
     "rageshkrishna": 90,
-    "avinci": 525
+    "avinci": 527
   },
   "pulls_authors": [
     "trriplejay",
@@ -83,5 +83,5 @@
       "color": "#012456"
     }
   },
-  "fetched_at": "2018-09-12T07:41:57.842Z"
+  "fetched_at": "2018-09-13T00:25:38.865Z"
 }

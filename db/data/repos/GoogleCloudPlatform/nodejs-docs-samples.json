@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/GoogleCloudPlatform/nodejs-docs-samples/languages",
   "pulls_url": "https://api.github.com/repos/GoogleCloudPlatform/nodejs-docs-samples/pulls{/number}",
   "created_at": "2015-05-04T23:26:38Z",
-  "updated_at": "2018-09-11T23:02:18Z",
-  "pushed_at": "2018-09-11T20:05:47Z",
+  "updated_at": "2018-09-12T23:23:22Z",
+  "pushed_at": "2018-09-12T23:23:19Z",
   "homepage": "https://cloud.google.com/nodejs",
-  "size": 13882,
-  "stargazers_count": 1158,
+  "size": 13895,
+  "stargazers_count": 1160,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -132,14 +132,15 @@
     "waprin": 7,
     "broady": 7,
     "elibixby": 7,
-    "steren": 9,
+    "steren": 10,
     "JustinBeckwith": 10,
     "fhinkel": 24,
     "marcacohen": 29,
     "gguuss": 30,
-    "ace-n": 97,
+    "ace-n": 98,
     "jmdobry": 255,
-    "sirtorry": 1
+    "sirtorry": 1,
+    "gimlids": 1
   },
   "pulls_authors": [
     "ace-n",
@@ -256,11 +257,12 @@
     "grant",
     "de314",
     "shtief",
-    "sirtorry"
+    "sirtorry",
+    "gimlids"
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 523799,
+      "bytes": 524918,
       "color": "#f1e05a"
     },
     "Shell": {
@@ -288,5 +290,5 @@
       "color": "#2b7489"
     }
   },
-  "fetched_at": "2018-09-11T23:02:59.242Z"
+  "fetched_at": "2018-09-12T23:43:54.663Z"
 }

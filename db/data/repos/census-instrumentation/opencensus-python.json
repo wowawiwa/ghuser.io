@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/census-instrumentation/opencensus-python/languages",
   "pulls_url": "https://api.github.com/repos/census-instrumentation/opencensus-python/pulls{/number}",
   "created_at": "2017-07-07T22:28:28Z",
-  "updated_at": "2018-09-12T14:08:07Z",
-  "pushed_at": "2018-09-12T02:20:27Z",
+  "updated_at": "2018-09-12T18:31:08Z",
+  "pushed_at": "2018-09-12T21:58:48Z",
   "homepage": "",
-  "size": 960,
+  "size": 969,
   "stargazers_count": 203,
   "language": "Python",
   "mirror_url": null,
@@ -62,7 +62,7 @@
     "bplotnick": 1,
     "stew-r": 1,
     "theacodes": 1,
-    "ocervell": 2,
+    "ocervell": 3,
     "MarceloAquino7": 2,
     "stewblr": 2,
     "justinwp": 2,
@@ -74,7 +74,7 @@
     "reyang": 7,
     "songy23": 10,
     "wkiser": 16,
-    "liyanhui1228": 86
+    "liyanhui1228": 87
   },
   "pulls_authors": [
     "lmolkova",
@@ -115,7 +115,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 784353,
+      "bytes": 787862,
       "color": "#3572A5"
     },
     "Shell": {
@@ -131,5 +131,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-12T15:48:42.576Z"
+  "fetched_at": "2018-09-12T23:56:58.085Z"
 }

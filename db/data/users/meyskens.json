@@ -8,21 +8,21 @@
   "repos_url": "https://api.github.com/users/meyskens/repos",
   "type": "User",
   "name": "Maartje Eyskens",
-  "company": "Innovate Technologies",
+  "company": "@src-d",
   "blog": "https://eyskens.me",
   "location": "Belgium ",
   "email": "maartje@eyskens.me",
-  "bio": "Co-Founder & DevOps @Innovate-Technologies | typical stereotype girl (who codes)",
+  "bio": "Infra @ source{d} | Co-Founder & DevOps @Innovate-Technologies | typical stereotype girl (who codes)",
   "public_gists": 5,
   "created_at": "2012-04-09T10:23:57Z",
-  "updated_at": "2018-09-05T08:59:02Z",
+  "updated_at": "2018-09-12T12:25:38Z",
   "organizations": [
     "innovate-technologies",
     "womenwhogo",
     "scaleway-community"
   ],
   "contribs": {
-    "fetched_at": "2018-09-11T03:25:03.125Z",
+    "fetched_at": "2018-09-12T23:38:56.452Z",
     "repos": [
       "innovate-technologies/itframe",
       "innovate-technologies/control",
@@ -217,7 +217,8 @@
       "Fusl/nodecast",
       "Innovate-Archive/One-Postit-A-Day",
       "Innovate-Archive/CloudPanel",
-      "Innovate-Archive/YHapi"
+      "Innovate-Archive/YHapi",
+      "irinakhismatullina/style-analyzer"
     ]
   }
 }

@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/Shopify/homebrew-shopify/languages",
   "pulls_url": "https://api.github.com/repos/Shopify/homebrew-shopify/pulls{/number}",
   "created_at": "2015-01-06T19:10:58Z",
-  "updated_at": "2018-09-05T19:05:39Z",
-  "pushed_at": "2018-09-05T19:05:36Z",
+  "updated_at": "2018-09-12T17:46:12Z",
+  "pushed_at": "2018-09-12T17:46:10Z",
   "homepage": null,
-  "size": 195,
+  "size": 198,
   "stargazers_count": 13,
   "language": "Ruby",
   "mirror_url": null,
@@ -90,7 +90,8 @@
     "sirupsen": 12,
     "jules2689": 16,
     "johnjmartin": 17,
-    "burke": 38
+    "burke": 38,
+    "catherinejones": 2
   },
   "pulls_authors": [
     "tanema",
@@ -151,9 +152,9 @@
   ],
   "languages": {
     "Ruby": {
-      "bytes": 54558,
+      "bytes": 54583,
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-09-11T10:32:15.903Z"
+  "fetched_at": "2018-09-12T23:43:39.330Z"
 }

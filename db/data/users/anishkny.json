@@ -20,7 +20,7 @@
     "gothinkster"
   ],
   "contribs": {
-    "fetched_at": "2018-09-11T11:34:14.310Z",
+    "fetched_at": "2018-09-12T23:35:04.872Z",
     "repos": [
       "gothinkster/realworld",
       "anishkny/puppeteer-on-cloud-functions",
@@ -87,7 +87,10 @@
       "Polymer/polymer-starter-kit",
       "anishkny/gll-mag-patch",
       "eugeneware/gifencoder",
-      "tomakehurst/wiremock"
+      "tomakehurst/wiremock",
+      "travis-ci/docs-travis-ci-com",
+      "anishkny/docker-puppeteer",
+      "alekzonder/docker-puppeteer"
     ]
   }
 }

@@ -34,7 +34,7 @@
     "united-drivers"
   ],
   "contribs": {
-    "fetched_at": "2018-09-11T11:35:43.963Z",
+    "fetched_at": "2018-09-12T23:39:10.122Z",
     "repos": [
       "moul/vanity",
       "moul/depviz",
@@ -630,7 +630,9 @@
       "moul/visual_resume",
       "moul/whoisjs",
       "brianvoe/gofakeit",
-      "moul/opml-to-github-issues"
+      "moul/opml-to-github-issues",
+      "moul/test-go-mod-malformed-path",
+      "moul/test2-go-mod-malformed-path"
     ]
   }
 }
