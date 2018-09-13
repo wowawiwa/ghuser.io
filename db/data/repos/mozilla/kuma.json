@@ -11,8 +11,8 @@
   "languages_url": "https://api.github.com/repos/mozilla/kuma/languages",
   "pulls_url": "https://api.github.com/repos/mozilla/kuma/pulls{/number}",
   "created_at": "2011-02-10T21:48:06Z",
-  "updated_at": "2018-09-12T22:39:52Z",
-  "pushed_at": "2018-09-12T23:44:26Z",
+  "updated_at": "2018-09-13T16:17:25Z",
+  "pushed_at": "2018-09-13T16:18:22Z",
   "homepage": "https://developer.mozilla.org",
   "size": 205453,
   "stargazers_count": 1306,
@@ -132,13 +132,13 @@
     "kyoshino": 63,
     "safwanrahman": 70,
     "manxmensch": 73,
-    "schalkneethling": 100,
+    "schalkneethling": 101,
     "kberov": 106,
     "belkacem77": 110,
     "erikrose": 130,
     "craigcook": 166,
     "robhudson": 215,
-    "escattone": 518,
+    "escattone": 521,
     "rlr": 289,
     "openjck": 729,
     "ubernostrum": 506,
@@ -146,7 +146,7 @@
     "lmorchard": 1260,
     "jezdez": 1184,
     "groovecoder": 2098,
-    "jwhitlock": 1526,
+    "jwhitlock": 1529,
     "darkwing": 1863,
     "adusca": 3,
     "Andriy-K": 3,
@@ -170,7 +170,7 @@
     "Kapeli": 2,
     "channy": 2,
     "davidyezsetz": 2,
-    "ExE-Boss": 2,
+    "ExE-Boss": 3,
     "fauzanalfi": 2,
     "herinin-palominodb": 2,
     "inma610": 2,
@@ -302,7 +302,10 @@
     "urbalazs": 1,
     "wingyplus": 1,
     "xcffl": 1,
-    "pl71": 1
+    "pl71": 1,
+    "NadisSadikFahim": 4,
+    "michal-macioszczyk": 1,
+    "tkadlec": 1
   },
   "pulls_authors": [
     "schalkneethling",
@@ -489,15 +492,15 @@
       "color": "#3572A5"
     },
     "HTML": {
-      "bytes": 1669671,
+      "bytes": 1669784,
       "color": "#e34c26"
     },
     "JavaScript": {
-      "bytes": 725006,
+      "bytes": 725009,
       "color": "#f1e05a"
     },
     "CSS": {
-      "bytes": 461362,
+      "bytes": 460709,
       "color": "#563d7c"
     },
     "PHP": {
@@ -521,5 +524,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-12T23:45:12.921Z"
+  "fetched_at": "2018-09-13T16:24:58.165Z"
 }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/jondot/awesome-react-native/languages",
   "pulls_url": "https://api.github.com/repos/jondot/awesome-react-native/pulls{/number}",
   "created_at": "2015-03-26T19:58:06Z",
-  "updated_at": "2018-09-12T23:09:01Z",
-  "pushed_at": "2018-09-12T23:32:54Z",
+  "updated_at": "2018-09-13T13:12:01Z",
+  "pushed_at": "2018-09-13T11:38:07Z",
   "homepage": "http://www.awesome-react-native.com",
   "size": 2601,
-  "stargazers_count": 21234,
+  "stargazers_count": 21243,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -894,7 +894,8 @@
     "jdnichollsc",
     "henninghall",
     "lvlrSajjad",
-    "Gabriel-Araujo"
+    "Gabriel-Araujo",
+    "mobily"
   ],
   "languages": {
     "Ruby": {
@@ -914,5 +915,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-12T23:47:32.327Z"
+  "fetched_at": "2018-09-13T16:27:02.902Z"
 }

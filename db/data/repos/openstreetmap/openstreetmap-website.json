@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/openstreetmap/openstreetmap-website/languages",
   "pulls_url": "https://api.github.com/repos/openstreetmap/openstreetmap-website/pulls{/number}",
   "created_at": "2010-05-01T16:22:12Z",
-  "updated_at": "2018-09-12T17:04:36Z",
-  "pushed_at": "2018-09-12T17:04:26Z",
+  "updated_at": "2018-09-13T09:05:20Z",
+  "pushed_at": "2018-09-13T09:05:10Z",
   "homepage": "https://www.openstreetmap.org/",
-  "size": 312635,
+  "size": 313102,
   "stargazers_count": 825,
   "language": "Ruby",
   "mirror_url": null,
@@ -137,7 +137,7 @@
     "IgnoredAmbience": 79,
     "aaronlidman": 86,
     "bhousel": 87,
-    "translatewiki": 90,
+    "translatewiki": 91,
     "Nikerabbit": 103,
     "SteveC": 148,
     "siebrand": 214,
@@ -147,7 +147,7 @@
     "avar": 342,
     "jfirebaugh": 483,
     "gravitystorm": 501,
-    "tomhughes": 4288,
+    "tomhughes": 4289,
     "hikemaniac": 2,
     "Self-Perfection": 1,
     "AndrewHain": 1,
@@ -403,5 +403,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-12T23:42:23.555Z"
+  "fetched_at": "2018-09-13T16:21:54.283Z"
 }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/hashicorp/packer/languages",
   "pulls_url": "https://api.github.com/repos/hashicorp/packer/pulls{/number}",
   "created_at": "2013-03-23T05:43:03Z",
-  "updated_at": "2018-09-12T22:37:31Z",
-  "pushed_at": "2018-09-12T23:34:11Z",
+  "updated_at": "2018-09-13T00:27:24Z",
+  "pushed_at": "2018-09-13T16:20:04Z",
   "homepage": "http://www.packer.io",
-  "size": 37749,
-  "stargazers_count": 7997,
+  "size": 37755,
+  "stargazers_count": 7998,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -137,14 +137,14 @@
     "markpeek": 106,
     "pearkes": 92,
     "jsoref": 89,
-    "azr": 95,
+    "azr": 96,
     "boumenot": 142,
     "rasa": 157,
     "arizvisa": 95,
     "taliesins": 112,
     "DanHam": 173,
     "rickard-von-essen": 517,
-    "SwampDragons": 674,
+    "SwampDragons": 675,
     "cbednarski": 684,
     "mwhooker": 1531,
     "mitchellh": 3182,
@@ -442,7 +442,8 @@
     "brentrojas": 1,
     "brett-richardson": 1,
     "icycle77": 1,
-    "bdwyertech": 1
+    "bdwyertech": 1,
+    "sparky005": 1
   },
   "pulls_authors": [
     "azr",
@@ -1427,7 +1428,9 @@
     "antonlindstrom",
     "sergiotapia",
     "arturhoo",
-    "garethr"
+    "garethr",
+    "sparky005",
+    "shield-9"
   ],
   "languages": {
     "Go": {
@@ -1471,5 +1474,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-09-12T23:45:46.859Z"
+  "fetched_at": "2018-09-13T16:25:28.517Z"
 }

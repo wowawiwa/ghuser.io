@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/Microsoft/vscode/languages",
   "pulls_url": "https://api.github.com/repos/Microsoft/vscode/pulls{/number}",
   "created_at": "2015-09-03T20:23:38Z",
-  "updated_at": "2018-09-12T23:35:52Z",
-  "pushed_at": "2018-09-12T23:35:21Z",
+  "updated_at": "2018-09-13T16:26:33Z",
+  "pushed_at": "2018-09-13T16:19:26Z",
   "homepage": "https://code.visualstudio.com",
-  "size": 157092,
-  "stargazers_count": 59132,
+  "size": 157287,
+  "stargazers_count": 59189,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -122,32 +122,32 @@
     "Krzysztof-Cieslak": 49,
     "danyeh": 63,
     "cleidigh": 63,
-    "misolori": 83,
+    "misolori": 92,
     "bgashler1": 94,
     "Lixire": 111,
     "JacksonKearl": 156,
     "sbatten": 224,
-    "egamma": 230,
+    "egamma": 231,
     "octref": 243,
     "kieferrm": 243,
     "RMacfarlane": 243,
     "michelkaporin": 311,
     "dstorey": 310,
     "rebornix": 710,
-    "weinand": 694,
+    "weinand": 696,
     "ramya-rao-a": 703,
     "dbaeumer": 752,
     "chrmarti": 708,
     "roblourens": 1586,
     "Tyriar": 2172,
-    "aeschli": 2100,
+    "aeschli": 2102,
     "mjbvz": 2195,
-    "sandy081": 2275,
-    "alexandrudima": 3347,
+    "sandy081": 2287,
+    "alexandrudima": 3352,
     "isidorn": 3454,
-    "jrieken": 4132,
-    "joaomoreno": 4730,
-    "bpasero": 5388,
+    "jrieken": 4136,
+    "joaomoreno": 4758,
+    "bpasero": 5393,
     "melvin0008": 7,
     "noahjg": 7,
     "ihalip": 6,
@@ -426,7 +426,12 @@
     "DavidPortoUP": 1,
     "dericcain": 1,
     "Hirico": 2,
-    "tombasche": 2
+    "tombasche": 2,
+    "jgbright": 2,
+    "raix": 2,
+    "segevfiner": 2,
+    "1AmNegan": 2,
+    "brunofin": 1
   },
   "pulls_authors": [
     "headmelted",
@@ -1550,15 +1555,15 @@
   ],
   "languages": {
     "TypeScript": {
-      "bytes": 18812098,
+      "bytes": 18832406,
       "color": "#2b7489"
     },
     "JavaScript": {
-      "bytes": 942091,
+      "bytes": 941331,
       "color": "#f1e05a"
     },
     "CSS": {
-      "bytes": 497007,
+      "bytes": 497194,
       "color": "#563d7c"
     },
     "Inno Setup": {
@@ -1570,7 +1575,7 @@
       "color": "#e34c26"
     },
     "Shell": {
-      "bytes": 29888,
+      "bytes": 29954,
       "color": "#89e051"
     },
     "Batchfile": {
@@ -1682,5 +1687,5 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-09-12T23:51:34.548Z"
+  "fetched_at": "2018-09-13T16:31:32.374Z"
 }

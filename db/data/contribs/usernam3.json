@@ -1,6 +1,19 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
   "repos": {
+    "releaseses/releases": {
+      "full_name": "releaseses/releases",
+      "name": "releases",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 90.9090909090909,
+      "maturity": 0,
+      "total_commits_count": 11,
+      "activity": 5,
+      "total_score": 5,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
     "usernam3/meta_commit": {
       "full_name": "usernam3/meta_commit",
       "name": "meta_commit",
@@ -43,13 +56,13 @@
     "Intervention/image": {
       "full_name": "Intervention/image",
       "name": "image",
-      "stargazers_count": 7831,
-      "popularity": 4.893806396721718,
+      "stargazers_count": 7834,
+      "popularity": 4.893972759082301,
       "percentage": 0.2070393374741201,
       "maturity": 3.648237677566432,
       "total_commits_count": 483,
       "activity": 5,
-      "total_score": 27.109611901731522,
+      "total_score": 27.110115466475147,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -81,6 +94,7 @@
     }
   },
   "organizations": [
+    "releaseses",
     "meta-commit",
     "cronboy",
     "Intervention"

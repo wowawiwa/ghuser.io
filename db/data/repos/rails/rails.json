@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/rails/rails/languages",
   "pulls_url": "https://api.github.com/repos/rails/rails/pulls{/number}",
   "created_at": "2008-04-11T02:19:47Z",
-  "updated_at": "2018-09-12T23:22:03Z",
-  "pushed_at": "2018-09-12T23:21:10Z",
+  "updated_at": "2018-09-13T14:13:40Z",
+  "pushed_at": "2018-09-13T14:15:26Z",
   "homepage": "https://rubyonrails.org",
-  "size": 166294,
-  "stargazers_count": 40809,
+  "size": 166324,
+  "stargazers_count": 40819,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -99,10 +99,10 @@
     "fcheung": 149,
     "yhirano55": 148,
     "smartinez87": 148,
-    "yahonda": 153,
+    "yahonda": 157,
     "lukaszx0": 154,
     "claudiob": 260,
-    "arthurnn": 384,
+    "arthurnn": 245,
     "robin850": 280,
     "sikachu": 210,
     "zzak": 443,
@@ -110,12 +110,12 @@
     "seckar": 231,
     "kennyj": 233,
     "yui-knk": 234,
-    "bogdanvlviv": 240,
+    "bogdanvlviv": 241,
     "schneems": 432,
     "georgeclaghorn": 352,
     "chancancode": 358,
     "ffmike": 248,
-    "eileencodes": 591,
+    "eileencodes": 592,
     "maclover7": 465,
     "matthewd": 789,
     "guilleiguaran": 791,
@@ -141,11 +141,11 @@
     "carlosantoniodasilva": 1449,
     "lifo": 993,
     "josh": 1109,
-    "kamipo": 1608,
+    "kamipo": 1612,
     "josevalim": 2574,
-    "fxn": 2202,
-    "rafaelfranca": 5743,
-    "jeremy": 3723,
+    "fxn": 2203,
+    "rafaelfranca": 5748,
+    "jeremy": 3724,
     "dhh": 4233,
     "tenderlove": 4901,
     "Empact": 47,
@@ -309,7 +309,7 @@
     "egilburg": 13,
     "razielgn": 13,
     "csshsh": 13,
-    "gregmolnar": 13,
+    "gregmolnar": 14,
     "DefV": 13,
     "javiervidal": 13,
     "jeffkreeftmeijer": 13,
@@ -5238,11 +5238,13 @@
     "marsuboss",
     "rigani",
     "nydame",
-    "LucasBrandt"
+    "LucasBrandt",
+    "gkemmey",
+    "ritikesh"
   ],
   "languages": {
     "Ruby": {
-      "bytes": 12107066,
+      "bytes": 12113952,
       "color": "#701516"
     },
     "HTML": {
@@ -5270,5 +5272,5 @@
       "color": "#4B6C4B"
     }
   },
-  "fetched_at": "2018-09-12T23:47:17.806Z"
+  "fetched_at": "2018-09-13T16:26:47.122Z"
 }

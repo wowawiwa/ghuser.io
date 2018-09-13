@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/openzipkin/zipkin-js/languages",
   "pulls_url": "https://api.github.com/repos/openzipkin/zipkin-js/pulls{/number}",
   "created_at": "2016-05-11T10:28:12Z",
-  "updated_at": "2018-09-04T07:17:17Z",
-  "pushed_at": "2018-09-05T15:09:22Z",
+  "updated_at": "2018-09-13T12:28:21Z",
+  "pushed_at": "2018-09-13T09:51:53Z",
   "homepage": "",
-  "size": 698,
-  "stargazers_count": 245,
+  "size": 699,
+  "stargazers_count": 246,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -89,7 +89,7 @@
     "mkante": 8,
     "sveisvei": 10,
     "yonran": 12,
-    "jcchavezs": 15,
+    "jcchavezs": 16,
     "adriancole": 47
   },
   "pulls_authors": [
@@ -157,7 +157,7 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 247146,
+      "bytes": 248664,
       "color": "#f1e05a"
     },
     "Thrift": {
@@ -165,5 +165,5 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-09-11T00:33:40.396Z"
+  "fetched_at": "2018-09-13T17:01:52.185Z"
 }

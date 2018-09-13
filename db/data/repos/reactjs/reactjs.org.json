@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/reactjs/reactjs.org/languages",
   "pulls_url": "https://api.github.com/repos/reactjs/reactjs.org/pulls{/number}",
   "created_at": "2017-10-06T03:16:04Z",
-  "updated_at": "2018-09-12T23:27:18Z",
-  "pushed_at": "2018-09-12T22:02:08Z",
+  "updated_at": "2018-09-13T14:23:10Z",
+  "pushed_at": "2018-09-13T14:22:33Z",
   "homepage": "https://reactjs.org/",
-  "size": 70402,
-  "stargazers_count": 2271,
+  "size": 70403,
+  "stargazers_count": 2274,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -145,9 +145,9 @@
     "petehunt": 133,
     "alexkrolick": 178,
     "sophiebits": 224,
-    "gaearon": 274,
+    "gaearon": 275,
     "zpao": 478,
-    "bvaughn": 482,
+    "bvaughn": 483,
     "FannyVieira": 4,
     "alextsg": 3,
     "annuhdo": 3,
@@ -325,7 +325,7 @@
     "akatopo": 1,
     "alopatin": 1,
     "piranha": 1,
-    "Shahor": 1,
+    "Shahor": 2,
     "ogonkov": 1,
     "shamrin": 1,
     "alfonsogarciacaro": 1,
@@ -975,7 +975,10 @@
     "Krizzu",
     "drcmda",
     "marcossffilho",
-    "Shahor"
+    "Shahor",
+    "Hocdoc",
+    "meltuhamy",
+    "skyfriends"
   ],
   "languages": {
     "JavaScript": {
@@ -991,5 +994,5 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-12T23:58:18.691Z"
+  "fetched_at": "2018-09-13T16:37:12.409Z"
 }

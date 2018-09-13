@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/prometheus/tsdb/languages",
   "pulls_url": "https://api.github.com/repos/prometheus/tsdb/pulls{/number}",
   "created_at": "2016-11-15T14:50:03Z",
-  "updated_at": "2018-09-12T09:22:32Z",
-  "pushed_at": "2018-09-12T23:21:17Z",
+  "updated_at": "2018-09-13T16:34:33Z",
+  "pushed_at": "2018-09-13T16:34:27Z",
   "homepage": null,
   "size": 5977,
-  "stargazers_count": 424,
+  "stargazers_count": 425,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -68,7 +68,7 @@
     "codwu": 4,
     "BenoitKnecht": 4,
     "krasi-georgiev": 4,
-    "AlekSi": 4,
+    "AlekSi": 5,
     "ranbochen": 4,
     "sunhay": 4,
     "BasPH": 4,
@@ -135,7 +135,7 @@
   ],
   "languages": {
     "Go": {
-      "bytes": 487001,
+      "bytes": 487009,
       "color": "#375eab"
     },
     "Makefile": {
@@ -143,5 +143,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-12T23:57:39.226Z"
+  "fetched_at": "2018-09-13T16:36:40.291Z"
 }

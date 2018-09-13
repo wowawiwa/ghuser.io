@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/laravel/framework/languages",
   "pulls_url": "https://api.github.com/repos/laravel/framework/pulls{/number}",
   "created_at": "2013-01-10T21:27:28Z",
-  "updated_at": "2018-09-12T23:08:06Z",
-  "pushed_at": "2018-09-12T21:46:59Z",
+  "updated_at": "2018-09-13T14:31:25Z",
+  "pushed_at": "2018-09-13T15:37:27Z",
   "homepage": "http://laravel.com",
-  "size": 34914,
-  "stargazers_count": 13816,
+  "size": 34912,
+  "stargazers_count": 13828,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -148,7 +148,7 @@
     "themsaid": 627,
     "lucasmichot": 589,
     "GrahamCampbell": 1366,
-    "taylorotwell": 11983,
+    "taylorotwell": 11985,
     "etcinit": 12,
     "abdumu": 12,
     "chapeupreto": 11,
@@ -320,7 +320,7 @@
     "citricsquid": 5,
     "sisve": 5,
     "scrothers": 5,
-    "stidges": 5,
+    "stidges": 6,
     "ttsuru": 5,
     "thomasruiz": 5,
     "VinceG": 5,
@@ -4089,11 +4089,13 @@
     "magdkudama",
     "aajhiggs",
     "flaviozantut",
-    "MannikJ"
+    "MannikJ",
+    "matthew-inamdar",
+    "thijsvdanker"
   ],
   "languages": {
     "PHP": {
-      "bytes": 5357688,
+      "bytes": 5358368,
       "color": "#4F5D95"
     },
     "HTML": {
@@ -4117,5 +4119,5 @@
       "color": "#878787"
     }
   },
-  "fetched_at": "2018-09-12T23:49:24.118Z"
+  "fetched_at": "2018-09-13T16:28:59.683Z"
 }

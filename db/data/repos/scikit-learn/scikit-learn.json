@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/scikit-learn/scikit-learn/languages",
   "pulls_url": "https://api.github.com/repos/scikit-learn/scikit-learn/pulls{/number}",
   "created_at": "2010-08-17T09:43:38Z",
-  "updated_at": "2018-09-12T22:56:33Z",
-  "pushed_at": "2018-09-12T20:02:20Z",
+  "updated_at": "2018-09-13T15:40:32Z",
+  "pushed_at": "2018-09-13T16:25:47Z",
   "homepage": "http://scikit-learn.org",
-  "size": 94404,
-  "stargazers_count": 30496,
+  "size": 94462,
+  "stargazers_count": 30504,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -56,7 +56,7 @@
     "akshayah3": 15,
     "tjanez": 17,
     "naoyak": 17,
-    "jorisvandenbossche": 17,
+    "jorisvandenbossche": 18,
     "ngoix": 17,
     "perimosocordiae": 17,
     "vinayak-mehta": 17,
@@ -83,7 +83,7 @@
     "rth": 26,
     "JeanKossaifi": 36,
     "jaberg": 27,
-    "adrinjalali": 29,
+    "adrinjalali": 30,
     "lucidfrontier45": 36,
     "eickenberg": 32,
     "trevorstephens": 33,
@@ -124,7 +124,7 @@
     "kemaleren": 100,
     "weilinear": 109,
     "dengemann": 113,
-    "qinhanmin2014": 128,
+    "qinhanmin2014": 129,
     "ahojnnes": 137,
     "raghavrv": 140,
     "bdholt1": 144,
@@ -146,7 +146,7 @@
     "larsmans": 1265,
     "GaelVaroquaux": 1415,
     "fabianp": 1596,
-    "ogrisel": 2229,
+    "ogrisel": 2230,
     "amueller": 2009,
     "dubourg": 37,
     "npinto": 34,
@@ -261,7 +261,7 @@
     "nealchau": 5,
     "abatula": 5,
     "cgohlke": 5,
-    "minghui-liu": 5,
+    "minghui-liu": 3,
     "Sentient07": 5,
     "wangz10": 5,
     "pianomania": 5,
@@ -296,7 +296,7 @@
     "jseabold": 4,
     "srivatsan-ramesh": 4,
     "sseg": 4,
-    "thomasjpfan": 4,
+    "thomasjpfan": 5,
     "thouis": 4,
     "musically-ut": 4,
     "vincentpham1991": 4,
@@ -465,7 +465,8 @@
     "MAnyKey": 2,
     "mdbecker": 2,
     "map222": 2,
-    "minggli": 2
+    "minggli": 2,
+    "zjpoh": 4
   },
   "pulls_authors": [
     "JarnoRFB",
@@ -2274,11 +2275,12 @@
     "duchesnay",
     "mbrucher",
     "scampion",
-    "AnneLaureF"
+    "AnneLaureF",
+    "smarie"
   ],
   "languages": {
     "Python": {
-      "bytes": 8120283,
+      "bytes": 8128115,
       "color": "#3572A5"
     },
     "C": {
@@ -2306,5 +2308,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-12T23:49:32.895Z"
+  "fetched_at": "2018-09-13T16:29:08.766Z"
 }

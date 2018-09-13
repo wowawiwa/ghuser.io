@@ -43,13 +43,13 @@
     "ottoyiu/django-cors-headers": {
       "full_name": "ottoyiu/django-cors-headers",
       "name": "django-cors-headers",
-      "stargazers_count": 2456,
-      "popularity": 4.3901082733628405,
+      "stargazers_count": 2457,
+      "popularity": 4.390285132171074,
       "percentage": 0.8658008658008658,
       "maturity": 3.282996098886067,
       "total_commits_count": 231,
       "activity": 5,
-      "total_score": 25.230441758585478,
+      "total_score": 25.230992241196383,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -134,7 +134,7 @@
     "celery/celery": {
       "full_name": "celery/celery",
       "name": "celery",
-      "stargazers_count": 10469,
+      "stargazers_count": 10475,
       "popularity": 5,
       "percentage": 0.013789299503585218,
       "maturity": 4.859798034422787,

@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/turtlecoin/checkpoints/languages",
   "pulls_url": "https://api.github.com/repos/turtlecoin/checkpoints/pulls{/number}",
   "created_at": "2018-04-12T00:46:17Z",
-  "updated_at": "2018-09-10T08:41:40Z",
-  "pushed_at": "2018-09-11T03:04:26Z",
+  "updated_at": "2018-09-13T02:32:30Z",
+  "pushed_at": "2018-09-13T03:03:30Z",
   "homepage": "http://community.turtlecoin.lol",
-  "size": 1727463,
+  "size": 1741697,
   "stargazers_count": 1,
   "language": null,
   "mirror_url": null,
@@ -45,7 +45,7 @@
     "TRTLAlien": 1,
     "zpalmtree": 1,
     "RocksteadyTC": 8,
-    "brandonlehmann": 96
+    "brandonlehmann": 97
   },
   "pulls_authors": [
     "brandonlehmann",
@@ -54,5 +54,5 @@
     "RocksteadyTC"
   ],
   "languages": {},
-  "fetched_at": "2018-09-11T22:35:52.621Z"
+  "fetched_at": "2018-09-13T17:00:19.332Z"
 }

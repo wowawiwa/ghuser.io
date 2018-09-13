@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/spree/spree/languages",
   "pulls_url": "https://api.github.com/repos/spree/spree/pulls{/number}",
   "created_at": "2008-03-10T14:45:35Z",
-  "updated_at": "2018-09-12T13:04:25Z",
-  "pushed_at": "2018-09-12T15:54:20Z",
+  "updated_at": "2018-09-13T15:15:24Z",
+  "pushed_at": "2018-09-13T15:15:16Z",
   "homepage": "https://spreecommerce.org",
-  "size": 88867,
-  "stargazers_count": 9387,
+  "size": 88883,
+  "stargazers_count": 9388,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -113,7 +113,7 @@
     "nimish13": 34,
     "athal7": 35,
     "futhr": 35,
-    "VygovskySergey": 37,
+    "VygovskySergey": 38,
     "iloveitaly": 36,
     "wojtekwisniewski": 39,
     "swistak": 38,
@@ -132,7 +132,7 @@
     "BenMorganIO": 100,
     "GeekOnCoffee": 167,
     "reinaris": 171,
-    "bbonislawski": 282,
+    "bbonislawski": 283,
     "cmar": 184,
     "peterberkenbosch": 220,
     "devilcoders": 210,
@@ -141,7 +141,7 @@
     "davidnorth": 266,
     "LBRapid": 343,
     "romul": 432,
-    "damianlegawiec": 1230,
+    "damianlegawiec": 1233,
     "huoxito": 620,
     "BDQ": 634,
     "joneslee85": 788,
@@ -1316,15 +1316,16 @@
     "ben-ole",
     "rdeshpande",
     "tpo",
-    "jeffp"
+    "jeffp",
+    "avneetmalhotra"
   ],
   "languages": {
     "Ruby": {
-      "bytes": 2493302,
+      "bytes": 2494680,
       "color": "#701516"
     },
     "HTML": {
-      "bytes": 485437,
+      "bytes": 485700,
       "color": "#e34c26"
     },
     "CSS": {
@@ -1348,5 +1349,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-12T16:53:04.672Z"
+  "fetched_at": "2018-09-13T17:04:20.502Z"
 }

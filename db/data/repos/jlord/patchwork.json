@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/jlord/patchwork/languages",
   "pulls_url": "https://api.github.com/repos/jlord/patchwork/pulls{/number}",
   "created_at": "2014-01-10T00:00:11Z",
-  "updated_at": "2018-09-12T19:54:03Z",
-  "pushed_at": "2018-09-12T19:43:01Z",
+  "updated_at": "2018-09-13T16:00:48Z",
+  "pushed_at": "2018-09-13T16:25:01Z",
   "homepage": "http://jlord.github.io/patchwork",
-  "size": 118388,
-  "stargazers_count": 771,
+  "size": 118323,
+  "stargazers_count": 772,
   "language": "HTML",
   "mirror_url": null,
   "archived": false,
@@ -29,7 +29,7 @@
   "default_branch": "gh-pages",
   "contributors": {
     "412369197": 8,
-    "reporobot": 94244,
+    "reporobot": 94276,
     "hnhkrch": 56,
     "johnarlo": 30,
     "elzbeth": 30,
@@ -22258,11 +22258,27 @@
     "SamuelC28",
     "keirwilliams",
     "keren000",
-    "BlareRobinson"
+    "BlareRobinson",
+    "jerry1646",
+    "MedericCar",
+    "germilasaintjean",
+    "nathaada",
+    "dowpm",
+    "mburr9",
+    "techbabouche",
+    "eTarget1",
+    "andyung17",
+    "gmacfire",
+    "wwtsgng",
+    "MrSeeb",
+    "akroma59",
+    "bmserras",
+    "nerahmou",
+    "juangracia696"
   ],
   "languages": {
     "HTML": {
-      "bytes": 24649,
+      "bytes": 23694,
       "color": "#e34c26"
     },
     "CSS": {
@@ -22270,5 +22286,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-12T23:47:39.122Z"
+  "fetched_at": "2018-09-13T16:27:14.592Z"
 }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/mrdoob/three.js/languages",
   "pulls_url": "https://api.github.com/repos/mrdoob/three.js/pulls{/number}",
   "created_at": "2010-03-23T18:58:01Z",
-  "updated_at": "2018-09-12T23:06:23Z",
-  "pushed_at": "2018-09-12T16:00:19Z",
+  "updated_at": "2018-09-13T16:57:05Z",
+  "pushed_at": "2018-09-13T10:49:11Z",
   "homepage": "https://threejs.org/",
   "size": 681907,
-  "stargazers_count": 44761,
+  "stargazers_count": 44787,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -119,7 +119,7 @@
     "Itee": 180,
     "tschw": 187,
     "zz85": 307,
-    "donmccurdy": 296,
+    "donmccurdy": 300,
     "sunag": 311,
     "gero3": 384,
     "WestLangley": 509,
@@ -128,7 +128,7 @@
     "bhouston": 840,
     "Mugen87": 1074,
     "alteredq": 1753,
-    "mrdoob": 12629,
+    "mrdoob": 12633,
     "julianwa": 14,
     "yaoyao-cn": 14,
     "empaempa": 13,
@@ -404,7 +404,8 @@
     "Densaugeo": 2,
     "Doidel": 2,
     "hypothete": 2,
-    "elwinarens": 2
+    "elwinarens": 2,
+    "panxinmiao": 5
   },
   "pulls_authors": [
     "Itee",
@@ -1924,7 +1925,8 @@
     "markmarkoh",
     "mindlapse",
     "julianwa",
-    "philogb"
+    "philogb",
+    "Venlious"
   ],
   "languages": {
     "JavaScript": {
@@ -1948,5 +1950,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-13T00:23:16.800Z"
+  "fetched_at": "2018-09-13T16:42:04.602Z"
 }

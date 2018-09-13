@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/stylelint/stylelint/languages",
   "pulls_url": "https://api.github.com/repos/stylelint/stylelint/pulls{/number}",
   "created_at": "2014-12-04T16:25:23Z",
-  "updated_at": "2018-09-12T20:13:04Z",
-  "pushed_at": "2018-09-12T13:40:42Z",
+  "updated_at": "2018-09-13T13:58:41Z",
+  "pushed_at": "2018-09-13T13:12:07Z",
   "homepage": "https://stylelint.io/",
-  "size": 8932,
-  "stargazers_count": 5367,
+  "size": 8989,
+  "stargazers_count": 5369,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -140,14 +140,14 @@
     "greenkeeperio-bot": 23,
     "gucong3000": 27,
     "CAYdenberg": 27,
-    "ota-meshi": 42,
+    "ota-meshi": 44,
     "m-allanson": 49,
     "hudochenkov": 76,
     "ntwb": 140,
-    "greenkeeper[bot]": 147,
+    "greenkeeper[bot]": 148,
     "evilebottnawi": 257,
     "davidtheclark": 1275,
-    "jeddy3": 1121,
+    "jeddy3": 1123,
     "adelarsq": 1,
     "adityavm": 1,
     "alanaasmaa": 1,
@@ -472,11 +472,12 @@
     "rafaelrinaldi",
     "YuliaTsareva",
     "gitter-badger",
-    "trollepierre"
+    "trollepierre",
+    "EliazTray"
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 2268858,
+      "bytes": 2273371,
       "color": "#f1e05a"
     },
     "CSS": {
@@ -500,5 +501,5 @@
       "color": "#2b7489"
     }
   },
-  "fetched_at": "2018-09-13T00:01:35.128Z"
+  "fetched_at": "2018-09-13T16:39:40.861Z"
 }

@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/AliceWonderland/hacktoberfest",
   "languages_url": "https://api.github.com/repos/AliceWonderland/hacktoberfest/languages",
   "created_at": "2017-10-04T22:34:49Z",
-  "updated_at": "2018-08-18T05:32:27Z",
-  "pushed_at": "2018-08-12T09:45:13Z",
+  "updated_at": "2018-09-13T04:32:19Z",
+  "pushed_at": "2018-08-24T04:58:01Z",
   "homepage": "",
   "size": 2761,
-  "stargazers_count": 318,
+  "stargazers_count": 319,
   "language": "HTML",
   "mirror_url": null,
   "archived": false,
@@ -467,7 +467,10 @@
     "meghnatolani": 1,
     "MaaikeVR": 1,
     "supermansi": 1,
-    "tanukimusic": 2
+    "tanukimusic": 2,
+    "jos-b": 4,
+    "xorz57": 3,
+    "andreareed": 1
   },
   "languages": {
     "HTML": {
@@ -727,7 +730,7 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-08-18T09:21:53.500Z",
+  "fetched_at": "2018-09-13T17:00:26.681Z",
   "pulls_url": "https://api.github.com/repos/AliceWonderland/hacktoberfest/pulls{/number}",
   "pulls_authors": [
     "eugeneogongo",
@@ -3064,6 +3067,7 @@
     "dzials",
     "redxtech",
     "xorz57",
-    "fbenariac"
+    "fbenariac",
+    "sbenstewart"
   ]
 }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/golang/go/languages",
   "pulls_url": "https://api.github.com/repos/golang/go/pulls{/number}",
   "created_at": "2014-08-19T04:33:40Z",
-  "updated_at": "2018-09-12T22:35:03Z",
-  "pushed_at": "2018-09-12T22:03:52Z",
+  "updated_at": "2018-09-13T16:22:52Z",
+  "pushed_at": "2018-09-13T16:22:38Z",
   "homepage": "https://golang.org",
-  "size": 184392,
-  "stargazers_count": 46775,
+  "size": 184450,
+  "stargazers_count": 46809,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -100,20 +100,20 @@
     "rhencke": 67,
     "DanielMorsing": 69,
     "Quasilyte": 70,
-    "laboger": 72,
+    "laboger": 73,
     "bcmills": 74,
     "atomsymbol": 74,
     "kardianos": 76,
     "benshi001": 85,
     "rogpeppe": 86,
     "mattn": 87,
-    "odeke-em": 98,
-    "alandonovan": 102,
+    "odeke-em": 99,
+    "alandonovan": 103,
     "TocarIP": 107,
     "tzneal": 108,
     "hirochachacha": 118,
     "hyangah": 128,
-    "tklauser": 130,
+    "tklauser": 131,
     "mpvl": 134,
     "eliasnaur": 140,
     "niemeyer": 140,
@@ -123,7 +123,7 @@
     "dsnet": 200,
     "ALTree": 208,
     "mundaym": 210,
-    "0intro": 210,
+    "0intro": 211,
     "mvdan": 213,
     "mwhudson": 259,
     "cherrymui": 275,
@@ -143,10 +143,10 @@
     "aclements": 1130,
     "josharian": 1122,
     "adg": 1184,
-    "ianlancetaylor": 1568,
+    "ianlancetaylor": 1570,
     "bradfitz": 2164,
     "robpike": 2933,
-    "griesemer": 2985,
+    "griesemer": 2988,
     "rsc": 6358,
     "bontibon": 26,
     "namusyaka": 25,
@@ -209,7 +209,7 @@
     "pascaldekloe": 11,
     "rauls5382": 11,
     "binarycrusader": 11,
-    "erifan": 12,
+    "erifan": 15,
     "crvv": 11,
     "fiam": 10,
     "LK4D4": 10,
@@ -705,11 +705,12 @@
     "marcopeereboom",
     "adg",
     "odeke-em",
-    "cn007b"
+    "cn007b",
+    "ivy"
   ],
   "languages": {
     "Go": {
-      "bytes": 40785117,
+      "bytes": 40816584,
       "color": "#375eab"
     },
     "Assembly": {
@@ -773,5 +774,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-12T23:43:16.207Z"
+  "fetched_at": "2018-09-13T16:23:07.739Z"
 }

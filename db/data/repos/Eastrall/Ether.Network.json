@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/Eastrall/Ether.Network/languages",
   "pulls_url": "https://api.github.com/repos/Eastrall/Ether.Network/pulls{/number}",
   "created_at": "2016-10-28T07:31:34Z",
-  "updated_at": "2018-09-05T08:38:47Z",
-  "pushed_at": "2018-08-16T04:39:52Z",
+  "updated_at": "2018-09-13T06:25:16Z",
+  "pushed_at": "2018-09-13T06:25:14Z",
   "homepage": "",
-  "size": 338,
+  "size": 345,
   "stargazers_count": 132,
   "language": "C#",
   "mirror_url": null,
@@ -35,7 +35,8 @@
     "johmarjac": 4,
     "TheToor": 4,
     "carlst99": 7,
-    "Eastrall": 193
+    "Eastrall": 196,
+    "ivanroubicek": 2
   },
   "pulls_authors": [
     "ivanroubicek",
@@ -52,13 +53,9 @@
   ],
   "languages": {
     "C#": {
-      "bytes": 90193,
+      "bytes": 90232,
       "color": "#178600"
-    },
-    "Shell": {
-      "bytes": 563,
-      "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T04:56:11.512Z"
+  "fetched_at": "2018-09-13T16:22:48.483Z"
 }

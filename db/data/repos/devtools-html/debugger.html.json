@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/devtools-html/debugger.html/languages",
   "pulls_url": "https://api.github.com/repos/devtools-html/debugger.html/pulls{/number}",
   "created_at": "2016-03-23T18:55:36Z",
-  "updated_at": "2018-09-12T08:56:09Z",
-  "pushed_at": "2018-09-12T12:29:13Z",
+  "updated_at": "2018-09-13T16:39:19Z",
+  "pushed_at": "2018-09-13T16:39:12Z",
   "homepage": "https://devtools-html.github.io/debugger.html/",
-  "size": 27488,
-  "stargazers_count": 4001,
+  "size": 27493,
+  "stargazers_count": 4005,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -147,7 +147,7 @@
     "clarkbw": 144,
     "jlongster": 239,
     "darkwing": 233,
-    "jasonLaster": 1695,
+    "jasonLaster": 1696,
     "borian": 3,
     "CharlesStocky": 3,
     "Jiberson": 3,
@@ -166,7 +166,7 @@
     "dadaa": 2,
     "Erica42": 2,
     "gavlu": 2,
-    "digitarald": 2,
+    "digitarald": 3,
     "hzoo": 2,
     "jfo": 2,
     "joel-bentley": 2,
@@ -190,7 +190,7 @@
     "tommai78101": 2,
     "WenInCode": 2,
     "virzen": 2,
-    "yzen": 3,
+    "yzen": 4,
     "zystvan": 2,
     "aagandhi1": 2,
     "ajstrand": 2,
@@ -688,7 +688,7 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 4701860,
+      "bytes": 4701872,
       "color": "#f1e05a"
     },
     "CSS": {
@@ -724,5 +724,5 @@
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-09-12T15:53:40.448Z"
+  "fetched_at": "2018-09-13T16:40:28.367Z"
 }

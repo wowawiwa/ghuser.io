@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/travis-ci/travis-api/languages",
   "pulls_url": "https://api.github.com/repos/travis-ci/travis-api/pulls{/number}",
   "created_at": "2012-07-18T12:55:46Z",
-  "updated_at": "2018-09-05T18:55:13Z",
-  "pushed_at": "2018-09-05T18:55:08Z",
+  "updated_at": "2018-09-13T15:22:16Z",
+  "pushed_at": "2018-09-13T16:12:34Z",
   "homepage": "https://api.travis-ci.org",
-  "size": 7472,
+  "size": 7483,
   "stargazers_count": 226,
   "language": "Ruby",
   "mirror_url": null,
@@ -73,7 +73,7 @@
     "jchromik": 5,
     "lislis": 8,
     "clekstro": 8,
-    "backspace": 13,
+    "backspace": 14,
     "MultifokalHirn": 13,
     "jsoref": 22,
     "bnferguson": 29,
@@ -156,7 +156,7 @@
   ],
   "languages": {
     "Ruby": {
-      "bytes": 1923191,
+      "bytes": 1923195,
       "color": "#701516"
     },
     "HTML": {
@@ -168,5 +168,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-11T17:08:23.967Z"
+  "fetched_at": "2018-09-13T16:28:20.208Z"
 }

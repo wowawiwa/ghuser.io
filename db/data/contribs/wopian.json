@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "amio/badgen": {
+      "full_name": "amio/badgen",
+      "name": "badgen",
+      "stargazers_count": 342,
+      "popularity": 3.5329207966015987,
+      "percentage": 0.966183574879227,
+      "maturity": 3.224711731486773,
+      "total_commits_count": 207,
+      "activity": 5,
+      "total_score": 22.491934358631685,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "toddmotto/public-apis": {
+      "full_name": "toddmotto/public-apis",
+      "name": "public-apis",
+      "stargazers_count": 42024,
+      "popularity": 5,
+      "percentage": 0.05678591709256105,
+      "maturity": 4.237542322529022,
+      "total_commits_count": 1761,
+      "activity": 5,
+      "total_score": 28.511995491168207,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "kentcdodds/cross-env": {
+      "full_name": "kentcdodds/cross-env",
+      "name": "cross-env",
+      "stargazers_count": 2978,
+      "popularity": 4.473832510068635,
+      "percentage": 2.3529411764705883,
+      "maturity": 2.6559090182261387,
+      "total_commits_count": 85,
+      "activity": 5,
+      "total_score": 25.101781981502704,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Codeusa/SteamCleaner": {
+      "full_name": "Codeusa/SteamCleaner",
+      "name": "SteamCleaner",
+      "stargazers_count": 1255,
+      "popularity": 4.098371253384229,
+      "percentage": 0,
+      "maturity": 2.1509431413585514,
+      "total_commits_count": 54,
+      "activity": 5,
+      "total_score": 21.59700004286979,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": []
+}

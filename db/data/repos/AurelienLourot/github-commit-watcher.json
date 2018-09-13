@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/AurelienLourot/github-commit-watcher",
   "languages_url": "https://api.github.com/repos/AurelienLourot/github-commit-watcher/languages",
   "created_at": "2015-07-05T09:07:14Z",
-  "updated_at": "2018-09-11T03:57:48Z",
-  "pushed_at": "2018-08-08T14:33:25Z",
+  "updated_at": "2018-09-13T14:59:48Z",
+  "pushed_at": "2018-09-13T14:59:47Z",
   "homepage": "http://a.ghuser.io/gicowa/",
-  "size": 141,
+  "size": 142,
   "stargazers_count": 14,
   "language": "Python",
   "mirror_url": null,
@@ -28,7 +28,7 @@
   "default_branch": "master",
   "contributors": {
     "cassiodoroVicinetti": 1,
-    "AurelienLourot": 99
+    "AurelienLourot": 100
   },
   "languages": {
     "Python": {
@@ -41,14 +41,14 @@
     }
   },
   "settings": {
-    "_comment": "Repo metadata for ghuser.io. See https://github.com/AurelienLourot/ghuser.io/blob/master/docs/repo-settings.md",
+    "_comment": "Repo metadata for ghuser.io. See https://github.com/ghuser-io/ghuser.io/blob/master/docs/repo-settings.md",
     "avatar_url": "https://rawgit.com/AurelienLourot/github-commit-watcher/master/github_icon.png",
     "techs": [
       "GitHub API",
       "Travis CI"
     ]
   },
-  "fetched_at": "2018-09-11T10:32:51.138Z",
+  "fetched_at": "2018-09-13T16:24:13.322Z",
   "pulls_url": "https://api.github.com/repos/AurelienLourot/github-commit-watcher/pulls{/number}",
   "pulls_authors": [
     "cassiodoroVicinetti"

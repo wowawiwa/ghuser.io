@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/gitlabhq/gitlab-ci/languages",
   "pulls_url": "https://api.github.com/repos/gitlabhq/gitlab-ci/pulls{/number}",
   "created_at": "2012-10-10T09:00:53Z",
-  "updated_at": "2018-09-02T21:42:36Z",
+  "updated_at": "2018-09-13T06:57:58Z",
   "pushed_at": "2016-05-14T19:36:38Z",
   "homepage": "https://gitlab.com/gitlab-org/gitlab-ce/issues",
   "size": 5714,
-  "stargazers_count": 1492,
+  "stargazers_count": 1493,
   "language": "Ruby",
   "mirror_url": null,
   "archived": true,
@@ -333,5 +333,5 @@
       "color": "#244776"
     }
   },
-  "fetched_at": "2018-09-05T13:06:57.191Z"
+  "fetched_at": "2018-09-13T16:38:47.236Z"
 }

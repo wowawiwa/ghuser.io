@@ -10,8 +10,8 @@
   "url": "https://api.github.com/repos/AurelienLourot/google-input-tools-large-keyboard",
   "languages_url": "https://api.github.com/repos/AurelienLourot/google-input-tools-large-keyboard/languages",
   "created_at": "2017-11-11T13:55:42Z",
-  "updated_at": "2018-09-12T08:10:42Z",
-  "pushed_at": "2018-09-12T08:10:41Z",
+  "updated_at": "2018-09-13T15:17:55Z",
+  "pushed_at": "2018-09-13T15:17:54Z",
   "homepage": "",
   "size": 495,
   "stargazers_count": 1,
@@ -27,7 +27,7 @@
   },
   "default_branch": "master",
   "contributors": {
-    "AurelienLourot": 37
+    "AurelienLourot": 38
   },
   "languages": {
     "JavaScript": {
@@ -48,13 +48,13 @@
     }
   },
   "settings": {
-    "_comment": "Repo metadata for ghuser.io. See https://github.com/AurelienLourot/ghuser.io/blob/master/docs/repo-settings.md",
+    "_comment": "Repo metadata for ghuser.io. See https://github.com/ghuser-io/ghuser.io/blob/master/docs/repo-settings.md",
     "avatar_url": "https://rawgit.com/AurelienLourot/google-input-tools-large-keyboard/master/thirdparty/icon280.png",
     "techs": [
       "Chrome Extensions"
     ]
   },
-  "fetched_at": "2018-09-12T15:34:24.710Z",
+  "fetched_at": "2018-09-13T16:24:13.586Z",
   "pulls_url": "https://api.github.com/repos/AurelienLourot/google-input-tools-large-keyboard/pulls{/number}",
   "pulls_authors": []
 }

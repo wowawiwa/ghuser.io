@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/facebook/nuclide/languages",
   "pulls_url": "https://api.github.com/repos/facebook/nuclide/pulls{/number}",
   "created_at": "2015-03-02T05:25:27Z",
-  "updated_at": "2018-09-12T22:19:13Z",
-  "pushed_at": "2018-09-12T22:19:10Z",
+  "updated_at": "2018-09-13T16:00:32Z",
+  "pushed_at": "2018-09-13T16:00:30Z",
   "homepage": "https://nuclide.io",
   "size": 163477,
-  "stargazers_count": 7891,
+  "stargazers_count": 7892,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -112,7 +112,7 @@
     "oclbdk": 50,
     "drmathochist": 53,
     "kevinatorchen": 56,
-    "evangrayk": 69,
+    "evangrayk": 70,
     "rightparen": 69,
     "reesjones": 75,
     "zardra": 76,
@@ -121,18 +121,18 @@
     "rageandqq": 92,
     "tyangliu": 102,
     "captbaritone": 112,
-    "semmypurewal": 115,
+    "semmypurewal": 116,
     "vjeux": 118,
     "jamesgpearce": 124,
     "Goom11": 128,
     "scv119": 149,
-    "aaronabramov": 144,
+    "aaronabramov": 145,
     "JoelMarcey": 148,
     "ljw1004": 174,
     "velocityboy": 193,
     "shushz": 195,
     "aadisriram": 215,
-    "pelmers": 229,
+    "pelmers": 231,
     "a20012251": 239,
     "yinghuitan": 278,
     "wbinnssmith": 294,
@@ -146,7 +146,7 @@
     "zertosh": 854,
     "mostafaeweda": 951,
     "nmote": 983,
-    "matthewwithanm": 1264,
+    "matthewwithanm": 1265,
     "hansonw": 1551,
     "allen12": 2,
     "calebmer": 2,
@@ -285,7 +285,8 @@
     "jzheng636": 1,
     "lutherism": 1,
     "marudor": 1,
-    "teppeis": 1
+    "teppeis": 1,
+    "samjohnson": 1
   },
   "pulls_authors": [
     "Xanewok",
@@ -435,7 +436,7 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 8826959,
+      "bytes": 8837673,
       "color": "#f1e05a"
     },
     "Python": {
@@ -487,5 +488,5 @@
       "color": "#4F5D95"
     }
   },
-  "fetched_at": "2018-09-12T23:46:28.839Z"
+  "fetched_at": "2018-09-13T16:26:06.183Z"
 }

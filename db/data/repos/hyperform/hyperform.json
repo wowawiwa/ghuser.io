@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/hyperform/hyperform/languages",
   "pulls_url": "https://api.github.com/repos/hyperform/hyperform/pulls{/number}",
   "created_at": "2016-04-14T19:43:05Z",
-  "updated_at": "2018-09-11T18:40:59Z",
-  "pushed_at": "2018-08-27T09:11:23Z",
+  "updated_at": "2018-09-13T15:09:57Z",
+  "pushed_at": "2018-09-13T15:09:55Z",
   "homepage": "https://hyperform.js.org",
-  "size": 1960,
+  "size": 2002,
   "stargazers_count": 657,
   "language": "JavaScript",
   "mirror_url": null,
@@ -54,7 +54,7 @@
     "farneman": 1,
     "mmcev106": 1,
     "pvnr0082t": 1,
-    "Boldewyn": 378
+    "Boldewyn": 390
   },
   "pulls_authors": [
     "niftylettuce",
@@ -71,15 +71,15 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 127921,
+      "bytes": 132050,
       "color": "#f1e05a"
     },
     "Makefile": {
-      "bytes": 2309,
+      "bytes": 2393,
       "color": "#427819"
     },
     "HTML": {
-      "bytes": 914,
+      "bytes": 961,
       "color": "#e34c26"
     },
     "CSS": {
@@ -87,5 +87,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-12T04:57:51.047Z"
+  "fetched_at": "2018-09-13T16:24:52.911Z"
 }

@@ -1,16 +1,16 @@
 {
   "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
   "repos": {
-    "channelcat/sanic": {
-      "full_name": "channelcat/sanic",
+    "huge-success/sanic": {
+      "full_name": "huge-success/sanic",
       "name": "sanic",
-      "stargazers_count": 10214,
+      "stargazers_count": 10219,
       "popularity": 5,
-      "percentage": 0.06184291898577613,
-      "maturity": 4.199595440471973,
-      "total_commits_count": 1617,
+      "percentage": 0.061690314620604564,
+      "maturity": 4.200695547682062,
+      "total_commits_count": 1621,
       "activity": 5,
-      "total_score": 28.4393887782847,
+      "total_score": 28.44148979986752,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -56,13 +56,13 @@
     "aksonov/react-native-router-flux": {
       "full_name": "aksonov/react-native-router-flux",
       "name": "react-native-router-flux",
-      "stargazers_count": 7568,
-      "popularity": 4.878968561388198,
-      "percentage": 0.13315579227696406,
-      "maturity": 3.8536667535638025,
-      "total_commits_count": 751,
+      "stargazers_count": 7574,
+      "popularity": 4.879312779698514,
+      "percentage": 0.13280212483399734,
+      "maturity": 3.854886512054834,
+      "total_commits_count": 753,
       "activity": 5,
-      "total_score": 27.428695371449383,
+      "total_score": 27.431949166838784,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

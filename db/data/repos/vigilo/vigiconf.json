@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/vigilo/vigiconf/languages",
   "pulls_url": "https://api.github.com/repos/vigilo/vigiconf/pulls{/number}",
   "created_at": "2015-07-12T16:10:51Z",
-  "updated_at": "2018-09-12T01:26:24Z",
-  "pushed_at": "2018-09-12T01:26:22Z",
+  "updated_at": "2018-09-13T01:17:40Z",
+  "pushed_at": "2018-09-13T01:17:39Z",
   "homepage": "https://www.vigilo-nms.org/",
-  "size": 2207,
+  "size": 2208,
   "stargazers_count": 2,
   "language": "Python",
   "mirror_url": null,
@@ -50,12 +50,12 @@
   "contributors": {
     "vquemener": 9,
     "tburguie": 109,
-    "fpoirotte": 377
+    "fpoirotte": 378
   },
   "pulls_authors": [],
   "languages": {
     "Python": {
-      "bytes": 619567,
+      "bytes": 619581,
       "color": "#3572A5"
     },
     "Shell": {
@@ -71,5 +71,5 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-09-12T07:44:27.264Z"
+  "fetched_at": "2018-09-13T17:04:55.966Z"
 }

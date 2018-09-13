@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/jhipster/generator-jhipster/languages",
   "pulls_url": "https://api.github.com/repos/jhipster/generator-jhipster/pulls{/number}",
   "created_at": "2013-10-21T20:07:22Z",
-  "updated_at": "2018-09-12T20:05:58Z",
-  "pushed_at": "2018-09-12T21:40:56Z",
+  "updated_at": "2018-09-13T16:06:10Z",
+  "pushed_at": "2018-09-13T16:06:04Z",
   "homepage": "https://www.jhipster.tech",
-  "size": 33381,
-  "stargazers_count": 11480,
+  "size": 33452,
+  "stargazers_count": 11489,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -107,7 +107,7 @@
     "bertwin": 23,
     "nkolosnjaji": 23,
     "phouverneyuff": 24,
-    "Tcharl": 30,
+    "Tcharl": 31,
     "geraldhumphries": 29,
     "ramzimaalej": 28,
     "mohamed2a": 28,
@@ -117,7 +117,7 @@
     "mkh1973": 30,
     "dalbelap": 33,
     "vishal423": 36,
-    "hdurix": 36,
+    "hdurix": 37,
     "henri-tremblay": 37,
     "kaidohallik": 41,
     "vivekmore": 51,
@@ -138,16 +138,16 @@
     "LeovR": 194,
     "andidev": 237,
     "atomfrede": 252,
-    "mraible": 264,
+    "mraible": 266,
     "cbornet": 248,
     "jmirc": 349,
-    "PierreBesson": 297,
-    "wmarques": 382,
-    "ruddell": 394,
+    "PierreBesson": 305,
+    "wmarques": 399,
+    "ruddell": 395,
     "sendilkumarn": 568,
-    "pascalgrimaud": 846,
-    "deepu105": 3328,
-    "jdubois": 4578,
+    "pascalgrimaud": 850,
+    "deepu105": 3329,
+    "jdubois": 4581,
     "bfreire": 9,
     "bescott1": 6,
     "drissamri": 6,
@@ -366,7 +366,8 @@
     "Hades32": 1,
     "mhicauber": 1,
     "jonathanba": 3,
-    "amatosg": 2
+    "amatosg": 2,
+    "ndywicki": 3
   },
   "pulls_authors": [
     "ecostanzi",
@@ -921,23 +922,24 @@
     "KoljaTM",
     "bitdeli-chef",
     "philippd",
-    "yesnault"
+    "yesnault",
+    "DjayDev"
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 1239171,
+      "bytes": 1240629,
       "color": "#f1e05a"
     },
     "Java": {
-      "bytes": 1090468,
+      "bytes": 1095075,
       "color": "#b07219"
     },
     "TypeScript": {
-      "bytes": 926078,
+      "bytes": 926801,
       "color": "#2b7489"
     },
     "HTML": {
-      "bytes": 434182,
+      "bytes": 434241,
       "color": "#e34c26"
     },
     "CSS": {
@@ -953,5 +955,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-12T23:58:37.795Z"
+  "fetched_at": "2018-09-13T16:37:27.813Z"
 }

@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/redhat-developer/rh-che/languages",
   "pulls_url": "https://api.github.com/repos/redhat-developer/rh-che/pulls{/number}",
   "created_at": "2016-11-08T14:09:37Z",
-  "updated_at": "2018-09-12T09:54:49Z",
-  "pushed_at": "2018-09-12T12:07:01Z",
+  "updated_at": "2018-09-13T13:04:20Z",
+  "pushed_at": "2018-09-13T15:12:52Z",
   "homepage": "",
-  "size": 3935,
+  "size": 3964,
   "stargazers_count": 24,
   "language": "Java",
   "mirror_url": null,
@@ -68,12 +68,12 @@
     "ScrewTSW": 21,
     "garagatyi": 21,
     "sleshchenko": 25,
-    "amisevsk": 27,
+    "amisevsk": 36,
     "benoitf": 33,
     "sunix": 49,
     "l0rd": 87,
     "ibuziuk": 88,
-    "davidfestal": 94
+    "davidfestal": 95
   },
   "pulls_authors": [
     "Katka92",
@@ -111,16 +111,16 @@
   ],
   "languages": {
     "Java": {
-      "bytes": 205550,
+      "bytes": 208255,
       "color": "#b07219"
-    },
-    "Shell": {
-      "bytes": 80417,
-      "color": "#89e051"
     },
     "JavaScript": {
       "bytes": 76151,
       "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 53685,
+      "color": "#89e051"
     },
     "HTML": {
       "bytes": 10772,
@@ -143,5 +143,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-12T15:48:31.656Z"
+  "fetched_at": "2018-09-13T16:35:58.982Z"
 }

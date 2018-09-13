@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/tox-dev/tox/languages",
   "pulls_url": "https://api.github.com/repos/tox-dev/tox/pulls{/number}",
   "created_at": "2016-09-17T16:54:22Z",
-  "updated_at": "2018-09-12T22:26:57Z",
-  "pushed_at": "2018-09-12T22:26:55Z",
+  "updated_at": "2018-09-13T09:40:28Z",
+  "pushed_at": "2018-09-13T09:40:26Z",
   "homepage": "https://tox.readthedocs.io",
-  "size": 9697,
-  "stargazers_count": 618,
+  "size": 9698,
+  "stargazers_count": 620,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -145,7 +145,7 @@
     "jurko-gospodnetic": 20,
     "asottile": 37,
     "msabramo": 50,
-    "gaborbernat": 75,
+    "gaborbernat": 76,
     "obestwalter": 207,
     "hpk42": 681,
     "invalid-email-address": 11,
@@ -266,7 +266,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 345420,
+      "bytes": 345277,
       "color": "#3572A5"
     },
     "HTML": {
@@ -274,5 +274,5 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-12T23:55:05.638Z"
+  "fetched_at": "2018-09-13T16:34:37.836Z"
 }

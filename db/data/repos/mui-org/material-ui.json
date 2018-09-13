@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/mui-org/material-ui/languages",
   "pulls_url": "https://api.github.com/repos/mui-org/material-ui/pulls{/number}",
   "created_at": "2014-08-18T19:11:54Z",
-  "updated_at": "2018-09-12T22:11:37Z",
-  "pushed_at": "2018-09-12T22:11:29Z",
+  "updated_at": "2018-09-13T16:24:25Z",
+  "pushed_at": "2018-09-13T15:59:50Z",
   "homepage": "https://material-ui.com/",
   "size": 48777,
-  "stargazers_count": 40268,
+  "stargazers_count": 40287,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -113,7 +113,7 @@
     "ButuzGOL": 13,
     "stunaz": 13,
     "misha-panyushkin": 13,
-    "adeelibr": 14,
+    "adeelibr": 15,
     "louy": 15,
     "ArcanisCz": 15,
     "marnusw": 15,
@@ -123,7 +123,7 @@
     "kgregory": 17,
     "mikepb": 20,
     "igorbt": 19,
-    "eps1lon": 24,
+    "eps1lon": 25,
     "yulric": 23,
     "theosherry": 24,
     "castrolol": 26,
@@ -409,7 +409,7 @@
     "Bartekus": 1,
     "mim-Armand": 1,
     "artarmstrong": 1,
-    "hashwin": 1,
+    "hashwin": 2,
     "amcgee": 1,
     "avetisk": 1,
     "BLipscomb": 1,
@@ -2083,11 +2083,12 @@
     "aaronshaf",
     "MukundhanSampath",
     "bcapinski",
-    "iamhosseindhv"
+    "iamhosseindhv",
+    "sethduncan"
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 4041948,
+      "bytes": 4044694,
       "color": "#f1e05a"
     },
     "TypeScript": {
@@ -2103,5 +2104,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-13T00:28:57.478Z"
+  "fetched_at": "2018-09-13T17:04:41.924Z"
 }

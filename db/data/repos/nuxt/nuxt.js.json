@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/nuxt/nuxt.js/languages",
   "pulls_url": "https://api.github.com/repos/nuxt/nuxt.js/pulls{/number}",
   "created_at": "2016-10-26T11:18:47Z",
-  "updated_at": "2018-09-12T22:44:12Z",
-  "pushed_at": "2018-09-12T20:07:37Z",
+  "updated_at": "2018-09-13T15:07:39Z",
+  "pushed_at": "2018-09-13T16:04:01Z",
   "homepage": "https://nuxtjs.org",
-  "size": 6131,
-  "stargazers_count": 14713,
+  "size": 6278,
+  "stargazers_count": 14724,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -143,9 +143,9 @@
     "pimlie": 12,
     "ricardogobbosouza": 21,
     "galvez": 21,
-    "manniL": 29,
+    "manniL": 31,
     "alexchopin": 74,
-    "clarkdo": 476,
+    "clarkdo": 481,
     "pi0": 841,
     "Atinux": 1258,
     "farnabaz": 1,
@@ -398,7 +398,7 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 301178,
+      "bytes": 301282,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -410,5 +410,5 @@
       "color": "#2c3e50"
     }
   },
-  "fetched_at": "2018-09-12T23:42:47.566Z"
+  "fetched_at": "2018-09-13T16:22:30.177Z"
 }

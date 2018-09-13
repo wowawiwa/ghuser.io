@@ -69,13 +69,13 @@
     "nuxt/nuxt.js": {
       "full_name": "nuxt/nuxt.js",
       "name": "nuxt.js",
-      "stargazers_count": 14713,
+      "stargazers_count": 14724,
       "popularity": 5,
-      "percentage": 0.03293807641633729,
-      "maturity": 4.478292565368824,
-      "total_commits_count": 3036,
+      "percentage": 0.03286230693394676,
+      "maturity": 4.479306054886548,
+      "total_commits_count": 3043,
       "activity": 5,
-      "total_score": 28.977994880408268,
+      "total_score": 28.97997260928016,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -95,7 +95,7 @@
     "standard/standard": {
       "full_name": "standard/standard",
       "name": "standard",
-      "stargazers_count": 19103,
+      "stargazers_count": 19112,
       "popularity": 5,
       "percentage": 0.14587892049598833,
       "maturity": 4.125946871863987,

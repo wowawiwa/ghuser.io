@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/twbs/bootstrap/languages",
   "pulls_url": "https://api.github.com/repos/twbs/bootstrap/pulls{/number}",
   "created_at": "2011-07-29T21:19:00Z",
-  "updated_at": "2018-09-12T23:37:31Z",
-  "pushed_at": "2018-09-12T16:21:42Z",
+  "updated_at": "2018-09-13T16:00:04Z",
+  "pushed_at": "2018-09-13T15:01:42Z",
   "homepage": "http://getbootstrap.com",
-  "size": 126263,
-  "stargazers_count": 127317,
+  "size": 126270,
+  "stargazers_count": 127338,
   "language": "CSS",
   "mirror_url": null,
   "archived": false,
@@ -134,7 +134,7 @@
     "MartijnCuppens": 39,
     "pvdlg": 59,
     "pat270": 49,
-    "andresgalante": 50,
+    "andresgalante": 51,
     "Quy": 59,
     "vsn4ik": 63,
     "kkirsche": 62,
@@ -143,7 +143,7 @@
     "twbs-grunt": 95,
     "hnrch02": 223,
     "patrickhlauke": 292,
-    "Johann-S": 211,
+    "Johann-S": 214,
     "XhmikosR": 860,
     "fat": 1185,
     "cvrebert": 2763,
@@ -3980,15 +3980,17 @@
     "rafbm",
     "davatron5000",
     "mathiasbynens",
-    "nimbupani"
+    "nimbupani",
+    "k-utsumi",
+    "luckygxf"
   ],
   "languages": {
     "CSS": {
-      "bytes": 416161,
+      "bytes": 416484,
       "color": "#563d7c"
     },
     "JavaScript": {
-      "bytes": 386974,
+      "bytes": 384786,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -4008,5 +4010,5 @@
       "color": "#012456"
     }
   },
-  "fetched_at": "2018-09-12T23:42:25.127Z"
+  "fetched_at": "2018-09-13T16:21:55.454Z"
 }

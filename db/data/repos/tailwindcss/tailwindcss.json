@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/tailwindcss/tailwindcss/languages",
   "pulls_url": "https://api.github.com/repos/tailwindcss/tailwindcss/pulls{/number}",
   "created_at": "2017-10-06T14:59:14Z",
-  "updated_at": "2018-09-12T21:31:05Z",
-  "pushed_at": "2018-09-10T18:41:47Z",
+  "updated_at": "2018-09-13T12:28:16Z",
+  "pushed_at": "2018-09-13T12:19:45Z",
   "homepage": "https://tailwindcss.com/",
-  "size": 3579,
-  "stargazers_count": 6379,
+  "size": 3465,
+  "stargazers_count": 6387,
   "language": "CSS",
   "mirror_url": null,
   "archived": false,
@@ -115,7 +115,10 @@
     "MichaelDeBoey": 44,
     "davidhemphill": 46,
     "reinink": 228,
-    "adamwathan": 835
+    "adamwathan": 835,
+    "paulozoom": 1,
+    "scottbedard": 3,
+    "damiani": 4
   },
   "pulls_authors": [
     "scottbedard",
@@ -224,13 +227,13 @@
   ],
   "languages": {
     "CSS": {
-      "bytes": 414611,
+      "bytes": 411192,
       "color": "#563d7c"
     },
     "JavaScript": {
-      "bytes": 141771,
+      "bytes": 142409,
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-12T23:55:27.121Z"
+  "fetched_at": "2018-09-13T16:34:54.880Z"
 }

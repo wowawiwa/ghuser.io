@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/illuminate/database/languages",
   "pulls_url": "https://api.github.com/repos/illuminate/database/pulls{/number}",
   "created_at": "2012-06-05T01:43:19Z",
-  "updated_at": "2018-09-11T19:24:46Z",
-  "pushed_at": "2018-09-11T13:49:34Z",
+  "updated_at": "2018-09-13T14:27:22Z",
+  "pushed_at": "2018-09-13T14:27:20Z",
   "homepage": "",
-  "size": 5803,
-  "stargazers_count": 1561,
+  "size": 5816,
+  "stargazers_count": 1562,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -135,7 +135,7 @@
     "crynobone": 22,
     "vlakoff": 26,
     "anlutro": 30,
-    "staudenmeir": 46,
+    "staudenmeir": 47,
     "acasar": 45,
     "JosephSilber": 88,
     "lucasmichot": 90,
@@ -584,9 +584,9 @@
   ],
   "languages": {
     "PHP": {
-      "bytes": 854201,
+      "bytes": 854176,
       "color": "#4F5D95"
     }
   },
-  "fetched_at": "2018-09-12T05:04:16.576Z"
+  "fetched_at": "2018-09-13T16:34:54.250Z"
 }

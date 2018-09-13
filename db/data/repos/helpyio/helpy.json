@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/helpyio/helpy/languages",
   "pulls_url": "https://api.github.com/repos/helpyio/helpy/pulls{/number}",
   "created_at": "2015-04-01T03:44:22Z",
-  "updated_at": "2018-09-12T01:54:31Z",
-  "pushed_at": "2018-09-12T02:17:41Z",
+  "updated_at": "2018-09-13T16:01:22Z",
+  "pushed_at": "2018-09-12T16:45:26Z",
   "homepage": "http://helpy.io/?source=ghh",
   "size": 86766,
-  "stargazers_count": 1390,
+  "stargazers_count": 1391,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -209,7 +209,8 @@
     "pepjo",
     "dmitryzuev",
     "zefanja",
-    "jtkendall"
+    "jtkendall",
+    "dhoangk07"
   ],
   "languages": {
     "Ruby": {
@@ -237,5 +238,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T07:33:19.459Z"
+  "fetched_at": "2018-09-13T16:30:42.362Z"
 }

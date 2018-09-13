@@ -4,13 +4,13 @@
     "skvark/opencv-python": {
       "full_name": "skvark/opencv-python",
       "name": "opencv-python",
-      "stargazers_count": 429,
-      "popularity": 3.6315843073572642,
+      "stargazers_count": 430,
+      "popularity": 3.6325975940769046,
       "percentage": 95.17241379310344,
       "maturity": 3.399849317475938,
       "total_commits_count": 290,
       "activity": 5,
-      "total_score": 67.62591533218873,
+      "total_score": 67.64149199493409,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -56,13 +56,13 @@
     "pyinstaller/pyinstaller": {
       "full_name": "pyinstaller/pyinstaller",
       "name": "pyinstaller",
-      "stargazers_count": 4460,
-      "popularity": 4.649286299745336,
+      "stargazers_count": 4462,
+      "popularity": 4.649481046271225,
       "percentage": 0.03207184092366902,
       "maturity": 4.793854708945369,
       "total_commits_count": 6236,
       "activity": 5,
-      "total_score": 28.554952769306567,
+      "total_score": 28.555537820848585,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

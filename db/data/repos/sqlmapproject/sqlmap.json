@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/sqlmapproject/sqlmap",
   "languages_url": "https://api.github.com/repos/sqlmapproject/sqlmap/languages",
   "created_at": "2012-06-26T09:52:15Z",
-  "updated_at": "2018-09-12T22:05:30Z",
-  "pushed_at": "2018-09-12T12:39:16Z",
+  "updated_at": "2018-09-13T16:33:07Z",
+  "pushed_at": "2018-09-13T09:41:27Z",
   "homepage": "http://sqlmap.org",
-  "size": 62403,
-  "stargazers_count": 12234,
+  "size": 62391,
+  "stargazers_count": 12243,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -112,14 +112,15 @@
     "Meatballs1": 19,
     "guinslym": 20,
     "inquisb": 1816,
-    "stamparm": 6135,
+    "stamparm": 6137,
     "kxcode": 1,
     "cnotin": 1,
-    "Ehsan-Nezami": 1
+    "Ehsan-Nezami": 1,
+    "xxbing": 1
   },
   "languages": {
     "Python": {
-      "bytes": 1710539,
+      "bytes": 1711355,
       "color": "#3572A5"
     },
     "C": {
@@ -143,7 +144,7 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-09-12T23:54:28.932Z",
+  "fetched_at": "2018-09-13T16:34:04.264Z",
   "pulls_url": "https://api.github.com/repos/sqlmapproject/sqlmap/pulls{/number}",
   "pulls_authors": [
     "stasinopoulos",
@@ -278,6 +279,7 @@
     "ibarria0",
     "ghost",
     "cnotin",
-    "Ehsan-Nezami"
+    "Ehsan-Nezami",
+    "xxbing"
   ]
 }

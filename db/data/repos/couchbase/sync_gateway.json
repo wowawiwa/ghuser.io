@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/couchbase/sync_gateway/languages",
   "pulls_url": "https://api.github.com/repos/couchbase/sync_gateway/pulls{/number}",
   "created_at": "2012-10-04T22:25:43Z",
-  "updated_at": "2018-09-12T16:54:14Z",
-  "pushed_at": "2018-09-11T11:55:48Z",
+  "updated_at": "2018-09-13T16:20:45Z",
+  "pushed_at": "2018-09-13T16:20:42Z",
   "homepage": "https://www.couchbase.com/products/sync-gateway",
   "size": 29672,
-  "stargazers_count": 375,
+  "stargazers_count": 381,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -77,7 +77,7 @@
     "michaelkwok": 19,
     "dustin": 22,
     "jchris": 32,
-    "bbrks": 120,
+    "bbrks": 121,
     "ajres": 386,
     "tleyden": 401,
     "adamcfraser": 467,
@@ -172,5 +172,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-12T23:44:41.415Z"
+  "fetched_at": "2018-09-13T16:24:34.950Z"
 }

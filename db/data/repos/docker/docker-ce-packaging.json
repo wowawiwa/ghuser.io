@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/docker/docker-ce-packaging/languages",
   "pulls_url": "https://api.github.com/repos/docker/docker-ce-packaging/pulls{/number}",
   "created_at": "2017-05-20T03:08:24Z",
-  "updated_at": "2018-09-12T14:19:11Z",
-  "pushed_at": "2018-09-12T14:28:08Z",
+  "updated_at": "2018-09-13T10:13:59Z",
+  "pushed_at": "2018-09-13T10:14:06Z",
   "homepage": "https://www.docker.com/community-edition",
-  "size": 400,
-  "stargazers_count": 43,
+  "size": 399,
+  "stargazers_count": 44,
   "language": "Makefile",
   "mirror_url": null,
   "archived": false,
@@ -52,7 +52,7 @@
     "StefanScherer": 1,
     "tiborvass": 1,
     "crosbymichael": 2,
-    "kolyshkin": 2,
+    "kolyshkin": 3,
     "tophj-ibm": 2,
     "rogaha": 2,
     "cpuguy83": 2,
@@ -89,7 +89,8 @@
     "tianon",
     "cpuguy83",
     "StefanScherer",
-    "tych0"
+    "tych0",
+    "xmikus01"
   ],
   "languages": {
     "Makefile": {
@@ -105,5 +106,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T15:50:52.134Z"
+  "fetched_at": "2018-09-13T16:37:57.926Z"
 }

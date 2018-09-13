@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/swoosh/swoosh/languages",
   "pulls_url": "https://api.github.com/repos/swoosh/swoosh/pulls{/number}",
   "created_at": "2016-03-04T23:48:56Z",
-  "updated_at": "2018-09-12T16:42:48Z",
-  "pushed_at": "2018-09-11T07:21:44Z",
+  "updated_at": "2018-09-13T10:55:48Z",
+  "pushed_at": "2018-09-13T10:55:55Z",
   "homepage": "https://hexdocs.pm/swoosh",
-  "size": 904,
-  "stargazers_count": 482,
+  "size": 906,
+  "stargazers_count": 483,
   "language": "Elixir",
   "mirror_url": null,
   "archived": false,
@@ -99,7 +99,7 @@
     "michalmuskala": 3,
     "wojtekmach": 3,
     "nicksanders": 5,
-    "dependabot-bot": 8,
+    "dependabot-bot": 9,
     "dependabot[bot]": 20,
     "barisbalic": 22,
     "princemaple": 64,
@@ -171,7 +171,7 @@
   ],
   "languages": {
     "Elixir": {
-      "bytes": 219630,
+      "bytes": 219637,
       "color": "#6e4a7e"
     },
     "HTML": {
@@ -179,5 +179,5 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-12T23:53:01.023Z"
+  "fetched_at": "2018-09-13T16:32:52.511Z"
 }

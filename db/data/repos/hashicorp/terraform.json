@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/hashicorp/terraform/languages",
   "pulls_url": "https://api.github.com/repos/hashicorp/terraform/pulls{/number}",
   "created_at": "2014-03-13T22:25:48Z",
-  "updated_at": "2018-09-12T22:58:57Z",
-  "pushed_at": "2018-09-12T23:38:35Z",
+  "updated_at": "2018-09-13T15:27:24Z",
+  "pushed_at": "2018-09-13T15:26:50Z",
   "homepage": "https://www.terraform.io/",
-  "size": 138436,
-  "stargazers_count": 13418,
+  "size": 138480,
+  "stargazers_count": 13425,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -85,7 +85,7 @@
     "joshuaspence": 17,
     "clstokes": 18,
     "johnewart": 18,
-    "bflad": 34,
+    "bflad": 37,
     "dharrisio": 19,
     "Bowbaq": 19,
     "ojongerius": 20,
@@ -99,7 +99,7 @@
     "anniehedgpeth": 24,
     "captainill": 23,
     "ColinHebert": 24,
-    "cgriggs01": 38,
+    "cgriggs01": 40,
     "kjmkznr": 26,
     "elblivion": 27,
     "HoardingInfo": 27,
@@ -149,7 +149,7 @@
     "stack72": 2121,
     "mitchellh": 4025,
     "sethvargo": 20,
-    "mildwonkey": 16,
+    "mildwonkey": 17,
     "bobbydeveaux": 13,
     "ryanuber": 13,
     "StephenWeatherford": 13,
@@ -2122,11 +2122,13 @@
     "darron",
     "williamsandrew",
     "alexsomesan",
-    "ned1313"
+    "ned1313",
+    "rodjek",
+    "fabiomatavelli"
   ],
   "languages": {
     "Go": {
-      "bytes": 4634941,
+      "bytes": 4635673,
       "color": "#375eab"
     },
     "HCL": {
@@ -2154,5 +2156,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-12T23:45:46.559Z"
+  "fetched_at": "2018-09-13T16:25:28.308Z"
 }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/coq/coq/languages",
   "pulls_url": "https://api.github.com/repos/coq/coq/pulls{/number}",
   "created_at": "2011-02-17T05:49:37Z",
-  "updated_at": "2018-09-12T15:27:30Z",
-  "pushed_at": "2018-09-12T15:37:13Z",
+  "updated_at": "2018-09-13T16:14:46Z",
+  "pushed_at": "2018-09-13T16:14:19Z",
   "homepage": "https://coq.inria.fr/",
-  "size": 115090,
-  "stargazers_count": 1450,
+  "size": 115165,
+  "stargazers_count": 1452,
   "language": "OCaml",
   "mirror_url": null,
   "archived": false,
@@ -129,7 +129,7 @@
     "jashug": 30,
     "cmangin": 35,
     "xclerc": 61,
-    "vbgl": 50,
+    "vbgl": 52,
     "tchajed": 41,
     "yurug": 79,
     "amintimany": 46,
@@ -138,16 +138,16 @@
     "JasonGross": 299,
     "letouzey": 2013,
     "silene": 418,
-    "Zimmi48": 505,
-    "SkySkimmer": 479,
+    "Zimmi48": 507,
+    "SkySkimmer": 487,
     "pirbo": 438,
     "ejgallego": 599,
     "aspiwack": 558,
-    "maximedenes": 2001,
+    "maximedenes": 2005,
     "gares": 950,
     "mattam82": 1748,
     "herbelin": 7145,
-    "ppedrot": 2557,
+    "ppedrot": 2559,
     "invalid-email-address": 5,
     "bafain": 1,
     "siddharthist": 1,
@@ -277,11 +277,11 @@
   ],
   "languages": {
     "OCaml": {
-      "bytes": 9817142,
+      "bytes": 9819839,
       "color": "#3be133"
     },
     "Coq": {
-      "bytes": 7820093,
+      "bytes": 7821146,
       "color": "#ccc"
     },
     "Shell": {
@@ -353,5 +353,5 @@
       "color": "#64b970"
     }
   },
-  "fetched_at": "2018-09-12T15:53:07.814Z"
+  "fetched_at": "2018-09-13T16:39:56.451Z"
 }

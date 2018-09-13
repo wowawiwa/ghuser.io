@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/crystal-lang/crystal/languages",
   "pulls_url": "https://api.github.com/repos/crystal-lang/crystal/pulls{/number}",
   "created_at": "2012-11-27T17:32:32Z",
-  "updated_at": "2018-09-12T20:01:21Z",
-  "pushed_at": "2018-09-12T22:53:21Z",
+  "updated_at": "2018-09-13T14:18:11Z",
+  "pushed_at": "2018-09-13T14:38:36Z",
   "homepage": "https://crystal-lang.org",
-  "size": 38149,
-  "stargazers_count": 11773,
+  "size": 38124,
+  "stargazers_count": 11776,
   "language": "Crystal",
   "mirror_url": null,
   "archived": false,
@@ -147,7 +147,7 @@
     "MakeNowJust": 271,
     "bcardiff": 324,
     "waj": 781,
-    "asterite": 7006,
+    "asterite": 7008,
     "mamantoha": 3,
     "bebac": 3,
     "iSarCasm": 3,
@@ -352,7 +352,8 @@
     "tbpgr": 1,
     "txe": 1,
     "vyp": 1,
-    "arcage": 1
+    "arcage": 1,
+    "yeeunmariakim": 1
   },
   "pulls_authors": [
     "straight-shoota",
@@ -777,11 +778,12 @@
     "ohjames",
     "prep",
     "yegortimoshenko",
-    "romeroadrian"
+    "romeroadrian",
+    "yeeunmariakim"
   ],
   "languages": {
     "Crystal": {
-      "bytes": 7119030,
+      "bytes": 7119748,
       "color": "#776791"
     },
     "JavaScript": {
@@ -813,5 +815,5 @@
       "color": "#555555"
     }
   },
-  "fetched_at": "2018-09-12T23:48:44.874Z"
+  "fetched_at": "2018-09-13T16:28:20.513Z"
 }

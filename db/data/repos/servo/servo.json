@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/servo/servo/languages",
   "pulls_url": "https://api.github.com/repos/servo/servo/pulls{/number}",
   "created_at": "2012-02-08T19:07:25Z",
-  "updated_at": "2018-09-12T21:32:30Z",
-  "pushed_at": "2018-09-12T23:57:07Z",
+  "updated_at": "2018-09-13T15:59:56Z",
+  "pushed_at": "2018-09-13T16:07:30Z",
   "homepage": "https://servo.org/",
-  "size": 601643,
-  "stargazers_count": 12384,
+  "size": 601982,
+  "stargazers_count": 12388,
   "language": "Rust",
   "mirror_url": null,
   "archived": false,
@@ -124,9 +124,9 @@
     "wafflespeanut": 124,
     "BorisChiou": 126,
     "larsbergstrom": 177,
-    "ferjm": 140,
+    "ferjm": 141,
     "brunoabinader": 147,
-    "paulrouget": 148,
+    "paulrouget": 149,
     "KiChjang": 173,
     "canaltinova": 177,
     "kmcallister": 198,
@@ -142,11 +142,11 @@
     "gw3583": 609,
     "brson": 618,
     "frewsxcv": 583,
-    "jdm": 1041,
+    "jdm": 1042,
     "Manishearth": 1017,
     "pcwalton": 1035,
     "SimonSapin": 1162,
-    "nox": 1481,
+    "nox": 1487,
     "emilio": 1927,
     "Ms2ger": 2840,
     "ajnirp": 32,
@@ -235,7 +235,7 @@
     "timvandermeij": 8,
     "benschulz": 8,
     "jmr0": 8,
-    "paavininanda": 9,
+    "paavininanda": 10,
     "r0e": 8,
     "vectorijk": 8,
     "brainlessdeveloper": 8,
@@ -301,7 +301,7 @@
     "aidanhs": 4,
     "apopiak": 4,
     "eleweek": 4,
-    "AnshulMalik": 5,
+    "AnshulMalik": 6,
     "Swatinem": 4,
     "ben0x539": 4,
     "gilbertw1": 4,
@@ -1523,7 +1523,7 @@
   ],
   "languages": {
     "Rust": {
-      "bytes": 11343399,
+      "bytes": 11350558,
       "color": "#dea584"
     },
     "Python": {
@@ -1587,5 +1587,5 @@
       "color": "#da291c"
     }
   },
-  "fetched_at": "2018-09-12T23:58:59.578Z"
+  "fetched_at": "2018-09-13T16:37:44.881Z"
 }

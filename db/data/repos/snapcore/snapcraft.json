@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/snapcore/snapcraft/languages",
   "pulls_url": "https://api.github.com/repos/snapcore/snapcraft/pulls{/number}",
   "created_at": "2015-10-29T17:23:15Z",
-  "updated_at": "2018-09-12T22:10:03Z",
-  "pushed_at": "2018-09-12T23:35:01Z",
+  "updated_at": "2018-09-13T14:16:40Z",
+  "pushed_at": "2018-09-13T14:22:03Z",
   "homepage": "",
-  "size": 21077,
+  "size": 21083,
   "stargazers_count": 666,
   "language": "Python",
   "mirror_url": null,
@@ -146,8 +146,8 @@
     "mikix": 169,
     "ted-gould": 248,
     "elopio": 222,
-    "kyrofa": 368,
-    "sergiusens": 1104,
+    "kyrofa": 369,
+    "sergiusens": 1106,
     "popey": 1,
     "albertodonato": 1,
     "alextnewman": 1,
@@ -341,7 +341,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 3673994,
+      "bytes": 3676422,
       "color": "#3572A5"
     },
     "Shell": {
@@ -401,5 +401,5 @@
       "color": "#007800"
     }
   },
-  "fetched_at": "2018-09-13T00:26:59.737Z"
+  "fetched_at": "2018-09-13T17:02:53.807Z"
 }

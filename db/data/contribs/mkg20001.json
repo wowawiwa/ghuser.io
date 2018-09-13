@@ -1,0 +1,32 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "jlord/patchwork": {
+      "full_name": "jlord/patchwork",
+      "name": "patchwork",
+      "stargazers_count": 772,
+      "popularity": 3.8871497867091787,
+      "percentage": 0,
+      "maturity": 5,
+      "total_commits_count": 98107,
+      "activity": 5,
+      "total_score": 26.661449360127534,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "SeinopSys/Derpi-Notify": {
+      "full_name": "SeinopSys/Derpi-Notify",
+      "name": "Derpi-Notify",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 17.647058823529413,
+      "maturity": 0,
+      "total_commits_count": 17,
+      "activity": 5,
+      "total_score": 10.513443519992038,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": []
+}

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/webpack/webpack/languages",
   "pulls_url": "https://api.github.com/repos/webpack/webpack/pulls{/number}",
   "created_at": "2012-03-10T10:08:14Z",
-  "updated_at": "2018-09-12T23:54:06Z",
-  "pushed_at": "2018-09-12T15:02:32Z",
+  "updated_at": "2018-09-13T16:21:41Z",
+  "pushed_at": "2018-09-13T11:15:31Z",
   "homepage": "https://webpack.js.org",
-  "size": 17144,
-  "stargazers_count": 43917,
+  "size": 17148,
+  "stargazers_count": 43932,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -148,7 +148,7 @@
     "ooflorent": 138,
     "TheLarkInn": 291,
     "timse": 330,
-    "sokra": 4338,
+    "sokra": 4342,
     "kutyel": 6,
     "about-code": 5,
     "malstoun": 4,
@@ -474,7 +474,8 @@
     "TimHambourger": 1,
     "timkendrick": 1,
     "timneutkens": 1,
-    "tomByrer": 1
+    "tomByrer": 1,
+    "antleblanc": 1
   },
   "pulls_authors": [
     "sokra",
@@ -1220,11 +1221,12 @@
     "waffleio",
     "ForbesLindesay",
     "rdrey",
-    "shezi"
+    "shezi",
+    "antleblanc"
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 1911342,
+      "bytes": 1911668,
       "color": "#f1e05a"
     },
     "WebAssembly": {
@@ -1244,5 +1246,5 @@
       "color": "#244776"
     }
   },
-  "fetched_at": "2018-09-12T23:57:08.892Z"
+  "fetched_at": "2018-09-13T16:36:16.569Z"
 }

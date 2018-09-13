@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/nodejs/node",
   "languages_url": "https://api.github.com/repos/nodejs/node/languages",
   "created_at": "2014-11-26T19:57:11Z",
-  "updated_at": "2018-09-13T00:02:17Z",
-  "pushed_at": "2018-09-12T23:09:39Z",
+  "updated_at": "2018-09-13T16:10:24Z",
+  "pushed_at": "2018-09-13T16:33:35Z",
   "homepage": "https://nodejs.org",
-  "size": 412806,
-  "stargazers_count": 53269,
+  "size": 412855,
+  "stargazers_count": 53297,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -48,11 +48,11 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 7655342,
+      "bytes": 7658496,
       "color": "#f1e05a"
     },
     "C++": {
-      "bytes": 2527989,
+      "bytes": 2529965,
       "color": "#f34b7d"
     },
     "Python": {
@@ -60,7 +60,7 @@
       "color": "#3572A5"
     },
     "C": {
-      "bytes": 432955,
+      "bytes": 434726,
       "color": "#555555"
     },
     "HTML": {
@@ -156,7 +156,7 @@
     "watilde": 48,
     "maclover7": 71,
     "fhinkel": 51,
-    "gabrielschulhof": 62,
+    "gabrielschulhof": 63,
     "yorkie": 57,
     "mmalecki": 58,
     "mcollina": 64,
@@ -172,7 +172,7 @@
     "AndreasMadsen": 104,
     "tniessen": 142,
     "ofrobots": 119,
-    "mhdawson": 123,
+    "mhdawson": 124,
     "felixge": 124,
     "thefourtheye": 137,
     "TimothyGu": 143,
@@ -187,17 +187,17 @@
     "targos": 308,
     "vsemozhetbyt": 282,
     "tjfontaine": 332,
-    "BridgeAR": 357,
+    "BridgeAR": 359,
     "mscdex": 318,
     "rvagg": 324,
     "danbev": 359,
     "trevnorris": 363,
-    "cjihrig": 402,
-    "jasnell": 532,
+    "cjihrig": 403,
+    "jasnell": 533,
     "piscisaureus": 598,
     "addaleax": 701,
     "indutny": 755,
-    "Trott": 1336,
+    "Trott": 1337,
     "isaacs": 1647,
     "bnoordhuis": 2138,
     "ry": 3021,
@@ -572,10 +572,10 @@
     "jquynh": 5,
     "oyyd": 5,
     "tlhunter": 3,
-    "Maledong": 8,
+    "Maledong": 9,
     "TomCoded": 3
   },
-  "fetched_at": "2018-09-13T00:21:34.778Z",
+  "fetched_at": "2018-09-13T16:40:35.617Z",
   "pulls_url": "https://api.github.com/repos/nodejs/node/pulls{/number}",
   "pulls_authors": [
     "mmarchini",
@@ -2806,6 +2806,8 @@
     "tiendq",
     "ddlan",
     "sagitsofan",
-    "mbj36"
+    "mbj36",
+    "xtx1130",
+    "tolmasky"
   ]
 }

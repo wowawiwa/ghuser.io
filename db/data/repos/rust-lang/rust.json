@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/rust-lang/rust/languages",
   "pulls_url": "https://api.github.com/repos/rust-lang/rust/pulls{/number}",
   "created_at": "2010-06-16T20:39:03Z",
-  "updated_at": "2018-09-12T23:49:20Z",
-  "pushed_at": "2018-09-12T23:52:18Z",
+  "updated_at": "2018-09-13T15:59:08Z",
+  "pushed_at": "2018-09-13T16:23:51Z",
   "homepage": "https://www.rust-lang.org",
-  "size": 392565,
-  "stargazers_count": 30596,
+  "size": 392671,
+  "stargazers_count": 30608,
   "language": "Rust",
   "mirror_url": null,
   "archived": false,
@@ -129,7 +129,7 @@
     "solson": 573,
     "RalfJung": 503,
     "arielb1": 689,
-    "petrochenkov": 641,
+    "petrochenkov": 643,
     "nrc": 659,
     "japaric": 88,
     "erickt": 738,
@@ -149,7 +149,7 @@
     "alexcrichton": 4681,
     "nikomatsakis": 3643,
     "brson": 5503,
-    "bors": 13631,
+    "bors": 13633,
     "jonathandturner": 277,
     "kmcallister": 146,
     "pietroalbini": 116,
@@ -3092,7 +3092,7 @@
   ],
   "languages": {
     "Rust": {
-      "bytes": 34362598,
+      "bytes": 34368800,
       "color": "#dea584"
     },
     "Python": {
@@ -3176,5 +3176,5 @@
       "color": "#6E4C13"
     }
   },
-  "fetched_at": "2018-09-12T23:52:33.160Z"
+  "fetched_at": "2018-09-13T16:32:29.175Z"
 }

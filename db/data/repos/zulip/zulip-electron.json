@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/zulip/zulip-electron/languages",
   "pulls_url": "https://api.github.com/repos/zulip/zulip-electron/pulls{/number}",
   "created_at": "2016-06-08T00:48:28Z",
-  "updated_at": "2018-09-12T18:26:28Z",
-  "pushed_at": "2018-09-12T12:55:56Z",
+  "updated_at": "2018-09-13T14:17:05Z",
+  "pushed_at": "2018-09-13T09:02:12Z",
   "homepage": "https://zulipchat.com/apps",
-  "size": 2310,
-  "stargazers_count": 293,
+  "size": 2315,
+  "stargazers_count": 295,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -80,7 +80,7 @@
     "Lplenka": 35,
     "abhigyank": 41,
     "geeeeeeeeek": 170,
-    "akashnimare": 641,
+    "akashnimare": 643,
     "bemyak": 1
   },
   "pulls_authors": [
@@ -126,7 +126,7 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 166377,
+      "bytes": 166401,
       "color": "#f1e05a"
     },
     "CSS": {
@@ -146,5 +146,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-09-12T23:44:13.901Z"
+  "fetched_at": "2018-09-13T16:24:09.048Z"
 }
