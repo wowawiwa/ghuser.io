@@ -134,7 +134,7 @@
     "celery/celery": {
       "full_name": "celery/celery",
       "name": "celery",
-      "stargazers_count": 10475,
+      "stargazers_count": 10478,
       "popularity": 5,
       "percentage": 0.013789299503585218,
       "maturity": 4.859798034422787,
@@ -173,13 +173,13 @@
     "rnewson/couchdb-lucene": {
       "full_name": "rnewson/couchdb-lucene",
       "name": "couchdb-lucene",
-      "stargazers_count": 726,
-      "popularity": 3.8604369883900342,
+      "stargazers_count": 727,
+      "popularity": 3.861035520027341,
       "percentage": 2.150537634408602,
       "maturity": 2.7268275763036245,
       "total_commits_count": 93,
-      "activity": 1.3023573372900912,
-      "total_score": 19.41658540881089,
+      "activity": 1.298089690264753,
+      "total_score": 19.414280688122957,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/travis-ci/dpl/languages",
   "pulls_url": "https://api.github.com/repos/travis-ci/dpl/pulls{/number}",
   "created_at": "2013-05-27T10:26:39Z",
-  "updated_at": "2018-09-11T17:01:02Z",
-  "pushed_at": "2018-09-06T18:39:23Z",
+  "updated_at": "2018-09-13T21:30:04Z",
+  "pushed_at": "2018-09-13T21:29:57Z",
   "homepage": "",
-  "size": 2621,
+  "size": 2622,
   "stargazers_count": 822,
   "language": "Ruby",
   "mirror_url": null,
@@ -74,7 +74,7 @@
     "jparkerCAA": 2,
     "demosdemon": 2,
     "carlad": 4,
-    "jschneiderhan": 2,
+    "jschneiderhan": 3,
     "drogus": 3,
     "ali92hm": 2,
     "solarce": 2,
@@ -147,7 +147,7 @@
     "Joshua-Anderson": 31,
     "Aaron1011": 83,
     "rkh": 205,
-    "BanzaiMan": 828,
+    "BanzaiMan": 830,
     "adamkingit": 3,
     "antonbabenko": 2,
     "joshk": 2,
@@ -200,7 +200,8 @@
     "konrad-c": 1,
     "mayeut": 1,
     "step76": 1,
-    "yeonhoyoon": 1
+    "yeonhoyoon": 1,
+    "peternewman": 3
   },
   "pulls_authors": [
     "jschneiderhan",
@@ -424,9 +425,9 @@
   ],
   "languages": {
     "Ruby": {
-      "bytes": 300283,
+      "bytes": 299115,
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-09-11T17:08:25.146Z"
+  "fetched_at": "2018-09-13T23:46:00.667Z"
 }

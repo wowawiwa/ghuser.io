@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/OSSIA/libossia/languages",
   "pulls_url": "https://api.github.com/repos/OSSIA/libossia/pulls{/number}",
   "created_at": "2014-02-04T17:27:26Z",
-  "updated_at": "2018-09-13T11:04:51Z",
-  "pushed_at": "2018-09-13T11:07:47Z",
+  "updated_at": "2018-09-13T22:10:57Z",
+  "pushed_at": "2018-09-13T22:13:19Z",
   "homepage": "https://ossia.github.io",
-  "size": 28510,
+  "size": 28522,
   "stargazers_count": 41,
   "language": "C++",
   "mirror_url": null,
@@ -59,8 +59,8 @@
     "cbossut": 118,
     "reno-": 158,
     "bltzr": 180,
-    "avilleret": 959,
-    "jcelerier": 1803
+    "avilleret": 965,
+    "jcelerier": 1804
   },
   "pulls_authors": [
     "evanmtp",
@@ -77,7 +77,7 @@
   ],
   "languages": {
     "C++": {
-      "bytes": 4567581,
+      "bytes": 4567639,
       "color": "#f34b7d"
     },
     "Max": {
@@ -85,11 +85,11 @@
       "color": "#c4a79c"
     },
     "CMake": {
-      "bytes": 162541,
+      "bytes": 162660,
       "color": "#ccc"
     },
     "Python": {
-      "bytes": 126820,
+      "bytes": 126971,
       "color": "#3572A5"
     },
     "C#": {
@@ -105,7 +105,7 @@
       "color": "#EB8CEB"
     },
     "Shell": {
-      "bytes": 33789,
+      "bytes": 33919,
       "color": "#89e051"
     },
     "QML": {
@@ -117,7 +117,7 @@
       "color": "#b07219"
     },
     "PowerShell": {
-      "bytes": 20498,
+      "bytes": 20474,
       "color": "#012456"
     },
     "HTML": {
@@ -137,5 +137,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-09-13T16:35:22.295Z"
+  "fetched_at": "2018-09-13T23:51:27.802Z"
 }

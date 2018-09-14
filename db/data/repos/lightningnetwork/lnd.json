@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/lightningnetwork/lnd/languages",
   "pulls_url": "https://api.github.com/repos/lightningnetwork/lnd/pulls{/number}",
   "created_at": "2016-01-16T08:19:33Z",
-  "updated_at": "2018-09-13T14:26:06Z",
-  "pushed_at": "2018-09-13T15:22:30Z",
+  "updated_at": "2018-09-13T21:13:10Z",
+  "pushed_at": "2018-09-13T23:01:57Z",
   "homepage": "",
-  "size": 19908,
+  "size": 19909,
   "stargazers_count": 3031,
   "language": "Go",
   "mirror_url": null,
@@ -144,10 +144,10 @@
     "josephpoon": 40,
     "jimpo": 64,
     "AndrewSamokhvalov": 134,
-    "wpaulino": 249,
+    "wpaulino": 251,
     "halseth": 485,
     "cfromknecht": 498,
-    "Roasbeef": 3164,
+    "Roasbeef": 3168,
     "asoltys": 1,
     "Osso": 1,
     "htims-xela": 1,
@@ -411,7 +411,7 @@
   ],
   "languages": {
     "Go": {
-      "bytes": 5433762,
+      "bytes": 5434333,
       "color": "#375eab"
     },
     "Shell": {
@@ -427,5 +427,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-13T16:39:40.558Z"
+  "fetched_at": "2018-09-13T23:55:47.869Z"
 }

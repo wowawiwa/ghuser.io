@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/Symplify/Symplify/languages",
   "pulls_url": "https://api.github.com/repos/Symplify/Symplify/pulls{/number}",
   "created_at": "2016-10-16T09:30:11Z",
-  "updated_at": "2018-09-12T20:50:24Z",
-  "pushed_at": "2018-09-12T20:50:23Z",
+  "updated_at": "2018-09-13T22:36:31Z",
+  "pushed_at": "2018-09-13T23:30:13Z",
   "homepage": "",
-  "size": 12873,
+  "size": 12876,
   "stargazers_count": 61,
   "language": "PHP",
   "mirror_url": null,
@@ -55,7 +55,7 @@
     "pborreli": 1,
     "Fuco1": 1,
     "payamb": 1,
-    "azdanov": 2,
+    "azdanov": 3,
     "PetrHeinz": 2,
     "sustmi": 2,
     "tomasfejfar": 2,
@@ -73,7 +73,7 @@
     "ostrolucky": 14,
     "enumag": 25,
     "carusogabriel": 36,
-    "TomasVotruba": 4697
+    "TomasVotruba": 4698
   },
   "pulls_authors": [
     "TomasVotruba",
@@ -108,7 +108,7 @@
   ],
   "languages": {
     "PHP": {
-      "bytes": 1058834,
+      "bytes": 1060355,
       "color": "#4F5D95"
     },
     "HTML": {
@@ -128,5 +128,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-12T23:44:37.915Z"
+  "fetched_at": "2018-09-13T23:42:35.825Z"
 }

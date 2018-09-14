@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/docker/docker-ce/languages",
   "pulls_url": "https://api.github.com/repos/docker/docker-ce/pulls{/number}",
   "created_at": "2017-05-19T23:09:47Z",
-  "updated_at": "2018-09-13T15:05:50Z",
-  "pushed_at": "2018-09-13T13:03:51Z",
+  "updated_at": "2018-09-13T21:02:02Z",
+  "pushed_at": "2018-09-13T21:02:00Z",
   "homepage": "https://www.docker.com/community-edition",
-  "size": 148356,
+  "size": 148365,
   "stargazers_count": 1564,
   "language": "Go",
   "mirror_url": null,
@@ -111,7 +111,7 @@
     "AkihiroSuda": 255,
     "mlaventure": 221,
     "shin-": 171,
-    "kolyshkin": 148,
+    "kolyshkin": 149,
     "hqhq": 168,
     "yuexiao-wang": 176,
     "vbatts": 237,
@@ -132,7 +132,7 @@
     "jessfraz": 387,
     "tianon": 822,
     "LK4D4": 1407,
-    "cpuguy83": 1601,
+    "cpuguy83": 1602,
     "yongtang": 810,
     "vdemeester": 1978,
     "jhowardmsft": 764,
@@ -142,7 +142,7 @@
     "thaJeztah": 3352,
     "crosbymichael": 2111,
     "vieux": 1986,
-    "GordonTheTurtle": 477,
+    "GordonTheTurtle": 479,
     "metalivedev": 134,
     "moxiegirl": 59,
     "johnstep": 42,
@@ -164,7 +164,7 @@
     "dhiltgen": 22,
     "monnand": 21,
     "StefanScherer": 21,
-    "docker-unir[bot]": 21,
+    "docker-unir[bot]": 22,
     "justone": 20,
     "dsissitka": 20,
     "kzys": 19,
@@ -448,7 +448,7 @@
   ],
   "languages": {
     "Go": {
-      "bytes": 9542652,
+      "bytes": 9542553,
       "color": "#375eab"
     },
     "Shell": {
@@ -484,5 +484,5 @@
       "color": "#6E4C13"
     }
   },
-  "fetched_at": "2018-09-13T16:37:57.822Z"
+  "fetched_at": "2018-09-13T23:53:51.989Z"
 }

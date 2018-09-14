@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/sendgrid/docs",
   "languages_url": "https://api.github.com/repos/sendgrid/docs/languages",
   "created_at": "2012-06-15T20:17:12Z",
-  "updated_at": "2018-08-29T02:36:03Z",
-  "pushed_at": "2018-08-28T14:18:10Z",
+  "updated_at": "2018-09-13T21:26:04Z",
+  "pushed_at": "2018-09-13T21:27:04Z",
   "homepage": "https://github.com/sendgrid/docs/issues/3728",
-  "size": 183907,
-  "stargazers_count": 121,
+  "size": 183945,
+  "stargazers_count": 122,
   "language": "HTML",
   "mirror_url": null,
   "archived": false,
@@ -129,7 +129,7 @@
     "eddiezane": 44,
     "leormanelis": 29,
     "bhammerquist": 33,
-    "hmbrown64": 35,
+    "hmbrown64": 36,
     "kylearoberts": 38,
     "thinkingserious": 44,
     "thepriefy": 41,
@@ -143,7 +143,7 @@
     "Zaftula": 285,
     "imathis": 412,
     "Whatthefoxsays": 730,
-    "ksigler7": 1224,
+    "ksigler7": 1228,
     "eschallock": 1879,
     "brandonmwest": 1338,
     "mbernier": 2227,
@@ -411,11 +411,13 @@
     "ashwath": 1,
     "alexabreu": 1,
     "woutdegeyter": 2,
-    "pimvaltech": 1
+    "pimvaltech": 1,
+    "anujs3": 1,
+    "JamesTheTerry": 1
   },
   "languages": {
     "HTML": {
-      "bytes": 276072,
+      "bytes": 276012,
       "color": "#e34c26"
     },
     "Ruby": {
@@ -443,7 +445,7 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-08-29T12:45:49.641Z",
+  "fetched_at": "2018-09-13T23:41:49.893Z",
   "pulls_url": "https://api.github.com/repos/sendgrid/docs/pulls{/number}",
   "pulls_authors": [
     "ksigler7",
@@ -820,6 +822,8 @@
     "sethers",
     "daltonmatos",
     "stewartjarod",
-    "JamesTheTerry"
+    "JamesTheTerry",
+    "anujs3",
+    "Gonent"
   ]
 }

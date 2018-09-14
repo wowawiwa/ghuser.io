@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/facebook/buck/languages",
   "pulls_url": "https://api.github.com/repos/facebook/buck/pulls{/number}",
   "created_at": "2013-04-17T18:12:18Z",
-  "updated_at": "2018-09-13T16:05:20Z",
-  "pushed_at": "2018-09-13T16:05:09Z",
+  "updated_at": "2018-09-13T23:34:58Z",
+  "pushed_at": "2018-09-13T23:34:48Z",
   "homepage": "https://buckbuild.com",
-  "size": 912715,
+  "size": 912748,
   "stargazers_count": 6080,
   "language": "Java",
   "mirror_url": null,
@@ -84,7 +84,7 @@
     "yiboliu": 20,
     "rightparen": 21,
     "tgummerer": 21,
-    "stephchen": 26,
+    "stephchen": 27,
     "JonCoens": 22,
     "davido": 22,
     "grumpyjames": 22,
@@ -107,7 +107,7 @@
     "jtorkkola": 65,
     "mkillianey": 74,
     "BYVoid": 65,
-    "carljparker": 72,
+    "carljparker": 74,
     "dcolascione": 72,
     "jsgf": 75,
     "oconnor663": 76,
@@ -143,7 +143,7 @@
     "bhamiltoncx": 634,
     "yiding": 655,
     "cjhopman": 696,
-    "ttsugriy": 721,
+    "ttsugriy": 724,
     "bolinfest": 750,
     "jkeljo": 890,
     "styurin": 1153,
@@ -543,7 +543,7 @@
   ],
   "languages": {
     "Java": {
-      "bytes": 28147233,
+      "bytes": 28145768,
       "color": "#b07219"
     },
     "Python": {
@@ -675,5 +675,5 @@
       "color": "#6866fb"
     }
   },
-  "fetched_at": "2018-09-13T17:02:54.748Z"
+  "fetched_at": "2018-09-14T00:00:36.525Z"
 }

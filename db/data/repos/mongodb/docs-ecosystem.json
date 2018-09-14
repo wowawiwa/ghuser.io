@@ -11,8 +11,8 @@
   "languages_url": "https://api.github.com/repos/mongodb/docs-ecosystem/languages",
   "pulls_url": "https://api.github.com/repos/mongodb/docs-ecosystem/pulls{/number}",
   "created_at": "2012-06-19T21:02:59Z",
-  "updated_at": "2018-09-05T15:17:24Z",
-  "pushed_at": "2018-09-05T20:13:10Z",
+  "updated_at": "2018-09-13T16:53:58Z",
+  "pushed_at": "2018-09-13T16:53:55Z",
   "homepage": null,
   "size": 1710,
   "stargazers_count": 54,
@@ -105,7 +105,7 @@
     "mariano-fiorentino": 2,
     "kerneljake": 2,
     "friedo": 2,
-    "anorsich": 2,
+    "anorsich": 1,
     "LeeWanhui": 2,
     "gb96": 2,
     "epc": 2,
@@ -442,7 +442,8 @@
     "justinfagnani",
     "boparaiamrit",
     "JasonBoyles",
-    "paulbakker"
+    "paulbakker",
+    "danielborowski"
   ],
   "languages": {
     "Python": {
@@ -454,5 +455,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-12T07:36:26.789Z"
+  "fetched_at": "2018-09-13T23:53:19.592Z"
 }

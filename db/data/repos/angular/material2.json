@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/angular/material2/languages",
   "pulls_url": "https://api.github.com/repos/angular/material2/pulls{/number}",
   "created_at": "2016-01-04T18:50:02Z",
-  "updated_at": "2018-09-13T16:59:15Z",
-  "pushed_at": "2018-09-13T15:22:07Z",
+  "updated_at": "2018-09-13T21:24:04Z",
+  "pushed_at": "2018-09-13T22:05:08Z",
   "homepage": "https://material.angular.io",
-  "size": 19249,
+  "size": 19260,
   "stargazers_count": 15723,
   "language": "TypeScript",
   "mirror_url": null,
@@ -146,8 +146,8 @@
     "kara": 200,
     "mmalerba": 233,
     "jelbourn": 474,
-    "DevVersion": 794,
-    "crisbeto": 1447,
+    "DevVersion": 798,
+    "crisbeto": 1449,
     "aaroneously": 1,
     "aarongarciah": 1,
     "aitboudad": 1,
@@ -896,11 +896,12 @@
     "ihistand",
     "gitter-badger",
     "dmitriz",
-    "mattem"
+    "mattem",
+    "electric-drummer"
   ],
   "languages": {
     "TypeScript": {
-      "bytes": 4523518,
+      "bytes": 4531549,
       "color": "#2b7489"
     },
     "HTML": {
@@ -924,5 +925,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-13T17:04:10.864Z"
+  "fetched_at": "2018-09-14T00:18:38.668Z"
 }

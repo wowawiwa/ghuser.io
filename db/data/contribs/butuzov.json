@@ -4,7 +4,7 @@
     "hashicorp/terraform": {
       "full_name": "hashicorp/terraform",
       "name": "terraform",
-      "stargazers_count": 13425,
+      "stargazers_count": 13430,
       "popularity": 5,
       "percentage": 0,
       "maturity": 5,
@@ -82,13 +82,13 @@
     "tmrts/go-patterns": {
       "full_name": "tmrts/go-patterns",
       "name": "go-patterns",
-      "stargazers_count": 6602,
-      "popularity": 4.819655399985468,
+      "stargazers_count": 6604,
+      "popularity": 4.819786962514305,
       "percentage": 0,
       "maturity": 2.4802970571810303,
       "total_commits_count": 70,
       "activity": 5,
-      "total_score": 24.419560314318463,
+      "total_score": 24.419955001904977,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/zendesk/samson/languages",
   "pulls_url": "https://api.github.com/repos/zendesk/samson/pulls{/number}",
   "created_at": "2014-05-27T05:55:57Z",
-  "updated_at": "2018-09-13T08:29:53Z",
-  "pushed_at": "2018-09-12T19:20:53Z",
+  "updated_at": "2018-09-13T23:15:10Z",
+  "pushed_at": "2018-09-13T23:15:10Z",
   "homepage": null,
-  "size": 336750,
+  "size": 336733,
   "stargazers_count": 1165,
   "language": "Ruby",
   "mirror_url": null,
@@ -147,7 +147,7 @@
     "henders": 210,
     "jonmoter": 300,
     "steved": 297,
-    "grosser": 3811,
+    "grosser": 3813,
     "msufa": 26,
     "bcolferzd": 3,
     "livathinos": 2,
@@ -174,7 +174,8 @@
     "tancnle": 1,
     "th11": 1,
     "elaineoc": 1,
-    "michael-bouvy": 1
+    "michael-bouvy": 1,
+    "v9n": 5
   },
   "pulls_authors": [
     "grosser",
@@ -329,7 +330,7 @@
   ],
   "languages": {
     "Ruby": {
-      "bytes": 1899355,
+      "bytes": 1899451,
       "color": "#701516"
     },
     "HTML": {
@@ -353,5 +354,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-13T16:30:40.636Z"
+  "fetched_at": "2018-09-13T23:47:35.235Z"
 }

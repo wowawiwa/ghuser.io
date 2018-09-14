@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/webpack/webpack/languages",
   "pulls_url": "https://api.github.com/repos/webpack/webpack/pulls{/number}",
   "created_at": "2012-03-10T10:08:14Z",
-  "updated_at": "2018-09-13T16:21:41Z",
-  "pushed_at": "2018-09-13T11:15:31Z",
+  "updated_at": "2018-09-13T23:45:43Z",
+  "pushed_at": "2018-09-13T22:04:29Z",
   "homepage": "https://webpack.js.org",
-  "size": 17148,
-  "stargazers_count": 43932,
+  "size": 17169,
+  "stargazers_count": 43937,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -148,7 +148,7 @@
     "ooflorent": 138,
     "TheLarkInn": 291,
     "timse": 330,
-    "sokra": 4342,
+    "sokra": 4345,
     "kutyel": 6,
     "about-code": 5,
     "malstoun": 4,
@@ -1246,5 +1246,5 @@
       "color": "#244776"
     }
   },
-  "fetched_at": "2018-09-13T16:36:16.569Z"
+  "fetched_at": "2018-09-13T23:52:20.070Z"
 }

@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/nyumaya/nyumaya_audio_recognition/languages",
   "pulls_url": "https://api.github.com/repos/nyumaya/nyumaya_audio_recognition/pulls{/number}",
   "created_at": "2018-08-16T04:58:51Z",
-  "updated_at": "2018-09-11T10:55:14Z",
-  "pushed_at": "2018-09-11T10:55:13Z",
+  "updated_at": "2018-09-13T22:04:58Z",
+  "pushed_at": "2018-09-13T22:04:56Z",
   "homepage": null,
-  "size": 5040,
+  "size": 5051,
   "stargazers_count": 1,
   "language": "Python",
   "mirror_url": null,
@@ -48,7 +48,7 @@
     "site_admin": false
   },
   "contributors": {
-    "yodakohl": 87
+    "yodakohl": 89
   },
   "pulls_authors": [],
   "languages": {
@@ -57,5 +57,5 @@
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-09-12T16:54:21.472Z"
+  "fetched_at": "2018-09-14T00:19:45.969Z"
 }

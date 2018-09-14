@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/cockroachdb/cockroach",
   "languages_url": "https://api.github.com/repos/cockroachdb/cockroach/languages",
   "created_at": "2014-02-06T00:18:47Z",
-  "updated_at": "2018-09-13T16:27:55Z",
-  "pushed_at": "2018-09-13T16:27:24Z",
+  "updated_at": "2018-09-13T22:08:01Z",
+  "pushed_at": "2018-09-13T22:36:14Z",
   "homepage": "https://www.cockroachlabs.com",
-  "size": 1036277,
-  "stargazers_count": 14250,
+  "size": 1036375,
+  "stargazers_count": 14252,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -123,27 +123,27 @@
     "lego": 122,
     "andybons": 105,
     "asubiotto": 195,
-    "vilterp": 237,
+    "vilterp": 239,
     "justinj": 361,
     "andy-kimball": 328,
     "kkaneda": 429,
     "couchand": 418,
     "mrtracy": 612,
-    "mjibson": 698,
+    "mjibson": 710,
     "danhhz": 750,
     "BramGruneir": 751,
     "mberhault": 744,
     "vivekmenezes": 864,
-    "jordanlewis": 871,
+    "jordanlewis": 872,
     "spencerkimball": 898,
     "dt": 1029,
     "andreimatei": 929,
-    "a-robinson": 1089,
-    "benesch": 1261,
-    "nvanbenschoten": 1540,
+    "a-robinson": 1091,
+    "benesch": 1268,
+    "nvanbenschoten": 1543,
     "bdarnell": 1526,
-    "RaduBerinde": 1792,
-    "knz": 1978,
+    "RaduBerinde": 1793,
+    "knz": 1980,
     "petermattis": 3145,
     "tschottdorf": 2831,
     "tamird": 3212,
@@ -266,7 +266,7 @@
   },
   "languages": {
     "Go": {
-      "bytes": 20480841,
+      "bytes": 20501002,
       "color": "#375eab"
     },
     "TypeScript": {
@@ -278,7 +278,7 @@
       "color": "#f34b7d"
     },
     "Yacc": {
-      "bytes": 240688,
+      "bytes": 240732,
       "color": "#4B6C4B"
     },
     "Shell": {
@@ -290,7 +290,7 @@
       "color": "#e4cc98"
     },
     "Makefile": {
-      "bytes": 68126,
+      "bytes": 68172,
       "color": "#427819"
     },
     "CSS": {
@@ -354,7 +354,7 @@
       "color": "#4d41b1"
     }
   },
-  "fetched_at": "2018-09-13T16:29:46.983Z",
+  "fetched_at": "2018-09-13T23:47:00.576Z",
   "pulls_url": "https://api.github.com/repos/cockroachdb/cockroach/pulls{/number}",
   "pulls_authors": [
     "danhhz",

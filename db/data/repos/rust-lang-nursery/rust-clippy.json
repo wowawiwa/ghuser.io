@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/rust-lang-nursery/rust-clippy/languages",
   "pulls_url": "https://api.github.com/repos/rust-lang-nursery/rust-clippy/pulls{/number}",
   "created_at": "2014-11-19T07:49:21Z",
-  "updated_at": "2018-09-13T16:14:47Z",
-  "pushed_at": "2018-09-13T09:54:07Z",
+  "updated_at": "2018-09-13T22:00:44Z",
+  "pushed_at": "2018-09-13T19:37:13Z",
   "homepage": "https://rust-lang-nursery.github.io/rust-clippy",
-  "size": 11278,
-  "stargazers_count": 2401,
+  "size": 11316,
+  "stargazers_count": 2403,
   "language": "Rust",
   "mirror_url": null,
   "archived": false,
@@ -554,5 +554,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-13T16:21:39.108Z"
+  "fetched_at": "2018-09-13T23:39:37.377Z"
 }

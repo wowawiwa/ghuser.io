@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/FriendsOfSymfony/FOSRestBundle/languages",
   "pulls_url": "https://api.github.com/repos/FriendsOfSymfony/FOSRestBundle/pulls{/number}",
   "created_at": "2011-03-21T23:14:13Z",
-  "updated_at": "2018-09-13T12:10:32Z",
-  "pushed_at": "2018-09-13T09:23:20Z",
+  "updated_at": "2018-09-13T20:39:56Z",
+  "pushed_at": "2018-09-13T20:39:52Z",
   "homepage": "http://symfony.com/doc/master/bundles/FOSRestBundle/index.html",
-  "size": 3936,
+  "size": 3943,
   "stargazers_count": 1878,
   "language": "PHP",
   "mirror_url": null,
@@ -299,7 +299,9 @@
     "pablodip": 1,
     "ramol": 1,
     "sblaut": 1,
-    "z38": 1
+    "z38": 1,
+    "supersmile2009": 1,
+    "dnna": 1
   },
   "pulls_authors": [
     "supersmile2009",
@@ -667,13 +669,13 @@
   ],
   "languages": {
     "PHP": {
-      "bytes": 604993,
+      "bytes": 611583,
       "color": "#4F5D95"
     },
     "HTML": {
-      "bytes": 18,
+      "bytes": 42,
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-13T17:04:45.440Z"
+  "fetched_at": "2018-09-14T00:19:08.584Z"
 }

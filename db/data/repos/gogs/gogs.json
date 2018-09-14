@@ -10,11 +10,11 @@
   "url": "https://api.github.com/repos/gogs/gogs",
   "languages_url": "https://api.github.com/repos/gogs/gogs/languages",
   "created_at": "2014-02-12T01:57:08Z",
-  "updated_at": "2018-09-13T16:37:18Z",
-  "pushed_at": "2018-09-11T18:10:10Z",
+  "updated_at": "2018-09-13T23:37:28Z",
+  "pushed_at": "2018-09-13T22:16:24Z",
   "homepage": "https://gogs.io",
-  "size": 147801,
-  "stargazers_count": 26978,
+  "size": 147838,
+  "stargazers_count": 26987,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -146,7 +146,7 @@
     "slene": 107,
     "lunny": 217,
     "fuxiaohei": 179,
-    "Unknwon": 3237,
+    "Unknwon": 3239,
     "haoyixin": 3,
     "msoedov": 2,
     "andre-hub": 2,
@@ -438,11 +438,16 @@
     "geekcomb": 1,
     "chromium1337": 1,
     "CRCinAU": 1,
-    "devfans": 1
+    "devfans": 1,
+    "jakobandersen": 1,
+    "PiPc2": 1,
+    "rossigee": 1,
+    "luhaixun": 1,
+    "leonunix": 1
   },
   "languages": {
     "Go": {
-      "bytes": 1132374,
+      "bytes": 1134149,
       "color": "#375eab"
     },
     "CSS": {
@@ -454,7 +459,7 @@
       "color": "#f1e05a"
     },
     "Shell": {
-      "bytes": 18206,
+      "bytes": 18167,
       "color": "#89e051"
     },
     "Makefile": {
@@ -470,7 +475,7 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-09-13T17:05:06.851Z",
+  "fetched_at": "2018-09-14T00:19:29.515Z",
   "pulls_url": "https://api.github.com/repos/gogs/gogs/pulls{/number}",
   "pulls_authors": [
     "chromium1337",

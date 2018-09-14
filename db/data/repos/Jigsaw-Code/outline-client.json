@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/Jigsaw-Code/outline-client/languages",
   "pulls_url": "https://api.github.com/repos/Jigsaw-Code/outline-client/pulls{/number}",
   "created_at": "2018-03-13T21:42:30Z",
-  "updated_at": "2018-09-13T16:15:24Z",
-  "pushed_at": "2018-09-13T16:15:24Z",
+  "updated_at": "2018-09-13T22:06:36Z",
+  "pushed_at": "2018-09-13T23:11:30Z",
   "homepage": "https://getoutline.org/",
-  "size": 43664,
-  "stargazers_count": 1861,
+  "size": 43641,
+  "stargazers_count": 1866,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -52,9 +52,9 @@
     "ohnocassio": 1,
     "andylizi": 1,
     "FingerLiu": 1,
-    "bemasc": 6,
-    "alalamav": 83,
-    "trevj": 91
+    "bemasc": 7,
+    "alalamav": 84,
+    "trevj": 92
   },
   "pulls_authors": [
     "trevj",
@@ -76,7 +76,7 @@
       "color": "#e34c26"
     },
     "Java": {
-      "bytes": 78564,
+      "bytes": 79175,
       "color": "#b07219"
     },
     "Objective-C": {
@@ -92,7 +92,7 @@
       "color": "#178600"
     },
     "Shell": {
-      "bytes": 22842,
+      "bytes": 23580,
       "color": "#89e051"
     },
     "JavaScript": {
@@ -100,20 +100,20 @@
       "color": "#f1e05a"
     },
     "Batchfile": {
-      "bytes": 5105,
+      "bytes": 5091,
       "color": "#C1F12E"
     },
     "Python": {
       "bytes": 4627,
       "color": "#3572A5"
     },
+    "NSIS": {
+      "bytes": 4422,
+      "color": "#ccc"
+    },
     "Ruby": {
       "bytes": 3392,
       "color": "#701516"
-    },
-    "NSIS": {
-      "bytes": 2639,
-      "color": "#ccc"
     },
     "Dockerfile": {
       "bytes": 2271,
@@ -124,5 +124,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-13T16:28:19.793Z"
+  "fetched_at": "2018-09-13T23:45:59.246Z"
 }

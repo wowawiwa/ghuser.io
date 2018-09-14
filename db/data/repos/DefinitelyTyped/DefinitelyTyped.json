@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/DefinitelyTyped/DefinitelyTyped/languages",
   "pulls_url": "https://api.github.com/repos/DefinitelyTyped/DefinitelyTyped/pulls{/number}",
   "created_at": "2012-10-05T16:39:45Z",
-  "updated_at": "2018-09-13T15:36:23Z",
-  "pushed_at": "2018-09-13T16:17:33Z",
+  "updated_at": "2018-09-13T23:42:03Z",
+  "pushed_at": "2018-09-13T23:41:00Z",
   "homepage": "http://definitelytyped.org/",
-  "size": 353472,
-  "stargazers_count": 17394,
+  "size": 353968,
+  "stargazers_count": 17400,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -64,7 +64,7 @@
     "konne": 41,
     "alloy": 231,
     "aj-r": 51,
-    "mohsen1": 35,
+    "mohsen1": 36,
     "Aaronphy": 41,
     "saschanaz": 44,
     "pocesar": 40,
@@ -103,7 +103,7 @@
     "plantain-00": 58,
     "NoHomey": 58,
     "JoshuaKGoldberg": 60,
-    "Flarna": 75,
+    "Flarna": 78,
     "DomiR": 54,
     "pelotom": 60,
     "miniak": 60,
@@ -139,7 +139,7 @@
     "segayuu": 161,
     "bczengel": 168,
     "basarat": 709,
-    "johnnyreilly": 426,
+    "johnnyreilly": 427,
     "BendingBender": 202,
     "Igorbek": 310,
     "leonard-thieu": 246,
@@ -168,7 +168,7 @@
     "hinell": 37,
     "rokoroku": 37,
     "amiram": 37,
-    "dex4er": 39,
+    "dex4er": 40,
     "bgrieder": 36,
     "frogcjn": 35,
     "resir014": 35,
@@ -412,7 +412,7 @@
     "gyzerok": 13,
     "jacqueskang": 13,
     "jason0x43": 13,
-    "Jimexist": 21,
+    "Jimexist": 33,
     "manuth": 13,
     "gjoshevski": 13,
     "ffMathy": 13,
@@ -462,9 +462,9 @@
     "romain-faust": 31,
     "franklixuefei": 15,
     "meganrm": 21,
-    "danwbyrne": 29,
+    "danwbyrne": 33,
     "odahcam": 46,
-    "mike-north": 33
+    "mike-north": 42
   },
   "pulls_authors": [
     "saenglert",
@@ -9043,11 +9043,15 @@
     "psxpaul",
     "madprog",
     "dukuo",
-    "fchristl"
+    "fchristl",
+    "tenuki",
+    "mscharlock",
+    "dmortimer",
+    "oneillsp96"
   ],
   "languages": {
     "TypeScript": {
-      "bytes": 25263687,
+      "bytes": 25286609,
       "color": "#2b7489"
     },
     "JavaScript": {
@@ -9059,5 +9063,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-13T16:24:43.713Z"
+  "fetched_at": "2018-09-13T23:42:48.809Z"
 }

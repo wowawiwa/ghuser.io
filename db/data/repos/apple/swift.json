@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/apple/swift/languages",
   "pulls_url": "https://api.github.com/repos/apple/swift/pulls{/number}",
   "created_at": "2015-10-23T21:15:07Z",
-  "updated_at": "2018-09-13T16:19:18Z",
-  "pushed_at": "2018-09-13T16:03:45Z",
+  "updated_at": "2018-09-13T23:41:50Z",
+  "pushed_at": "2018-09-13T23:54:39Z",
   "homepage": "https://swift.org",
-  "size": 337689,
-  "stargazers_count": 45173,
+  "size": 338346,
+  "stargazers_count": 45174,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -119,14 +119,14 @@
     "AnnaZaks": 290,
     "davidungar": 454,
     "milseman": 546,
-    "compnerd": 564,
+    "compnerd": 569,
     "gparker42": 458,
     "graydon": 517,
     "tkremenek": 655,
     "xedin": 722,
     "trentxintong": 590,
     "rintaro": 685,
-    "benlangmuir": 729,
+    "benlangmuir": 730,
     "bitjammer": 703,
     "davezarzycki": 722,
     "moiseev": 890,
@@ -135,21 +135,21 @@
     "swiftix": 974,
     "nadavrot": 880,
     "adrian-prantl": 972,
-    "nkcsgexi": 1077,
+    "nkcsgexi": 1078,
     "aschwaighofer": 1380,
     "eeckstein": 1323,
     "rudkx": 1672,
     "rjmccall": 1883,
     "dabrahams": 1916,
     "practicalswift": 2393,
-    "jrose-apple": 3370,
+    "jrose-apple": 3380,
     "gottesmm": 3584,
     "slavapestov": 4243,
     "gribozavr": 4444,
-    "jckarter": 4286,
+    "jckarter": 4291,
     "lattner": 4536,
     "DougGregor": 6138,
-    "swift-ci": 10620,
+    "swift-ci": 10621,
     "divadretlaw": 25,
     "alblue": 23,
     "dingobye": 23,
@@ -1319,11 +1319,11 @@
   ],
   "languages": {
     "C++": {
-      "bytes": 30318908,
+      "bytes": 30331002,
       "color": "#f34b7d"
     },
     "Swift": {
-      "bytes": 24699893,
+      "bytes": 24698065,
       "color": "#ffac45"
     },
     "Python": {
@@ -1331,7 +1331,7 @@
       "color": "#3572A5"
     },
     "CMake": {
-      "bytes": 466731,
+      "bytes": 466640,
       "color": "#ccc"
     },
     "Objective-C": {
@@ -1387,5 +1387,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-09-13T16:40:53.494Z"
+  "fetched_at": "2018-09-13T23:56:51.216Z"
 }

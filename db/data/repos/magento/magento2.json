@@ -5,16 +5,16 @@
   "owner": "magento",
   "private": false,
   "html_url": "https://github.com/magento/magento2",
-  "description": "All Submissions you make to Magento Inc. (“Magento\") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, sublicense and distribute any feedback, ideas, code, or other information (“Submission\") you submit through GitHub. (2) Your Submission is an original work of authorship and you are the owner or are legally entitled to grant the license stated above. (3) You agree to the Contributor License Agreement found here:  https://github.com/magento/magento2/blob/master/CONTRIBUTOR_LICENSE_AGREEMENT.html",
+  "description": "All Submissions you make to Magento Inc. (\"Magento\") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, sublicense and distribute any feedback, ideas, code, or other information (“Submission\") you submit through GitHub. (2) Your Submission is an original work of authorship and you are the owner or are legally entitled to grant the license stated above. (3) You agree to the Contributor License Agreement found here:  https://github.com/magento/magento2/blob/master/CONTRIBUTOR_LICENSE_AGREEMENT.html",
   "fork": false,
   "url": "https://api.github.com/repos/magento/magento2",
   "languages_url": "https://api.github.com/repos/magento/magento2/languages",
   "pulls_url": "https://api.github.com/repos/magento/magento2/pulls{/number}",
   "created_at": "2011-11-30T15:30:13Z",
-  "updated_at": "2018-09-13T14:30:41Z",
-  "pushed_at": "2018-09-13T15:25:04Z",
+  "updated_at": "2018-09-13T23:41:14Z",
+  "pushed_at": "2018-09-13T23:40:51Z",
   "homepage": "http://www.magento.com",
-  "size": 480113,
+  "size": 480266,
   "stargazers_count": 6083,
   "language": "PHP",
   "mirror_url": null,
@@ -110,7 +110,7 @@
     "Mulderua": 213,
     "iivashchenko": 250,
     "safwkhan": 220,
-    "omiroshnichenko": 330,
+    "omiroshnichenko": 331,
     "sivaschenko": 375,
     "slopok": 380,
     "rganin": 1006,
@@ -119,7 +119,7 @@
     "oshmyheliuk": 382,
     "guz-anton": 528,
     "tang-yu": 426,
-    "joanhe": 824,
+    "joanhe": 828,
     "igrybkov": 433,
     "dkvashninbay": 452,
     "odubovyk": 399,
@@ -1618,11 +1618,11 @@
       "color": "#4F5D95"
     },
     "HTML": {
-      "bytes": 8865136,
+      "bytes": 8865138,
       "color": "#e34c26"
     },
     "JavaScript": {
-      "bytes": 5336894,
+      "bytes": 5338008,
       "color": "#f1e05a"
     },
     "CSS": {
@@ -1638,5 +1638,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-13T16:31:32.043Z"
+  "fetched_at": "2018-09-13T23:48:10.410Z"
 }

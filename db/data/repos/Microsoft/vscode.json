@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/Microsoft/vscode/languages",
   "pulls_url": "https://api.github.com/repos/Microsoft/vscode/pulls{/number}",
   "created_at": "2015-09-03T20:23:38Z",
-  "updated_at": "2018-09-13T16:26:33Z",
-  "pushed_at": "2018-09-13T16:19:26Z",
+  "updated_at": "2018-09-13T23:43:33Z",
+  "pushed_at": "2018-09-13T22:51:24Z",
   "homepage": "https://code.visualstudio.com",
-  "size": 157287,
-  "stargazers_count": 59189,
+  "size": 157498,
+  "stargazers_count": 59213,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -126,24 +126,24 @@
     "bgashler1": 94,
     "Lixire": 111,
     "JacksonKearl": 156,
-    "sbatten": 224,
+    "sbatten": 225,
     "egamma": 231,
     "octref": 243,
     "kieferrm": 243,
     "RMacfarlane": 243,
     "michelkaporin": 311,
     "dstorey": 310,
-    "rebornix": 710,
-    "weinand": 696,
+    "rebornix": 711,
+    "weinand": 697,
     "ramya-rao-a": 703,
     "dbaeumer": 752,
     "chrmarti": 708,
-    "roblourens": 1586,
+    "roblourens": 1589,
     "Tyriar": 2172,
-    "aeschli": 2102,
-    "mjbvz": 2195,
+    "aeschli": 2103,
+    "mjbvz": 2200,
     "sandy081": 2287,
-    "alexandrudima": 3352,
+    "alexandrudima": 3353,
     "isidorn": 3454,
     "jrieken": 4136,
     "joaomoreno": 4758,
@@ -1555,11 +1555,11 @@
   ],
   "languages": {
     "TypeScript": {
-      "bytes": 18832406,
+      "bytes": 18839978,
       "color": "#2b7489"
     },
     "JavaScript": {
-      "bytes": 941331,
+      "bytes": 941329,
       "color": "#f1e05a"
     },
     "CSS": {
@@ -1687,5 +1687,5 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-09-13T16:31:32.374Z"
+  "fetched_at": "2018-09-13T23:48:10.719Z"
 }

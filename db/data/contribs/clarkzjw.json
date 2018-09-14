@@ -212,7 +212,7 @@
     "syl20bnr/spacemacs": {
       "full_name": "syl20bnr/spacemacs",
       "name": "spacemacs",
-      "stargazers_count": 15904,
+      "stargazers_count": 15905,
       "popularity": 5,
       "percentage": 0.014463407578825572,
       "maturity": 4.838952139086211,
@@ -225,13 +225,13 @@
     "hangyan/docker-resources": {
       "full_name": "hangyan/docker-resources",
       "name": "docker-resources",
-      "stargazers_count": 1384,
-      "popularity": 4.140892667149961,
+      "stargazers_count": 1385,
+      "popularity": 4.141206554475513,
       "percentage": 4,
       "maturity": 0,
       "total_commits_count": 25,
       "activity": 5,
-      "total_score": 19.57594218836786,
+      "total_score": 19.577047071753803,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -303,13 +303,13 @@
     "ipython-contrib/jupyter_contrib_nbextensions": {
       "full_name": "ipython-contrib/jupyter_contrib_nbextensions",
       "name": "jupyter_contrib_nbextensions",
-      "stargazers_count": 2615,
-      "popularity": 4.41736128425777,
+      "stargazers_count": 2614,
+      "popularity": 4.4171951170980295,
       "percentage": 0.06031363088057901,
       "maturity": 4.210741569403716,
       "total_commits_count": 1658,
       "activity": 5,
-      "total_score": 26.708202514316177,
+      "total_score": 26.70770270995814,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

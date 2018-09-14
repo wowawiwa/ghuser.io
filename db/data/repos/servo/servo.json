@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/servo/servo/languages",
   "pulls_url": "https://api.github.com/repos/servo/servo/pulls{/number}",
   "created_at": "2012-02-08T19:07:25Z",
-  "updated_at": "2018-09-13T15:59:56Z",
-  "pushed_at": "2018-09-13T16:07:30Z",
+  "updated_at": "2018-09-13T22:50:11Z",
+  "pushed_at": "2018-09-13T22:49:51Z",
   "homepage": "https://servo.org/",
-  "size": 601982,
+  "size": 602057,
   "stargazers_count": 12388,
   "language": "Rust",
   "mirror_url": null,
@@ -146,7 +146,7 @@
     "Manishearth": 1017,
     "pcwalton": 1035,
     "SimonSapin": 1162,
-    "nox": 1487,
+    "nox": 1493,
     "emilio": 1927,
     "Ms2ger": 2840,
     "ajnirp": 32,
@@ -1523,7 +1523,7 @@
   ],
   "languages": {
     "Rust": {
-      "bytes": 11350558,
+      "bytes": 11349829,
       "color": "#dea584"
     },
     "Python": {
@@ -1587,5 +1587,5 @@
       "color": "#da291c"
     }
   },
-  "fetched_at": "2018-09-13T16:37:44.881Z"
+  "fetched_at": "2018-09-13T23:53:40.135Z"
 }

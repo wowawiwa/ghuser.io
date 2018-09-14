@@ -30,7 +30,7 @@
     "spring-projects/spring-boot": {
       "full_name": "spring-projects/spring-boot",
       "name": "spring-boot",
-      "stargazers_count": 28890,
+      "stargazers_count": 28891,
       "popularity": 5,
       "percentage": 0.005754071005236204,
       "maturity": 5,
@@ -58,11 +58,11 @@
       "name": "spring-integration",
       "stargazers_count": 755,
       "popularity": 3.8774680242582424,
-      "percentage": 0.01337613697164259,
-      "maturity": 4.873081516798556,
-      "total_commits_count": 7476,
+      "percentage": 0.013370771493515177,
+      "maturity": 4.873256692061177,
+      "total_commits_count": 7479,
       "activity": 5,
-      "total_score": 26.38530962701327,
+      "total_score": 26.38565727295743,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -72,10 +72,10 @@
       "stargazers_count": 2780,
       "popularity": 4.443943261468168,
       "percentage": 0,
-      "maturity": 4.746037095565745,
-      "total_commits_count": 5590,
+      "maturity": 4.746193567082316,
+      "total_commits_count": 5592,
       "activity": 5,
-      "total_score": 27.823903975535995,
+      "total_score": 27.824216918569135,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

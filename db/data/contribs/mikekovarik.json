@@ -82,13 +82,13 @@
     "node-serialport/node-serialport": {
       "full_name": "node-serialport/node-serialport",
       "name": "node-serialport",
-      "stargazers_count": 3574,
-      "popularity": 4.55308425848904,
+      "stargazers_count": 3575,
+      "popularity": 4.553205787055704,
       "percentage": 0.0847457627118644,
       "maturity": 4.058679112291362,
       "total_commits_count": 1180,
       "activity": 5,
-      "total_score": 26.826772097812857,
+      "total_score": 26.82713802238689,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -173,7 +173,7 @@
     "webtorrent/webtorrent": {
       "full_name": "webtorrent/webtorrent",
       "name": "webtorrent",
-      "stargazers_count": 17684,
+      "stargazers_count": 17687,
       "popularity": 5,
       "percentage": 0.0855431993156544,
       "maturity": 4.363105165949663,

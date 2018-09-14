@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/squizlabs/PHP_CodeSniffer/languages",
   "pulls_url": "https://api.github.com/repos/squizlabs/PHP_CodeSniffer/pulls{/number}",
   "created_at": "2011-11-03T04:06:24Z",
-  "updated_at": "2018-09-13T12:05:12Z",
-  "pushed_at": "2018-09-07T15:14:48Z",
+  "updated_at": "2018-09-13T22:43:39Z",
+  "pushed_at": "2018-09-13T22:43:31Z",
   "homepage": "http://pear.php.net/package/PHP_CodeSniffer",
-  "size": 190328,
-  "stargazers_count": 5361,
+  "size": 190018,
+  "stargazers_count": 5360,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -211,7 +211,8 @@
     "webchick": 1,
     "josephzidell": 9,
     "thewilkybarkid": 1,
-    "kristofser": 2
+    "kristofser": 2,
+    "TysonAndre": 1
   },
   "pulls_authors": [
     "jrfnl",
@@ -552,7 +553,7 @@
   ],
   "languages": {
     "PHP": {
-      "bytes": 2865261,
+      "bytes": 2865260,
       "color": "#4F5D95"
     },
     "JavaScript": {
@@ -580,5 +581,5 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-13T16:34:38.324Z"
+  "fetched_at": "2018-09-13T23:50:50.459Z"
 }

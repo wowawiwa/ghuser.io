@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/ampproject/amphtml",
   "languages_url": "https://api.github.com/repos/ampproject/amphtml/languages",
   "created_at": "2015-09-01T22:10:53Z",
-  "updated_at": "2018-09-13T14:28:54Z",
-  "pushed_at": "2018-09-13T16:23:21Z",
+  "updated_at": "2018-09-13T23:35:34Z",
+  "pushed_at": "2018-09-13T23:47:45Z",
   "homepage": "https://www.ampproject.org",
-  "size": 496480,
+  "size": 496536,
   "stargazers_count": 11975,
   "language": "JavaScript",
   "mirror_url": null,
@@ -83,7 +83,7 @@
     "clawr": 9,
     "jlucero-contentad": 9,
     "rgthree": 18,
-    "addieachan": 14,
+    "addieachan": 15,
     "josh313": 10,
     "mlb7687": 10,
     "trodrigues": 12,
@@ -95,7 +95,7 @@
     "shawnbuso": 14,
     "tiendt": 15,
     "ericlindley-g": 18,
-    "torch2424": 25,
+    "torch2424": 26,
     "jaboc83": 18,
     "zhangsu": 22,
     "rudygalfi": 39,
@@ -106,7 +106,7 @@
     "taymonbeal": 31,
     "alabiaga": 52,
     "jpettitt": 41,
-    "peterjosling": 40,
+    "peterjosling": 41,
     "tdrl": 39,
     "greenkeeperio-bot": 46,
     "chenshay": 47,
@@ -122,7 +122,7 @@
     "prateekbh": 91,
     "camelburrito": 91,
     "kmh287": 98,
-    "glevitzky": 106,
+    "glevitzky": 107,
     "gmajoulet": 138,
     "greenkeeper[bot]": 111,
     "muxin": 118,
@@ -140,10 +140,10 @@
     "powdercloud": 261,
     "aghassemi": 288,
     "choumx": 344,
-    "lannka": 351,
-    "zhouyx": 341,
-    "jridgewell": 439,
-    "rsimha": 412,
+    "lannka": 352,
+    "zhouyx": 342,
+    "jridgewell": 441,
+    "rsimha": 413,
     "erwinmombay": 708,
     "cramforce": 1134,
     "dvoytenko": 1122,
@@ -497,7 +497,7 @@
   },
   "languages": {
     "JavaScript": {
-      "bytes": 12346594,
+      "bytes": 12358938,
       "color": "#f1e05a"
     },
     "HTML": {
@@ -529,7 +529,7 @@
       "color": "#375eab"
     }
   },
-  "fetched_at": "2018-09-13T16:35:46.446Z",
+  "fetched_at": "2018-09-13T23:51:51.172Z",
   "pulls_url": "https://api.github.com/repos/ampproject/amphtml/pulls{/number}",
   "pulls_authors": [
     "keithwrightbos",
@@ -1243,6 +1243,7 @@
     "phalconjohy",
     "ncrovatti",
     "GoTcWang",
-    "jenkey2011"
+    "jenkey2011",
+    "marcelo-muniz"
   ]
 }

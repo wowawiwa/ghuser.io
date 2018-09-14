@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/jisaacks/GitGutter/languages",
   "pulls_url": "https://api.github.com/repos/jisaacks/GitGutter/pulls{/number}",
   "created_at": "2012-12-08T05:29:00Z",
-  "updated_at": "2018-09-13T07:01:04Z",
-  "pushed_at": "2018-09-12T17:11:09Z",
+  "updated_at": "2018-09-13T22:59:31Z",
+  "pushed_at": "2018-09-13T16:53:12Z",
   "homepage": "",
-  "size": 1857,
-  "stargazers_count": 3761,
+  "size": 1861,
+  "stargazers_count": 3759,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -113,7 +113,7 @@
     "rcopera": 17,
     "r-stein": 52,
     "jisaacks": 117,
-    "deathaxe": 273
+    "deathaxe": 274
   },
   "pulls_authors": [
     "deathaxe",
@@ -230,7 +230,7 @@
   ],
   "languages": {
     "Python": {
-      "bytes": 175501,
+      "bytes": 175556,
       "color": "#3572A5"
     },
     "CSS": {
@@ -242,5 +242,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-13T16:24:38.375Z"
+  "fetched_at": "2018-09-13T23:42:42.150Z"
 }

@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/tathougies/beam/languages",
   "pulls_url": "https://api.github.com/repos/tathougies/beam/pulls{/number}",
   "created_at": "2015-01-13T03:43:12Z",
-  "updated_at": "2018-09-12T23:06:02Z",
-  "pushed_at": "2018-09-12T19:19:56Z",
+  "updated_at": "2018-09-13T22:11:02Z",
+  "pushed_at": "2018-09-13T23:46:16Z",
   "homepage": null,
-  "size": 3129,
+  "size": 3148,
   "stargazers_count": 267,
   "language": "Haskell",
   "mirror_url": null,
@@ -54,7 +54,7 @@
     "mulderr": 7,
     "3noch": 8,
     "luigy": 12,
-    "tathougies": 293
+    "tathougies": 295
   },
   "pulls_authors": [
     "tathougies",
@@ -118,5 +118,5 @@
       "color": "#7e7eff"
     }
   },
-  "fetched_at": "2018-09-13T00:22:48.468Z"
+  "fetched_at": "2018-09-13T23:57:29.510Z"
 }

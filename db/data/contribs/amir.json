@@ -277,13 +277,13 @@
     "typelevel/cats": {
       "full_name": "typelevel/cats",
       "name": "cats",
-      "stargazers_count": 2729,
-      "popularity": 4.435899372798884,
+      "stargazers_count": 2731,
+      "popularity": 4.436217642193756,
       "percentage": 0.057570523891767415,
       "maturity": 4.5375492056884985,
       "total_commits_count": 3474,
       "activity": 5,
-      "total_score": 27.415995546380664,
+      "total_score": 27.416952736546936,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -420,7 +420,7 @@
     "golang/go": {
       "full_name": "golang/go",
       "name": "go",
-      "stargazers_count": 46809,
+      "stargazers_count": 46817,
       "popularity": 5,
       "percentage": 0.005619398162456801,
       "maturity": 5,

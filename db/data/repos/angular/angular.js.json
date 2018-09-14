@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/angular/angular.js/languages",
   "pulls_url": "https://api.github.com/repos/angular/angular.js/pulls{/number}",
   "created_at": "2010-01-06T00:34:37Z",
-  "updated_at": "2018-09-13T15:20:18Z",
-  "pushed_at": "2018-09-10T18:00:45Z",
+  "updated_at": "2018-09-13T22:05:46Z",
+  "pushed_at": "2018-09-13T20:29:07Z",
   "homepage": "https://angularjs.org",
   "size": 99306,
-  "stargazers_count": 59111,
+  "stargazers_count": 59112,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -3513,7 +3513,8 @@
     "elfgoh",
     "esprehn",
     "aornelas",
-    "bolu"
+    "bolu",
+    "ogsilvaa"
   ],
   "languages": {
     "JavaScript": {
@@ -3537,5 +3538,5 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-13T17:04:11.585Z"
+  "fetched_at": "2018-09-14T00:18:39.220Z"
 }

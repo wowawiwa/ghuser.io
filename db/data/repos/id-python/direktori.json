@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/id-python/direktori/languages",
   "pulls_url": "https://api.github.com/repos/id-python/direktori/pulls{/number}",
   "created_at": "2013-10-09T06:32:47Z",
-  "updated_at": "2018-05-06T16:07:59Z",
-  "pushed_at": "2018-04-15T20:36:23Z",
+  "updated_at": "2018-09-13T20:01:17Z",
+  "pushed_at": "2018-09-13T20:01:16Z",
   "homepage": null,
-  "size": 76,
+  "size": 78,
   "stargazers_count": 38,
   "language": null,
   "mirror_url": null,
@@ -90,7 +90,8 @@
     "byanto": 3,
     "christoga": 4,
     "gchandrasa": 6,
-    "za": 15
+    "za": 15,
+    "rdstach": 1
   },
   "pulls_authors": [
     "abaykan",
@@ -146,8 +147,9 @@
     "theresia",
     "petrabarus",
     "femmerling",
-    "goFrendiAsgard"
+    "goFrendiAsgard",
+    "rdstach"
   ],
   "languages": {},
-  "fetched_at": "2018-08-13T13:13:40.598Z"
+  "fetched_at": "2018-09-13T23:50:45.929Z"
 }

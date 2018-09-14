@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/rails/rails/languages",
   "pulls_url": "https://api.github.com/repos/rails/rails/pulls{/number}",
   "created_at": "2008-04-11T02:19:47Z",
-  "updated_at": "2018-09-13T14:13:40Z",
-  "pushed_at": "2018-09-13T14:15:26Z",
+  "updated_at": "2018-09-13T22:55:02Z",
+  "pushed_at": "2018-09-13T23:42:49Z",
   "homepage": "https://rubyonrails.org",
-  "size": 166324,
-  "stargazers_count": 40819,
+  "size": 166407,
+  "stargazers_count": 40820,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -133,7 +133,7 @@
     "kaspth": 1132,
     "amatsuda": 650,
     "vijaydev": 1061,
-    "y-yagi": 773,
+    "y-yagi": 774,
     "sgrif": 1214,
     "jonleighton": 959,
     "senny": 1636,
@@ -144,7 +144,7 @@
     "kamipo": 1612,
     "josevalim": 2574,
     "fxn": 2203,
-    "rafaelfranca": 5748,
+    "rafaelfranca": 5750,
     "jeremy": 3724,
     "dhh": 4233,
     "tenderlove": 4901,
@@ -5244,7 +5244,7 @@
   ],
   "languages": {
     "Ruby": {
-      "bytes": 12113952,
+      "bytes": 12114220,
       "color": "#701516"
     },
     "HTML": {
@@ -5272,5 +5272,5 @@
       "color": "#4B6C4B"
     }
   },
-  "fetched_at": "2018-09-13T16:26:47.122Z"
+  "fetched_at": "2018-09-13T23:44:47.231Z"
 }
