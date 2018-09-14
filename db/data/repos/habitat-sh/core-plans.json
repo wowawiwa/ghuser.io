@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/habitat-sh/core-plans/languages",
   "pulls_url": "https://api.github.com/repos/habitat-sh/core-plans/pulls{/number}",
   "created_at": "2015-11-17T13:45:46Z",
-  "updated_at": "2018-09-12T21:12:46Z",
-  "pushed_at": "2018-09-12T23:26:03Z",
+  "updated_at": "2018-09-14T02:04:37Z",
+  "pushed_at": "2018-09-14T02:04:33Z",
   "homepage": "",
-  "size": 15394,
+  "size": 15262,
   "stargazers_count": 94,
   "language": "Shell",
   "mirror_url": null,
@@ -124,7 +124,7 @@
     "bodymindarts": 22,
     "adamhjk": 23,
     "johnjelinek": 31,
-    "bdangit": 31,
+    "bdangit": 32,
     "wduncanfraser": 32,
     "juliandunn": 37,
     "srenatus": 41,
@@ -139,7 +139,7 @@
     "reset": 345,
     "mwrock": 122,
     "nellshamrell": 345,
-    "predominant": 212,
+    "predominant": 214,
     "rsertelon": 212,
     "fnichol": 610,
     "thommay": 28,
@@ -160,7 +160,8 @@
     "epcim": 1,
     "alexey-pankratyev": 1,
     "baumanj": 1,
-    "i-agrawal": 1
+    "i-agrawal": 1,
+    "jamesc": 4
   },
   "pulls_authors": [
     "srenatus",
@@ -313,7 +314,7 @@
   ],
   "languages": {
     "Shell": {
-      "bytes": 909465,
+      "bytes": 913917,
       "color": "#89e051"
     },
     "PowerShell": {
@@ -341,5 +342,5 @@
       "color": "#148AA8"
     }
   },
-  "fetched_at": "2018-09-12T23:48:41.896Z"
+  "fetched_at": "2018-09-14T08:25:17.076Z"
 }

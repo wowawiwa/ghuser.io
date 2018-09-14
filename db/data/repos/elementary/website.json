@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/elementary/website/languages",
   "pulls_url": "https://api.github.com/repos/elementary/website/pulls{/number}",
   "created_at": "2015-01-06T20:39:35Z",
-  "updated_at": "2018-09-13T16:31:29Z",
-  "pushed_at": "2018-09-13T16:31:25Z",
+  "updated_at": "2018-09-14T00:06:36Z",
+  "pushed_at": "2018-09-14T00:06:32Z",
   "homepage": "https://elementary.io",
-  "size": 112761,
+  "size": 112615,
   "stargazers_count": 803,
   "language": "PHP",
   "mirror_url": null,
@@ -112,7 +112,7 @@
     "HansCronau": 18,
     "MajkelKorczak": 18,
     "martpie": 18,
-    "strebski": 21,
+    "strebski": 24,
     "pmaf": 19,
     "scootergrisen": 19,
     "alvaroadlf": 19,
@@ -120,7 +120,7 @@
     "heptau": 21,
     "richardsjoqvist": 22,
     "iuninefrendor": 22,
-    "ryonakano": 32,
+    "ryonakano": 34,
     "erwnhdyt": 25,
     "memignone": 25,
     "zerng07": 27,
@@ -137,9 +137,9 @@
     "png2378": 60,
     "welaq": 63,
     "snwh": 72,
-    "comradekingu": 77,
+    "comradekingu": 79,
     "tintou": 90,
-    "yarons": 93,
+    "yarons": 96,
     "DDieter": 94,
     "bagjunggyu": 123,
     "cassidyjames": 181,
@@ -416,7 +416,9 @@
     "krthr": 1,
     "yrctw": 1,
     "wZuck": 1,
-    "aljelly": 1
+    "aljelly": 1,
+    "hebero": 1,
+    "RXCXCX": 1
   },
   "pulls_authors": [
     "comradekingu",
@@ -622,5 +624,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-13T16:37:17.839Z"
+  "fetched_at": "2018-09-14T08:33:14.290Z"
 }

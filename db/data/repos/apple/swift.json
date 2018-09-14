@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/apple/swift/languages",
   "pulls_url": "https://api.github.com/repos/apple/swift/pulls{/number}",
   "created_at": "2015-10-23T21:15:07Z",
-  "updated_at": "2018-09-13T23:41:50Z",
-  "pushed_at": "2018-09-13T23:54:39Z",
+  "updated_at": "2018-09-14T08:24:33Z",
+  "pushed_at": "2018-09-14T08:05:27Z",
   "homepage": "https://swift.org",
-  "size": 338346,
-  "stargazers_count": 45174,
+  "size": 338401,
+  "stargazers_count": 45178,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -69,14 +69,14 @@
     "omochi": 34,
     "glessard": 35,
     "kballard": 49,
-    "johnno1962": 37,
+    "johnno1962": 38,
     "parkera": 64,
     "emish": 47,
     "hamishknight": 47,
     "jtbandes": 46,
     "ikesyo": 62,
     "brentdax": 50,
-    "AnthonyLatsis": 55,
+    "AnthonyLatsis": 57,
     "cooperp": 49,
     "denisvnukov": 50,
     "stephentyrone": 62,
@@ -117,11 +117,11 @@
     "CodaFi": 256,
     "jopamer": 277,
     "AnnaZaks": 290,
-    "davidungar": 454,
+    "davidungar": 457,
     "milseman": 546,
-    "compnerd": 569,
+    "compnerd": 572,
     "gparker42": 458,
-    "graydon": 517,
+    "graydon": 519,
     "tkremenek": 655,
     "xedin": 722,
     "trentxintong": 590,
@@ -142,14 +142,14 @@
     "rjmccall": 1883,
     "dabrahams": 1916,
     "practicalswift": 2393,
-    "jrose-apple": 3380,
+    "jrose-apple": 3382,
     "gottesmm": 3584,
     "slavapestov": 4243,
     "gribozavr": 4444,
-    "jckarter": 4291,
+    "jckarter": 4293,
     "lattner": 4536,
     "DougGregor": 6138,
-    "swift-ci": 10621,
+    "swift-ci": 10622,
     "divadretlaw": 25,
     "alblue": 23,
     "dingobye": 23,
@@ -1319,11 +1319,11 @@
   ],
   "languages": {
     "C++": {
-      "bytes": 30331002,
+      "bytes": 30332800,
       "color": "#f34b7d"
     },
     "Swift": {
-      "bytes": 24698065,
+      "bytes": 24702627,
       "color": "#ffac45"
     },
     "Python": {
@@ -1387,5 +1387,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-09-13T23:56:51.216Z"
+  "fetched_at": "2018-09-14T08:37:53.272Z"
 }

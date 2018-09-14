@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/fossasia/query-server/languages",
   "pulls_url": "https://api.github.com/repos/fossasia/query-server/pulls{/number}",
   "created_at": "2016-11-25T20:24:01Z",
-  "updated_at": "2018-09-13T19:41:37Z",
-  "pushed_at": "2018-09-13T15:21:28Z",
+  "updated_at": "2018-09-14T06:29:46Z",
+  "pushed_at": "2018-09-14T03:43:47Z",
   "homepage": "",
-  "size": 5306,
-  "stargazers_count": 532,
+  "size": 5305,
+  "stargazers_count": 535,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -92,7 +92,8 @@
     "cclauss": 20,
     "enigmaeth": 21,
     "bhaveshAn": 24,
-    "vkartik97": 1
+    "vkartik97": 1,
+    "dnuka": 1
   },
   "pulls_authors": [
     "vkartik97",
@@ -194,7 +195,7 @@
       "color": "#3572A5"
     },
     "HTML": {
-      "bytes": 15970,
+      "bytes": 15053,
       "color": "#e34c26"
     },
     "CSS": {
@@ -206,5 +207,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-13T23:42:12.327Z"
+  "fetched_at": "2018-09-14T08:21:43.999Z"
 }

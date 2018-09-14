@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/multiarch/debian-debootstrap/languages",
   "pulls_url": "https://api.github.com/repos/multiarch/debian-debootstrap/pulls{/number}",
   "created_at": "2015-12-01T21:34:57Z",
-  "updated_at": "2018-06-21T07:18:38Z",
+  "updated_at": "2018-09-14T02:51:37Z",
   "pushed_at": "2018-05-26T17:02:48Z",
   "homepage": "https://hub.docker.com/r/multiarch/debian-debootstrap/",
   "size": 32,
-  "stargazers_count": 15,
+  "stargazers_count": 16,
   "language": "Shell",
   "mirror_url": null,
   "archived": false,
@@ -67,5 +67,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-05T13:06:41.866Z"
+  "fetched_at": "2018-09-14T08:33:57.049Z"
 }

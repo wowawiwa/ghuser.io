@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/docker/docker-ce/languages",
   "pulls_url": "https://api.github.com/repos/docker/docker-ce/pulls{/number}",
   "created_at": "2017-05-19T23:09:47Z",
-  "updated_at": "2018-09-13T21:02:02Z",
-  "pushed_at": "2018-09-13T21:02:00Z",
+  "updated_at": "2018-09-14T06:32:19Z",
+  "pushed_at": "2018-09-14T05:03:12Z",
   "homepage": "https://www.docker.com/community-edition",
-  "size": 148365,
-  "stargazers_count": 1564,
+  "size": 148335,
+  "stargazers_count": 1565,
   "language": "Go",
   "mirror_url": null,
   "archived": false,
@@ -56,7 +56,7 @@
     "vincentbernat": 31,
     "charleswhchan": 32,
     "arm64b": 33,
-    "silvin-lubecki": 57,
+    "silvin-lubecki": 58,
     "ankushagarwal": 36,
     "shishir-a412ed": 39,
     "MHBauer": 40,
@@ -122,13 +122,13 @@
     "duglin": 475,
     "unclejack": 497,
     "alexlarsson": 296,
-    "tiborvass": 1067,
+    "tiborvass": 1070,
     "runcom": 532,
     "aaronlehmann": 444,
     "SvenDowideit": 626,
     "sdurrheimer": 380,
     "calavera": 1019,
-    "tonistiigi": 573,
+    "tonistiigi": 574,
     "jessfraz": 387,
     "tianon": 822,
     "LK4D4": 1407,
@@ -139,10 +139,10 @@
     "creack": 1264,
     "dnephin": 921,
     "albers": 772,
-    "thaJeztah": 3352,
+    "thaJeztah": 3353,
     "crosbymichael": 2111,
     "vieux": 1986,
-    "GordonTheTurtle": 479,
+    "GordonTheTurtle": 482,
     "metalivedev": 134,
     "moxiegirl": 59,
     "johnstep": 42,
@@ -176,7 +176,7 @@
     "simonferquel": 18,
     "tklauser": 18,
     "boucher": 18,
-    "AntaresS": 17,
+    "AntaresS": 21,
     "Djelibeybi": 17,
     "friism": 17,
     "nalind": 17,
@@ -448,7 +448,7 @@
   ],
   "languages": {
     "Go": {
-      "bytes": 9542553,
+      "bytes": 9543421,
       "color": "#375eab"
     },
     "Shell": {
@@ -484,5 +484,5 @@
       "color": "#6E4C13"
     }
   },
-  "fetched_at": "2018-09-13T23:53:51.989Z"
+  "fetched_at": "2018-09-14T08:33:54.769Z"
 }

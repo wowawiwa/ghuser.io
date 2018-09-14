@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/tutao/tutanota/languages",
   "pulls_url": "https://api.github.com/repos/tutao/tutanota/pulls{/number}",
   "created_at": "2014-07-28T14:14:45Z",
-  "updated_at": "2018-09-13T14:30:24Z",
-  "pushed_at": "2018-09-13T14:30:22Z",
+  "updated_at": "2018-09-14T07:28:52Z",
+  "pushed_at": "2018-09-14T07:28:50Z",
   "homepage": "https://tutanota.com",
-  "size": 95704,
-  "stargazers_count": 2068,
+  "size": 95738,
+  "stargazers_count": 2070,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -62,8 +62,8 @@
     "elninosi": 2,
     "hahub": 3,
     "tk421": 4,
-    "ganthern": 8,
-    "charlag": 215,
+    "ganthern": 9,
+    "charlag": 216,
     "mpfau": 297,
     "armhub": 670,
     "bedhub": 772
@@ -97,7 +97,7 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 6631867,
+      "bytes": 6633226,
       "color": "#f1e05a"
     },
     "C": {
@@ -121,5 +121,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-13T16:22:44.545Z"
+  "fetched_at": "2018-09-14T08:20:20.186Z"
 }

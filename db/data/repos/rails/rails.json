@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/rails/rails/languages",
   "pulls_url": "https://api.github.com/repos/rails/rails/pulls{/number}",
   "created_at": "2008-04-11T02:19:47Z",
-  "updated_at": "2018-09-13T22:55:02Z",
-  "pushed_at": "2018-09-13T23:42:49Z",
+  "updated_at": "2018-09-14T07:43:18Z",
+  "pushed_at": "2018-09-14T07:42:28Z",
   "homepage": "https://rubyonrails.org",
-  "size": 166407,
+  "size": 166409,
   "stargazers_count": 40820,
   "language": "Ruby",
   "mirror_url": null,
@@ -99,7 +99,7 @@
     "fcheung": 149,
     "yhirano55": 148,
     "smartinez87": 148,
-    "yahonda": 157,
+    "yahonda": 158,
     "lukaszx0": 154,
     "claudiob": 260,
     "arthurnn": 245,
@@ -133,7 +133,7 @@
     "kaspth": 1132,
     "amatsuda": 650,
     "vijaydev": 1061,
-    "y-yagi": 774,
+    "y-yagi": 775,
     "sgrif": 1214,
     "jonleighton": 959,
     "senny": 1636,
@@ -141,7 +141,7 @@
     "carlosantoniodasilva": 1449,
     "lifo": 993,
     "josh": 1109,
-    "kamipo": 1612,
+    "kamipo": 1614,
     "josevalim": 2574,
     "fxn": 2203,
     "rafaelfranca": 5750,
@@ -5240,7 +5240,8 @@
     "nydame",
     "LucasBrandt",
     "gkemmey",
-    "ritikesh"
+    "ritikesh",
+    "robbertbrak"
   ],
   "languages": {
     "Ruby": {
@@ -5272,5 +5273,5 @@
       "color": "#4B6C4B"
     }
   },
-  "fetched_at": "2018-09-13T23:44:47.231Z"
+  "fetched_at": "2018-09-14T08:24:09.160Z"
 }

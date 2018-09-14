@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/elastic/elasticsearch/languages",
   "pulls_url": "https://api.github.com/repos/elastic/elasticsearch/pulls{/number}",
   "created_at": "2010-02-08T13:20:56Z",
-  "updated_at": "2018-09-13T20:41:29Z",
-  "pushed_at": "2018-09-13T23:21:44Z",
+  "updated_at": "2018-09-14T08:23:22Z",
+  "pushed_at": "2018-09-14T08:24:33Z",
   "homepage": "https://www.elastic.co/products/elasticsearch",
-  "size": 512607,
-  "stargazers_count": 34338,
+  "size": 512687,
+  "stargazers_count": 34355,
   "language": "Java",
   "mirror_url": null,
   "archived": false,
@@ -77,7 +77,7 @@
     "kzwang": 22,
     "mattweber": 23,
     "Mpdreamz": 35,
-    "bizybot": 25,
+    "bizybot": 26,
     "gmarz": 34,
     "vladimirdolzhenko": 27,
     "romseygeek": 26,
@@ -94,10 +94,10 @@
     "albertzaharovits": 46,
     "jtibshirani": 51,
     "olcbean": 52,
-    "jkakavas": 53,
+    "jkakavas": 54,
     "andyb-elastic": 54,
     "atorok": 60,
-    "original-brownbear": 67,
+    "original-brownbear": 68,
     "uschindler": 75,
     "DaveCTurner": 77,
     "hub-cap": 78,
@@ -114,11 +114,11 @@
     "karmi": 184,
     "jdconrad": 243,
     "tbrooks8": 205,
-    "costin": 220,
+    "costin": 221,
     "pickypg": 232,
     "polyfractal": 237,
     "GaelTadh": 252,
-    "dnhatn": 321,
+    "dnhatn": 322,
     "davidkyle": 287,
     "droberts195": 300,
     "mikemccand": 344,
@@ -131,9 +131,9 @@
     "lcawl": 480,
     "colings86": 682,
     "dakrone": 721,
-    "imotov": 662,
+    "imotov": 663,
     "tlrx": 701,
-    "cbuescher": 994,
+    "cbuescher": 995,
     "jaymode": 823,
     "spinscale": 880,
     "rmuir": 1256,
@@ -145,7 +145,7 @@
     "nik9000": 1665,
     "javanna": 1880,
     "jasontedor": 2249,
-    "martijnvg": 2245,
+    "martijnvg": 2246,
     "s1monw": 3117,
     "kimchy": 4781,
     "lukasolson": 110,
@@ -2262,7 +2262,7 @@
   ],
   "languages": {
     "Java": {
-      "bytes": 71107956,
+      "bytes": 71184424,
       "color": "#b07219"
     },
     "Groovy": {
@@ -2306,5 +2306,5 @@
       "color": "#0050b2"
     }
   },
-  "fetched_at": "2018-09-13T23:48:02.063Z"
+  "fetched_at": "2018-09-14T08:27:24.424Z"
 }

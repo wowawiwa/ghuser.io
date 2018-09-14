@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/wbond/package_control_channel/languages",
   "pulls_url": "https://api.github.com/repos/wbond/package_control_channel/pulls{/number}",
   "created_at": "2011-08-05T03:56:41Z",
-  "updated_at": "2018-09-13T17:23:45Z",
-  "pushed_at": "2018-09-13T17:23:30Z",
+  "updated_at": "2018-09-14T02:17:16Z",
+  "pushed_at": "2018-09-14T07:35:39Z",
   "homepage": "https://packagecontrol.io/docs/developers",
   "size": 15026,
-  "stargazers_count": 1099,
+  "stargazers_count": 1100,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -4328,7 +4328,8 @@
     "zxqfl",
     "aziis98",
     "flau",
-    "nivin-studio"
+    "nivin-studio",
+    "Rodz3rd2"
   ],
   "languages": {
     "Python": {
@@ -4336,5 +4337,5 @@
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-09-13T23:48:53.652Z"
+  "fetched_at": "2018-09-14T08:28:20.262Z"
 }

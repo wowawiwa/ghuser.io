@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/Homebrew/homebrew-core/languages",
   "pulls_url": "https://api.github.com/repos/Homebrew/homebrew-core/pulls{/number}",
   "created_at": "2016-03-01T06:58:36Z",
-  "updated_at": "2018-09-13T22:24:52Z",
-  "pushed_at": "2018-09-13T22:06:11Z",
+  "updated_at": "2018-09-14T08:13:25Z",
+  "pushed_at": "2018-09-14T08:11:07Z",
   "homepage": "https://brew.sh",
-  "size": 204033,
-  "stargazers_count": 4260,
+  "size": 204083,
+  "stargazers_count": 4263,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -48,7 +48,7 @@
     "site_admin": false
   },
   "contributors": {
-    "BrewTestBot": 46825,
+    "BrewTestBot": 46831,
     "ilovezfs": 16338,
     "adamv": 4692,
     "jacknagel": 4476,
@@ -57,7 +57,7 @@
     "asparagui": 2056,
     "vszakats": 2030,
     "tschoonj": 1069,
-    "fxcoudert": 1153,
+    "fxcoudert": 1154,
     "nijikon": 888,
     "mistydemeo": 880,
     "bfontaine": 875,
@@ -70,7 +70,7 @@
     "mxcl": 415,
     "Sharpie": 400,
     "tdsmith": 353,
-    "lembacon": 375,
+    "lembacon": 378,
     "0xffea": 274,
     "apjanke": 272,
     "afh": 249,
@@ -470,7 +470,7 @@
     "hydrajump": 11,
     "nbari": 11,
     "MediaAreaCI": 12,
-    "javian": 11
+    "javian": 12
   },
   "pulls_authors": [
     "zzak",
@@ -3908,11 +3908,12 @@
     "arichardson",
     "jschlyter",
     "novak",
-    "yfguo"
+    "yfguo",
+    "openset"
   ],
   "languages": {
     "Ruby": {
-      "bytes": 8345470,
+      "bytes": 8347818,
       "color": "#701516"
     },
     "Perl": {
@@ -3920,5 +3921,5 @@
       "color": "#0298c3"
     }
   },
-  "fetched_at": "2018-09-13T23:39:55.438Z"
+  "fetched_at": "2018-09-14T08:19:30.797Z"
 }

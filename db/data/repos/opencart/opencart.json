@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/opencart/opencart/languages",
   "pulls_url": "https://api.github.com/repos/opencart/opencart/pulls{/number}",
   "created_at": "2011-08-02T07:32:17Z",
-  "updated_at": "2018-09-13T17:28:23Z",
-  "pushed_at": "2018-09-13T14:46:19Z",
+  "updated_at": "2018-09-14T07:30:59Z",
+  "pushed_at": "2018-09-14T07:30:44Z",
   "homepage": "https://www.opencart.com/",
-  "size": 78076,
+  "size": 78078,
   "stargazers_count": 4403,
   "language": "PHP",
   "mirror_url": null,
@@ -146,7 +146,7 @@
     "eka7a": 175,
     "OpenCartAddons": 153,
     "jamesallsup": 1772,
-    "danielkerr": 4014,
+    "danielkerr": 4015,
     "Spell6inder": 2,
     "pine3ree": 88,
     "valdeir2000": 10,
@@ -972,7 +972,7 @@
       "color": "#e34c26"
     },
     "JavaScript": {
-      "bytes": 1635762,
+      "bytes": 1635400,
       "color": "#f1e05a"
     },
     "CSS": {
@@ -988,5 +988,5 @@
       "color": "#427819"
     }
   },
-  "fetched_at": "2018-09-13T23:58:39.147Z"
+  "fetched_at": "2018-09-14T09:07:27.981Z"
 }

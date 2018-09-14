@@ -10,9 +10,9 @@
   "url": "https://api.github.com/repos/wei/pull",
   "languages_url": "https://api.github.com/repos/wei/pull/languages",
   "created_at": "2018-05-26T20:19:21Z",
-  "updated_at": "2018-09-12T14:32:49Z",
+  "updated_at": "2018-09-14T01:25:41Z",
   "pushed_at": "2018-09-12T14:32:50Z",
-  "homepage": "",
+  "homepage": "https://github.com/apps/pull",
   "size": 1012,
   "stargazers_count": 42,
   "language": "JavaScript",
@@ -31,7 +31,7 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-12T16:54:07.182Z",
+  "fetched_at": "2018-09-14T09:11:43.648Z",
   "pulls_url": "https://api.github.com/repos/wei/pull/pulls{/number}",
   "pulls_authors": [
     "depfu[bot]",

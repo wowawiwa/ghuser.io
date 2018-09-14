@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/yannickcr/eslint-plugin-react/languages",
   "pulls_url": "https://api.github.com/repos/yannickcr/eslint-plugin-react/pulls{/number}",
   "created_at": "2014-12-15T23:44:14Z",
-  "updated_at": "2018-09-13T21:13:15Z",
-  "pushed_at": "2018-09-13T09:11:57Z",
+  "updated_at": "2018-09-14T08:03:48Z",
+  "pushed_at": "2018-09-14T07:55:52Z",
   "homepage": null,
-  "size": 3431,
-  "stargazers_count": 4491,
+  "size": 3434,
+  "stargazers_count": 4495,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -123,10 +123,10 @@
     "DianaSuvorova": 18,
     "pfhayes": 20,
     "jomasti": 33,
-    "alexzherdev": 42,
+    "alexzherdev": 43,
     "lencioni": 81,
     "jackyho112": 65,
-    "ljharb": 298,
+    "ljharb": 299,
     "jseminck": 85,
     "yannickcr": 708,
     "nicholas-l": 3,
@@ -623,9 +623,9 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 1477722,
+      "bytes": 1478230,
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-13T23:44:12.387Z"
+  "fetched_at": "2018-09-14T08:23:36.203Z"
 }

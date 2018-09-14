@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/magento/magento2/languages",
   "pulls_url": "https://api.github.com/repos/magento/magento2/pulls{/number}",
   "created_at": "2011-11-30T15:30:13Z",
-  "updated_at": "2018-09-13T23:41:14Z",
-  "pushed_at": "2018-09-13T23:40:51Z",
+  "updated_at": "2018-09-14T08:19:16Z",
+  "pushed_at": "2018-09-14T08:13:03Z",
   "homepage": "http://www.magento.com",
-  "size": 480266,
-  "stargazers_count": 6083,
+  "size": 480866,
+  "stargazers_count": 6086,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -94,7 +94,7 @@
     "le0n4eg": 113,
     "anupdugar": 166,
     "duhon": 133,
-    "nikshostko": 305,
+    "nikshostko": 326,
     "ishakhsuvarov": 971,
     "AndreiZiblitski": 193,
     "sergiosemov": 302,
@@ -113,13 +113,13 @@
     "omiroshnichenko": 331,
     "sivaschenko": 375,
     "slopok": 380,
-    "rganin": 1006,
+    "rganin": 1013,
     "Dell-": 319,
     "davidalger": 297,
     "oshmyheliuk": 382,
     "guz-anton": 528,
     "tang-yu": 426,
-    "joanhe": 828,
+    "joanhe": 830,
     "igrybkov": 433,
     "dkvashninbay": 452,
     "odubovyk": 399,
@@ -140,7 +140,7 @@
     "AndriyNasinnyk": 527,
     "akaplya": 610,
     "shiftedreality": 885,
-    "cpartica": 1095,
+    "cpartica": 1096,
     "slopukhov": 848,
     "mslabko": 657,
     "eddielau": 682,
@@ -153,11 +153,11 @@
     "zakdma": 310,
     "aakimov": 164,
     "sevos1984": 153,
-    "magento-cicd2": 407,
+    "magento-cicd2": 412,
     "kalashnikau-uladzimir": 152,
     "vil11": 135,
     "aleksandrosadchiy": 127,
-    "okolesnyk": 232,
+    "okolesnyk": 236,
     "uharbachou": 121,
     "pdohogne-magento": 138,
     "heyitsroberthe": 217,
@@ -247,7 +247,7 @@
     "mpchadwick": 11,
     "tdgroot": 11,
     "dhorytskyi": 21,
-    "vital-pantsialeyeu": 51,
+    "vital-pantsialeyeu": 59,
     "kassner": 21,
     "redelschaap": 20,
     "sivajik34": 20,
@@ -276,7 +276,7 @@
     "GordonLesti": 13,
     "mcspronko": 13,
     "tomreece": 217,
-    "KevinBKozan": 48,
+    "KevinBKozan": 52,
     "dmitriyprime": 12,
     "liiskmaa": 12,
     "phoenix-bjoern": 73,
@@ -325,14 +325,14 @@
     "PieterCappelle": 20,
     "yelahin-serhiy": 20,
     "maximgubar": 20,
-    "davgrigoryan1992": 19,
+    "davgrigoryan1992": 20,
     "waynetheisinger": 19,
     "piotrkwiecinski": 17,
     "davemacaulay": 17,
     "roma-glushko": 16,
     "careys7": 15,
     "phoenix128": 15,
-    "admanesachin": 15,
+    "admanesachin": 21,
     "mtanniru": 15,
     "enriquei4": 14,
     "Neos2007": 14,
@@ -340,7 +340,11 @@
     "eric-bohanon": 13,
     "DominicWatts": 12,
     "ilnytskyi": 11,
-    "afoucret": 10
+    "afoucret": 10,
+    "VeronikaYarats": 18,
+    "YuliyaLabudova": 18,
+    "lusinehak": 12,
+    "stkorf": 12
   },
   "pulls_authors": [
     "bartoszkubicki",
@@ -1614,15 +1618,15 @@
   ],
   "languages": {
     "PHP": {
-      "bytes": 75742781,
+      "bytes": 75767743,
       "color": "#4F5D95"
     },
     "HTML": {
-      "bytes": 8865138,
+      "bytes": 8865336,
       "color": "#e34c26"
     },
     "JavaScript": {
-      "bytes": 5338008,
+      "bytes": 5338125,
       "color": "#f1e05a"
     },
     "CSS": {
@@ -1638,5 +1642,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-13T23:48:10.410Z"
+  "fetched_at": "2018-09-14T08:27:32.114Z"
 }

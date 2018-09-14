@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/sympy/sympy/languages",
   "pulls_url": "https://api.github.com/repos/sympy/sympy/pulls{/number}",
   "created_at": "2010-04-30T20:37:14Z",
-  "updated_at": "2018-09-13T21:22:13Z",
-  "pushed_at": "2018-09-13T23:32:38Z",
+  "updated_at": "2018-09-14T05:17:23Z",
+  "pushed_at": "2018-09-14T07:15:15Z",
   "homepage": "https://sympy.org/",
-  "size": 94938,
-  "stargazers_count": 5105,
+  "size": 94950,
+  "stargazers_count": 5107,
   "language": "Python",
   "mirror_url": null,
   "archived": false,
@@ -74,7 +74,7 @@
     "Abdullahjavednesar": 108,
     "prasoon2211": 80,
     "NikhilPappu": 77,
-    "isuruf": 78,
+    "isuruf": 79,
     "lazovich": 69,
     "jrjohansson": 71,
     "goodok": 90,
@@ -103,7 +103,7 @@
     "akash9712": 121,
     "catchmrbharath": 111,
     "fabianp": 114,
-    "jksuom": 485,
+    "jksuom": 486,
     "vks": 138,
     "shivamvats": 123,
     "vperic": 133,
@@ -146,7 +146,7 @@
     "certik": 1473,
     "mrocklin": 994,
     "mattpap": 1450,
-    "asmeurer": 3521,
+    "asmeurer": 3528,
     "smichr": 4716,
     "skirpichev": 1081,
     "drlvk": 185,
@@ -1443,5 +1443,5 @@
       "color": "#1e4aec"
     }
   },
-  "fetched_at": "2018-09-13T23:46:36.716Z"
+  "fetched_at": "2018-09-14T08:25:56.943Z"
 }

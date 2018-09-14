@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/elastic/kibana/languages",
   "pulls_url": "https://api.github.com/repos/elastic/kibana/pulls{/number}",
   "created_at": "2013-01-26T04:00:59Z",
-  "updated_at": "2018-09-13T23:14:42Z",
-  "pushed_at": "2018-09-13T23:52:21Z",
+  "updated_at": "2018-09-14T08:16:33Z",
+  "pushed_at": "2018-09-14T09:03:12Z",
   "homepage": "https://www.elastic.co/products/kibana",
-  "size": 454283,
-  "stargazers_count": 10074,
+  "size": 468400,
+  "stargazers_count": 10079,
   "language": "JavaScript",
   "mirror_url": null,
   "archived": false,
@@ -110,8 +110,8 @@
     "pickypg": 23,
     "clintongormley": 25,
     "nyurik": 27,
-    "snide": 29,
-    "azasypkin": 33,
+    "snide": 31,
+    "azasypkin": 34,
     "peteharverson": 36,
     "jimmyjones2": 36,
     "archanid": 35,
@@ -126,7 +126,7 @@
     "kobelb": 91,
     "kimjoar": 95,
     "tylersmalley": 131,
-    "tsullivan": 141,
+    "tsullivan": 165,
     "bevacqua": 161,
     "thomasneirynck": 184,
     "timroes": 194,
@@ -135,22 +135,22 @@
     "BigFunger": 339,
     "LeeDr": 328,
     "Stacey-Gammon": 277,
-    "ppisljar": 286,
+    "ppisljar": 287,
     "ycombinator": 330,
     "epixa": 397,
-    "lukasolson": 461,
+    "lukasolson": 518,
     "jbudz": 472,
     "cjcenizal": 484,
-    "Bargs": 570,
+    "Bargs": 575,
     "bleskes": 515,
     "simianhacker": 665,
-    "rashidkpc": 1001,
+    "rashidkpc": 2464,
     "stormpython": 1190,
-    "w33ble": 1613,
-    "spalger": 4258,
+    "w33ble": 2150,
+    "spalger": 4260,
     "johtani": 4,
     "cwurm": 4,
-    "alexfrancoeur": 3,
+    "alexfrancoeur": 6,
     "colmose": 3,
     "dlumbrer": 3,
     "jahtalab": 3,
@@ -285,7 +285,7 @@
     "stevenchen3": 1,
     "srl295": 1,
     "suyograo": 1,
-    "tbragin": 1,
+    "tbragin": 2,
     "marminthibaut": 1,
     "tcharlot-datasweet": 1,
     "ebuildy": 1,
@@ -325,7 +325,10 @@
     "bungoume": 1,
     "wispxjtu": 1,
     "yershalom": 1,
-    "ytzlax": 1
+    "ytzlax": 1,
+    "cqliu1": 102,
+    "monfera": 39,
+    "ryankeairns": 3
   },
   "pulls_authors": [
     "nreese",
@@ -963,11 +966,12 @@
     "saez0pub",
     "WillAbides",
     "trantran-lzd",
-    "aaronmaxlevy"
+    "aaronmaxlevy",
+    "cqliu1"
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 18511715,
+      "bytes": 19858120,
       "color": "#f1e05a"
     },
     "TypeScript": {
@@ -979,7 +983,7 @@
       "color": "#e34c26"
     },
     "CSS": {
-      "bytes": 426083,
+      "bytes": 458832,
       "color": "#563d7c"
     },
     "Shell": {
@@ -1003,5 +1007,5 @@
       "color": "#0db7ed"
     }
   },
-  "fetched_at": "2018-09-14T00:19:22.000Z"
+  "fetched_at": "2018-09-14T09:11:35.852Z"
 }

@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/google/kythe/languages",
   "pulls_url": "https://api.github.com/repos/google/kythe/pulls{/number}",
   "created_at": "2015-01-13T05:39:06Z",
-  "updated_at": "2018-09-13T22:19:53Z",
-  "pushed_at": "2018-09-13T22:23:05Z",
+  "updated_at": "2018-09-14T04:28:23Z",
+  "pushed_at": "2018-09-14T04:28:21Z",
   "homepage": "https://kythe.io",
-  "size": 163705,
-  "stargazers_count": 1053,
+  "size": 163707,
+  "stargazers_count": 1054,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -88,7 +88,7 @@
     "shahms": 165,
     "creachadair": 438,
     "zrlk": 436,
-    "schroederc": 1037
+    "schroederc": 1038
   },
   "pulls_authors": [
     "creachadair",
@@ -132,7 +132,7 @@
       "color": "#375eab"
     },
     "Java": {
-      "bytes": 736438,
+      "bytes": 736758,
       "color": "#b07219"
     },
     "Python": {
@@ -220,5 +220,5 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-09-13T23:54:57.883Z"
+  "fetched_at": "2018-09-14T08:35:21.070Z"
 }

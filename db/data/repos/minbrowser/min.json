@@ -32,7 +32,7 @@
     "ChristiaanLock": 2,
     "chrisbendel": 2,
     "PaulBGD": 2,
-    "code-hunger": 4,
+    "code-hunger": 5,
     "danfragoso": 3,
     "plrenaudin": 3,
     "emersion": 3,
@@ -58,11 +58,11 @@
   "url": "https://api.github.com/repos/minbrowser/min",
   "languages_url": "https://api.github.com/repos/minbrowser/min/languages",
   "created_at": "2015-10-31T21:59:49Z",
-  "updated_at": "2018-09-13T20:05:30Z",
-  "pushed_at": "2018-09-13T14:05:07Z",
+  "updated_at": "2018-09-14T02:41:42Z",
+  "pushed_at": "2018-09-14T02:41:38Z",
   "homepage": "https://minbrowser.github.io/min",
-  "size": 147306,
-  "stargazers_count": 2586,
+  "size": 147311,
+  "stargazers_count": 2587,
   "language": "HTML",
   "mirror_url": null,
   "archived": false,
@@ -100,7 +100,7 @@
       "color": "#e34c26"
     },
     "JavaScript": {
-      "bytes": 434441,
+      "bytes": 435168,
       "color": "#f1e05a"
     },
     "CSS": {
@@ -108,7 +108,7 @@
       "color": "#563d7c"
     }
   },
-  "fetched_at": "2018-09-13T23:43:50.719Z",
+  "fetched_at": "2018-09-14T08:23:18.387Z",
   "pulls_url": "https://api.github.com/repos/minbrowser/min/pulls{/number}",
   "pulls_authors": [
     "slemony",

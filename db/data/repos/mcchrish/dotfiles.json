@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/mcchrish/dotfiles/languages",
   "pulls_url": "https://api.github.com/repos/mcchrish/dotfiles/pulls{/number}",
   "created_at": "2015-08-11T07:34:26Z",
-  "updated_at": "2018-09-04T10:47:09Z",
-  "pushed_at": "2018-09-04T10:47:07Z",
+  "updated_at": "2018-09-14T03:12:13Z",
+  "pushed_at": "2018-09-14T03:12:12Z",
   "homepage": "",
-  "size": 516,
+  "size": 517,
   "stargazers_count": 3,
   "language": "Vim script",
   "mirror_url": null,
@@ -22,12 +22,12 @@
   "license": null,
   "default_branch": "master",
   "contributors": {
-    "mcchrish": 489
+    "mcchrish": 490
   },
   "pulls_authors": [],
   "languages": {
     "Vim script": {
-      "bytes": 92095,
+      "bytes": 92458,
       "color": "#199f4b"
     },
     "Shell": {
@@ -35,5 +35,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T07:36:34.464Z"
+  "fetched_at": "2018-09-14T08:33:30.162Z"
 }

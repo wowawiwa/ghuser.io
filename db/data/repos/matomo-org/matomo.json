@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/matomo-org/matomo/languages",
   "pulls_url": "https://api.github.com/repos/matomo-org/matomo/pulls{/number}",
   "created_at": "2011-03-30T21:18:17Z",
-  "updated_at": "2018-09-13T23:38:36Z",
-  "pushed_at": "2018-09-13T09:05:01Z",
+  "updated_at": "2018-09-14T05:48:56Z",
+  "pushed_at": "2018-09-14T05:48:49Z",
   "homepage": "https://matomo.org/",
-  "size": 197823,
-  "stargazers_count": 9894,
+  "size": 197776,
+  "stargazers_count": 9895,
   "language": "PHP",
   "mirror_url": null,
   "archived": false,
@@ -145,7 +145,7 @@
     "mnapoli": 943,
     "robocoder": 2199,
     "sgiehl": 2595,
-    "diosmosis": 2545,
+    "diosmosis": 2546,
     "tsteur": 4014,
     "mattab": 7957,
     "postalservice14": 2,
@@ -628,7 +628,7 @@
   ],
   "languages": {
     "PHP": {
-      "bytes": 14324136,
+      "bytes": 14324173,
       "color": "#4F5D95"
     },
     "JavaScript": {
@@ -676,5 +676,5 @@
       "color": "#244776"
     }
   },
-  "fetched_at": "2018-09-13T23:48:04.906Z"
+  "fetched_at": "2018-09-14T08:27:27.431Z"
 }

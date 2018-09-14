@@ -56,13 +56,13 @@
     "coleifer/sqlite-web": {
       "full_name": "coleifer/sqlite-web",
       "name": "sqlite-web",
-      "stargazers_count": 620,
-      "popularity": 3.791799886352676,
+      "stargazers_count": 621,
+      "popularity": 3.792500813696903,
       "percentage": 0,
       "maturity": 2.508235952687284,
       "total_commits_count": 72,
-      "activity": 2.852596267638177,
-      "total_score": 19.24446783207077,
+      "activity": 2.7274839052042457,
+      "total_score": 19.121458251669523,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -271,6 +271,19 @@
       "total_commits_count": 5,
       "activity": 5,
       "total_score": 26.15610435364042,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "patarapolw/AnkiPy": {
+      "full_name": "patarapolw/AnkiPy",
+      "name": "AnkiPy",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 8,
+      "activity": 5,
+      "total_score": 5,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

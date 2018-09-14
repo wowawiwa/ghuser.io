@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/Roshanjossey/first-contributions",
   "languages_url": "https://api.github.com/repos/Roshanjossey/first-contributions/languages",
   "created_at": "2016-09-20T14:35:09Z",
-  "updated_at": "2018-09-13T23:28:25Z",
-  "pushed_at": "2018-09-13T23:32:20Z",
+  "updated_at": "2018-09-14T07:17:59Z",
+  "pushed_at": "2018-09-14T07:17:44Z",
   "homepage": "https://roshanjossey.github.io/first-contributions/",
-  "size": 33162,
+  "size": 32554,
   "stargazers_count": 2887,
   "language": "JavaScript",
   "mirror_url": null,
@@ -127,7 +127,7 @@
     "launganik": 28,
     "Ashleyt28": 34,
     "mippzon": 54,
-    "Roshanjossey": 7824,
+    "Roshanjossey": 7840,
     "invalid-email-address": 16,
     "rglc12": 8,
     "hrishi7": 4,
@@ -498,7 +498,9 @@
     "TsarVandall": 2,
     "peeyushshawarma": 2,
     "saraansh1999": 2,
-    "mattander91": 2
+    "mattander91": 2,
+    "AlexandroPerez": 2,
+    "dmitri-desh": 2
   },
   "languages": {
     "JavaScript": {
@@ -514,7 +516,7 @@
       "color": "#e34c26"
     }
   },
-  "fetched_at": "2018-09-13T23:50:07.689Z",
+  "fetched_at": "2018-09-14T08:29:39.740Z",
   "pulls_url": "https://api.github.com/repos/Roshanjossey/first-contributions/pulls{/number}",
   "pulls_authors": [
     "ShadrachJ",
@@ -6551,6 +6553,11 @@
     "jphanna",
     "FishBowl025",
     "mattander91",
-    "asudbury"
+    "asudbury",
+    "mdenend",
+    "leanjunio",
+    "Neveon",
+    "MGenteluci",
+    "annelizs"
   ]
 }

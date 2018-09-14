@@ -4,13 +4,13 @@
     "senecajs/seneca": {
       "full_name": "senecajs/seneca",
       "name": "seneca",
-      "stargazers_count": 3101,
-      "popularity": 4.491414790500181,
+      "stargazers_count": 3102,
+      "popularity": 4.491554858386051,
       "percentage": 65.73604060913705,
       "maturity": 4.059440298418675,
       "total_commits_count": 1182,
       "activity": 5,
-      "total_score": 64.97534222624171,
+      "total_score": 64.9769594059697,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -1577,7 +1577,7 @@
     "winstonjs/winston": {
       "full_name": "winstonjs/winston",
       "name": "winston",
-      "stargazers_count": 11406,
+      "stargazers_count": 11410,
       "popularity": 5,
       "percentage": 0.0835421888053467,
       "maturity": 4.065107062437231,

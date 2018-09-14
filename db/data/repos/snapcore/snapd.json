@@ -11,8 +11,8 @@
   "languages_url": "https://api.github.com/repos/snapcore/snapd/languages",
   "pulls_url": "https://api.github.com/repos/snapcore/snapd/pulls{/number}",
   "created_at": "2015-10-21T11:51:46Z",
-  "updated_at": "2018-09-13T15:56:33Z",
-  "pushed_at": "2018-09-13T16:46:51Z",
+  "updated_at": "2018-09-14T08:18:26Z",
+  "pushed_at": "2018-09-14T08:57:23Z",
   "homepage": "",
   "size": 72182,
   "stargazers_count": 998,
@@ -141,12 +141,12 @@
     "kyrofa": 338,
     "sergiocazzolato": 671,
     "fgimenez": 1108,
-    "bboozzoo": 1271,
+    "bboozzoo": 1272,
     "stolowski": 1499,
     "jdstrand": 1350,
     "chipaca": 1932,
     "pedronis": 2448,
-    "zyga": 5441,
+    "zyga": 5442,
     "mvo5": 8938,
     "snappy-m-o": 3,
     "aimileus": 1,
@@ -320,7 +320,7 @@
       "color": "#555555"
     },
     "Shell": {
-      "bytes": 194385,
+      "bytes": 194594,
       "color": "#89e051"
     },
     "Makefile": {
@@ -352,5 +352,5 @@
       "color": "#007800"
     }
   },
-  "fetched_at": "2018-09-13T17:02:53.188Z"
+  "fetched_at": "2018-09-14T09:09:37.036Z"
 }

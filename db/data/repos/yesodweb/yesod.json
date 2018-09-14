@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/yesodweb/yesod/languages",
   "pulls_url": "https://api.github.com/repos/yesodweb/yesod/pulls{/number}",
   "created_at": "2009-06-27T22:54:51Z",
-  "updated_at": "2018-09-12T13:30:17Z",
-  "pushed_at": "2018-08-20T07:11:58Z",
+  "updated_at": "2018-09-14T05:29:24Z",
+  "pushed_at": "2018-09-14T05:29:20Z",
   "homepage": "http://www.yesodweb.com/",
-  "size": 8212,
+  "size": 8217,
   "stargazers_count": 1981,
   "language": "Haskell",
   "mirror_url": null,
@@ -147,7 +147,7 @@
     "luite": 85,
     "meteficha": 92,
     "gregwebs": 427,
-    "snoyberg": 2994,
+    "snoyberg": 2995,
     "hagiwaratakayuki": 6,
     "agreif": 2,
     "JaSpa": 2,
@@ -235,7 +235,8 @@
     "notogawa": 1,
     "ornicar": 1,
     "rkaminsk": 1,
-    "silky": 1
+    "silky": 1,
+    "oddvars": 1
   },
   "pulls_authors": [
     "StevenXL",
@@ -465,11 +466,12 @@
     "aculich",
     "alexkay",
     "PeterScott",
-    "alios"
+    "alios",
+    "oddvars"
   ],
   "languages": {
     "Haskell": {
-      "bytes": 951785,
+      "bytes": 951787,
       "color": "#5e5086"
     },
     "HTML": {
@@ -493,5 +495,5 @@
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-12T15:53:25.278Z"
+  "fetched_at": "2018-09-14T08:37:06.996Z"
 }

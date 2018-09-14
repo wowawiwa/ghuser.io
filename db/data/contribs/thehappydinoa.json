@@ -82,13 +82,13 @@
     "aboul3la/Sublist3r": {
       "full_name": "aboul3la/Sublist3r",
       "name": "Sublist3r",
-      "stargazers_count": 2547,
-      "popularity": 4.405914544014422,
+      "stargazers_count": 2548,
+      "popularity": 4.406085082964009,
       "percentage": 0,
       "maturity": 2.6048763698809907,
       "total_commits_count": 80,
-      "activity": 2.486949985761633,
-      "total_score": 20.91444635756688,
+      "activity": 2.4629134895974767,
+      "total_score": 20.890921478251485,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -199,13 +199,13 @@
     "Manisso/fsociety": {
       "full_name": "Manisso/fsociety",
       "name": "fsociety",
-      "stargazers_count": 3222,
-      "popularity": 4.508043295269139,
+      "stargazers_count": 3225,
+      "popularity": 4.508447591037599,
       "percentage": 34.30232558139535,
       "maturity": 3.1226378244491784,
       "total_commits_count": 172,
       "activity": 5,
-      "total_score": 44.87213348512106,
+      "total_score": 44.87514924948696,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -238,13 +238,13 @@
     "NullArray/AutoSploit": {
       "full_name": "NullArray/AutoSploit",
       "name": "AutoSploit",
-      "stargazers_count": 3216,
-      "popularity": 4.507233572869725,
+      "stargazers_count": 3218,
+      "popularity": 4.507503648114347,
       "percentage": 1.3513513513513513,
       "maturity": 3.035560409551506,
       "total_commits_count": 148,
-      "activity": 2.44126690138814,
-      "total_score": 22.825899742442306,
+      "activity": 2.4291914009673765,
+      "total_score": 22.81468191340649,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -648,6 +648,19 @@
       "total_commits_count": 8,
       "activity": 5,
       "total_score": 5,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Ekultek/Checkers": {
+      "full_name": "Ekultek/Checkers",
+      "name": "Checkers",
+      "stargazers_count": 3,
+      "popularity": 1.3222565221025262,
+      "percentage": 11.11111111111111,
+      "maturity": 0,
+      "total_commits_count": 9,
+      "activity": 5,
+      "total_score": 10.876695653789007,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     }

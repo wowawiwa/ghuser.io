@@ -10,10 +10,10 @@
   "url": "https://api.github.com/repos/js-org/js.org",
   "languages_url": "https://api.github.com/repos/js-org/js.org/languages",
   "created_at": "2015-04-08T01:43:18Z",
-  "updated_at": "2018-09-13T19:29:06Z",
-  "pushed_at": "2018-09-13T11:53:40Z",
+  "updated_at": "2018-09-14T06:38:22Z",
+  "pushed_at": "2018-09-14T06:38:20Z",
   "homepage": "https://js.org",
-  "size": 2871,
+  "size": 2998,
   "stargazers_count": 1893,
   "language": "JavaScript",
   "mirror_url": null,
@@ -141,7 +141,7 @@
     "tannerlinsley": 15,
     "pakastin": 16,
     "egoist": 16,
-    "indus": 1918,
+    "indus": 1922,
     "ccrraaiigg": 3,
     "danieljuarezp": 3,
     "dhruvdutt": 3,
@@ -359,7 +359,7 @@
     "abranhe": 2,
     "axelgreavette": 1,
     "chrisenytc": 2,
-    "atomicptr": 2,
+    "atomicptr": 1,
     "wuz": 1,
     "nxse": 1,
     "guycreate": 1,
@@ -428,7 +428,7 @@
     "Mechazawa": 1,
     "beaugunderson": 1,
     "benedfit": 1,
-    "nebrelbug": 1,
+    "nebrelbug": 4,
     "ivebencrazy": 1,
     "binggg": 1,
     "bertfreudenberg": 1,
@@ -514,15 +514,16 @@
     "Sphinxxxx": 1,
     "dongwenxiao": 2,
     "scriptex": 1,
-    "Zachify": 3
+    "Zachify": 3,
+    "ickerio": 2
   },
   "languages": {
     "JavaScript": {
-      "bytes": 85271,
+      "bytes": 85398,
       "color": "#f1e05a"
     }
   },
-  "fetched_at": "2018-09-13T23:42:10.257Z",
+  "fetched_at": "2018-09-14T08:21:42.709Z",
   "pulls_url": "https://api.github.com/repos/js-org/js.org/pulls{/number}",
   "pulls_authors": [
     "ChandZhang",
@@ -1936,6 +1937,8 @@
     "scriptex",
     "kodipe",
     "douglasjunior",
-    "Zachify"
+    "Zachify",
+    "x-cold",
+    "jeovazero"
   ]
 }

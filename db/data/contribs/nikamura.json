@@ -4,7 +4,7 @@
     "huge-success/sanic": {
       "full_name": "huge-success/sanic",
       "name": "sanic",
-      "stargazers_count": 10219,
+      "stargazers_count": 10226,
       "popularity": 5,
       "percentage": 0.061690314620604564,
       "maturity": 4.200695547682062,
@@ -30,13 +30,13 @@
     "mbleigh/seed-fu": {
       "full_name": "mbleigh/seed-fu",
       "name": "seed-fu",
-      "stargazers_count": 1043,
-      "popularity": 4.017948480799181,
+      "stargazers_count": 1044,
+      "popularity": 4.018365030309009,
       "percentage": 0,
       "maturity": 2.718570715884442,
       "total_commits_count": 92,
-      "activity": 1.8414427851287454,
-      "total_score": 19.332429659295176,
+      "activity": 1.819987304966006,
+      "total_score": 19.312223827661917,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -56,13 +56,13 @@
     "aksonov/react-native-router-flux": {
       "full_name": "aksonov/react-native-router-flux",
       "name": "react-native-router-flux",
-      "stargazers_count": 7573,
-      "popularity": 4.879255428922948,
+      "stargazers_count": 7576,
+      "popularity": 4.879427458534269,
       "percentage": 0.13280212483399734,
       "maturity": 3.854886512054834,
       "total_commits_count": 753,
       "activity": 5,
-      "total_score": 27.431776124392456,
+      "total_score": 27.432295183193148,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

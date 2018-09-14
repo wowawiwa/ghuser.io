@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/neomake/neomake/languages",
   "pulls_url": "https://api.github.com/repos/neomake/neomake/pulls{/number}",
   "created_at": "2014-11-12T06:34:12Z",
-  "updated_at": "2018-09-12T21:39:14Z",
-  "pushed_at": "2018-09-12T21:39:11Z",
+  "updated_at": "2018-09-14T00:58:19Z",
+  "pushed_at": "2018-09-14T01:29:53Z",
   "homepage": "",
-  "size": 4203,
+  "size": 4101,
   "stargazers_count": 1927,
   "language": "Vim script",
   "mirror_url": null,
@@ -251,7 +251,8 @@
     "still-dreaming-1": 1,
     "sunbubble": 1,
     "timfeirg": 1,
-    "lilydjwg": 1
+    "lilydjwg": 1,
+    "okhin": 1
   },
   "pulls_authors": [
     "blueyed",
@@ -538,7 +539,7 @@
   ],
   "languages": {
     "Vim script": {
-      "bytes": 391046,
+      "bytes": 392878,
       "color": "#199f4b"
     },
     "Makefile": {
@@ -554,5 +555,5 @@
       "color": "#3572A5"
     }
   },
-  "fetched_at": "2018-09-12T23:52:52.028Z"
+  "fetched_at": "2018-09-14T08:28:36.026Z"
 }

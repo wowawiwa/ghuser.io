@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/rust-lang/rust/languages",
   "pulls_url": "https://api.github.com/repos/rust-lang/rust/pulls{/number}",
   "created_at": "2010-06-16T20:39:03Z",
-  "updated_at": "2018-09-13T22:38:08Z",
-  "pushed_at": "2018-09-13T23:14:14Z",
+  "updated_at": "2018-09-14T07:09:16Z",
+  "pushed_at": "2018-09-14T07:18:32Z",
   "homepage": "https://www.rust-lang.org",
-  "size": 392778,
-  "stargazers_count": 30610,
+  "size": 392945,
+  "stargazers_count": 30616,
   "language": "Rust",
   "mirror_url": null,
   "archived": false,
@@ -101,7 +101,7 @@
     "tbu-": 186,
     "apasel422": 186,
     "QuietMisdreavus": 188,
-    "kennytm": 1350,
+    "kennytm": 1361,
     "brendanzab": 196,
     "Gankro": 228,
     "sanxiyn": 276,
@@ -122,12 +122,12 @@
     "SimonSapin": 366,
     "Manishearth": 1954,
     "frewsxcv": 1072,
-    "estebank": 429,
+    "estebank": 433,
     "msullivan": 432,
     "Mark-Simulacrum": 776,
     "varkor": 458,
     "solson": 573,
-    "RalfJung": 503,
+    "RalfJung": 504,
     "arielb1": 689,
     "petrochenkov": 643,
     "nrc": 659,
@@ -136,20 +136,20 @@
     "thestinger": 780,
     "jseyfried": 813,
     "huonw": 809,
-    "michaelwoerister": 890,
+    "michaelwoerister": 891,
     "pnkfelix": 925,
     "steveklabnik": 1767,
     "marijnh": 1007,
     "eddyb": 1294,
-    "GuillaumeGomez": 1689,
+    "GuillaumeGomez": 1692,
     "oli-obk": 506,
     "catamorphism": 1523,
     "graydon": 2228,
     "pcwalton": 2828,
-    "alexcrichton": 4681,
+    "alexcrichton": 4682,
     "nikomatsakis": 3643,
     "brson": 5503,
-    "bors": 13633,
+    "bors": 13636,
     "jonathandturner": 277,
     "kmcallister": 146,
     "pietroalbini": 116,
@@ -189,7 +189,7 @@
     "elly": 52,
     "anasazi": 52,
     "vhbit": 52,
-    "Aaronepower": 52,
+    "Aaronepower": 53,
     "matklad": 51,
     "irinagpopa": 50,
     "Havvy": 50,
@@ -317,7 +317,7 @@
     "SiegeLord": 20,
     "thomaslee": 20,
     "hackeryarn": 20,
-    "F001": 20,
+    "F001": 22,
     "christianpoveda": 19,
     "dirk": 19,
     "Eh2406": 19,
@@ -3092,7 +3092,7 @@
   ],
   "languages": {
     "Rust": {
-      "bytes": 34368800,
+      "bytes": 34383951,
       "color": "#dea584"
     },
     "Python": {
@@ -3100,7 +3100,7 @@
       "color": "#3572A5"
     },
     "JavaScript": {
-      "bytes": 129902,
+      "bytes": 130813,
       "color": "#f1e05a"
     },
     "C++": {
@@ -3108,11 +3108,11 @@
       "color": "#f34b7d"
     },
     "Shell": {
-      "bytes": 94437,
+      "bytes": 94509,
       "color": "#89e051"
     },
     "Makefile": {
-      "bytes": 92784,
+      "bytes": 93282,
       "color": "#427819"
     },
     "Yacc": {
@@ -3176,5 +3176,5 @@
       "color": "#6E4C13"
     }
   },
-  "fetched_at": "2018-09-13T23:48:54.430Z"
+  "fetched_at": "2018-09-14T08:28:21.214Z"
 }

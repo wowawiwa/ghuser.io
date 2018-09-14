@@ -199,13 +199,13 @@
     "devopsgroup-io/vagrant-digitalocean": {
       "full_name": "devopsgroup-io/vagrant-digitalocean",
       "name": "vagrant-digitalocean",
-      "stargazers_count": 1695,
-      "popularity": 4.228978128802579,
+      "stargazers_count": 1696,
+      "popularity": 4.229234410224042,
       "percentage": 0.4854368932038835,
       "maturity": 3.222104907801443,
       "total_commits_count": 206,
-      "activity": 1.4889340035357397,
-      "total_score": 20.886955466101867,
+      "activity": 1.4814569202893653,
+      "total_score": 20.880263400219295,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -264,13 +264,13 @@
     "box/spout": {
       "full_name": "box/spout",
       "name": "spout",
-      "stargazers_count": 1721,
-      "popularity": 4.235592782233668,
+      "stargazers_count": 1722,
+      "popularity": 4.235845190984335,
       "percentage": 0.8547008547008547,
       "maturity": 2.8887884491162428,
       "total_commits_count": 117,
       "activity": 5,
-      "total_score": 23.954976665181675,
+      "total_score": 23.95576193685042,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -420,7 +420,7 @@
     "fzaninotto/Faker": {
       "full_name": "fzaninotto/Faker",
       "name": "Faker",
-      "stargazers_count": 17245,
+      "stargazers_count": 17248,
       "popularity": 5,
       "percentage": 0.046146746654360866,
       "maturity": 4.329524144737326,

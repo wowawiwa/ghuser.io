@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/houndci/hound/languages",
   "pulls_url": "https://api.github.com/repos/houndci/hound/pulls{/number}",
   "created_at": "2013-01-02T18:12:40Z",
-  "updated_at": "2018-09-12T04:05:11Z",
-  "pushed_at": "2018-09-12T04:05:11Z",
+  "updated_at": "2018-09-14T03:53:49Z",
+  "pushed_at": "2018-09-14T03:53:51Z",
   "homepage": "https://houndci.com",
-  "size": 4665,
-  "stargazers_count": 1601,
+  "size": 4630,
+  "stargazers_count": 1602,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -131,8 +131,8 @@
     "thorncp": 52,
     "teoljungberg": 68,
     "tysongach": 70,
-    "salbertson": 251,
-    "gylaz": 302
+    "salbertson": 252,
+    "gylaz": 303
   },
   "pulls_authors": [
     "gylaz",
@@ -277,19 +277,19 @@
   ],
   "languages": {
     "Ruby": {
-      "bytes": 466811,
+      "bytes": 464353,
       "color": "#701516"
     },
     "JavaScript": {
-      "bytes": 53423,
+      "bytes": 53654,
       "color": "#f1e05a"
     },
     "CSS": {
-      "bytes": 33382,
+      "bytes": 33121,
       "color": "#563d7c"
     },
     "HTML": {
-      "bytes": 18736,
+      "bytes": 19102,
       "color": "#e34c26"
     },
     "Shell": {
@@ -297,5 +297,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-12T07:34:57.143Z"
+  "fetched_at": "2018-09-14T08:31:01.302Z"
 }

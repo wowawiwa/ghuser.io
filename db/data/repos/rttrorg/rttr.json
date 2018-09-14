@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/rttrorg/rttr/languages",
   "pulls_url": "https://api.github.com/repos/rttrorg/rttr/pulls{/number}",
   "created_at": "2015-12-15T18:52:32Z",
-  "updated_at": "2018-09-10T12:41:08Z",
-  "pushed_at": "2018-09-10T08:51:59Z",
+  "updated_at": "2018-09-14T06:50:03Z",
+  "pushed_at": "2018-09-14T06:50:01Z",
   "homepage": "http://www.rttr.org",
   "size": 6592,
-  "stargazers_count": 651,
+  "stargazers_count": 652,
   "language": "C++",
   "mirror_url": null,
   "archived": false,
@@ -59,7 +59,7 @@
     "mgee": 2,
     "gabyx": 3,
     "taketwo": 5,
-    "acki-m": 585
+    "acki-m": 586
   },
   "pulls_authors": [
     "dand-oss",
@@ -80,7 +80,7 @@
   ],
   "languages": {
     "C++": {
-      "bytes": 2669943,
+      "bytes": 2671119,
       "color": "#f34b7d"
     },
     "CMake": {
@@ -88,5 +88,5 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-09-11T17:08:23.261Z"
+  "fetched_at": "2018-09-14T08:25:17.842Z"
 }

@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/facebook/nuclide/languages",
   "pulls_url": "https://api.github.com/repos/facebook/nuclide/pulls{/number}",
   "created_at": "2015-03-02T05:25:27Z",
-  "updated_at": "2018-09-13T22:58:08Z",
-  "pushed_at": "2018-09-13T22:58:06Z",
+  "updated_at": "2018-09-14T06:28:54Z",
+  "pushed_at": "2018-09-14T06:28:53Z",
   "homepage": "https://nuclide.io",
-  "size": 163499,
+  "size": 163505,
   "stargazers_count": 7891,
   "language": "JavaScript",
   "mirror_url": null,
@@ -107,7 +107,7 @@
     "dbonafilia": 34,
     "rholinshead": 36,
     "mareksapota-fb": 40,
-    "rameshvarun": 45,
+    "rameshvarun": 46,
     "aadsm": 49,
     "oclbdk": 50,
     "drmathochist": 53,
@@ -132,7 +132,7 @@
     "velocityboy": 193,
     "shushz": 195,
     "aadisriram": 215,
-    "pelmers": 231,
+    "pelmers": 233,
     "a20012251": 239,
     "yinghuitan": 278,
     "wbinnssmith": 294,
@@ -436,7 +436,7 @@
   ],
   "languages": {
     "JavaScript": {
-      "bytes": 8838970,
+      "bytes": 8839440,
       "color": "#f1e05a"
     },
     "Python": {
@@ -488,5 +488,5 @@
       "color": "#4F5D95"
     }
   },
-  "fetched_at": "2018-09-13T23:44:07.055Z"
+  "fetched_at": "2018-09-14T08:23:31.653Z"
 }

@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/nikita-volkov/neat-interpolation/languages",
   "pulls_url": "https://api.github.com/repos/nikita-volkov/neat-interpolation/pulls{/number}",
   "created_at": "2013-03-14T23:51:58Z",
-  "updated_at": "2018-09-05T17:01:03Z",
-  "pushed_at": "2018-09-05T17:01:02Z",
+  "updated_at": "2018-09-14T01:47:50Z",
+  "pushed_at": "2018-09-14T01:47:54Z",
   "homepage": "http://hackage.haskell.org/package/neat-interpolation",
-  "size": 31,
+  "size": 33,
   "stargazers_count": 25,
   "language": "Haskell",
   "mirror_url": null,
@@ -34,7 +34,7 @@
     "neongreen": 1,
     "rasendubi": 1,
     "vrom911": 3,
-    "nikita-volkov": 28
+    "nikita-volkov": 30
   },
   "pulls_authors": [
     "vrom911",
@@ -48,9 +48,9 @@
   ],
   "languages": {
     "Haskell": {
-      "bytes": 7985,
+      "bytes": 7666,
       "color": "#5e5086"
     }
   },
-  "fetched_at": "2018-09-08T00:07:46.392Z"
+  "fetched_at": "2018-09-14T08:38:57.809Z"
 }

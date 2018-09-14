@@ -123,11 +123,11 @@
       "name": "stackage",
       "stargazers_count": 350,
       "popularity": 3.542988926270977,
-      "percentage": 0.018608113137327874,
+      "percentage": 0.018601190476190476,
       "maturity": 5,
-      "total_commits_count": 10748,
+      "total_commits_count": 10752,
       "activity": 5,
-      "total_score": 25.637537462854898,
+      "total_score": 25.63753427435637,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -212,13 +212,13 @@
     "bos/aeson": {
       "full_name": "bos/aeson",
       "name": "aeson",
-      "stargazers_count": 760,
-      "popularity": 3.880338074929916,
+      "stargazers_count": 761,
+      "popularity": 3.8809098160433613,
       "percentage": 0.06784260515603799,
       "maturity": 4.158315633582283,
       "total_commits_count": 1474,
       "activity": 5,
-      "total_score": 24.991868283659937,
+      "total_score": 24.993588549493133,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -277,13 +277,13 @@
     "ghc/ghc": {
       "full_name": "ghc/ghc",
       "name": "ghc",
-      "stargazers_count": 1942,
-      "popularity": 4.288086996231746,
+      "stargazers_count": 1941,
+      "popularity": 4.287863202305369,
       "percentage": 0,
       "maturity": 5,
       "total_commits_count": 44209,
       "activity": 5,
-      "total_score": 27.864260988695236,
+      "total_score": 27.863589606916108,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -331,11 +331,11 @@
       "name": "Paket",
       "stargazers_count": 1313,
       "popularity": 4.118006021166083,
-      "percentage": 0.026595744680851064,
+      "percentage": 0.026588673225206062,
       "maturity": 5,
-      "total_commits_count": 11280,
+      "total_commits_count": 11283,
       "activity": 5,
-      "total_score": 27.368255850273556,
+      "total_score": 27.36825206463496,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },
@@ -442,6 +442,19 @@
       "total_score": 19.932774605960276,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
+    },
+    "typeable/stackage2nix": {
+      "full_name": "typeable/stackage2nix",
+      "name": "stackage2nix",
+      "stargazers_count": 37,
+      "popularity": 2.5575461822849728,
+      "percentage": 0,
+      "maturity": 3.0064857601990567,
+      "total_commits_count": 141,
+      "activity": 5,
+      "total_score": 18.68561006725303,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
     }
   },
   "organizations": [
@@ -457,6 +470,7 @@
     "purescript-contrib",
     "ghc",
     "slamdata",
-    "fsprojects"
+    "fsprojects",
+    "typeable"
   ]
 }

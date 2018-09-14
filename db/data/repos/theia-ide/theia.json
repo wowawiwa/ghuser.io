@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/theia-ide/theia/languages",
   "pulls_url": "https://api.github.com/repos/theia-ide/theia/pulls{/number}",
   "created_at": "2017-02-24T14:42:05Z",
-  "updated_at": "2018-09-13T22:52:21Z",
-  "pushed_at": "2018-09-13T17:07:43Z",
+  "updated_at": "2018-09-14T06:44:49Z",
+  "pushed_at": "2018-09-14T08:20:22Z",
   "homepage": "http://theia-ide.org",
-  "size": 123531,
-  "stargazers_count": 1451,
+  "size": 123525,
+  "stargazers_count": 1453,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -77,10 +77,10 @@
     "pierregoutagny": 11,
     "lmcgupe": 12,
     "vitaliy-guliy": 13,
-    "mmorhun": 16,
+    "mmorhun": 17,
     "MarkZ3": 17,
     "lmcbout": 18,
-    "evidolob": 19,
+    "evidolob": 20,
     "JanKoehnlein": 20,
     "vince-fugnitto": 21,
     "elaihau": 21,
@@ -169,7 +169,7 @@
   ],
   "languages": {
     "TypeScript": {
-      "bytes": 3985536,
+      "bytes": 3993394,
       "color": "#2b7489"
     },
     "CSS": {
@@ -189,5 +189,5 @@
       "color": "#C1F12E"
     }
   },
-  "fetched_at": "2018-09-13T23:52:03.626Z"
+  "fetched_at": "2018-09-14T08:31:52.141Z"
 }

@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/everypolitician-scrapers/russia-duma-2016/languages",
   "pulls_url": "https://api.github.com/repos/everypolitician-scrapers/russia-duma-2016/pulls{/number}",
   "created_at": "2016-10-13T08:15:15Z",
-  "updated_at": "2017-01-27T10:32:55Z",
-  "pushed_at": "2018-09-11T10:35:37Z",
+  "updated_at": "2018-09-14T05:17:05Z",
+  "pushed_at": "2018-09-14T05:17:03Z",
   "homepage": "https://morph.io/everypolitician-scrapers/russia-duma-2016",
-  "size": 133323,
+  "size": 131129,
   "stargazers_count": 1,
   "language": "Ruby",
   "mirror_url": null,
@@ -43,7 +43,7 @@
   },
   "contributors": {
     "chrismytton": 11,
-    "tmtmtmtm": 25
+    "tmtmtmtm": 28
   },
   "pulls_authors": [
     "tmtmtmtm",
@@ -52,9 +52,9 @@
   ],
   "languages": {
     "Ruby": {
-      "bytes": 7307,
+      "bytes": 7368,
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-09-12T04:59:32.502Z"
+  "fetched_at": "2018-09-14T08:24:41.161Z"
 }

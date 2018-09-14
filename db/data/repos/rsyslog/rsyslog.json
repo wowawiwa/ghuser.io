@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/rsyslog/rsyslog/languages",
   "pulls_url": "https://api.github.com/repos/rsyslog/rsyslog/pulls{/number}",
   "created_at": "2013-06-03T15:57:55Z",
-  "updated_at": "2018-09-13T18:28:25Z",
-  "pushed_at": "2018-09-13T19:46:02Z",
+  "updated_at": "2018-09-14T08:43:57Z",
+  "pushed_at": "2018-09-14T08:43:54Z",
   "homepage": "http://www.rsyslog.com",
-  "size": 51188,
-  "stargazers_count": 805,
+  "size": 51287,
+  "stargazers_count": 806,
   "language": "C",
   "mirror_url": null,
   "archived": false,
@@ -123,9 +123,9 @@
     "davidelang": 8,
     "sskaje": 12,
     "mcarpenter": 9,
-    "richm": 11,
+    "richm": 12,
     "dmolik": 11,
-    "jsiwrk": 13,
+    "jsiwrk": 14,
     "friedl": 13,
     "vii5ard": 16,
     "teifler": 16,
@@ -142,12 +142,12 @@
     "Whissi": 46,
     "taotetek": 59,
     "mbiebl": 60,
-    "PascalWithopf": 89,
+    "PascalWithopf": 90,
     "jgerhards": 108,
     "janmejay": 155,
     "theinric": 199,
     "alorbach": 328,
-    "rgerhards": 10763,
+    "rgerhards": 10769,
     "WaeCo": 3,
     "artbristol": 2,
     "infracaninophile": 2,
@@ -243,7 +243,8 @@
     "Sapiophile": 1,
     "schneems": 1,
     "treydempsey": 1,
-    "vtomec": 1
+    "vtomec": 1,
+    "jeverakes": 1
   },
   "pulls_authors": [
     "richm",
@@ -444,11 +445,11 @@
   ],
   "languages": {
     "C": {
-      "bytes": 4104561,
+      "bytes": 4108956,
       "color": "#555555"
     },
     "Shell": {
-      "bytes": 1070288,
+      "bytes": 1091208,
       "color": "#89e051"
     },
     "JavaScript": {
@@ -456,7 +457,7 @@
       "color": "#f1e05a"
     },
     "C++": {
-      "bytes": 126958,
+      "bytes": 126983,
       "color": "#f34b7d"
     },
     "M4": {
@@ -464,7 +465,7 @@
       "color": "#ccc"
     },
     "Makefile": {
-      "bytes": 85121,
+      "bytes": 85785,
       "color": "#427819"
     },
     "Python": {
@@ -500,5 +501,5 @@
       "color": "#701516"
     }
   },
-  "fetched_at": "2018-09-14T00:19:21.786Z"
+  "fetched_at": "2018-09-14T09:11:35.740Z"
 }

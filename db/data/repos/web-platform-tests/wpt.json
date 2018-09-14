@@ -11,10 +11,10 @@
   "languages_url": "https://api.github.com/repos/web-platform-tests/wpt/languages",
   "pulls_url": "https://api.github.com/repos/web-platform-tests/wpt/pulls{/number}",
   "created_at": "2012-03-04T12:58:11Z",
-  "updated_at": "2018-09-13T22:45:34Z",
-  "pushed_at": "2018-09-13T22:45:24Z",
+  "updated_at": "2018-09-14T08:17:47Z",
+  "pushed_at": "2018-09-14T08:19:17Z",
   "homepage": "http://irc.w3.org/?channels=testing",
-  "size": 303585,
+  "size": 303613,
   "stargazers_count": 1772,
   "language": "HTML",
   "mirror_url": null,
@@ -143,7 +143,7 @@
     "ayg": 418,
     "foolip": 460,
     "gsnedders": 535,
-    "annevk": 564,
+    "annevk": 565,
     "zcorpan": 843,
     "rhauck": 931,
     "jgraham": 3131,
@@ -179,7 +179,7 @@
     "hwanseung": 28,
     "metromoxie": 28,
     "kristijanburnik": 28,
-    "autofoolip": 32,
+    "autofoolip": 35,
     "sunyunjia": 28,
     "betravis": 27,
     "henbos": 27,
@@ -346,7 +346,7 @@
     "snuggs": 8,
     "rocallahan": 8,
     "sfuqua": 8,
-    "chihweitung": 8,
+    "chihweitung": 15,
     "girliemac": 8,
     "finscn": 8,
     "ArthurSonzogni": 8,
@@ -1008,11 +1008,11 @@
   ],
   "languages": {
     "HTML": {
-      "bytes": 89054066,
+      "bytes": 89055224,
       "color": "#e34c26"
     },
     "JavaScript": {
-      "bytes": 8905767,
+      "bytes": 8905852,
       "color": "#f1e05a"
     },
     "Python": {
@@ -1056,5 +1056,5 @@
       "color": "#ecdebe"
     }
   },
-  "fetched_at": "2018-09-13T23:48:58.234Z"
+  "fetched_at": "2018-09-14T08:28:25.489Z"
 }

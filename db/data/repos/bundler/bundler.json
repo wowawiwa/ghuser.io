@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/bundler/bundler/languages",
   "pulls_url": "https://api.github.com/repos/bundler/bundler/pulls{/number}",
   "created_at": "2010-01-26T00:46:38Z",
-  "updated_at": "2018-09-13T13:10:30Z",
-  "pushed_at": "2018-09-13T13:10:24Z",
+  "updated_at": "2018-09-14T07:33:03Z",
+  "pushed_at": "2018-09-14T07:32:59Z",
   "homepage": "https://bundler.io",
-  "size": 34801,
-  "stargazers_count": 4297,
+  "size": 34804,
+  "stargazers_count": 4299,
   "language": "Ruby",
   "mirror_url": null,
   "archived": false,
@@ -143,7 +143,7 @@
     "RochesterinNYC": 106,
     "asutoshpalai": 124,
     "colby-swandale": 147,
-    "bundlerbot": 719,
+    "bundlerbot": 720,
     "josevalim": 391,
     "hone": 445,
     "segiddins": 1329,
@@ -175,7 +175,7 @@
     "joelvh": 4,
     "jonathanpike": 4,
     "josh": 4,
-    "walf443": 4,
+    "walf443": 5,
     "keiths-osc": 4,
     "kerrizor": 4,
     "kevmoo": 4,
@@ -1287,7 +1287,7 @@
   ],
   "languages": {
     "Ruby": {
-      "bytes": 1838844,
+      "bytes": 1838937,
       "color": "#701516"
     },
     "Shell": {
@@ -1295,5 +1295,5 @@
       "color": "#89e051"
     }
   },
-  "fetched_at": "2018-09-13T16:23:29.122Z"
+  "fetched_at": "2018-09-14T08:21:04.755Z"
 }

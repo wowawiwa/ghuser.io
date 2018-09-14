@@ -147,13 +147,13 @@
     "ArduPilot/ardupilot": {
       "full_name": "ArduPilot/ardupilot",
       "name": "ardupilot",
-      "stargazers_count": 3461,
-      "popularity": 4.539127737998661,
-      "percentage": 0.0032172961842867253,
+      "stargazers_count": 3463,
+      "popularity": 4.5393786954949,
+      "percentage": 0.0032171926776694655,
       "maturity": 5,
-      "total_commits_count": 31082,
+      "total_commits_count": 31083,
       "activity": 5,
-      "total_score": 28.619281697381673,
+      "total_score": 28.62003461375174,
       "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
       "max_total_score": 95
     },

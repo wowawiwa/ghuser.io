@@ -11,11 +11,11 @@
   "languages_url": "https://api.github.com/repos/Microsoft/vscode/languages",
   "pulls_url": "https://api.github.com/repos/Microsoft/vscode/pulls{/number}",
   "created_at": "2015-09-03T20:23:38Z",
-  "updated_at": "2018-09-13T23:43:33Z",
-  "pushed_at": "2018-09-13T22:51:24Z",
+  "updated_at": "2018-09-14T08:15:27Z",
+  "pushed_at": "2018-09-14T08:14:55Z",
   "homepage": "https://code.visualstudio.com",
-  "size": 157498,
-  "stargazers_count": 59213,
+  "size": 157513,
+  "stargazers_count": 59248,
   "language": "TypeScript",
   "mirror_url": null,
   "archived": false,
@@ -127,7 +127,7 @@
     "Lixire": 111,
     "JacksonKearl": 156,
     "sbatten": 225,
-    "egamma": 231,
+    "egamma": 232,
     "octref": 243,
     "kieferrm": 243,
     "RMacfarlane": 243,
@@ -135,18 +135,18 @@
     "dstorey": 310,
     "rebornix": 711,
     "weinand": 697,
-    "ramya-rao-a": 703,
+    "ramya-rao-a": 704,
     "dbaeumer": 752,
     "chrmarti": 708,
-    "roblourens": 1589,
-    "Tyriar": 2172,
+    "roblourens": 1592,
+    "Tyriar": 2173,
     "aeschli": 2103,
     "mjbvz": 2200,
     "sandy081": 2287,
-    "alexandrudima": 3353,
+    "alexandrudima": 3354,
     "isidorn": 3454,
     "jrieken": 4136,
-    "joaomoreno": 4758,
+    "joaomoreno": 4760,
     "bpasero": 5393,
     "melvin0008": 7,
     "noahjg": 7,
@@ -431,7 +431,8 @@
     "raix": 2,
     "segevfiner": 2,
     "1AmNegan": 2,
-    "brunofin": 1
+    "brunofin": 1,
+    "jjyyxx": 2
   },
   "pulls_authors": [
     "headmelted",
@@ -1551,11 +1552,13 @@
     "lszomoru",
     "knitesh",
     "andreamazza89",
-    "skprabhanjan"
+    "skprabhanjan",
+    "helsont",
+    "DBjelovuk"
   ],
   "languages": {
     "TypeScript": {
-      "bytes": 18839978,
+      "bytes": 18841161,
       "color": "#2b7489"
     },
     "JavaScript": {
@@ -1687,5 +1690,5 @@
       "color": "#ccc"
     }
   },
-  "fetched_at": "2018-09-13T23:48:10.719Z"
+  "fetched_at": "2018-09-14T08:27:33.037Z"
 }
